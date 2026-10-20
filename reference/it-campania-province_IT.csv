@@ -1,0 +1,6 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"64","Avellino","avellino","AV","false","15","Campania","campania","118"
+"62","Benevento","benevento","BN","false","15","Campania","campania","78"
+"61","Caserta","caserta","CE","false","15","Campania","campania","104"
+"263","Napoli","napoli","NA","true","15","Campania","campania","92"
+"65","Salerno","salerno","SA","false","15","Campania","campania","158"

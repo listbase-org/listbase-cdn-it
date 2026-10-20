@@ -1,0 +1,220 @@
+{
+  "id": "it-ragusa-comuni",
+  "name": "Comuni della provincia di Ragusa",
+  "title": "Comuni della provincia di Ragusa",
+  "description": "Elenco dei 12 comuni della provincia di Ragusa (sigla RG), regione Sicilia. List of 12 comuni in the province of Ragusa (RG), Sicilia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 88001,
+      "nome": "Acate",
+      "slug": "acate",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88002,
+      "nome": "Chiaramonte Gulfi",
+      "slug": "chiaramonte-gulfi",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88003,
+      "nome": "Comiso",
+      "slug": "comiso",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88004,
+      "nome": "Giarratana",
+      "slug": "giarratana",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88005,
+      "nome": "Ispica",
+      "slug": "ispica",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88006,
+      "nome": "Modica",
+      "slug": "modica",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88007,
+      "nome": "Monterosso Almo",
+      "slug": "monterosso-almo",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88008,
+      "nome": "Pozzallo",
+      "slug": "pozzallo",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88009,
+      "nome": "Ragusa",
+      "slug": "ragusa",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88010,
+      "nome": "Santa Croce Camerina",
+      "slug": "santa-croce-camerina",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88011,
+      "nome": "Scicli",
+      "slug": "scicli",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 88012,
+      "nome": "Vittoria",
+      "slug": "vittoria",
+      "provincia_id": 88,
+      "provincia_nome": "Ragusa",
+      "provincia_sigla": "RG",
+      "provincia_slug": "ragusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Ragusa - Download gratuito",
+    "description": "Elenco dei 12 comuni della provincia di Ragusa (sigla RG), regione Sicilia. List of 12 comuni in the province of Ragusa (RG), Sicilia region. Contiene 12 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Ragusa | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Ragusa — 12 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

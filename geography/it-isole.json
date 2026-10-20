@@ -1,0 +1,4894 @@
+{
+  "id": "it-isole",
+  "name": "Isole in Italia",
+  "title": "Isole in Italia",
+  "description": "Elenco delle isole in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 537,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2273136",
+      "name_it": "",
+      "name_en": "Abbatoggia",
+      "latitude": 41.253056,
+      "longitude": 9.399444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2273136"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1705556",
+      "name_it": "Aleghero",
+      "name_en": "Aleghero",
+      "latitude": 45.208469,
+      "longitude": 12.258253,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1705556"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q175783",
+      "name_it": "Ammiana",
+      "name_en": "Ammiana",
+      "latitude": 45.5089,
+      "longitude": 12.4545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q175783"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q750010",
+      "name_it": "Arcipelago del Sulcis",
+      "name_en": "Archipelago of Sulcis",
+      "latitude": 39.116667,
+      "longitude": 8.366667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q750010"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q730500",
+      "name_it": "Asinara",
+      "name_en": "Asinara",
+      "latitude": 41.066667,
+      "longitude": 8.266667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q730500"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q807312",
+      "name_it": "Barbana",
+      "name_en": "Barbana",
+      "latitude": 45.7032,
+      "longitude": 13.423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q807312"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2055442",
+      "name_it": "",
+      "name_en": "Barrettinelli di Fuori",
+      "latitude": 41.301389,
+      "longitude": 9.400833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2055442"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q893557",
+      "name_it": "",
+      "name_en": "Borgo San Giovanni",
+      "latitude": 45.192683,
+      "longitude": 12.293014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q893557"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3643066",
+      "name_it": "Bottaro",
+      "name_en": "Bottaro",
+      "latitude": 38.637778,
+      "longitude": 15.110278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3643066"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1001703",
+      "name_it": "Buel del Lovo",
+      "name_en": "Buel del Lovo",
+      "latitude": 45.49245,
+      "longitude": 12.37627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1001703"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q52439",
+      "name_it": "Burano",
+      "name_en": "Burano",
+      "latitude": 45.485556,
+      "longitude": 12.4175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52439"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q635108",
+      "name_it": "Campalto",
+      "name_en": "Campalto",
+      "latitude": 45.461472,
+      "longitude": 12.3185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q635108"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1030190",
+      "name_it": "Campana",
+      "name_en": "Campana",
+      "latitude": 45.383611,
+      "longitude": 12.285833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1030190"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1033791",
+      "name_it": "",
+      "name_en": "Cantieri",
+      "latitude": 45.219053,
+      "longitude": 12.282653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1033791"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q2382295",
+      "name_it": "",
+      "name_en": "Capicciolu",
+      "latitude": 41.309167,
+      "longitude": 9.369167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2382295"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3593349",
+      "name_it": "Capraia",
+      "name_en": "Capraia",
+      "latitude": 43.041667,
+      "longitude": 9.808333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3593349"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q845310",
+      "name_it": "Caprera",
+      "name_en": "Caprera",
+      "latitude": 41.2,
+      "longitude": 9.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q845310"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q928246",
+      "name_it": "Carbonera",
+      "name_en": "Carbonera",
+      "latitude": 45.480928,
+      "longitude": 12.352153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q928246"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q1047756",
+      "name_it": "",
+      "name_en": "Cason Millecampi",
+      "latitude": 45.296389,
+      "longitude": 12.196389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1047756"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q785764",
+      "name_it": "Cason Montiron",
+      "name_en": "Cason Montiron",
+      "latitude": 45.5539,
+      "longitude": 12.5096,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q785764"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1047764",
+      "name_it": "",
+      "name_en": "Cason Prime Poste",
+      "latitude": 45.296389,
+      "longitude": 12.196389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1047764"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1047759",
+      "name_it": "",
+      "name_en": "Casone Barenon",
+      "latitude": 45.309994,
+      "longitude": 12.192608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1047759"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1047762",
+      "name_it": "",
+      "name_en": "Casone del Cornio Vecchio",
+      "latitude": 45.324015,
+      "longitude": 12.254179,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1047762"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3661974",
+      "name_it": "Casse di colmata",
+      "name_en": "Casse di colmata",
+      "latitude": 45.3836,
+      "longitude": 12.247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3661974"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q3797043",
+      "name_it": "centro storico di Taranto",
+      "name_en": "Città Vecchia (Taranto)",
+      "latitude": 40.4757,
+      "longitude": 17.2293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3797043"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3667430",
+      "name_it": "Chianare di Spadera",
+      "name_en": "",
+      "latitude": 40.702222,
+      "longitude": 13.861944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3667430"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q2358510",
+      "name_it": "",
+      "name_en": "Chiesa",
+      "latitude": 41.213611,
+      "longitude": 9.418056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2358510"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4568755",
+      "name_it": "",
+      "name_en": "Corcelli",
+      "latitude": 41.294722,
+      "longitude": 9.400556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4568755"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q2201506",
+      "name_it": "Cretaccio",
+      "name_en": "Cretaccio",
+      "latitude": 42.121944,
+      "longitude": 15.500278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2201506"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q1139816",
+      "name_it": "Crevan",
+      "name_en": "Crevan",
+      "latitude": 45.477492,
+      "longitude": 12.433825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1139816"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q108280884",
+      "name_it": "Dattilo",
+      "name_en": "Dattilo",
+      "latitude": 38.638889,
+      "longitude": 15.097781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108280884"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1183780",
+      "name_it": "",
+      "name_en": "Del Buon Castello",
+      "latitude": 45.221089,
+      "longitude": 12.291222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1183780"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q2598285",
+      "name_it": "",
+      "name_en": "Della Paura",
+      "latitude": 41.196389,
+      "longitude": 9.396667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2598285"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q1165732",
+      "name_it": "Ex Poveglia",
+      "name_en": "Ex Poveglia",
+      "latitude": 45.37491,
+      "longitude": 12.29267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1165732"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q3739493",
+      "name_it": "Faraglione",
+      "name_en": "",
+      "latitude": 35.528889,
+      "longitude": 12.544167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739493"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q16555194",
+      "name_it": "Faraglione dell'isola del Giglio",
+      "name_en": "",
+      "latitude": 42.369444,
+      "longitude": 10.867222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555194"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q3739495",
+      "name_it": "Faraglione di Dietro Isola",
+      "name_en": "",
+      "latitude": 36.756944,
+      "longitude": 12.053056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739495"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q3739497",
+      "name_it": "Faraglione di Matermania",
+      "name_en": "Faraglione di Matermania",
+      "latitude": 40.551389,
+      "longitude": 14.26,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739497"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q3739498",
+      "name_it": "Faraglione di Mezzogiorno",
+      "name_en": "",
+      "latitude": 40.923056,
+      "longitude": 12.847778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739498"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q3739500",
+      "name_it": "Faraglione di Tracino",
+      "name_en": "",
+      "latitude": 36.798889,
+      "longitude": 12.052222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739500"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q21880741",
+      "name_it": "Faraglioni di Cea",
+      "name_en": "Faraglioni di Cea",
+      "latitude": 39.872222,
+      "longitude": 9.685417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880741"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3739501",
+      "name_it": "Faraglioni di Ciriga",
+      "name_en": "",
+      "latitude": 36.695007,
+      "longitude": 14.980174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739501"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q3739503",
+      "name_it": "Faraglioni di Linosa",
+      "name_en": "",
+      "latitude": 35.8675,
+      "longitude": 12.882222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739503"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q3739502",
+      "name_it": "Faraglioni di Lipari",
+      "name_en": "Faraglioni di Lipari",
+      "latitude": 38.439444,
+      "longitude": 14.943056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739502"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q50602363",
+      "name_it": "Fariglione",
+      "name_en": "",
+      "latitude": 37.986678,
+      "longitude": 12.328519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50602363"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q602671",
+      "name_it": "Fisolo",
+      "name_en": "Fisolo",
+      "latitude": 45.36306,
+      "longitude": 12.29087,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q602671"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q2630561",
+      "name_it": "Formica di Burano",
+      "name_en": "",
+      "latitude": 42.38056,
+      "longitude": 11.31167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2630561"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q16556881",
+      "name_it": "Formiche della Zanca",
+      "name_en": "Formiche della Zanca",
+      "latitude": 42.806389,
+      "longitude": 10.126389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16556881"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q16556884",
+      "name_it": "Formiche di Capraia",
+      "name_en": "Formiche di Capraia",
+      "latitude": 43.075278,
+      "longitude": 9.829722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16556884"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3757591",
+      "name_it": "Galera della Salina",
+      "name_en": "",
+      "latitude": 36.755,
+      "longitude": 12.052222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3757591"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q3792695",
+      "name_it": "Gallo Lungo",
+      "name_en": "Gallo Lungo",
+      "latitude": 40.58217,
+      "longitude": 14.43522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3792695"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q649030",
+      "name_it": "Ghetto di Venezia",
+      "name_en": "Venetian Ghetto",
+      "latitude": 45.445278,
+      "longitude": 12.326389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q649030"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q13409862",
+      "name_it": "Giglio",
+      "name_en": "Giglio",
+      "latitude": 42.35,
+      "longitude": 10.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13409862"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q52435",
+      "name_it": "Giudecca",
+      "name_en": "Giudecca",
+      "latitude": 45.425,
+      "longitude": 12.328611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52435"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3772015",
+      "name_it": "Gli Scoglietti",
+      "name_en": "",
+      "latitude": 36.735278,
+      "longitude": 12.026111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3772015"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q35969205",
+      "name_it": "Heraclia",
+      "name_en": "Heraclea",
+      "latitude": 45.638056,
+      "longitude": 12.658333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35969205"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q3790210",
+      "name_it": "I Due Fratelli",
+      "name_en": "I Due Fratelli",
+      "latitude": 40.666939,
+      "longitude": 14.729114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3790210"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q3790394",
+      "name_it": "I Piatti",
+      "name_en": "",
+      "latitude": 40.948056,
+      "longitude": 12.848889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3790394"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3792626",
+      "name_it": "Il Coniglio",
+      "name_en": "Il Coniglio",
+      "latitude": 40.023889,
+      "longitude": 15.294444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3792626"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q3792680",
+      "name_it": "Il Faraglione",
+      "name_en": "",
+      "latitude": 37.986567,
+      "longitude": 12.328622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3792680"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q3792692",
+      "name_it": "Il Fungo",
+      "name_en": "Il Fungo",
+      "latitude": 40.753611,
+      "longitude": 13.89,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3792692"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q1673755",
+      "name_it": "",
+      "name_en": "Isca",
+      "latitude": 40.587778,
+      "longitude": 14.376667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1673755"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q649957",
+      "name_it": "isola Alicudi",
+      "name_en": "Alicudi",
+      "latitude": 38.5425,
+      "longitude": 14.3525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q649957"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1817383",
+      "name_it": "isola Argentarola",
+      "name_en": "Argentarola Island",
+      "latitude": 42.41861,
+      "longitude": 11.08167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1817383"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q3802669",
+      "name_it": "Isola Asinelli",
+      "name_en": "",
+      "latitude": 38.064167,
+      "longitude": 12.529444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802669"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q115096670",
+      "name_it": "Isola Bassa",
+      "name_en": "",
+      "latitude": 45.416667,
+      "longitude": 12.066667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115096670"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q174054",
+      "name_it": "Isola Bella",
+      "name_en": "Isola Bella",
+      "latitude": 45.89538,
+      "longitude": 8.52708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q174054"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q642924",
+      "name_it": "Isola Bella",
+      "name_en": "Isola Bella",
+      "latitude": 37.85,
+      "longitude": 15.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q642924"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q1674445",
+      "name_it": "isola Bisentina",
+      "name_en": "Isola Bisentina",
+      "latitude": 42.58191,
+      "longitude": 11.9066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674445"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q12318655",
+      "name_it": "Isola Boschina",
+      "name_en": "Isola Boschina",
+      "latitude": 45.049692,
+      "longitude": 11.146665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12318655"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q1892625",
+      "name_it": "isola Budelli",
+      "name_en": "Budelli",
+      "latitude": 41.2825,
+      "longitude": 9.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1892625"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q49643977",
+      "name_it": "",
+      "name_en": "Isola Campalto",
+      "latitude": 45.46218,
+      "longitude": 12.31927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49643977"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q21880720",
+      "name_it": "isola Cana",
+      "name_en": "isola Cana",
+      "latitude": 40.864167,
+      "longitude": 9.676944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880720"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q38298098",
+      "name_it": "isola Chiesa",
+      "name_en": "",
+      "latitude": 41.21375,
+      "longitude": 9.417279,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38298098"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q15070141",
+      "name_it": "Isola Corbella",
+      "name_en": "",
+      "latitude": 42.734444,
+      "longitude": 10.319722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15070141"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q3802705",
+      "name_it": "isola Cruccianas",
+      "name_en": "",
+      "latitude": 39.065556,
+      "longitude": 8.484722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802705"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q45328",
+      "name_it": "Isola d'Elba",
+      "name_en": "Elba",
+      "latitude": 42.78,
+      "longitude": 10.275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q45328"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q15070045",
+      "name_it": "Isola De Pinedo",
+      "name_en": "Isola De Pinedo",
+      "latitude": 45.086258,
+      "longitude": 9.866281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15070045"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q3802941",
+      "name_it": "isola de sa Scruidda",
+      "name_en": "",
+      "latitude": 39.082778,
+      "longitude": 8.509167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802941"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q3802944",
+      "name_it": "Isola degli Spinaroni",
+      "name_en": "",
+      "latitude": 44.5099,
+      "longitude": 12.2594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802944"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q2496501",
+      "name_it": "Isola dei Cappuccini",
+      "name_en": "Isola dei Cappuccini",
+      "latitude": 41.1533,
+      "longitude": 9.50167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2496501"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q21880713",
+      "name_it": "isola dei Cavalli",
+      "name_en": "Isola Cavalli",
+      "latitude": 40.885556,
+      "longitude": 9.640278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880713"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q3802946",
+      "name_it": "Isola dei Cavoli",
+      "name_en": "Cavoli Island",
+      "latitude": 39.086389,
+      "longitude": 9.531944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802946"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q3802947",
+      "name_it": "Isola dei Cipressi",
+      "name_en": "island of the cypresses",
+      "latitude": 45.809444,
+      "longitude": 9.269444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802947"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q152430",
+      "name_it": "Isola dei Conigli",
+      "name_en": "Isola dei Conigli",
+      "latitude": 35.510024,
+      "longitude": 12.558407,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q152430"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q52830343",
+      "name_it": "Isola dei Conigli (Porto Cesareo)",
+      "name_en": "",
+      "latitude": 40.259815,
+      "longitude": 17.883221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52830343"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q226115",
+      "name_it": "isola dei Laghi",
+      "name_en": "Isola dei Laghi",
+      "latitude": 45.4922,
+      "longitude": 12.4094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q226115"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q21235672",
+      "name_it": "isola dei Meli",
+      "name_en": "",
+      "latitude": 39.216667,
+      "longitude": 8.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21235672"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q304108",
+      "name_it": "isola dei Pescatori",
+      "name_en": "Isola dei Pescatori",
+      "latitude": 45.900556,
+      "longitude": 8.520556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q304108"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q49643990",
+      "name_it": "isola dei Petroli",
+      "name_en": "Isola dei petroli",
+      "latitude": 45.450278,
+      "longitude": 12.266944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49643990"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q3802953",
+      "name_it": "Isola dei Porri",
+      "name_en": "Isola dei Porri",
+      "latitude": 36.686389,
+      "longitude": 14.931944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802953"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q21880686",
+      "name_it": "isola dei Porri",
+      "name_en": "isola dei Porri",
+      "latitude": 40.958611,
+      "longitude": 9.588333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880686"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q21451591",
+      "name_it": "isola dei Porri (Sardegna)",
+      "name_en": "isola dei Porri",
+      "latitude": 40.880554,
+      "longitude": 8.213611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21451591"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q3802954",
+      "name_it": "Isola dei Ratti",
+      "name_en": "Isola dei Ratti",
+      "latitude": 39.183333,
+      "longitude": 8.316667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802954"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q3802955",
+      "name_it": "Isola dei Topi",
+      "name_en": "Topi Rock",
+      "latitude": 42.870833,
+      "longitude": 10.423333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802955"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q49643995",
+      "name_it": "isola del Campo",
+      "name_en": "Isola del Campo",
+      "latitude": 40.053611,
+      "longitude": 17.969167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49643995"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q21996356",
+      "name_it": "isola del Cavallo",
+      "name_en": "isola del Cavallo",
+      "latitude": 40.917222,
+      "longitude": 9.525833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21996356"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q3802957",
+      "name_it": "Isola del Coltellazzo",
+      "name_en": "Isola del Coltellazzo",
+      "latitude": 38.984722,
+      "longitude": 9.022778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802957"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q3593439",
+      "name_it": "Isola del Corno",
+      "name_en": "Isola del corno",
+      "latitude": 39.14739,
+      "longitude": 8.20769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3593439"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q21880964",
+      "name_it": "isola del Porco",
+      "name_en": "Isola del Porco",
+      "latitude": 41.174444,
+      "longitude": 9.460833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880964"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q38298789",
+      "name_it": "Isola del Sogno",
+      "name_en": "Isola del Sogno",
+      "latitude": 45.7475,
+      "longitude": 10.794167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38298789"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q660758",
+      "name_it": "Isola del Tino",
+      "name_en": "Tino",
+      "latitude": 44.027222,
+      "longitude": 9.850556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q660758"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q3793004",
+      "name_it": "Isola del Vitello",
+      "name_en": "Isola Il Vitello",
+      "latitude": 38.9414,
+      "longitude": 8.45028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3793004"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q25403060",
+      "name_it": "Isola dell'Arvo",
+      "name_en": "",
+      "latitude": 39.223106,
+      "longitude": 16.472933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25403060"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q24933405",
+      "name_it": "isola dell'Ogliastra",
+      "name_en": "isola dell'Ogliastra",
+      "latitude": 39.97472,
+      "longitude": 9.70278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24933405"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q1674462",
+      "name_it": "isola dell'Unione",
+      "name_en": "Isola dell’Unione",
+      "latitude": 45.216361,
+      "longitude": 12.285331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674462"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q24934731",
+      "name_it": "isola della Bocca",
+      "name_en": "Isola della Bocca",
+      "latitude": 40.920278,
+      "longitude": 9.566389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24934731"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q1674458",
+      "name_it": "isola della Cappa",
+      "name_en": "Cappa Rock",
+      "latitude": 42.3492,
+      "longitude": 10.8822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674458"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q21893637",
+      "name_it": "isola della Capra",
+      "name_en": "",
+      "latitude": 41.287639,
+      "longitude": 9.362222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893637"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q1091358",
+      "name_it": "Isola della Certosa",
+      "name_en": "La Certosa",
+      "latitude": 45.433333,
+      "longitude": 12.366667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1091358"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q1110338",
+      "name_it": "isola della Colombaia",
+      "name_en": "Colombaia",
+      "latitude": 38.011389,
+      "longitude": 12.493333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1110338"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q131620027",
+      "name_it": "Isola della Donzella",
+      "name_en": "",
+      "latitude": 44.92478,
+      "longitude": 12.38746,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131620027"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q3802965",
+      "name_it": "Isola della Gaiola",
+      "name_en": "Gaiola Island",
+      "latitude": 40.791667,
+      "longitude": 14.186944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802965"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q49644001",
+      "name_it": "isola della Malva",
+      "name_en": "",
+      "latitude": 40.27019,
+      "longitude": 17.86656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49644001"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q2008208",
+      "name_it": "isola della Pecora",
+      "name_en": "Pecora",
+      "latitude": 41.1825,
+      "longitude": 9.485556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2008208"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q15070147",
+      "name_it": "isola della Peraiola",
+      "name_en": "",
+      "latitude": 43.03196,
+      "longitude": 9.79667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15070147"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q13475746",
+      "name_it": "isola della Pescheria",
+      "name_en": "Isola della Pescheria",
+      "latitude": 45.666753,
+      "longitude": 12.248259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13475746"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q21893631",
+      "name_it": "isola della Presa",
+      "name_en": "",
+      "latitude": 41.31,
+      "longitude": 9.375278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893631"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q1674471",
+      "name_it": "isola della Vacca",
+      "name_en": "isola della Vacca",
+      "latitude": 38.936246,
+      "longitude": 8.449688,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674471"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q2508133",
+      "name_it": "isola delle Bisce",
+      "name_en": "Isola delle Bisce",
+      "latitude": 41.164444,
+      "longitude": 9.523056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2508133"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q384468",
+      "name_it": "isola delle Correnti",
+      "name_en": "Correnti",
+      "latitude": 36.6456,
+      "longitude": 15.0775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q384468"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q3802968",
+      "name_it": "isola delle Femmine",
+      "name_en": "Femmine Island",
+      "latitude": 38.210278,
+      "longitude": 13.235833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802968"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q3802970",
+      "name_it": "Isola delle Palme",
+      "name_en": "",
+      "latitude": 37.2258,
+      "longitude": 15.2194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802970"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q5161491",
+      "name_it": "isola delle Rocche",
+      "name_en": "Delle Rocche",
+      "latitude": 41.117222,
+      "longitude": 9.569444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5161491"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q21893678",
+      "name_it": "isola dello Sgombro",
+      "name_en": "",
+      "latitude": 41.028611,
+      "longitude": 8.251944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893678"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q38298766",
+      "name_it": "Isola dell’Olivo",
+      "name_en": "Isola dell'Olivo",
+      "latitude": 45.754167,
+      "longitude": 10.795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38298766"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q21893646",
+      "name_it": "isola di Abbatoggia",
+      "name_en": "",
+      "latitude": 41.253056,
+      "longitude": 9.399444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893646"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q1674464",
+      "name_it": "Isola di Albarella",
+      "name_en": "Albarella",
+      "latitude": 45.074127,
+      "longitude": 12.343655,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674464"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q21880712",
+      "name_it": "isola di Barca Sconcia",
+      "name_en": "Isola di Barca Sconcia",
+      "latitude": 40.9175,
+      "longitude": 9.647222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880712"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q21893642",
+      "name_it": "isola di Barrettinelli di Fuori",
+      "name_en": "",
+      "latitude": 41.301667,
+      "longitude": 9.400556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893642"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q1853518",
+      "name_it": "isola di Barrettini",
+      "name_en": "Barrettini",
+      "latitude": 41.283333,
+      "longitude": 9.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1853518"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q810177",
+      "name_it": "isola di Basiluzzo",
+      "name_en": "Basiluzzo",
+      "latitude": 38.663781,
+      "longitude": 15.11338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q810177"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q1516637",
+      "name_it": "isola di Bergeggi",
+      "name_en": "Bergeggi",
+      "latitude": 44.234167,
+      "longitude": 8.445139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1516637"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q3802989",
+      "name_it": "Isola di Cala Vinagra",
+      "name_en": "",
+      "latitude": 39.166389,
+      "longitude": 8.2425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802989"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q3802990",
+      "name_it": "Isola di Campionna",
+      "name_en": "Isola Campionna",
+      "latitude": 38.914444,
+      "longitude": 8.765556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802990"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q21893633",
+      "name_it": "isola di Capicciolu",
+      "name_en": "",
+      "latitude": 41.309167,
+      "longitude": 9.368889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893633"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q249362",
+      "name_it": "Isola di Capo Passero",
+      "name_en": "Isola di Capo Passero",
+      "latitude": 36.6869,
+      "longitude": 15.1483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q249362"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q2258864",
+      "name_it": "Isola di Capraia",
+      "name_en": "Isola di Capraia",
+      "latitude": 42.13591,
+      "longitude": 15.51214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2258864"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q173292",
+      "name_it": "Isola di Capri",
+      "name_en": "Capri",
+      "latitude": 40.55,
+      "longitude": 14.233333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q173292"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q1054703",
+      "name_it": "isola di Cerboli",
+      "name_en": "Cerboli",
+      "latitude": 42.858056,
+      "longitude": 10.547778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1054703"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q867568",
+      "name_it": "Isola di Cirella",
+      "name_en": "Cirella island",
+      "latitude": 39.69883,
+      "longitude": 15.80172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q867568"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q21893639",
+      "name_it": "isola di Corcelli",
+      "name_en": "",
+      "latitude": 41.294444,
+      "longitude": 9.400556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893639"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q131625921",
+      "name_it": "Isola di Cà Venier",
+      "name_en": "",
+      "latitude": 44.9742,
+      "longitude": 12.38123,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131625921"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q532450",
+      "name_it": "Isola di Dino",
+      "name_en": "Dino, Calabria",
+      "latitude": 39.8735,
+      "longitude": 15.7748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q532450"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q996782",
+      "name_it": "Isola di Favignana",
+      "name_en": "Favignana",
+      "latitude": 37.92528,
+      "longitude": 12.32889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q996782"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q55332565",
+      "name_it": "Isola di Favignana",
+      "name_en": "",
+      "latitude": 37.922222,
+      "longitude": 12.309167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55332565"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q786100",
+      "name_it": "Isola di Figarolo",
+      "name_en": "Isola di Figarolo",
+      "latitude": 40.980278,
+      "longitude": 9.643333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q786100"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q2595439",
+      "name_it": "isola di Foradada",
+      "name_en": "Isola di Foradada",
+      "latitude": 40.57,
+      "longitude": 8.151111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2595439"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q1460456",
+      "name_it": "Isola di Garda",
+      "name_en": "Isola del Garda",
+      "latitude": 45.593641,
+      "longitude": 10.587094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1460456"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q1467793",
+      "name_it": "Isola di Gavi",
+      "name_en": "Gavi",
+      "latitude": 40.93528,
+      "longitude": 13.00083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1467793"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q19378",
+      "name_it": "Isola di Giannutri",
+      "name_en": "Giannutri",
+      "latitude": 42.25,
+      "longitude": 11.1,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19378"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q21893650",
+      "name_it": "isola di Giardinelli",
+      "name_en": "Isola di Giardinelli",
+      "latitude": 41.232222,
+      "longitude": 9.441667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893650"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q19347",
+      "name_it": "Isola di Gorgona",
+      "name_en": "Gorgona",
+      "latitude": 43.433333,
+      "longitude": 9.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19347"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q1911690",
+      "name_it": "isola di La Maddalena",
+      "name_en": "La Maddalena",
+      "latitude": 41.233333,
+      "longitude": 9.416667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1911690"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q107338",
+      "name_it": "isola di Lampedusa",
+      "name_en": "Lampedusa",
+      "latitude": 35.515,
+      "longitude": 12.58,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107338"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q21880696",
+      "name_it": "isola di Leporeddu",
+      "name_en": "Leporeddu",
+      "latitude": 40.916667,
+      "longitude": 9.505833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880696"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q497357",
+      "name_it": "Isola di Levanzo",
+      "name_en": "Levanzo",
+      "latitude": 38,
+      "longitude": 12.333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497357"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q1129928",
+      "name_it": "Isola di Licosa",
+      "name_en": "Licosa isle",
+      "latitude": 40.251468,
+      "longitude": 14.900251,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1129928"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q497321",
+      "name_it": "Isola di Linosa",
+      "name_en": "Linosa",
+      "latitude": 35.85918,
+      "longitude": 12.86272,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497321"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q499519",
+      "name_it": "Isola di Lipari",
+      "name_en": "Lipari",
+      "latitude": 38.466667,
+      "longitude": 14.95,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q499519"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q3803032",
+      "name_it": "Isola di Loreto",
+      "name_en": "Loreto Island",
+      "latitude": 45.726944,
+      "longitude": 10.084722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803032"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q220990",
+      "name_it": "Isola di Mal di Ventre",
+      "name_en": "Mal di Ventre",
+      "latitude": 39.99,
+      "longitude": 8.30917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220990"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q1764644",
+      "name_it": "Isola di Maraone",
+      "name_en": "",
+      "latitude": 37.983333,
+      "longitude": 12.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1764644"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q497339",
+      "name_it": "Isola di Marettimo",
+      "name_en": "Marettimo",
+      "latitude": 37.966667,
+      "longitude": 12.066667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q497339"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q3803034",
+      "name_it": "Isola di Martignano",
+      "name_en": "",
+      "latitude": 45.706944,
+      "longitude": 13.164167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803034"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q21880695",
+      "name_it": "isola di Mezzo",
+      "name_en": "",
+      "latitude": 40.921111,
+      "longitude": 9.511667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880695"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q576004",
+      "name_it": "isola di Molara",
+      "name_en": "Isola di Molara",
+      "latitude": 40.869167,
+      "longitude": 9.7275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q576004"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q3860195",
+      "name_it": "isola di Molarotto",
+      "name_en": "Isola di Molarotto",
+      "latitude": 40.874587,
+      "longitude": 9.778658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860195"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q21893676",
+      "name_it": "isola di Molino",
+      "name_en": "Isola di Molino",
+      "latitude": 40.919167,
+      "longitude": 8.710278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893676"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q203169",
+      "name_it": "Isola di Montecristo",
+      "name_en": "Montecristo",
+      "latitude": 42.333333,
+      "longitude": 10.316667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q203169"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q2384465",
+      "name_it": "isola di Mortorio",
+      "name_en": "",
+      "latitude": 41.075467,
+      "longitude": 9.603006,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2384465"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q21893670",
+      "name_it": "isola di Municca",
+      "name_en": "",
+      "latitude": 41.250556,
+      "longitude": 9.184167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893670"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q49644017",
+      "name_it": "Isola di Murano",
+      "name_en": "Isola di Murano",
+      "latitude": 45.46007,
+      "longitude": 12.35147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49644017"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q1192720",
+      "name_it": "isola di Nisida",
+      "name_en": "Nisida",
+      "latitude": 40.795278,
+      "longitude": 14.163333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1192720"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q3803046",
+      "name_it": "Isola di Ognina",
+      "name_en": "Island of Ognina",
+      "latitude": 36.979167,
+      "longitude": 15.263611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803046"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q15070135",
+      "name_it": "Isola di Ortano",
+      "name_en": "",
+      "latitude": 42.79008,
+      "longitude": 10.43379,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15070135"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q1233234",
+      "name_it": "isola di Ortigia",
+      "name_en": "Ortygia",
+      "latitude": 37.061,
+      "longitude": 15.2945,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1233234"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q21994363",
+      "name_it": "isola di Padiglioni",
+      "name_en": "",
+      "latitude": 38.876111,
+      "longitude": 8.835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21994363"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q1229122",
+      "name_it": "Isola di Palmaiola",
+      "name_en": "Palmaiola",
+      "latitude": 42.866111,
+      "longitude": 10.475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1229122"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q654105",
+      "name_it": "isola di Panarea",
+      "name_en": "Panarea",
+      "latitude": 38.633333,
+      "longitude": 15.066667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q654105"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q208114",
+      "name_it": "Isola di Pianosa",
+      "name_en": "Pianosa",
+      "latitude": 42.583333,
+      "longitude": 10.083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q208114"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q2258873",
+      "name_it": "Isola di Pianosa",
+      "name_en": "Pianosa",
+      "latitude": 42.224167,
+      "longitude": 15.748333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2258873"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q1133295",
+      "name_it": "Isola di Ponza",
+      "name_en": "Ponza",
+      "latitude": 40.9,
+      "longitude": 12.966667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1133295"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q21880684",
+      "name_it": "isola di Portisco",
+      "name_en": "",
+      "latitude": 41.041944,
+      "longitude": 9.528889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880684"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q21880700",
+      "name_it": "isola di Porto Torondo",
+      "name_en": "",
+      "latitude": 40.904722,
+      "longitude": 9.582778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880700"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q21880725",
+      "name_it": "isola di Proratora",
+      "name_en": "Isola di Proratora",
+      "latitude": 40.846489,
+      "longitude": 9.723239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880725"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q21714905",
+      "name_it": "Isola di Quirra",
+      "name_en": "",
+      "latitude": 39.516667,
+      "longitude": 9.65,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21714905"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q21991857",
+      "name_it": "isola di Sa Mesalonga",
+      "name_en": "",
+      "latitude": 40.046111,
+      "longitude": 8.396667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991857"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q505847",
+      "name_it": "isola di Salina",
+      "name_en": "Salina",
+      "latitude": 38.564722,
+      "longitude": 14.838889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q505847"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q36539157",
+      "name_it": "Isola di San Biagio",
+      "name_en": "Isola di San Biagio",
+      "latitude": 45.568611,
+      "longitude": 10.571667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36539157"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q1218738",
+      "name_it": "isola di San Domino",
+      "name_en": "San Domino Island",
+      "latitude": 42.116667,
+      "longitude": 15.483333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1218738"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q1674467",
+      "name_it": "isola di San Giulio",
+      "name_en": "Isola San Giulio",
+      "latitude": 45.796111,
+      "longitude": 8.399864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674467"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q1089148",
+      "name_it": "isola di San Nicola",
+      "name_en": "San Nicola island",
+      "latitude": 42.122222,
+      "longitude": 15.51,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1089148"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q2219863",
+      "name_it": "Isola di San Pantaleo",
+      "name_en": "San Pantaleo",
+      "latitude": 37.86754,
+      "longitude": 12.46832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2219863"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q3803070",
+      "name_it": "Isola di San Paolo",
+      "name_en": "San Paolo Island",
+      "latitude": 45.693333,
+      "longitude": 10.071389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803070"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q66314389",
+      "name_it": "isola di San Paolo",
+      "name_en": "Isola di San Paolo",
+      "latitude": 40.995284,
+      "longitude": 17.228871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66314389"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q912934",
+      "name_it": "Isola di San Pietro",
+      "name_en": "San Pietro Island",
+      "latitude": 39.145556,
+      "longitude": 8.2725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q912934"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q123929320",
+      "name_it": "Isola di San Pietro",
+      "name_en": "San Pietro Island",
+      "latitude": 40.449005,
+      "longitude": 17.155817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123929320"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q3803074",
+      "name_it": "Isola di Sant'Andrea",
+      "name_en": "Sant'Andrea Island",
+      "latitude": 40.049167,
+      "longitude": 17.950556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803074"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q607213",
+      "name_it": "isola di Sant'Andrea",
+      "name_en": "Sant'Andrea",
+      "latitude": 45.434602,
+      "longitude": 12.381146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q607213"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q11406604",
+      "name_it": "Isola di Sant'Antioco",
+      "name_en": "Ìsola di Sant'Antìoco",
+      "latitude": 39.03333,
+      "longitude": 8.41667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11406604"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q65124411",
+      "name_it": "isola di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 45.43861,
+      "longitude": 12.31167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65124411"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q909048",
+      "name_it": "isola di Santo Stefano",
+      "name_en": "Santo Stefano Island",
+      "latitude": 40.789444,
+      "longitude": 13.454167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q909048"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q21893654",
+      "name_it": "isola di Scaviccio",
+      "name_en": "Isola di Scaviccio",
+      "latitude": 41.221667,
+      "longitude": 9.448889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893654"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q2312960",
+      "name_it": "isola di Soffi",
+      "name_en": "Isola di Soffi",
+      "latitude": 41.064275,
+      "longitude": 9.5754,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2312960"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q2512950",
+      "name_it": "isola di Spargiotto",
+      "name_en": "",
+      "latitude": 41.250278,
+      "longitude": 9.323333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2512950"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q3803089",
+      "name_it": "isola di Stea",
+      "name_en": "",
+      "latitude": 39.175278,
+      "longitude": 8.2625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803089"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q131148",
+      "name_it": "isola di Stromboli",
+      "name_en": "Stromboli",
+      "latitude": 38.804,
+      "longitude": 15.2233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131148"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q3803101",
+      "name_it": "Isola di Torre Avalos",
+      "name_en": "",
+      "latitude": 37.211667,
+      "longitude": 15.223889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803101"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q2453361",
+      "name_it": "Isola di Trimelone",
+      "name_en": "Isola di Trimelone",
+      "latitude": 45.730892,
+      "longitude": 10.776492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2453361"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q3802909",
+      "name_it": "Isola di Tuerredda",
+      "name_en": "Isola di Tuerredda",
+      "latitude": 38.891667,
+      "longitude": 8.813056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802909"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q3593327",
+      "name_it": "isola di Ustica",
+      "name_en": "Ustica Island",
+      "latitude": 38.704722,
+      "longitude": 13.175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3593327"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q106595369",
+      "name_it": "isola di Venezia",
+      "name_en": "Island of Venice",
+      "latitude": 45.439722,
+      "longitude": 12.331944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106595369"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q1085906",
+      "name_it": "Isola di Ventotene",
+      "name_en": "Ventotene",
+      "latitude": 40.7926,
+      "longitude": 13.42443,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1085906"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q3803107",
+      "name_it": "Isola di Vittoria Garcia",
+      "name_en": "",
+      "latitude": 37.236124,
+      "longitude": 15.204404,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803107"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q1073353",
+      "name_it": "isola di Vivara",
+      "name_en": "Vivara",
+      "latitude": 40.74396,
+      "longitude": 13.99342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1073353"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q743908",
+      "name_it": "isola Filicudi",
+      "name_en": "Filicudi",
+      "latitude": 38.566667,
+      "longitude": 14.566667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q743908"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q489406",
+      "name_it": "Isola Formica",
+      "name_en": "Formica",
+      "latitude": 37.9889,
+      "longitude": 12.4253,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q489406"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q21880693",
+      "name_it": "isola Gabbia",
+      "name_en": "isola Gabbia",
+      "latitude": 40.930833,
+      "longitude": 9.526667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880693"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q3802731",
+      "name_it": "Isola Galeotta",
+      "name_en": "",
+      "latitude": 37.911944,
+      "longitude": 12.298611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802731"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q3802732",
+      "name_it": "Isola Galera",
+      "name_en": "",
+      "latitude": 37.914167,
+      "longitude": 12.29,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802732"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q56258544",
+      "name_it": "Isola galleggiante",
+      "name_en": "Isola galleggiante",
+      "latitude": 41.68103,
+      "longitude": 13.69142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258544"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q1492476",
+      "name_it": "Isola Gallinara",
+      "name_en": "Gallinara",
+      "latitude": 44.0255,
+      "longitude": 8.226333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1492476"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q3802734",
+      "name_it": "isola Geniò",
+      "name_en": "",
+      "latitude": 39.094722,
+      "longitude": 8.282222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802734"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q2394554",
+      "name_it": "",
+      "name_en": "Isola Giardinelli",
+      "latitude": 41.232778,
+      "longitude": 9.441389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2394554"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q848244",
+      "name_it": "Isola Grande",
+      "name_en": "Isola Grande",
+      "latitude": 37.871111,
+      "longitude": 12.463056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q848244"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q3802743",
+      "name_it": "Isola Grande",
+      "name_en": "",
+      "latitude": 36.735,
+      "longitude": 15.120833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802743"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q1082710",
+      "name_it": "Isola il Toro",
+      "name_en": "Isola del Toro",
+      "latitude": 38.861389,
+      "longitude": 8.409444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1082710"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q848263",
+      "name_it": "Isola La Scuola",
+      "name_en": "Isola La Scuola",
+      "latitude": 37.85,
+      "longitude": 12.45,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q848263"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q1687082",
+      "name_it": "isola Lachea",
+      "name_en": "Isola Lachea",
+      "latitude": 37.561389,
+      "longitude": 15.166389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1687082"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q168820",
+      "name_it": "Isola Lampione",
+      "name_en": "Lampione",
+      "latitude": 35.551815,
+      "longitude": 12.321256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q168820"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q1555998",
+      "name_it": "Isola Madre",
+      "name_en": "Isola Madre",
+      "latitude": 45.911111,
+      "longitude": 8.537778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1555998"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q1674460",
+      "name_it": "Isola Maggiore",
+      "name_en": "Isola Maggiore",
+      "latitude": 43.17678,
+      "longitude": 12.08962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674460"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q21880697",
+      "name_it": "isola Manna",
+      "name_en": "isola Manna",
+      "latitude": 40.916944,
+      "longitude": 9.51,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880697"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q3802791",
+      "name_it": "isola Manna",
+      "name_en": "",
+      "latitude": 39.0775,
+      "longitude": 8.5025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802791"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q1674451",
+      "name_it": "Isola Martana",
+      "name_en": "Isola Martana",
+      "latitude": 42.54941,
+      "longitude": 11.95244,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674451"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q1373681",
+      "name_it": "Isola Minore",
+      "name_en": "Isola Minore",
+      "latitude": 43.179708,
+      "longitude": 12.102642,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1373681"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q3802834",
+      "name_it": "Isola Pennata",
+      "name_en": "Pennata",
+      "latitude": 40.792222,
+      "longitude": 14.088611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802834"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q3802842",
+      "name_it": "Isola Piana",
+      "name_en": "Isola Piana (Capo Caccia)",
+      "latitude": 40.604167,
+      "longitude": 8.141389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802842"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q3802841",
+      "name_it": "isola Piana",
+      "name_en": "Isola Piana",
+      "latitude": 40.974722,
+      "longitude": 8.218333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802841"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q3802844",
+      "name_it": "Isola Piana",
+      "name_en": "Isola Piana",
+      "latitude": 39.191667,
+      "longitude": 8.322222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802844"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q25409384",
+      "name_it": "isola Piana",
+      "name_en": "isola Piana",
+      "latitude": 40.888056,
+      "longitude": 9.651111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25409384"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q21893640",
+      "name_it": "isola Piana",
+      "name_en": "",
+      "latitude": 41.294925,
+      "longitude": 9.405069,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893640"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q3802843",
+      "name_it": "Isola Piccola",
+      "name_en": "Isola Piccola",
+      "latitude": 36.738333,
+      "longitude": 15.118889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802843"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q1414778",
+      "name_it": "Isola Polvese",
+      "name_en": "Isola Polvese",
+      "latitude": 43.1174,
+      "longitude": 12.1373,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1414778"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q3802846",
+      "name_it": "Isola Porcu e Scriba",
+      "name_en": "",
+      "latitude": 39.0675,
+      "longitude": 8.494722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802846"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q3802855",
+      "name_it": "Isola Preveto",
+      "name_en": "Preveto",
+      "latitude": 37.914444,
+      "longitude": 12.301944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802855"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q21893674",
+      "name_it": "isola Rossa",
+      "name_en": "",
+      "latitude": 41.014167,
+      "longitude": 8.863333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893674"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q21996353",
+      "name_it": "Isola Rossa",
+      "name_en": "",
+      "latitude": 38.914722,
+      "longitude": 8.716389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21996353"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q21880730",
+      "name_it": "isola Ruia",
+      "name_en": "Isola Rossa",
+      "latitude": 40.8275,
+      "longitude": 9.7075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880730"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q21880732",
+      "name_it": "isola Ruja",
+      "name_en": "Isola Ruja",
+      "latitude": 40.539167,
+      "longitude": 9.818611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880732"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q136654955",
+      "name_it": "isola San Domenico",
+      "name_en": "",
+      "latitude": 45.222778,
+      "longitude": 12.283611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136654955"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q3802867",
+      "name_it": "Isola San Macario",
+      "name_en": "",
+      "latitude": 39.001944,
+      "longitude": 9.030833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802867"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q1060495",
+      "name_it": "Isola Santa Maria",
+      "name_en": "Santa Maria",
+      "latitude": 41.29819,
+      "longitude": 9.37335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1060495"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q848240",
+      "name_it": "Isola Santa Maria",
+      "name_en": "Isola Santa Maria",
+      "latitude": 37.866667,
+      "longitude": 12.45,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q848240"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q3802869",
+      "name_it": "Isola Santo Ianni",
+      "name_en": "",
+      "latitude": 39.96726,
+      "longitude": 15.715851,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802869"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q2014084",
+      "name_it": "Isola Santo Stefano",
+      "name_en": "Santo Stefano",
+      "latitude": 41.2,
+      "longitude": 9.416667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2014084"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q3802870",
+      "name_it": "Isola Serpentara",
+      "name_en": "Isola Serpentara",
+      "latitude": 39.13944,
+      "longitude": 9.60694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802870"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q2250212",
+      "name_it": "Isola Spargi",
+      "name_en": "Spargi",
+      "latitude": 41.243333,
+      "longitude": 9.3475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2250212"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q3802891",
+      "name_it": "Isola Su Cardolinu",
+      "name_en": "",
+      "latitude": 38.897778,
+      "longitude": 8.890556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802891"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q3802893",
+      "name_it": "Isola Su Giudeu",
+      "name_en": "",
+      "latitude": 38.881944,
+      "longitude": 8.864722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802893"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q3802915",
+      "name_it": "Isola Vendicari",
+      "name_en": "",
+      "latitude": 36.791944,
+      "longitude": 15.104444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802915"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q146988",
+      "name_it": "isola Zannone",
+      "name_en": "Zannone",
+      "latitude": 40.966667,
+      "longitude": 13.05,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q146988"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q21893653",
+      "name_it": "isole degli Italiani",
+      "name_en": "Isole degli Italiani",
+      "latitude": 41.226389,
+      "longitude": 9.455556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893653"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q38298054",
+      "name_it": "isole dei Poveri",
+      "name_en": "Isole dei Poveri",
+      "latitude": 41.093745,
+      "longitude": 9.580765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38298054"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q21893668",
+      "name_it": "isole della Marmolata",
+      "name_en": "",
+      "latitude": 41.255,
+      "longitude": 9.238889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893668"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q21880704",
+      "name_it": "isole di Portolucas",
+      "name_en": "Isole di Portolucas",
+      "latitude": 40.920631,
+      "longitude": 9.633089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880704"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q5105050",
+      "name_it": "",
+      "name_en": "Isole Italiani",
+      "latitude": 41.225833,
+      "longitude": 9.455556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5105050"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q21234773",
+      "name_it": "Isole Pedagne",
+      "name_en": "Pedagne Islands",
+      "latitude": 40.654694,
+      "longitude": 18.000278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21234773"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q30088033",
+      "name_it": "isolino di Parabiago",
+      "name_en": "Isolino",
+      "latitude": 45.56959,
+      "longitude": 8.9518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30088033"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q1503034",
+      "name_it": "Isolino di San Giovanni",
+      "name_en": "Isolino di San Giovanni",
+      "latitude": 45.916667,
+      "longitude": 8.555278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1503034"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q1130895",
+      "name_it": "isolino Partegora",
+      "name_en": "Isolino Partegora",
+      "latitude": 45.768889,
+      "longitude": 8.577778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1130895"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q21893666",
+      "name_it": "isolotti dei Cavalli",
+      "name_en": "",
+      "latitude": 41.202222,
+      "longitude": 9.318056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893666"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q21893661",
+      "name_it": "isolotti dei Monaci",
+      "name_en": "Isolotti dei Monaci",
+      "latitude": 41.250278,
+      "longitude": 9.323333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893661"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q21893679",
+      "name_it": "isolotti del Candeliere",
+      "name_en": "",
+      "latitude": 41.073333,
+      "longitude": 8.266111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893679"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q21893645",
+      "name_it": "isolotti di Barrettinelli",
+      "name_en": "",
+      "latitude": 41.30157,
+      "longitude": 9.400719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893645"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q21893630",
+      "name_it": "isolotti di Cala Lunga",
+      "name_en": "",
+      "latitude": 41.294599,
+      "longitude": 9.335622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893630"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q21994360",
+      "name_it": "isolotti di Ferraglione",
+      "name_en": "",
+      "latitude": 38.881667,
+      "longitude": 8.826389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21994360"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q21893632",
+      "name_it": "isolotti di Paduleddi",
+      "name_en": "isolotti di Paduleddi",
+      "latitude": 41.1825,
+      "longitude": 9.485556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893632"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q21893634",
+      "name_it": "isolotti di Stramanari",
+      "name_en": "",
+      "latitude": 41.283333,
+      "longitude": 9.363889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893634"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q126719828",
+      "name_it": "Isolotto dei Conigli",
+      "name_en": "Isolotto dei Conigli",
+      "latitude": 39.996722,
+      "longitude": 15.360389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126719828"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q21893664",
+      "name_it": "isolotto dei Fichi d'India",
+      "name_en": "isolotto dei Fichi d'India",
+      "latitude": 41.125833,
+      "longitude": 9.444167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893664"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q21893665",
+      "name_it": "isolotto dei Mucchi Bianchi",
+      "name_en": "isolotto dei Mucchi Bianchi",
+      "latitude": 41.126944,
+      "longitude": 9.466111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893665"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q21880728",
+      "name_it": "isolotto dei Pedrami",
+      "name_en": "",
+      "latitude": 40.684999,
+      "longitude": 9.766953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880728"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q21893651",
+      "name_it": "isolotto del Cardellino",
+      "name_en": "",
+      "latitude": 41.254167,
+      "longitude": 9.413611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893651"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q21893680",
+      "name_it": "isolotto della Bocca",
+      "name_en": "",
+      "latitude": 40.985556,
+      "longitude": 8.213333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893680"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q21893681",
+      "name_it": "isolotto della Maddalena",
+      "name_en": "",
+      "latitude": 40.572191,
+      "longitude": 8.3003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893681"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q15070128",
+      "name_it": "Isolotto della Scarpa",
+      "name_en": "Isolotto della Scarpa",
+      "latitude": 42.621928,
+      "longitude": 10.079943,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15070128"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q2461155",
+      "name_it": "isolotto della Scola",
+      "name_en": "Scola Islet",
+      "latitude": 42.583889,
+      "longitude": 10.105833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2461155"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q21991913",
+      "name_it": "isolotto di Caogheddas",
+      "name_en": "",
+      "latitude": 39.904167,
+      "longitude": 8.396944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991913"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q1549763",
+      "name_it": "isolotto di Megaride",
+      "name_en": "Isolotto di Megaride",
+      "latitude": 40.827778,
+      "longitude": 14.248611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1549763"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q21880743",
+      "name_it": "isolotto di Ottiolu",
+      "name_en": "Ottiolu cay",
+      "latitude": 40.736389,
+      "longitude": 9.718333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880743"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q21991740",
+      "name_it": "isolotto di Sa Pagliosa",
+      "name_en": "Sa Pagliosa",
+      "latitude": 40.360278,
+      "longitude": 8.377222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991740"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q3803288",
+      "name_it": "Isolotto di San Martino",
+      "name_en": "Isolotto di San Martino",
+      "latitude": 40.798769,
+      "longitude": 14.036656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3803288"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q38298032",
+      "name_it": "isolotto di Spargiottello",
+      "name_en": "",
+      "latitude": 41.25173,
+      "longitude": 9.320918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38298032"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q21893658",
+      "name_it": "isolotto Roma",
+      "name_en": "",
+      "latitude": 41.196389,
+      "longitude": 9.396667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893658"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q21880717",
+      "name_it": "isolotto Rosso",
+      "name_en": "Isolotto Rosso",
+      "latitude": 40.877634,
+      "longitude": 9.671316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880717"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q3820695",
+      "name_it": "La Canna",
+      "name_en": "La Canna",
+      "latitude": 38.581944,
+      "longitude": 14.526944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3820695"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q3820702",
+      "name_it": "La Castelluccia",
+      "name_en": "La Castelluccia",
+      "latitude": 40.581667,
+      "longitude": 14.429444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3820702"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q1165736",
+      "name_it": "La Cura",
+      "name_en": "La Cura",
+      "latitude": 45.5053,
+      "longitude": 12.4419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1165736"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q3820866",
+      "name_it": "La Galera",
+      "name_en": "",
+      "latitude": 36.755,
+      "longitude": 11.9775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3820866"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q3821001",
+      "name_it": "La Nave",
+      "name_en": "",
+      "latitude": 40.707222,
+      "longitude": 13.853333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3821001"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q1849900",
+      "name_it": "",
+      "name_en": "La Presa",
+      "latitude": 41.31,
+      "longitude": 9.375556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1849900"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q49650156",
+      "name_it": "La Rotonda",
+      "name_en": "La Rotonda",
+      "latitude": 40.57972,
+      "longitude": 14.43005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49650156"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q1587476",
+      "name_it": "La Salina",
+      "name_en": "La Salina",
+      "latitude": 45.5031,
+      "longitude": 12.4731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1587476"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q2444665",
+      "name_it": "",
+      "name_en": "La Scarpa",
+      "latitude": 42.62194,
+      "longitude": 10.08,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2444665"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q3213468",
+      "name_it": "La Vecchia",
+      "name_en": "",
+      "latitude": 42.123242,
+      "longitude": 15.501948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3213468"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q1292453",
+      "name_it": "Lazzaretto Nuovo",
+      "name_en": "Lazzaretto Nuovo",
+      "latitude": 45.456811,
+      "longitude": 12.385735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1292453"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q59964",
+      "name_it": "Lazzaretto Vecchio",
+      "name_en": "Lazzaretto Vecchio",
+      "latitude": 45.406193,
+      "longitude": 12.35949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59964"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q2444455",
+      "name_it": "Le Camere",
+      "name_en": "",
+      "latitude": 41.068529,
+      "longitude": 9.586773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2444455"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q3828344",
+      "name_it": "Le Formiche",
+      "name_en": "Le Formiche",
+      "latitude": 38.627222,
+      "longitude": 15.083889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828344"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q3828345",
+      "name_it": "Le Formiche",
+      "name_en": "",
+      "latitude": 40.884722,
+      "longitude": 12.980556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828345"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q3828354",
+      "name_it": "Le Galere",
+      "name_en": "",
+      "latitude": 40.942778,
+      "longitude": 12.851111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828354"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q3828365",
+      "name_it": "Le Guglie",
+      "name_en": "Le Guglie",
+      "latitude": 38.638889,
+      "longitude": 15.096389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828365"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q3828405",
+      "name_it": "Le Pietre Nere",
+      "name_en": "Le Pietre Nere",
+      "latitude": 37.807222,
+      "longitude": 15.26,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828405"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q126722757",
+      "name_it": "Licosa",
+      "name_en": "Licosa",
+      "latitude": 40.251222,
+      "longitude": 14.900139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126722757"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q226221",
+      "name_it": "Lido di Venezia",
+      "name_en": "Lido di Venezia",
+      "latitude": 45.383333,
+      "longitude": 12.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q226221"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q3833393",
+      "name_it": "Lisca Bianca",
+      "name_en": "Lisca Bianca",
+      "latitude": 38.639444,
+      "longitude": 15.114167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3833393"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q3833390",
+      "name_it": "Lisca Nera",
+      "name_en": "Lisca Nera",
+      "latitude": 38.634722,
+      "longitude": 15.106389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3833390"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q3835770",
+      "name_it": "Lo Schiavone",
+      "name_en": "Lo Schiavone",
+      "latitude": 40.786389,
+      "longitude": 14.061667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3835770"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q126719918",
+      "name_it": "Lo Scialandro",
+      "name_en": "Lo Scialandro",
+      "latitude": 40.054028,
+      "longitude": 15.627611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126719918"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q3835771",
+      "name_it": "Lo Scoglio",
+      "name_en": "",
+      "latitude": 39.305,
+      "longitude": 16.045278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3835771"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q3837151",
+      "name_it": "Lorio",
+      "name_en": "",
+      "latitude": 40.735278,
+      "longitude": 13.852222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3837151"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q3303178",
+      "name_it": "Mazzorbetto",
+      "name_en": "Mazzorbetto",
+      "latitude": 45.489722,
+      "longitude": 12.4075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3303178"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q2469985",
+      "name_it": "",
+      "name_en": "Monaci",
+      "latitude": 41.217222,
+      "longitude": 9.518333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2469985"
+    },
+    {
+      "id": 326,
+      "wikidata_id": "Q974635",
+      "name_it": "Monte dell'Oro",
+      "name_en": "Monte dell'Oro",
+      "latitude": 45.517044,
+      "longitude": 12.416578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q974635"
+    },
+    {
+      "id": 327,
+      "wikidata_id": "Q1950051",
+      "name_it": "Motta dei Cunicci",
+      "name_en": "Motta of Cunicci",
+      "latitude": 45.5131,
+      "longitude": 12.4553,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1950051"
+    },
+    {
+      "id": 328,
+      "wikidata_id": "Q1950049",
+      "name_it": "",
+      "name_en": "Motta del Cornio Nuovo",
+      "latitude": 45.332672,
+      "longitude": 12.305833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1950049"
+    },
+    {
+      "id": 329,
+      "wikidata_id": "Q1656503",
+      "name_it": "Motta di San Lorenzo",
+      "name_en": "Motta of San Lorenzo",
+      "latitude": 45.5033,
+      "longitude": 12.4617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1656503"
+    },
+    {
+      "id": 330,
+      "wikidata_id": "Q1165738",
+      "name_it": "Motte di Volpego",
+      "name_en": "Motte di Volpego",
+      "latitude": 45.3892,
+      "longitude": 12.2633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1165738"
+    },
+    {
+      "id": 331,
+      "wikidata_id": "Q52437",
+      "name_it": "Murano",
+      "name_en": "Murano",
+      "latitude": 45.4575,
+      "longitude": 12.353611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52437"
+    },
+    {
+      "id": 332,
+      "wikidata_id": "Q2193703",
+      "name_it": "",
+      "name_en": "Paduleddi",
+      "latitude": 41.286389,
+      "longitude": 9.366389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2193703"
+    },
+    {
+      "id": 333,
+      "wikidata_id": "Q757114",
+      "name_it": "Palmaria",
+      "name_en": "Palmaria",
+      "latitude": 44.042836,
+      "longitude": 9.843867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q757114"
+    },
+    {
+      "id": 334,
+      "wikidata_id": "Q1466491",
+      "name_it": "Palmarola",
+      "name_en": "Palmarola",
+      "latitude": 40.936944,
+      "longitude": 12.858056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1466491"
+    },
+    {
+      "id": 335,
+      "wikidata_id": "Q3893028",
+      "name_it": "Panarelli",
+      "name_en": "Panarelli",
+      "latitude": 38.642222,
+      "longitude": 15.099167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3893028"
+    },
+    {
+      "id": 336,
+      "wikidata_id": "Q686709",
+      "name_it": "Pellestrina",
+      "name_en": "Pellestrina",
+      "latitude": 45.273333,
+      "longitude": 12.301111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q686709"
+    },
+    {
+      "id": 337,
+      "wikidata_id": "Q3901908",
+      "name_it": "Piana di Mezzo",
+      "name_en": "",
+      "latitude": 40.9425,
+      "longitude": 13.017222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3901908"
+    },
+    {
+      "id": 338,
+      "wikidata_id": "Q3903520",
+      "name_it": "Pietra Bianca",
+      "name_en": "",
+      "latitude": 40.716341,
+      "longitude": 13.85797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903520"
+    },
+    {
+      "id": 339,
+      "wikidata_id": "Q3903531",
+      "name_it": "Pietra del Bagno",
+      "name_en": "Pietra del Bagno",
+      "latitude": 38.474722,
+      "longitude": 14.895833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903531"
+    },
+    {
+      "id": 340,
+      "wikidata_id": "Q3903557",
+      "name_it": "Pietra di Patti",
+      "name_en": "",
+      "latitude": 38.161111,
+      "longitude": 14.99,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903557"
+    },
+    {
+      "id": 341,
+      "wikidata_id": "Q3903519",
+      "name_it": "Pietra Galera",
+      "name_en": "",
+      "latitude": 38.34,
+      "longitude": 15.829722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903519"
+    },
+    {
+      "id": 342,
+      "wikidata_id": "Q3903522",
+      "name_it": "Pietra Impisa",
+      "name_en": "",
+      "latitude": 40.740556,
+      "longitude": 13.861944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903522"
+    },
+    {
+      "id": 343,
+      "wikidata_id": "Q3903527",
+      "name_it": "Pietra Quaglietto",
+      "name_en": "Pietra Quaglietto",
+      "latitude": 38.399722,
+      "longitude": 14.938889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903527"
+    },
+    {
+      "id": 344,
+      "wikidata_id": "Q3903597",
+      "name_it": "Pietre del Cavallone",
+      "name_en": "",
+      "latitude": 40.721389,
+      "longitude": 13.858333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903597"
+    },
+    {
+      "id": 345,
+      "wikidata_id": "Q3903593",
+      "name_it": "Pietre Rosse",
+      "name_en": "Pietre Rosse",
+      "latitude": 40.723889,
+      "longitude": 13.859167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3903593"
+    },
+    {
+      "id": 346,
+      "wikidata_id": "Q49644021",
+      "name_it": "",
+      "name_en": "Porticciuolo island",
+      "latitude": 40.95,
+      "longitude": 9.58333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49644021"
+    },
+    {
+      "id": 347,
+      "wikidata_id": "Q1145492",
+      "name_it": "Poveglia",
+      "name_en": "Poveglia",
+      "latitude": 45.382222,
+      "longitude": 12.330556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1145492"
+    },
+    {
+      "id": 348,
+      "wikidata_id": "Q3911356",
+      "name_it": "Pria Pula",
+      "name_en": "Pria Pula",
+      "latitude": 44.420833,
+      "longitude": 8.805556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3911356"
+    },
+    {
+      "id": 349,
+      "wikidata_id": "Q49644022",
+      "name_it": "Procida",
+      "name_en": "Procida",
+      "latitude": 40.75833,
+      "longitude": 14.01667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49644022"
+    },
+    {
+      "id": 350,
+      "wikidata_id": "Q1060488",
+      "name_it": "Razzoli",
+      "name_en": "Razzoli",
+      "latitude": 41.3017,
+      "longitude": 9.34667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1060488"
+    },
+    {
+      "id": 351,
+      "wikidata_id": "Q3939409",
+      "name_it": "Rocca San Nicola",
+      "name_en": "",
+      "latitude": 37.112222,
+      "longitude": 13.856389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3939409"
+    },
+    {
+      "id": 352,
+      "wikidata_id": "Q3940566",
+      "name_it": "Romanello di Battaglia",
+      "name_en": "",
+      "latitude": 40.786944,
+      "longitude": 13.422778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3940566"
+    },
+    {
+      "id": 353,
+      "wikidata_id": "Q3944141",
+      "name_it": "Sa Illetta",
+      "name_en": "Sa Illetta",
+      "latitude": 39.228111,
+      "longitude": 9.076111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3944141"
+    },
+    {
+      "id": 354,
+      "wikidata_id": "Q544119",
+      "name_it": "Sacca Fisola",
+      "name_en": "Sacca Fisola",
+      "latitude": 45.426944,
+      "longitude": 12.314333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q544119"
+    },
+    {
+      "id": 355,
+      "wikidata_id": "Q2210251",
+      "name_it": "Sacca San Biagio",
+      "name_en": "Sacca San Biagio",
+      "latitude": 45.4267,
+      "longitude": 12.3093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2210251"
+    },
+    {
+      "id": 356,
+      "wikidata_id": "Q1430727",
+      "name_it": "Sacca Sessola",
+      "name_en": "Sacca Sessola",
+      "latitude": 45.406111,
+      "longitude": 12.322222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1430727"
+    },
+    {
+      "id": 357,
+      "wikidata_id": "Q1761304",
+      "name_it": "San Clemente",
+      "name_en": "Isola di San Clemente",
+      "latitude": 45.41,
+      "longitude": 12.335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1761304"
+    },
+    {
+      "id": 358,
+      "wikidata_id": "Q96209976",
+      "name_it": "San Clemente",
+      "name_en": "San Clemente",
+      "latitude": 41.870169,
+      "longitude": 15.351658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96209976"
+    },
+    {
+      "id": 359,
+      "wikidata_id": "Q18398406",
+      "name_it": "San Cristoforo della Pace",
+      "name_en": "San Cristoforo della Pace",
+      "latitude": 45.4468,
+      "longitude": 12.3471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18398406"
+    },
+    {
+      "id": 360,
+      "wikidata_id": "Q281139",
+      "name_it": "San Francesco del Deserto",
+      "name_en": "San Francesco del Deserto",
+      "latitude": 45.4731,
+      "longitude": 12.4169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q281139"
+    },
+    {
+      "id": 361,
+      "wikidata_id": "Q1585525",
+      "name_it": "San Giacomo in Paludo",
+      "name_en": "San Giacomo in Paludo",
+      "latitude": 45.4692,
+      "longitude": 12.3792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1585525"
+    },
+    {
+      "id": 362,
+      "wikidata_id": "Q1190932",
+      "name_it": "San Giorgio in Alga",
+      "name_en": "San Giorgio in Alga",
+      "latitude": 45.425,
+      "longitude": 12.291944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1190932"
+    },
+    {
+      "id": 363,
+      "wikidata_id": "Q126327",
+      "name_it": "San Giorgio Maggiore",
+      "name_en": "San Giorgio Maggiore",
+      "latitude": 45.427752,
+      "longitude": 12.344168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126327"
+    },
+    {
+      "id": 364,
+      "wikidata_id": "Q2219629",
+      "name_it": "San Giuliano",
+      "name_en": "San Giuliano",
+      "latitude": 45.466319,
+      "longitude": 12.280828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2219629"
+    },
+    {
+      "id": 365,
+      "wikidata_id": "Q1791020",
+      "name_it": "San Lazzaro degli Armeni",
+      "name_en": "San Lazzaro degli Armeni",
+      "latitude": 45.411979,
+      "longitude": 12.361422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1791020"
+    },
+    {
+      "id": 366,
+      "wikidata_id": "Q844263",
+      "name_it": "San Michele",
+      "name_en": "San Michele",
+      "latitude": 45.446944,
+      "longitude": 12.347222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q844263"
+    },
+    {
+      "id": 367,
+      "wikidata_id": "Q16865516",
+      "name_it": "",
+      "name_en": "San Paolo Island",
+      "latitude": 40.4386,
+      "longitude": 17.1752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16865516"
+    },
+    {
+      "id": 368,
+      "wikidata_id": "Q3947810",
+      "name_it": "San Pietro d'Orio",
+      "name_en": "",
+      "latitude": 45.6942,
+      "longitude": 13.3513,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3947810"
+    },
+    {
+      "id": 369,
+      "wikidata_id": "Q2121385",
+      "name_it": "San Pietro di Castello",
+      "name_en": "San Pietro di Castello",
+      "latitude": 45.43379,
+      "longitude": 12.35992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2121385"
+    },
+    {
+      "id": 370,
+      "wikidata_id": "Q1861237",
+      "name_it": "San Secondo",
+      "name_en": "Isola di San Secondo",
+      "latitude": 45.451111,
+      "longitude": 12.3075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1861237"
+    },
+    {
+      "id": 371,
+      "wikidata_id": "Q618075",
+      "name_it": "San Servolo",
+      "name_en": "San Servolo",
+      "latitude": 45.418516,
+      "longitude": 12.357473,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q618075"
+    },
+    {
+      "id": 372,
+      "wikidata_id": "Q3947967",
+      "name_it": "San Silverio",
+      "name_en": "",
+      "latitude": 40.939722,
+      "longitude": 12.853611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3947967"
+    },
+    {
+      "id": 373,
+      "wikidata_id": "Q1581264",
+      "name_it": "Sant'Angelo della Polvere",
+      "name_en": "Sant'Angelo della Polvere",
+      "latitude": 45.408611,
+      "longitude": 12.283333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1581264"
+    },
+    {
+      "id": 374,
+      "wikidata_id": "Q599588",
+      "name_it": "Sant'Ariano",
+      "name_en": "Sant'Ariano",
+      "latitude": 45.503056,
+      "longitude": 12.4375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q599588"
+    },
+    {
+      "id": 375,
+      "wikidata_id": "Q2118904",
+      "name_it": "Sant'Elena",
+      "name_en": "Sant'Elena",
+      "latitude": 45.42766,
+      "longitude": 12.36138,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2118904"
+    },
+    {
+      "id": 376,
+      "wikidata_id": "Q1072076",
+      "name_it": "Sant'Erasmo",
+      "name_en": "Sant'Erasmo",
+      "latitude": 45.454444,
+      "longitude": 12.407778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1072076"
+    },
+    {
+      "id": 377,
+      "wikidata_id": "Q477640",
+      "name_it": "Santa Cristina",
+      "name_en": "Santa Cristina",
+      "latitude": 45.507778,
+      "longitude": 12.45575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q477640"
+    },
+    {
+      "id": 378,
+      "wikidata_id": "Q1694183",
+      "name_it": "Santa Maria della Grazia",
+      "name_en": "Santa Maria della Grazia",
+      "latitude": 45.4192,
+      "longitude": 12.3394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1694183"
+    },
+    {
+      "id": 379,
+      "wikidata_id": "Q19740031",
+      "name_it": "Sardegna",
+      "name_en": "Sardinia",
+      "latitude": 40.05,
+      "longitude": 9.083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19740031"
+    },
+    {
+      "id": 380,
+      "wikidata_id": "Q733645",
+      "name_it": "Saseno",
+      "name_en": "Sazan Island",
+      "latitude": 40.495,
+      "longitude": 19.28,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q733645"
+    },
+    {
+      "id": 381,
+      "wikidata_id": "Q3952488",
+      "name_it": "Scogli Camerata",
+      "name_en": "",
+      "latitude": 40.740833,
+      "longitude": 13.852222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952488"
+    },
+    {
+      "id": 382,
+      "wikidata_id": "Q3952487",
+      "name_it": "Scogli Castelluccio",
+      "name_en": "",
+      "latitude": 37.043611,
+      "longitude": 15.301944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952487"
+    },
+    {
+      "id": 383,
+      "wikidata_id": "Q3952486",
+      "name_it": "Scogli Coreca",
+      "name_en": "Coreca Reefs",
+      "latitude": 39.095357,
+      "longitude": 16.078758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952486"
+    },
+    {
+      "id": 384,
+      "wikidata_id": "Q3952497",
+      "name_it": "scogli de Piscadeddus",
+      "name_en": "",
+      "latitude": 39.123611,
+      "longitude": 9.464722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952497"
+    },
+    {
+      "id": 385,
+      "wikidata_id": "Q3952500",
+      "name_it": "Scogli dei Bovi Marini",
+      "name_en": "",
+      "latitude": 35.875556,
+      "longitude": 12.880556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952500"
+    },
+    {
+      "id": 386,
+      "wikidata_id": "Q3952501",
+      "name_it": "Scogli del Formaggio",
+      "name_en": "",
+      "latitude": 36.771667,
+      "longitude": 12.055556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952501"
+    },
+    {
+      "id": 387,
+      "wikidata_id": "Q3952502",
+      "name_it": "Scogli della Favorita",
+      "name_en": "",
+      "latitude": 40.796389,
+      "longitude": 14.347222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952502"
+    },
+    {
+      "id": 388,
+      "wikidata_id": "Q3952503",
+      "name_it": "Scogli della Galea",
+      "name_en": "",
+      "latitude": 38.606111,
+      "longitude": 15.849722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952503"
+    },
+    {
+      "id": 389,
+      "wikidata_id": "Q3952505",
+      "name_it": "Scogli della Galera",
+      "name_en": "",
+      "latitude": 39.997778,
+      "longitude": 16.611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952505"
+    },
+    {
+      "id": 390,
+      "wikidata_id": "Q3952506",
+      "name_it": "Scogli della Ringa",
+      "name_en": "",
+      "latitude": 38.684444,
+      "longitude": 15.916944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952506"
+    },
+    {
+      "id": 391,
+      "wikidata_id": "Q3952508",
+      "name_it": "scogli della Scala",
+      "name_en": "",
+      "latitude": 40.790833,
+      "longitude": 14.353333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952508"
+    },
+    {
+      "id": 392,
+      "wikidata_id": "Q3952509",
+      "name_it": "Scogli delle Formiche",
+      "name_en": "",
+      "latitude": 38.660278,
+      "longitude": 15.844167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952509"
+    },
+    {
+      "id": 393,
+      "wikidata_id": "Q3952511",
+      "name_it": "scogli delle Spine",
+      "name_en": "",
+      "latitude": 39.135833,
+      "longitude": 8.244167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952511"
+    },
+    {
+      "id": 394,
+      "wikidata_id": "Q21994366",
+      "name_it": "scogli di Cannazellu",
+      "name_en": "",
+      "latitude": 40.491944,
+      "longitude": 9.818611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21994366"
+    },
+    {
+      "id": 395,
+      "wikidata_id": "Q21991819",
+      "name_it": "scogli di Corona Niedda",
+      "name_en": "",
+      "latitude": 40.21106,
+      "longitude": 8.457246,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991819"
+    },
+    {
+      "id": 396,
+      "wikidata_id": "Q24935266",
+      "name_it": "scogli di Mezzocammino",
+      "name_en": "scogli di Mezzocammino",
+      "latitude": 40.919107,
+      "longitude": 9.535151,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24935266"
+    },
+    {
+      "id": 397,
+      "wikidata_id": "Q21893663",
+      "name_it": "scogli di Mortorietto",
+      "name_en": "",
+      "latitude": 41.086111,
+      "longitude": 9.618611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893663"
+    },
+    {
+      "id": 398,
+      "wikidata_id": "Q1923520",
+      "name_it": "",
+      "name_en": "Scogli di Mortoriotto",
+      "latitude": 41.086111,
+      "longitude": 9.618611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1923520"
+    },
+    {
+      "id": 399,
+      "wikidata_id": "Q21893672",
+      "name_it": "scogli di Munichedda",
+      "name_en": "",
+      "latitude": 41.253097,
+      "longitude": 9.185579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893672"
+    },
+    {
+      "id": 400,
+      "wikidata_id": "Q3952516",
+      "name_it": "scogli di Porto Malo",
+      "name_en": "",
+      "latitude": 38.917222,
+      "longitude": 8.758611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952516"
+    },
+    {
+      "id": 401,
+      "wikidata_id": "Q3952517",
+      "name_it": "Scogli di Riaci",
+      "name_en": "",
+      "latitude": 38.671111,
+      "longitude": 15.868611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952517"
+    },
+    {
+      "id": 402,
+      "wikidata_id": "Q3952515",
+      "name_it": "scogli di Sant'Elmo",
+      "name_en": "",
+      "latitude": 39.101944,
+      "longitude": 9.5275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952515"
+    },
+    {
+      "id": 403,
+      "wikidata_id": "Q21893677",
+      "name_it": "scogli Forani",
+      "name_en": "",
+      "latitude": 40.896667,
+      "longitude": 8.662778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893677"
+    },
+    {
+      "id": 404,
+      "wikidata_id": "Q3952489",
+      "name_it": "Scogli Gucciarda",
+      "name_en": "",
+      "latitude": 37.290833,
+      "longitude": 13.451944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952489"
+    },
+    {
+      "id": 405,
+      "wikidata_id": "Q3952490",
+      "name_it": "Scogli Isca",
+      "name_en": "",
+      "latitude": 39.133333,
+      "longitude": 16.05,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952490"
+    },
+    {
+      "id": 406,
+      "wikidata_id": "Q3952518",
+      "name_it": "scogli l'Agusteri",
+      "name_en": "",
+      "latitude": 39.311944,
+      "longitude": 8.426667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952518"
+    },
+    {
+      "id": 407,
+      "wikidata_id": "Q3952491",
+      "name_it": "scogli Neri",
+      "name_en": "",
+      "latitude": 39.721944,
+      "longitude": 8.449444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952491"
+    },
+    {
+      "id": 408,
+      "wikidata_id": "Q3952493",
+      "name_it": "Scogli Oremus",
+      "name_en": "",
+      "latitude": 39.622222,
+      "longitude": 15.833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952493"
+    },
+    {
+      "id": 409,
+      "wikidata_id": "Q3952494",
+      "name_it": "Scogli Porcelli",
+      "name_en": "",
+      "latitude": 38.043889,
+      "longitude": 12.439444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952494"
+    },
+    {
+      "id": 410,
+      "wikidata_id": "Q3952496",
+      "name_it": "Scogli Sant'Anna",
+      "name_en": "",
+      "latitude": 40.726944,
+      "longitude": 13.960833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952496"
+    },
+    {
+      "id": 411,
+      "wikidata_id": "Q2089906",
+      "name_it": "Scoglietto di Portoferraio",
+      "name_en": "Portoferraio Rock",
+      "latitude": 42.82833,
+      "longitude": 10.33056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2089906"
+    },
+    {
+      "id": 412,
+      "wikidata_id": "Q3952606",
+      "name_it": "Scoglio a Penna",
+      "name_en": "Scoglio a Penna",
+      "latitude": 40.569444,
+      "longitude": 14.339444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952606"
+    },
+    {
+      "id": 413,
+      "wikidata_id": "Q3952607",
+      "name_it": "Scoglio a Pizzo",
+      "name_en": "",
+      "latitude": 37.071944,
+      "longitude": 15.298056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952607"
+    },
+    {
+      "id": 414,
+      "wikidata_id": "Q21451606",
+      "name_it": "scoglio Businco",
+      "name_en": "Scoglio Businco",
+      "latitude": 40.825278,
+      "longitude": 8.187639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21451606"
+    },
+    {
+      "id": 415,
+      "wikidata_id": "Q3952524",
+      "name_it": "Scoglio Camello",
+      "name_en": "",
+      "latitude": 37.983333,
+      "longitude": 12.065278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952524"
+    },
+    {
+      "id": 416,
+      "wikidata_id": "Q3952525",
+      "name_it": "Scoglio Cannone",
+      "name_en": "Scoglio Cannone",
+      "latitude": 40.766667,
+      "longitude": 14.022778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952525"
+    },
+    {
+      "id": 417,
+      "wikidata_id": "Q3952528",
+      "name_it": "Scoglio Cappello",
+      "name_en": "",
+      "latitude": 40.920833,
+      "longitude": 12.849167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952528"
+    },
+    {
+      "id": 418,
+      "wikidata_id": "Q3952529",
+      "name_it": "scoglio Ciamia",
+      "name_en": "Scoglio Ciamia",
+      "latitude": 44.199167,
+      "longitude": 9.556111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952529"
+    },
+    {
+      "id": 419,
+      "wikidata_id": "Q3952530",
+      "name_it": "Scoglio Colombara",
+      "name_en": "Scoglio Colombara",
+      "latitude": 38.719722,
+      "longitude": 13.182778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952530"
+    },
+    {
+      "id": 420,
+      "wikidata_id": "Q3952531",
+      "name_it": "scoglio Corrente",
+      "name_en": "",
+      "latitude": 37.914444,
+      "longitude": 12.285278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952531"
+    },
+    {
+      "id": 421,
+      "wikidata_id": "Q3952532",
+      "name_it": "Scoglio Corvaccino",
+      "name_en": "Scoglio Corvaccino",
+      "latitude": 44.036667,
+      "longitude": 9.963889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952532"
+    },
+    {
+      "id": 422,
+      "wikidata_id": "Q835755",
+      "name_it": "Scoglio d'Africa",
+      "name_en": "Scoglio d'Africa",
+      "latitude": 42.358578,
+      "longitude": 10.064511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q835755"
+    },
+    {
+      "id": 423,
+      "wikidata_id": "Q3952609",
+      "name_it": "Scoglio de' Pesci",
+      "name_en": "Scoglio de' Pesci",
+      "latitude": 44.1025,
+      "longitude": 9.730278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952609"
+    },
+    {
+      "id": 424,
+      "wikidata_id": "Q3952610",
+      "name_it": "Scoglio dei Cani",
+      "name_en": "",
+      "latitude": 37.060556,
+      "longitude": 15.302222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952610"
+    },
+    {
+      "id": 425,
+      "wikidata_id": "Q3952611",
+      "name_it": "Scoglio del Carabiniere",
+      "name_en": "",
+      "latitude": 37.078056,
+      "longitude": 15.2975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952611"
+    },
+    {
+      "id": 426,
+      "wikidata_id": "Q1402179",
+      "name_it": "scoglio del Catalano",
+      "name_en": "Scoglio del Catalano",
+      "latitude": 39.881667,
+      "longitude": 8.275556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1402179"
+    },
+    {
+      "id": 427,
+      "wikidata_id": "Q3952613",
+      "name_it": "Scoglio del Cervaro",
+      "name_en": "",
+      "latitude": 40.076944,
+      "longitude": 16.605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952613"
+    },
+    {
+      "id": 428,
+      "wikidata_id": "Q3952612",
+      "name_it": "Scoglio del Frate",
+      "name_en": "Scoglio del Frate",
+      "latitude": 44.139167,
+      "longitude": 9.673056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952612"
+    },
+    {
+      "id": 429,
+      "wikidata_id": "Q3952614",
+      "name_it": "Scoglio del Godano",
+      "name_en": "",
+      "latitude": 38.638611,
+      "longitude": 15.825833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952614"
+    },
+    {
+      "id": 430,
+      "wikidata_id": "Q3952616",
+      "name_it": "Scoglio del Medico",
+      "name_en": "",
+      "latitude": 38.715556,
+      "longitude": 13.155833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952616"
+    },
+    {
+      "id": 431,
+      "wikidata_id": "Q3952617",
+      "name_it": "Scoglio del Monacone",
+      "name_en": "Scoglio del Monacone",
+      "latitude": 40.543333,
+      "longitude": 14.256667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952617"
+    },
+    {
+      "id": 432,
+      "wikidata_id": "Q3952618",
+      "name_it": "scoglio del Sacramento",
+      "name_en": "",
+      "latitude": 35.528889,
+      "longitude": 12.528333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952618"
+    },
+    {
+      "id": 433,
+      "wikidata_id": "Q66057816",
+      "name_it": "Scoglio dell'elefante",
+      "name_en": "Scoglio dell'elefante",
+      "latitude": 37.859146,
+      "longitude": 15.301948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66057816"
+    },
+    {
+      "id": 434,
+      "wikidata_id": "Q3952619",
+      "name_it": "Scoglio dell'Incudine",
+      "name_en": "",
+      "latitude": 39.980556,
+      "longitude": 16.6175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952619"
+    },
+    {
+      "id": 435,
+      "wikidata_id": "Q3952620",
+      "name_it": "Scoglio dell'Isca",
+      "name_en": "Scoglio dell'Isca",
+      "latitude": 40.606111,
+      "longitude": 14.529444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952620"
+    },
+    {
+      "id": 436,
+      "wikidata_id": "Q3952621",
+      "name_it": "Scoglio dell'Ulivo",
+      "name_en": "Scoglio dell'Ulivo",
+      "latitude": 38.381667,
+      "longitude": 15.857222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952621"
+    },
+    {
+      "id": 437,
+      "wikidata_id": "Q3952622",
+      "name_it": "Scoglio della Botte",
+      "name_en": "Scoglio della Botte",
+      "latitude": 40.838889,
+      "longitude": 13.103333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952622"
+    },
+    {
+      "id": 438,
+      "wikidata_id": "Q3952623",
+      "name_it": "scoglio della Catena",
+      "name_en": "",
+      "latitude": 39.196111,
+      "longitude": 8.319444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952623"
+    },
+    {
+      "id": 439,
+      "wikidata_id": "Q21468026",
+      "name_it": "scoglio della Colombaia",
+      "name_en": "Scoglio della Colombaia",
+      "latitude": 41.2327,
+      "longitude": 9.279095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21468026"
+    },
+    {
+      "id": 440,
+      "wikidata_id": "Q21994356",
+      "name_it": "scoglio della Ghinghetta",
+      "name_en": "",
+      "latitude": 39.2,
+      "longitude": 8.368889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21994356"
+    },
+    {
+      "id": 441,
+      "wikidata_id": "Q2260455",
+      "name_it": "scoglio della Malghera",
+      "name_en": "Scoglio della Malghera",
+      "latitude": 45.8983,
+      "longitude": 8.52389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2260455"
+    },
+    {
+      "id": 442,
+      "wikidata_id": "Q3952626",
+      "name_it": "Scoglio della Margherita",
+      "name_en": "Scoglio della Margherita",
+      "latitude": 40.666389,
+      "longitude": 14.425556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952626"
+    },
+    {
+      "id": 443,
+      "wikidata_id": "Q3952624",
+      "name_it": "Scoglio della Regina",
+      "name_en": "Scoglio della Regina",
+      "latitude": 39.468667,
+      "longitude": 15.97025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952624"
+    },
+    {
+      "id": 444,
+      "wikidata_id": "Q3952627",
+      "name_it": "Scoglio della Tina",
+      "name_en": "",
+      "latitude": 39.981944,
+      "longitude": 16.616667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952627"
+    },
+    {
+      "id": 445,
+      "wikidata_id": "Q3952628",
+      "name_it": "Scoglio delle Sirene",
+      "name_en": "",
+      "latitude": 38.420278,
+      "longitude": 14.951111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952628"
+    },
+    {
+      "id": 446,
+      "wikidata_id": "Q3952629",
+      "name_it": "Scoglio dello Schiavone",
+      "name_en": "Scoglio dello Schiavone",
+      "latitude": 40.763556,
+      "longitude": 14.038331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952629"
+    },
+    {
+      "id": 447,
+      "wikidata_id": "Q3952630",
+      "name_it": "Scoglio dello Zio Gennaro",
+      "name_en": "Scoglio dello Zio Gennaro",
+      "latitude": 37.859167,
+      "longitude": 15.301944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952630"
+    },
+    {
+      "id": 448,
+      "wikidata_id": "Q21994365",
+      "name_it": "scoglio di Arrubius",
+      "name_en": "",
+      "latitude": 39.871389,
+      "longitude": 9.686111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21994365"
+    },
+    {
+      "id": 449,
+      "wikidata_id": "Q3952632",
+      "name_it": "Scoglio di Levante",
+      "name_en": "",
+      "latitude": 40.794444,
+      "longitude": 14.166667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952632"
+    },
+    {
+      "id": 450,
+      "wikidata_id": "Q21991774",
+      "name_it": "scoglio di Marargiu",
+      "name_en": "",
+      "latitude": 40.3375,
+      "longitude": 8.381667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991774"
+    },
+    {
+      "id": 451,
+      "wikidata_id": "Q3952634",
+      "name_it": "Scoglio di Milocca",
+      "name_en": "",
+      "latitude": 37.0044,
+      "longitude": 15.2817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952634"
+    },
+    {
+      "id": 452,
+      "wikidata_id": "Q21893673",
+      "name_it": "scoglio di Monte Russu",
+      "name_en": "",
+      "latitude": 41.157778,
+      "longitude": 9.119722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21893673"
+    },
+    {
+      "id": 453,
+      "wikidata_id": "Q3952633",
+      "name_it": "Scoglio di Montenassari",
+      "name_en": "",
+      "latitude": 38.582222,
+      "longitude": 14.5325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952633"
+    },
+    {
+      "id": 454,
+      "wikidata_id": "Q3952636",
+      "name_it": "Scoglio di Patti",
+      "name_en": "",
+      "latitude": 38.160833,
+      "longitude": 14.992222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952636"
+    },
+    {
+      "id": 455,
+      "wikidata_id": "Q3952638",
+      "name_it": "scoglio di Peppino",
+      "name_en": "",
+      "latitude": 39.236667,
+      "longitude": 9.571944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952638"
+    },
+    {
+      "id": 456,
+      "wikidata_id": "Q3952639",
+      "name_it": "Scoglio di Pietra Patella",
+      "name_en": "",
+      "latitude": 37.189722,
+      "longitude": 13.656944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952639"
+    },
+    {
+      "id": 457,
+      "wikidata_id": "Q21991686",
+      "name_it": "scoglio di Poglina",
+      "name_en": "",
+      "latitude": 40.499722,
+      "longitude": 8.336944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21991686"
+    },
+    {
+      "id": 458,
+      "wikidata_id": "Q3952640",
+      "name_it": "Scoglio di Ponente",
+      "name_en": "",
+      "latitude": 40.797778,
+      "longitude": 14.16,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952640"
+    },
+    {
+      "id": 459,
+      "wikidata_id": "Q3952642",
+      "name_it": "Scoglio di Punta del Duce",
+      "name_en": "",
+      "latitude": 36.7775,
+      "longitude": 12.056667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952642"
+    },
+    {
+      "id": 460,
+      "wikidata_id": "Q3952643",
+      "name_it": "Scoglio di Rovigliano",
+      "name_en": "Scoglio di Rovigliano",
+      "latitude": 40.729482,
+      "longitude": 14.463709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952643"
+    },
+    {
+      "id": 461,
+      "wikidata_id": "Q3952644",
+      "name_it": "Scoglio di San Biagio",
+      "name_en": "",
+      "latitude": 38.041944,
+      "longitude": 14.511111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952644"
+    },
+    {
+      "id": 462,
+      "wikidata_id": "Q3952646",
+      "name_it": "scoglio di Sant'Elmo",
+      "name_en": "",
+      "latitude": 39.215278,
+      "longitude": 9.577222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952646"
+    },
+    {
+      "id": 463,
+      "wikidata_id": "Q3952588",
+      "name_it": "scoglio di Santo Stefano",
+      "name_en": "",
+      "latitude": 39.113056,
+      "longitude": 9.499444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952588"
+    },
+    {
+      "id": 464,
+      "wikidata_id": "Q21880738",
+      "name_it": "scoglio di Sarrala",
+      "name_en": "",
+      "latitude": 39.666389,
+      "longitude": 9.660417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880738"
+    },
+    {
+      "id": 465,
+      "wikidata_id": "Q21880742",
+      "name_it": "scoglio di Su Brecconi",
+      "name_en": "",
+      "latitude": 39.704722,
+      "longitude": 9.671389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21880742"
+    },
+    {
+      "id": 466,
+      "wikidata_id": "Q3952535",
+      "name_it": "Scoglio Faraglione",
+      "name_en": "Scoglio Faraglione",
+      "latitude": 38.579444,
+      "longitude": 14.800556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952535"
+    },
+    {
+      "id": 467,
+      "wikidata_id": "Q2260429",
+      "name_it": "scoglio Ferale",
+      "name_en": "Scoglio Ferale",
+      "latitude": 44.071111,
+      "longitude": 9.781194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2260429"
+    },
+    {
+      "id": 468,
+      "wikidata_id": "Q3952538",
+      "name_it": "Scoglio Forcina",
+      "name_en": "",
+      "latitude": 40.938333,
+      "longitude": 12.861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952538"
+    },
+    {
+      "id": 469,
+      "wikidata_id": "Q3952539",
+      "name_it": "Scoglio Fusarella",
+      "name_en": "Scoglio Fusarella",
+      "latitude": 40.67,
+      "longitude": 14.432778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952539"
+    },
+    {
+      "id": 470,
+      "wikidata_id": "Q3952540",
+      "name_it": "Scoglio Gagiato",
+      "name_en": "",
+      "latitude": 44.133889,
+      "longitude": 9.633333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952540"
+    },
+    {
+      "id": 471,
+      "wikidata_id": "Q3952541",
+      "name_it": "scoglio Galera",
+      "name_en": "Scoglio Galera",
+      "latitude": 44.063333,
+      "longitude": 9.806667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952541"
+    },
+    {
+      "id": 472,
+      "wikidata_id": "Q3952542",
+      "name_it": "Scoglio Giafante",
+      "name_en": "",
+      "latitude": 38.586667,
+      "longitude": 14.545833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952542"
+    },
+    {
+      "id": 473,
+      "wikidata_id": "Q3952543",
+      "name_it": "Scoglio Grimaldo",
+      "name_en": "Scoglio Grimaldo",
+      "latitude": 44.080833,
+      "longitude": 9.767222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952543"
+    },
+    {
+      "id": 474,
+      "wikidata_id": "Q3952544",
+      "name_it": "Scoglio Iannuzzo",
+      "name_en": "",
+      "latitude": 36.691389,
+      "longitude": 14.971944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952544"
+    },
+    {
+      "id": 475,
+      "wikidata_id": "Q3952647",
+      "name_it": "scoglio il Morto",
+      "name_en": "",
+      "latitude": 39.305,
+      "longitude": 8.432222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952647"
+    },
+    {
+      "id": 476,
+      "wikidata_id": "Q3952546",
+      "name_it": "scoglio Is Canneddas",
+      "name_en": "",
+      "latitude": 39.198611,
+      "longitude": 8.386389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952546"
+    },
+    {
+      "id": 477,
+      "wikidata_id": "Q3952550",
+      "name_it": "Scoglio Isca",
+      "name_en": "Island of Isca",
+      "latitude": 40.588056,
+      "longitude": 14.376667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952550"
+    },
+    {
+      "id": 478,
+      "wikidata_id": "Q3952551",
+      "name_it": "Scoglio La Galera",
+      "name_en": "",
+      "latitude": 37.041667,
+      "longitude": 15.295556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952551"
+    },
+    {
+      "id": 479,
+      "wikidata_id": "Q3952648",
+      "name_it": "Scoglio la Grilla",
+      "name_en": "",
+      "latitude": 40.02,
+      "longitude": 16.606944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952648"
+    },
+    {
+      "id": 480,
+      "wikidata_id": "Q3952649",
+      "name_it": "Scoglio la Mitra",
+      "name_en": "",
+      "latitude": 38.578611,
+      "longitude": 14.539167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952649"
+    },
+    {
+      "id": 481,
+      "wikidata_id": "Q3952650",
+      "name_it": "Scoglio la Monaca",
+      "name_en": "",
+      "latitude": 38.726944,
+      "longitude": 16.019722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952650"
+    },
+    {
+      "id": 482,
+      "wikidata_id": "Q3952651",
+      "name_it": "Scoglio la Nave",
+      "name_en": "Scoglio la Nave",
+      "latitude": 38.646944,
+      "longitude": 15.063889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952651"
+    },
+    {
+      "id": 483,
+      "wikidata_id": "Q3952652",
+      "name_it": "Scoglio la Pietra Grande",
+      "name_en": "",
+      "latitude": 38.752778,
+      "longitude": 16.5675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952652"
+    },
+    {
+      "id": 484,
+      "wikidata_id": "Q3952653",
+      "name_it": "Scoglio la Russa",
+      "name_en": "",
+      "latitude": 40.0081,
+      "longitude": 16.6111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952653"
+    },
+    {
+      "id": 485,
+      "wikidata_id": "Q3952654",
+      "name_it": "Scoglio la Vrace",
+      "name_en": "",
+      "latitude": 38.727222,
+      "longitude": 16.021389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952654"
+    },
+    {
+      "id": 486,
+      "wikidata_id": "Q3952553",
+      "name_it": "Scoglio Malconsiglio",
+      "name_en": "",
+      "latitude": 38.025,
+      "longitude": 12.496667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952553"
+    },
+    {
+      "id": 487,
+      "wikidata_id": "Q3952552",
+      "name_it": "Scoglio Maltese",
+      "name_en": "",
+      "latitude": 36.683619,
+      "longitude": 15.149983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952552"
+    },
+    {
+      "id": 488,
+      "wikidata_id": "Q3952554",
+      "name_it": "scoglio Mangiabarche di fuori",
+      "name_en": "Scoglio Mangiabarche",
+      "latitude": 39.076389,
+      "longitude": 8.345278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952554"
+    },
+    {
+      "id": 489,
+      "wikidata_id": "Q3952560",
+      "name_it": "Scoglio Mingardo",
+      "name_en": "Scoglio Mingardo",
+      "latitude": 40.030833,
+      "longitude": 15.313167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952560"
+    },
+    {
+      "id": 490,
+      "wikidata_id": "Q3952561",
+      "name_it": "Scoglio Montagnello",
+      "name_en": "",
+      "latitude": 40.903611,
+      "longitude": 12.943056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952561"
+    },
+    {
+      "id": 491,
+      "wikidata_id": "Q3952562",
+      "name_it": "Scoglio Muginara",
+      "name_en": "Scoglio Muginara",
+      "latitude": 44.038889,
+      "longitude": 9.982222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952562"
+    },
+    {
+      "id": 492,
+      "wikidata_id": "Q3952563",
+      "name_it": "Scoglio Nave",
+      "name_en": "",
+      "latitude": 44.416111,
+      "longitude": 8.725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952563"
+    },
+    {
+      "id": 493,
+      "wikidata_id": "Q3952564",
+      "name_it": "Scoglio Nero",
+      "name_en": "Scoglio Nero",
+      "latitude": 44.151884,
+      "longitude": 9.614873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952564"
+    },
+    {
+      "id": 494,
+      "wikidata_id": "Q3952565",
+      "name_it": "Scoglio Pallante",
+      "name_en": "Scoglio pallante",
+      "latitude": 40.928333,
+      "longitude": 12.848611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952565"
+    },
+    {
+      "id": 495,
+      "wikidata_id": "Q3952567",
+      "name_it": "Scoglio Palomba",
+      "name_en": "",
+      "latitude": 38.532778,
+      "longitude": 14.360278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952567"
+    },
+    {
+      "id": 496,
+      "wikidata_id": "Q3952568",
+      "name_it": "Scoglio Palombaro",
+      "name_en": "",
+      "latitude": 38.685,
+      "longitude": 15.919444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952568"
+    },
+    {
+      "id": 497,
+      "wikidata_id": "Q3952570",
+      "name_it": "Scoglio Palumbo",
+      "name_en": "",
+      "latitude": 37.914444,
+      "longitude": 12.310833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952570"
+    },
+    {
+      "id": 498,
+      "wikidata_id": "Q3952571",
+      "name_it": "Scoglio Palumbo",
+      "name_en": "",
+      "latitude": 38.0125,
+      "longitude": 12.488333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952571"
+    },
+    {
+      "id": 499,
+      "wikidata_id": "Q3361846",
+      "name_it": "scoglio Pan di Zucchero",
+      "name_en": "Pan di Zucchero",
+      "latitude": 39.333833,
+      "longitude": 8.39982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3361846"
+    },
+    {
+      "id": 500,
+      "wikidata_id": "Q3952573",
+      "name_it": "Scoglio Pastizza",
+      "name_en": "",
+      "latitude": 38.702222,
+      "longitude": 13.192778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952573"
+    },
+    {
+      "id": 501,
+      "wikidata_id": "Q3952574",
+      "name_it": "Scoglio Pietra Salata",
+      "name_en": "Scoglio Pietra Salata",
+      "latitude": 40.7975,
+      "longitude": 14.205833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952574"
+    },
+    {
+      "id": 502,
+      "wikidata_id": "Q3952576",
+      "name_it": "Scoglio Pignolta",
+      "name_en": "",
+      "latitude": 35.526944,
+      "longitude": 12.523333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952576"
+    },
+    {
+      "id": 503,
+      "wikidata_id": "Q3952578",
+      "name_it": "Scoglio Pila Nova",
+      "name_en": "Scoglio Pila Nova",
+      "latitude": 40.579722,
+      "longitude": 14.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952578"
+    },
+    {
+      "id": 504,
+      "wikidata_id": "Q3952579",
+      "name_it": "Scoglio Ravia",
+      "name_en": "",
+      "latitude": 40.899722,
+      "longitude": 12.965278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952579"
+    },
+    {
+      "id": 505,
+      "wikidata_id": "Q3952581",
+      "name_it": "Scoglio Ricotta",
+      "name_en": "Scoglio Ricotta",
+      "latitude": 40.560556,
+      "longitude": 14.258056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952581"
+    },
+    {
+      "id": 506,
+      "wikidata_id": "Q3952583",
+      "name_it": "Scoglio Rosso",
+      "name_en": "",
+      "latitude": 40.947778,
+      "longitude": 13.025833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952583"
+    },
+    {
+      "id": 507,
+      "wikidata_id": "Q3952584",
+      "name_it": "Scoglio Safò",
+      "name_en": "",
+      "latitude": 38.727778,
+      "longitude": 16.066667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952584"
+    },
+    {
+      "id": 508,
+      "wikidata_id": "Q3952586",
+      "name_it": "Scoglio Sant'Anna",
+      "name_en": "Scoglio Sant'Anna",
+      "latitude": 40.760778,
+      "longitude": 14.036111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952586"
+    },
+    {
+      "id": 509,
+      "wikidata_id": "Q3952587",
+      "name_it": "Scoglio Sant'Elia",
+      "name_en": "",
+      "latitude": 39.183611,
+      "longitude": 9.142222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952587"
+    },
+    {
+      "id": 510,
+      "wikidata_id": "Q3952589",
+      "name_it": "Scoglio Scialandro",
+      "name_en": "",
+      "latitude": 38.115278,
+      "longitude": 12.685278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952589"
+    },
+    {
+      "id": 511,
+      "wikidata_id": "Q3952590",
+      "name_it": "scoglio Scibiliana",
+      "name_en": "",
+      "latitude": 37.730556,
+      "longitude": 12.469444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952590"
+    },
+    {
+      "id": 512,
+      "wikidata_id": "Q3952592",
+      "name_it": "scoglio Scruopolo",
+      "name_en": "",
+      "latitude": 40.586111,
+      "longitude": 14.368611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952592"
+    },
+    {
+      "id": 513,
+      "wikidata_id": "Q3952591",
+      "name_it": "Scoglio Scuncillo",
+      "name_en": "",
+      "latitude": 40.950278,
+      "longitude": 12.853611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952591"
+    },
+    {
+      "id": 514,
+      "wikidata_id": "Q3952593",
+      "name_it": "Scoglio Spinazzola",
+      "name_en": "Scoglio Spinazzola",
+      "latitude": 38.664574,
+      "longitude": 15.108158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952593"
+    },
+    {
+      "id": 515,
+      "wikidata_id": "Q3952594",
+      "name_it": "Scoglio Suvace",
+      "name_en": "Scoglio Suvace",
+      "latitude": 40.926944,
+      "longitude": 12.86,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952594"
+    },
+    {
+      "id": 516,
+      "wikidata_id": "Q3952602",
+      "name_it": "Scoglio Tontonara",
+      "name_en": "",
+      "latitude": 43.969722,
+      "longitude": 8.163333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952602"
+    },
+    {
+      "id": 517,
+      "wikidata_id": "Q3952597",
+      "name_it": "Scoglio Trachini",
+      "name_en": "",
+      "latitude": 38.379167,
+      "longitude": 15.856389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952597"
+    },
+    {
+      "id": 518,
+      "wikidata_id": "Q3952598",
+      "name_it": "Scoglio Tre Fratelli",
+      "name_en": "",
+      "latitude": 40.675833,
+      "longitude": 14.434722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952598"
+    },
+    {
+      "id": 519,
+      "wikidata_id": "Q3952599",
+      "name_it": "Scoglio Trentova",
+      "name_en": "Scoglio Trentova",
+      "latitude": 40.345833,
+      "longitude": 14.971667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952599"
+    },
+    {
+      "id": 520,
+      "wikidata_id": "Q3952600",
+      "name_it": "Scoglio Unghia Marina",
+      "name_en": "Scoglio Unghia Marina",
+      "latitude": 40.545556,
+      "longitude": 14.245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952600"
+    },
+    {
+      "id": 521,
+      "wikidata_id": "Q3952601",
+      "name_it": "Scoglio Vetara",
+      "name_en": "",
+      "latitude": 40.583056,
+      "longitude": 14.397222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952601"
+    },
+    {
+      "id": 522,
+      "wikidata_id": "Q3952604",
+      "name_it": "Scoglio Viciatello",
+      "name_en": "Scoglio Viciatello",
+      "latitude": 44.036944,
+      "longitude": 9.967778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3952604"
+    },
+    {
+      "id": 523,
+      "wikidata_id": "Q955207",
+      "name_it": "Secche della Meloria",
+      "name_en": "Meloria",
+      "latitude": 43.54625,
+      "longitude": 10.218542,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q955207"
+    },
+    {
+      "id": 524,
+      "wikidata_id": "Q4951156",
+      "name_it": "Sicilia",
+      "name_en": "Sicily",
+      "latitude": 37.566667,
+      "longitude": 14.266667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4951156"
+    },
+    {
+      "id": 525,
+      "wikidata_id": "Q109536138",
+      "name_it": "",
+      "name_en": "Spiaggia del Bacan",
+      "latitude": 45.44572,
+      "longitude": 12.4105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109536138"
+    },
+    {
+      "id": 526,
+      "wikidata_id": "Q1189187",
+      "name_it": "Strombolicchio",
+      "name_en": "Strombolicchio",
+      "latitude": 38.817306,
+      "longitude": 15.251972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1189187"
+    },
+    {
+      "id": 527,
+      "wikidata_id": "Q3976436",
+      "name_it": "Su Scoglitteddu",
+      "name_en": "",
+      "latitude": 39.203056,
+      "longitude": 8.374444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3976436"
+    },
+    {
+      "id": 528,
+      "wikidata_id": "Q1126234",
+      "name_it": "Tavolara",
+      "name_en": "Tavolara Island",
+      "latitude": 40.9062,
+      "longitude": 9.7133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1126234"
+    },
+    {
+      "id": 529,
+      "wikidata_id": "Q2406309",
+      "name_it": "Tessera",
+      "name_en": "Tessera",
+      "latitude": 45.47142,
+      "longitude": 12.34387,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2406309"
+    },
+    {
+      "id": 530,
+      "wikidata_id": "Q752505",
+      "name_it": "Tinetto",
+      "name_en": "Tinetto",
+      "latitude": 44.023508,
+      "longitude": 9.851264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q752505"
+    },
+    {
+      "id": 531,
+      "wikidata_id": "Q52441",
+      "name_it": "Torcello",
+      "name_en": "Torcello",
+      "latitude": 45.498333,
+      "longitude": 12.418333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52441"
+    },
+    {
+      "id": 532,
+      "wikidata_id": "Q2444797",
+      "name_it": "",
+      "name_en": "Torson di Sotto",
+      "latitude": 45.352928,
+      "longitude": 12.235936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2444797"
+    },
+    {
+      "id": 533,
+      "wikidata_id": "Q2452179",
+      "name_it": "Trezze",
+      "name_en": "Trezze (Venice)",
+      "latitude": 45.438061,
+      "longitude": 12.297692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2452179"
+    },
+    {
+      "id": 534,
+      "wikidata_id": "Q1758658",
+      "name_it": "Tronchetto",
+      "name_en": "Tronchetto",
+      "latitude": 45.440833,
+      "longitude": 12.304722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1758658"
+    },
+    {
+      "id": 535,
+      "wikidata_id": "Q1092680",
+      "name_it": "Vignole",
+      "name_en": "Vignole",
+      "latitude": 45.44,
+      "longitude": 12.375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1092680"
+    },
+    {
+      "id": 536,
+      "wikidata_id": "Q34789992",
+      "name_it": "",
+      "name_en": "Ìsola Piana",
+      "latitude": 39.191389,
+      "longitude": 8.320556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34789992"
+    },
+    {
+      "id": 537,
+      "wikidata_id": "Q34790009",
+      "name_it": "",
+      "name_en": "Ísola Morgo",
+      "latitude": 45.706667,
+      "longitude": 13.316944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34790009"
+    }
+  ],
+  "meta": {
+    "title": "Isole in Italia - Download gratuito",
+    "description": "Elenco delle isole in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 537 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Isole in Italia | ListBase",
+    "seo_description": "Scarica Isole in Italia — 537 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 537 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

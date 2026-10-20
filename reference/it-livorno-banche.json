@@ -1,0 +1,548 @@
+{
+  "id": "it-livorno-banche",
+  "name": "Banche a Livorno — codici SWIFT/BIC",
+  "title": "Banche a Livorno — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Livorno, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2108,
+      "bank": "BANCA CRAS CRED.COOP. TOSCANO - SIENA",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "ICRAITR1OLP"
+    },
+    {
+      "id": 2291,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LIVORNO",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "BMLUIT3L116"
+    },
+    {
+      "id": 2292,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "BMLUIT3L127"
+    },
+    {
+      "id": 2835,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CASTAGNETO CARDUCCI S.C.R.L.",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO 1)",
+      "swift_code": "BCCDIT31108"
+    },
+    {
+      "id": 2836,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CASTAGNETO CARDUCCI S.C.R.L.",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO 2)",
+      "swift_code": "BCCDIT31109"
+    },
+    {
+      "id": 2837,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CASTAGNETO CARDUCCI S.C.R.L.",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO 3)",
+      "swift_code": "BCCDIT31112"
+    },
+    {
+      "id": 2838,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CASTAGNETO CARDUCCI S.C.R.L.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO 4)",
+      "swift_code": "BCCDIT31116"
+    },
+    {
+      "id": 3643,
+      "bank": "BANCA D'ITALIA",
+      "city": "LIVORNO",
+      "branch": "(SEDE DI LIVORNO)",
+      "swift_code": "BITAITR1313"
+    },
+    {
+      "id": 4894,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 10)",
+      "swift_code": "PASCITM1Y01"
+    },
+    {
+      "id": 4895,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 11)",
+      "swift_code": "PASCITM1Y02"
+    },
+    {
+      "id": 4896,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 12)",
+      "swift_code": "PASCITM1Y03"
+    },
+    {
+      "id": 4897,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 13)",
+      "swift_code": "PASCITM1Y04"
+    },
+    {
+      "id": 4898,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 8)",
+      "swift_code": "PASCITM1W99"
+    },
+    {
+      "id": 4899,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 9)",
+      "swift_code": "PASCITM1Y00"
+    },
+    {
+      "id": 4900,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG.7)",
+      "swift_code": "PASCITM1LI7"
+    },
+    {
+      "id": 4901,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO DELPHI ITALIA A.S. SRL)",
+      "swift_code": "PASCITM1W98"
+    },
+    {
+      "id": 4902,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI1"
+    },
+    {
+      "id": 4903,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI2"
+    },
+    {
+      "id": 4904,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI3"
+    },
+    {
+      "id": 4905,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI4"
+    },
+    {
+      "id": 4906,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI5"
+    },
+    {
+      "id": 4907,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITM1LI6"
+    },
+    {
+      "id": 4908,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "PASCITMMLIV"
+    },
+    {
+      "id": 6776,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR15FZ"
+    },
+    {
+      "id": 6777,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(AGENZIA ACCADEMIA NAVALA)",
+      "swift_code": "BNLIITR15GZ"
+    },
+    {
+      "id": 6778,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(AGENZIA CAMP DARBY)",
+      "swift_code": "BNLIITR15HZ"
+    },
+    {
+      "id": 6779,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "BNLIITRRLIX"
+    },
+    {
+      "id": 9055,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO 446)",
+      "swift_code": "BPSPIT21446"
+    },
+    {
+      "id": 10420,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 1)",
+      "swift_code": "BAPPIT21T01"
+    },
+    {
+      "id": 10421,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 10)",
+      "swift_code": "BAPPIT21T06"
+    },
+    {
+      "id": 10422,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 11)",
+      "swift_code": "BAPPIT21T08"
+    },
+    {
+      "id": 10423,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 12)",
+      "swift_code": "BAPPIT21T10"
+    },
+    {
+      "id": 10424,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 13 TESORERIA COMUNALE)",
+      "swift_code": "BAPPIT21T11"
+    },
+    {
+      "id": 10425,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 14)",
+      "swift_code": "BAPPIT21N49"
+    },
+    {
+      "id": 10426,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 2)",
+      "swift_code": "BAPPIT21T02"
+    },
+    {
+      "id": 10427,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 3)",
+      "swift_code": "BAPPIT21T03"
+    },
+    {
+      "id": 10428,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 4)",
+      "swift_code": "BAPPIT21T05"
+    },
+    {
+      "id": 10429,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 5)",
+      "swift_code": "BAPPIT21T09"
+    },
+    {
+      "id": 10430,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 6)",
+      "swift_code": "BAPPIT21T07"
+    },
+    {
+      "id": 10431,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 9)",
+      "swift_code": "BAPPIT21T04"
+    },
+    {
+      "id": 10432,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO CNA)",
+      "swift_code": "BAPPIT21V02"
+    },
+    {
+      "id": 10433,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO CREDITO SU PEGNO)",
+      "swift_code": "BAPPIT21T46"
+    },
+    {
+      "id": 10434,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO-CENTRO COMMERCIALE MARILIA)",
+      "swift_code": "BAPPIT21V01"
+    },
+    {
+      "id": 10435,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(QUERCIANELLA)",
+      "swift_code": "BAPPIT21T31"
+    },
+    {
+      "id": 10436,
+      "bank": "BANCO BPM SPA",
+      "city": "LIVORNO",
+      "branch": "(SEDE DI LIVORNO)",
+      "swift_code": "BAPPIT21T00"
+    },
+    {
+      "id": 12021,
+      "bank": "BANCO DI SARDEGNA SPA",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "SARDIT31930"
+    },
+    {
+      "id": 13409,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(FILIALE IMPRESE LIVORNO)",
+      "swift_code": "CRFIIT3F384"
+    },
+    {
+      "id": 13410,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO BRANCH 1)",
+      "swift_code": "CRFIIT3F406"
+    },
+    {
+      "id": 13411,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO BRANCH 2)",
+      "swift_code": "CRFIIT3F408"
+    },
+    {
+      "id": 13589,
+      "bank": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(BRANCH NR. 1)",
+      "swift_code": "CRSMIT3S967"
+    },
+    {
+      "id": 13628,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO - PIAZZA MATTEOTTI)",
+      "swift_code": "CRVOIT21051"
+    },
+    {
+      "id": 13629,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO - VIA GIOTTO CIARDI)",
+      "swift_code": "CRVOIT21048"
+    },
+    {
+      "id": 13630,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "LIVORNO",
+      "branch": "(FILIALE DI LIVORNO - VIA SANSONI)",
+      "swift_code": "CRVOIT21053"
+    },
+    {
+      "id": 15397,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AG. 2)",
+      "swift_code": "BACRIT21705"
+    },
+    {
+      "id": 15398,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO BRANCH)",
+      "swift_code": "BACRIT21200"
+    },
+    {
+      "id": 16312,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "LIVORNO",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1316"
+    },
+    {
+      "id": 16313,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "LIVORNO",
+      "branch": "",
+      "swift_code": "DEUTITM1400"
+    },
+    {
+      "id": 17859,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO BRANCH)",
+      "swift_code": "BPVIIT21479"
+    },
+    {
+      "id": 20209,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "LIVORNO",
+      "branch": "(AGENZIA 2 LIVORNO)",
+      "swift_code": "ARBAIT33128"
+    },
+    {
+      "id": 20210,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "LIVORNO",
+      "branch": "(AGENZIA 3 LIVORNO)",
+      "swift_code": "ARBAIT33062"
+    },
+    {
+      "id": 20211,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "LIVORNO",
+      "branch": "(SEDE DI LIVORNO)",
+      "swift_code": "ARBAIT33058"
+    },
+    {
+      "id": 23858,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AGIP)",
+      "swift_code": "UNCRITM1Z10"
+    },
+    {
+      "id": 23859,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO ARDENZA)",
+      "swift_code": "UNCRITM1F26"
+    },
+    {
+      "id": 23860,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO ATTIAS)",
+      "swift_code": "UNCRITM1531"
+    },
+    {
+      "id": 23861,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO AZZATI)",
+      "swift_code": "UNCRITM1G06"
+    },
+    {
+      "id": 23862,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO CAIROLI A)",
+      "swift_code": "UNCRITM1530"
+    },
+    {
+      "id": 23863,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO COGORANO)",
+      "swift_code": "UNCRITM1DD9"
+    },
+    {
+      "id": 23864,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO DUE GIUGNO)",
+      "swift_code": "UNCRITM1F24"
+    },
+    {
+      "id": 23865,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO PIERBURG)",
+      "swift_code": "UNCRITM1Z09"
+    },
+    {
+      "id": 23866,
+      "bank": "UNICREDIT SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO)",
+      "swift_code": "UNCRITM192Y"
+    },
+    {
+      "id": 26005,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "LIVORNO",
+      "branch": "(LIVORNO BRANCH)",
+      "swift_code": "BAECIT21186"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Livorno — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Livorno, Italy Contiene 71 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Livorno — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Livorno — codici SWIFT/BIC — 71 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 71 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

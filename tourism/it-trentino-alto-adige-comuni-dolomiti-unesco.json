@@ -1,0 +1,440 @@
+{
+  "id": "it-trentino-alto-adige-comuni-dolomiti-unesco",
+  "name": "Comuni delle Dolomiti UNESCO in Trentino-Alto Adige (UNESCO Dolomites municipalities in Trentino-Alto Adige)",
+  "title": "Comuni delle Dolomiti UNESCO in Trentino-Alto Adige (UNESCO Dolomites municipalities in Trentino-Alto Adige)",
+  "description": "Elenco dei 48 comuni della regione Trentino-Alto Adige che rientrano nelle aree delle Dolomiti Patrimonio Mondiale UNESCO. List of 48 municipalities in Trentino-Alto Adige within the UNESCO World Heritage Dolomites areas.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "codice_istat_regione",
+      "label": "Codice Istat Regione",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_provincia",
+      "label": "Codice Istat Provincia",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_comune",
+      "label": "Codice Istat Comune",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comune": "Aldino",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21001"
+    },
+    {
+      "comune": "Andalo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22005"
+    },
+    {
+      "comune": "Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21006"
+    },
+    {
+      "comune": "Braies",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21009"
+    },
+    {
+      "comune": "Campitello di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22036"
+    },
+    {
+      "comune": "Campodenno",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22037"
+    },
+    {
+      "comune": "Canazei",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22039"
+    },
+    {
+      "comune": "Castelrotto",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21019"
+    },
+    {
+      "comune": "Cavedago",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22052"
+    },
+    {
+      "comune": "Comano Terme",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22228"
+    },
+    {
+      "comune": "Corvara in Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21026"
+    },
+    {
+      "comune": "Dobbiaco",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21028"
+    },
+    {
+      "comune": "Fiè allo Sciliar",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21031"
+    },
+    {
+      "comune": "Funes",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21033"
+    },
+    {
+      "comune": "Imer",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22097"
+    },
+    {
+      "comune": "La Valle",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21117"
+    },
+    {
+      "comune": "Laion",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21039"
+    },
+    {
+      "comune": "Marebbe",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21047"
+    },
+    {
+      "comune": "Mazzin",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22113"
+    },
+    {
+      "comune": "Mezzano",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22115"
+    },
+    {
+      "comune": "Moena",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22118"
+    },
+    {
+      "comune": "Molveno",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22120"
+    },
+    {
+      "comune": "Monguelfo-Tesido",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21052"
+    },
+    {
+      "comune": "Nova Levante",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21058"
+    },
+    {
+      "comune": "Nova Ponente",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21059"
+    },
+    {
+      "comune": "Ortisei",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21061"
+    },
+    {
+      "comune": "Pinzolo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22143"
+    },
+    {
+      "comune": "Pozza di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22145"
+    },
+    {
+      "comune": "Predazzo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22147"
+    },
+    {
+      "comune": "Primiero San Martino di Castrozza",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22245"
+    },
+    {
+      "comune": "Sagron Mis",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22164"
+    },
+    {
+      "comune": "San Candido",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21077"
+    },
+    {
+      "comune": "San Lorenzo Dorsino",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22231"
+    },
+    {
+      "comune": "San Martino in Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21082"
+    },
+    {
+      "comune": "Santa Cristina Valgardena",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21085"
+    },
+    {
+      "comune": "Selva di Val Gardena",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21089"
+    },
+    {
+      "comune": "Sesto",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21092"
+    },
+    {
+      "comune": "Soraga",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22176"
+    },
+    {
+      "comune": "Spormaggiore",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22180"
+    },
+    {
+      "comune": "Sporminore",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22181"
+    },
+    {
+      "comune": "Stenico",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22182"
+    },
+    {
+      "comune": "Tesero",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22196"
+    },
+    {
+      "comune": "Tires",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21100"
+    },
+    {
+      "comune": "Tre Ville",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22247"
+    },
+    {
+      "comune": "Valdaora",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21106"
+    },
+    {
+      "comune": "Vigo di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22217"
+    },
+    {
+      "comune": "Villabassa",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21113"
+    },
+    {
+      "comune": "Ville d'Anaunia",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22249"
+    }
+  ],
+  "meta": {
+    "title": "Comuni delle Dolomiti UNESCO in Trentino-Alto Adige (UNESCO Dolomites municipalities in Trentino-Alto Adige) - Download gratuito",
+    "description": "Elenco dei 48 comuni della regione Trentino-Alto Adige che rientrano nelle aree delle Dolomiti Patrimonio Mondiale UNESCO. List of 48 municipalities in Trentino-Alto Adige within the UNESCO World Heritage Dolomites areas. Contiene 48 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni delle Dolomiti UNESCO in Trentino-Alto Adige (UNESCO Dolomites municipalities in Trentino-Alto Adige) | ListBase",
+    "seo_description": "Scarica Comuni delle Dolomiti UNESCO in Trentino-Alto Adige (UNESCO Dolomites municipalities in Trentino-Alto Adige) — 48 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 48 record / 6 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "it-puglia-province",
+  "name": "Province della Puglia (Provinces of Puglia)",
+  "title": "Province della Puglia (Provinces of Puglia)",
+  "description": "Elenco delle 6 unità provinciali della regione Puglia, con sigla automobilistica e flag città metropolitana. List of 6 provincial-tier units in the Puglia region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 272,
+      "nome": "Bari",
+      "slug": "bari",
+      "sigla": "BA",
+      "citta_metropolitana": true,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 41
+    },
+    {
+      "id": 74,
+      "nome": "Brindisi",
+      "slug": "brindisi",
+      "sigla": "BR",
+      "citta_metropolitana": false,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 20
+    },
+    {
+      "id": 110,
+      "nome": "Barletta-Andria-Trani",
+      "slug": "barletta-andria-trani",
+      "sigla": "BT",
+      "citta_metropolitana": false,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 10
+    },
+    {
+      "id": 71,
+      "nome": "Foggia",
+      "slug": "foggia",
+      "sigla": "FG",
+      "citta_metropolitana": false,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 61
+    },
+    {
+      "id": 75,
+      "nome": "Lecce",
+      "slug": "lecce",
+      "sigla": "LE",
+      "citta_metropolitana": false,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 96
+    },
+    {
+      "id": 73,
+      "nome": "Taranto",
+      "slug": "taranto",
+      "sigla": "TA",
+      "citta_metropolitana": false,
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia",
+      "num_comuni": 29
+    }
+  ],
+  "meta": {
+    "title": "Province della Puglia (Provinces of Puglia) - Download gratuito",
+    "description": "Elenco delle 6 unità provinciali della regione Puglia, con sigla automobilistica e flag città metropolitana. List of 6 provincial-tier units in the Puglia region with 2-letter sigla and metropolitan-city flag. Contiene 6 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Puglia (Provinces of Puglia) | ListBase",
+    "seo_description": "Scarica Province della Puglia (Provinces of Puglia) — 6 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

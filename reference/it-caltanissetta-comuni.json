@@ -1,0 +1,340 @@
+{
+  "id": "it-caltanissetta-comuni",
+  "name": "Comuni della provincia di Caltanissetta",
+  "title": "Comuni della provincia di Caltanissetta",
+  "description": "Elenco dei 22 comuni della provincia di Caltanissetta (sigla CL), regione Sicilia. List of 22 comuni in the province of Caltanissetta (CL), Sicilia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 85001,
+      "nome": "Acquaviva Platani",
+      "slug": "acquaviva-platani",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85002,
+      "nome": "Bompensiere",
+      "slug": "bompensiere",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85003,
+      "nome": "Butera",
+      "slug": "butera",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85004,
+      "nome": "Caltanissetta",
+      "slug": "caltanissetta",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85005,
+      "nome": "Campofranco",
+      "slug": "campofranco",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85006,
+      "nome": "Delia",
+      "slug": "delia",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85007,
+      "nome": "Gela",
+      "slug": "gela",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85008,
+      "nome": "Marianopoli",
+      "slug": "marianopoli",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85009,
+      "nome": "Mazzarino",
+      "slug": "mazzarino",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85010,
+      "nome": "Milena",
+      "slug": "milena",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85011,
+      "nome": "Montedoro",
+      "slug": "montedoro",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85012,
+      "nome": "Mussomeli",
+      "slug": "mussomeli",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85013,
+      "nome": "Niscemi",
+      "slug": "niscemi",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85014,
+      "nome": "Resuttano",
+      "slug": "resuttano",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85015,
+      "nome": "Riesi",
+      "slug": "riesi",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85016,
+      "nome": "San Cataldo",
+      "slug": "san-cataldo",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85017,
+      "nome": "Santa Caterina Villarmosa",
+      "slug": "santa-caterina-villarmosa",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85018,
+      "nome": "Serradifalco",
+      "slug": "serradifalco",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85019,
+      "nome": "Sommatino",
+      "slug": "sommatino",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85020,
+      "nome": "Sutera",
+      "slug": "sutera",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85021,
+      "nome": "Vallelunga Pratameno",
+      "slug": "vallelunga-pratameno",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 85022,
+      "nome": "Villalba",
+      "slug": "villalba",
+      "provincia_id": 85,
+      "provincia_nome": "Caltanissetta",
+      "provincia_sigla": "CL",
+      "provincia_slug": "caltanissetta",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Caltanissetta - Download gratuito",
+    "description": "Elenco dei 22 comuni della provincia di Caltanissetta (sigla CL), regione Sicilia. List of 22 comuni in the province of Caltanissetta (CL), Sicilia region. Contiene 22 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Caltanissetta | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Caltanissetta — 22 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 22 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

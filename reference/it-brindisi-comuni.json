@@ -1,0 +1,316 @@
+{
+  "id": "it-brindisi-comuni",
+  "name": "Comuni della provincia di Brindisi",
+  "title": "Comuni della provincia di Brindisi",
+  "description": "Elenco dei 20 comuni della provincia di Brindisi (sigla BR), regione Puglia. List of 20 comuni in the province of Brindisi (BR), Puglia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 74001,
+      "nome": "Brindisi",
+      "slug": "brindisi",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74002,
+      "nome": "Carovigno",
+      "slug": "carovigno",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74003,
+      "nome": "Ceglie Messapica",
+      "slug": "ceglie-messapica",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74004,
+      "nome": "Cellino San Marco",
+      "slug": "cellino-san-marco",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74005,
+      "nome": "Cisternino",
+      "slug": "cisternino",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74006,
+      "nome": "Erchie",
+      "slug": "erchie",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74007,
+      "nome": "Fasano",
+      "slug": "fasano",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74008,
+      "nome": "Francavilla Fontana",
+      "slug": "francavilla-fontana",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74009,
+      "nome": "Latiano",
+      "slug": "latiano",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74010,
+      "nome": "Mesagne",
+      "slug": "mesagne",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74011,
+      "nome": "Oria",
+      "slug": "oria",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74012,
+      "nome": "Ostuni",
+      "slug": "ostuni",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74013,
+      "nome": "San Donaci",
+      "slug": "san-donaci",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74014,
+      "nome": "San Michele Salentino",
+      "slug": "san-michele-salentino",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74015,
+      "nome": "San Pancrazio Salentino",
+      "slug": "san-pancrazio-salentino",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74016,
+      "nome": "San Pietro Vernotico",
+      "slug": "san-pietro-vernotico",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74017,
+      "nome": "San Vito dei Normanni",
+      "slug": "san-vito-dei-normanni",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74018,
+      "nome": "Torchiarolo",
+      "slug": "torchiarolo",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74019,
+      "nome": "Torre Santa Susanna",
+      "slug": "torre-santa-susanna",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 74020,
+      "nome": "Villa Castelli",
+      "slug": "villa-castelli",
+      "provincia_id": 74,
+      "provincia_nome": "Brindisi",
+      "provincia_sigla": "BR",
+      "provincia_slug": "brindisi",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Brindisi - Download gratuito",
+    "description": "Elenco dei 20 comuni della provincia di Brindisi (sigla BR), regione Puglia. List of 20 comuni in the province of Brindisi (BR), Puglia region. Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Brindisi | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Brindisi — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

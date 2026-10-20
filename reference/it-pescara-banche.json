@@ -1,0 +1,492 @@
+{
+  "id": "it-pescara-banche",
+  "name": "Banche a Pescara — codici SWIFT/BIC",
+  "title": "Banche a Pescara — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Pescara, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1046,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "ANTBIT21877"
+    },
+    {
+      "id": 2260,
+      "bank": "BANCA DEL FUCINO",
+      "city": "PESCARA",
+      "branch": "(AGENZIA PESCARA)",
+      "swift_code": "BAFUITR1055"
+    },
+    {
+      "id": 2520,
+      "bank": "BANCA DI CREDITO COOPERATIVO ABRUZZESE-CAPPELLE SUL TAVO-SOC.COOP.PER AZIONI A MUTUALITA' PREVALENTE",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "ICRAITR1C21"
+    },
+    {
+      "id": 2521,
+      "bank": "BANCA DI CREDITO COOPERATIVO ABRUZZESE-CAPPELLE SUL TAVO-SOC.COOP.PER AZIONI A MUTUALITA' PREVALENTE",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "ICRAITR1C22"
+    },
+    {
+      "id": 2854,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CASTIGLIONE MESSER RAIMONDO E PIANELLA S.C.P.A.R.L.",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI CERRATINA)",
+      "swift_code": "ICRAITR1D51"
+    },
+    {
+      "id": 3666,
+      "bank": "BANCA D'ITALIA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA)",
+      "swift_code": "BITAITR1402"
+    },
+    {
+      "id": 5495,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA AG. 2)",
+      "swift_code": "PASCITM1877"
+    },
+    {
+      "id": 5496,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA AG. 3)",
+      "swift_code": "PASCITM1Z37"
+    },
+    {
+      "id": 5497,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA AG. 4)",
+      "swift_code": "PASCITM1Z38"
+    },
+    {
+      "id": 5498,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA AG. 5)",
+      "swift_code": "PASCITM1Z39"
+    },
+    {
+      "id": 5499,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA AG. 6)",
+      "swift_code": "PASCITM1Z36"
+    },
+    {
+      "id": 5500,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "PASCITM1PE1"
+    },
+    {
+      "id": 5501,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "PASCITMMPES"
+    },
+    {
+      "id": 6922,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18UZ"
+    },
+    {
+      "id": 6923,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR18VZ"
+    },
+    {
+      "id": 6924,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR18WZ"
+    },
+    {
+      "id": 6925,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "BNLIITRRPEX"
+    },
+    {
+      "id": 7804,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA - CARDUCCI)",
+      "swift_code": "BPBAIT21389"
+    },
+    {
+      "id": 7805,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA - COLLI)",
+      "swift_code": "BPBAIT21395"
+    },
+    {
+      "id": 7806,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA - PAOLINI)",
+      "swift_code": "BPBAIT21392"
+    },
+    {
+      "id": 7807,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA - TIBURTINA)",
+      "swift_code": "BPBAIT21393"
+    },
+    {
+      "id": 7808,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA CONTE DI RUVO)",
+      "swift_code": "BPBAIT21362"
+    },
+    {
+      "id": 7809,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA DUCA D. ABRUZZI)",
+      "swift_code": "BPBAIT21391"
+    },
+    {
+      "id": 7810,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA PORTA NUOVA)",
+      "swift_code": "BPBAIT21390"
+    },
+    {
+      "id": 7811,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA SEDE)",
+      "swift_code": "BPBAIT21498"
+    },
+    {
+      "id": 7812,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA STADIO ADRIATICO)",
+      "swift_code": "BPBAIT21394"
+    },
+    {
+      "id": 8385,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "BPMIITM1191"
+    },
+    {
+      "id": 8675,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA)",
+      "swift_code": "BPDMIT31200"
+    },
+    {
+      "id": 9636,
+      "bank": "BANCAPULIA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA AGENZIA N.1)",
+      "swift_code": "APULIT31138"
+    },
+    {
+      "id": 9637,
+      "bank": "BANCAPULIA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA AGENZIA N.2)",
+      "swift_code": "APULIT31175"
+    },
+    {
+      "id": 14627,
+      "bank": "COMUNE DI PESCARA",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "CUPEIT31"
+    },
+    {
+      "id": 15436,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PESCARA",
+      "branch": "(PESCARA)",
+      "swift_code": "BACRIT21610"
+    },
+    {
+      "id": 16405,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1531"
+    },
+    {
+      "id": 16406,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1532"
+    },
+    {
+      "id": 16407,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PESCARA",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1533"
+    },
+    {
+      "id": 16408,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "DEUTITM1530"
+    },
+    {
+      "id": 17541,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE IMPRESE PESCARA)",
+      "swift_code": "BCITITMM388"
+    },
+    {
+      "id": 18518,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "PESCARA",
+      "branch": "(PESCARA)",
+      "swift_code": "BLPIIT21103"
+    },
+    {
+      "id": 18994,
+      "bank": "PROVINCIA DI PESCARA",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "POESIT21"
+    },
+    {
+      "id": 20022,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESCARA",
+      "branch": "(BRANCH 1)",
+      "swift_code": "BAMAIT31129"
+    },
+    {
+      "id": 20023,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESCARA",
+      "branch": "(BRANCH 2)",
+      "swift_code": "BAMAIT31149"
+    },
+    {
+      "id": 20024,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "BAMAIT3A106"
+    },
+    {
+      "id": 20238,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PESCARA",
+      "branch": "(SUCCURSALE DI PESCARA)",
+      "swift_code": "ARBAIT33120"
+    },
+    {
+      "id": 20794,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA PIAZZA DELLA RINASCITA)",
+      "swift_code": "BLOPIT22D00"
+    },
+    {
+      "id": 20795,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA PIAZZA MARINA)",
+      "swift_code": "BLOPIT22C33"
+    },
+    {
+      "id": 20796,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA VIA FABRIZI)",
+      "swift_code": "BLOPIT22B13"
+    },
+    {
+      "id": 20797,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA VIA PINDARO)",
+      "swift_code": "BLOPIT22B12"
+    },
+    {
+      "id": 20798,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA VIA RIETI)",
+      "swift_code": "BLOPIT22B11"
+    },
+    {
+      "id": 20799,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(FILIALE DI PESCARA VIALE MARCONI)",
+      "swift_code": "BLOPIT22536"
+    },
+    {
+      "id": 20800,
+      "bank": "UBI BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(SEDE DI PESCARA)",
+      "swift_code": "BLOPIT2254S"
+    },
+    {
+      "id": 21748,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PESCARA",
+      "branch": "(PESCARA 4 VIALE MARCONI 21)",
+      "swift_code": "BPAMIT31739"
+    },
+    {
+      "id": 21749,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PESCARA",
+      "branch": "(PESCARA 5 VIA LATINA)",
+      "swift_code": "BPAMIT31A34"
+    },
+    {
+      "id": 21750,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PESCARA",
+      "branch": "",
+      "swift_code": "BPAMIT31098"
+    },
+    {
+      "id": 24573,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(ABRUZZO MOLISE)",
+      "swift_code": "UNCRITM1PEW"
+    },
+    {
+      "id": 24574,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA BOVIO)",
+      "swift_code": "UNCRITM1RM4"
+    },
+    {
+      "id": 24575,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA CIRCUITO)",
+      "swift_code": "UNCRITM1RM2"
+    },
+    {
+      "id": 24576,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA CONTE DI RUVO)",
+      "swift_code": "UNCRITM1761"
+    },
+    {
+      "id": 24577,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA MARCONI)",
+      "swift_code": "UNCRITM1E23"
+    },
+    {
+      "id": 24578,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA TIBURTINA)",
+      "swift_code": "UNCRITM1A34"
+    },
+    {
+      "id": 24579,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA UMBERTO)",
+      "swift_code": "UNCRITM1760"
+    },
+    {
+      "id": 24580,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA UNIONE)",
+      "swift_code": "UNCRITM1E22"
+    },
+    {
+      "id": 24581,
+      "bank": "UNICREDIT SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA)",
+      "swift_code": "UNCRITM1Y80"
+    },
+    {
+      "id": 26067,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PESCARA",
+      "branch": "(PESCARA BRANCH)",
+      "swift_code": "BAECIT21107"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Pescara — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Pescara, Italy Contiene 63 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Pescara — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Pescara — codici SWIFT/BIC — 63 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 63 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

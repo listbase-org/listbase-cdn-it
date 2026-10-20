@@ -1,0 +1,2464 @@
+{
+  "id": "it-abbazie",
+  "name": "Abbazie in Italia",
+  "title": "Abbazie in Italia",
+  "description": "Elenco delle abbazie in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 267,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q123582433",
+      "name_it": "abbadia della Santissima Trinità ad Alfiano",
+      "name_en": "Santissima Trinità ad Alfiano",
+      "latitude": 43.298894,
+      "longitude": 11.38022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123582433"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q111027108",
+      "name_it": "Abbadia di Stura",
+      "name_en": "Abbadia di Stura",
+      "latitude": 45.114253,
+      "longitude": 7.732228,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111027108"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3603175",
+      "name_it": "abbazia benedettina di San Michele Arcangelo",
+      "name_en": "San Michele Arcangelo abbey",
+      "latitude": 40.558247,
+      "longitude": 16.664195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603175"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q110205775",
+      "name_it": "Abbazia benedettina di Sant'Eufemia",
+      "name_en": "Sant'Eufemia",
+      "latitude": 38.93399,
+      "longitude": 16.23461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110205775"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1775646",
+      "name_it": "abbazia cistercense di Marmosolio",
+      "name_en": "Marmosoglio Monastery",
+      "latitude": 41.583333,
+      "longitude": 12.833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775646"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q56437565",
+      "name_it": "abbazia dei santi Fabiano e Sebastiano",
+      "name_en": "Abbazia dei santi Fabiano e Sebastiano",
+      "latitude": 44.407009,
+      "longitude": 11.124492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56437565"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3603177",
+      "name_it": "Abbazia dei Santi Giusto e Clemente",
+      "name_en": "Abbey of Sts. Justin and Clement",
+      "latitude": 43.415869,
+      "longitude": 10.850469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603177"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q109758198",
+      "name_it": "Abbazia dei santi Pietro e Colombano",
+      "name_en": "Saints Peter and Columbanus Abbey",
+      "latitude": 44.60853,
+      "longitude": 7.42259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758198"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q111522888",
+      "name_it": "Abbazia dei Santi Pietro e Paolo",
+      "name_en": "Abbazia dei Santi Pietro e Paolo",
+      "latitude": 37.91413,
+      "longitude": 15.33658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111522888"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q64167827",
+      "name_it": "abbazia dei Santi Quirico e Giulitta",
+      "name_en": "Santi Quirico e Giulitta",
+      "latitude": 42.44216,
+      "longitude": 13.076585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64167827"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q66057483",
+      "name_it": "Abbazia dei Santi Ruffino e Vitale",
+      "name_en": "Abbazia dei Santi Ruffino e Vitale",
+      "latitude": 42.979965,
+      "longitude": 13.356085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66057483"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3603179",
+      "name_it": "abbazia dei Santi Salvatore e Cirino",
+      "name_en": "Badia of Santi Salvatore e Cirino",
+      "latitude": 43.387353,
+      "longitude": 11.195247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603179"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1560105",
+      "name_it": "abbazia dei Santi Vito e Salvo",
+      "name_en": "Abbey of Saint Vitus and Salvo",
+      "latitude": 42.044911,
+      "longitude": 14.731504,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1560105"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q772734",
+      "name_it": "abbazia del Cerreto",
+      "name_en": "Cerreto Abbey",
+      "latitude": 45.311584,
+      "longitude": 9.595171,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q772734"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3603180",
+      "name_it": "abbazia del Connio",
+      "name_en": "Abbazia del Conio",
+      "latitude": 44.277592,
+      "longitude": 9.528878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603180"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3603181",
+      "name_it": "abbazia del Santo Sepolcro e Santa Maria a Elmi",
+      "name_en": "Santo Sepolcro e Santa Maria a Elmi",
+      "latitude": 43.536428,
+      "longitude": 11.032728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603181"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q3603182",
+      "name_it": "abbazia dell'Accola",
+      "name_en": "Santa Maria Assunta della Corte",
+      "latitude": 44.2259,
+      "longitude": 9.72099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603182"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q1774918",
+      "name_it": "abbazia dell'Acquafredda",
+      "name_en": "Abbazia dell'Acquafredda",
+      "latitude": 45.977764,
+      "longitude": 9.188958,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1774918"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q117381853",
+      "name_it": "Abbazia dell'Acquafredda",
+      "name_en": "",
+      "latitude": 45.977858,
+      "longitude": 9.1892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117381853"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q3603183",
+      "name_it": "abbazia della Benedicta",
+      "name_en": "Abbazia della Benedicta",
+      "latitude": 44.5602,
+      "longitude": 8.77267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603183"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q306160",
+      "name_it": "abbazia della Cervara",
+      "name_en": "Cervara Abbey",
+      "latitude": 44.313306,
+      "longitude": 9.213056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q306160"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1459610",
+      "name_it": "Abbazia di Barona",
+      "name_en": "abbey of Barona",
+      "latitude": 45.2,
+      "longitude": 9.283333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1459610"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q108320707",
+      "name_it": "Abbazia di Calena",
+      "name_en": "Saint Mary of Càlena abbey",
+      "latitude": 41.937262,
+      "longitude": 16.012415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108320707"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q96146079",
+      "name_it": "abbazia di Campomorto",
+      "name_en": "Campomorto Abbey",
+      "latitude": 45.310105,
+      "longitude": 9.210212,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96146079"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1775104",
+      "name_it": "Abbazia di Capolago",
+      "name_en": "Capolago Monastery",
+      "latitude": 45.793333,
+      "longitude": 8.809722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775104"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1775109",
+      "name_it": "abbazia di Casanova",
+      "name_en": "Abbazia di Casanova",
+      "latitude": 44.872222,
+      "longitude": 7.793056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775109"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q24938609",
+      "name_it": "abbazia di Castione Marchesi",
+      "name_en": "Abbazia",
+      "latitude": 44.909544,
+      "longitude": 10.028992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24938609"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1461727",
+      "name_it": "abbazia di Cavatigozzi",
+      "name_en": "Abbey of Cavatigozzi",
+      "latitude": 45.149722,
+      "longitude": 9.955278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1461727"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q860569",
+      "name_it": "abbazia di Chiaravalle",
+      "name_en": "Chiaravalle Abbey",
+      "latitude": 45.416027,
+      "longitude": 9.236915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q860569"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q477225",
+      "name_it": "abbazia di Chiaravalle della Colomba",
+      "name_en": "Chiaravalle della Colomba Abbey",
+      "latitude": 44.925663,
+      "longitude": 9.973086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q477225"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q1775124",
+      "name_it": "abbazia di Chiaravalle di Fiastra",
+      "name_en": "Chiaravalle Abbey, Fiastra",
+      "latitude": 43.2218,
+      "longitude": 13.405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775124"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q3603193",
+      "name_it": "Abbazia di Ferrania",
+      "name_en": "Abbazia di Ferrania",
+      "latitude": 44.368271,
+      "longitude": 8.323116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603193"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q224901",
+      "name_it": "abbazia di Fontevivo",
+      "name_en": "Fontevivo Abbey",
+      "latitude": 44.857913,
+      "longitude": 10.175972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q224901"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q3603196",
+      "name_it": "abbazia di Frassinoro",
+      "name_en": "Abbey of Frassinoro",
+      "latitude": 44.294,
+      "longitude": 10.57176,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603196"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q333923",
+      "name_it": "abbazia di Fruttuaria",
+      "name_en": "Fruttuaria",
+      "latitude": 45.222466,
+      "longitude": 7.782073,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q333923"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q109881111",
+      "name_it": "Abbazia di Maria Santissima del monte Tubenna",
+      "name_en": "",
+      "latitude": 40.707471,
+      "longitude": 14.843822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109881111"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q334022",
+      "name_it": "abbazia di Marienberg-Monte Maria",
+      "name_en": "Marienberg Abbey",
+      "latitude": 46.706164,
+      "longitude": 10.520665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334022"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q105907723",
+      "name_it": "abbazia di Marola",
+      "name_en": "Abbazia di Marola",
+      "latitude": 44.480806,
+      "longitude": 10.492667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105907723"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1775922",
+      "name_it": "abbazia di Montecorona",
+      "name_en": "San Salvatore di Montecorona",
+      "latitude": 43.28345,
+      "longitude": 12.35522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775922"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1775687",
+      "name_it": "abbazia di Morimondo",
+      "name_en": "Abbey of Morimondo",
+      "latitude": 45.35,
+      "longitude": 8.95,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775687"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q334056",
+      "name_it": "abbazia di Muri-Gries",
+      "name_en": "Muri-Gries Abbey",
+      "latitude": 46.503222,
+      "longitude": 11.335027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334056"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q21027197",
+      "name_it": "abbazia di Nostra Signora di Paulis",
+      "name_en": "",
+      "latitude": 40.635114,
+      "longitude": 8.526728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21027197"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q385925",
+      "name_it": "abbazia di Novacella",
+      "name_en": "Neustift Abbey",
+      "latitude": 46.74385,
+      "longitude": 11.64835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q385925"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q2755827",
+      "name_it": "abbazia di Novalesa",
+      "name_en": "Novalesa Abbey",
+      "latitude": 45.17968,
+      "longitude": 7.00845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2755827"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q661111",
+      "name_it": "Abbazia di Piona",
+      "name_en": "Piona Abbey",
+      "latitude": 46.123553,
+      "longitude": 9.331628,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q661111"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q514366",
+      "name_it": "abbazia di Pomposa",
+      "name_en": "Abbazia di Pomposa",
+      "latitude": 44.83188,
+      "longitude": 12.17567,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q514366"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q306157",
+      "name_it": "abbazia di Praglia",
+      "name_en": "Praglia Abbey",
+      "latitude": 45.363405,
+      "longitude": 11.73511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q306157"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q1400886",
+      "name_it": "abbazia di Quartazzola",
+      "name_en": "",
+      "latitude": 45.024709,
+      "longitude": 9.622768,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1400886"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3603202",
+      "name_it": "abbazia di Rosazzo",
+      "name_en": "monastery of Rosazzo",
+      "latitude": 46.008125,
+      "longitude": 13.421331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603202"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q138835979",
+      "name_it": "abbazia di Rossilli",
+      "name_en": "former abbey of Rossilli",
+      "latitude": 41.710965,
+      "longitude": 13.049129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138835979"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q29534034",
+      "name_it": "abbazia di San Basilide",
+      "name_en": "Abbazia di San Basilide",
+      "latitude": 44.593319,
+      "longitude": 10.267892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29534034"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3603208",
+      "name_it": "Abbazia di San Benedetto",
+      "name_en": "Abbazia di San Benedetto in Vallalta",
+      "latitude": 45.744817,
+      "longitude": 9.843045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603208"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q63075156",
+      "name_it": "abbazia di San Benedetto",
+      "name_en": "Abbazia di San Benedetto",
+      "latitude": 42.184259,
+      "longitude": 13.771187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63075156"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q54870151",
+      "name_it": "abbazia di San Benedetto de' Frondigliosi",
+      "name_en": "San Benedetto de' Frondigliosi abbey",
+      "latitude": 43.49964,
+      "longitude": 13.08003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54870151"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q1644420",
+      "name_it": "abbazia di San Benedetto di Monte Favale",
+      "name_en": "abbey San Benedetto di Monte Favale",
+      "latitude": 43.933333,
+      "longitude": 12.866667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1644420"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q926846",
+      "name_it": "abbazia di San Benedetto in Polirone",
+      "name_en": "Polirone Abbey",
+      "latitude": 45.04255,
+      "longitude": 10.928603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q926846"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q28229169",
+      "name_it": "Abbazia di San Biagio",
+      "name_en": "Abbazia di San Biagio di Piobbico",
+      "latitude": 43.007814,
+      "longitude": 13.262806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28229169"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q3603212",
+      "name_it": "abbazia di San Cassiano",
+      "name_en": "Abbazia di San Cassiano",
+      "latitude": 43.6315,
+      "longitude": 11.3714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603212"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q334414",
+      "name_it": "abbazia di San Clemente a Casauria",
+      "name_en": "San Clemente Abbey in Casauria",
+      "latitude": 42.235203,
+      "longitude": 13.930068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334414"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q19406818",
+      "name_it": "abbazia di San Dalmazzo da Pedona",
+      "name_en": "San Dalmazzo",
+      "latitude": 44.329928,
+      "longitude": 7.489643,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19406818"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q3603216",
+      "name_it": "abbazia di San Felice",
+      "name_en": "Abbey of San Felice",
+      "latitude": 42.84371,
+      "longitude": 12.5683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603216"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q116986683",
+      "name_it": "Abbazia di San Felice e Mauro",
+      "name_en": "Abbey of San Felice and Mauro",
+      "latitude": 42.741896,
+      "longitude": 12.841648,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116986683"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q107676000",
+      "name_it": "abbazia di San Firmano",
+      "name_en": "Abbazia di San Firmano",
+      "latitude": 43.36289,
+      "longitude": 13.54987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107676000"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q334365",
+      "name_it": "abbazia di San Fruttuoso",
+      "name_en": "San Fruttuoso Abbey",
+      "latitude": 44.316465,
+      "longitude": 9.175142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334365"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q306153",
+      "name_it": "abbazia di San Galgano",
+      "name_en": "Abbey of San Galgano",
+      "latitude": 43.14942,
+      "longitude": 11.15506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q306153"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q3603217",
+      "name_it": "abbazia di San Gallo",
+      "name_en": "Abbazia di San Gallo",
+      "latitude": 46.404447,
+      "longitude": 13.187886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603217"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q70336601",
+      "name_it": "Abbazia di San Giacomo di Stura",
+      "name_en": "Abbazia di San Giacomo di Stura",
+      "latitude": 45.112664,
+      "longitude": 7.731049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70336601"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3603201",
+      "name_it": "abbazia di San Giacomo Maggiore",
+      "name_en": "Pontida Abbey",
+      "latitude": 45.73051,
+      "longitude": 9.5041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603201"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q96252575",
+      "name_it": "Abbazia di San Giorgio",
+      "name_en": "",
+      "latitude": 37.952864,
+      "longitude": 13.963726,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96252575"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q116732887",
+      "name_it": "Abbazia di San Giorgio Maggiore",
+      "name_en": "Abbey of San Giorgio Maggiore",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116732887"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q26233759",
+      "name_it": "abbazia di San Giovanni Battista",
+      "name_en": "Abbey of John the Baptist",
+      "latitude": 42.300286,
+      "longitude": 13.340284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26233759"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q116483841",
+      "name_it": "abbazia di San Giovanni Battista e San Vincenzo",
+      "name_en": "San Giovanni Battista e San Vincenzo",
+      "latitude": 42.261601,
+      "longitude": 14.040351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116483841"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q3603222",
+      "name_it": "abbazia di San Giovanni Evangelista",
+      "name_en": "San Giovanni Evangelista",
+      "latitude": 44.802925,
+      "longitude": 10.33219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603222"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q3603228",
+      "name_it": "abbazia di San Giovanni in Venere",
+      "name_en": "San Giovanni in Venere Abbey",
+      "latitude": 42.25488,
+      "longitude": 14.498456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603228"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q72162033",
+      "name_it": "Abbazia di San Giustino d'Arna",
+      "name_en": "Abbazia di San Giustino d'Arna",
+      "latitude": 43.168277,
+      "longitude": 12.511576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72162033"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q28040367",
+      "name_it": "Abbazia di San Giusto",
+      "name_en": "San Giusto",
+      "latitude": 45.1372,
+      "longitude": 7.0446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28040367"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q501988",
+      "name_it": "abbazia di San Giusto a Tuscania",
+      "name_en": "San Giusto Abbey",
+      "latitude": 42.385833,
+      "longitude": 11.874722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q501988"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q56254402",
+      "name_it": "abbazia di San Gregorio",
+      "name_en": "San Gregorio abbey",
+      "latitude": 45.43088,
+      "longitude": 12.333988,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56254402"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q28229171",
+      "name_it": "Abbazia di San Lorenzo",
+      "name_en": "Abbazia di San Lorenzo, San Lorenzo in Campo",
+      "latitude": 43.60553,
+      "longitude": 12.94479,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28229171"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q108127635",
+      "name_it": "Abbazia di San Lorenzo",
+      "name_en": "",
+      "latitude": 40.85153,
+      "longitude": 15.41833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108127635"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q799028",
+      "name_it": "abbazia di San Lorenzo a Coltibuono",
+      "name_en": "Badia a Coltibuono",
+      "latitude": 43.49476,
+      "longitude": 11.44979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q799028"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q21208549",
+      "name_it": "abbazia di San Lupo",
+      "name_en": "Morticelli",
+      "latitude": 41.131119,
+      "longitude": 14.771178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21208549"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q3603227",
+      "name_it": "abbazia di San Magno",
+      "name_en": "Abbey of San Magno, Fondi",
+      "latitude": 41.37783,
+      "longitude": 13.38399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603227"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q55166361",
+      "name_it": "Abbazia di San Marco alle Paludi",
+      "name_en": "",
+      "latitude": 43.203025,
+      "longitude": 13.743776,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55166361"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q24942638",
+      "name_it": "abbazia di San Martino delle Scale",
+      "name_en": "Abbey of San Martino delle Scale",
+      "latitude": 38.091,
+      "longitude": 13.2545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24942638"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q23952267",
+      "name_it": "abbazia di San Martino in Valle",
+      "name_en": "Abbey of San Martino in Valle",
+      "latitude": 42.088728,
+      "longitude": 14.192442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23952267"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q95845622",
+      "name_it": "Abbazia di San Mauro",
+      "name_en": "Abbazia di San Mauro",
+      "latitude": 40.098774,
+      "longitude": 18.022507,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95845622"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q17991725",
+      "name_it": "abbazia di San Michele Arcangelo",
+      "name_en": "San Michele Arcangelo abbey",
+      "latitude": 43.509695,
+      "longitude": 12.917999,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17991725"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q19545267",
+      "name_it": "abbazia di San Michele Arcangelo",
+      "name_en": "Abbey of San Michele Arcangelo",
+      "latitude": 40.935286,
+      "longitude": 15.616537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19545267"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q54871247",
+      "name_it": "abbazia di San Michele Arcangelo",
+      "name_en": "Abbazia di San Michele di Lamoli",
+      "latitude": 43.622475,
+      "longitude": 12.255385,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54871247"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q111819047",
+      "name_it": "abbazia di San Michele Arcangelo",
+      "name_en": "San Michele Arcangelo abbey",
+      "latitude": 41.01766,
+      "longitude": 15.11092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111819047"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q1122833",
+      "name_it": "abbazia di San Niceta",
+      "name_en": "Abbazia di San Niceta",
+      "latitude": 40.284504,
+      "longitude": 18.344962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1122833"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q108354491",
+      "name_it": "abbazia di San Paolo della Croce",
+      "name_en": "",
+      "latitude": 41.552325,
+      "longitude": 13.330222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108354491"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q1775911",
+      "name_it": "abbazia di San Pastore",
+      "name_en": "San Pastore",
+      "latitude": 42.430278,
+      "longitude": 12.759722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775911"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q3671612",
+      "name_it": "abbazia di San Pietro",
+      "name_en": "Abbey of Saint Peter",
+      "latitude": 43.071465,
+      "longitude": 12.608526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3671612"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q7415179",
+      "name_it": "abbazia di San Pietro",
+      "name_en": "San Pietro in Bovara",
+      "latitude": 42.85969,
+      "longitude": 12.74738,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7415179"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q18558976",
+      "name_it": "abbazia di San Pietro",
+      "name_en": "Abbey of St Peter",
+      "latitude": 45.402919,
+      "longitude": 11.264134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18558976"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q130376967",
+      "name_it": "",
+      "name_en": "Abbazia di San Pietro",
+      "latitude": 44.646819,
+      "longitude": 7.658986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130376967"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q14754943",
+      "name_it": "abbazia di San Pietro ad Oratorium",
+      "name_en": "Church of San Peter ad Oratorium",
+      "latitude": 42.246754,
+      "longitude": 13.806124,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14754943"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q2820562",
+      "name_it": "abbazia di San Pietro al Monte",
+      "name_en": "Abbey of San Pietro al Monte",
+      "latitude": 45.834576,
+      "longitude": 9.319365,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2820562"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q110908274",
+      "name_it": "Abbazia di San Pietro di Breme",
+      "name_en": "Abbazia di San Pietro di Breme",
+      "latitude": 45.127152,
+      "longitude": 8.621297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110908274"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q110908380",
+      "name_it": "Abbazia di San Pietro di Precipiano",
+      "name_en": "Abbazia di San Pietro di Precipiano",
+      "latitude": 44.707857,
+      "longitude": 8.875516,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110908380"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q3603239",
+      "name_it": "abbazia di San Pietro in Campo",
+      "name_en": "San Pietro in Campo",
+      "latitude": 42.97257,
+      "longitude": 11.77091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603239"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q3603240",
+      "name_it": "abbazia di San Pietro in Cuppis",
+      "name_en": "Abbazia di San Pietro in Cuppis",
+      "latitude": 41.902128,
+      "longitude": 15.884672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603240"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q3603244",
+      "name_it": "abbazia di San Pietro in Valle",
+      "name_en": "San Pietro in Valle",
+      "latitude": 42.645428,
+      "longitude": 12.811539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603244"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q16524530",
+      "name_it": "abbazia di San Pietro in Varatella",
+      "name_en": "San Pietro in Varatella",
+      "latitude": 44.148159,
+      "longitude": 8.194771,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16524530"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q55166303",
+      "name_it": "abbazia di San Quintino",
+      "name_en": "Abbazia di San Quintino",
+      "latitude": 44.551525,
+      "longitude": 8.332056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55166303"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q1511854",
+      "name_it": "Abbazia di San Salvatore",
+      "name_en": "Abbey of San Salvatore",
+      "latitude": 42.88237,
+      "longitude": 11.67633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1511854"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q120832289",
+      "name_it": "abbazia di San Salvatore",
+      "name_en": "Holy Redeemer abbey",
+      "latitude": 45.494104,
+      "longitude": 10.607795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120832289"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q2820490",
+      "name_it": "abbazia di San Salvatore a Giugnano",
+      "name_en": "San Salvatore a Giugnano",
+      "latitude": 42.984128,
+      "longitude": 11.125833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2820490"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q35975024",
+      "name_it": "abbazia di San Salvatore in Summano",
+      "name_en": "San Salvatore in Summano",
+      "latitude": 43.932096,
+      "longitude": 12.118066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35975024"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q3947926",
+      "name_it": "abbazia di San Salvatore Maggiore",
+      "name_en": "San Salvatore Maggiore",
+      "latitude": 42.287048,
+      "longitude": 12.977327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3947926"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q3603247",
+      "name_it": "abbazia di San Salvatore minore",
+      "name_en": "Abbazia di San Salvatore minore (Scandriglia)",
+      "latitude": 42.15422,
+      "longitude": 12.88046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603247"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q3603248",
+      "name_it": "abbazia di San Savino",
+      "name_en": "Badia San Savino",
+      "latitude": 43.69453,
+      "longitude": 10.46117,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603248"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q106766768",
+      "name_it": "Abbazia di San Savino di Jesi",
+      "name_en": "Abbazia di San Savino",
+      "latitude": 43.524145,
+      "longitude": 13.25209,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106766768"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q337863",
+      "name_it": "abbazia di San Tommaso dei Borgognoni",
+      "name_en": "Monastery of San Tommaso dei Borgognoni",
+      "latitude": 45.495833,
+      "longitude": 12.416667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q337863"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q3603252",
+      "name_it": "abbazia di San Venerio",
+      "name_en": "abbazia di San Venerio",
+      "latitude": 44.0274,
+      "longitude": 9.8511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603252"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q30718274",
+      "name_it": "abbazia di San Vincenzo al Furlo",
+      "name_en": "Abbazia di San Vincenzo",
+      "latitude": 43.63557,
+      "longitude": 12.69751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30718274"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q21193916",
+      "name_it": "abbazia di San Vito",
+      "name_en": "",
+      "latitude": 45.557672,
+      "longitude": 11.550839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21193916"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q3603254",
+      "name_it": "abbazia di San Zeno",
+      "name_en": "Abbazia di San Zeno (Verona, Italy)",
+      "latitude": 45.4431,
+      "longitude": 10.9792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603254"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q111525456",
+      "name_it": "Abbazia di Sant'Agata Martire",
+      "name_en": "Abbazia di Sant'Agata Martire",
+      "latitude": 41.883517,
+      "longitude": 15.233281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111525456"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q3603255",
+      "name_it": "abbazia di Sant'Albino",
+      "name_en": "Abbey of Sant'Albino",
+      "latitude": 45.246,
+      "longitude": 8.7532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603255"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q106082454",
+      "name_it": "abbazia di Sant'Andrea",
+      "name_en": "Abbazia di Sant'Andrea",
+      "latitude": 44.119065,
+      "longitude": 11.882673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082454"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q123512188",
+      "name_it": "abbazia di Sant'Andrea in Flumine",
+      "name_en": "abbazia di Sant'Andrea in Flumine",
+      "latitude": 42.264416,
+      "longitude": 12.554946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123512188"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q2750932",
+      "name_it": "abbazia di Sant'Angelo de Frigillo",
+      "name_en": "Abbazia di Sant'Angelo de Frigillo",
+      "latitude": 39.081808,
+      "longitude": 16.761172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2750932"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q55186256",
+      "name_it": "abbazia di Sant'Angelo de Ursaria",
+      "name_en": "Saint Angel de Ursaria abbey",
+      "latitude": 41.281376,
+      "longitude": 15.2627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55186256"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q3603264",
+      "name_it": "abbazia di Sant'Angelo in Formis",
+      "name_en": "Sant'Angelo in Formis",
+      "latitude": 41.118242,
+      "longitude": 14.260573,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603264"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q3603258",
+      "name_it": "abbazia di Sant'Angelo in Massa",
+      "name_en": "Sant'Angelo in Massa",
+      "latitude": 42.491017,
+      "longitude": 12.501998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603258"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q334276",
+      "name_it": "abbazia di Sant'Antimo",
+      "name_en": "Abbey of Sant'Antimo",
+      "latitude": 42.999639,
+      "longitude": 11.515639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334276"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q1457504",
+      "name_it": "abbazia di Sant'Antonio di Ranverso",
+      "name_en": "Sant'Antonio di Ranverso Abbey",
+      "latitude": 45.081111,
+      "longitude": 7.449444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1457504"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q115742187",
+      "name_it": "abbazia di Sant'Apollinare",
+      "name_en": "",
+      "latitude": 43.48356,
+      "longitude": 13.18442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115742187"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q18923664",
+      "name_it": "Abbazia di Sant'Elena",
+      "name_en": "Sant'Elena Abbey",
+      "latitude": 43.461931,
+      "longitude": 13.063661,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18923664"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q3603265",
+      "name_it": "abbazia di Sant'Emiliano in Congiuntoli",
+      "name_en": "Sant'Emiliano in Congiuntoli",
+      "latitude": 43.404556,
+      "longitude": 12.667608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603265"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q83008230",
+      "name_it": "abbazia di Sant'Equizio",
+      "name_en": "Sant'Equizio",
+      "latitude": 42.424014,
+      "longitude": 13.322814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83008230"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q3603262",
+      "name_it": "abbazia di Sant'Eustachio",
+      "name_en": "Abazia S. Eustachio di Nervesa (Nervesa della Battaglia, Italy)",
+      "latitude": 45.823803,
+      "longitude": 12.192149,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603262"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q3603260",
+      "name_it": "abbazia di Sant'Eutizio",
+      "name_en": "Sant'Eutizio",
+      "latitude": 42.87052,
+      "longitude": 13.06428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603260"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q56323332",
+      "name_it": "Abbazia di Sant'Urbano",
+      "name_en": "Sant'Urbano, Apiro",
+      "latitude": 43.40997,
+      "longitude": 13.08141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56323332"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q116262766",
+      "name_it": "Abbazia di Santa Anastasia",
+      "name_en": "",
+      "latitude": 37.9725,
+      "longitude": 14.084722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116262766"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q115474966",
+      "name_it": "abbazia di Santa Bona",
+      "name_en": "",
+      "latitude": 45.856795,
+      "longitude": 12.038625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115474966"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q24907937",
+      "name_it": "Abbazia di Santa Croce",
+      "name_en": "Santa Croce, Mortara",
+      "latitude": 45.252,
+      "longitude": 8.7352,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24907937"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q3603266",
+      "name_it": "abbazia di Santa Croce al Chienti",
+      "name_en": "Abbazia di Santa Croce al Chienti (Casette d'Ete, Sant'Elpidio a Mare)",
+      "latitude": 43.27732,
+      "longitude": 13.6963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603266"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q29851399",
+      "name_it": "abbazia di Santa Felicola",
+      "name_en": "Santa Felicola",
+      "latitude": 44.707778,
+      "longitude": 10.424028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29851399"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q56258125",
+      "name_it": "Abbazia di Santa Giustina",
+      "name_en": "Abbazia di Santa Giustina",
+      "latitude": 44.77851,
+      "longitude": 8.57624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258125"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q3603272",
+      "name_it": "abbazia di Santa Lucia",
+      "name_en": "Abbey of Santa Lucia",
+      "latitude": 42.242858,
+      "longitude": 13.494181,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603272"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q106073169",
+      "name_it": "abbazia di Santa Lucia",
+      "name_en": "Abbazia di Santa Lucia di Roffeno",
+      "latitude": 44.307624,
+      "longitude": 11.030393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073169"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q3674070",
+      "name_it": "abbazia di Santa Maria",
+      "name_en": "Abbazia di Santa Maria di Finalpia",
+      "latitude": 44.172793,
+      "longitude": 8.356431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3674070"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q1775223",
+      "name_it": "abbazia di Santa Maria",
+      "name_en": "Abbey of Santa Maria, Follina",
+      "latitude": 45.953889,
+      "longitude": 12.117778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775223"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q64821800",
+      "name_it": "Abbazia di Santa Maria",
+      "name_en": "Santa Maria Abbey",
+      "latitude": 37.94206,
+      "longitude": 13.94173,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64821800"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q109758127",
+      "name_it": "Abbazia di Santa Maria",
+      "name_en": "",
+      "latitude": 44.78046,
+      "longitude": 7.74286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758127"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q1775816",
+      "name_it": "abbazia di Santa Maria al Porale",
+      "name_en": "Preallo Monastery",
+      "latitude": 44.616667,
+      "longitude": 8.909722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775816"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q1776166",
+      "name_it": "Abbazia di Santa Maria alla Croce",
+      "name_en": "Tiglieto Abbey",
+      "latitude": 44.522222,
+      "longitude": 8.603611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1776166"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q1774956",
+      "name_it": "abbazia di Santa Maria Arabona",
+      "name_en": "Santa Maria Arabona",
+      "latitude": 42.30231,
+      "longitude": 14.06221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1774956"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q30888033",
+      "name_it": "abbazia di Santa Maria Assunta",
+      "name_en": "Abbazia di Santa Maria Assunta",
+      "latitude": 44.469024,
+      "longitude": 11.092005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30888033"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q63524770",
+      "name_it": "Abbazia di Santa Maria Assunta",
+      "name_en": "Abbazia di Rambona",
+      "latitude": 43.26575,
+      "longitude": 13.312031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63524770"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q3603269",
+      "name_it": "abbazia di Santa Maria Assunta",
+      "name_en": "",
+      "latitude": 45.3641,
+      "longitude": 11.7351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603269"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q3603274",
+      "name_it": "abbazia di Santa Maria del Bosco",
+      "name_en": "Abbazia di Santa Maria del Bosco",
+      "latitude": 37.711693,
+      "longitude": 13.206405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603274"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q3603276",
+      "name_it": "abbazia di Santa Maria del Patire",
+      "name_en": "Abbazia del Patire",
+      "latitude": 39.5718,
+      "longitude": 16.5698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603276"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q1651391",
+      "name_it": "abbazia di Santa Maria del Sagittario",
+      "name_en": "Santa Maria del Sagittario abbey",
+      "latitude": 40.044444,
+      "longitude": 16.156944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1651391"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q1775215",
+      "name_it": "abbazia di Santa Maria della Ferraria",
+      "name_en": "Santa Maria della Ferraria",
+      "latitude": 41.366667,
+      "longitude": 14.166667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775215"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q105098641",
+      "name_it": "Abbazia di Santa Maria della Gironda",
+      "name_en": "Santa Maria della Gironda Abbey",
+      "latitude": 45.111561,
+      "longitude": 10.467545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105098641"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q1775653",
+      "name_it": "abbazia di Santa Maria della Matina",
+      "name_en": "Santa Maria della Matina",
+      "latitude": 39.576111,
+      "longitude": 16.149722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775653"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q766259",
+      "name_it": "abbazia di Santa Maria della Sambucina",
+      "name_en": "Abbazia di Santa Maria della Sambucina",
+      "latitude": 39.445,
+      "longitude": 16.291389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q766259"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q1775963",
+      "name_it": "abbazia di Santa Maria della Vittoria",
+      "name_en": "Abbey of Santa Maria della Vittoria",
+      "latitude": 42.071667,
+      "longitude": 13.3575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775963"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q24939104",
+      "name_it": "Abbazia di Santa Maria delle Carceri",
+      "name_en": "Abbazia di Santa Maria delle Carceri",
+      "latitude": 45.197708,
+      "longitude": 11.625078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24939104"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q28229341",
+      "name_it": "abbazia di Santa Maria delle Macchie",
+      "name_en": "Abbey of Santa Maria delle Macchie, San Ginesio",
+      "latitude": 43.12929,
+      "longitude": 13.38269,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28229341"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q1774919",
+      "name_it": "abbazia di Santa Maria di Acquaformosa",
+      "name_en": "",
+      "latitude": 39.724444,
+      "longitude": 16.089444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1774919"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q1268024",
+      "name_it": "Abbazia di Santa Maria di Acqualunga",
+      "name_en": "Abbazia di Acqualunga",
+      "latitude": 45.053333,
+      "longitude": 8.735278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1268024"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q1502879",
+      "name_it": "abbazia di Santa Maria di Casanova",
+      "name_en": "Santa Maria di Casanova",
+      "latitude": 42.377984,
+      "longitude": 13.867585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1502879"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q1641527",
+      "name_it": "abbazia di Santa Maria di Corazzo",
+      "name_en": "Abbazia di Santa Maria di Corazzo",
+      "latitude": 39.061539,
+      "longitude": 16.423009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1641527"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q18415979",
+      "name_it": "abbazia di Santa Maria di Faifoli",
+      "name_en": "Abbey of Santa Maria di Faifoli",
+      "latitude": 41.657778,
+      "longitude": 14.667917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18415979"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q125132087",
+      "name_it": "abbazia di Santa Maria di Grottaferrata",
+      "name_en": "Abbey of Grottaferrata",
+      "latitude": 41.786437,
+      "longitude": 12.66664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125132087"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q1502242",
+      "name_it": "abbazia di Santa Maria di Lucedio",
+      "name_en": "Lucedio Abbey",
+      "latitude": 45.238056,
+      "longitude": 8.2325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1502242"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q3662761",
+      "name_it": "abbazia di Santa Maria di Maniace",
+      "name_en": "Abbey of Saint Mary of Maniace",
+      "latitude": 37.858588,
+      "longitude": 14.818548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3662761"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q55173019",
+      "name_it": "abbazia di Santa Maria di Monte Armato",
+      "name_en": "Badia di Monte Armato",
+      "latitude": 44.366511,
+      "longitude": 11.421995,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55173019"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q1775743",
+      "name_it": "abbazia di Santa Maria di Novara",
+      "name_en": "Abbazia di Santa Maria",
+      "latitude": 38.014167,
+      "longitude": 15.131389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775743"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q3603280",
+      "name_it": "abbazia di Santa Maria di Pulsano",
+      "name_en": "Abbazia di Santa Maria di Pulsano",
+      "latitude": 41.675777,
+      "longitude": 15.908316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603280"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q1775971",
+      "name_it": "abbazia di Santa Maria di Realvalle",
+      "name_en": "Santa Maria di Real Valle monastery",
+      "latitude": 40.763611,
+      "longitude": 14.546667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775971"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q58071805",
+      "name_it": "abbazia di Santa Maria di Rio Sacro",
+      "name_en": "Santa Maria di Rio Sacro",
+      "latitude": 43.02848,
+      "longitude": 13.1693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58071805"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q1417076",
+      "name_it": "abbazia di Santa Maria di Rivalta",
+      "name_en": "Rivalta abbey",
+      "latitude": 44.85506,
+      "longitude": 8.82731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1417076"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q1775978",
+      "name_it": "abbazia di Santa Maria di Roccamadore",
+      "name_en": "Abbey Santa Maria di Roccamadore",
+      "latitude": 38.140278,
+      "longitude": 15.523333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775978"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q1275023",
+      "name_it": "Abbazia di Santa Maria di Sala",
+      "name_en": "Abbey Santa Maria di Sala",
+      "latitude": 42.566667,
+      "longitude": 11.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1275023"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q3603282",
+      "name_it": "abbazia di Santa Maria di Sitria",
+      "name_en": "Abbazia di Santa Maria di Sitria",
+      "latitude": 43.45094,
+      "longitude": 12.75195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603282"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q1775979",
+      "name_it": "abbazia di Santa Maria di Spanò",
+      "name_en": "",
+      "latitude": 37.723611,
+      "longitude": 14.735556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775979"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q833321",
+      "name_it": "abbazia di Santa Maria di Staffarda",
+      "name_en": "Staffarda Abbey",
+      "latitude": 44.720833,
+      "longitude": 7.436944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q833321"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q1775126",
+      "name_it": "abbazia di Santa Maria in Castagnola",
+      "name_en": "Castagnola abbey",
+      "latitude": 43.6,
+      "longitude": 13.326667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775126"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q3603283",
+      "name_it": "abbazia di Santa Maria in Palazzo",
+      "name_en": "Abbazia di Santa Maria in Palazzo",
+      "latitude": 41.998365,
+      "longitude": 14.249896,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603283"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q85859123",
+      "name_it": "Abbazia di Santa Maria in Potenza",
+      "name_en": "",
+      "latitude": 43.40771,
+      "longitude": 13.66366,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85859123"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q3603284",
+      "name_it": "abbazia di Santa Maria in Sylvis",
+      "name_en": "Abbey of Santa Maria in Sylvis",
+      "latitude": 45.84849,
+      "longitude": 12.81626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603284"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q3603285",
+      "name_it": "abbazia di Santa Maria la Scala",
+      "name_en": "",
+      "latitude": 37.5581,
+      "longitude": 14.90815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603285"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q3603270",
+      "name_it": "abbazia di Santa Maria Maddalena in Armillis",
+      "name_en": "Santa Maria Maddelena in Armillis",
+      "latitude": 40.733,
+      "longitude": 14.604,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603270"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q1748005",
+      "name_it": "Abbazia di Santissima Trinità del Legno",
+      "name_en": "Santissima Trinità del Legno Abbey",
+      "latitude": 39.549069,
+      "longitude": 16.496595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1748005"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q3603287",
+      "name_it": "Abbazia di Santo Stefano",
+      "name_en": "Santo Stefano in Manciano",
+      "latitude": 42.916,
+      "longitude": 12.7575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603287"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q122028127",
+      "name_it": "Abbazia di Santo Stefano",
+      "name_en": "",
+      "latitude": 45.327949,
+      "longitude": 8.425287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122028127"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q1524841",
+      "name_it": "abbazia di Santo Stefano al Corno",
+      "name_en": "Santo Stefano al Corno Abbey",
+      "latitude": 45.129803,
+      "longitude": 9.740925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1524841"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q3603289",
+      "name_it": "abbazia di Santo Stefano in Rivomaris",
+      "name_en": "Abbey of Santo Stefano in Rivomaris",
+      "latitude": 42.197471,
+      "longitude": 14.61371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603289"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q2469461",
+      "name_it": "Abbazia di Sassovivo",
+      "name_en": "Abbazia di Sassovivo",
+      "latitude": 42.95536,
+      "longitude": 12.72383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2469461"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q334328",
+      "name_it": "abbazia di Thélema",
+      "name_en": "Abbey of Thelema",
+      "latitude": 38.031618,
+      "longitude": 14.027142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334328"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q114981979",
+      "name_it": "abbazia di Val Tolla",
+      "name_en": "",
+      "latitude": 44.74707,
+      "longitude": 9.75891,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114981979"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q971123",
+      "name_it": "abbazia di Vallombrosa",
+      "name_en": "Vallombrosa Abbey",
+      "latitude": 43.731944,
+      "longitude": 11.557778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q971123"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q1636846",
+      "name_it": "abbazia di Valserena",
+      "name_en": "Abbey of Valserena",
+      "latitude": 44.856662,
+      "longitude": 10.347586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1636846"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q2820750",
+      "name_it": "abbazia di Valvisciolo",
+      "name_en": "Valvisciolo Abbey",
+      "latitude": 41.56805,
+      "longitude": 12.979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2820750"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q1120660",
+      "name_it": "abbazia di Vezzolano",
+      "name_en": "Vezzolano Abbey",
+      "latitude": 45.08025,
+      "longitude": 7.957277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1120660"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q2820755",
+      "name_it": "abbazia di Viboldone",
+      "name_en": "Viboldone Abbey",
+      "latitude": 45.386069,
+      "longitude": 9.277784,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2820755"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q118998038",
+      "name_it": "Abbazia di Villa Oneto",
+      "name_en": "Abbazia di Villa Oneto",
+      "latitude": 44.356667,
+      "longitude": 9.288889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118998038"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q2820274",
+      "name_it": "abbazia Florense",
+      "name_en": "San Giovanni in Fiore Abbey",
+      "latitude": 39.255737,
+      "longitude": 16.701308,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2820274"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q3603169",
+      "name_it": "abbazia Mater Ecclesiae",
+      "name_en": "Mater Ecclesiae Abbey",
+      "latitude": 45.796269,
+      "longitude": 8.399927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603169"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q16898674",
+      "name_it": "abbazia pontificia di San Girolamo in Urbe",
+      "name_en": "Pontifical Abbey of St Jerome-in-the-City",
+      "latitude": 41.8936,
+      "longitude": 12.4294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16898674"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q3603171",
+      "name_it": "abbazia Santa Maria in Montesanto",
+      "name_en": "Abbazia di Santa Maria in Montesanto",
+      "latitude": 42.78731,
+      "longitude": 13.649755,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603171"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q109758156",
+      "name_it": "Antica abbazia benedettina di Villar San Costanzo",
+      "name_en": "",
+      "latitude": 44.48434,
+      "longitude": 7.3645,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758156"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q65029706",
+      "name_it": "Antica abbazia di San Vincenzo al Volturno",
+      "name_en": "San Vincenzo al Volturno Old Abbey",
+      "latitude": 41.648694,
+      "longitude": 14.083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65029706"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q123362732",
+      "name_it": "Badia dei Padri Passionisti",
+      "name_en": "Badia dei Padri Passionisti",
+      "latitude": 41.54199,
+      "longitude": 13.32765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123362732"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q68674671",
+      "name_it": "Badia di San Vito",
+      "name_en": "Badia di San Vito",
+      "latitude": 41.013365,
+      "longitude": 17.192423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68674671"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q1776039",
+      "name_it": "badia di Sant'Andrea",
+      "name_en": "Badia di Sant'Andrea",
+      "latitude": 44.417222,
+      "longitude": 8.861944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1776039"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q799029",
+      "name_it": "Badia di Sant'Arcangelo",
+      "name_en": "Badia di Sant'Arcangelo",
+      "latitude": 43.0796,
+      "longitude": 12.16491,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q799029"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q3632805",
+      "name_it": "badia di Santa Maria del Soccorso",
+      "name_en": "Abbey of Our Lady of the Rescue",
+      "latitude": 39.22498,
+      "longitude": 16.77591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632805"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q3632807",
+      "name_it": "badia di Santa Maria della Neve",
+      "name_en": "Badia di Torrechiara",
+      "latitude": 44.657765,
+      "longitude": 10.289535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632807"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q16530656",
+      "name_it": "badia di Santa Maria di Pattano",
+      "name_en": "Santa Maria di Pattano",
+      "latitude": 40.2314,
+      "longitude": 15.2389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16530656"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q16530661",
+      "name_it": "badia di Santa Maria di Pierno",
+      "name_en": "Badia di Santa Maria di Pierno",
+      "latitude": 40.792696,
+      "longitude": 15.604725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16530661"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q3632776",
+      "name_it": "badia Fiesolana",
+      "name_en": "Badia Fiesolana",
+      "latitude": 43.803078,
+      "longitude": 11.283075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632776"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q799026",
+      "name_it": "Badia Fiorentina",
+      "name_en": "Badia Fiorentina",
+      "latitude": 43.770433,
+      "longitude": 11.257717,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q799026"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q3632777",
+      "name_it": "badia Morronese",
+      "name_en": "Abbey of the Holy Spirit at Monte Morrone",
+      "latitude": 42.08845,
+      "longitude": 13.922295,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632777"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q111523074",
+      "name_it": "Basilica dei Santi Cosma e Damiano (Giurdignano)",
+      "name_en": "",
+      "latitude": 40.12289,
+      "longitude": 18.43186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111523074"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q2886984",
+      "name_it": "basilica di Sant'Andrea",
+      "name_en": "Basilica di Sant'Andrea",
+      "latitude": 45.32874,
+      "longitude": 8.41923,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2886984"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q3635763",
+      "name_it": "basilica di Santa Maria del Colle",
+      "name_en": "Basilica di Santa Maria del Colle",
+      "latitude": 41.889083,
+      "longitude": 14.064861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635763"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q55115494",
+      "name_it": "chiesa abbaziale di San Bartolomeo",
+      "name_en": "San Bartolomeo",
+      "latitude": 42.338201,
+      "longitude": 13.848487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55115494"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q106075282",
+      "name_it": "chiesa della Natività di San Giovanni Battista",
+      "name_en": "Abbazia di Valsenio",
+      "latitude": 44.238944,
+      "longitude": 11.6405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075282"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q55117429",
+      "name_it": "chiesa della Santissima Trinità da Lungi",
+      "name_en": "Santissima Trinità da Lungi",
+      "latitude": 44.82987,
+      "longitude": 8.59894,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55117429"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q3669387",
+      "name_it": "chiesa di Nostra Signora del Canneto",
+      "name_en": "Nostra Signora del Canneto",
+      "latitude": 43.865133,
+      "longitude": 7.852214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3669387"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q123585965",
+      "name_it": "chiesa di Nostra Signora della Misericordia",
+      "name_en": "Nostra Signora della Misericordia",
+      "latitude": 44.350556,
+      "longitude": 9.343611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123585965"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q55181357",
+      "name_it": "chiesa di San Benedetto di Alpe",
+      "name_en": "",
+      "latitude": 43.984287,
+      "longitude": 11.686772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55181357"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q55183289",
+      "name_it": "chiesa di San Donnino in Soglio",
+      "name_en": "Chiesa di San Donnino in Soglio",
+      "latitude": 44.038205,
+      "longitude": 11.837396,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55183289"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q55191472",
+      "name_it": "chiesa di San Leonardo",
+      "name_en": "Abbazia di San Leonardo",
+      "latitude": 43.951643,
+      "longitude": 12.27571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55191472"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q1775084",
+      "name_it": "chiesa di San Michele Arcangelo",
+      "name_en": "Brondolo abbey",
+      "latitude": 45.183611,
+      "longitude": 12.278333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775084"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q16162846",
+      "name_it": "chiesa di Sant'Agostino",
+      "name_en": "Sant'Agostino",
+      "latitude": 45.516825,
+      "longitude": 11.511731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16162846"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q3674406",
+      "name_it": "chiesa di Sant'Ambrogio della Vittoria",
+      "name_en": "Sant'Ambrogio della Vittoria",
+      "latitude": 45.560108,
+      "longitude": 8.952817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3674406"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q25112914",
+      "name_it": "chiesa di Sant'Andrea Apostolo",
+      "name_en": "Church of St. Andrew the Apostle",
+      "latitude": 41.923778,
+      "longitude": 13.096333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25112914"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q55103399",
+      "name_it": "chiesa di Santa Cecilia",
+      "name_en": "Santa Cecilia della Croara",
+      "latitude": 44.44522,
+      "longitude": 11.387435,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55103399"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q55188652",
+      "name_it": "chiesa di Santa Croce",
+      "name_en": "Santa Croce Church",
+      "latitude": 43.43107,
+      "longitude": 12.86749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55188652"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q28229034",
+      "name_it": "chiesa di Santa Maria",
+      "name_en": "Santa Maria in Viepri",
+      "latitude": 42.82516,
+      "longitude": 12.51692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28229034"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q1775968",
+      "name_it": "chiesa di Santa Maria dell'Arco",
+      "name_en": "Santa Maria dell'Arco",
+      "latitude": 36.890031,
+      "longitude": 15.070151,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775968"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q7419721",
+      "name_it": "chiesa di Santa Maria della Strada",
+      "name_en": "Santa Maria della Strada",
+      "latitude": 41.636411,
+      "longitude": 14.71416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7419721"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q17625068",
+      "name_it": "chiesa di Santa Maria delle Grazie",
+      "name_en": "Santa Maria delle Grazie",
+      "latitude": 45.181639,
+      "longitude": 9.171417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17625068"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q956981",
+      "name_it": "Collegiata di San Candido",
+      "name_en": "Innichen Abbey",
+      "latitude": 46.732842,
+      "longitude": 12.282806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q956981"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q3685200",
+      "name_it": "complesso abbaziale della Santissima Trinità",
+      "name_en": "Abbey of the Santissima Trinità",
+      "latitude": 40.9695,
+      "longitude": 15.8276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3685200"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q133251850",
+      "name_it": "Complesso abbaziale di Bominaco",
+      "name_en": "Abbey of Bominaco",
+      "latitude": 42.242884,
+      "longitude": 13.660202,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133251850"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q111518330",
+      "name_it": "Complesso di San Lorenzo ad Septimum",
+      "name_en": "San Lorenzo ad Septimum",
+      "latitude": 40.9855,
+      "longitude": 14.19974,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111518330"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q73483936",
+      "name_it": "complesso monastico Abbazia di San Vito",
+      "name_en": "complesso monastico Abbazia di San Vito",
+      "latitude": 41.013319,
+      "longitude": 17.192196,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73483936"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q56417408",
+      "name_it": "complesso monumentale di Santa Maria di Orsoleo",
+      "name_en": "Convento di Santa Maria dell'Orsoleo",
+      "latitude": 40.23956,
+      "longitude": 16.243971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56417408"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q107658517",
+      "name_it": "Convento dell'immacolata",
+      "name_en": "Immacolata (Piombino)",
+      "latitude": 42.924819,
+      "longitude": 10.521769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107658517"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q123370735",
+      "name_it": "ex Abbazia Benedettina di Grignano",
+      "name_en": "former benedectine abbey of Grignano",
+      "latitude": 43.85998,
+      "longitude": 11.092322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123370735"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q1775858",
+      "name_it": "monastero di Ripalta",
+      "name_en": "",
+      "latitude": 41.861667,
+      "longitude": 15.271944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775858"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q1775859",
+      "name_it": "Monastero di Rivalta",
+      "name_en": "Rivalta di Torino monastery",
+      "latitude": 45.030556,
+      "longitude": 7.526944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775859"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q1227395",
+      "name_it": "Monastero di Sabiona",
+      "name_en": "Säben Abbey",
+      "latitude": 46.64385,
+      "longitude": 11.56701,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1227395"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q1283764",
+      "name_it": "monastero di San Bartolomeo",
+      "name_en": "Badia del Buonsollazzo",
+      "latitude": 43.9175,
+      "longitude": 11.313889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1283764"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q37188717",
+      "name_it": "monastero di San Demetrio",
+      "name_en": "Grancia di San Demetrio",
+      "latitude": 40.617412,
+      "longitude": 15.932941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37188717"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q64859493",
+      "name_it": "Monastero di San Giovanni in Piano",
+      "name_en": "San Giovanni in Piano monastery",
+      "latitude": 41.797119,
+      "longitude": 15.394518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64859493"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q16579298",
+      "name_it": "monastero di Santo Spirito di Zannone",
+      "name_en": "Santo Spirito di Zannone",
+      "latitude": 40.969722,
+      "longitude": 13.050806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579298"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q124856250",
+      "name_it": "Natività di Gesù (Villa Oneto, San Colombano Certenoli)",
+      "name_en": "",
+      "latitude": 44.356111,
+      "longitude": 9.290833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124856250"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q3924276",
+      "name_it": "protocenobio di San Sebastiano",
+      "name_en": "Badia di S. Sebastiano",
+      "latitude": 41.71614,
+      "longitude": 13.37592,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3924276"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q19881",
+      "name_it": "Sacra di San Michele",
+      "name_en": "Sacra di San Michele",
+      "latitude": 45.097786,
+      "longitude": 7.343282,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19881"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q129188394",
+      "name_it": "Sant'Antonio (Piani di Ri, Chiavari)",
+      "name_en": "",
+      "latitude": 44.320833,
+      "longitude": 9.341944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129188394"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q48998831",
+      "name_it": "Santa Maria della Grotta",
+      "name_en": "Santa Maria in Gruptis",
+      "latitude": 41.19284,
+      "longitude": 14.61608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48998831"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q1689149",
+      "name_it": "Santa Maria di Falleri",
+      "name_en": "Santa Maria di Falleri",
+      "latitude": 42.3,
+      "longitude": 12.355833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1689149"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q56293478",
+      "name_it": "Santissima Trinità",
+      "name_en": "Santissima Trinità",
+      "latitude": 43.27521,
+      "longitude": 11.98918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56293478"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q20007926",
+      "name_it": "santuario della Beata Vergine del Pilastrello",
+      "name_en": "Sanctuary of the Madonna del Pilastrello, Lendinara",
+      "latitude": 45.08454,
+      "longitude": 11.60661,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20007926"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q11155087",
+      "name_it": "santuario di Montevergine",
+      "name_en": "Sanctuary of Montevergine",
+      "latitude": 40.935925,
+      "longitude": 14.728394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11155087"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q56259269",
+      "name_it": "Tempio di San Martino",
+      "name_en": "Tempio di San Martino",
+      "latitude": 42.840662,
+      "longitude": 12.455679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56259269"
+    }
+  ],
+  "meta": {
+    "title": "Abbazie in Italia - Download gratuito",
+    "description": "Elenco delle abbazie in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 267 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Abbazie in Italia | ListBase",
+    "seo_description": "Scarica Abbazie in Italia — 267 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 267 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "id": "it-varese-banche",
+  "name": "Banche a Varese — codici SWIFT/BIC",
+  "title": "Banche a Varese — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Varese, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 13,
+      "bank": "8A+ INVESTIMENTI SGR S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "IVGGIT21"
+    },
+    {
+      "id": 180,
+      "bank": "ARTIGIANFIDI LOMBARDIA",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "ARLOIT21"
+    },
+    {
+      "id": 2096,
+      "bank": "BANCA CESARE PONTI S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "BCEPITMM108"
+    },
+    {
+      "id": 2783,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI BUSTO GAROLFO E BUGUGGIATE SOC. COOP",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE)",
+      "swift_code": "ICRAITR1B8C"
+    },
+    {
+      "id": 3732,
+      "bank": "BANCA D'ITALIA",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE)",
+      "swift_code": "BITAITR1138"
+    },
+    {
+      "id": 3776,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "VARESE",
+      "branch": "(VARESE)",
+      "swift_code": "EUBAITM1846"
+    },
+    {
+      "id": 3835,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "BIMTITT1027"
+    },
+    {
+      "id": 6422,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "PASCITMMVAR"
+    },
+    {
+      "id": 7179,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "BNLIITRRVAX"
+    },
+    {
+      "id": 8557,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "VARESE",
+      "branch": "(VARESE - AG. 1)",
+      "swift_code": "BPMIITM1180"
+    },
+    {
+      "id": 8558,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "BPMIITM1181"
+    },
+    {
+      "id": 8998,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "VARESE",
+      "branch": "(AG. 1)",
+      "swift_code": "POSOIT2104Z"
+    },
+    {
+      "id": 8999,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "VARESE",
+      "branch": "(VARESE - AG. 2)",
+      "swift_code": "POSOIT2110J"
+    },
+    {
+      "id": 9000,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "POSOIT2107Y"
+    },
+    {
+      "id": 11295,
+      "bank": "BANCO BPM SPA",
+      "city": "VARESE",
+      "branch": "(VARESE - BIZZOZERO)",
+      "swift_code": "BAPPIT21AS9"
+    },
+    {
+      "id": 11296,
+      "bank": "BANCO BPM SPA",
+      "city": "VARESE",
+      "branch": "(VARESE - SANT'AMBROGIO)",
+      "swift_code": "BAPPIT21AV9"
+    },
+    {
+      "id": 11297,
+      "bank": "BANCO BPM SPA",
+      "city": "VARESE",
+      "branch": "(VARESE AG. 1)",
+      "swift_code": "BAPPIT21AY2"
+    },
+    {
+      "id": 11298,
+      "bank": "BANCO BPM SPA",
+      "city": "VARESE",
+      "branch": "(VARESE- BOBBIATE)",
+      "swift_code": "BAPPIT21AS8"
+    },
+    {
+      "id": 11299,
+      "bank": "BANCO BPM SPA",
+      "city": "VARESE",
+      "branch": "(VARESE)",
+      "swift_code": "BAPPIT21AT3"
+    },
+    {
+      "id": 11647,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VARESE",
+      "branch": "(BIZZOZERO)",
+      "swift_code": "CREBIT21269"
+    },
+    {
+      "id": 11648,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VARESE",
+      "branch": "(BOBBIATE)",
+      "swift_code": "CREBIT21268"
+    },
+    {
+      "id": 11649,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VARESE",
+      "branch": "(VIA BERNASCONE)",
+      "swift_code": "CREBIT22312"
+    },
+    {
+      "id": 11650,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "CREBIT21273"
+    },
+    {
+      "id": 11813,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "VARESE",
+      "branch": "(VARESE 49)",
+      "swift_code": "BDBDITA1049"
+    },
+    {
+      "id": 14226,
+      "bank": "COBRA AUTOMOTIVE TECHNOLOGIES SPA",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "CAUHIT21"
+    },
+    {
+      "id": 15822,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "BACRIT22VAR"
+    },
+    {
+      "id": 16106,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "VARESE",
+      "branch": "(VARESE AGENZIA 1)",
+      "swift_code": "BPCVIT21067"
+    },
+    {
+      "id": 16107,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "VARESE",
+      "branch": "(VARESE SEDE)",
+      "swift_code": "BPCVIT21072"
+    },
+    {
+      "id": 16512,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VARESE",
+      "branch": "(SPORTELLO DI VARESE)",
+      "swift_code": "DEUTITM1110"
+    },
+    {
+      "id": 16513,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VARESE",
+      "branch": "(SPORTELLO DI VARESE)",
+      "swift_code": "DEUTITM1321"
+    },
+    {
+      "id": 16856,
+      "bank": "FONDERIA CASATI SPA",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "FOCSIT21"
+    },
+    {
+      "id": 17041,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "VARESE",
+      "branch": "(VARESE)",
+      "swift_code": "HAABIT2U021"
+    },
+    {
+      "id": 17703,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VARESE",
+      "branch": "(FILIALE IMPRESE VARESE)",
+      "swift_code": "BCITITMMI64"
+    },
+    {
+      "id": 18091,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VARESE",
+      "branch": "(VARESE BRANCH)",
+      "swift_code": "BPVIIT21693"
+    },
+    {
+      "id": 18408,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE)",
+      "swift_code": "VEBHIT21334"
+    },
+    {
+      "id": 18627,
+      "bank": "LU-VE SPA",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "LUEEIT21"
+    },
+    {
+      "id": 19009,
+      "bank": "PROVINCIA DI VARESE",
+      "city": "VARESE",
+      "branch": "",
+      "swift_code": "POVAIT21"
+    },
+    {
+      "id": 19789,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE BIZZOZERO)",
+      "swift_code": "BLOPIT22919"
+    },
+    {
+      "id": 19790,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE SANT'AMBROGIO OLONA)",
+      "swift_code": "BLOPIT22918"
+    },
+    {
+      "id": 19791,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE VALLE OLONA)",
+      "swift_code": "BLOPIT22925"
+    },
+    {
+      "id": 19792,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "VARESE",
+      "branch": "(SEDE DI VARESE)",
+      "swift_code": "BLOPIT22975"
+    },
+    {
+      "id": 21157,
+      "bank": "UBI BANCA SPA",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE BATTISTERO)",
+      "swift_code": "BLOPIT22853"
+    },
+    {
+      "id": 21158,
+      "bank": "UBI BANCA SPA",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE BIUMO INFERIORE)",
+      "swift_code": "BLOPIT22914"
+    },
+    {
+      "id": 21159,
+      "bank": "UBI BANCA SPA",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE MASNAGO)",
+      "swift_code": "BLOPIT22911"
+    },
+    {
+      "id": 21160,
+      "bank": "UBI BANCA SPA",
+      "city": "VARESE",
+      "branch": "(FILIALE DI VARESE SANVITO)",
+      "swift_code": "BLOPIT22852"
+    },
+    {
+      "id": 22057,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(FIL. VARESE - BATTISTERO)",
+      "swift_code": "BEPOIT21208"
+    },
+    {
+      "id": 22058,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(FIL. VARESE - SANVITO)",
+      "swift_code": "BEPOIT21207"
+    },
+    {
+      "id": 22059,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE SEDE)",
+      "swift_code": "BEPOIT21555"
+    },
+    {
+      "id": 22060,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-BIUMO INFERIORE)",
+      "swift_code": "BEPOIT21562"
+    },
+    {
+      "id": 22061,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-BIZZOZERO)",
+      "swift_code": "BEPOIT21569"
+    },
+    {
+      "id": 22062,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-CASBENO)",
+      "swift_code": "BEPOIT21575"
+    },
+    {
+      "id": 22063,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-MASNAGO)",
+      "swift_code": "BEPOIT21557"
+    },
+    {
+      "id": 22064,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-SANT'AMBROGIO O.)",
+      "swift_code": "BEPOIT21567"
+    },
+    {
+      "id": 22065,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "VARESE",
+      "branch": "(VARESE-VALLE OLONA)",
+      "swift_code": "BEPOIT21583"
+    },
+    {
+      "id": 25721,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(ESTERO MERCI VARESE)",
+      "swift_code": "UNCRITMMVAE"
+    },
+    {
+      "id": 25722,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(VARESE BELFORTE)",
+      "swift_code": "UNCRITM1381"
+    },
+    {
+      "id": 25723,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(VARESE MARCONI)",
+      "swift_code": "UNCRITM1380"
+    },
+    {
+      "id": 25724,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(VARESE SANVITO)",
+      "swift_code": "UNCRITM147L"
+    },
+    {
+      "id": 25725,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(VARESE VIA VITTORIO VENETO)",
+      "swift_code": "UNCRITM1MA6"
+    },
+    {
+      "id": 25726,
+      "bank": "UNICREDIT SPA",
+      "city": "VARESE",
+      "branch": "(VARESE)",
+      "swift_code": "UNCRITM165Y"
+    },
+    {
+      "id": 26165,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "VARESE",
+      "branch": "(VARESE 324 BRANCH)",
+      "swift_code": "BAECIT21324"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Varese — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Varese, Italy Contiene 61 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Varese — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Varese — codici SWIFT/BIC — 61 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 61 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

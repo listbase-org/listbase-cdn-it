@@ -1,0 +1,496 @@
+{
+  "id": "it-siena-comuni",
+  "name": "Comuni della provincia di Siena",
+  "title": "Comuni della provincia di Siena",
+  "description": "Elenco dei 35 comuni della provincia di Siena (sigla SI), regione Toscana. List of 35 comuni in the province of Siena (SI), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 52001,
+      "nome": "Abbadia San Salvatore",
+      "slug": "abbadia-san-salvatore",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52002,
+      "nome": "Asciano",
+      "slug": "asciano",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52003,
+      "nome": "Buonconvento",
+      "slug": "buonconvento",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52004,
+      "nome": "Casole d'Elsa",
+      "slug": "casole-delsa",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52005,
+      "nome": "Castellina in Chianti",
+      "slug": "castellina-in-chianti",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52006,
+      "nome": "Castelnuovo Berardenga",
+      "slug": "castelnuovo-berardenga",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52007,
+      "nome": "Castiglione d'Orcia",
+      "slug": "castiglione-dorcia",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52008,
+      "nome": "Cetona",
+      "slug": "cetona",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52009,
+      "nome": "Chianciano Terme",
+      "slug": "chianciano-terme",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52010,
+      "nome": "Chiusdino",
+      "slug": "chiusdino",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52011,
+      "nome": "Chiusi",
+      "slug": "chiusi",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52012,
+      "nome": "Colle di Val d'Elsa",
+      "slug": "colle-di-val-delsa",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52013,
+      "nome": "Gaiole in Chianti",
+      "slug": "gaiole-in-chianti",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52037,
+      "nome": "Montalcino",
+      "slug": "montalcino",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52015,
+      "nome": "Montepulciano",
+      "slug": "montepulciano",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52016,
+      "nome": "Monteriggioni",
+      "slug": "monteriggioni",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52017,
+      "nome": "Monteroni d'Arbia",
+      "slug": "monteroni-darbia",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52018,
+      "nome": "Monticiano",
+      "slug": "monticiano",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52019,
+      "nome": "Murlo",
+      "slug": "murlo",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52020,
+      "nome": "Piancastagnaio",
+      "slug": "piancastagnaio",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52021,
+      "nome": "Pienza",
+      "slug": "pienza",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52022,
+      "nome": "Poggibonsi",
+      "slug": "poggibonsi",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52023,
+      "nome": "Radda in Chianti",
+      "slug": "radda-in-chianti",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52024,
+      "nome": "Radicofani",
+      "slug": "radicofani",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52025,
+      "nome": "Radicondoli",
+      "slug": "radicondoli",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52026,
+      "nome": "Rapolano Terme",
+      "slug": "rapolano-terme",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52027,
+      "nome": "San Casciano dei Bagni",
+      "slug": "san-casciano-dei-bagni",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52028,
+      "nome": "San Gimignano",
+      "slug": "san-gimignano",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52030,
+      "nome": "San Quirico d'Orcia",
+      "slug": "san-quirico-dorcia",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52031,
+      "nome": "Sarteano",
+      "slug": "sarteano",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52032,
+      "nome": "Siena",
+      "slug": "siena",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52033,
+      "nome": "Sinalunga",
+      "slug": "sinalunga",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52034,
+      "nome": "Sovicille",
+      "slug": "sovicille",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52035,
+      "nome": "Torrita di Siena",
+      "slug": "torrita-di-siena",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 52036,
+      "nome": "Trequanda",
+      "slug": "trequanda",
+      "provincia_id": 52,
+      "provincia_nome": "Siena",
+      "provincia_sigla": "SI",
+      "provincia_slug": "siena",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Siena - Download gratuito",
+    "description": "Elenco dei 35 comuni della provincia di Siena (sigla SI), regione Toscana. List of 35 comuni in the province of Siena (SI), Toscana region. Contiene 35 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Siena | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Siena — 35 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 35 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

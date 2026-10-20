@@ -1,0 +1,471 @@
+{
+  "id": "it-trento-banche",
+  "name": "Banche a Trento — codici SWIFT/BIC",
+  "title": "Banche a Trento — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Trento, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1335,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "ANTBIT21B77"
+    },
+    {
+      "id": 3728,
+      "bank": "BANCA D'ITALIA",
+      "city": "TRENTO",
+      "branch": "(FILIALE DI TRENTO)",
+      "swift_code": "BITAITR1211"
+    },
+    {
+      "id": 6366,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "PASCITM1TNX"
+    },
+    {
+      "id": 7165,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1EKZ"
+    },
+    {
+      "id": 7166,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "BNLIITRRTNX"
+    },
+    {
+      "id": 7564,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TRENTO",
+      "branch": "(TRENTO CENTRO SUD)",
+      "swift_code": "BPAAIT2B101"
+    },
+    {
+      "id": 7565,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "BPAAIT2B075"
+    },
+    {
+      "id": 7566,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "BPAAIT2B083"
+    },
+    {
+      "id": 7567,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TRENTO",
+      "branch": "(TRENTO/VIA BRENNERO)",
+      "swift_code": "BPAAIT2B095"
+    },
+    {
+      "id": 8989,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "TRENTO",
+      "branch": "(TRENTO BRANCH)",
+      "swift_code": "POSOIT2112R"
+    },
+    {
+      "id": 11249,
+      "bank": "BANCO BPM SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO AG. 2)",
+      "swift_code": "BAPPIT21179"
+    },
+    {
+      "id": 11250,
+      "bank": "BANCO BPM SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO AG. 3)",
+      "swift_code": "BAPPIT21091"
+    },
+    {
+      "id": 11251,
+      "bank": "BANCO BPM SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO AG. 4)",
+      "swift_code": "BAPPIT21864"
+    },
+    {
+      "id": 11252,
+      "bank": "BANCO BPM SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "BAPPIT21860"
+    },
+    {
+      "id": 12707,
+      "bank": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
+      "city": "TRENTO",
+      "branch": "(ASSET MANAGEMENT)",
+      "swift_code": "CCRTIT21GPM"
+    },
+    {
+      "id": 12708,
+      "bank": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
+      "city": "TRENTO",
+      "branch": "(FINANCIAL BACK OFFICE)",
+      "swift_code": "CCRTIT21BCK"
+    },
+    {
+      "id": 12709,
+      "bank": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
+      "city": "TRENTO",
+      "branch": "(FUNDS AND SICAV)",
+      "swift_code": "CCRTIT21NEF"
+    },
+    {
+      "id": 12710,
+      "bank": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
+      "city": "TRENTO",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "CCRTIT21EST"
+    },
+    {
+      "id": 12711,
+      "bank": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "CCRTIT2T"
+    },
+    {
+      "id": 12747,
+      "bank": "CASSA DEL TRENTINO SPA SOC.FINANZ.P",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "CTRFIT21"
+    },
+    {
+      "id": 12934,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(FILIALE IMPRESE TRENTO)",
+      "swift_code": "IBSPIT2P493"
+    },
+    {
+      "id": 13216,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(AGENZIA TRENTO NORD)",
+      "swift_code": "CRBZIT2B102"
+    },
+    {
+      "id": 13217,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(FILIALA DI TRENTO)",
+      "swift_code": "CRBZIT2B091"
+    },
+    {
+      "id": 13218,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(VIA MANCI 19)",
+      "swift_code": "CRBZIT2B092"
+    },
+    {
+      "id": 13927,
+      "bank": "CASSA RURALE DI TRENTO BCC",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "CCRTIT2T76A"
+    },
+    {
+      "id": 15520,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(TRENTO AG. 2)",
+      "swift_code": "BACRIT21738"
+    },
+    {
+      "id": 15521,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "BACRIT21625"
+    },
+    {
+      "id": 16153,
+      "bank": "DEDAGROUP S.P.A.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "DEDAIT21"
+    },
+    {
+      "id": 16500,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TRENTO",
+      "branch": "(SPORTELLO DI TRENTO)",
+      "swift_code": "DEUTITM1796"
+    },
+    {
+      "id": 16550,
+      "bank": "DOLOMITI ENERGIA SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "DOERIT21"
+    },
+    {
+      "id": 16744,
+      "bank": "EXPRIVIA HEALTHCARE IT SRL",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "EXHSIT21"
+    },
+    {
+      "id": 16965,
+      "bank": "GPI SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "GPIGIT21"
+    },
+    {
+      "id": 17113,
+      "bank": "INFORMATICA BANCARIA TRENTINA SRL",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "IBTRIT21"
+    },
+    {
+      "id": 17687,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TRENTO",
+      "branch": "(BRANCH 2 - LARGO NAZARIO SAURO 22)",
+      "swift_code": "BCITITM1792"
+    },
+    {
+      "id": 17688,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TRENTO",
+      "branch": "(FILIALE IMPRESE TRENTO)",
+      "swift_code": "BCITITMM806"
+    },
+    {
+      "id": 18067,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRENTO",
+      "branch": "(BRANCH)",
+      "swift_code": "BPVIIT21617"
+    },
+    {
+      "id": 18468,
+      "bank": "ISTITUTO TRENTINO PER L'EDILIZIA ABITATIVA SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITLBIT21"
+    },
+    {
+      "id": 18476,
+      "bank": "ITALFINANCE RMBS SRL",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITRSIT21"
+    },
+    {
+      "id": 18495,
+      "bank": "ITAS ASSICURAZIONI",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITAIIT21"
+    },
+    {
+      "id": 18496,
+      "bank": "ITAS HOLDING S.R.L.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITHSIT21"
+    },
+    {
+      "id": 18497,
+      "bank": "ITAS MUTUA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITMUIT21"
+    },
+    {
+      "id": 18498,
+      "bank": "ITAS VITA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ITVIIT21"
+    },
+    {
+      "id": 18590,
+      "bank": "LE GHIAIE S.R.L.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "GHSRIT21"
+    },
+    {
+      "id": 18670,
+      "bank": "MC-LINK SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "MCLIIT21"
+    },
+    {
+      "id": 18687,
+      "bank": "MEDIOCREDITO TRENTINO ALTO ADIGE SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "CCRTIT2TM00"
+    },
+    {
+      "id": 18874,
+      "bank": "PATRIMONIO DEL TRENTINO SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "PAENIT21"
+    },
+    {
+      "id": 18958,
+      "bank": "PROVINCIA AUTONOMA DI TRENTO",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "POAOIT21"
+    },
+    {
+      "id": 19391,
+      "bank": "SEA S.P.A.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "EEAEIT21"
+    },
+    {
+      "id": 19414,
+      "bank": "SG ELETTRICA S.R.L.",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "ELSLIT21"
+    },
+    {
+      "id": 19648,
+      "bank": "TECNOFIN TRENTINA SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "TETEIT21"
+    },
+    {
+      "id": 19717,
+      "bank": "TRENTINO TRASPORTI SPA",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "TRTSIT21"
+    },
+    {
+      "id": 25617,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(ESTERO MERCI TRENTO)",
+      "swift_code": "UNCRITMMTNE"
+    },
+    {
+      "id": 25618,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO F.LLI FONTANA)",
+      "swift_code": "UNCRITM10IT"
+    },
+    {
+      "id": 25619,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO GALILEI)",
+      "swift_code": "UNCRITM10HV"
+    },
+    {
+      "id": 25620,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO III NOVEMBRE)",
+      "swift_code": "UNCRITM10IQ"
+    },
+    {
+      "id": 25621,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO S.ANTONIO)",
+      "swift_code": "UNCRITM10IU"
+    },
+    {
+      "id": 25622,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "UNCRITM1O17"
+    },
+    {
+      "id": 25623,
+      "bank": "UNICREDIT SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO)",
+      "swift_code": "UNCRITM1TNW"
+    },
+    {
+      "id": 26159,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TRENTO",
+      "branch": "(TRENTO 316 BRANCH)",
+      "swift_code": "BAECIT21316"
+    },
+    {
+      "id": 26180,
+      "bank": "UNIVERSITA' DEGLI STUDI DI TRENTO",
+      "city": "TRENTO",
+      "branch": "",
+      "swift_code": "UDSTIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Trento — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Trento, Italy Contiene 60 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Trento — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Trento — codici SWIFT/BIC — 60 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 60 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

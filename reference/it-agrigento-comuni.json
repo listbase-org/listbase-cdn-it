@@ -1,0 +1,592 @@
+{
+  "id": "it-agrigento-comuni",
+  "name": "Comuni della provincia di Agrigento",
+  "title": "Comuni della provincia di Agrigento",
+  "description": "Elenco dei 43 comuni della provincia di Agrigento (sigla AG), regione Sicilia. List of 43 comuni in the province of Agrigento (AG), Sicilia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 84001,
+      "nome": "Agrigento",
+      "slug": "agrigento",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84002,
+      "nome": "Alessandria della Rocca",
+      "slug": "alessandria-della-rocca",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84003,
+      "nome": "Aragona",
+      "slug": "aragona",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84004,
+      "nome": "Bivona",
+      "slug": "bivona",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84005,
+      "nome": "Burgio",
+      "slug": "burgio",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84006,
+      "nome": "Calamonaci",
+      "slug": "calamonaci",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84007,
+      "nome": "Caltabellotta",
+      "slug": "caltabellotta",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84008,
+      "nome": "Camastra",
+      "slug": "camastra",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84009,
+      "nome": "Cammarata",
+      "slug": "cammarata",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84010,
+      "nome": "Campobello di Licata",
+      "slug": "campobello-di-licata",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84011,
+      "nome": "Canicattì",
+      "slug": "canicatti",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84012,
+      "nome": "Casteltermini",
+      "slug": "casteltermini",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84013,
+      "nome": "Castrofilippo",
+      "slug": "castrofilippo",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84014,
+      "nome": "Cattolica Eraclea",
+      "slug": "cattolica-eraclea",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84015,
+      "nome": "Cianciana",
+      "slug": "cianciana",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84016,
+      "nome": "Comitini",
+      "slug": "comitini",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84017,
+      "nome": "Favara",
+      "slug": "favara",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84018,
+      "nome": "Grotte",
+      "slug": "grotte",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84019,
+      "nome": "Joppolo Giancaxio",
+      "slug": "joppolo-giancaxio",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84020,
+      "nome": "Lampedusa e Linosa",
+      "slug": "lampedusa-e-linosa",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84021,
+      "nome": "Licata",
+      "slug": "licata",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84022,
+      "nome": "Lucca Sicula",
+      "slug": "lucca-sicula",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84023,
+      "nome": "Menfi",
+      "slug": "menfi",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84024,
+      "nome": "Montallegro",
+      "slug": "montallegro",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84025,
+      "nome": "Montevago",
+      "slug": "montevago",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84026,
+      "nome": "Naro",
+      "slug": "naro",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84027,
+      "nome": "Palma di Montechiaro",
+      "slug": "palma-di-montechiaro",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84028,
+      "nome": "Porto Empedocle",
+      "slug": "porto-empedocle",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84029,
+      "nome": "Racalmuto",
+      "slug": "racalmuto",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84030,
+      "nome": "Raffadali",
+      "slug": "raffadali",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84031,
+      "nome": "Ravanusa",
+      "slug": "ravanusa",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84032,
+      "nome": "Realmonte",
+      "slug": "realmonte",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84033,
+      "nome": "Ribera",
+      "slug": "ribera",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84034,
+      "nome": "Sambuca di Sicilia",
+      "slug": "sambuca-di-sicilia",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84035,
+      "nome": "San Biagio Platani",
+      "slug": "san-biagio-platani",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84036,
+      "nome": "San Giovanni Gemini",
+      "slug": "san-giovanni-gemini",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84039,
+      "nome": "Sant'Angelo Muxaro",
+      "slug": "santangelo-muxaro",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84037,
+      "nome": "Santa Elisabetta",
+      "slug": "santa-elisabetta",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84038,
+      "nome": "Santa Margherita di Belice",
+      "slug": "santa-margherita-di-belice",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84040,
+      "nome": "Santo Stefano Quisquina",
+      "slug": "santo-stefano-quisquina",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84041,
+      "nome": "Sciacca",
+      "slug": "sciacca",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84042,
+      "nome": "Siculiana",
+      "slug": "siculiana",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 84043,
+      "nome": "Villafranca Sicula",
+      "slug": "villafranca-sicula",
+      "provincia_id": 84,
+      "provincia_nome": "Agrigento",
+      "provincia_sigla": "AG",
+      "provincia_slug": "agrigento",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Agrigento - Download gratuito",
+    "description": "Elenco dei 43 comuni della provincia di Agrigento (sigla AG), regione Sicilia. List of 43 comuni in the province of Agrigento (AG), Sicilia region. Contiene 43 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Agrigento | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Agrigento — 43 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 43 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "id": "it-pesaro-banche",
+  "name": "Banche a Pesaro — codici SWIFT/BIC",
+  "title": "Banche a Pesaro — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Pesaro, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1043,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PESARO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21871"
+    },
+    {
+      "id": 1044,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ANTBIT21A21"
+    },
+    {
+      "id": 2960,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI GRADARA-SOCIETA' COOPERATIVA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO CENTRO)",
+      "swift_code": "ICRAITR1G27"
+    },
+    {
+      "id": 2961,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI GRADARA-SOCIETA' COOPERATIVA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO CENTRO)",
+      "swift_code": "ICRAITR1G28"
+    },
+    {
+      "id": 3457,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MY7"
+    },
+    {
+      "id": 3458,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MY8"
+    },
+    {
+      "id": 3459,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MY9"
+    },
+    {
+      "id": 3460,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MYB"
+    },
+    {
+      "id": 3462,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO SOC. COOP. A R.L.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MY1"
+    },
+    {
+      "id": 3463,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO SOC. COOP. A R.L.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITR1MY2"
+    },
+    {
+      "id": 3464,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO SOC. COOP. A R.L.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "ICRAITRRMY0"
+    },
+    {
+      "id": 3468,
+      "bank": "BANCA DI PESARO CREDITO COOPERATIVO SOC.COOP.A.R.",
+      "city": "PESARO",
+      "branch": "(SANTA MARIA DELL'ARZILLA)",
+      "swift_code": "ICRAITR1MY5"
+    },
+    {
+      "id": 3665,
+      "bank": "BANCA D'ITALIA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO)",
+      "swift_code": "BITAITR1333"
+    },
+    {
+      "id": 3827,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "BIMTITT1026"
+    },
+    {
+      "id": 5487,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO AG. 1)",
+      "swift_code": "PASCITM1A21"
+    },
+    {
+      "id": 5488,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO AG. 3)",
+      "swift_code": "PASCITM1K49"
+    },
+    {
+      "id": 5489,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO AG. 4)",
+      "swift_code": "PASCITM1K50"
+    },
+    {
+      "id": 5490,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO AG. 5)",
+      "swift_code": "PASCITM1K48"
+    },
+    {
+      "id": 5491,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO AG. 6)",
+      "swift_code": "PASCITM1K47"
+    },
+    {
+      "id": 5492,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "PASCITM1PUP"
+    },
+    {
+      "id": 6920,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESARO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18TZ"
+    },
+    {
+      "id": 6921,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "BNLIITRRPSX"
+    },
+    {
+      "id": 7803,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO)",
+      "swift_code": "BPBAIT21382"
+    },
+    {
+      "id": 8384,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "BPMIITM1235"
+    },
+    {
+      "id": 8674,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO)",
+      "swift_code": "BPDMIT31222"
+    },
+    {
+      "id": 10783,
+      "bank": "BANCO BPM SPA",
+      "city": "PESARO",
+      "branch": "(PESARO)",
+      "swift_code": "BAPPIT21482"
+    },
+    {
+      "id": 12171,
+      "bank": "BIESSE SPA",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "BIESIT31"
+    },
+    {
+      "id": 15435,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PESARO",
+      "branch": "(PESARO)",
+      "swift_code": "BACRIT21612"
+    },
+    {
+      "id": 16404,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PESARO",
+      "branch": "(SPORTELLO DI PESARO)",
+      "swift_code": "DEUTITM1538"
+    },
+    {
+      "id": 17540,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE IMPRESE PESARO)",
+      "swift_code": "BCITITMM382"
+    },
+    {
+      "id": 18326,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PESARO",
+      "branch": "(PESARO)",
+      "swift_code": "VEBHIT21468"
+    },
+    {
+      "id": 18993,
+      "bank": "PROVINCIA DI PESARO E URBINO",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "PRPBIT21"
+    },
+    {
+      "id": 19251,
+      "bank": "RENCO GROUP SPA",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "REGUIT21"
+    },
+    {
+      "id": 20000,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(AREA ADMINISTRATIVA)",
+      "swift_code": "BAMAIT3AAMM"
+    },
+    {
+      "id": 20001,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(ASSEGNI CIRCOLARI)",
+      "swift_code": "BAMAIT3AASS"
+    },
+    {
+      "id": 20002,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BR. 10 - VILLA FASTIGGI)",
+      "swift_code": "BAMAIT3A242"
+    },
+    {
+      "id": 20003,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BR. 9 - BORGO S. MARIA)",
+      "swift_code": "BAMAIT3A225"
+    },
+    {
+      "id": 20004,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 1)",
+      "swift_code": "BAMAIT3A211"
+    },
+    {
+      "id": 20005,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 12)",
+      "swift_code": "BAMAIT31245"
+    },
+    {
+      "id": 20006,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 14)",
+      "swift_code": "BAMAIT31243"
+    },
+    {
+      "id": 20007,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 15)",
+      "swift_code": "BAMAIT31247"
+    },
+    {
+      "id": 20008,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 16)",
+      "swift_code": "BAMAIT31103"
+    },
+    {
+      "id": 20009,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 2)",
+      "swift_code": "BAMAIT31215"
+    },
+    {
+      "id": 20010,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 3)",
+      "swift_code": "BAMAIT3A216"
+    },
+    {
+      "id": 20011,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 4)",
+      "swift_code": "BAMAIT3A219"
+    },
+    {
+      "id": 20012,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 5)",
+      "swift_code": "BAMAIT31218"
+    },
+    {
+      "id": 20013,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 6)",
+      "swift_code": "BAMAIT31220"
+    },
+    {
+      "id": 20014,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 7)",
+      "swift_code": "BAMAIT3A212"
+    },
+    {
+      "id": 20015,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(BRANCH 8)",
+      "swift_code": "BAMAIT3A213"
+    },
+    {
+      "id": 20016,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(CARTE PREPAGATE SBB)",
+      "swift_code": "BAMAIT3A497"
+    },
+    {
+      "id": 20017,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(CARTE PRE-PAGATE)",
+      "swift_code": "BAMAIT3ACAR"
+    },
+    {
+      "id": 20018,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(CONTABILITA' E FORNITORI)",
+      "swift_code": "BAMAIT3ACON"
+    },
+    {
+      "id": 20019,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "BAMAIT3A210"
+    },
+    {
+      "id": 20020,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(PESARO BRANCH 13)",
+      "swift_code": "BAMAIT31214"
+    },
+    {
+      "id": 20021,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(SERVIZIO INCASSI E PAGAMENTI)",
+      "swift_code": "BAMAIT3AINC"
+    },
+    {
+      "id": 20237,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PESARO",
+      "branch": "(SUCCURSALE DI PESARO)",
+      "swift_code": "ARBAIT33073"
+    },
+    {
+      "id": 20783,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO CORSO XI SETTEMBRE)",
+      "swift_code": "BLOPIT22B01"
+    },
+    {
+      "id": 20784,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO LARGO ASCOLI PICENO)",
+      "swift_code": "BLOPIT22B04"
+    },
+    {
+      "id": 20785,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO LARGO MADONNA DI LORETO)",
+      "swift_code": "BLOPIT22B03"
+    },
+    {
+      "id": 20786,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO PIAZZA LAZZARINI)",
+      "swift_code": "BLOPIT22B02"
+    },
+    {
+      "id": 20787,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO S.S. ADRIATICA)",
+      "swift_code": "BLOPIT22B07"
+    },
+    {
+      "id": 20788,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO VIA DEL MONACO)",
+      "swift_code": "BLOPIT22B05"
+    },
+    {
+      "id": 20789,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO VIA GUIDO D'AREZZO)",
+      "swift_code": "BLOPIT22B08"
+    },
+    {
+      "id": 20790,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO VIA MONTE CERVINO)",
+      "swift_code": "BLOPIT22B09"
+    },
+    {
+      "id": 20791,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO VIA ROSMINI)",
+      "swift_code": "BLOPIT22B06"
+    },
+    {
+      "id": 20792,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO VIA VILLA FASTIGGI)",
+      "swift_code": "BLOPIT22B10"
+    },
+    {
+      "id": 20793,
+      "bank": "UBI BANCA SPA",
+      "city": "PESARO",
+      "branch": "(FILIALE DI PESARO)",
+      "swift_code": "BLOPIT22482"
+    },
+    {
+      "id": 21747,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PESARO",
+      "branch": "",
+      "swift_code": "BPAMIT31041"
+    },
+    {
+      "id": 24566,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO FLAMINIA)",
+      "swift_code": "UNCRITM1SV6"
+    },
+    {
+      "id": 24567,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO GIOLITTI)",
+      "swift_code": "UNCRITM1ST6"
+    },
+    {
+      "id": 24568,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO MARCONI)",
+      "swift_code": "UNCRITM1QN9"
+    },
+    {
+      "id": 24569,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO S.FRANCESCO)",
+      "swift_code": "UNCRITM1E21"
+    },
+    {
+      "id": 24570,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO XI SETTEMBRE)",
+      "swift_code": "UNCRITM1ST5"
+    },
+    {
+      "id": 24571,
+      "bank": "UNICREDIT SPA",
+      "city": "PESARO",
+      "branch": "(PESARO)",
+      "swift_code": "UNCRITM1Y45"
+    },
+    {
+      "id": 26066,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PESARO",
+      "branch": "(PESARO 130 BRANCH)",
+      "swift_code": "BAECIT21130"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Pesaro — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Pesaro, Italy Contiene 75 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Pesaro — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Pesaro — codici SWIFT/BIC — 75 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 75 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,1051 @@
+{
+  "id": "it-stadi",
+  "name": "Stadi in Italia",
+  "title": "Stadi in Italia",
+  "description": "Elenco degli stadi in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q576783",
+      "name_it": "Arena Alto Adige",
+      "name_en": "South Tyrol Arena",
+      "latitude": 46.886,
+      "longitude": 12.1525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q576783"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q17003156",
+      "name_it": "Campo Pio XI",
+      "name_en": "Campo Pio XI",
+      "latitude": 41.896944,
+      "longitude": 12.446111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17003156"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q56313345",
+      "name_it": "campo sportivo Sandro Pertini",
+      "name_en": "Sandro Pertini sports field",
+      "latitude": 43.83775,
+      "longitude": 10.745556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56313345"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1992061",
+      "name_it": "Centro Olimpico del Biathlon",
+      "name_en": "Cesana San Sicario",
+      "latitude": 44.95812,
+      "longitude": 6.8062,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1992061"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q108887131",
+      "name_it": "Centro Sportivo Monteboro",
+      "name_en": "Centro Sportivo Monteboro",
+      "latitude": 43.693885,
+      "longitude": 10.918526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108887131"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q16538949",
+      "name_it": "centro sportivo Sabatino D'Angelo",
+      "name_en": "",
+      "latitude": 42.909377,
+      "longitude": 13.888198,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16538949"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q108887126",
+      "name_it": "",
+      "name_en": "Centro Sportivo Vismara",
+      "latitude": 45.410711,
+      "longitude": 9.179238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108887126"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q134528343",
+      "name_it": "Circolo Tennis Viareggio 1896",
+      "name_en": "",
+      "latitude": 43.875658,
+      "longitude": 10.241901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134528343"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10285",
+      "name_it": "Colosseo",
+      "name_en": "Colosseum",
+      "latitude": 41.890278,
+      "longitude": 12.492222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10285"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q134530875",
+      "name_it": "CT Viareggio 1896",
+      "name_en": "",
+      "latitude": 43.875645,
+      "longitude": 10.241888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134530875"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q106223378",
+      "name_it": "Littoriale",
+      "name_en": "Littoriale",
+      "latitude": 44.492357,
+      "longitude": 11.310967,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106223378"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q24084725",
+      "name_it": "PalaMalfatti",
+      "name_en": "",
+      "latitude": 42.411121,
+      "longitude": 12.8889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24084725"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q21206957",
+      "name_it": "PalaPolsinelli",
+      "name_en": "",
+      "latitude": 41.696894,
+      "longitude": 13.612854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21206957"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q3244247",
+      "name_it": "Palazzo Polifunzionale del Ghiaccio",
+      "name_en": "Palazzo Polifunzionale del Ghiaccio",
+      "latitude": 44.891122,
+      "longitude": 7.348703,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3244247"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1060110",
+      "name_it": "sferisterio di Macerata",
+      "name_en": "Sferisterio di Macerata",
+      "latitude": 43.299306,
+      "longitude": 13.45625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1060110"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q108887134",
+      "name_it": "",
+      "name_en": "Sinergy Stadium",
+      "latitude": 45.436102,
+      "longitude": 10.961801,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108887134"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q55089211",
+      "name_it": "stadio Alberto Allesina",
+      "name_en": "Stadio Alfredo d'Albertas",
+      "latitude": 45.757459,
+      "longitude": 8.418694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55089211"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q18289163",
+      "name_it": "stadio Aldo Olivieri",
+      "name_en": "Stadio Aldo Olivieri",
+      "latitude": 45.435408,
+      "longitude": 10.962194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18289163"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q646838",
+      "name_it": "Stadio Antonio Molinari",
+      "name_en": "Stadio Antonio Molinari",
+      "latitude": 41.57,
+      "longitude": 14.630833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q646838"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q115970",
+      "name_it": "stadio Arena Garibaldi-Romeo Anconetani",
+      "name_en": "Arena Garibaldi – Stadio Romeo Anconetani",
+      "latitude": 43.725278,
+      "longitude": 10.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115970"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q16608396",
+      "name_it": "stadio Armando Picchi",
+      "name_en": "Stadio Armando Picchi",
+      "latitude": 45.51131,
+      "longitude": 12.63732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608396"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q132590835",
+      "name_it": "Stadio Attilio Bravi",
+      "name_en": "",
+      "latitude": 44.707342,
+      "longitude": 7.836924,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132590835"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q30889336",
+      "name_it": "stadio Biagio Pirina",
+      "name_en": "Arzachena stadium",
+      "latitude": 41.071972,
+      "longitude": 9.379056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889336"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1851616",
+      "name_it": "stadio Brianteo",
+      "name_en": "Stadio Brianteo",
+      "latitude": 45.582778,
+      "longitude": 9.308056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1851616"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q65625927",
+      "name_it": "Stadio Caduti di Brema",
+      "name_en": "Caduti di Brema Stadium",
+      "latitude": 40.837361,
+      "longitude": 14.314667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65625927"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q24809703",
+      "name_it": "stadio Carlo Chiesa",
+      "name_en": "stadio Carlo Chiesa",
+      "latitude": 45.230596,
+      "longitude": 9.412451,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24809703"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q7596264",
+      "name_it": "",
+      "name_en": "Stadio Comunale",
+      "latitude": 45.19,
+      "longitude": 9.796944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7596264"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q30710417",
+      "name_it": "Stadio comunale",
+      "name_en": "Stadio comunale",
+      "latitude": 45.2895,
+      "longitude": 10.4707,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30710417"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q35973914",
+      "name_it": "stadio comunale",
+      "name_en": "Stadio Comunale",
+      "latitude": 44.38892,
+      "longitude": 11.58323,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35973914"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q98602786",
+      "name_it": "Stadio comunale",
+      "name_en": "Stadio comunale",
+      "latitude": 43.938337,
+      "longitude": 10.297377,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98602786"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q16608402",
+      "name_it": "Stadio Comunale",
+      "name_en": "",
+      "latitude": 45.8841,
+      "longitude": 10.1864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608402"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q138039517",
+      "name_it": "Stadio comunale",
+      "name_en": "",
+      "latitude": 42.001549,
+      "longitude": 12.726261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138039517"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q18420487",
+      "name_it": "stadio comunale Città di Gorgonzola",
+      "name_en": "Stadio comunale Città di Gorgonzola",
+      "latitude": 45.52885,
+      "longitude": 9.402041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18420487"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q98365457",
+      "name_it": "stadio comunale Daniele Mariotti",
+      "name_en": "stadio comunale Daniele Mariotti",
+      "latitude": 43.883361,
+      "longitude": 10.7625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98365457"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q137996489",
+      "name_it": "stadio comunale di Caravaggio",
+      "name_en": "",
+      "latitude": 45.500482,
+      "longitude": 9.635369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137996489"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q48804865",
+      "name_it": "stadio comunale di Montagnana",
+      "name_en": "Stadio comunale di Montagnana",
+      "latitude": 45.235806,
+      "longitude": 11.469444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48804865"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q16608405",
+      "name_it": "stadio comunale di Ospitaletto",
+      "name_en": "",
+      "latitude": 45.5582,
+      "longitude": 10.0658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608405"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q21211137",
+      "name_it": "stadio comunale di Valenza",
+      "name_en": "stadio comunale di Valenza",
+      "latitude": 45.00484,
+      "longitude": 8.64022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21211137"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q9341093",
+      "name_it": "stadio comunale Enrico Nanni",
+      "name_en": "",
+      "latitude": 44.1456,
+      "longitude": 12.4503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9341093"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q62084458",
+      "name_it": "Stadio Comunale Ernesto Solvay",
+      "name_en": "Stadio Comunale Ernesto Solvay",
+      "latitude": 43.391162,
+      "longitude": 10.440881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62084458"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q18785577",
+      "name_it": "stadio comunale Gino Bozzi",
+      "name_en": "Stadio Comunale Gino Bozzi",
+      "latitude": 43.749,
+      "longitude": 11.2387,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18785577"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q30889523",
+      "name_it": "stadio comunale La Rocca",
+      "name_en": "La Rocca Stadium",
+      "latitude": 45.6134,
+      "longitude": 9.51373,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889523"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q3967770",
+      "name_it": "stadio Daciano Colbachini",
+      "name_en": "",
+      "latitude": 45.43009,
+      "longitude": 11.88576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967770"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q245720",
+      "name_it": "stadio Danilo Martelli",
+      "name_en": "Stadio Danilo Martelli",
+      "latitude": 45.146111,
+      "longitude": 10.794167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q245720"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q125290",
+      "name_it": "stadio dei Marmi",
+      "name_en": "Stadio dei Marmi",
+      "latitude": 41.933699,
+      "longitude": 12.457874,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125290"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q20009366",
+      "name_it": "stadio dei Pini",
+      "name_en": "Stadio dei Pini",
+      "latitude": 42.049389,
+      "longitude": 13.417306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20009366"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q7596266",
+      "name_it": "Stadio della AS Roma",
+      "name_en": "AS Roma Stadium",
+      "latitude": 41.828722,
+      "longitude": 12.425472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7596266"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q47519765",
+      "name_it": "stadio della Civitella",
+      "name_en": "Stadio della Civitella",
+      "latitude": 42.345007,
+      "longitude": 14.162547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47519765"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q56232586",
+      "name_it": "Stadio della Liberazione",
+      "name_en": "",
+      "latitude": 45.876398,
+      "longitude": 8.404125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56232586"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q6663182",
+      "name_it": "Stadio della neve",
+      "name_en": "Lo Stadio della neve",
+      "latitude": 46.5206,
+      "longitude": 12.1325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6663182"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q3967944",
+      "name_it": "stadio di atletica di Sulmona",
+      "name_en": "",
+      "latitude": 42.031111,
+      "longitude": 13.939222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967944"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q1638702",
+      "name_it": "stadio di Monigo",
+      "name_en": "Stadio di Monigo",
+      "latitude": 45.680278,
+      "longitude": 12.213333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1638702"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q1261440",
+      "name_it": "stadio Druso",
+      "name_en": "Stadio Druso",
+      "latitude": 46.49234,
+      "longitude": 11.345385,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1261440"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q125292270",
+      "name_it": "Stadio Edmondo Massajoli",
+      "name_en": "",
+      "latitude": 40.6133,
+      "longitude": 15.04851,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125292270"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q610546",
+      "name_it": "stadio Ennio Tardini",
+      "name_en": "Stadio Ennio Tardini",
+      "latitude": 44.794917,
+      "longitude": 10.338444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q610546"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q24941162",
+      "name_it": "stadio Enrico Patti",
+      "name_en": "Stadio Enrico Patti",
+      "latitude": 45.448061,
+      "longitude": 8.612011,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24941162"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q109314084",
+      "name_it": "Stadio Enzo Bearzot",
+      "name_en": "Gorizia football stadium",
+      "latitude": 45.930556,
+      "longitude": 13.605833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109314084"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q115585",
+      "name_it": "stadio Euganeo",
+      "name_en": "Stadio Euganeo",
+      "latitude": 45.432222,
+      "longitude": 11.858333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115585"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3967782",
+      "name_it": "stadio Europa",
+      "name_en": "stadio Europa",
+      "latitude": 46.4933,
+      "longitude": 11.3152,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967782"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q109317672",
+      "name_it": "Stadio Faraggiana",
+      "name_en": "Faraggiana Stadium",
+      "latitude": 44.338333,
+      "longitude": 8.503056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109317672"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q16608408",
+      "name_it": "stadio Ferruccio Chittolina",
+      "name_en": "Ferruccio Chittolina stadium",
+      "latitude": 44.27729,
+      "longitude": 8.43638,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608408"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q19521479",
+      "name_it": "stadio Ferruccio Corradino Squarcia",
+      "name_en": "stadio Ferruccio Corradino Squarcia",
+      "latitude": 42.852884,
+      "longitude": 13.584086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19521479"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q16608411",
+      "name_it": "stadio Franco Frogheri",
+      "name_en": "Franco Frogheri Stadium",
+      "latitude": 40.31835,
+      "longitude": 9.32089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608411"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q30889557",
+      "name_it": "stadio Fratelli Ballarin",
+      "name_en": "Stadio Fratelli Ballarin",
+      "latitude": 42.959633,
+      "longitude": 13.881583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889557"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q64410387",
+      "name_it": "Stadio Fulvio Iacoboni",
+      "name_en": "Stadio Fulvio Iacoboni",
+      "latitude": 42.41644,
+      "longitude": 12.853977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64410387"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q50348733",
+      "name_it": "Stadio Germano Bellucci",
+      "name_en": "Stadio Germano Bellucci",
+      "latitude": 43.90792,
+      "longitude": 11.00114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50348733"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q97150826",
+      "name_it": "Stadio Giammaria",
+      "name_en": "Stadio Giammaria",
+      "latitude": 40.896218,
+      "longitude": 16.834643,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97150826"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3967797",
+      "name_it": "stadio Gianni Falchi",
+      "name_en": "Gianni Falchi Stadium",
+      "latitude": 44.462431,
+      "longitude": 11.380778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967797"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q3967800",
+      "name_it": "stadio Gino Alfonso Sada",
+      "name_en": "Stadio Gino Alfonso Sada",
+      "latitude": 45.576264,
+      "longitude": 9.274092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967800"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q7596268",
+      "name_it": "",
+      "name_en": "Stadio Gino Pistoni",
+      "latitude": 45.466389,
+      "longitude": 7.884167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7596268"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q109378145",
+      "name_it": "Stadio Giorgio Caselli",
+      "name_en": "",
+      "latitude": 44.683815,
+      "longitude": 10.645489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109378145"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q19654017",
+      "name_it": "stadio Giovanni Chiggiato",
+      "name_en": "Stadio Giovanni Chiggiato",
+      "latitude": 45.607257,
+      "longitude": 12.883064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19654017"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q122941596",
+      "name_it": "Stadio Giuseppe Rizza",
+      "name_en": "",
+      "latitude": 36.879358,
+      "longitude": 15.063758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122941596"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q115372",
+      "name_it": "stadio Giuseppe Sinigaglia",
+      "name_en": "Stadio Giuseppe Sinigaglia",
+      "latitude": 45.813889,
+      "longitude": 9.072222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115372"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q16608443",
+      "name_it": "stadio Gran Sasso d'Italia-Italo Acconcia",
+      "name_en": "Stadio di Acquasanta",
+      "latitude": 42.3511,
+      "longitude": 13.4103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608443"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q16608417",
+      "name_it": "stadio Guido D'Ippolito",
+      "name_en": "",
+      "latitude": 38.9683,
+      "longitude": 16.3055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608417"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q28797292",
+      "name_it": "stadio Isaia Di Cesare",
+      "name_en": "Stadio Isaia Di Cesare",
+      "latitude": 42.358583,
+      "longitude": 13.3855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28797292"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q271568",
+      "name_it": "stadio Luigi Ferraris",
+      "name_en": "Stadio Luigi Ferraris",
+      "latitude": 44.416431,
+      "longitude": 8.952428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q271568"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q3967829",
+      "name_it": "stadio Luigi Ridolfi",
+      "name_en": "Stadio Luigi Ridolfi",
+      "latitude": 43.7786,
+      "longitude": 11.2804,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967829"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q581672",
+      "name_it": "stadio Luigi Zaffanella",
+      "name_en": "Luigi Zaffanella Stadium",
+      "latitude": 44.934015,
+      "longitude": 10.517757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q581672"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q737093",
+      "name_it": "stadio Marcantonio Bentegodi",
+      "name_en": "Stadio Marcantonio Bentegodi",
+      "latitude": 45.435356,
+      "longitude": 10.968647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q737093"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q3967873",
+      "name_it": "stadio Mario e Romolo Pacifici",
+      "name_en": "Stadio Romolo Pacifici",
+      "latitude": 45.6391,
+      "longitude": 12.5449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967873"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q94946",
+      "name_it": "Stadio Mario Rigamonti",
+      "name_en": "Stadio Mario Rigamonti",
+      "latitude": 45.570556,
+      "longitude": 10.236944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q94946"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q3967840",
+      "name_it": "stadio Maurizio Quaggia",
+      "name_en": "Stadio Maurizio Quaggia",
+      "latitude": 45.55567,
+      "longitude": 12.24467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967840"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q17781868",
+      "name_it": "Stadio Mino Favini",
+      "name_en": "Stadio Mino Favini",
+      "latitude": 45.654167,
+      "longitude": 9.149444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17781868"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q104601167",
+      "name_it": "Stadio Nicola Pietrangeli",
+      "name_en": "",
+      "latitude": 41.929222,
+      "longitude": 12.456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104601167"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q26258102",
+      "name_it": "stadio Olindo Galli",
+      "name_en": "Stadio Olindo Galli",
+      "latitude": 41.95252,
+      "longitude": 12.839515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26258102"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q3967853",
+      "name_it": "stadio Pacifico Carotti",
+      "name_en": "stadio Pacifico Carotti",
+      "latitude": 43.52,
+      "longitude": 13.2311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967853"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q28228838",
+      "name_it": "",
+      "name_en": "Stadio Pasqualino Ferrante",
+      "latitude": 41.349129,
+      "longitude": 14.381653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28228838"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q17058726",
+      "name_it": "stadio Pippo Torresan",
+      "name_en": "",
+      "latitude": 45.637267,
+      "longitude": 12.543578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17058726"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q2266503",
+      "name_it": "stadio Plebiscito",
+      "name_en": "Stadio Plebiscito",
+      "latitude": 45.433876,
+      "longitude": 11.899481,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2266503"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q63522753",
+      "name_it": "stadio Polisportivo Comunale",
+      "name_en": "Stadio Polisportivo Comunale",
+      "latitude": 43.29872,
+      "longitude": 13.73873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63522753"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q3967863",
+      "name_it": "stadio Primo Nebiolo",
+      "name_en": "Stadio Primo Nebiolo",
+      "latitude": 38.2243,
+      "longitude": 15.5582,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967863"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q18170207",
+      "name_it": "stadio Raffaele Mancini",
+      "name_en": "Stadio Raffaele Mancini",
+      "latitude": 43.836199,
+      "longitude": 13.025091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18170207"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q757182",
+      "name_it": "stadio Renato Dall'Ara",
+      "name_en": "Stadio Renato Dall'Ara",
+      "latitude": 44.4922,
+      "longitude": 11.3098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q757182"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q3967870",
+      "name_it": "stadio Rigamonti",
+      "name_en": "Stadio Rigamonti",
+      "latitude": 45.857831,
+      "longitude": 9.398919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967870"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q104642092",
+      "name_it": "stadio Roberto Strulli",
+      "name_en": "Stadio Roberto Strulli",
+      "latitude": 43.86348,
+      "longitude": 10.81519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104642092"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q4780397",
+      "name_it": "Stadio Romano e Armando Apollonio",
+      "name_en": "Apollonio Stadium",
+      "latitude": 46.5348,
+      "longitude": 12.1369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4780397"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q9341096",
+      "name_it": "stadio Romeo Galli",
+      "name_en": "",
+      "latitude": 44.3433,
+      "longitude": 11.71,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9341096"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q24939482",
+      "name_it": "stadio Signora Chiara",
+      "name_en": "",
+      "latitude": 40.914917,
+      "longitude": 9.196667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24939482"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q1092230",
+      "name_it": "stadio Tommaso Fattori",
+      "name_en": "Stadio Tommaso Fattori",
+      "latitude": 42.356389,
+      "longitude": 13.403889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1092230"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q108063653",
+      "name_it": "Stadio Ugo Gobbato",
+      "name_en": "Ugo Gobbato Stadium",
+      "latitude": 40.913803,
+      "longitude": 14.393735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108063653"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q3967894",
+      "name_it": "stadio Valentino Mazzola",
+      "name_en": "Stadio Valentino Mazzola",
+      "latitude": 44.0582,
+      "longitude": 12.4501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3967894"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q19545527",
+      "name_it": "stadio Valentino Mazzola",
+      "name_en": "",
+      "latitude": 40.46509,
+      "longitude": 17.27483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19545527"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q63522603",
+      "name_it": "Stadio Vince Lombardi",
+      "name_en": "",
+      "latitude": 42.70115,
+      "longitude": 11.98082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63522603"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q16608431",
+      "name_it": "stadio Walter Petron",
+      "name_en": "",
+      "latitude": 45.40595,
+      "longitude": 11.89047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16608431"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q48804509",
+      "name_it": "Stallaggio Meloni",
+      "name_en": "Stallaggio Meloni",
+      "latitude": 39.222611,
+      "longitude": 9.101722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48804509"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q25042668",
+      "name_it": "",
+      "name_en": "Tommaso Dal Molin Stadium",
+      "latitude": 45.519091,
+      "longitude": 11.32411,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25042668"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q30880646",
+      "name_it": "Unipol Domus",
+      "name_en": "Unipol Domus",
+      "latitude": 39.199694,
+      "longitude": 9.137417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30880646"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q4009427",
+      "name_it": "Velodromo Paolo Borsellino",
+      "name_en": "Velodromo Paolo Borsellino",
+      "latitude": 38.1732,
+      "longitude": 13.3134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4009427"
+    }
+  ],
+  "meta": {
+    "title": "Stadi in Italia - Download gratuito",
+    "description": "Elenco degli stadi in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 110 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Stadi in Italia | ListBase",
+    "seo_description": "Scarica Stadi in Italia — 110 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 110 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

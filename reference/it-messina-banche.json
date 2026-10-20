@@ -1,0 +1,513 @@
+{
+  "id": "it-messina-banche",
+  "name": "Banche a Messina — codici SWIFT/BIC",
+  "title": "Banche a Messina — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Messina, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 306,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "MESSINA",
+      "branch": "(AG NR.1 DI MESSINA)",
+      "swift_code": "POPRIT31063"
+    },
+    {
+      "id": 307,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG.4)",
+      "swift_code": "POPRIT31069"
+    },
+    {
+      "id": 308,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "MESSINA",
+      "branch": "(SUCCURSALE DI MESSINA)",
+      "swift_code": "POPRIT31065"
+    },
+    {
+      "id": 846,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MESSINA",
+      "branch": "(AG. 2)",
+      "swift_code": "ANTBIT21585"
+    },
+    {
+      "id": 847,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MESSINA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "ANTBIT21B33"
+    },
+    {
+      "id": 848,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MESSINA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "ANTBIT21B34"
+    },
+    {
+      "id": 849,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MESSINA",
+      "branch": "(CONTESSE)",
+      "swift_code": "ANTBIT21558"
+    },
+    {
+      "id": 850,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "ANTBIT21538"
+    },
+    {
+      "id": 1593,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "MESSINA",
+      "branch": "(AGENZIA 1 - MESSINA)",
+      "swift_code": "CRGEITG1648"
+    },
+    {
+      "id": 1594,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "MESSINA",
+      "branch": "(FILIALE DI MESSINA)",
+      "swift_code": "CRGEITG1585"
+    },
+    {
+      "id": 2549,
+      "bank": "BANCA DI CREDITO COOPERATIVO ANTONELLO DA MESSINA",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "ICRAITRRUI0"
+    },
+    {
+      "id": 3353,
+      "bank": "BANCA DI CREDITO PELORITANO S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "CEEPIT21"
+    },
+    {
+      "id": 3649,
+      "bank": "BANCA D'ITALIA",
+      "city": "MESSINA",
+      "branch": "(FILIALE DI MESSINA)",
+      "swift_code": "BITAITR1514"
+    },
+    {
+      "id": 5056,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 10)",
+      "swift_code": "PASCITM1558"
+    },
+    {
+      "id": 5057,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 5)",
+      "swift_code": "PASCITM1MEN"
+    },
+    {
+      "id": 5058,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 6)",
+      "swift_code": "PASCITM1538"
+    },
+    {
+      "id": 5059,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 7)",
+      "swift_code": "PASCITM1585"
+    },
+    {
+      "id": 5060,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 8)",
+      "swift_code": "PASCITM1B33"
+    },
+    {
+      "id": 5061,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 9)",
+      "swift_code": "PASCITM1B34"
+    },
+    {
+      "id": 5062,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PASCITM1ME1"
+    },
+    {
+      "id": 5063,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PASCITM1ME2"
+    },
+    {
+      "id": 5064,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PASCITM1ME3"
+    },
+    {
+      "id": 5065,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PASCITMMMES"
+    },
+    {
+      "id": 6801,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MESSINA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR160Z"
+    },
+    {
+      "id": 6802,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "BNLIITRRMEX"
+    },
+    {
+      "id": 7248,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "MESSINA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT31869"
+    },
+    {
+      "id": 7249,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "BPVIIT31817"
+    },
+    {
+      "id": 7340,
+      "bank": "BANCA PER LO SVILUPPO DELLA COOP. DI CREDITO SPA",
+      "city": "MESSINA",
+      "branch": "(FILIALE MESSINA)",
+      "swift_code": "SVIUITR1AA5"
+    },
+    {
+      "id": 9313,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PSANIT31023"
+    },
+    {
+      "id": 9314,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "PSANIT3103E"
+    },
+    {
+      "id": 10527,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA - GANZIRRI)",
+      "swift_code": "BAPPIT21P58"
+    },
+    {
+      "id": 10528,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 1)",
+      "swift_code": "BAPPIT21P55"
+    },
+    {
+      "id": 10529,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 2)",
+      "swift_code": "BAPPIT21P56"
+    },
+    {
+      "id": 10530,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 3)",
+      "swift_code": "BAPPIT21P57"
+    },
+    {
+      "id": 10531,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 5)",
+      "swift_code": "BAPPIT21P43"
+    },
+    {
+      "id": 10532,
+      "bank": "BANCO BPM SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA)",
+      "swift_code": "BAPPIT21P54"
+    },
+    {
+      "id": 14562,
+      "bank": "COMUNE DI MESSINA",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "CUEEIT31"
+    },
+    {
+      "id": 15407,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA AG. 2)",
+      "swift_code": "BACRIT21746"
+    },
+    {
+      "id": 15408,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "MESSINA",
+      "branch": "(MESSINA)",
+      "swift_code": "BACRIT21443"
+    },
+    {
+      "id": 15933,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH NR 1)",
+      "swift_code": "RSANIT31114"
+    },
+    {
+      "id": 15934,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH NR 2)",
+      "swift_code": "RSANIT31005"
+    },
+    {
+      "id": 15935,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH NR 3)",
+      "swift_code": "RSANIT31023"
+    },
+    {
+      "id": 15936,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "MESSINA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "RSANIT31099"
+    },
+    {
+      "id": 17344,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH 2 - VIALE REGINA ELENA 181)",
+      "swift_code": "BCITITM1282"
+    },
+    {
+      "id": 17345,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH 3 - VIA CATANIA)",
+      "swift_code": "BCITITM1283"
+    },
+    {
+      "id": 17346,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH 4 - VIA G.LONGO 2 ANG VIA BORZI')",
+      "swift_code": "BCITITM1263"
+    },
+    {
+      "id": 17347,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(BRANCH 5 - VIA TAORMINA 15/C)",
+      "swift_code": "BCITITM1798"
+    },
+    {
+      "id": 17348,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(FILIALE IMPRESE MESSINA)",
+      "swift_code": "BCITITMMI95"
+    },
+    {
+      "id": 17349,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MESSINA",
+      "branch": "(MAIN BRANCH - VIALE SAN MARTINO 2)",
+      "swift_code": "BCITITMM280"
+    },
+    {
+      "id": 19653,
+      "bank": "TEKNE SIM",
+      "city": "MESSINA",
+      "branch": "",
+      "swift_code": "TEKNIT31"
+    },
+    {
+      "id": 23999,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CAIROLI)",
+      "swift_code": "UNCRITM1575"
+    },
+    {
+      "id": 24000,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CARABINIERI)",
+      "swift_code": "UNCRITM1Z11"
+    },
+    {
+      "id": 24001,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CASSA REGIONALE)",
+      "swift_code": "UNCRITM1O37"
+    },
+    {
+      "id": 24002,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CAVOUR)",
+      "swift_code": "UNCRITM1I24"
+    },
+    {
+      "id": 24003,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA COMPLESSO LE ANCORE)",
+      "swift_code": "UNCRITM1I28"
+    },
+    {
+      "id": 24004,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CONSOLARE POMPEA)",
+      "swift_code": "UNCRITM1Z57"
+    },
+    {
+      "id": 24005,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA CRISPI)",
+      "swift_code": "UNCRITM1576"
+    },
+    {
+      "id": 24006,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA GARIBALDI B)",
+      "swift_code": "UNCRITM1K66"
+    },
+    {
+      "id": 24007,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA GARIBALDI C)",
+      "swift_code": "UNCRITM1L50"
+    },
+    {
+      "id": 24008,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA GARIBALDI PEGNO)",
+      "swift_code": "UNCRITM1K43"
+    },
+    {
+      "id": 24009,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA LIBERTA')",
+      "swift_code": "UNCRITM1I27"
+    },
+    {
+      "id": 24010,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA POLICLINICO UNIVERSITARIO)",
+      "swift_code": "UNCRITM1810"
+    },
+    {
+      "id": 24011,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA SANTA CECILIA)",
+      "swift_code": "UNCRITM1M32"
+    },
+    {
+      "id": 24012,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA VIA PALERMO)",
+      "swift_code": "UNCRITM1I26"
+    },
+    {
+      "id": 24013,
+      "bank": "UNICREDIT SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA)",
+      "swift_code": "UNCRITM185Y"
+    },
+    {
+      "id": 26014,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MESSINA",
+      "branch": "(MESSINA VIA XXVII LUGLIO BRANCH)",
+      "swift_code": "BAECIT21265"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Messina — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Messina, Italy Contiene 66 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Messina — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Messina — codici SWIFT/BIC — 66 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 66 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

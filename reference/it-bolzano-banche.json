@@ -1,0 +1,562 @@
+{
+  "id": "it-bolzano-banche",
+  "name": "Banche a Bolzano — codici SWIFT/BIC",
+  "title": "Banche a Bolzano — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Bolzano, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 120,
+      "bank": "ALPENBANK AG FILIALE BOLZANO",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "ALPEIT21"
+    },
+    {
+      "id": 123,
+      "bank": "ALTO ADIGE BANCA SPA",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "ALOAIT21"
+    },
+    {
+      "id": 496,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO BRANCH)",
+      "swift_code": "ANTBIT21C38"
+    },
+    {
+      "id": 3608,
+      "bank": "BANCA D'ITALIA",
+      "city": "BOLZANO",
+      "branch": "(FILIALE DI BOLZANO)",
+      "swift_code": "BITAITR1210"
+    },
+    {
+      "id": 4158,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO - AG. 1)",
+      "swift_code": "PASCITM1C38"
+    },
+    {
+      "id": 4159,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "PASCITMMBOZ"
+    },
+    {
+      "id": 6598,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR11DZ"
+    },
+    {
+      "id": 6599,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "BNLIITRRBZX"
+    },
+    {
+      "id": 7399,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(ASLAGO BRANCH)",
+      "swift_code": "BPAAIT2B055"
+    },
+    {
+      "id": 7400,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(CLIENTELA DIREZIONALE - DIREKTIONSKUNDEN)",
+      "swift_code": "BPAAIT2B080"
+    },
+    {
+      "id": 7401,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(DON BOSCO BRANCH)",
+      "swift_code": "BPAAIT2B030"
+    },
+    {
+      "id": 7402,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(FOREIGN EXCHANGE)",
+      "swift_code": "BPAAIT2BFXE"
+    },
+    {
+      "id": 7403,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(GRIES BRANCH)",
+      "swift_code": "BPAAIT2B051"
+    },
+    {
+      "id": 7404,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(P.ZZA MAZZINI-PLATZ BRANCH)",
+      "swift_code": "BPAAIT2B020"
+    },
+    {
+      "id": 7405,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(P.ZZA RROCCHIA/PFARRPLATZ BRANCH)",
+      "swift_code": "BPAAIT2B024"
+    },
+    {
+      "id": 7406,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(SECURITY DEPARTMENT)",
+      "swift_code": "BPAAIT2BSEC"
+    },
+    {
+      "id": 7407,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIA GALVANI-STR. BRANCH)",
+      "swift_code": "BPAAIT2B062"
+    },
+    {
+      "id": 7408,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIA LEONARDO-DA-VINCI-STR. BRANCH)",
+      "swift_code": "BPAAIT2B050"
+    },
+    {
+      "id": 7409,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIA MACELLO/SCHLACHTHOFSTR. BRANCH)",
+      "swift_code": "BPAAIT2B061"
+    },
+    {
+      "id": 7410,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIA RESIA/RESCHENSTR. BRANCH)",
+      "swift_code": "BPAAIT2B059"
+    },
+    {
+      "id": 7411,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIA ROMA/ROMSTR. BRANCH)",
+      "swift_code": "BPAAIT2B052"
+    },
+    {
+      "id": 7412,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(VIALE DRUSO/DRUSUSALLE BRANCH)",
+      "swift_code": "BPAAIT2B066"
+    },
+    {
+      "id": 7413,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "(ZONA EUROPA-ZONE BRANCH)",
+      "swift_code": "BPAAIT2B056"
+    },
+    {
+      "id": 7414,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "BPAAIT2B"
+    },
+    {
+      "id": 8734,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "POSOIT2110A"
+    },
+    {
+      "id": 12812,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(F.I. IMPRESE BOLZANO)",
+      "swift_code": "IBSPIT2P140"
+    },
+    {
+      "id": 13105,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(ADMINISTRAZIONE TESORERIA ENTI)",
+      "swift_code": "CRBZIT2B107"
+    },
+    {
+      "id": 13106,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA  VIA ORAZIO)",
+      "swift_code": "CRBZIT2B052"
+    },
+    {
+      "id": 13107,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA  ZONA INDUSTRIALE)",
+      "swift_code": "CRBZIT2B053"
+    },
+    {
+      "id": 13108,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA DODICIVILLE)",
+      "swift_code": "CRBZIT2B059"
+    },
+    {
+      "id": 13109,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA DON BOSCO)",
+      "swift_code": "CRBZIT2B085"
+    },
+    {
+      "id": 13110,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA OSPEDALE BOLZANO)",
+      "swift_code": "CRBZIT2B011"
+    },
+    {
+      "id": 13111,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA PIANI DI BOLZANO)",
+      "swift_code": "CRBZIT2B005"
+    },
+    {
+      "id": 13112,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA SAN GIACOMO)",
+      "swift_code": "CRBZIT2B057"
+    },
+    {
+      "id": 13113,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA VIA FAGO)",
+      "swift_code": "CRBZIT2B058"
+    },
+    {
+      "id": 13114,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(AGENZIA VIALE EUROPA)",
+      "swift_code": "CRBZIT2B008"
+    },
+    {
+      "id": 13115,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE GRIES)",
+      "swift_code": "CRBZIT2B002"
+    },
+    {
+      "id": 13116,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE OLTRISARCO)",
+      "swift_code": "CRBZIT2B004"
+    },
+    {
+      "id": 13117,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE P.ZZA WALTHER)",
+      "swift_code": "CRBZIT2B001"
+    },
+    {
+      "id": 13118,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE VIA DUCA D'AOSTA)",
+      "swift_code": "CRBZIT2B007"
+    },
+    {
+      "id": 13119,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE VIA RESIA)",
+      "swift_code": "CRBZIT2B006"
+    },
+    {
+      "id": 13120,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(FILIALE VIA ROMA)",
+      "swift_code": "CRBZIT2B003"
+    },
+    {
+      "id": 13121,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CRBZIT2B"
+    },
+    {
+      "id": 13122,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BOLZANO",
+      "branch": "(SEDE BOLZANO)",
+      "swift_code": "CRBZIT2B090"
+    },
+    {
+      "id": 16670,
+      "bank": "ENERGIE SPA",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "ENRRIT21"
+    },
+    {
+      "id": 17045,
+      "bank": "HYPO TIROL BANK AG",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "HYPTIT2B"
+    },
+    {
+      "id": 17046,
+      "bank": "HYPO TIROL BANK AG",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "HYPTITA1"
+    },
+    {
+      "id": 17214,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLZANO",
+      "branch": "(FILIALE IMPRESE BOLZANO DELLA MOSTRA)",
+      "swift_code": "BCITITMM807"
+    },
+    {
+      "id": 18530,
+      "bank": "JESOLO 3000 SPA",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "JESOIT21"
+    },
+    {
+      "id": 18805,
+      "bank": "NIEDERSTAETTER S.P.A.",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "NIEDIT21"
+    },
+    {
+      "id": 18878,
+      "bank": "PENSPLAN INVEST SGR",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "PEISIT21"
+    },
+    {
+      "id": 18938,
+      "bank": "PRADER BANK S.P.A.",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "PRRDIT21"
+    },
+    {
+      "id": 19041,
+      "bank": "RAIFFEISEN LANDESBANK SUEDTIROL AG",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "RZSBIT2B"
+    },
+    {
+      "id": 19046,
+      "bank": "RAIFFEISENKASSE BOZEN - CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(DRUSUSALLE BRANCH)",
+      "swift_code": "RZSBIT21903"
+    },
+    {
+      "id": 19047,
+      "bank": "RAIFFEISENKASSE BOZEN - CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(FIL. ROMSTRASSE)",
+      "swift_code": "RZSBIT21603"
+    },
+    {
+      "id": 19048,
+      "bank": "RAIFFEISENKASSE BOZEN - CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(HASLACH BRANCH)",
+      "swift_code": "RZSBIT21803"
+    },
+    {
+      "id": 19049,
+      "bank": "RAIFFEISENKASSE BOZEN - CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(OBSTMARKT BRANCH)",
+      "swift_code": "RZSBIT21B03"
+    },
+    {
+      "id": 19050,
+      "bank": "RAIFFEISENKASSE BOZEN - CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(RENTSCH BRANCH)",
+      "swift_code": "RZSBIT21703"
+    },
+    {
+      "id": 19051,
+      "bank": "RAIFFEISENKASSE BOZEN CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(EUROPAZONE)",
+      "swift_code": "RZSBIT21403"
+    },
+    {
+      "id": 19052,
+      "bank": "RAIFFEISENKASSE BOZEN CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(FIL. RATHAUSPLATZ)",
+      "swift_code": "RZSBIT21503"
+    },
+    {
+      "id": 19053,
+      "bank": "RAIFFEISENKASSE BOZEN CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(FILIALE GRIES)",
+      "swift_code": "RZSBIT21103"
+    },
+    {
+      "id": 19054,
+      "bank": "RAIFFEISENKASSE BOZEN CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(HANDELSZONE)",
+      "swift_code": "RZSBIT21303"
+    },
+    {
+      "id": 19055,
+      "bank": "RAIFFEISENKASSE BOZEN CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "RZSBIT21003"
+    },
+    {
+      "id": 19057,
+      "bank": "RAIFFEISENKASSE BOZEN/CASSA RURALE DI BOLZANO",
+      "city": "BOLZANO",
+      "branch": "(BOZNER-BODEN)",
+      "swift_code": "RZSBIT21A03"
+    },
+    {
+      "id": 19378,
+      "bank": "SAVE-SIM",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "SAVMIT21"
+    },
+    {
+      "id": 19642,
+      "bank": "TECHNOALPIN HOLDING S.P.A.",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "TEHLIT21"
+    },
+    {
+      "id": 22902,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO BUOZZI)",
+      "swift_code": "UNCRITM1073"
+    },
+    {
+      "id": 22903,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO DUCA D'AOSTA)",
+      "swift_code": "UNCRITM1VA5"
+    },
+    {
+      "id": 22904,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO PIAZZA WALTHER)",
+      "swift_code": "UNCRITM1965"
+    },
+    {
+      "id": 22905,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO VOLTA)",
+      "swift_code": "UNCRITM1979"
+    },
+    {
+      "id": 22906,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO)",
+      "swift_code": "UNCRITM1BZW"
+    },
+    {
+      "id": 22907,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLZANO",
+      "branch": "(BOLZANO)",
+      "swift_code": "UNCRITM1Y49"
+    },
+    {
+      "id": 26244,
+      "bank": "WOLFTANK SYSTEMS",
+      "city": "BOLZANO",
+      "branch": "",
+      "swift_code": "WOSYIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Bolzano — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Bolzano, Italy Contiene 73 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Bolzano — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Bolzano — codici SWIFT/BIC — 73 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 73 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "id": "it-perugia-banche",
+  "name": "Banche a Perugia — codici SWIFT/BIC",
+  "title": "Banche a Perugia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Perugia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1648,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(SEDE DI PERUGIA)",
+      "swift_code": "CRGEITG1525"
+    },
+    {
+      "id": 3664,
+      "bank": "BANCA D'ITALIA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA)",
+      "swift_code": "BITAITR1320"
+    },
+    {
+      "id": 3768,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "EUBAITM1831"
+    },
+    {
+      "id": 5475,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(CASTEL DEL PIANO UMBRO)",
+      "swift_code": "PASCITM1J39"
+    },
+    {
+      "id": 5476,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 10 LOC. PONTE S. GIOVANNI)",
+      "swift_code": "PASCITM1J42"
+    },
+    {
+      "id": 5477,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 11)",
+      "swift_code": "PASCITM1J38"
+    },
+    {
+      "id": 5478,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 12)",
+      "swift_code": "PASCITM1J43"
+    },
+    {
+      "id": 5479,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 13)",
+      "swift_code": "PASCITM1J44"
+    },
+    {
+      "id": 5480,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 8)",
+      "swift_code": "PASCITM1J40"
+    },
+    {
+      "id": 5481,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 9)",
+      "swift_code": "PASCITM1J41"
+    },
+    {
+      "id": 5482,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(SAN MARTINO IN CAMPO)",
+      "swift_code": "PASCITM1J37"
+    },
+    {
+      "id": 5483,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "PASCITM1PG2"
+    },
+    {
+      "id": 5484,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "PASCITM1PG4"
+    },
+    {
+      "id": 5485,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "PASCITM1PG7"
+    },
+    {
+      "id": 5486,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "PASCITMMPER"
+    },
+    {
+      "id": 6917,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18RZ"
+    },
+    {
+      "id": 6918,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR18SZ"
+    },
+    {
+      "id": 6919,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "BNLIITRRPGX"
+    },
+    {
+      "id": 7918,
+      "bank": "BANCA POPOLARE DI CORTONA S.C.PER AZ.",
+      "city": "PERUGIA",
+      "branch": "(AG. PERUGIA)",
+      "swift_code": "POCSIT31030"
+    },
+    {
+      "id": 9072,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 229-CASTEL DEL PIAN)",
+      "swift_code": "BPSPIT21229"
+    },
+    {
+      "id": 9073,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 244-VIA SETTEVALLI)",
+      "swift_code": "BPSPIT21244"
+    },
+    {
+      "id": 9074,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 29-PONTE FELCINO)",
+      "swift_code": "BPSPIT21029"
+    },
+    {
+      "id": 9075,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 31-ELCE)",
+      "swift_code": "BPSPIT21031"
+    },
+    {
+      "id": 9076,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 63-VIA BRIGANTI)",
+      "swift_code": "BPSPIT21063"
+    },
+    {
+      "id": 9077,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 66-S.EGIDIO)",
+      "swift_code": "BPSPIT21066"
+    },
+    {
+      "id": 9078,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 67-CORSO VANNUCCI)",
+      "swift_code": "BPSPIT21067"
+    },
+    {
+      "id": 9079,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 69-PONTE S.GIOVANNI)",
+      "swift_code": "BPSPIT21069"
+    },
+    {
+      "id": 9080,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 70-SAN SISTO)",
+      "swift_code": "BPSPIT21070"
+    },
+    {
+      "id": 9081,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 92-CADUTI DEL LAVORO)",
+      "swift_code": "BPSPIT21092"
+    },
+    {
+      "id": 9082,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PERUGIA",
+      "branch": "(PG SOLFAGNANO/PARLESCA 38)",
+      "swift_code": "BPSPIT21038"
+    },
+    {
+      "id": 10781,
+      "bank": "BANCO BPM SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG. 1)",
+      "swift_code": "BAPPIT21B48"
+    },
+    {
+      "id": 10782,
+      "bank": "BANCO BPM SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "BAPPIT21Q17"
+    },
+    {
+      "id": 13889,
+      "bank": "CASSA RISPARMIO DI ORVIETO",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "BPBAITR1487"
+    },
+    {
+      "id": 14626,
+      "bank": "COMUNE DI PERUGIA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "CPEUIT21"
+    },
+    {
+      "id": 15433,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AG.3)",
+      "swift_code": "BACRIT21732"
+    },
+    {
+      "id": 15434,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "BACRIT21325"
+    },
+    {
+      "id": 16402,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(SPORTELLO A DI PERUGIA)",
+      "swift_code": "DEUTITM1322"
+    },
+    {
+      "id": 16403,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PERUGIA",
+      "branch": "(SPORTELLO B DI PERUGIA)",
+      "swift_code": "DEUTITM1323"
+    },
+    {
+      "id": 16932,
+      "bank": "GESENU S.P.A. GESTIONE SERVIZI NETTEZZA URBANA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "GGSNIT21"
+    },
+    {
+      "id": 17536,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PERUGIA",
+      "branch": "(BRANCH 1 - CORSO VANNUCCI 47)",
+      "swift_code": "BCITITM1632"
+    },
+    {
+      "id": 17537,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE IMPRESE PERUGIA FONTIVEGGE)",
+      "swift_code": "BCITITMM985"
+    },
+    {
+      "id": 17538,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE IMPRESE PERUGIA)",
+      "swift_code": "BCITITMMH15"
+    },
+    {
+      "id": 17539,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PERUGIA",
+      "branch": "(MAIN BRANCH - VIA FONTIVEGGE SNC)",
+      "swift_code": "BCITITMM630"
+    },
+    {
+      "id": 17927,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA BRANCH)",
+      "swift_code": "BPVIIT21692"
+    },
+    {
+      "id": 18324,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "VEBHIT21454"
+    },
+    {
+      "id": 18325,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PERUGIA",
+      "branch": "(SANT'ANDREA DELLE FRATTE)",
+      "swift_code": "VEBHIT21481"
+    },
+    {
+      "id": 18475,
+      "bank": "ITALEASE FINANCE SPA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "ITFAIT21"
+    },
+    {
+      "id": 18681,
+      "bank": "MEDIOCREDITO DELL'UMBRIA SPA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "MEDMIT31"
+    },
+    {
+      "id": 18992,
+      "bank": "PROVINCIA DI PERUGIA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "PRPUIT21"
+    },
+    {
+      "id": 19561,
+      "bank": "SPA.PI S.R.L.",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "SIRRIT21"
+    },
+    {
+      "id": 19663,
+      "bank": "TELEUNIT SPA",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "TEEEIT21"
+    },
+    {
+      "id": 19995,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(BRANCH 1)",
+      "swift_code": "BAMAIT3A359"
+    },
+    {
+      "id": 19996,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(BRANCH 2)",
+      "swift_code": "BAMAIT31362"
+    },
+    {
+      "id": 19997,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(BRANCH 3)",
+      "swift_code": "BAMAIT3A237"
+    },
+    {
+      "id": 19998,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(PONTE SAN GIOVANNI BRANCH)",
+      "swift_code": "BAMAIT3A172"
+    },
+    {
+      "id": 19999,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "",
+      "swift_code": "BAMAIT3A361"
+    },
+    {
+      "id": 20233,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(AGENZIA 2 PERUGIA)",
+      "swift_code": "ARBAIT33121"
+    },
+    {
+      "id": 20234,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA AGENZIA 4)",
+      "swift_code": "ARBAIT33200"
+    },
+    {
+      "id": 20235,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA BRANCH 5)",
+      "swift_code": "ARBAIT33212"
+    },
+    {
+      "id": 20236,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PERUGIA",
+      "branch": "(SEDE DI PERUGIA)",
+      "swift_code": "ARBAIT33066"
+    },
+    {
+      "id": 20773,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA PIAZZA PICCININO)",
+      "swift_code": "BLOPIT22A99"
+    },
+    {
+      "id": 20774,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA S. ANDREA DELLE FRATTE)",
+      "swift_code": "BLOPIT2250P"
+    },
+    {
+      "id": 20775,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA ANGELONI)",
+      "swift_code": "BLOPIT22B00"
+    },
+    {
+      "id": 20776,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA ARNO)",
+      "swift_code": "BLOPIT22C07"
+    },
+    {
+      "id": 20777,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA DELLA PESCARA)",
+      "swift_code": "BLOPIT22C08"
+    },
+    {
+      "id": 20778,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA DELL'ACACIA)",
+      "swift_code": "BLOPIT22A97"
+    },
+    {
+      "id": 20779,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA MANNA)",
+      "swift_code": "BLOPIT22A98"
+    },
+    {
+      "id": 20780,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIA SETTEVALLI)",
+      "swift_code": "BLOPIT22516"
+    },
+    {
+      "id": 20781,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PERUGIA VIALE SAN SISTO)",
+      "swift_code": "BLOPIT22C66"
+    },
+    {
+      "id": 20782,
+      "bank": "UBI BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(FILIALE DI PONTE SAN GIOVANNI)",
+      "swift_code": "BLOPIT22B20"
+    },
+    {
+      "id": 21744,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PERUGIA",
+      "branch": "(MAGIONE)",
+      "swift_code": "BPAMIT31871"
+    },
+    {
+      "id": 21745,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 1 S.ANDREA DELLE FRATTE)",
+      "swift_code": "BPAMIT31886"
+    },
+    {
+      "id": 21746,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA 4 VIA SETTEVALLI)",
+      "swift_code": "BPAMIT31724"
+    },
+    {
+      "id": 24554,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(FOREIGN TRADE OFFICE PERUGIA)",
+      "swift_code": "UNCRITMMPGE"
+    },
+    {
+      "id": 24555,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA ELCE)",
+      "swift_code": "UNCRITM1J05"
+    },
+    {
+      "id": 24556,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA FONTIVEGGE)",
+      "swift_code": "UNCRITM1J03"
+    },
+    {
+      "id": 24557,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA MADONNA ALTA)",
+      "swift_code": "UNCRITM1J07"
+    },
+    {
+      "id": 24558,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA PIAN DI MASSIANO)",
+      "swift_code": "UNCRITM1773"
+    },
+    {
+      "id": 24559,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA S. ERMINIO)",
+      "swift_code": "UNCRITM1J13"
+    },
+    {
+      "id": 24560,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA SETTEVALLI)",
+      "swift_code": "UNCRITM1J06"
+    },
+    {
+      "id": 24561,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA UNIVERSITA')",
+      "swift_code": "UNCRITM1J11"
+    },
+    {
+      "id": 24562,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA VANNUCCI)",
+      "swift_code": "UNCRITM1J01"
+    },
+    {
+      "id": 24563,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA XX SETTEMBRE)",
+      "swift_code": "UNCRITM1770"
+    },
+    {
+      "id": 24564,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA)",
+      "swift_code": "UNCRITM1Y38"
+    },
+    {
+      "id": 24565,
+      "bank": "UNICREDIT SPA",
+      "city": "PERUGIA",
+      "branch": "(UMBRIA)",
+      "swift_code": "UNCRITM1PGX"
+    },
+    {
+      "id": 26064,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA BRANCH)",
+      "swift_code": "BAECIT21016"
+    },
+    {
+      "id": 26065,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PERUGIA",
+      "branch": "(PERUGIA BRANCH)",
+      "swift_code": "BAECIT21031"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Perugia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Perugia, Italy Contiene 87 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Perugia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Perugia — codici SWIFT/BIC — 87 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 87 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

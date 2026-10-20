@@ -1,0 +1,674 @@
+{
+  "id": "it-parma-banche",
+  "name": "Banche a Parma — codici SWIFT/BIC",
+  "title": "Banche a Parma — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Parma, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1033,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PARMA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21785"
+    },
+    {
+      "id": 1034,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "ANTBIT21784"
+    },
+    {
+      "id": 1646,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PARMA",
+      "branch": "(FILIALE DI PARMA)",
+      "swift_code": "CRGEITG1366"
+    },
+    {
+      "id": 3456,
+      "bank": "BANCA DI PARMA CREDITO COOPERATIVO",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "ICRAITRRV20"
+    },
+    {
+      "id": 3506,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PARMA",
+      "branch": "(PARMA CROCETTA)",
+      "swift_code": "BCPCIT21024"
+    },
+    {
+      "id": 3662,
+      "bank": "BANCA D'ITALIA",
+      "city": "PARMA",
+      "branch": "(FILIALE DI PARMA)",
+      "swift_code": "BITAITR1244"
+    },
+    {
+      "id": 3808,
+      "bank": "BANCA IMI S.P.A.",
+      "city": "PARMA",
+      "branch": "(SISTEMI PAG PRODOTTI CASH MANAGEMENT)",
+      "swift_code": "CABOITMHCPI"
+    },
+    {
+      "id": 5445,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 1)",
+      "swift_code": "PASCITM1PR1"
+    },
+    {
+      "id": 5446,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 2)",
+      "swift_code": "PASCITM1049"
+    },
+    {
+      "id": 5447,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 4)",
+      "swift_code": "PASCITM1351"
+    },
+    {
+      "id": 5448,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 6)",
+      "swift_code": "PASCITM1784"
+    },
+    {
+      "id": 5449,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 7)",
+      "swift_code": "PASCITM1785"
+    },
+    {
+      "id": 5450,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG.3)",
+      "swift_code": "PASCITM1187"
+    },
+    {
+      "id": 5451,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG.5)",
+      "swift_code": "PASCITM1352"
+    },
+    {
+      "id": 5452,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "PASCITMMPAR"
+    },
+    {
+      "id": 6912,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PARMA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18OZ"
+    },
+    {
+      "id": 6913,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "BNLIITRRPRX"
+    },
+    {
+      "id": 8379,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "BPMIITM1245"
+    },
+    {
+      "id": 8898,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "PARMA",
+      "branch": "(PARMA BRANCH)",
+      "swift_code": "POSOIT2112U"
+    },
+    {
+      "id": 9398,
+      "bank": "BANCA REALE S.P.A.",
+      "city": "PARMA",
+      "branch": "(FILIALE DI PARMA)",
+      "swift_code": "BRTOITTT005"
+    },
+    {
+      "id": 10758,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA - AGENZIA 11)",
+      "swift_code": "BAPPIT21D09"
+    },
+    {
+      "id": 10759,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 1)",
+      "swift_code": "BAPPIT21493"
+    },
+    {
+      "id": 10760,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 4)",
+      "swift_code": "BAPPIT21505"
+    },
+    {
+      "id": 10761,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 5)",
+      "swift_code": "BAPPIT21511"
+    },
+    {
+      "id": 10762,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 6)",
+      "swift_code": "BAPPIT21R12"
+    },
+    {
+      "id": 10763,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 7)",
+      "swift_code": "BAPPIT21R13"
+    },
+    {
+      "id": 10764,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA AG. 8)",
+      "swift_code": "BAPPIT21527"
+    },
+    {
+      "id": 10765,
+      "bank": "BANCO BPM SPA",
+      "city": "PARMA",
+      "branch": "(PARMA)",
+      "swift_code": "BAPPIT21499"
+    },
+    {
+      "id": 11597,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "PARMA",
+      "branch": "(VIA REPUBBLICA)",
+      "swift_code": "CREBIT21125"
+    },
+    {
+      "id": 11598,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "CREBIT21013"
+    },
+    {
+      "id": 11777,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "PARMA",
+      "branch": "(PARMA 370)",
+      "swift_code": "BDBDITA1370"
+    },
+    {
+      "id": 12028,
+      "bank": "BANCO DI SARDEGNA SPA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "SARDIT31940"
+    },
+    {
+      "id": 12055,
+      "bank": "BANCO EMILIANO CRED.COOP",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "ICRAITR1HD1"
+    },
+    {
+      "id": 12100,
+      "bank": "BARILLA G. E R. FRATELLI SOCIET PER AZIONI",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "BFSZIT2P"
+    },
+    {
+      "id": 12604,
+      "bank": "BORMIOLI ROCCO E FIGLIO SPA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "BORFIT21"
+    },
+    {
+      "id": 12766,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "IBSPIT2U858"
+    },
+    {
+      "id": 12882,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "IBSPIT2P858"
+    },
+    {
+      "id": 13733,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "(FILIALE IMPRESE PARMA)",
+      "swift_code": "IBSPIT2B412"
+    },
+    {
+      "id": 13734,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "(PARMA - PIAZZA GARIBALDI 3/A)",
+      "swift_code": "IBSPIT2B482"
+    },
+    {
+      "id": 13735,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "(PARMA - STRADA MONTANARA 19)",
+      "swift_code": "IBSPIT2B590"
+    },
+    {
+      "id": 13736,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "(PARMA - VIA D'AZEGLIO 29/C)",
+      "swift_code": "IBSPIT2B269"
+    },
+    {
+      "id": 13737,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "(PARMA - VIA VERDI 5/A)",
+      "swift_code": "IBSPIT2B700"
+    },
+    {
+      "id": 13738,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "IBSPIT2BPAR"
+    },
+    {
+      "id": 13834,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "PARMA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1994"
+    },
+    {
+      "id": 13835,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "PARMA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR19GN"
+    },
+    {
+      "id": 13836,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "PARMA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR19GT"
+    },
+    {
+      "id": 14619,
+      "bank": "COMUNE DI PARMA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "CUEPIT21"
+    },
+    {
+      "id": 14977,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "PARMA",
+      "branch": "(FILIALE IMPRESE PARMA (COLLECCHIO)",
+      "swift_code": "CRFIIT2S494"
+    },
+    {
+      "id": 14978,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "PARMA",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "CRFIIT2S762"
+    },
+    {
+      "id": 15429,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG.6)",
+      "swift_code": "BACRIT21230"
+    },
+    {
+      "id": 15430,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG.7)",
+      "swift_code": "BACRIT21234"
+    },
+    {
+      "id": 15431,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PARMA",
+      "branch": "(PARMA AG.9)",
+      "swift_code": "BACRIT21188"
+    },
+    {
+      "id": 15719,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PARMA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21076"
+    },
+    {
+      "id": 15720,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PARMA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21392"
+    },
+    {
+      "id": 15721,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PARMA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BACRIT21390"
+    },
+    {
+      "id": 15722,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PARMA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22PAR"
+    },
+    {
+      "id": 15850,
+      "bank": "CREDITO PADANO BANCA DI CREDITO COOPERATIVO - SOCIETA COOPERATIVA",
+      "city": "PARMA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1CMO"
+    },
+    {
+      "id": 15851,
+      "bank": "CREDITO PADANO BANCA DI CREDITO COOPERATIVO - SOCIETA COOPERATIVA",
+      "city": "PARMA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1CMP"
+    },
+    {
+      "id": 16399,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "DEUTITM1773"
+    },
+    {
+      "id": 17527,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PARMA",
+      "branch": "(FILIALE IMPRESE PARMA)",
+      "swift_code": "BCITITMMP28"
+    },
+    {
+      "id": 17528,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PARMA",
+      "branch": "(NOSTRO/VOSTRO ACCOUNTS RECONCILIATIONS DEPARTMNENT)",
+      "swift_code": "BCITITMMNOS"
+    },
+    {
+      "id": 17529,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PARMA",
+      "branch": "(TEST KEY AND BKE DEPARTMENT)",
+      "swift_code": "BCITITMMKEY"
+    },
+    {
+      "id": 17921,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PARMA",
+      "branch": "(BRANCH N. 2)",
+      "swift_code": "BPVIIT21634"
+    },
+    {
+      "id": 17922,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PARMA",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A12"
+    },
+    {
+      "id": 17923,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "BPVIIT22622"
+    },
+    {
+      "id": 18990,
+      "bank": "PROVINCIA DI PARMA",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "POPMIT21"
+    },
+    {
+      "id": 19496,
+      "bank": "SIMIMPRESA SIM",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "SIMIIT21"
+    },
+    {
+      "id": 19647,
+      "bank": "TECNOFIN SRL",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "TCSRIT21"
+    },
+    {
+      "id": 19722,
+      "bank": "TRIBUNALE DI PARMA - PROPOSTA DI CONCORDATO GR. PARMALAT",
+      "city": "PARMA",
+      "branch": "",
+      "swift_code": "TPPCIT21"
+    },
+    {
+      "id": 20754,
+      "bank": "UBI BANCA SPA",
+      "city": "PARMA",
+      "branch": "(FILIALE DI PARMA VIA EMILIA)",
+      "swift_code": "BLOPIT22628"
+    },
+    {
+      "id": 20755,
+      "bank": "UBI BANCA SPA",
+      "city": "PARMA",
+      "branch": "(SEDE DI PARMA)",
+      "swift_code": "BLOPIT22775"
+    },
+    {
+      "id": 21596,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "PARMA",
+      "branch": "(AGENZIA DI PARMA REPUBBLICA)",
+      "swift_code": "POCIITM1153"
+    },
+    {
+      "id": 21597,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "PARMA",
+      "branch": "(FIL. PARMA VIA EMILIA)",
+      "swift_code": "POCIITM1B18"
+    },
+    {
+      "id": 21598,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "PARMA",
+      "branch": "(PARMA)",
+      "swift_code": "POCIITM1140"
+    },
+    {
+      "id": 24519,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(EMILIA NORD)",
+      "swift_code": "UNCRITM1PRW"
+    },
+    {
+      "id": 24520,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(ESTERO MERCI PARMA)",
+      "swift_code": "UNCRITMMPRE"
+    },
+    {
+      "id": 24521,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA EMILIA EST A)",
+      "swift_code": "UNCRITM143V"
+    },
+    {
+      "id": 24522,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA MONTANARA)",
+      "swift_code": "UNCRITM1PU2"
+    },
+    {
+      "id": 24523,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA MONTEBELLO)",
+      "swift_code": "UNCRITM1NT0"
+    },
+    {
+      "id": 24524,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA MURATORI)",
+      "swift_code": "UNCRITM1V52"
+    },
+    {
+      "id": 24525,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA REPUBBLICA)",
+      "swift_code": "UNCRITM1070"
+    },
+    {
+      "id": 24526,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA S.CROCE)",
+      "swift_code": "UNCRITM1MP7"
+    },
+    {
+      "id": 24527,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA S.LEONARDO)",
+      "swift_code": "UNCRITM1PU6"
+    },
+    {
+      "id": 24528,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA VIALE PIACENZA)",
+      "swift_code": "UNCRITM1DH9"
+    },
+    {
+      "id": 24529,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA VITTORIO EMANUELE)",
+      "swift_code": "UNCRITM1RN6"
+    },
+    {
+      "id": 24530,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA XXII LUGLIO)",
+      "swift_code": "UNCRITM1L28"
+    },
+    {
+      "id": 24531,
+      "bank": "UNICREDIT SPA",
+      "city": "PARMA",
+      "branch": "(PARMA)",
+      "swift_code": "UNCRITM150Y"
+    },
+    {
+      "id": 26060,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PARMA",
+      "branch": "(PARMA 212 BRANCH)",
+      "swift_code": "BAECIT21212"
+    },
+    {
+      "id": 26061,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PARMA",
+      "branch": "(PARMA BRANCH)",
+      "swift_code": "BAECIT21041"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Parma — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Parma, Italy Contiene 89 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Parma — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Parma — codici SWIFT/BIC — 89 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 89 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

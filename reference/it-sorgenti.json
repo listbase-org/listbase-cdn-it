@@ -1,0 +1,556 @@
+{
+  "id": "it-sorgenti",
+  "name": "Sorgenti in Italia",
+  "title": "Sorgenti in Italia",
+  "description": "Elenco delle sorgenti in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1529946",
+      "name_it": "Acqua Panna",
+      "name_en": "Panna",
+      "latitude": 44.0656,
+      "longitude": 11.2886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1529946"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q106583756",
+      "name_it": "Bocche del Timavo",
+      "name_en": "",
+      "latitude": 45.7876,
+      "longitude": 13.5909,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106583756"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q117449376",
+      "name_it": "Elighes Uttiosos",
+      "name_en": "Elighes Uttiosos",
+      "latitude": 40.139722,
+      "longitude": 8.605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117449376"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q35452663",
+      "name_it": "",
+      "name_en": "Fiume Varmo",
+      "latitude": 45.93485,
+      "longitude": 12.93844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35452663"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3747315",
+      "name_it": "Fontana Bolla",
+      "name_en": "Fontana Bolla",
+      "latitude": 41.208056,
+      "longitude": 14.586389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3747315"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q35453148",
+      "name_it": "",
+      "name_en": "Fontana Calzo",
+      "latitude": 40.559722,
+      "longitude": 17.002222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35453148"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q118119713",
+      "name_it": "Fontana delle Meraviglie",
+      "name_en": "Fontana delle Meraviglie",
+      "latitude": 44.164354,
+      "longitude": 8.020795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118119713"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q35453160",
+      "name_it": "",
+      "name_en": "Fontana delle Roggiole",
+      "latitude": 45.98873,
+      "longitude": 11.03386,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35453160"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q111685267",
+      "name_it": "fontana Tonsone",
+      "name_en": "Tonsone fountain",
+      "latitude": 40.94923,
+      "longitude": 15.18847,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111685267"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q135215791",
+      "name_it": "Fontani de Pissì",
+      "name_en": "Fontani de Pissì",
+      "latitude": 45.832675,
+      "longitude": 9.439766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135215791"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q108328957",
+      "name_it": "Fonte Amata",
+      "name_en": "",
+      "latitude": 43.030269,
+      "longitude": 13.435961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108328957"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q130192200",
+      "name_it": "Fonte Centiata",
+      "name_en": "",
+      "latitude": 42.153609,
+      "longitude": 14.090266,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130192200"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q3747485",
+      "name_it": "Fonte Ciane",
+      "name_en": "Ciane source",
+      "latitude": 37.042206,
+      "longitude": 15.234843,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3747485"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q35453194",
+      "name_it": "",
+      "name_en": "Fonte Cognolo",
+      "latitude": 42.35199,
+      "longitude": 12.71698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35453194"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q108328955",
+      "name_it": "Fonte Cupo",
+      "name_en": "",
+      "latitude": 43.033823,
+      "longitude": 13.430523,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108328955"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q62055288",
+      "name_it": "Fonte dei Seppi",
+      "name_en": "",
+      "latitude": 43.852493,
+      "longitude": 11.23863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62055288"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q29647126",
+      "name_it": "Fonte del Canalino",
+      "name_en": "Fonte del Canalino",
+      "latitude": 42.90697,
+      "longitude": 10.85808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29647126"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q97705075",
+      "name_it": "Fonte del Galleni",
+      "name_en": "Fonte del Galleni",
+      "latitude": 43.49481,
+      "longitude": 10.63727,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97705075"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q56220666",
+      "name_it": "Fonte del Vascello",
+      "name_en": "Fonte del Vascello",
+      "latitude": 42.806795,
+      "longitude": 13.913657,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56220666"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q96994255",
+      "name_it": "Fonte della pescaia",
+      "name_en": "Fonte della pescaia",
+      "latitude": 43.48571,
+      "longitude": 10.64073,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96994255"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q34204292",
+      "name_it": "Fonte della Ripa",
+      "name_en": "Fonte della Ripa",
+      "latitude": 42.562299,
+      "longitude": 12.96203,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34204292"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q59509463",
+      "name_it": "fonte di Abealzu",
+      "name_en": "fonte di Abealzu",
+      "latitude": 40.72894,
+      "longitude": 8.621054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59509463"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q62101011",
+      "name_it": "Fonte di Vecciolino",
+      "name_en": "",
+      "latitude": 43.866715,
+      "longitude": 11.233275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62101011"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q56273419",
+      "name_it": "fonte Pissarottino",
+      "name_en": "Fonte Pissarottino",
+      "latitude": 45.82517,
+      "longitude": 9.09673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56273419"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q105436768",
+      "name_it": "fonte Pliniano",
+      "name_en": "Fonte Pliniano",
+      "latitude": 40.405767,
+      "longitude": 17.643936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105436768"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q113495192",
+      "name_it": "Fonte Regina",
+      "name_en": "Fonte Regina",
+      "latitude": 45.329045,
+      "longitude": 11.711848,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113495192"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q70331892",
+      "name_it": "fonte romana",
+      "name_en": "roman wellspring",
+      "latitude": 46.001107,
+      "longitude": 10.973402,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70331892"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q108328956",
+      "name_it": "Fonte Roveta",
+      "name_en": "",
+      "latitude": 43.035648,
+      "longitude": 13.443025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108328956"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q66818428",
+      "name_it": "Fonte San Pietro",
+      "name_en": "San Pietro spring",
+      "latitude": 43.3189,
+      "longitude": 13.68023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66818428"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q70879706",
+      "name_it": "Fonti della Rocchetta",
+      "name_en": "Fonti della Rocchetta",
+      "latitude": 43.228912,
+      "longitude": 12.801403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70879706"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q3747513",
+      "name_it": "Fonti di Poiano",
+      "name_en": "Fonti di Poiano",
+      "latitude": 44.389789,
+      "longitude": 10.439454,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3747513"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q52201943",
+      "name_it": "fonti di Rinaggiu",
+      "name_en": "Rinaggiu",
+      "latitude": 40.895065,
+      "longitude": 9.093055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52201943"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q56220341",
+      "name_it": "Fonti di San Francesco da Paola",
+      "name_en": "San Francesco da Paola springs",
+      "latitude": 43.164641,
+      "longitude": 13.723164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56220341"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q139324217",
+      "name_it": "Fonti di Tiu Memmere",
+      "name_en": "Tiu Memmere",
+      "latitude": 40.18089,
+      "longitude": 8.57651,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139324217"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q72695180",
+      "name_it": "Fonti medievali",
+      "name_en": "Fonti medievali",
+      "latitude": 43.469083,
+      "longitude": 11.046048,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72695180"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q35454101",
+      "name_it": "",
+      "name_en": "Funtana Breambuli",
+      "latitude": 40.11464,
+      "longitude": 8.55256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35454101"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q35454115",
+      "name_it": "",
+      "name_en": "Funtana Menta",
+      "latitude": 40.10828,
+      "longitude": 8.5669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35454115"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q35454128",
+      "name_it": "",
+      "name_en": "Funtana s'AbbaLughida",
+      "latitude": 40.10625,
+      "longitude": 8.56471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35454128"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q35456076",
+      "name_it": "",
+      "name_en": "Ghebo .",
+      "latitude": 45.93872,
+      "longitude": 13.00071,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35456076"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q35457365",
+      "name_it": "",
+      "name_en": "Goldbrunn",
+      "latitude": 46.97466,
+      "longitude": 11.83236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35457365"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q35504745",
+      "name_it": "",
+      "name_en": "Risorgive",
+      "latitude": 45.91884,
+      "longitude": 13.00048,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35504745"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q35509580",
+      "name_it": "",
+      "name_en": "Roggia di Bugnins",
+      "latitude": 45.90014,
+      "longitude": 12.94854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35509580"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q98381734",
+      "name_it": "sorgente delle Peschiere",
+      "name_en": "Sorgente delle Peschiere",
+      "latitude": 43.290259,
+      "longitude": 10.871597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98381734"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q108380117",
+      "name_it": "Sorgente di Bagnoli",
+      "name_en": "",
+      "latitude": 41.4356,
+      "longitude": 13.2139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108380117"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q56258248",
+      "name_it": "sorgente di Capodacqua",
+      "name_en": "source of Capodacqua",
+      "latitude": 41.29315,
+      "longitude": 13.7113,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258248"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q108447885",
+      "name_it": "Sorgente di Santa Susanna",
+      "name_en": "Sorgente di Santa Susanna",
+      "latitude": 42.502111,
+      "longitude": 12.85275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108447885"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q35517966",
+      "name_it": "",
+      "name_en": "Sorgente Ferrugginosa",
+      "latitude": 46.12991,
+      "longitude": 11.27634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35517966"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q108296701",
+      "name_it": "sorgente Moioli",
+      "name_en": "",
+      "latitude": 45.79851,
+      "longitude": 9.454,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108296701"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q54805038",
+      "name_it": "sorgente Orscelere",
+      "name_en": "Fonte Orscelere",
+      "latitude": 45.9943,
+      "longitude": 9.3415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54805038"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q35298813",
+      "name_it": "Sorgenti del Tevere",
+      "name_en": "Tevere's sources",
+      "latitude": 43.78723,
+      "longitude": 12.07736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35298813"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q35517976",
+      "name_it": "",
+      "name_en": "Sorgenti della Maira",
+      "latitude": 44.4729,
+      "longitude": 6.93602,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35517976"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q35517988",
+      "name_it": "",
+      "name_en": "Sorgenti di Aurisina",
+      "latitude": 45.734444,
+      "longitude": 13.658611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35517988"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q129427036",
+      "name_it": "Sorgenti di Sant'Antioco",
+      "name_en": "Sant'Antioco springs",
+      "latitude": 40.23627,
+      "longitude": 8.61201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129427036"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q3976431",
+      "name_it": "Su Gologone",
+      "name_en": "Su Gologone",
+      "latitude": 40.288889,
+      "longitude": 9.496389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3976431"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q42797988",
+      "name_it": "Valdonedo",
+      "name_en": "Valdonedo water",
+      "latitude": 45.962028,
+      "longitude": 9.305778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42797988"
+    }
+  ],
+  "meta": {
+    "title": "Sorgenti in Italia - Download gratuito",
+    "description": "Elenco delle sorgenti in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 55 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Sorgenti in Italia | ListBase",
+    "seo_description": "Scarica Sorgenti in Italia — 55 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 55 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

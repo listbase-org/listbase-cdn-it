@@ -1,0 +1,2482 @@
+{
+  "id": "it-grotte",
+  "name": "Grotte in Italia",
+  "title": "Grotte in Italia",
+  "description": "Elenco delle grotte in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 269,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q133830094",
+      "name_it": "Abisso Antica Erboristeria",
+      "name_en": "Abisso Antica Erboristeria",
+      "latitude": 45.957222,
+      "longitude": 9.381667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133830094"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q36492835",
+      "name_it": "Abisso Bonetti",
+      "name_en": "Abisso Bonetti",
+      "latitude": 45.833411,
+      "longitude": 13.580586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36492835"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q133830088",
+      "name_it": "Abisso dei Coltellini",
+      "name_en": "Abisso Coltellini",
+      "latitude": 45.957222,
+      "longitude": 9.381667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133830088"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q137170163",
+      "name_it": "Abisso dei Lesi",
+      "name_en": "Abisso dei Lesi",
+      "latitude": 45.639188,
+      "longitude": 11.023332,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137170163"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q133830096",
+      "name_it": "Abisso delle Spade",
+      "name_en": "Abisso delle Spade",
+      "latitude": 45.9633,
+      "longitude": 9.3819,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133830096"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3603719",
+      "name_it": "Abisso di Lamar",
+      "name_en": "",
+      "latitude": 46.129694,
+      "longitude": 11.064417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603719"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3603723",
+      "name_it": "Abisso di Trebiciano",
+      "name_en": "Abisso di Trebiciano",
+      "latitude": 45.6853,
+      "longitude": 13.8335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603723"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q133830062",
+      "name_it": "Abisso Kinder Brioschi",
+      "name_en": "Abisso Kinder Briosch",
+      "latitude": 45.957222,
+      "longitude": 9.381667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133830062"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q33324876",
+      "name_it": "antica cava del marmo di Ornavasso",
+      "name_en": "Antica cava del marmo di Ornavasso",
+      "latitude": 45.96866,
+      "longitude": 8.40321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324876"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q115784586",
+      "name_it": "Antro dei Falsari",
+      "name_en": "Antro dei Falsari",
+      "latitude": 44.19322,
+      "longitude": 8.422173,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115784586"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q55174210",
+      "name_it": "Antro delle Sorti",
+      "name_en": "Cave of the Fates",
+      "latitude": 41.839275,
+      "longitude": 12.891716,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55174210"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q55686253",
+      "name_it": "Arma delle Manie",
+      "name_en": "Arma delle Manie",
+      "latitude": 44.198488,
+      "longitude": 8.375281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55686253"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q113870106",
+      "name_it": "Arma Pollera",
+      "name_en": "Arma Pollera",
+      "latitude": 44.200404,
+      "longitude": 8.31545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113870106"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q116295136",
+      "name_it": "",
+      "name_en": "Arma Veirana",
+      "latitude": 44.146121,
+      "longitude": 8.071946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116295136"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3633479",
+      "name_it": "Balma del Messere",
+      "name_en": "Balma del Messere",
+      "latitude": 44.11979,
+      "longitude": 7.895455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3633479"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q111524335",
+      "name_it": "Balmetti",
+      "name_en": "Balmetti",
+      "latitude": 45.524609,
+      "longitude": 7.8572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111524335"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q555143",
+      "name_it": "Balzi Rossi",
+      "name_en": "Balzi Rossi",
+      "latitude": 43.783333,
+      "longitude": 7.535556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q555143"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q121837292",
+      "name_it": "Buca del Tasso",
+      "name_en": "",
+      "latitude": 43.96738,
+      "longitude": 10.29619,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121837292"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3646311",
+      "name_it": "Buco del Piombo",
+      "name_en": "Buco del Piombo",
+      "latitude": 45.82587,
+      "longitude": 9.19926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3646311"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q121890120",
+      "name_it": "Bus de la Bela",
+      "name_en": "Bus de la Bela",
+      "latitude": 46.05713,
+      "longitude": 11.7034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121890120"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q16534260",
+      "name_it": "Bus dela Spia",
+      "name_en": "Bus della Spia",
+      "latitude": 46.22685,
+      "longitude": 11.027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16534260"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q18715586",
+      "name_it": "Bus di Tacoi",
+      "name_en": "Bus di Tacoi",
+      "latitude": 45.959433,
+      "longitude": 9.949072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18715586"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q118316126",
+      "name_it": "Busa de Preeri",
+      "name_en": "Busa de Preeri",
+      "latitude": 45.723902,
+      "longitude": 10.915217,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118316126"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q42328319",
+      "name_it": "Caratabia",
+      "name_en": "Caratabia",
+      "latitude": 37.255592,
+      "longitude": 14.719908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42328319"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q99493295",
+      "name_it": "Casa grotta",
+      "name_en": "Casa Grotta",
+      "latitude": 40.66377,
+      "longitude": 16.612267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99493295"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q33323543",
+      "name_it": "",
+      "name_en": "Cava Grande",
+      "latitude": 36.92897,
+      "longitude": 15.11993,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323543"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q33323552",
+      "name_it": "",
+      "name_en": "Cave di Marmo",
+      "latitude": 44.08624,
+      "longitude": 10.11521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323552"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q33323568",
+      "name_it": "",
+      "name_en": "Cave di Rubbio",
+      "latitude": 45.80263,
+      "longitude": 11.67452,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323568"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q33323578",
+      "name_it": "",
+      "name_en": "Cave of Capre",
+      "latitude": 41.22441,
+      "longitude": 13.08283,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323578"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q130458726",
+      "name_it": "caverna del Sciason",
+      "name_en": "Sciason cave",
+      "latitude": 45.89442,
+      "longitude": 11.388904,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130458726"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q33323586",
+      "name_it": "",
+      "name_en": "Caverna della Capra Guasto",
+      "latitude": 38.15455,
+      "longitude": 12.74876,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323586"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q642002",
+      "name_it": "caverna delle Arene Candide",
+      "name_en": "Arene Candide",
+      "latitude": 44.162326,
+      "longitude": 8.328271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q642002"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q121863954",
+      "name_it": "Caverna delle Fate",
+      "name_en": "Caverna delle Fate",
+      "latitude": 44.19596,
+      "longitude": 8.368311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121863954"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q123558273",
+      "name_it": "chiesa Madonna della Grotta",
+      "name_en": "",
+      "latitude": 40.610278,
+      "longitude": 17.573889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123558273"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q20749309",
+      "name_it": "Ciota Ciara",
+      "name_en": "Ciota Ciara",
+      "latitude": 45.710907,
+      "longitude": 8.31088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20749309"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q118948857",
+      "name_it": "Coai di Borghetto",
+      "name_en": "",
+      "latitude": 45.68247,
+      "longitude": 10.92442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118948857"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q56258365",
+      "name_it": "Coale del Mondo",
+      "name_en": "Coale del Mondo",
+      "latitude": 45.57975,
+      "longitude": 11.02515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258365"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q121879792",
+      "name_it": "Colombario di monte Frate",
+      "name_en": "Colombario di monte Frate",
+      "latitude": 44.35831,
+      "longitude": 11.27964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121879792"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q56258378",
+      "name_it": "complesso del Releccio - W le Donne",
+      "name_en": "Releccio complex- W le Donne",
+      "latitude": 45.95631,
+      "longitude": 9.38459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258378"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q122782883",
+      "name_it": "covelo di Rio Malo",
+      "name_en": "covelo di Rio Malo",
+      "latitude": 45.927326,
+      "longitude": 11.264286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122782883"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q137830483",
+      "name_it": "Covolo della Pria",
+      "name_en": "Covolo della Pria",
+      "latitude": 45.820489,
+      "longitude": 11.371703,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137830483"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3696340",
+      "name_it": "Covolo di Butistone",
+      "name_en": "Covolo di Butistone",
+      "latitude": 45.949353,
+      "longitude": 11.726588,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3696340"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q137126827",
+      "name_it": "Covolo di Camposilvano",
+      "name_en": "Covolo di Camposilvano",
+      "latitude": 45.626392,
+      "longitude": 11.092962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137126827"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q24937519",
+      "name_it": "Cripta di San Michele",
+      "name_en": "crypt and cave of San Michele",
+      "latitude": 40.622667,
+      "longitude": 17.532983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24937519"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q3700074",
+      "name_it": "Cùel Zanzanù",
+      "name_en": "Cùel Zanzanù",
+      "latitude": 45.743569,
+      "longitude": 10.622824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3700074"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q123282794",
+      "name_it": "",
+      "name_en": "Dolina del Revotano",
+      "latitude": 42.31069,
+      "longitude": 12.69536,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123282794"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q86586931",
+      "name_it": "eremo di Santa Maria de Criptis",
+      "name_en": "hermitage of Santa Maria de Criptis",
+      "latitude": 42.107306,
+      "longitude": 13.948477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86586931"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q131840132",
+      "name_it": "",
+      "name_en": "Ginnasio (Cava d'Ispica)",
+      "latitude": 36.850747,
+      "longitude": 14.839962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131840132"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q68661404",
+      "name_it": "Grotta \"Forno di Napoleone\"",
+      "name_en": "Grotta \"Forno di Napoleone\"",
+      "latitude": 44.374894,
+      "longitude": 8.628047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68661404"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q2525418",
+      "name_it": "",
+      "name_en": "Grotta Azzurra",
+      "latitude": 37.851803,
+      "longitude": 15.304911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2525418"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q107600515",
+      "name_it": "Grotta Barbara",
+      "name_en": "Grotta Barbara",
+      "latitude": 41.230607,
+      "longitude": 13.040996,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107600515"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q97275563",
+      "name_it": "Grotta Bella",
+      "name_en": "Grotta Bella",
+      "latitude": 42.63429,
+      "longitude": 12.365351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97275563"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q5610788",
+      "name_it": "",
+      "name_en": "Grotta Bianca",
+      "latitude": 40.552614,
+      "longitude": 14.260244,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5610788"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q3776993",
+      "name_it": "grotta Calafarina",
+      "name_en": "Grotta Calafarina",
+      "latitude": 36.72176,
+      "longitude": 15.11711,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3776993"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3776996",
+      "name_it": "Grotta Calgeron",
+      "name_en": "Grotto Calgeron",
+      "latitude": 46.0075,
+      "longitude": 11.619167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3776996"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q66314395",
+      "name_it": "grotta Chiar di luna",
+      "name_en": "",
+      "latitude": 41.002228,
+      "longitude": 17.205127,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66314395"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q69330603",
+      "name_it": "Grotta Concone delle Rose",
+      "name_en": "Grotta Concone delle Rose",
+      "latitude": 41.40798,
+      "longitude": 14.454832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69330603"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q16562060",
+      "name_it": "grotta Corbeddu",
+      "name_en": "Corbeddu Cave",
+      "latitude": 40.254921,
+      "longitude": 9.485078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16562060"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3776997",
+      "name_it": "Grotta Cuoco",
+      "name_en": "",
+      "latitude": 40.609633,
+      "longitude": 17.46375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3776997"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q135215914",
+      "name_it": "Grotta de la Mare",
+      "name_en": "Grotta de la Mare",
+      "latitude": 45.832331,
+      "longitude": 9.440846,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135215914"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q71053797",
+      "name_it": "Grotta de Nadale",
+      "name_en": "De Nadale Cave",
+      "latitude": 45.428611,
+      "longitude": 11.504167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71053797"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q106204884",
+      "name_it": "Grotta degli Amanti",
+      "name_en": "Grotta degli Amanti",
+      "latitude": 40.301732,
+      "longitude": 18.405205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106204884"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q33323771",
+      "name_it": "grotta degli Schiavi",
+      "name_en": "Grotta degli Schiavi",
+      "latitude": 43.5501,
+      "longitude": 13.62515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323771"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q123374605",
+      "name_it": "Grotta dei Beati Paoli",
+      "name_en": "Grotta dei Beati Paoli",
+      "latitude": 38.118119,
+      "longitude": 13.355245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123374605"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q63248212",
+      "name_it": "Grotta dei briganti",
+      "name_en": "Grotta dei Briganti",
+      "latitude": 36.974385,
+      "longitude": 15.093725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63248212"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q33323778",
+      "name_it": "grotta dei Cavalli",
+      "name_en": "Grotta dei Cavalli",
+      "latitude": 38.16819,
+      "longitude": 12.72007,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323778"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q3777018",
+      "name_it": "Grotta dei Cervi",
+      "name_en": "Deer Cave",
+      "latitude": 40.082778,
+      "longitude": 18.485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777018"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q106920743",
+      "name_it": "Grotta dei Colombi",
+      "name_en": "Grotta dei Colombi",
+      "latitude": 44.036,
+      "longitude": 9.8438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106920743"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q68323604",
+      "name_it": "Grotta dei Cordari",
+      "name_en": "Grotta dei Cordari",
+      "latitude": 37.076571,
+      "longitude": 15.275901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68323604"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q116886091",
+      "name_it": "Grotta dei Dossi",
+      "name_en": "Grotta dei Dossi",
+      "latitude": 44.340234,
+      "longitude": 7.743231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116886091"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q55162252",
+      "name_it": "Grotta dei Massacci",
+      "name_en": "",
+      "latitude": 42.212237,
+      "longitude": 12.821456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55162252"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q31290999",
+      "name_it": "Grotta dei Moscerini",
+      "name_en": "Grotta dei Moscerini",
+      "latitude": 41.239169,
+      "longitude": 13.478378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31290999"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q47306240",
+      "name_it": "grotta dei Santi",
+      "name_en": "Grotta dei Santi",
+      "latitude": 37.112422,
+      "longitude": 14.756745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47306240"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q125374163",
+      "name_it": "Grotta dei Santi (Atrani)",
+      "name_en": "",
+      "latitude": 40.636068,
+      "longitude": 14.606351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125374163"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q1225474",
+      "name_it": "grotta del Bue Marino",
+      "name_en": "Grotta del Bue Marino",
+      "latitude": 40.24674,
+      "longitude": 9.622779,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1225474"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q33323788",
+      "name_it": "grotta del bue marino",
+      "name_en": "Grotta del bue marino",
+      "latitude": 38.5718,
+      "longitude": 14.54235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323788"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q106247438",
+      "name_it": "Grotta del Canale",
+      "name_en": "Grotta del Canale",
+      "latitude": 40.256565,
+      "longitude": 18.444306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106247438"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q924853",
+      "name_it": "grotta del Cane",
+      "name_en": "Cave of Dogs",
+      "latitude": 40.8333,
+      "longitude": 14.1667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q924853"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q1431132",
+      "name_it": "grotta del Cavallo",
+      "name_en": "Grotta del Cavallo",
+      "latitude": 40.155236,
+      "longitude": 17.960353,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1431132"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q111468554",
+      "name_it": "Grotta del Caviglione",
+      "name_en": "",
+      "latitude": 43.784094,
+      "longitude": 7.534825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111468554"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q113969271",
+      "name_it": "Grotta del Ciabattino",
+      "name_en": "Grotta del Ciabattino",
+      "latitude": 45.676946,
+      "longitude": 10.949142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113969271"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q3777021",
+      "name_it": "grotta del Colle",
+      "name_en": "Grotta del Colle",
+      "latitude": 42.204555,
+      "longitude": 14.1638,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777021"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q106201759",
+      "name_it": "Grotta del Diavolo",
+      "name_en": "Devil's Cave",
+      "latitude": 39.790107,
+      "longitude": 18.3457,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106201759"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q106204049",
+      "name_it": "Grotta del Drago",
+      "name_en": "",
+      "latitude": 39.800848,
+      "longitude": 18.330747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106204049"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q3777023",
+      "name_it": "grotta del Fico",
+      "name_en": "Grotta del Fico",
+      "latitude": 40.14009,
+      "longitude": 9.65969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777023"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q106201874",
+      "name_it": "Grotta del Fiume",
+      "name_en": "",
+      "latitude": 39.795495,
+      "longitude": 18.339847,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106201874"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q67375422",
+      "name_it": "Grotta del Gatto",
+      "name_en": "Grotta del Gatto",
+      "latitude": 37.683065,
+      "longitude": 15.085756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67375422"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q3117235",
+      "name_it": "Grotta del Gelo",
+      "name_en": "Grotta del Gelo",
+      "latitude": 37.804389,
+      "longitude": 14.984111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3117235"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q56118927",
+      "name_it": "grotta del lago di Como",
+      "name_en": "Grotta del lago di Como",
+      "latitude": 45.95767,
+      "longitude": 9.38132,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56118927"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q3777026",
+      "name_it": "Grotta del Lauro",
+      "name_en": "",
+      "latitude": 38.016667,
+      "longitude": 14.7,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777026"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q63522756",
+      "name_it": "Grotta del Leone",
+      "name_en": "Grotta del Leone",
+      "latitude": 43.737568,
+      "longitude": 10.47342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63522756"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q33323795",
+      "name_it": "grotta del Mitreo",
+      "name_en": "Grotta del Mitreo",
+      "latitude": 45.78419,
+      "longitude": 13.59778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323795"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q123916498",
+      "name_it": "Grotta del Monte Cucco",
+      "name_en": "",
+      "latitude": 43.37167,
+      "longitude": 12.74835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123916498"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q106246806",
+      "name_it": "Grotta del Moro",
+      "name_en": "Grotta del Moro",
+      "latitude": 40.76301,
+      "longitude": 17.691485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106246806"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q33323802",
+      "name_it": "grotta del Mortarolo",
+      "name_en": "Grotta del Mortarolo",
+      "latitude": 43.54205,
+      "longitude": 13.62388,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323802"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q106247376",
+      "name_it": "Grotta del Pepe",
+      "name_en": "Grotta del Pepe",
+      "latitude": 40.25583,
+      "longitude": 18.445081,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106247376"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q124050718",
+      "name_it": "Grotta del Pettirosso",
+      "name_en": "",
+      "latitude": 45.758589,
+      "longitude": 13.67076,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124050718"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q3777027",
+      "name_it": "grotta del Pisco",
+      "name_en": "Grotta del Pisco",
+      "latitude": 40.548766,
+      "longitude": 14.223089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777027"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q108940295",
+      "name_it": "Grotta del Re Tiberio",
+      "name_en": "Grotta del Re Tiberio",
+      "latitude": 44.25623,
+      "longitude": 11.66735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108940295"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q750837",
+      "name_it": "grotta del Romito",
+      "name_en": "Romito Cave",
+      "latitude": 39.911111,
+      "longitude": 15.929167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q750837"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q66361788",
+      "name_it": "Grotta del Sasso Colato",
+      "name_en": "Grotta del Sasso Colato",
+      "latitude": 42.772417,
+      "longitude": 11.693306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66361788"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q3777028",
+      "name_it": "grotta del Sorell",
+      "name_en": "",
+      "latitude": 40.572281,
+      "longitude": 8.159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777028"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q33323829",
+      "name_it": "grotta del Turco Gaeta",
+      "name_en": "Grotta del Turco Gaeta",
+      "latitude": 41.20506,
+      "longitude": 13.57154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323829"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q3777030",
+      "name_it": "grotta del Vento",
+      "name_en": "Grotta del Vento",
+      "latitude": 44.0341,
+      "longitude": 10.3575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777030"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q121889421",
+      "name_it": "Grotta dell'Acqua Nera",
+      "name_en": "Grotta dell'Acqua Nera",
+      "latitude": 46.06232,
+      "longitude": 11.69322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121889421"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q3777033",
+      "name_it": "Grotta dell'Angelo",
+      "name_en": "Angel's Cave",
+      "latitude": 41.91591,
+      "longitude": 15.62989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777033"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q136657934",
+      "name_it": "grotta dell'Arma",
+      "name_en": "Cave of the Madonna dell'Arma",
+      "latitude": 43.828534,
+      "longitude": 7.845635,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136657934"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q38257781",
+      "name_it": "grotta dell'Artiglieria",
+      "name_en": "Grotta dell'Artiglieria",
+      "latitude": 45.832492,
+      "longitude": 13.571828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38257781"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q3777035",
+      "name_it": "Grotta dell'Impiso",
+      "name_en": "Impiso Cave",
+      "latitude": 41.223766,
+      "longitude": 13.081297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777035"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q3777037",
+      "name_it": "Grotta dell'Inferno",
+      "name_en": "Grotta dell'Inferno",
+      "latitude": 40.70806,
+      "longitude": 8.6025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777037"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q3777039",
+      "name_it": "Grotta dell'Orso",
+      "name_en": "Grotta dell'Orso",
+      "latitude": 45.7325,
+      "longitude": 13.72605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777039"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q3777045",
+      "name_it": "Grotta della Bigonda",
+      "name_en": "Grotta della Bigonda",
+      "latitude": 46.0176,
+      "longitude": 11.5826,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777045"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q114034754",
+      "name_it": "Grotta della Faja",
+      "name_en": "Grotta della Faja",
+      "latitude": 45.46558,
+      "longitude": 7.507693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114034754"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q48805022",
+      "name_it": "Grotta della Lupa",
+      "name_en": "",
+      "latitude": 42.174304,
+      "longitude": 14.08232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48805022"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q134547156",
+      "name_it": "Grotta della Madonna a Laorca",
+      "name_en": "Lourdes grotto of Laorca",
+      "latitude": 45.879121,
+      "longitude": 9.404798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134547156"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q33323846",
+      "name_it": "grotta della Monaca",
+      "name_en": "Grotta della Monaca",
+      "latitude": 40.16381,
+      "longitude": 18.48415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323846"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q70357220",
+      "name_it": "Grotta della Neve",
+      "name_en": "Grotta della Neve",
+      "latitude": 46.623196,
+      "longitude": 11.950551,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70357220"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q108133615",
+      "name_it": "Grotta della Neve",
+      "name_en": "",
+      "latitude": 42.224983,
+      "longitude": 14.213525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108133615"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q33324868",
+      "name_it": "grotta della Poesia",
+      "name_en": "La Poesia",
+      "latitude": 40.28586,
+      "longitude": 18.42963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324868"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q3777051",
+      "name_it": "Grotta della Sibilla",
+      "name_en": "Sibyl's Cave",
+      "latitude": 42.9,
+      "longitude": 13.261944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777051"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q72162741",
+      "name_it": "Grotta della Signora",
+      "name_en": "Grotta della Signora",
+      "latitude": 36.855617,
+      "longitude": 14.836322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72162741"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q33323853",
+      "name_it": "grotta delle Arene Candide",
+      "name_en": "Grotta delle Arene Candide",
+      "latitude": 44.1623,
+      "longitude": 8.3285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323853"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q2059749",
+      "name_it": "grotta delle Felci",
+      "name_en": "Grotta delle Felci",
+      "latitude": 40.547222,
+      "longitude": 14.232778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2059749"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q106092362",
+      "name_it": "grotta delle meraviglie",
+      "name_en": "Grotta delle meraviglie",
+      "latitude": 45.78841,
+      "longitude": 9.63538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106092362"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q66314393",
+      "name_it": "grotta delle rondinelle",
+      "name_en": "Grotta delle rondinelle",
+      "latitude": 40.999876,
+      "longitude": 17.210618,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66314393"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q135443437",
+      "name_it": "grotta delle Rondinelle",
+      "name_en": "grotta delle Rondinelle",
+      "latitude": 42.113734,
+      "longitude": 15.480022,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135443437"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q108380224",
+      "name_it": "Grotta delle stelle",
+      "name_en": "",
+      "latitude": 41.4035,
+      "longitude": 13.3031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108380224"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q33323869",
+      "name_it": "Grotta delle Trabacche",
+      "name_en": "Grotta Delle Trabacche",
+      "latitude": 36.91078,
+      "longitude": 14.64309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323869"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q65029027",
+      "name_it": "",
+      "name_en": "Grotta delle Veneri",
+      "latitude": 40.0704,
+      "longitude": 18.1144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65029027"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q106305175",
+      "name_it": "Grotta delle Vore",
+      "name_en": "",
+      "latitude": 39.807122,
+      "longitude": 18.380339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106305175"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q106247298",
+      "name_it": "Grotta Dello Mbruficu",
+      "name_en": "Grotta Dello Mbruficu",
+      "latitude": 40.251441,
+      "longitude": 18.447065,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106247298"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q3777055",
+      "name_it": "Grotta dello Scoglietto",
+      "name_en": "",
+      "latitude": 42.66932,
+      "longitude": 11.04966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777055"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q3777057",
+      "name_it": "Grotta di Bergeggi",
+      "name_en": "Grotta di Bergeggi",
+      "latitude": 44.242878,
+      "longitude": 8.444899,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777057"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q54803836",
+      "name_it": "grotta di Canova",
+      "name_en": "Cave of Canova",
+      "latitude": 45.97874,
+      "longitude": 9.34368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54803836"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q106201688",
+      "name_it": "Grotta di Capelvenere",
+      "name_en": "Grotta di Capelvenere",
+      "latitude": 40.142454,
+      "longitude": 17.979094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106201688"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q33323877",
+      "name_it": "grotta di Carburangeli",
+      "name_en": "Grotta di Carburangeli",
+      "latitude": 38.1673,
+      "longitude": 13.16126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323877"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q3777061",
+      "name_it": "Grotta di Castello Tesino",
+      "name_en": "",
+      "latitude": 46.089349,
+      "longitude": 11.68076,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777061"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q3777063",
+      "name_it": "grotta di Conchi",
+      "name_en": "",
+      "latitude": 40.8485,
+      "longitude": 8.8144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777063"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q3777065",
+      "name_it": "grotta di Curtomartino",
+      "name_en": "Grotta di Curtomartino",
+      "latitude": 40.86466,
+      "longitude": 16.81,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777065"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q21770601",
+      "name_it": "Grotta di Curtomartino",
+      "name_en": "",
+      "latitude": 40.851704,
+      "longitude": 16.792221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21770601"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q3777064",
+      "name_it": "Grotta di Facciasquata",
+      "name_en": "",
+      "latitude": 40.611111,
+      "longitude": 17.506556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777064"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q30281536",
+      "name_it": "grotta di Filiestru",
+      "name_en": "Grotta di Filiestru",
+      "latitude": 40.454094,
+      "longitude": 8.651366,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30281536"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q107465824",
+      "name_it": "grotta di Fiumelatte",
+      "name_en": "cave of Fiumelatte",
+      "latitude": 46.001386,
+      "longitude": 9.294449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107465824"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q3777066",
+      "name_it": "grotta di Is Zuddas",
+      "name_en": "Grotte Is Zuddas",
+      "latitude": 39.045764,
+      "longitude": 8.706575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777066"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q60714960",
+      "name_it": "Grotta di Macereti",
+      "name_en": "",
+      "latitude": 44.066412,
+      "longitude": 10.77539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60714960"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q106203376",
+      "name_it": "Grotta di Mafar",
+      "name_en": "Grotta di Mafar",
+      "latitude": 40.249672,
+      "longitude": 18.447246,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106203376"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q3777072",
+      "name_it": "grotta di Marina di Maratea",
+      "name_en": "cave of Marina di Maratea",
+      "latitude": 39.97008,
+      "longitude": 15.72637,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777072"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q3777074",
+      "name_it": "grotta di Matermania",
+      "name_en": "Grotta di Matromania",
+      "latitude": 40.54944,
+      "longitude": 14.25582,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777074"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q66058055",
+      "name_it": "Grotta di Matermania",
+      "name_en": "Grotta di Matermania",
+      "latitude": 40.549458,
+      "longitude": 14.255844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66058055"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q30060043",
+      "name_it": "grotta di Moncodeno",
+      "name_en": "Cave of Moncodeno",
+      "latitude": 45.9709,
+      "longitude": 9.377267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30060043"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q3777075",
+      "name_it": "grotta di Monte Majore",
+      "name_en": "Grotta di Monte Majore",
+      "latitude": 40.513186,
+      "longitude": 8.609431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777075"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q3777076",
+      "name_it": "Grotta di Montescotano",
+      "name_en": "",
+      "latitude": 40.598767,
+      "longitude": 17.476033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777076"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q3777082",
+      "name_it": "grotta di Nereo",
+      "name_en": "Nereo Cave",
+      "latitude": 40.561848,
+      "longitude": 8.161111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777082"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q106305069",
+      "name_it": "Grotta di Ortocupo",
+      "name_en": "",
+      "latitude": 39.806593,
+      "longitude": 18.378225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106305069"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q67017518",
+      "name_it": "grotta di Osimo",
+      "name_en": "cave of Osimo",
+      "latitude": 43.486711,
+      "longitude": 13.482649,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67017518"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q3777079",
+      "name_it": "Grotta di Patone",
+      "name_en": "Bus del Diaol",
+      "latitude": 45.93823,
+      "longitude": 10.90885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777079"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q3777081",
+      "name_it": "Grotta di Putignano",
+      "name_en": "Grotta del Trullo",
+      "latitude": 40.857052,
+      "longitude": 17.109866,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777081"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q3777083",
+      "name_it": "grotta di Sa Oche",
+      "name_en": "Sa Oche Caves",
+      "latitude": 40.256844,
+      "longitude": 9.485597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777083"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q3944143",
+      "name_it": "grotta di Sa Ucca de su Tintirriolu",
+      "name_en": "",
+      "latitude": 40.452911,
+      "longitude": 8.653969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3944143"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q67372754",
+      "name_it": "Grotta di San Bernardino",
+      "name_en": "Grotta di San Bernardino",
+      "latitude": 45.426105,
+      "longitude": 11.556496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67372754"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q108404214",
+      "name_it": "Grotta di San Catello",
+      "name_en": "",
+      "latitude": 40.653915,
+      "longitude": 14.499082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108404214"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q106201679",
+      "name_it": "Grotta di San Cristoforo",
+      "name_en": "",
+      "latitude": 40.268778,
+      "longitude": 18.435213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106201679"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q20656636",
+      "name_it": "grotta di San Giovanni",
+      "name_en": "Grotta di San Giovanni",
+      "latitude": 39.337221,
+      "longitude": 8.627533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20656636"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q33323894",
+      "name_it": "grotta di San Gregorio",
+      "name_en": "Grotta di San Gregorio",
+      "latitude": 38.75255,
+      "longitude": 16.56393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323894"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q111601945",
+      "name_it": "grotta di San Guglielmo",
+      "name_en": "San Guglielmo cave",
+      "latitude": 40.80741,
+      "longitude": 15.09575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111601945"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q3777092",
+      "name_it": "Grotta di San Michele",
+      "name_en": "Grotta di San Michele",
+      "latitude": 41.29263,
+      "longitude": 14.50505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777092"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q33323899",
+      "name_it": "grotta di San Michele",
+      "name_en": "Grotta di San Michele",
+      "latitude": 41.09422,
+      "longitude": 16.07645,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323899"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q118763977",
+      "name_it": "Grotta di San Michele",
+      "name_en": "",
+      "latitude": 41.186328,
+      "longitude": 14.21914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118763977"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q30889840",
+      "name_it": "grotta di San Paterniano",
+      "name_en": "Grotta di San Paterniano",
+      "latitude": 43.7738,
+      "longitude": 13.0188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889840"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q114452961",
+      "name_it": "Grotta di San Ponzo",
+      "name_en": "Grotta di San Ponzo",
+      "latitude": 44.824455,
+      "longitude": 9.096483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114452961"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q69290795",
+      "name_it": "Grotta di Sant'Alfonso",
+      "name_en": "Grotta di Sant'Alfonso",
+      "latitude": 40.651245,
+      "longitude": 14.6063,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69290795"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q3777096",
+      "name_it": "grotta di Sant'Angelo",
+      "name_en": "Grotta di Sant'Angelo (Stilo)",
+      "latitude": 38.482799,
+      "longitude": 16.469427,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777096"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q33324031",
+      "name_it": "grotta di Sant'Angelo",
+      "name_en": "Grotta di Sant'Angelo",
+      "latitude": 40.824958,
+      "longitude": 16.703698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324031"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q131395933",
+      "name_it": "Grotta di Sant'Angelo di Castiglione a Casauria",
+      "name_en": "cave of Sant'Angelo di Castiglione a Casauria",
+      "latitude": 42.204209,
+      "longitude": 13.874937,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131395933"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q28738552",
+      "name_it": "grotta di Santa Barbara",
+      "name_en": "Grotta di Santa Barbara",
+      "latitude": 39.2825,
+      "longitude": 8.49475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28738552"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q136035880",
+      "name_it": "grotta di Santa Barbara",
+      "name_en": "Saint Barbara grotto",
+      "latitude": 45.95098,
+      "longitude": 11.873753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136035880"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q3777097",
+      "name_it": "Grotta di Santa Croce",
+      "name_en": "Grotta di Santa Croce",
+      "latitude": 41.177055,
+      "longitude": 16.469138,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777097"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q66058120",
+      "name_it": "Grotta di Sataria",
+      "name_en": "Grotta di Sataria",
+      "latitude": 36.783767,
+      "longitude": 11.951566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66058120"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q66314391",
+      "name_it": "grotta di Sella",
+      "name_en": "Grotta di Sella",
+      "latitude": 40.982952,
+      "longitude": 17.252909,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66314391"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q98004594",
+      "name_it": "Grotta di Senabardo",
+      "name_en": "Grotta di Senabardo",
+      "latitude": 37.055594,
+      "longitude": 14.889514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98004594"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q33323976",
+      "name_it": "grotta di Su Coduleddu",
+      "name_en": "grotta di Su Coduleddu",
+      "latitude": 40.11689,
+      "longitude": 8.48537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323976"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q1547613",
+      "name_it": "grotta di Su Coloru",
+      "name_en": "Grotta su Coloru",
+      "latitude": 40.815833,
+      "longitude": 8.812222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1547613"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q1547616",
+      "name_it": "grotta di Su Mannau",
+      "name_en": "Grotta di Su Mannau",
+      "latitude": 39.4075,
+      "longitude": 8.493472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1547616"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q3777098",
+      "name_it": "Grotta di Su Marmuri",
+      "name_en": "Grotta Su Marmuri",
+      "latitude": 39.815396,
+      "longitude": 9.486846,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777098"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q14565472",
+      "name_it": "Grotta di Turi",
+      "name_en": "Grotta di Turi",
+      "latitude": 40.924942,
+      "longitude": 17.016297,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14565472"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q33323921",
+      "name_it": "grotta Fioravante",
+      "name_en": "Grotta Fioravante",
+      "latitude": 45.77698,
+      "longitude": 13.59521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323921"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q52828031",
+      "name_it": "Grotta Gaia",
+      "name_en": "Grotta Gaia",
+      "latitude": 40.146791,
+      "longitude": 17.974084,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52828031"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q106302923",
+      "name_it": "Grotta Gattulla",
+      "name_en": "Grotta Gattulla",
+      "latitude": 40.036716,
+      "longitude": 18.462341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106302923"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q138335982",
+      "name_it": "Grotta Gentilotti",
+      "name_en": "",
+      "latitude": 41.840361,
+      "longitude": 13.755663,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138335982"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q106203205",
+      "name_it": "Grotta Grande del Ciolo",
+      "name_en": "",
+      "latitude": 39.84426,
+      "longitude": 18.386153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106203205"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q33323935",
+      "name_it": "grotta Mangiapane",
+      "name_en": "Grotta Mangiapane",
+      "latitude": 38.09221,
+      "longitude": 12.67157,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323935"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q938464",
+      "name_it": "grotta Maona",
+      "name_en": "",
+      "latitude": 43.900619,
+      "longitude": 10.776889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q938464"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q3777003",
+      "name_it": "Grotta Monte Fellone",
+      "name_en": "",
+      "latitude": 40.59545,
+      "longitude": 17.45015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777003"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q106963351",
+      "name_it": "Grotta Mora Cavorso",
+      "name_en": "Grotta Mora Cavorso",
+      "latitude": 41.8772,
+      "longitude": 13.1758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106963351"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q3777006",
+      "name_it": "Grotta Nera",
+      "name_en": "Grotta Nera",
+      "latitude": 45.63041,
+      "longitude": 13.85143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777006"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q66056600",
+      "name_it": "Grotta Nevarola",
+      "name_en": "Grotta Nevarola",
+      "latitude": 37.832941,
+      "longitude": 14.38364,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66056600"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q3777010",
+      "name_it": "grotta Paglicci",
+      "name_en": "Paglicci Cave",
+      "latitude": 41.654407,
+      "longitude": 15.615199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777010"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q66057583",
+      "name_it": "Grotta Palazzese",
+      "name_en": "Grotta Palazzese",
+      "latitude": 40.995925,
+      "longitude": 17.220997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66057583"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q33323943",
+      "name_it": "grotta Palombara",
+      "name_en": "Grotta Palombara",
+      "latitude": 40.13952,
+      "longitude": 18.50813,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323943"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q33323955",
+      "name_it": "grotta Perciata",
+      "name_en": "Grotta Perciata",
+      "latitude": 37.91299,
+      "longitude": 12.34651,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323955"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q106589955",
+      "name_it": "Grotta Perciola",
+      "name_en": "Grotta Perciola",
+      "latitude": 37.10995,
+      "longitude": 15.28285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106589955"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q66311665",
+      "name_it": "grotta piana",
+      "name_en": "Grotta piana",
+      "latitude": 40.996871,
+      "longitude": 17.217898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311665"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q97183151",
+      "name_it": "Grotta Polesini",
+      "name_en": "",
+      "latitude": 41.959061,
+      "longitude": 12.763536,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97183151"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q55686391",
+      "name_it": "grotta Porcina",
+      "name_en": "grotta Porcina",
+      "latitude": 42.320858,
+      "longitude": 12.053244,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55686391"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q100145626",
+      "name_it": "Grotta Porcinara",
+      "name_en": "Grotta Porcinara",
+      "latitude": 39.792023,
+      "longitude": 18.346185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100145626"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q35691702",
+      "name_it": "grotta Regina del Carso",
+      "name_en": "Grotta Regina del Carso",
+      "latitude": 45.881706,
+      "longitude": 13.56745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35691702"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q20009206",
+      "name_it": "Grotta Remeron",
+      "name_en": "",
+      "latitude": 45.859809,
+      "longitude": 8.746277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20009206"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q3777009",
+      "name_it": "Grotta Romanelli",
+      "name_en": "Grotta Romanelli",
+      "latitude": 40,
+      "longitude": 18.4309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777009"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q67647546",
+      "name_it": "Grotta Sa Conca 'e S'Orcu",
+      "name_en": "Grotta Sa Conca 'e S'Orcu",
+      "latitude": 40.255818,
+      "longitude": 9.6225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67647546"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q125392288",
+      "name_it": "Grotta San Giovanni a Laorca",
+      "name_en": "Grotta San Giovanni a Laorca",
+      "latitude": 45.879015,
+      "longitude": 9.404267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125392288"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q24006002",
+      "name_it": "grotta Sant'Angelo",
+      "name_en": "Hermitage of Sant'Angelo (Lettomanoppello)",
+      "latitude": 42.209722,
+      "longitude": 14.054123,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24006002"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q33323968",
+      "name_it": "grotta Sant'Angelo",
+      "name_en": "Grotta Sant'Angelo",
+      "latitude": 40.57917,
+      "longitude": 17.22917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323968"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q126870318",
+      "name_it": "Grotta Scaloria",
+      "name_en": "Scaloria Cave",
+      "latitude": 41.6403,
+      "longitude": 15.9059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126870318"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q106200115",
+      "name_it": "Grotta Sfondata",
+      "name_en": "Grotta Sfondata",
+      "latitude": 40.170216,
+      "longitude": 18.480534,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106200115"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q3777013",
+      "name_it": "Grotta Verde",
+      "name_en": "Grotta Verde",
+      "latitude": 40.539357,
+      "longitude": 14.220772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777013"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q106200200",
+      "name_it": "Grotta Verde",
+      "name_en": "",
+      "latitude": 39.963524,
+      "longitude": 18.404589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106200200"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q66057924",
+      "name_it": "Grotta Votiva",
+      "name_en": "Grotta Votiva",
+      "latitude": 45.357435,
+      "longitude": 10.732059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66057924"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q1547608",
+      "name_it": "grotta Zinzulusa",
+      "name_en": "Grotta Zinzulusa",
+      "latitude": 40.01192,
+      "longitude": 18.43121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1547608"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q3777112",
+      "name_it": "grotte del Caglieron",
+      "name_en": "Grotta del Caglieron",
+      "latitude": 46.008684,
+      "longitude": 12.329941,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777112"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q131298754",
+      "name_it": "grotte del Caudano",
+      "name_en": "",
+      "latitude": 44.292794,
+      "longitude": 7.790467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131298754"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q34191976",
+      "name_it": "grotte del Frascarese",
+      "name_en": "Frascarese's caves",
+      "latitude": 44.2862,
+      "longitude": 9.5129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34191976"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q33323992",
+      "name_it": "grotte della Rupe",
+      "name_en": "Grotte della Rupe",
+      "latitude": 42.71512,
+      "longitude": 12.11232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33323992"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q3777115",
+      "name_it": "Grotte dello Zachito",
+      "name_en": "",
+      "latitude": 40.566667,
+      "longitude": 15.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777115"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q3777118",
+      "name_it": "grotte di Alghero",
+      "name_en": "Cave of Alghero",
+      "latitude": 40.564847,
+      "longitude": 8.160139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777118"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q89511007",
+      "name_it": "grotte di Beatrice Cenci",
+      "name_en": "",
+      "latitude": 42.0211,
+      "longitude": 13.2627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89511007"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q3777120",
+      "name_it": "grotte di Castelcivita",
+      "name_en": "Castelcivita Caves",
+      "latitude": 40.49549,
+      "longitude": 15.20916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777120"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q3777122",
+      "name_it": "grotte di Collepardo",
+      "name_en": "Grotte di Collepardo",
+      "latitude": 41.75846,
+      "longitude": 13.36581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777122"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q29886508",
+      "name_it": "grotte di Coreca",
+      "name_en": "Coreca Caves",
+      "latitude": 39.093611,
+      "longitude": 16.084167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29886508"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q33324014",
+      "name_it": "grotte di Is zuddas",
+      "name_en": "Grotte di Is zuddas",
+      "latitude": 39.04595,
+      "longitude": 8.70692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324014"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q3777126",
+      "name_it": "Grotte di Oliero",
+      "name_en": "Parco naturale delle Grotte di Oliero",
+      "latitude": 45.843611,
+      "longitude": 11.668333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777126"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q55226095",
+      "name_it": "grotte di Ortucchio",
+      "name_en": "Grotte di Ortucchio",
+      "latitude": 41.937111,
+      "longitude": 13.603194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55226095"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q5610798",
+      "name_it": "grotte di Pilato",
+      "name_en": "Grotte di Pilato",
+      "latitude": 40.896306,
+      "longitude": 12.970031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5610798"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q99192401",
+      "name_it": "Grotte di Poggiardo",
+      "name_en": "Poggiardo caves",
+      "latitude": 40.068283,
+      "longitude": 18.388762,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99192401"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q33324022",
+      "name_it": "grotte di Rio nell'Elba",
+      "name_en": "Grotte di Rio nell'Elba",
+      "latitude": 42.83434,
+      "longitude": 10.40255,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324022"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q3777130",
+      "name_it": "grotte di San Michele",
+      "name_en": "",
+      "latitude": 40.580892,
+      "longitude": 9.004143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777130"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q3777108",
+      "name_it": "Grotte di Sant'Angelo",
+      "name_en": "Grotte di Sant'Angelo",
+      "latitude": 39.78871,
+      "longitude": 16.30757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777108"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q106205026",
+      "name_it": "Grotte di Sant’Andrea",
+      "name_en": "",
+      "latitude": 40.254943,
+      "longitude": 18.445868,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106205026"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q17632175",
+      "name_it": "Grotte di Scurati",
+      "name_en": "Scurati Caves",
+      "latitude": 38.093303,
+      "longitude": 12.670872,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17632175"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q125087895",
+      "name_it": "Grotte di Soprasasso",
+      "name_en": "Grotte di Soprasasso",
+      "latitude": 44.24407,
+      "longitude": 11.05435,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125087895"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q16562077",
+      "name_it": "grotte di Stiffe",
+      "name_en": "Grotte di Stiffe",
+      "latitude": 42.255729,
+      "longitude": 13.542364,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16562077"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q106203534",
+      "name_it": "Grotte di Terradico",
+      "name_en": "",
+      "latitude": 39.800016,
+      "longitude": 18.376133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106203534"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q3777135",
+      "name_it": "Grotte di Villanova",
+      "name_en": "",
+      "latitude": 46.25804,
+      "longitude": 13.28225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777135"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q65464848",
+      "name_it": "Grotte rosa",
+      "name_en": "Pink Grotto",
+      "latitude": 39.043238,
+      "longitude": 16.612883,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65464848"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q106087217",
+      "name_it": "",
+      "name_en": "Grotte tufacee del Colle Jovis",
+      "latitude": 44.063984,
+      "longitude": 12.443919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106087217"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q33324047",
+      "name_it": "",
+      "name_en": "Grotto Scaloria",
+      "latitude": 41.69035,
+      "longitude": 15.88623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324047"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q66309197",
+      "name_it": "grottone",
+      "name_en": "Grottone",
+      "latitude": 40.998414,
+      "longitude": 17.215429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66309197"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q33324056",
+      "name_it": "",
+      "name_en": "Grottone Sus Beffas",
+      "latitude": 40.05732,
+      "longitude": 9.68938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324056"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q3801611",
+      "name_it": "Ipogeo di San Bartolomeo",
+      "name_en": "",
+      "latitude": 37.6662,
+      "longitude": 12.5838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3801611"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q131322898",
+      "name_it": "Latomia del Paradiso",
+      "name_en": "Latomia del Paradiso",
+      "latitude": 37.076458,
+      "longitude": 15.276865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131322898"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q70334079",
+      "name_it": "Le Grotte",
+      "name_en": "Le Grotte",
+      "latitude": 44.431253,
+      "longitude": 8.817085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70334079"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q33324901",
+      "name_it": "",
+      "name_en": "Le Grotte della Valganna",
+      "latitude": 45.85539,
+      "longitude": 8.82243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33324901"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q1235116",
+      "name_it": "Lupercale",
+      "name_en": "Lupercal",
+      "latitude": 41.888056,
+      "longitude": 12.484444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1235116"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q3879906",
+      "name_it": "Nurighe",
+      "name_en": "",
+      "latitude": 40.4867,
+      "longitude": 8.7381,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3879906"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q282839",
+      "name_it": "Orecchio di Dionisio",
+      "name_en": "Ear of Dionysius",
+      "latitude": 37.076236,
+      "longitude": 15.27625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q282839"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q3887487",
+      "name_it": "Ouso di Passo Pratiglio",
+      "name_en": "",
+      "latitude": 41.607003,
+      "longitude": 13.158977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3887487"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q16592947",
+      "name_it": "Pulicchio di Gravina",
+      "name_en": "Pulicchio di Gravina",
+      "latitude": 40.904028,
+      "longitude": 16.422456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16592947"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q3925508",
+      "name_it": "Pulo di Altamura",
+      "name_en": "Pulo di Altamura",
+      "latitude": 40.889695,
+      "longitude": 16.568319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3925508"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q106868093",
+      "name_it": "Riparo di Pian del Ciliegio",
+      "name_en": "Riparo di Pian del Ciliegio",
+      "latitude": 44.2024,
+      "longitude": 8.3748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106868093"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q3936338",
+      "name_it": "Riparo Solinas",
+      "name_en": "Fumane Cave",
+      "latitude": 45.5918,
+      "longitude": 10.9052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3936338"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q23906033",
+      "name_it": "riserva naturale regionale Grotte di Luppa",
+      "name_en": "Riserva naturale regionale Grotte di Luppa",
+      "latitude": 42.116518,
+      "longitude": 13.183644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23906033"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q3936922",
+      "name_it": "riserva naturale speciale delle Grotte di Pietrasecca",
+      "name_en": "Riserva naturale speciale delle Grotte di Pietrasecca",
+      "latitude": 42.137392,
+      "longitude": 13.12862,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3936922"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q3947267",
+      "name_it": "San Giovanni d'Antro",
+      "name_en": "Grotta San Giovanni d'Antro",
+      "latitude": 46.15115,
+      "longitude": 13.47288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3947267"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q138845096",
+      "name_it": "Spigola di Busati",
+      "name_en": "Spigola di Busati",
+      "latitude": 45.58013,
+      "longitude": 11.025706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138845096"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q3966943",
+      "name_it": "Spluga della Preta",
+      "name_en": "Spluga della Preta",
+      "latitude": 45.678056,
+      "longitude": 10.951944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3966943"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q106626667",
+      "name_it": "Spundulata Maggiore",
+      "name_en": "Spundulata Maggiore",
+      "latitude": 40.203993,
+      "longitude": 17.9258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106626667"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q111803166",
+      "name_it": "Tana della Mussina",
+      "name_en": "Tana della Mussina",
+      "latitude": 44.58879,
+      "longitude": 10.61745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111803166"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q140003392",
+      "name_it": "Torre del Falasco",
+      "name_en": "Torre del Falasco",
+      "latitude": 45.535727,
+      "longitude": 10.99947,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140003392"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q138936652",
+      "name_it": "Tæna da Bösa",
+      "name_en": "Tæna da Bösa",
+      "latitude": 44.1198,
+      "longitude": 8.17869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138936652"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q136657977",
+      "name_it": "",
+      "name_en": "Upper Saint Lucy Cave",
+      "latitude": 44.116667,
+      "longitude": 8.216667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136657977"
+    }
+  ],
+  "meta": {
+    "title": "Grotte in Italia - Download gratuito",
+    "description": "Elenco delle grotte in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 269 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Grotte in Italia | ListBase",
+    "seo_description": "Scarica Grotte in Italia — 269 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 269 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

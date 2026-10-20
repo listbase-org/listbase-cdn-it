@@ -1,0 +1,376 @@
+{
+  "id": "it-gorizia-comuni",
+  "name": "Comuni della provincia di Gorizia",
+  "title": "Comuni della provincia di Gorizia",
+  "description": "Elenco dei 25 comuni della provincia di Gorizia (sigla GO), regione Friuli-Venezia Giulia. List of 25 comuni in the province of Gorizia (GO), Friuli-Venezia Giulia region.",
+  "category": "tech",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31001,
+      "nome": "Capriva del Friuli",
+      "slug": "capriva-del-friuli",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31002,
+      "nome": "Cormons",
+      "slug": "cormons",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31003,
+      "nome": "Doberdò del Lago",
+      "slug": "doberdo-del-lago",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31004,
+      "nome": "Dolegna del Collio",
+      "slug": "dolegna-del-collio",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31005,
+      "nome": "Farra d'Isonzo",
+      "slug": "farra-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31006,
+      "nome": "Fogliano Redipuglia",
+      "slug": "fogliano-redipuglia",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31007,
+      "nome": "Gorizia",
+      "slug": "gorizia",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31008,
+      "nome": "Gradisca d'Isonzo",
+      "slug": "gradisca-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31009,
+      "nome": "Grado",
+      "slug": "grado",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31010,
+      "nome": "Mariano del Friuli",
+      "slug": "mariano-del-friuli",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31011,
+      "nome": "Medea",
+      "slug": "medea",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31012,
+      "nome": "Monfalcone",
+      "slug": "monfalcone",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31013,
+      "nome": "Moraro",
+      "slug": "moraro",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31014,
+      "nome": "Mossa",
+      "slug": "mossa",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31015,
+      "nome": "Romans d'Isonzo",
+      "slug": "romans-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31016,
+      "nome": "Ronchi dei Legionari",
+      "slug": "ronchi-dei-legionari",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31017,
+      "nome": "Sagrado",
+      "slug": "sagrado",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31018,
+      "nome": "San Canzian d'Isonzo",
+      "slug": "san-canzian-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31019,
+      "nome": "San Floriano del Collio",
+      "slug": "san-floriano-del-collio",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31020,
+      "nome": "San Lorenzo Isontino",
+      "slug": "san-lorenzo-isontino",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31021,
+      "nome": "San Pier d'Isonzo",
+      "slug": "san-pier-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31022,
+      "nome": "Savogna d'Isonzo",
+      "slug": "savogna-disonzo",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31023,
+      "nome": "Staranzano",
+      "slug": "staranzano",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31024,
+      "nome": "Turriaco",
+      "slug": "turriaco",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 31025,
+      "nome": "Villesse",
+      "slug": "villesse",
+      "provincia_id": 31,
+      "provincia_nome": "Gorizia",
+      "provincia_sigla": "GO",
+      "provincia_slug": "gorizia",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Gorizia - Download gratuito",
+    "description": "Elenco dei 25 comuni della provincia di Gorizia (sigla GO), regione Friuli-Venezia Giulia. List of 25 comuni in the province of Gorizia (GO), Friuli-Venezia Giulia region. Contiene 25 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Gorizia | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Gorizia — 25 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 25 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

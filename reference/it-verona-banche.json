@@ -1,0 +1,1444 @@
+{
+  "id": "it-verona-banche",
+  "name": "Banche a Verona — codici SWIFT/BIC",
+  "title": "Banche a Verona — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Verona, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 199,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 39,
+      "bank": "ACQUE VERONESI",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "ACVEIT21"
+    },
+    {
+      "id": 73,
+      "bank": "AGSM VERONA SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "AGVEIT21"
+    },
+    {
+      "id": 160,
+      "bank": "ARCA VITA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "ARVIIT21"
+    },
+    {
+      "id": 218,
+      "bank": "AURORA SPV SRL",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "AUSSIT21"
+    },
+    {
+      "id": 1394,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(AG. 2)",
+      "swift_code": "ANTBIT21620"
+    },
+    {
+      "id": 1395,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(AG. NO 1)",
+      "swift_code": "ANTBIT21066"
+    },
+    {
+      "id": 1396,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(AG. NO 173)",
+      "swift_code": "ANTBIT21173"
+    },
+    {
+      "id": 1397,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "ANTBIT21831"
+    },
+    {
+      "id": 1398,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 4)",
+      "swift_code": "ANTBIT21C63"
+    },
+    {
+      "id": 1399,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 5)",
+      "swift_code": "ANTBIT21C68"
+    },
+    {
+      "id": 1400,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 6)",
+      "swift_code": "ANTBIT21C72"
+    },
+    {
+      "id": 2015,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "CRGEITG1271"
+    },
+    {
+      "id": 3593,
+      "bank": "BANCA DI VERONA CREDITO COOPERATIVO CADIDAVID SCPA",
+      "city": "VERONA",
+      "branch": "(SUCCURSALE DI VERONA)",
+      "swift_code": "ICRAITR1BK9"
+    },
+    {
+      "id": 3736,
+      "bank": "BANCA D'ITALIA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "BITAITR1225"
+    },
+    {
+      "id": 3777,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA)",
+      "swift_code": "EUBAITM1848"
+    },
+    {
+      "id": 3837,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BIMTITT1019"
+    },
+    {
+      "id": 6453,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - AG. 4)",
+      "swift_code": "PASCITM1C63"
+    },
+    {
+      "id": 6454,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - AG. 5)",
+      "swift_code": "PASCITM1V5R"
+    },
+    {
+      "id": 6455,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - AG. 6)",
+      "swift_code": "PASCITM1620"
+    },
+    {
+      "id": 6456,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PASCITM1VR1"
+    },
+    {
+      "id": 6457,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PASCITM1VR2"
+    },
+    {
+      "id": 6458,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PASCITM1VR3"
+    },
+    {
+      "id": 6459,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PASCITM1VR4"
+    },
+    {
+      "id": 6460,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PASCITMMVER"
+    },
+    {
+      "id": 7187,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1F0Z"
+    },
+    {
+      "id": 7188,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1F1Z"
+    },
+    {
+      "id": 7189,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR1F2Z"
+    },
+    {
+      "id": 7190,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR1F3Z"
+    },
+    {
+      "id": 7191,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA DEPOSITO LOCOMOTIVE FF.SS.)",
+      "swift_code": "BNLIITR1F4Z"
+    },
+    {
+      "id": 7192,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BNLIITRRVRX"
+    },
+    {
+      "id": 8566,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA AG.3)",
+      "swift_code": "BPMIITM1A36"
+    },
+    {
+      "id": 8567,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BPMIITM1A35"
+    },
+    {
+      "id": 8709,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "BPDMIT31202"
+    },
+    {
+      "id": 9002,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "VERONA",
+      "branch": "(VERONA)",
+      "swift_code": "POSOIT2113Q"
+    },
+    {
+      "id": 9402,
+      "bank": "BANCA REALE S.P.A.",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "BRTOITTT007"
+    },
+    {
+      "id": 9529,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BCVAIT2V070"
+    },
+    {
+      "id": 9530,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BCVAIT2V076"
+    },
+    {
+      "id": 9531,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BCVAIT2V077"
+    },
+    {
+      "id": 9532,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BCVAIT2V078"
+    },
+    {
+      "id": 9541,
+      "bank": "BANCA VERONESE CREDITO COOPERATIVO DI CONCAMARISE",
+      "city": "VERONA",
+      "branch": "(VERONA)",
+      "swift_code": "ICRAITR18Y7"
+    },
+    {
+      "id": 11339,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(SEDE DI VERONA)",
+      "swift_code": "BAPPIT21001"
+    },
+    {
+      "id": 11340,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - CA' DI DAVID)",
+      "swift_code": "BAPPIT21012"
+    },
+    {
+      "id": 11341,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - MONTORIO)",
+      "swift_code": "BAPPIT21155"
+    },
+    {
+      "id": 11342,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - PARONA)",
+      "swift_code": "BAPPIT21014"
+    },
+    {
+      "id": 11343,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - POIANO)",
+      "swift_code": "BAPPIT21296"
+    },
+    {
+      "id": 11344,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - QUINZANO)",
+      "swift_code": "BAPPIT21162"
+    },
+    {
+      "id": 11345,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - SAN PANCRAZIO)",
+      "swift_code": "BAPPIT21140"
+    },
+    {
+      "id": 11346,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 1)",
+      "swift_code": "BAPPIT21002"
+    },
+    {
+      "id": 11347,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 10)",
+      "swift_code": "BAPPIT21116"
+    },
+    {
+      "id": 11348,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 11 - AGSM)",
+      "swift_code": "BAPPIT21207"
+    },
+    {
+      "id": 11349,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 12)",
+      "swift_code": "BAPPIT21340"
+    },
+    {
+      "id": 11350,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 13)",
+      "swift_code": "BAPPIT21195"
+    },
+    {
+      "id": 11351,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 14)",
+      "swift_code": "BAPPIT21248"
+    },
+    {
+      "id": 11352,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 15)",
+      "swift_code": "BAPPIT21007"
+    },
+    {
+      "id": 11353,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 16)",
+      "swift_code": "BAPPIT21310"
+    },
+    {
+      "id": 11354,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 17)",
+      "swift_code": "BAPPIT21666"
+    },
+    {
+      "id": 11355,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 18)",
+      "swift_code": "BAPPIT21142"
+    },
+    {
+      "id": 11356,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 19)",
+      "swift_code": "BAPPIT21488"
+    },
+    {
+      "id": 11357,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 2)",
+      "swift_code": "BAPPIT21003"
+    },
+    {
+      "id": 11358,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 20)",
+      "swift_code": "BAPPIT21134"
+    },
+    {
+      "id": 11359,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 21)",
+      "swift_code": "BAPPIT21170"
+    },
+    {
+      "id": 11360,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 22)",
+      "swift_code": "BAPPIT21136"
+    },
+    {
+      "id": 11361,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 23)",
+      "swift_code": "BAPPIT21138"
+    },
+    {
+      "id": 11362,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 24)",
+      "swift_code": "BAPPIT21V85"
+    },
+    {
+      "id": 11363,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 27)",
+      "swift_code": "BAPPIT21115"
+    },
+    {
+      "id": 11364,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 28 - GLAXO SMITHKLINE)",
+      "swift_code": "BAPPIT21226"
+    },
+    {
+      "id": 11365,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 29 - AUTOGERMA)",
+      "swift_code": "BAPPIT21188"
+    },
+    {
+      "id": 11366,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 3)",
+      "swift_code": "BAPPIT21004"
+    },
+    {
+      "id": 11367,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 30 - CASSA MERCATO)",
+      "swift_code": "BAPPIT21011"
+    },
+    {
+      "id": 11368,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 31)",
+      "swift_code": "BAPPIT21146"
+    },
+    {
+      "id": 11369,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 32)",
+      "swift_code": "BAPPIT21191"
+    },
+    {
+      "id": 11370,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 33)",
+      "swift_code": "BAPPIT21137"
+    },
+    {
+      "id": 11371,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 34)",
+      "swift_code": "BAPPIT21148"
+    },
+    {
+      "id": 11372,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 35)",
+      "swift_code": "BAPPIT21006"
+    },
+    {
+      "id": 11373,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 36)",
+      "swift_code": "BAPPIT21009"
+    },
+    {
+      "id": 11374,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 37)",
+      "swift_code": "BAPPIT21010"
+    },
+    {
+      "id": 11375,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 4)",
+      "swift_code": "BAPPIT21005"
+    },
+    {
+      "id": 11376,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 5)",
+      "swift_code": "BAPPIT21047"
+    },
+    {
+      "id": 11377,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 6)",
+      "swift_code": "BAPPIT21008"
+    },
+    {
+      "id": 11378,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 7)",
+      "swift_code": "BAPPIT21015"
+    },
+    {
+      "id": 11379,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 8)",
+      "swift_code": "BAPPIT21034"
+    },
+    {
+      "id": 11380,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 9)",
+      "swift_code": "BAPPIT21023"
+    },
+    {
+      "id": 11381,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "(VERONA ASSET EFIBANCA)",
+      "swift_code": "BAPPIT21C35"
+    },
+    {
+      "id": 11382,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BAPPIT21T2S"
+    },
+    {
+      "id": 11383,
+      "bank": "BANCO BPM SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BAPPIT22C34"
+    },
+    {
+      "id": 11449,
+      "bank": "BANCO BPM SPA (FORMERLY BANCA PER IL LEASING-ITALEASE SPA)",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BLEAITM1"
+    },
+    {
+      "id": 11653,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VERONA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CREBIT22"
+    },
+    {
+      "id": 11654,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CREBIT22VER"
+    },
+    {
+      "id": 11663,
+      "bank": "BANCO BPM SPA (FORMERLY EFIBANCA S.P.A.)",
+      "city": "VERONA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BPALITRD"
+    },
+    {
+      "id": 11816,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "VERONA",
+      "branch": "(VERONA 351)",
+      "swift_code": "BDBDITA1351"
+    },
+    {
+      "id": 12168,
+      "bank": "BHW BAUSPARKASSE AG",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BHBEIT21"
+    },
+    {
+      "id": 12616,
+      "bank": "BPV MORTGAGES S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BMOSIT21"
+    },
+    {
+      "id": 12658,
+      "bank": "CAD IT SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "AADAIT21"
+    },
+    {
+      "id": 12681,
+      "bank": "CAPITAL MORTGAGE S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CMRSIT21"
+    },
+    {
+      "id": 12706,
+      "bank": "CASSA AUTONOMA PENSIONI GLAXO WELLCOME",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CASXIT21"
+    },
+    {
+      "id": 12943,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(FILIALE IMPRESE VERONA 2)",
+      "swift_code": "IBSPIT2P813"
+    },
+    {
+      "id": 12944,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(FILIALE IMPRESE VERONA)",
+      "swift_code": "IBSPIT2P577"
+    },
+    {
+      "id": 12945,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - CORSO MILANO 119)",
+      "swift_code": "IBSPIT2P805"
+    },
+    {
+      "id": 12946,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - PIAZZETTA SCALA 1)",
+      "swift_code": "IBSPIT2P486"
+    },
+    {
+      "id": 12947,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - STRADA BRESCIANA 78/E)",
+      "swift_code": "IBSPIT2P814"
+    },
+    {
+      "id": 12948,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - STRADONE PORTA PALIO 12)",
+      "swift_code": "IBSPIT2P015"
+    },
+    {
+      "id": 12949,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA - VIA CIPOLLA 13)",
+      "swift_code": "IBSPIT2P815"
+    },
+    {
+      "id": 12950,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA VIA IV NOVEMBRE)",
+      "swift_code": "IBSPIT2P801"
+    },
+    {
+      "id": 13223,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(AGENZIA VERONA-BORGO VENEZIA)",
+      "swift_code": "CRBZIT2B111"
+    },
+    {
+      "id": 13224,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "CRBZIT2B096"
+    },
+    {
+      "id": 13225,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(SEDE DI VERONA)",
+      "swift_code": "CRBZIT2B110"
+    },
+    {
+      "id": 13226,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA BORGO MILANO)",
+      "swift_code": "CRBZIT2B128"
+    },
+    {
+      "id": 13845,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "ICRAITR19FA"
+    },
+    {
+      "id": 14048,
+      "bank": "CATTOLICA ASSICURAZIONI",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CAAZIT21"
+    },
+    {
+      "id": 14817,
+      "bank": "COMUNE DI VERONA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CUVRIT21"
+    },
+    {
+      "id": 14846,
+      "bank": "CONSUMER ONE SRL",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CNNSIT21"
+    },
+    {
+      "id": 14847,
+      "bank": "CONSUMER THREE S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CNHSIT21"
+    },
+    {
+      "id": 14848,
+      "bank": "CONSUMER TWO SRL",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CNTSIT21"
+    },
+    {
+      "id": 14855,
+      "bank": "CORDIFIN",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CDRDIT21"
+    },
+    {
+      "id": 14856,
+      "bank": "CORDUSIO RMBS S.R.L",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CDRLIT21"
+    },
+    {
+      "id": 14857,
+      "bank": "CORDUSIO RMBS SECURITISATION S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CBESIT21"
+    },
+    {
+      "id": 14858,
+      "bank": "CORDUSIO RMBS UCFIN SRL",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "CDRRIT21"
+    },
+    {
+      "id": 15172,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - PORTA NUOVA)",
+      "swift_code": "BPPNIT2P347"
+    },
+    {
+      "id": 15173,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA - VIA NIZZA)",
+      "swift_code": "BPPNIT2P345"
+    },
+    {
+      "id": 15174,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA VIA IV NOVEMBRE)",
+      "swift_code": "BPPNIT2P346"
+    },
+    {
+      "id": 15175,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BPPNIT2P344"
+    },
+    {
+      "id": 15534,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 2)",
+      "swift_code": "BACRIT21140"
+    },
+    {
+      "id": 15535,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 4)",
+      "swift_code": "BACRIT21640"
+    },
+    {
+      "id": 15536,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 5)",
+      "swift_code": "BACRIT21742"
+    },
+    {
+      "id": 15537,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA AG. 6)",
+      "swift_code": "BACRIT21743"
+    },
+    {
+      "id": 15538,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA MAIN BRANCH)",
+      "swift_code": "BACRIT22VER"
+    },
+    {
+      "id": 16518,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VERONA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1781"
+    },
+    {
+      "id": 16519,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VERONA",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1782"
+    },
+    {
+      "id": 16520,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VERONA",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1783"
+    },
+    {
+      "id": 16521,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "DEUTITM1780"
+    },
+    {
+      "id": 16547,
+      "bank": "DOBANK S.P.A.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "UNGCIT21"
+    },
+    {
+      "id": 16771,
+      "bank": "F-E MORTGAGES S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "MTSLIT21"
+    },
+    {
+      "id": 16773,
+      "bank": "FEDRIGONI SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "FEDGIT21"
+    },
+    {
+      "id": 16854,
+      "bank": "FONDAZIONE CARIVERONA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "FOCRIT21"
+    },
+    {
+      "id": 16997,
+      "bank": "HELICONUS S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "HESLIT21"
+    },
+    {
+      "id": 17006,
+      "bank": "HJA ITALIA S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "HJISIT21"
+    },
+    {
+      "id": 17042,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "VERONA",
+      "branch": "(VERONA)",
+      "swift_code": "HAABIT2U012"
+    },
+    {
+      "id": 17090,
+      "bank": "IMPRESA ONE S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "IMOLIT21"
+    },
+    {
+      "id": 17711,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VERONA",
+      "branch": "(BRANCH 3 - PIAZZA AVESA 37)",
+      "swift_code": "BCITITM1916"
+    },
+    {
+      "id": 17712,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VERONA",
+      "branch": "(FILIALE IMPRESE VERONA PERLAR)",
+      "swift_code": "BCITITMMV59"
+    },
+    {
+      "id": 17713,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VERONA",
+      "branch": "(H.O. BACK OFFICE - PIAZZETTA SCALA, 1)",
+      "swift_code": "BCITITMM961"
+    },
+    {
+      "id": 18098,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT21110"
+    },
+    {
+      "id": 18099,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "BPVIIT21263"
+    },
+    {
+      "id": 18100,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A09"
+    },
+    {
+      "id": 18101,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "(VERONA - N.3 BRANCH)",
+      "swift_code": "BPVIIT21148"
+    },
+    {
+      "id": 18102,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "(VERONA BRANCH N.1)",
+      "swift_code": "BPVIIT21106"
+    },
+    {
+      "id": 18103,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BPVIIT21140"
+    },
+    {
+      "id": 18421,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA - BORGO VENEZIA)",
+      "swift_code": "VEBHIT21190"
+    },
+    {
+      "id": 18422,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA - PIAZZA SIMONI)",
+      "swift_code": "VEBHIT21187"
+    },
+    {
+      "id": 18423,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA - SUD)",
+      "swift_code": "VEBHIT21189"
+    },
+    {
+      "id": 18424,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA)",
+      "swift_code": "VEBHIT21093"
+    },
+    {
+      "id": 18425,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA-CENTRO)",
+      "swift_code": "VEBHIT21107"
+    },
+    {
+      "id": 18588,
+      "bank": "LARGE CORPORATE ONE SRL",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "LCOSIT21"
+    },
+    {
+      "id": 18704,
+      "bank": "MERCUZIO SECURITISATION S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "MEUSIT21"
+    },
+    {
+      "id": 19011,
+      "bank": "PROVINCIA DI VERONA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "PRNRIT21"
+    },
+    {
+      "id": 19277,
+      "bank": "RISPARMIO E PREVIDENZA SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "RIPRIT21"
+    },
+    {
+      "id": 19300,
+      "bank": "ROMEO SPV S.R.L.",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "RMSSIT21"
+    },
+    {
+      "id": 19404,
+      "bank": "SERENISSIMA SGR SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "SRSRIT21"
+    },
+    {
+      "id": 19719,
+      "bank": "TREVISAN COMETAL SPA",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "TROEIT21"
+    },
+    {
+      "id": 19795,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA VIA GALVANI)",
+      "swift_code": "BLOPIT22214"
+    },
+    {
+      "id": 21174,
+      "bank": "UBI BANCA SPA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA CORTE FARINA)",
+      "swift_code": "BLOPIT22219"
+    },
+    {
+      "id": 21175,
+      "bank": "UBI BANCA SPA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA VIA ALBERE)",
+      "swift_code": "BLOPIT22230"
+    },
+    {
+      "id": 21176,
+      "bank": "UBI BANCA SPA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA VIA CAMPAGNOL DI TOMBETTA)",
+      "swift_code": "BLOPIT22327"
+    },
+    {
+      "id": 21177,
+      "bank": "UBI BANCA SPA",
+      "city": "VERONA",
+      "branch": "(FILIALE DI VERONA VIA CITTA' DI NIMES)",
+      "swift_code": "BLOPIT22316"
+    },
+    {
+      "id": 22511,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "(FIL. VERNONA 8)",
+      "swift_code": "BCABIT21082"
+    },
+    {
+      "id": 22512,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "(FIL. VERNONA 9)",
+      "swift_code": "BCABIT21098"
+    },
+    {
+      "id": 22513,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "(VERONA 1)",
+      "swift_code": "BCABIT21563"
+    },
+    {
+      "id": 22514,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "(VERONA 5)",
+      "swift_code": "BCABIT21355"
+    },
+    {
+      "id": 22515,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "(VERONA 6)",
+      "swift_code": "BCABIT21383"
+    },
+    {
+      "id": 22516,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "BCABIT21367"
+    },
+    {
+      "id": 25761,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(FIL. OPER. TRIVENETO OCCIDENTALE)",
+      "swift_code": "UNCRITMMOTO"
+    },
+    {
+      "id": 25762,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(FOREIGN TRADE OFFICE VERONA)",
+      "swift_code": "UNCRITMMVRE"
+    },
+    {
+      "id": 25763,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BORGO MILANO)",
+      "swift_code": "UNCRITM1N43"
+    },
+    {
+      "id": 25764,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BORGO ROMA)",
+      "swift_code": "UNCRITM1M06"
+    },
+    {
+      "id": 25765,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BORGO TRENTO)",
+      "swift_code": "UNCRITM1N58"
+    },
+    {
+      "id": 25766,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BORGO VENEZIA)",
+      "swift_code": "UNCRITM1N25"
+    },
+    {
+      "id": 25767,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BRA)",
+      "swift_code": "UNCRITM1M03"
+    },
+    {
+      "id": 25768,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA DEL LAVORO A)",
+      "swift_code": "UNCRITM1N17"
+    },
+    {
+      "id": 25769,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA FORTI)",
+      "swift_code": "UNCRITM1M01"
+    },
+    {
+      "id": 25770,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA ISOLO)",
+      "swift_code": "UNCRITM1M05"
+    },
+    {
+      "id": 25771,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA LARGE CORPORATE)",
+      "swift_code": "UNCRITM1VRG"
+    },
+    {
+      "id": 25772,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA MUNICIPIO)",
+      "swift_code": "UNCRITM1Z37"
+    },
+    {
+      "id": 25773,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA OSPEDALE BORGO ROMA)",
+      "swift_code": "UNCRITM1N65"
+    },
+    {
+      "id": 25774,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA PIAZZA ERBE)",
+      "swift_code": "UNCRITM133Y"
+    },
+    {
+      "id": 25775,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA PONTE CRENCANO)",
+      "swift_code": "UNCRITM1N16"
+    },
+    {
+      "id": 25776,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA PORTA VESCOVO)",
+      "swift_code": "UNCRITM1M04"
+    },
+    {
+      "id": 25777,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA PORTO S.PANCRAZIO)",
+      "swift_code": "UNCRITM1R90"
+    },
+    {
+      "id": 25778,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA PUBLIC SECTOR AND REAL ESTATE)",
+      "swift_code": "UNCRITM1VRW"
+    },
+    {
+      "id": 25779,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA RENATO SIMONI)",
+      "swift_code": "UNCRITM1P07"
+    },
+    {
+      "id": 25780,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA S.CROCE)",
+      "swift_code": "UNCRITM1P16"
+    },
+    {
+      "id": 25781,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA S.LUCIA)",
+      "swift_code": "UNCRITM1N40"
+    },
+    {
+      "id": 25782,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA S.ZENO)",
+      "swift_code": "UNCRITM1P18"
+    },
+    {
+      "id": 25783,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA SAVAL)",
+      "swift_code": "UNCRITM1P06"
+    },
+    {
+      "id": 25784,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA STADIO)",
+      "swift_code": "UNCRITM1P10"
+    },
+    {
+      "id": 25785,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA UNITA' D'ITALIA)",
+      "swift_code": "UNCRITM1D19"
+    },
+    {
+      "id": 25786,
+      "bank": "UNICREDIT SPA",
+      "city": "VERONA",
+      "branch": "(VERONA)",
+      "swift_code": "UNCRITM1VRP"
+    },
+    {
+      "id": 26166,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA 231 BRANCH)",
+      "swift_code": "BAECIT21231"
+    },
+    {
+      "id": 26167,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "VERONA",
+      "branch": "(VERONA BRANCH)",
+      "swift_code": "BAECIT21059"
+    },
+    {
+      "id": 26233,
+      "bank": "VOLKSWAGEN BANK GMBH",
+      "city": "VERONA",
+      "branch": "",
+      "swift_code": "VOWAITMM002"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Verona — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Verona, Italy Contiene 199 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Verona — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Verona — codici SWIFT/BIC — 199 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 199 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

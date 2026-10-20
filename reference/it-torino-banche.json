@@ -1,0 +1,2844 @@
+{
+  "id": "it-torino-banche",
+  "name": "Banche a Torino — codici SWIFT/BIC",
+  "title": "Banche a Torino — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Torino, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 399,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 23,
+      "bank": "ABBEY NATIONAL PLC",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ABBYITT1"
+    },
+    {
+      "id": 38,
+      "bank": "ACQUE POTABILI",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ACPOITT1"
+    },
+    {
+      "id": 116,
+      "bank": "ALLIANZ SUBALPINA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ALUUITT1"
+    },
+    {
+      "id": 182,
+      "bank": "ASJA AMBIENTE ITALIA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ASBIITT1"
+    },
+    {
+      "id": 201,
+      "bank": "ASTM SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ASTMITT1"
+    },
+    {
+      "id": 372,
+      "bank": "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU SOC. COOP.",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 3 GRAN MADRE)",
+      "swift_code": "ICRAITR1CIM"
+    },
+    {
+      "id": 373,
+      "bank": "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU' SOC. COOP.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ICRAITR1CIL"
+    },
+    {
+      "id": 389,
+      "bank": "BANCA ALPI MARITTIME CREDITO COOPERATIVO CARRU'-SOC.COOP.",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO)",
+      "swift_code": "ICRAITR1CII"
+    },
+    {
+      "id": 1309,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AG. 4)",
+      "swift_code": "ANTBIT21504"
+    },
+    {
+      "id": 1310,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AG. NO 3)",
+      "swift_code": "ANTBIT21428"
+    },
+    {
+      "id": 1311,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AG. NO 388 AG TORINO 1)",
+      "swift_code": "ANTBIT21388"
+    },
+    {
+      "id": 1312,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AG. NO 389 AG TORINO 2)",
+      "swift_code": "ANTBIT21389"
+    },
+    {
+      "id": 1313,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AG. NO 48)",
+      "swift_code": "ANTBIT2148T"
+    },
+    {
+      "id": 1314,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "ANTBIT21656"
+    },
+    {
+      "id": 1315,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "ANTBIT21687"
+    },
+    {
+      "id": 1316,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "ANTBIT21688"
+    },
+    {
+      "id": 1317,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "ANTBIT21689"
+    },
+    {
+      "id": 1318,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "ANTBIT21690"
+    },
+    {
+      "id": 1319,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(AGENZIA 9)",
+      "swift_code": "ANTBIT21691"
+    },
+    {
+      "id": 1320,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO (AGENZIA 11))",
+      "swift_code": "ANTBIT21C40"
+    },
+    {
+      "id": 1479,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE TORINO)",
+      "swift_code": "CRACIT31331"
+    },
+    {
+      "id": 1715,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 1 - TORINO)",
+      "swift_code": "CRGEITG1291"
+    },
+    {
+      "id": 1716,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 2 - TORINO)",
+      "swift_code": "CRGEITG1282"
+    },
+    {
+      "id": 1717,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 3 - TORINO)",
+      "swift_code": "CRGEITG1273"
+    },
+    {
+      "id": 1718,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 5 - TORINO)",
+      "swift_code": "CRGEITG1795"
+    },
+    {
+      "id": 1719,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 6 - TORINO)",
+      "swift_code": "CRGEITG1796"
+    },
+    {
+      "id": 1720,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 9 - TORINO)",
+      "swift_code": "CRGEITG1799"
+    },
+    {
+      "id": 1721,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TORINO",
+      "branch": "(SEDE DI TORINO)",
+      "swift_code": "CRGEITG1290"
+    },
+    {
+      "id": 2047,
+      "bank": "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 1 BRANCH)",
+      "swift_code": "SARCIT21030"
+    },
+    {
+      "id": 2048,
+      "bank": "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 2 BRANCH)",
+      "swift_code": "SARCIT21037"
+    },
+    {
+      "id": 2099,
+      "bank": "BANCA CONSULIA",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "INPIITM1101"
+    },
+    {
+      "id": 2183,
+      "bank": "BANCA D' ALBA CREDITO COOPERATIVO",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1EQL"
+    },
+    {
+      "id": 2188,
+      "bank": "BANCA D'ALBA CRED.COOP.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ICRAITR1EPQ"
+    },
+    {
+      "id": 2215,
+      "bank": "BANCA D'ALBA CREDITO COOPERATIVO",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1EPA"
+    },
+    {
+      "id": 2216,
+      "bank": "BANCA D'ALBA CREDITO COOPERATIVO",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1EPF"
+    },
+    {
+      "id": 2217,
+      "bank": "BANCA D'ALBA CREDITO COOPERATIVO",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1ER9"
+    },
+    {
+      "id": 2218,
+      "bank": "BANCA D'ALBA CREDITO COOPERATIVO",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1ERD"
+    },
+    {
+      "id": 2351,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(FUNZIONE PRIVATE BANKERS)",
+      "swift_code": "BDCPITT1654"
+    },
+    {
+      "id": 2352,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 013)",
+      "swift_code": "BDCPITT1013"
+    },
+    {
+      "id": 2353,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 1)",
+      "swift_code": "BDCPITT1011"
+    },
+    {
+      "id": 2354,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 10)",
+      "swift_code": "BDCPITT1010"
+    },
+    {
+      "id": 2355,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 12)",
+      "swift_code": "BDCPITT1012"
+    },
+    {
+      "id": 2356,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 2)",
+      "swift_code": "BDCPITT1021"
+    },
+    {
+      "id": 2357,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 3)",
+      "swift_code": "BDCPITT1023"
+    },
+    {
+      "id": 2358,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 4)",
+      "swift_code": "BDCPITT1014"
+    },
+    {
+      "id": 2359,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 6)",
+      "swift_code": "BDCPITT1016"
+    },
+    {
+      "id": 2360,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 7)",
+      "swift_code": "BDCPITT1017"
+    },
+    {
+      "id": 2361,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 8)",
+      "swift_code": "BDCPITT1018"
+    },
+    {
+      "id": 2362,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "(TORINO 9)",
+      "swift_code": "BDCPITT1019"
+    },
+    {
+      "id": 2363,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BDCPITTT"
+    },
+    {
+      "id": 2722,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI ALBA LANGHE E ROERO-SOC.COOP.",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1EPG"
+    },
+    {
+      "id": 2723,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI ALBA LANGHE E ROERO-SOC.COOP.",
+      "city": "TORINO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1EPM"
+    },
+    {
+      "id": 2979,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI LEZZENO",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORNO)",
+      "swift_code": "ICRAITR1H64"
+    },
+    {
+      "id": 3726,
+      "bank": "BANCA D'ITALIA",
+      "city": "TORINO",
+      "branch": "(SEDE DI TORINO)",
+      "swift_code": "BITAITR1114"
+    },
+    {
+      "id": 3774,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "EUBAITM1844"
+    },
+    {
+      "id": 3799,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "TORINO",
+      "branch": "(FILIALE 107 TORINO)",
+      "swift_code": "IFIGIT31107"
+    },
+    {
+      "id": 3809,
+      "bank": "BANCA IMI S.P.A.",
+      "city": "TORINO",
+      "branch": "(05285 BO LAS ENTE ORG)",
+      "swift_code": "CABOITMHLNQ"
+    },
+    {
+      "id": 3832,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BIMTITT1001"
+    },
+    {
+      "id": 3833,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BIMTITTT"
+    },
+    {
+      "id": 6316,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 15)",
+      "swift_code": "PASCITM148T"
+    },
+    {
+      "id": 6317,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 16)",
+      "swift_code": "PASCITM1388"
+    },
+    {
+      "id": 6318,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 17)",
+      "swift_code": "PASCITM1389"
+    },
+    {
+      "id": 6319,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 20)",
+      "swift_code": "PASCITM1687"
+    },
+    {
+      "id": 6320,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 21)",
+      "swift_code": "PASCITM1688"
+    },
+    {
+      "id": 6321,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 22)",
+      "swift_code": "PASCITM1689"
+    },
+    {
+      "id": 6322,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 23)",
+      "swift_code": "PASCITM1690"
+    },
+    {
+      "id": 6323,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 24)",
+      "swift_code": "PASCITM1691"
+    },
+    {
+      "id": 6324,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 25)",
+      "swift_code": "PASCITM1656"
+    },
+    {
+      "id": 6325,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 26)",
+      "swift_code": "PASCITM1C40"
+    },
+    {
+      "id": 6326,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG.14)",
+      "swift_code": "PASCITM1T15"
+    },
+    {
+      "id": 6327,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1T10"
+    },
+    {
+      "id": 6328,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1T12"
+    },
+    {
+      "id": 6329,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1T13"
+    },
+    {
+      "id": 6330,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1T14"
+    },
+    {
+      "id": 6331,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO1"
+    },
+    {
+      "id": 6332,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO2"
+    },
+    {
+      "id": 6333,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO3"
+    },
+    {
+      "id": 6334,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO4"
+    },
+    {
+      "id": 6335,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO5"
+    },
+    {
+      "id": 6336,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO6"
+    },
+    {
+      "id": 6337,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO7"
+    },
+    {
+      "id": 6338,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO8"
+    },
+    {
+      "id": 6339,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITM1TO9"
+    },
+    {
+      "id": 6340,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PASCITMMTOR"
+    },
+    {
+      "id": 7143,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1DZZ"
+    },
+    {
+      "id": 7144,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BNLIITR1E8Z"
+    },
+    {
+      "id": 7145,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 11)",
+      "swift_code": "BNLIITR1E9Z"
+    },
+    {
+      "id": 7146,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BNLIITR1EAZ"
+    },
+    {
+      "id": 7147,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 13)",
+      "swift_code": "BNLIITR1EBZ"
+    },
+    {
+      "id": 7148,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 15)",
+      "swift_code": "BNLIITR1ECZ"
+    },
+    {
+      "id": 7149,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 16)",
+      "swift_code": "BNLIITR1EDZ"
+    },
+    {
+      "id": 7150,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1E0Z"
+    },
+    {
+      "id": 7151,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR1E1Z"
+    },
+    {
+      "id": 7152,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR1E2Z"
+    },
+    {
+      "id": 7153,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BNLIITR1E3Z"
+    },
+    {
+      "id": 7154,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BNLIITR1E4Z"
+    },
+    {
+      "id": 7155,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BNLIITR1E5Z"
+    },
+    {
+      "id": 7156,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BNLIITR1E6Z"
+    },
+    {
+      "id": 7157,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA 9)",
+      "swift_code": "BNLIITR1E7Z"
+    },
+    {
+      "id": 7158,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA CIRCOSCRIZIONE DOGANALE)",
+      "swift_code": "BNLIITR1EEZ"
+    },
+    {
+      "id": 7159,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(AGENZIA FIAT MIRAFIORI)",
+      "swift_code": "BNLIITR1EFZ"
+    },
+    {
+      "id": 7160,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TORINO",
+      "branch": "(BANCA NAZIONALE DEL LAVORO - TORINO)",
+      "swift_code": "BNLIITRRTOX"
+    },
+    {
+      "id": 7320,
+      "bank": "BANCA PATRIMONI SELLA E C. SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SENVITT1"
+    },
+    {
+      "id": 8523,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO - AG. 1)",
+      "swift_code": "BPMIITM1231"
+    },
+    {
+      "id": 8524,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO - AG. 2)",
+      "swift_code": "BPMIITM1232"
+    },
+    {
+      "id": 8525,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO - AG. 3)",
+      "swift_code": "BPMIITM1233"
+    },
+    {
+      "id": 8526,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO - AG. 4)",
+      "swift_code": "BPMIITM1234"
+    },
+    {
+      "id": 8527,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BPMIITM1230"
+    },
+    {
+      "id": 8986,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "TORINO",
+      "branch": "(AG. 1 TORINO)",
+      "swift_code": "POSOIT2114Q"
+    },
+    {
+      "id": 9393,
+      "bank": "BANCA PROSSIMA S.P.A.",
+      "city": "TORINO",
+      "branch": "(DC OP BACK OFFICE TORINO)",
+      "swift_code": "BCITITMXB77"
+    },
+    {
+      "id": 9399,
+      "bank": "BANCA REALE S.P.A.",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO SEDE)",
+      "swift_code": "BRTOITTT001"
+    },
+    {
+      "id": 9400,
+      "bank": "BANCA REALE S.P.A.",
+      "city": "TORINO",
+      "branch": "(FILIALE RE UMBERTO)",
+      "swift_code": "BRTOITTT002"
+    },
+    {
+      "id": 9401,
+      "bank": "BANCA REALE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BRTOITTT"
+    },
+    {
+      "id": 9446,
+      "bank": "BANCA UCB S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "UCBUITT1"
+    },
+    {
+      "id": 11216,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO - AGENZIA 16)",
+      "swift_code": "BAPPIT21D16"
+    },
+    {
+      "id": 11217,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 1)",
+      "swift_code": "BAPPIT21A71"
+    },
+    {
+      "id": 11218,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 10)",
+      "swift_code": "BAPPIT21A97"
+    },
+    {
+      "id": 11219,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 11)",
+      "swift_code": "BAPPIT21B30"
+    },
+    {
+      "id": 11220,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 12)",
+      "swift_code": "BAPPIT21139"
+    },
+    {
+      "id": 11221,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 13)",
+      "swift_code": "BAPPIT21M40"
+    },
+    {
+      "id": 11222,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 14)",
+      "swift_code": "BAPPIT21O44"
+    },
+    {
+      "id": 11223,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 15)",
+      "swift_code": "BAPPIT21N56"
+    },
+    {
+      "id": 11224,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 2)",
+      "swift_code": "BAPPIT21A72"
+    },
+    {
+      "id": 11225,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 3)",
+      "swift_code": "BAPPIT21A73"
+    },
+    {
+      "id": 11226,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 4)",
+      "swift_code": "BAPPIT21A74"
+    },
+    {
+      "id": 11227,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 5)",
+      "swift_code": "BAPPIT21A75"
+    },
+    {
+      "id": 11228,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 6)",
+      "swift_code": "BAPPIT21A76"
+    },
+    {
+      "id": 11229,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 7)",
+      "swift_code": "BAPPIT21A77"
+    },
+    {
+      "id": 11230,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 8)",
+      "swift_code": "BAPPIT21A91"
+    },
+    {
+      "id": 11231,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 9)",
+      "swift_code": "BAPPIT21A92"
+    },
+    {
+      "id": 11232,
+      "bank": "BANCO BPM SPA",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "BAPPIT21A70"
+    },
+    {
+      "id": 11635,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CREBIT22090"
+    },
+    {
+      "id": 11800,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 314-MATTEOTTI)",
+      "swift_code": "BDBDITA1314"
+    },
+    {
+      "id": 11801,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 321-FILADELFIA)",
+      "swift_code": "BDBDITA1321"
+    },
+    {
+      "id": 11802,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 322-CIBRARIO)",
+      "swift_code": "BDBDITA1322"
+    },
+    {
+      "id": 11803,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 329-NIZZA)",
+      "swift_code": "BDBDITA1329"
+    },
+    {
+      "id": 11804,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 366-MONTE CUCCO)",
+      "swift_code": "BDBDITA1366"
+    },
+    {
+      "id": 11805,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TORINO",
+      "branch": "(TORINO 369-CABOTO)",
+      "swift_code": "BDBDITA1369"
+    },
+    {
+      "id": 11953,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "IBSPITNA875"
+    },
+    {
+      "id": 11954,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "IBSPITNAB77"
+    },
+    {
+      "id": 12101,
+      "bank": "BASIC NET SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BSNEITT1"
+    },
+    {
+      "id": 12163,
+      "bank": "BETA FUNDING S.R.L.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BEFLITT1"
+    },
+    {
+      "id": 12280,
+      "bank": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 1)",
+      "swift_code": "CRBIIT2B222"
+    },
+    {
+      "id": 12281,
+      "bank": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CRBIIT2B053"
+    },
+    {
+      "id": 12634,
+      "bank": "BURGO ENERGIA SRL",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BUESITT1"
+    },
+    {
+      "id": 12704,
+      "bank": "CASEIFICIO PUGLIESE F.LLI RADICCI S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CPFRIT21"
+    },
+    {
+      "id": 12744,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "IBSPIT2FF87"
+    },
+    {
+      "id": 12745,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "IBSPIT2FB77"
+    },
+    {
+      "id": 12773,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "IBSPIT2U875"
+    },
+    {
+      "id": 12774,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "IBSPIT2UB77"
+    },
+    {
+      "id": 12775,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(FACTORING DEPT.)",
+      "swift_code": "IBSPIT2U005"
+    },
+    {
+      "id": 12776,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(GESTIONE CREDITI SPECIALI)",
+      "swift_code": "IBSPIT2UC13"
+    },
+    {
+      "id": 12777,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(RISPARMIO GESTITO)",
+      "swift_code": "IBSPIT2UC09"
+    },
+    {
+      "id": 12778,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "(SPECIAL CREDITS OFFICE)",
+      "swift_code": "IBSPIT2U702"
+    },
+    {
+      "id": 12779,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "IBSPIT2U750"
+    },
+    {
+      "id": 12925,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "IBSPIT2PF87"
+    },
+    {
+      "id": 12926,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "IBSPIT2PB77"
+    },
+    {
+      "id": 12927,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(FACTORING DEPT)",
+      "swift_code": "IBSPIT2PP05"
+    },
+    {
+      "id": 12928,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(GESTIONE CREDITI SPECIALI)",
+      "swift_code": "IBSPIT2PP13"
+    },
+    {
+      "id": 12929,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(RISPARMIO GESTITO)",
+      "swift_code": "IBSPIT2PP09"
+    },
+    {
+      "id": 12930,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "(SPECIAL CREDITS OFFICE)",
+      "swift_code": "IBSPIT2P702"
+    },
+    {
+      "id": 12931,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "IBSPIT2P750"
+    },
+    {
+      "id": 13072,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 2)",
+      "swift_code": "CASRITA1115"
+    },
+    {
+      "id": 13073,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 3)",
+      "swift_code": "CASRITA1122"
+    },
+    {
+      "id": 13074,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 4)",
+      "swift_code": "CASRITA1123"
+    },
+    {
+      "id": 13075,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 5)",
+      "swift_code": "CASRITA1137"
+    },
+    {
+      "id": 13076,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 6)",
+      "swift_code": "CASRITA1138"
+    },
+    {
+      "id": 13077,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO 7)",
+      "swift_code": "CASRITA1133"
+    },
+    {
+      "id": 13078,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "CASRITA1114"
+    },
+    {
+      "id": 13494,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "TORINO",
+      "branch": "(C.M. SERVICE UNIT)",
+      "swift_code": "CRFIIT3FCMU"
+    },
+    {
+      "id": 13495,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "TORINO",
+      "branch": "(DC OP BACK OFFICE TORINO)",
+      "swift_code": "CRFIIT3F774"
+    },
+    {
+      "id": 13496,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "CRFIIT3F875"
+    },
+    {
+      "id": 13515,
+      "bank": "CASSA DI RISPARMIO DI FOSSANO SPA",
+      "city": "TORINO",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "CRIFIT21046"
+    },
+    {
+      "id": 13516,
+      "bank": "CASSA DI RISPARMIO DI FOSSANO SPA",
+      "city": "TORINO",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "CRIFIT21049"
+    },
+    {
+      "id": 13517,
+      "bank": "CASSA DI RISPARMIO DI FOSSANO SPA",
+      "city": "TORINO",
+      "branch": "(TORINO 4)",
+      "swift_code": "CRIFIT21082"
+    },
+    {
+      "id": 13518,
+      "bank": "CASSA DI RISPARMIO DI FOSSANO SPA",
+      "city": "TORINO",
+      "branch": "(TORINO 5)",
+      "swift_code": "CRIFIT21083"
+    },
+    {
+      "id": 13519,
+      "bank": "CASSA DI RISPARMIO DI FOSSANO SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CRIFIT21075"
+    },
+    {
+      "id": 13579,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "TORINO",
+      "branch": "(C.M.SERVICE UNIT)",
+      "swift_code": "CRFIIT3PCMU"
+    },
+    {
+      "id": 13580,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "CRFIIT3P875"
+    },
+    {
+      "id": 13581,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "CRFIIT3P744"
+    },
+    {
+      "id": 13764,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "IBSPIT2B875"
+    },
+    {
+      "id": 13765,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(DC OR BACK OFFICE TORINO)",
+      "swift_code": "IBSPIT2BB77"
+    },
+    {
+      "id": 13766,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(FACTORING DEPT.)",
+      "swift_code": "IBSPIT2B005"
+    },
+    {
+      "id": 13767,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(GESTIONE CREDITI SPECIALI)",
+      "swift_code": "IBSPIT2BC13"
+    },
+    {
+      "id": 13768,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(RISPARMIO GESTITO)",
+      "swift_code": "IBSPIT2BC09"
+    },
+    {
+      "id": 13769,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "(SPECIAL CREDITS OFFICE)",
+      "swift_code": "IBSPIT2B702"
+    },
+    {
+      "id": 13770,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "IBSPIT2B750"
+    },
+    {
+      "id": 13771,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "IBSPIT2B868"
+    },
+    {
+      "id": 14057,
+      "bank": "CELLINO E ASSOCIATI SIM S.P.A",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CESSITT1"
+    },
+    {
+      "id": 14061,
+      "bank": "CENTRALE DEL LATTE DI TORINO E C. S",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CETOIT21"
+    },
+    {
+      "id": 14219,
+      "bank": "CNH INDUSTRIAL FINANCE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CNHFITTT"
+    },
+    {
+      "id": 14220,
+      "bank": "CNH INDUSTRIAL FINANCE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FTINITTT"
+    },
+    {
+      "id": 14221,
+      "bank": "CNH INDUSTRIAL N.V.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CNHIITT1"
+    },
+    {
+      "id": 14248,
+      "bank": "COMITAL SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CMLAIT21"
+    },
+    {
+      "id": 14413,
+      "bank": "COMUNE DI CHIERI",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "COHIITT1"
+    },
+    {
+      "id": 14787,
+      "bank": "COMUNE DI TORINO",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CTORITT1"
+    },
+    {
+      "id": 14839,
+      "bank": "CONAFI PRESTITO' SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CNNPITT1"
+    },
+    {
+      "id": 14843,
+      "bank": "CONSULTING AUTOMOTIVE AEROSPACE RAI",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "CUPIITT1"
+    },
+    {
+      "id": 15513,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 2)",
+      "swift_code": "BACRIT21209"
+    },
+    {
+      "id": 15514,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 2)",
+      "swift_code": "BACRIT21228"
+    },
+    {
+      "id": 15515,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 4)",
+      "swift_code": "BACRIT21196"
+    },
+    {
+      "id": 15516,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 5)",
+      "swift_code": "BACRIT21620"
+    },
+    {
+      "id": 15517,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "(TORINO AG. 6)",
+      "swift_code": "BACRIT21621"
+    },
+    {
+      "id": 15518,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BACRIT21232"
+    },
+    {
+      "id": 16490,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1731"
+    },
+    {
+      "id": 16491,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1732"
+    },
+    {
+      "id": 16492,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1733"
+    },
+    {
+      "id": 16493,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(AG.D)",
+      "swift_code": "DEUTITM1734"
+    },
+    {
+      "id": 16494,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(AG.E)",
+      "swift_code": "DEUTITM1735"
+    },
+    {
+      "id": 16495,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMTOR"
+    },
+    {
+      "id": 16496,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(SPORTELLO F DI TORINO)",
+      "swift_code": "DEUTITM1736"
+    },
+    {
+      "id": 16497,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "(SPORTELLO G DI TORINO)",
+      "swift_code": "DEUTITM1737"
+    },
+    {
+      "id": 16544,
+      "bank": "DIRECTA SIM SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "DIRIITTT"
+    },
+    {
+      "id": 16702,
+      "bank": "ERSEL SIM S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ERSEITT1"
+    },
+    {
+      "id": 16742,
+      "bank": "EXOR S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "EXORITT1"
+    },
+    {
+      "id": 16768,
+      "bank": "FCA BANK S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FCAAIT2T"
+    },
+    {
+      "id": 16783,
+      "bank": "FF FINANCE S.R.L.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FNLRITT1"
+    },
+    {
+      "id": 16786,
+      "bank": "FIAT CHRYSLER FINANCE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FCHFITTT"
+    },
+    {
+      "id": 16787,
+      "bank": "FIAT CHRYSLER FINANCE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FTFNITTT"
+    },
+    {
+      "id": 16788,
+      "bank": "FIAT SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FTTTITT1"
+    },
+    {
+      "id": 16789,
+      "bank": "FIDA INTERMEDIAZIONI SIM SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FINSITT1"
+    },
+    {
+      "id": 16852,
+      "bank": "FONDACO SGR SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FOSGITT1"
+    },
+    {
+      "id": 16861,
+      "bank": "FONDIARIA SAI",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FOSAITT1"
+    },
+    {
+      "id": 16929,
+      "bank": "GEODATA ENGINEERING S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "GEENITT1"
+    },
+    {
+      "id": 16950,
+      "bank": "GIORGIO VINCENT SIM",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "GIVIITT1"
+    },
+    {
+      "id": 16962,
+      "bank": "GOLDEN BAR (SECURITISATION) SR.L.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "GBSRITT1"
+    },
+    {
+      "id": 17148,
+      "bank": "INTERMOBILIARE NEGOZIAZIONE SIM",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "INNEITT1"
+    },
+    {
+      "id": 17149,
+      "bank": "INTERMOBILIARE SIM",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "INMOITT1"
+    },
+    {
+      "id": 17168,
+      "bank": "INTESA SANPAOLO PROGRAMMA YANKEE",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ISPYITT1"
+    },
+    {
+      "id": 17650,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(BACK OFFICE DI RETE - POLO DI TORINO (8004))",
+      "swift_code": "BCITITMM082"
+    },
+    {
+      "id": 17651,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(BACK OFFICE IMPRESE ACCENTRATO TORINO)",
+      "swift_code": "BCITITMMJ73"
+    },
+    {
+      "id": 17652,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(BRANCH 12 - VIA TRIPOLI 157)",
+      "swift_code": "BCITITM1869"
+    },
+    {
+      "id": 17653,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(C.M. REPORTING UNIT)",
+      "swift_code": "BCITITMMSEP"
+    },
+    {
+      "id": 17654,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(C.M. SERVICES UNIT)",
+      "swift_code": "BCITITMMCMU"
+    },
+    {
+      "id": 17655,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(CLS FX TRADING ROOM)",
+      "swift_code": "BCITITMMK51"
+    },
+    {
+      "id": 17656,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(CORRESPONDENT BANKING)",
+      "swift_code": "BCITITMMK55"
+    },
+    {
+      "id": 17657,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(DC OP BACK OFFICE TORINO DESK CORPORATE)",
+      "swift_code": "BCITITMM875"
+    },
+    {
+      "id": 17658,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(DC OP BACK OFFICE TORINO)",
+      "swift_code": "BCITITMMB77"
+    },
+    {
+      "id": 17659,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(DC SO BACK OFFICE DI RETE UFFICIO DI TORINO)",
+      "swift_code": "BCITITMMK74"
+    },
+    {
+      "id": 17660,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FACTORING DEPT.)",
+      "swift_code": "BCITITMMD05"
+    },
+    {
+      "id": 17661,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FIAT AUTO BRANCH - CORSO SETTEMBRINI 215-SPORT A)",
+      "swift_code": "BCITITM1828"
+    },
+    {
+      "id": 17662,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE 9)",
+      "swift_code": "BCITITMMI09"
+    },
+    {
+      "id": 17663,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE IMPRESE TORINO CIMAROSA)",
+      "swift_code": "BCITITMMI20"
+    },
+    {
+      "id": 17664,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE IMPRESE TORINO SAN CARLO)",
+      "swift_code": "BCITITMMK00"
+    },
+    {
+      "id": 17665,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE IMPRESE TORINO TAZZOLI)",
+      "swift_code": "BCITITMMI16"
+    },
+    {
+      "id": 17666,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE TORINO DIPARTIMENTO DEPOSITARIA)",
+      "swift_code": "BCITITMMC14"
+    },
+    {
+      "id": 17667,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE TORINO RISPARMIO GESTITO E DEPOSITARIA)",
+      "swift_code": "BCITITMMC09"
+    },
+    {
+      "id": 17668,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(H.O. BACK OFFICE - VIA SANTA TERESA 9)",
+      "swift_code": "BCITITMM960"
+    },
+    {
+      "id": 17669,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(REGISTERED OFFICE TORINO)",
+      "swift_code": "BCITITMMTRN"
+    },
+    {
+      "id": 17670,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(SECURITIES SETTLEMENT DEPARTMENT)",
+      "swift_code": "BCITITMMK70"
+    },
+    {
+      "id": 17671,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(SPECIAL CREDITS OFFICE)",
+      "swift_code": "BCITITMMK02"
+    },
+    {
+      "id": 17672,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(TORINO - FRANCIA)",
+      "swift_code": "BCITITMM808"
+    },
+    {
+      "id": 17673,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(TORINO FILIALE IMPRESE TORINO MATTEOTTI)",
+      "swift_code": "BCITITMMI01"
+    },
+    {
+      "id": 17674,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "BCITITM1868"
+    },
+    {
+      "id": 17675,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BCITITMML68"
+    },
+    {
+      "id": 18063,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "BPVIIT21228"
+    },
+    {
+      "id": 18388,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO)",
+      "swift_code": "VEBHIT21265"
+    },
+    {
+      "id": 18447,
+      "bank": "IPI SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "IPIIITT1"
+    },
+    {
+      "id": 18480,
+      "bank": "ITALIA INDEPENDENT GROUP SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "ITIGITT1"
+    },
+    {
+      "id": 18526,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "BLPIIT21412"
+    },
+    {
+      "id": 18541,
+      "bank": "JUVENTUS F.C. S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "JUVEITT1"
+    },
+    {
+      "id": 18552,
+      "bank": "KEMIA TAU S.R.L.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "KETRITT1"
+    },
+    {
+      "id": 18554,
+      "bank": "KI GROUP SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "GRPUITT1"
+    },
+    {
+      "id": 18644,
+      "bank": "MAMO INVEST SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "MATVITT1"
+    },
+    {
+      "id": 18667,
+      "bank": "MC AND SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "MADCITT1"
+    },
+    {
+      "id": 18855,
+      "bank": "OSAI AUTOMATION SYSTEM SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "OSAYITT1"
+    },
+    {
+      "id": 18894,
+      "bank": "PICTET AND CIE (EUROPE) S.A., SUCCURSALE ITALIANA,TORINO",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PICTITTT"
+    },
+    {
+      "id": 18900,
+      "bank": "PININFARINA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PIIFITT1"
+    },
+    {
+      "id": 18924,
+      "bank": "POLTRONA FRAU",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "POURITT1"
+    },
+    {
+      "id": 18953,
+      "bank": "PRODEA GROUP SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PGROITT1"
+    },
+    {
+      "id": 19006,
+      "bank": "PROVINCIA DI TORINO",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "PRRIITT1"
+    },
+    {
+      "id": 19245,
+      "bank": "REGIONE PIEMONTE",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "REIEITT1"
+    },
+    {
+      "id": 19258,
+      "bank": "REPLY SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "RELYITT1"
+    },
+    {
+      "id": 19368,
+      "bank": "SANTANDER CONSUMER BANK SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "FICUITTT"
+    },
+    {
+      "id": 19522,
+      "bank": "SOCIETA' INIZIATIVE AUTOSTRADALI E",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SONUITT1"
+    },
+    {
+      "id": 19530,
+      "bank": "SOCIETE GENERALE SECURITIES SERVICES SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "MCREITT1"
+    },
+    {
+      "id": 19546,
+      "bank": "SOLOFIN CAB SIM S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SLFOITT1"
+    },
+    {
+      "id": 19550,
+      "bank": "SONNEDIX ITALIA S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SODTITT1"
+    },
+    {
+      "id": 19611,
+      "bank": "STUDIO SIM",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "STUDITT1"
+    },
+    {
+      "id": 19619,
+      "bank": "SUPERSTRADA PEDEMONTANA VENETA SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SUPVITT1"
+    },
+    {
+      "id": 19621,
+      "bank": "SVILUPPO IDRICO SPA",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SVIRITT1"
+    },
+    {
+      "id": 19626,
+      "bank": "SYMPHONIA SGR S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "SYSGITM1"
+    },
+    {
+      "id": 19658,
+      "bank": "TELECOM ITALIA SPA",
+      "city": "TORINO",
+      "branch": "(ADMINISTRATION)",
+      "swift_code": "TLITITMMADM"
+    },
+    {
+      "id": 19704,
+      "bank": "TORINO HOTEL IMMOBILIARE S.P.A.",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "TOHIITT1"
+    },
+    {
+      "id": 19706,
+      "bank": "TORO ASSICURAZIONI",
+      "city": "TORINO",
+      "branch": "",
+      "swift_code": "TOAIITT1"
+    },
+    {
+      "id": 21107,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO DANTE)",
+      "swift_code": "BLOPIT22724"
+    },
+    {
+      "id": 21108,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO FRANCIA)",
+      "swift_code": "BLOPIT22725"
+    },
+    {
+      "id": 21109,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO INGHILTERRA)",
+      "swift_code": "BLOPIT22726"
+    },
+    {
+      "id": 21110,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO ORBASSANO)",
+      "swift_code": "BLOPIT22727"
+    },
+    {
+      "id": 21111,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO UNIONE SOVIETICA)",
+      "swift_code": "BLOPIT22728"
+    },
+    {
+      "id": 21112,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO VERCELLI)",
+      "swift_code": "BLOPIT22729"
+    },
+    {
+      "id": 21113,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO C.SO VITTORIO EMANUELE II)",
+      "swift_code": "BLOPIT22730"
+    },
+    {
+      "id": 21114,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO P.ZZA GRAN MADRE)",
+      "swift_code": "BLOPIT22732"
+    },
+    {
+      "id": 21115,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO VIA MADAMA CRISTINA)",
+      "swift_code": "BLOPIT22733"
+    },
+    {
+      "id": 21116,
+      "bank": "UBI BANCA SPA",
+      "city": "TORINO",
+      "branch": "(SEDE DI TORINO)",
+      "swift_code": "BLOPIT22783"
+    },
+    {
+      "id": 22211,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL TORINO 11)",
+      "swift_code": "BREUITM1086"
+    },
+    {
+      "id": 22212,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 10)",
+      "swift_code": "BREUITM1032"
+    },
+    {
+      "id": 22213,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 12)",
+      "swift_code": "BREUITM1078"
+    },
+    {
+      "id": 22214,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 13)",
+      "swift_code": "BREUITM1034"
+    },
+    {
+      "id": 22215,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 15)",
+      "swift_code": "BREUITM1102"
+    },
+    {
+      "id": 22216,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 8)",
+      "swift_code": "BREUITM1145"
+    },
+    {
+      "id": 22217,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FIL. TORINO 9)",
+      "swift_code": "BREUITM1031"
+    },
+    {
+      "id": 22218,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO 19)",
+      "swift_code": "BREUITM1081"
+    },
+    {
+      "id": 22219,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO AGENZIA 1)",
+      "swift_code": "BREUITM1224"
+    },
+    {
+      "id": 22220,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO AGENZIA 2)",
+      "swift_code": "BREUITM1200"
+    },
+    {
+      "id": 22221,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO AGENZIA 3)",
+      "swift_code": "BREUITM1225"
+    },
+    {
+      "id": 22222,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO AGENZIA 4)",
+      "swift_code": "BREUITM1551"
+    },
+    {
+      "id": 22223,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(FILIALE DI TORINO)",
+      "swift_code": "BREUITM1198"
+    },
+    {
+      "id": 22224,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(TORINO 17)",
+      "swift_code": "BREUITM1076"
+    },
+    {
+      "id": 22225,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "TORINO",
+      "branch": "(TORINO 7)",
+      "swift_code": "BREUITM1174"
+    },
+    {
+      "id": 25500,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE OPERATIVA NORD OVEST 1)",
+      "swift_code": "UNCRITMMONO"
+    },
+    {
+      "id": 25501,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(FILIALE OPERATIVA NORD OVEST 2)",
+      "swift_code": "UNCRITMMON2"
+    },
+    {
+      "id": 25502,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(FOREIGN TRADE CENTER TORINO)",
+      "swift_code": "UNCRITMMTOE"
+    },
+    {
+      "id": 25503,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(LARGE NORD OVEST)",
+      "swift_code": "UNCRITM1TOG"
+    },
+    {
+      "id": 25504,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(NORD OVEST 1)",
+      "swift_code": "UNCRITM1TNO"
+    },
+    {
+      "id": 25505,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(NORD OVEST 4)",
+      "swift_code": "UNCRITM1TOH"
+    },
+    {
+      "id": 25506,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(SETTORE PUBBLICO AND REAL ESTATE)",
+      "swift_code": "UNCRITM1TPU"
+    },
+    {
+      "id": 25507,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TESORERIA CIVICA)",
+      "swift_code": "UNCRITM1Z43"
+    },
+    {
+      "id": 25508,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO ADRIANO)",
+      "swift_code": "UNCRITM1AE4"
+    },
+    {
+      "id": 25509,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO AGNELLI)",
+      "swift_code": "UNCRITM1AB6"
+    },
+    {
+      "id": 25510,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO ALFIERI)",
+      "swift_code": "UNCRITM1TO1"
+    },
+    {
+      "id": 25511,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO ARSENALE)",
+      "swift_code": "UNCRITM120Y"
+    },
+    {
+      "id": 25512,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO BORROMINI)",
+      "swift_code": "UNCRITM1AE3"
+    },
+    {
+      "id": 25513,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CABOTO)",
+      "swift_code": "UNCRITM1AB3"
+    },
+    {
+      "id": 25514,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CAIO MARIO)",
+      "swift_code": "UNCRITM1AE0"
+    },
+    {
+      "id": 25515,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CAMPANELLA)",
+      "swift_code": "UNCRITM1AE8"
+    },
+    {
+      "id": 25516,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CARDUCCI)",
+      "swift_code": "UNCRITM1AA7"
+    },
+    {
+      "id": 25517,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CHIESA DELLA SALUTE)",
+      "swift_code": "UNCRITM1AA8"
+    },
+    {
+      "id": 25518,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CHIRONI)",
+      "swift_code": "UNCRITM1AC2"
+    },
+    {
+      "id": 25519,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CIGNA)",
+      "swift_code": "UNCRITM1AG2"
+    },
+    {
+      "id": 25520,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CINCINNATO)",
+      "swift_code": "UNCRITM1AD0"
+    },
+    {
+      "id": 25521,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO BRESCIA)",
+      "swift_code": "UNCRITM1AC0"
+    },
+    {
+      "id": 25522,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO CASALE)",
+      "swift_code": "UNCRITM1AC1"
+    },
+    {
+      "id": 25523,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO CHIETI)",
+      "swift_code": "UNCRITM1AA9"
+    },
+    {
+      "id": 25524,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO DANTE)",
+      "swift_code": "UNCRITM1805"
+    },
+    {
+      "id": 25525,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO FRANCIA B)",
+      "swift_code": "UNCRITM1AC9"
+    },
+    {
+      "id": 25526,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO GROSSETO)",
+      "swift_code": "UNCRITM1AC7"
+    },
+    {
+      "id": 25527,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO MONCALIERI)",
+      "swift_code": "UNCRITM1AB7"
+    },
+    {
+      "id": 25528,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO ORBASSANO)",
+      "swift_code": "UNCRITM1AD2"
+    },
+    {
+      "id": 25529,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO PESCHIERA B)",
+      "swift_code": "UNCRITM1AD1"
+    },
+    {
+      "id": 25530,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO PESCHIERA C)",
+      "swift_code": "UNCRITM182F"
+    },
+    {
+      "id": 25531,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO RACCONIGI A)",
+      "swift_code": "UNCRITM1AE7"
+    },
+    {
+      "id": 25532,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO RACCONIGI B)",
+      "swift_code": "UNCRITM139L"
+    },
+    {
+      "id": 25533,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO SEBASTOPOLI)",
+      "swift_code": "UNCRITM194L"
+    },
+    {
+      "id": 25534,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO TARANTO)",
+      "swift_code": "UNCRITM1AC4"
+    },
+    {
+      "id": 25535,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO VERCELLI)",
+      "swift_code": "UNCRITM1AC3"
+    },
+    {
+      "id": 25536,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO VINZAGLIO)",
+      "swift_code": "UNCRITM193L"
+    },
+    {
+      "id": 25537,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CORSO VITTORIO)",
+      "swift_code": "UNCRITM121Y"
+    },
+    {
+      "id": 25538,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO CROCETTA)",
+      "swift_code": "UNCRITM112Y"
+    },
+    {
+      "id": 25539,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO FARINELLI)",
+      "swift_code": "UNCRITM182B"
+    },
+    {
+      "id": 25540,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO FERRARIS)",
+      "swift_code": "UNCRITM1806"
+    },
+    {
+      "id": 25541,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO FRANCIA)",
+      "swift_code": "UNCRITM113Y"
+    },
+    {
+      "id": 25542,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO GALIMBERTI C)",
+      "swift_code": "UNCRITM1C01"
+    },
+    {
+      "id": 25543,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO GARIBALDI)",
+      "swift_code": "UNCRITM1AF2"
+    },
+    {
+      "id": 25544,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO GIULIO CESARE A)",
+      "swift_code": "UNCRITM1AB1"
+    },
+    {
+      "id": 25545,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO LARGO TOSCANA)",
+      "swift_code": "UNCRITM1AD4"
+    },
+    {
+      "id": 25546,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO MADAMA CRISTINA)",
+      "swift_code": "UNCRITM1AA1"
+    },
+    {
+      "id": 25547,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO MARTINETTO)",
+      "swift_code": "UNCRITM1AC6"
+    },
+    {
+      "id": 25548,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO MONGINEVRO B)",
+      "swift_code": "UNCRITM1AG1"
+    },
+    {
+      "id": 25549,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO MUGHETTI)",
+      "swift_code": "UNCRITM1811"
+    },
+    {
+      "id": 25550,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO OMERO)",
+      "swift_code": "UNCRITM1819"
+    },
+    {
+      "id": 25551,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO PEROTTI)",
+      "swift_code": "UNCRITM1AB2"
+    },
+    {
+      "id": 25552,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO PEYRON)",
+      "swift_code": "UNCRITM1AG6"
+    },
+    {
+      "id": 25553,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO PIETRO MICCA)",
+      "swift_code": "UNCRITM1AD7"
+    },
+    {
+      "id": 25554,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO PO A)",
+      "swift_code": "UNCRITM1807"
+    },
+    {
+      "id": 25555,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO POLITECNICO)",
+      "swift_code": "UNCRITM1AG0"
+    },
+    {
+      "id": 25556,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO POLLENZO)",
+      "swift_code": "UNCRITM1AA6"
+    },
+    {
+      "id": 25557,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO PRINCIPI D'ACAIA)",
+      "swift_code": "UNCRITM1AB8"
+    },
+    {
+      "id": 25558,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO REBAUDENGO)",
+      "swift_code": "UNCRITM1AF0"
+    },
+    {
+      "id": 25559,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO REGIONE PIEMONTE)",
+      "swift_code": "UNCRITM1GC2"
+    },
+    {
+      "id": 25560,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO REPUBBLICA)",
+      "swift_code": "UNCRITM1AA2"
+    },
+    {
+      "id": 25561,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO S. MAURIZIO)",
+      "swift_code": "UNCRITM1AA3"
+    },
+    {
+      "id": 25562,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO S.RITA)",
+      "swift_code": "UNCRITM1AD9"
+    },
+    {
+      "id": 25563,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO SACCHI)",
+      "swift_code": "UNCRITM1AB5"
+    },
+    {
+      "id": 25564,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO SAN DONATO)",
+      "swift_code": "UNCRITM140L"
+    },
+    {
+      "id": 25565,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO SANTA TERESA)",
+      "swift_code": "UNCRITM122Y"
+    },
+    {
+      "id": 25566,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO SOMMEILLER)",
+      "swift_code": "UNCRITM1AA5"
+    },
+    {
+      "id": 25567,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO STAMPALIA)",
+      "swift_code": "UNCRITM1TD1"
+    },
+    {
+      "id": 25568,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO STATUTO)",
+      "swift_code": "UNCRITM1AA4"
+    },
+    {
+      "id": 25569,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TELESIO)",
+      "swift_code": "UNCRITM1AE2"
+    },
+    {
+      "id": 25570,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TESORIERA)",
+      "swift_code": "UNCRITM1AB0"
+    },
+    {
+      "id": 25571,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TIRRENO)",
+      "swift_code": "UNCRITM143L"
+    },
+    {
+      "id": 25572,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TRAIANO)",
+      "swift_code": "UNCRITM1AC5"
+    },
+    {
+      "id": 25573,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TRAVES)",
+      "swift_code": "UNCRITM1AF6"
+    },
+    {
+      "id": 25574,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO TURATI)",
+      "swift_code": "UNCRITM1AD8"
+    },
+    {
+      "id": 25575,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VIA MONTEVIDEO)",
+      "swift_code": "UNCRITM1AE9"
+    },
+    {
+      "id": 25576,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VIA NIZZA A)",
+      "swift_code": "UNCRITM1TC5"
+    },
+    {
+      "id": 25577,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VIA NIZZA B)",
+      "swift_code": "UNCRITM1AB4"
+    },
+    {
+      "id": 25578,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VIA ORVIETO)",
+      "swift_code": "UNCRITM1820"
+    },
+    {
+      "id": 25579,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VIA ROMA)",
+      "swift_code": "UNCRITM1803"
+    },
+    {
+      "id": 25580,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VILLARI)",
+      "swift_code": "UNCRITM1AB9"
+    },
+    {
+      "id": 25581,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO VITTORIO EMANUELE A)",
+      "swift_code": "UNCRITM1AD3"
+    },
+    {
+      "id": 25582,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(TORINO XX SETTEMBRE)",
+      "swift_code": "UNCRITM1BD4"
+    },
+    {
+      "id": 25583,
+      "bank": "UNICREDIT SPA",
+      "city": "TORINO",
+      "branch": "(UCBP - EXPORT MANAGER)",
+      "swift_code": "UNCRITMM00E"
+    },
+    {
+      "id": 26152,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO 313 BRANCH)",
+      "swift_code": "BAECIT21313"
+    },
+    {
+      "id": 26153,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO BRANCH)",
+      "swift_code": "BAECIT21076"
+    },
+    {
+      "id": 26154,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO BRANCH)",
+      "swift_code": "BAECIT21077"
+    },
+    {
+      "id": 26155,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO BRANCH)",
+      "swift_code": "BAECIT21078"
+    },
+    {
+      "id": 26156,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TORINO",
+      "branch": "(TORINO)",
+      "swift_code": "BAECIT21360"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Torino — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Torino, Italy Contiene 399 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Torino — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Torino — codici SWIFT/BIC — 399 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 399 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

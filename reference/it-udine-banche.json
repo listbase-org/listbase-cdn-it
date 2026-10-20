@@ -1,0 +1,541 @@
+{
+  "id": "it-udine-banche",
+  "name": "Banche a Udine — codici SWIFT/BIC",
+  "title": "Banche a Udine — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Udine, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 209,
+      "bank": "ATON PER IL PROGETTO",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ATPOIT21"
+    },
+    {
+      "id": 1365,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "UDINE",
+      "branch": "(AG. NO 194 AG UDINE 1)",
+      "swift_code": "ANTBIT21194"
+    },
+    {
+      "id": 1366,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "UDINE",
+      "branch": "(AG. NO 42)",
+      "swift_code": "ANTBIT2142U"
+    },
+    {
+      "id": 1367,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "UDINE",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "ANTBIT21C12"
+    },
+    {
+      "id": 3007,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI MANZANO (UDINE)",
+      "city": "UDINE",
+      "branch": "(FILIALE DI VIA DEL PIOPPO UDINE)",
+      "swift_code": "RUAMIT21UD3"
+    },
+    {
+      "id": 3008,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI MANZANO (UDINE)",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "RUAMIT21UD2"
+    },
+    {
+      "id": 3009,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI MANZANO (UDINE)",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "RUAMIT21UDI"
+    },
+    {
+      "id": 3568,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOC. COOP.",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE)",
+      "swift_code": "ICRAITR1JV6"
+    },
+    {
+      "id": 3569,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOC. COOP.",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE)",
+      "swift_code": "ICRAITR1JV7"
+    },
+    {
+      "id": 3572,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ICRAITR1JV1"
+    },
+    {
+      "id": 3573,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ICRAITR1JV2"
+    },
+    {
+      "id": 3574,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ICRAITR1JV3"
+    },
+    {
+      "id": 3575,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ICRAITRRJV0"
+    },
+    {
+      "id": 3578,
+      "bank": "BANCA DI UDINE CREDITO COOPERATIVO SOCIETA'COOPERATIVO",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "ICRAITR1JVA"
+    },
+    {
+      "id": 3731,
+      "bank": "BANCA D'ITALIA",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE)",
+      "swift_code": "BITAITR1232"
+    },
+    {
+      "id": 3775,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "EUBAITM1839"
+    },
+    {
+      "id": 6400,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE - AG. 1)",
+      "swift_code": "PASCITM142U"
+    },
+    {
+      "id": 6401,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE - AG. 2)",
+      "swift_code": "PASCITM1C12"
+    },
+    {
+      "id": 6402,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "PASCITMMUDI"
+    },
+    {
+      "id": 7176,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "BNLIITRRUDX"
+    },
+    {
+      "id": 8545,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "BPMIITM1315"
+    },
+    {
+      "id": 11273,
+      "bank": "BANCO BPM SPA",
+      "city": "UDINE",
+      "branch": "(UDINE AG. 1)",
+      "swift_code": "BAPPIT21682"
+    },
+    {
+      "id": 11274,
+      "bank": "BANCO BPM SPA",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "BAPPIT21075"
+    },
+    {
+      "id": 12787,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(BACK OFFICE DI RETE UDINE)",
+      "swift_code": "IBSPIT2UK90"
+    },
+    {
+      "id": 12788,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(FILIALE IMPRESA UDINE STRINGHER)",
+      "swift_code": "IBSPIT2U608"
+    },
+    {
+      "id": 12789,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(FILIALE IMPRESE DI UDINE)",
+      "swift_code": "IBSPIT2U010"
+    },
+    {
+      "id": 12790,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(FILIALE IMPRESE FRIULI VENEZIA GIULIA)",
+      "swift_code": "IBSPIT2U882"
+    },
+    {
+      "id": 12791,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(SEDE DI UDINE)",
+      "swift_code": "IBSPIT2U"
+    },
+    {
+      "id": 12792,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "(UDINE - PIAZZA DEL DUOMO 8/9)",
+      "swift_code": "IBSPIT2U538"
+    },
+    {
+      "id": 13221,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "CRBZIT2B143"
+    },
+    {
+      "id": 14802,
+      "bank": "COMUNE DI UDINE",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "CUDDIT21"
+    },
+    {
+      "id": 15156,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "UDINE",
+      "branch": "(P.LE XXVI LUGLIO 8/10)",
+      "swift_code": "BPPNIT2P639"
+    },
+    {
+      "id": 15157,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "UDINE",
+      "branch": "(V. LE LEOPARDI 23A)",
+      "swift_code": "BPPNIT2P602"
+    },
+    {
+      "id": 15158,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "UDINE",
+      "branch": "(VIA TAVAGNACCO 89)",
+      "swift_code": "BPPNIT2P641"
+    },
+    {
+      "id": 15159,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "UDINE",
+      "branch": "(VIA VITTORIO VENETO 21)",
+      "swift_code": "BPPNIT2P601"
+    },
+    {
+      "id": 15160,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "UDINE",
+      "branch": "(VIALE DELLA VITTORIA 7/D)",
+      "swift_code": "BPPNIT2P020"
+    },
+    {
+      "id": 15211,
+      "bank": "CREDITO COOPERATIVO FRIULI SC",
+      "city": "UDINE",
+      "branch": "(BR.INFO UDINE)",
+      "swift_code": "CCRTIT2TK00"
+    },
+    {
+      "id": 15528,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE AG. 2)",
+      "swift_code": "BACRIT21613"
+    },
+    {
+      "id": 15529,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "BACRIT21187"
+    },
+    {
+      "id": 16508,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "UDINE",
+      "branch": "(SPORTELLO DI UDINE)",
+      "swift_code": "DEUTITM1788"
+    },
+    {
+      "id": 17039,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE BRANCH)",
+      "swift_code": "HAABIT2U002"
+    },
+    {
+      "id": 17040,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "UDINE",
+      "branch": "(UDINE-MERCATOVECCHIO)",
+      "swift_code": "HAABIT2U014"
+    },
+    {
+      "id": 17693,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "UDINE",
+      "branch": "(08790 DC SO BACK OFFICE DI RETE UDINE)",
+      "swift_code": "BCITITMM443"
+    },
+    {
+      "id": 17694,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "UDINE",
+      "branch": "(BACK OFFICE DI RETE - ESTERO (08320))",
+      "swift_code": "BCITITMM438"
+    },
+    {
+      "id": 17695,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "UDINE",
+      "branch": "(FILIALE IMPRESE UDINE CARDUCCI)",
+      "swift_code": "BCITITMMV52"
+    },
+    {
+      "id": 18081,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "(BRANCH N. 3)",
+      "swift_code": "BPVIIT21714"
+    },
+    {
+      "id": 18082,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "(BRANCH N. 4)",
+      "swift_code": "BPVIIT21715"
+    },
+    {
+      "id": 18083,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT21701"
+    },
+    {
+      "id": 18084,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT21702"
+    },
+    {
+      "id": 18085,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "(UFFICIO ESTERO)",
+      "swift_code": "BPVIIT22A05"
+    },
+    {
+      "id": 18086,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "BPVIIT22700"
+    },
+    {
+      "id": 18402,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE - PORTA AQUILEIA)",
+      "swift_code": "VEBHIT21154"
+    },
+    {
+      "id": 18403,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE)",
+      "swift_code": "VEBHIT21094"
+    },
+    {
+      "id": 18680,
+      "bank": "MEDIOCREDITO DEL FRIULI - VENEZIA GIULIA SPA",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "MFVGIT21"
+    },
+    {
+      "id": 19008,
+      "bank": "PROVINCIA DI UDINE",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "PRUNIT21"
+    },
+    {
+      "id": 19687,
+      "bank": "THERMOKEY S.P.A.",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "THERIT21"
+    },
+    {
+      "id": 21145,
+      "bank": "UBI BANCA SPA",
+      "city": "UDINE",
+      "branch": "(FILIALE DI UDINE)",
+      "swift_code": "BLOPIT22322"
+    },
+    {
+      "id": 22509,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "BCABIT21598"
+    },
+    {
+      "id": 25681,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(ESTERO MERCI UDINE)",
+      "swift_code": "UNCRITMMUDE"
+    },
+    {
+      "id": 25682,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(FRIULI VENEZIA GIULIA)",
+      "swift_code": "UNCRITM1UDW"
+    },
+    {
+      "id": 25683,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE GOLDONI)",
+      "swift_code": "UNCRITM146Y"
+    },
+    {
+      "id": 25684,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE LEOPARDI)",
+      "swift_code": "UNCRITM1UM3"
+    },
+    {
+      "id": 25685,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE VIA CIVIDALE)",
+      "swift_code": "UNCRITM1UM4"
+    },
+    {
+      "id": 25686,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE VIA VITTORIO VENETO)",
+      "swift_code": "UNCRITM1UN6"
+    },
+    {
+      "id": 25687,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE VIALE TRICESIMO)",
+      "swift_code": "UNCRITM1TV8"
+    },
+    {
+      "id": 25688,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE VOLONTARI LIBERTA')",
+      "swift_code": "UNCRITM1UM1"
+    },
+    {
+      "id": 25689,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE ZANON)",
+      "swift_code": "UNCRITM1UM2"
+    },
+    {
+      "id": 25690,
+      "bank": "UNICREDIT SPA",
+      "city": "UDINE",
+      "branch": "(UDINE)",
+      "swift_code": "UNCRITM1Y66"
+    },
+    {
+      "id": 26163,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "UDINE",
+      "branch": "(UDINE 224 BRANCH)",
+      "swift_code": "BAECIT21224"
+    },
+    {
+      "id": 26188,
+      "bank": "VALORI E FINANZA INVESTIMENTI SIM S.P.A.",
+      "city": "UDINE",
+      "branch": "",
+      "swift_code": "VFISIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Udine — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Udine, Italy Contiene 70 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Udine — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Udine — codici SWIFT/BIC — 70 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 70 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

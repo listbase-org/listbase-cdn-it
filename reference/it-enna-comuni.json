@@ -1,0 +1,316 @@
+{
+  "id": "it-enna-comuni",
+  "name": "Comuni della provincia di Enna",
+  "title": "Comuni della provincia di Enna",
+  "description": "Elenco dei 20 comuni della provincia di Enna (sigla EN), regione Sicilia. List of 20 comuni in the province of Enna (EN), Sicilia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 86001,
+      "nome": "Agira",
+      "slug": "agira",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86002,
+      "nome": "Aidone",
+      "slug": "aidone",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86003,
+      "nome": "Assoro",
+      "slug": "assoro",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86004,
+      "nome": "Barrafranca",
+      "slug": "barrafranca",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86005,
+      "nome": "Calascibetta",
+      "slug": "calascibetta",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86006,
+      "nome": "Catenanuova",
+      "slug": "catenanuova",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86007,
+      "nome": "Centuripe",
+      "slug": "centuripe",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86008,
+      "nome": "Cerami",
+      "slug": "cerami",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86009,
+      "nome": "Enna",
+      "slug": "enna",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86010,
+      "nome": "Gagliano Castelferrato",
+      "slug": "gagliano-castelferrato",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86011,
+      "nome": "Leonforte",
+      "slug": "leonforte",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86012,
+      "nome": "Nicosia",
+      "slug": "nicosia",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86013,
+      "nome": "Nissoria",
+      "slug": "nissoria",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86014,
+      "nome": "Piazza Armerina",
+      "slug": "piazza-armerina",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86015,
+      "nome": "Pietraperzia",
+      "slug": "pietraperzia",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86016,
+      "nome": "Regalbuto",
+      "slug": "regalbuto",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86017,
+      "nome": "Sperlinga",
+      "slug": "sperlinga",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86018,
+      "nome": "Troina",
+      "slug": "troina",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86019,
+      "nome": "Valguarnera Caropepe",
+      "slug": "valguarnera-caropepe",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 86020,
+      "nome": "Villarosa",
+      "slug": "villarosa",
+      "provincia_id": 86,
+      "provincia_nome": "Enna",
+      "provincia_sigla": "EN",
+      "provincia_slug": "enna",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Enna - Download gratuito",
+    "description": "Elenco dei 20 comuni della provincia di Enna (sigla EN), regione Sicilia. List of 20 comuni in the province of Enna (EN), Sicilia region. Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Enna | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Enna — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

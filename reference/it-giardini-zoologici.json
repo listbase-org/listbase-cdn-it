@@ -1,0 +1,268 @@
+{
+  "id": "it-giardini-zoologici",
+  "name": "Giardini zoologici in Italia",
+  "title": "Giardini zoologici in Italia",
+  "description": "Elenco dei giardini zoologici in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q864639",
+      "name_it": "bioparco di Roma",
+      "name_en": "bioparco",
+      "latitude": 41.917472,
+      "longitude": 12.485194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q864639"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3678441",
+      "name_it": "Città della Domenica",
+      "name_en": "Città della Domenica",
+      "latitude": 43.113153,
+      "longitude": 12.343253,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3678441"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3763933",
+      "name_it": "giardino zoologico di Pistoia",
+      "name_en": "Zoo di Pistoia",
+      "latitude": 43.929621,
+      "longitude": 10.865653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3763933"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3895597",
+      "name_it": "parco faunistico Cappeller",
+      "name_en": "Faunistic Park Cappeller",
+      "latitude": 45.720381,
+      "longitude": 11.699169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895597"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3895600",
+      "name_it": "parco faunistico del Monte Amiata",
+      "name_en": "",
+      "latitude": 42.828056,
+      "longitude": 11.534167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895600"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q55434355",
+      "name_it": "parco faunistico di Spormaggiore",
+      "name_en": "Parco Faunistico di Spormaggiore",
+      "latitude": 46.212367,
+      "longitude": 11.047658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55434355"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3213172",
+      "name_it": "parco faunistico La Torbiera",
+      "name_en": "La Torbiera",
+      "latitude": 45.67497,
+      "longitude": 8.58841,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3213172"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3895598",
+      "name_it": "parco faunistico Le Cornelle",
+      "name_en": "Le Cornelle",
+      "latitude": 45.715915,
+      "longitude": 9.598307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895598"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q110464677",
+      "name_it": "Parco faunistico Valcorba",
+      "name_en": "",
+      "latitude": 45.145267,
+      "longitude": 11.836303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110464677"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3895398",
+      "name_it": "parco Gallorose",
+      "name_en": "Parco Gallorose",
+      "latitude": 43.290505,
+      "longitude": 10.531615,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895398"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q92063704",
+      "name_it": "Parco ittico Paradiso",
+      "name_en": "Parco ittico Paradiso",
+      "latitude": 45.38778,
+      "longitude": 9.445174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q92063704"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3364860",
+      "name_it": "Parco Natura Viva",
+      "name_en": "Parco Natura Viva",
+      "latitude": 45.4786,
+      "longitude": 10.7969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3364860"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q19573583",
+      "name_it": "parco Safari delle Langhe",
+      "name_en": "Parco Safari delle Langhe",
+      "latitude": 44.49236,
+      "longitude": 8.03104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19573583"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q125472325",
+      "name_it": "Parco Zoo Giovo Ligure",
+      "name_en": "",
+      "latitude": 44.439197,
+      "longitude": 8.441003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125472325"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q77048411",
+      "name_it": "Parco Zoo Punta Verde",
+      "name_en": "Parco Zoo Punta Verde",
+      "latitude": 45.659008,
+      "longitude": 13.065954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q77048411"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q15503298",
+      "name_it": "Pombia Safari Park",
+      "name_en": "Pombia Safari Park",
+      "latitude": 45.65,
+      "longitude": 8.63333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15503298"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q220221",
+      "name_it": "Stazione zoologica Anton Dohrn",
+      "name_en": "Stazione Zoologica Anton Dohrn",
+      "latitude": 40.8327,
+      "longitude": 14.23577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q220221"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q20010227",
+      "name_it": "Zoo d'Abruzzo",
+      "name_en": "Abruzzo Zoo",
+      "latitude": 42.27411,
+      "longitude": 14.44811,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20010227"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q112333666",
+      "name_it": "zoo delle Maitine",
+      "name_en": "",
+      "latitude": 41.212778,
+      "longitude": 14.805556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112333666"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q18046599",
+      "name_it": "Zoo di Milano",
+      "name_en": "Milan's Zoo",
+      "latitude": 45.475091,
+      "longitude": 9.198032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18046599"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q48811496",
+      "name_it": "zoo di Torino",
+      "name_en": "Zoo di Torino",
+      "latitude": 45.066028,
+      "longitude": 7.703054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48811496"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q16383344",
+      "name_it": "Zoom Torino",
+      "name_en": "Zoom di Cumiana",
+      "latitude": 44.93232,
+      "longitude": 7.42075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16383344"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q3576051",
+      "name_it": "Zoomarine",
+      "name_en": "Zoomarine",
+      "latitude": 41.633611,
+      "longitude": 12.456667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3576051"
+    }
+  ],
+  "meta": {
+    "title": "Giardini zoologici in Italia - Download gratuito",
+    "description": "Elenco dei giardini zoologici in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 23 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Giardini zoologici in Italia | ListBase",
+    "seo_description": "Scarica Giardini zoologici in Italia — 23 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 23 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

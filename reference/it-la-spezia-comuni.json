@@ -1,0 +1,460 @@
+{
+  "id": "it-la-spezia-comuni",
+  "name": "Comuni della provincia di La Spezia",
+  "title": "Comuni della provincia di La Spezia",
+  "description": "Elenco dei 32 comuni della provincia di La Spezia (sigla SP), regione Liguria. List of 32 comuni in the province of La Spezia (SP), Liguria region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 11001,
+      "nome": "Ameglia",
+      "slug": "ameglia",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11002,
+      "nome": "Arcola",
+      "slug": "arcola",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11003,
+      "nome": "Beverino",
+      "slug": "beverino",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11004,
+      "nome": "Bolano",
+      "slug": "bolano",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11005,
+      "nome": "Bonassola",
+      "slug": "bonassola",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11006,
+      "nome": "Borghetto di Vara",
+      "slug": "borghetto-di-vara",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11007,
+      "nome": "Brugnato",
+      "slug": "brugnato",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11008,
+      "nome": "Calice al Cornoviglio",
+      "slug": "calice-al-cornoviglio",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11009,
+      "nome": "Carro",
+      "slug": "carro",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11010,
+      "nome": "Carrodano",
+      "slug": "carrodano",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11011,
+      "nome": "Castelnuovo Magra",
+      "slug": "castelnuovo-magra",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11012,
+      "nome": "Deiva Marina",
+      "slug": "deiva-marina",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11013,
+      "nome": "Follo",
+      "slug": "follo",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11014,
+      "nome": "Framura",
+      "slug": "framura",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11015,
+      "nome": "La Spezia",
+      "slug": "la-spezia",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11016,
+      "nome": "Lerici",
+      "slug": "lerici",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11017,
+      "nome": "Levanto",
+      "slug": "levanto",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11020,
+      "nome": "Luni",
+      "slug": "luni",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11018,
+      "nome": "Maissana",
+      "slug": "maissana",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11019,
+      "nome": "Monterosso al Mare",
+      "slug": "monterosso-al-mare",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11021,
+      "nome": "Pignone",
+      "slug": "pignone",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11022,
+      "nome": "Portovenere",
+      "slug": "portovenere",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11023,
+      "nome": "Riccò del Golfo di Spezia",
+      "slug": "ricco-del-golfo-di-spezia",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11024,
+      "nome": "Riomaggiore",
+      "slug": "riomaggiore",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11025,
+      "nome": "Rocchetta di Vara",
+      "slug": "rocchetta-di-vara",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11026,
+      "nome": "Santo Stefano di Magra",
+      "slug": "santo-stefano-di-magra",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11027,
+      "nome": "Sarzana",
+      "slug": "sarzana",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11028,
+      "nome": "Sesta Godano",
+      "slug": "sesta-godano",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11029,
+      "nome": "Varese Ligure",
+      "slug": "varese-ligure",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11030,
+      "nome": "Vernazza",
+      "slug": "vernazza",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11031,
+      "nome": "Vezzano Ligure",
+      "slug": "vezzano-ligure",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    },
+    {
+      "id": 11032,
+      "nome": "Zignago",
+      "slug": "zignago",
+      "provincia_id": 11,
+      "provincia_nome": "La Spezia",
+      "provincia_sigla": "SP",
+      "provincia_slug": "la-spezia",
+      "regione_id": 7,
+      "regione_nome": "Liguria",
+      "regione_slug": "liguria"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di La Spezia - Download gratuito",
+    "description": "Elenco dei 32 comuni della provincia di La Spezia (sigla SP), regione Liguria. List of 32 comuni in the province of La Spezia (SP), Liguria region. Contiene 32 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di La Spezia | ListBase",
+    "seo_description": "Scarica Comuni della provincia di La Spezia — 32 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 32 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,1983 @@
+{
+  "id": "it-bologna-banche",
+  "name": "Banche a Bologna — codici SWIFT/BIC",
+  "title": "Banche a Bologna — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Bologna, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 276,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "bank": "AEROPORTO GUGLIELMO MARCONI DI BOLOGNA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "AGMBIT21"
+    },
+    {
+      "id": 488,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AG. NO 340 AG BOLOGNA 2)",
+      "swift_code": "ANTBIT21340"
+    },
+    {
+      "id": 489,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AG. NO 342 AG BOLOGNA 4)",
+      "swift_code": "ANTBIT21342"
+    },
+    {
+      "id": 490,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AG. NO 343 AG BOLOGNA 5)",
+      "swift_code": "ANTBIT21343"
+    },
+    {
+      "id": 491,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AG. NO 344 AG BOLOGNA 6)",
+      "swift_code": "ANTBIT21344"
+    },
+    {
+      "id": 492,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21160"
+    },
+    {
+      "id": 493,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "ANTBIT21341"
+    },
+    {
+      "id": 494,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "ANTBIT21714"
+    },
+    {
+      "id": 495,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "ANTBIT2146B"
+    },
+    {
+      "id": 1441,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE BOLOGNA)",
+      "swift_code": "CRACIT31330"
+    },
+    {
+      "id": 1510,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(SEDE DI BOLOGNA)",
+      "swift_code": "CRGEITG1360"
+    },
+    {
+      "id": 2462,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(ASSEGNI CIRCOLARI)",
+      "swift_code": "BDBOIT21ASC"
+    },
+    {
+      "id": 2463,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA CENTRO)",
+      "swift_code": "BDBOIT21BOL"
+    },
+    {
+      "id": 2464,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(FIERA DISTRICT)",
+      "swift_code": "BDBOIT21BOF"
+    },
+    {
+      "id": 2465,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA ANDREA COSTA)",
+      "swift_code": "BDBOIT21BOA"
+    },
+    {
+      "id": 2466,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA FIORAVANTI)",
+      "swift_code": "BDBOIT21BFI"
+    },
+    {
+      "id": 2467,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA MURRI)",
+      "swift_code": "BDBOIT21BMU"
+    },
+    {
+      "id": 2468,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(MAZZINI)",
+      "swift_code": "BDBOIT21BOM"
+    },
+    {
+      "id": 2469,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(PIAZZA MAGGIORE)",
+      "swift_code": "BDBOIT21BOP"
+    },
+    {
+      "id": 2470,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(ROVERI)",
+      "swift_code": "BDBOIT21BOR"
+    },
+    {
+      "id": 2471,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(SAN RUFFILLO)",
+      "swift_code": "BDBOIT21BOS"
+    },
+    {
+      "id": 2472,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "(SANTA VIOLA)",
+      "swift_code": "BDBOIT21BGP"
+    },
+    {
+      "id": 2473,
+      "bank": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BDBOIT22"
+    },
+    {
+      "id": 3607,
+      "bank": "BANCA D'ITALIA",
+      "city": "BOLOGNA",
+      "branch": "(SEDE DI BOLOGNA)",
+      "swift_code": "BITAITR1240"
+    },
+    {
+      "id": 3756,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA)",
+      "swift_code": "EUBAITM1851"
+    },
+    {
+      "id": 3815,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BIMTITT1017"
+    },
+    {
+      "id": 4136,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(A.T EMILIA ROMAGNA)",
+      "swift_code": "PASCITMMERO"
+    },
+    {
+      "id": 4137,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 10)",
+      "swift_code": "PASCITM1013"
+    },
+    {
+      "id": 4138,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 11)",
+      "swift_code": "PASCITM1137"
+    },
+    {
+      "id": 4139,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 12)",
+      "swift_code": "PASCITM1165"
+    },
+    {
+      "id": 4140,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 13)",
+      "swift_code": "PASCITM1193"
+    },
+    {
+      "id": 4141,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 14)",
+      "swift_code": "PASCITM146B"
+    },
+    {
+      "id": 4142,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 18)",
+      "swift_code": "PASCITM1342"
+    },
+    {
+      "id": 4143,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 19)",
+      "swift_code": "PASCITM1343"
+    },
+    {
+      "id": 4144,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 20)",
+      "swift_code": "PASCITM1344"
+    },
+    {
+      "id": 4145,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 21)",
+      "swift_code": "PASCITM1714"
+    },
+    {
+      "id": 4146,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 8)",
+      "swift_code": "PASCITM1006"
+    },
+    {
+      "id": 4147,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG.15)",
+      "swift_code": "PASCITM1B14"
+    },
+    {
+      "id": 4148,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG.9)",
+      "swift_code": "PASCITM1011"
+    },
+    {
+      "id": 4149,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO1"
+    },
+    {
+      "id": 4150,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO2"
+    },
+    {
+      "id": 4151,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO3"
+    },
+    {
+      "id": 4152,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO4"
+    },
+    {
+      "id": 4153,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO5"
+    },
+    {
+      "id": 4154,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO6"
+    },
+    {
+      "id": 4155,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITM1BO7"
+    },
+    {
+      "id": 4156,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PASCITMMBOL"
+    },
+    {
+      "id": 6589,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR115Z"
+    },
+    {
+      "id": 6590,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR116Z"
+    },
+    {
+      "id": 6591,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR117Z"
+    },
+    {
+      "id": 6592,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR118Z"
+    },
+    {
+      "id": 6593,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BNLIITR119Z"
+    },
+    {
+      "id": 6594,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BNLIITR11AZ"
+    },
+    {
+      "id": 6595,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BNLIITR11BZ"
+    },
+    {
+      "id": 6596,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BNLIITR11CZ"
+    },
+    {
+      "id": 6597,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BNLIITRRBOX"
+    },
+    {
+      "id": 7645,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA)",
+      "swift_code": "BPBAIT21381"
+    },
+    {
+      "id": 8011,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 10)",
+      "swift_code": "BPMIITM1210"
+    },
+    {
+      "id": 8012,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 11)",
+      "swift_code": "BPMIITM1211"
+    },
+    {
+      "id": 8013,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 2)",
+      "swift_code": "BPMIITM1202"
+    },
+    {
+      "id": 8014,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 4)",
+      "swift_code": "BPMIITM1204"
+    },
+    {
+      "id": 8015,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 5)",
+      "swift_code": "BPMIITM1205"
+    },
+    {
+      "id": 8016,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 6)",
+      "swift_code": "BPMIITM1206"
+    },
+    {
+      "id": 8017,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 7)",
+      "swift_code": "BPMIITM1207"
+    },
+    {
+      "id": 8018,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 8)",
+      "swift_code": "BPMIITM1208"
+    },
+    {
+      "id": 8019,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - AG. 9)",
+      "swift_code": "BPMIITM1209"
+    },
+    {
+      "id": 8020,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 17)",
+      "swift_code": "BPMIITM1A30"
+    },
+    {
+      "id": 8021,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG.16)",
+      "swift_code": "BPMIITM1A29"
+    },
+    {
+      "id": 8022,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG.18)",
+      "swift_code": "BPMIITM1A31"
+    },
+    {
+      "id": 8023,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(REGIONAL FOREIGN DEPT.)",
+      "swift_code": "BPMIITMM754"
+    },
+    {
+      "id": 8024,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(SEDE DI BOLOGNA)",
+      "swift_code": "BPMIITM1201"
+    },
+    {
+      "id": 8025,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(SPORTELLO PERSONALE (BO)",
+      "swift_code": "BPMIITM1199"
+    },
+    {
+      "id": 8733,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BOLOGNA",
+      "branch": "(VIA RIVA RENO, 58/B)",
+      "swift_code": "POSOIT2115E"
+    },
+    {
+      "id": 9382,
+      "bank": "BANCA PROSSIMA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "BCITITMXB12"
+    },
+    {
+      "id": 9383,
+      "bank": "BANCA PROSSIMA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "BCITITMX895"
+    },
+    {
+      "id": 9808,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA , AGENZIA 16)",
+      "swift_code": "BAPPIT21D01"
+    },
+    {
+      "id": 9809,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 1)",
+      "swift_code": "BAPPIT21456"
+    },
+    {
+      "id": 9810,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 10)",
+      "swift_code": "BAPPIT21582"
+    },
+    {
+      "id": 9811,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 11)",
+      "swift_code": "BAPPIT21583"
+    },
+    {
+      "id": 9812,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 12)",
+      "swift_code": "BAPPIT21584"
+    },
+    {
+      "id": 9813,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 13)",
+      "swift_code": "BAPPIT21585"
+    },
+    {
+      "id": 9814,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 14)",
+      "swift_code": "BAPPIT21586"
+    },
+    {
+      "id": 9815,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 2)",
+      "swift_code": "BAPPIT21U32"
+    },
+    {
+      "id": 9816,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 3)",
+      "swift_code": "BAPPIT21U31"
+    },
+    {
+      "id": 9817,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 4)",
+      "swift_code": "BAPPIT21Q38"
+    },
+    {
+      "id": 9818,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 5)",
+      "swift_code": "BAPPIT21558"
+    },
+    {
+      "id": 9819,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 7)",
+      "swift_code": "BAPPIT21V04"
+    },
+    {
+      "id": 9820,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 8)",
+      "swift_code": "BAPPIT21580"
+    },
+    {
+      "id": 9821,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 9)",
+      "swift_code": "BAPPIT21M60"
+    },
+    {
+      "id": 9822,
+      "bank": "BANCO BPM SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA)",
+      "swift_code": "BAPPIT21455"
+    },
+    {
+      "id": 11469,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BOLOGNA",
+      "branch": "(VIA DOZZA)",
+      "swift_code": "CREBIT21120"
+    },
+    {
+      "id": 11470,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "CREBIT21077"
+    },
+    {
+      "id": 11678,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA 404)",
+      "swift_code": "BDBDITA1404"
+    },
+    {
+      "id": 11679,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA 411-SANTA VIOLA)",
+      "swift_code": "BDBDITA1411"
+    },
+    {
+      "id": 11855,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "IBSPITNAB12"
+    },
+    {
+      "id": 11856,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "IBSPITNA895"
+    },
+    {
+      "id": 11857,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC SO B O DI RETE UFF DI BO)",
+      "swift_code": "IBSPITNA212"
+    },
+    {
+      "id": 11858,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "IBSPITNA699"
+    },
+    {
+      "id": 12110,
+      "bank": "BCC FELSINEA - BANCA DI CREDITO COOPERATIVO DAL 1902 - SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1D41"
+    },
+    {
+      "id": 12162,
+      "bank": "BEST UNION COMPANY",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BEUOIT21"
+    },
+    {
+      "id": 12177,
+      "bank": "BIO-ON S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BIOOIT21"
+    },
+    {
+      "id": 12725,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "IBSPIT2FB12"
+    },
+    {
+      "id": 12726,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI )",
+      "swift_code": "IBSPIT2F895"
+    },
+    {
+      "id": 12751,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "IBSPIT2UB12"
+    },
+    {
+      "id": 12752,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "IBSPIT2U895"
+    },
+    {
+      "id": 12753,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC SO B O DI RETE UFF DI BO)",
+      "swift_code": "IBSPIT2U212"
+    },
+    {
+      "id": 12754,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "IBSPIT2U699"
+    },
+    {
+      "id": 12808,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "IBSPIT2PB12"
+    },
+    {
+      "id": 12809,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI )",
+      "swift_code": "IBSPIT2P895"
+    },
+    {
+      "id": 12810,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC SO B O DI RETE UFF DI BO)",
+      "swift_code": "IBSPIT2P212"
+    },
+    {
+      "id": 12811,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "IBSPIT2P699"
+    },
+    {
+      "id": 13250,
+      "bank": "CASSA DI RISPARMIO DI CENTO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA DUE TORRI)",
+      "swift_code": "CRCEIT21047"
+    },
+    {
+      "id": 13251,
+      "bank": "CASSA DI RISPARMIO DI CENTO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA MURRI)",
+      "swift_code": "CRCEIT21046"
+    },
+    {
+      "id": 13252,
+      "bank": "CASSA DI RISPARMIO DI CENTO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE DI BOLOGNA)",
+      "swift_code": "CRCEIT21037"
+    },
+    {
+      "id": 13316,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "CRFIIT3FB12"
+    },
+    {
+      "id": 13317,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI )",
+      "swift_code": "CRFIIT3F895"
+    },
+    {
+      "id": 13318,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "CRFIIT3F699"
+    },
+    {
+      "id": 13527,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "CRFIIT3PB12"
+    },
+    {
+      "id": 13528,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "CRFIIT3P895"
+    },
+    {
+      "id": 13529,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC SO B O DI RETE UFF DI BO)",
+      "swift_code": "CRFIIT3P212"
+    },
+    {
+      "id": 13530,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "BOLOGNA",
+      "branch": "(UFF GESTIONE CASH G CONT)",
+      "swift_code": "CRFIIT3P699"
+    },
+    {
+      "id": 13675,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - VIA F. RIZZOLI 5)",
+      "swift_code": "IBSPIT2B572"
+    },
+    {
+      "id": 13676,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - VIA L. SPADA 1/A)",
+      "swift_code": "IBSPIT2B564"
+    },
+    {
+      "id": 13677,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA - VIALE A. MORO 60 - 60/A)",
+      "swift_code": "IBSPIT2B571"
+    },
+    {
+      "id": 13678,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "IBSPIT2BB12"
+    },
+    {
+      "id": 13679,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "IBSPIT2B895"
+    },
+    {
+      "id": 13680,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE IMPRESE BOLOGNA CITTA')",
+      "swift_code": "IBSPIT2BBOL"
+    },
+    {
+      "id": 13681,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE IMPRESE BOLOGNA EST)",
+      "swift_code": "IBSPIT2B256"
+    },
+    {
+      "id": 13682,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE IMPRESE BOLOGNA RIZZOLI)",
+      "swift_code": "IBSPIT2B630"
+    },
+    {
+      "id": 13683,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(FOREIGN EXCHANGE DEPT.)",
+      "swift_code": "IBSPIT2BFXD"
+    },
+    {
+      "id": 13684,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "IBSPIT2B"
+    },
+    {
+      "id": 13685,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "(NOSTRO RECONCILIATION DEPT)",
+      "swift_code": "IBSPIT2BREC"
+    },
+    {
+      "id": 13686,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "IBSPIT2B699"
+    },
+    {
+      "id": 14236,
+      "bank": "COFITER CONFIDI TERZIARIO EMILIA ROMAGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "CCZEIT21"
+    },
+    {
+      "id": 14320,
+      "bank": "COMUNE DI BOLOGNA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "CMLOIT21"
+    },
+    {
+      "id": 15313,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG. 5)",
+      "swift_code": "BACRIT21728"
+    },
+    {
+      "id": 15314,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AG.6)",
+      "swift_code": "BACRIT21729"
+    },
+    {
+      "id": 15315,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AGENZIA 4)",
+      "swift_code": "BACRIT21396"
+    },
+    {
+      "id": 15571,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21328"
+    },
+    {
+      "id": 15572,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21381"
+    },
+    {
+      "id": 15573,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "BOLOGNA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22BOL"
+    },
+    {
+      "id": 16117,
+      "bank": "CRIF S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "CFFFIT21"
+    },
+    {
+      "id": 16162,
+      "bank": "DETTO FACTOR SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "DEOAIT21"
+    },
+    {
+      "id": 16199,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1251"
+    },
+    {
+      "id": 16200,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1253"
+    },
+    {
+      "id": 16201,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(AG.D)",
+      "swift_code": "DEUTITM1254"
+    },
+    {
+      "id": 16202,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "(SPORTELLO E DI BOLOGNA)",
+      "swift_code": "DEUTITM1249"
+    },
+    {
+      "id": 16203,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "DEUTITM1250"
+    },
+    {
+      "id": 16561,
+      "bank": "DUCATI MOTOR HOLDING S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "DUMHIT21"
+    },
+    {
+      "id": 16611,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE ARCOVEGGIO)",
+      "swift_code": "ICRAITR1TSY"
+    },
+    {
+      "id": 16612,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE BORGO PANIGALE)",
+      "swift_code": "ICRAITR1TS1"
+    },
+    {
+      "id": 16613,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE MAZINI)",
+      "swift_code": "ICRAITR1TSM"
+    },
+    {
+      "id": 16614,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE PIAZZA MAGGIORE)",
+      "swift_code": "ICRAITR1TSN"
+    },
+    {
+      "id": 16615,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE PILASTRO)",
+      "swift_code": "ICRAITR1TSX"
+    },
+    {
+      "id": 16616,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE SAN DONATO)",
+      "swift_code": "ICRAITR1TSW"
+    },
+    {
+      "id": 16617,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE SAN LORENZO)",
+      "swift_code": "ICRAITR1TSV"
+    },
+    {
+      "id": 16618,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE SAN RUFFILLO)",
+      "swift_code": "ICRAITR1TS2"
+    },
+    {
+      "id": 16619,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE ZANARDI)",
+      "swift_code": "ICRAITR1TS3"
+    },
+    {
+      "id": 16620,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(SEDE ADMINISTRATIVA)",
+      "swift_code": "ICRAITR1TSU"
+    },
+    {
+      "id": 16621,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "BOLOGNA",
+      "branch": "(SEDE LEGALE)",
+      "swift_code": "ICRAITRRTS0"
+    },
+    {
+      "id": 16656,
+      "bank": "EMILRO COLLECTION SERVICES S.R.L.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "ECSSIT21"
+    },
+    {
+      "id": 16757,
+      "bank": "FARBANCA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FARBIT21"
+    },
+    {
+      "id": 16758,
+      "bank": "FARBANCA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FARBIT22"
+    },
+    {
+      "id": 16779,
+      "bank": "FERRARINI S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FERNIT21"
+    },
+    {
+      "id": 16793,
+      "bank": "FIDEURAM INTESA SANPAOLO PRIVATE BANKING",
+      "city": "BOLOGNA",
+      "branch": "(DC OP PAY PROC FL REM IT BO)",
+      "swift_code": "FIBKITMMB12"
+    },
+    {
+      "id": 16794,
+      "bank": "FIDEURAM INTESA SANPAOLO PRIVATE BANKING",
+      "city": "BOLOGNA",
+      "branch": "(P.E BOLOGNA)",
+      "swift_code": "FIBKITM1081"
+    },
+    {
+      "id": 16809,
+      "bank": "FILIPPO FOCHI SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FIHCIT21"
+    },
+    {
+      "id": 16833,
+      "bank": "FINEMIRO BANCA S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FIEOIT21"
+    },
+    {
+      "id": 16871,
+      "bank": "FONDO ROLOFOND",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "FOROIT21"
+    },
+    {
+      "id": 16969,
+      "bank": "GRECALE ABS S.R.L.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "GRBSIT21"
+    },
+    {
+      "id": 16970,
+      "bank": "GRECALE RMBS 2011 SRL",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "GRRLIT21"
+    },
+    {
+      "id": 16971,
+      "bank": "GRECALE RMBS 2015 S.R.L.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "GRMSIT21"
+    },
+    {
+      "id": 17000,
+      "bank": "HERA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "HRRAIT21"
+    },
+    {
+      "id": 17009,
+      "bank": "HORIZON SPV S.R.L.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "HOPSIT21"
+    },
+    {
+      "id": 17013,
+      "bank": "HPS SPA HOLDING DI PARTECIPAZIONE E SVILUPPO",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "HHPEIT21"
+    },
+    {
+      "id": 17162,
+      "bank": "INTESA SANPAOLO PRIVATE BANKING SPA",
+      "city": "BOLOGNA",
+      "branch": "(CD OP PAYM PROCESSING BOLOGNA)",
+      "swift_code": "BCITITM3895"
+    },
+    {
+      "id": 17163,
+      "bank": "INTESA SANPAOLO PRIVATE BANKING SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP PAY PROC FL REM IT BO)",
+      "swift_code": "BCITITM3B12"
+    },
+    {
+      "id": 17164,
+      "bank": "INTESA SANPAOLO PRIVATE BANKING SPA",
+      "city": "BOLOGNA",
+      "branch": "(UFF GESTIONE CASH G CONT)",
+      "swift_code": "BCITITM3699"
+    },
+    {
+      "id": 17209,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLOGNA",
+      "branch": "(BACK OFFICE DI RETE - POLO DI BOLOGNA (8012))",
+      "swift_code": "BCITITMM212"
+    },
+    {
+      "id": 17210,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE DOMESTICI)",
+      "swift_code": "BCITITMMB12"
+    },
+    {
+      "id": 17211,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLOGNA",
+      "branch": "(DC OP FLUSSI REMOTE ESTERI)",
+      "swift_code": "BCITITMM895"
+    },
+    {
+      "id": 17212,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLOGNA",
+      "branch": "(H.O. BACK OFFICE - VIA FRANCESCO RIZZOLI 5)",
+      "swift_code": "BCITITMM956"
+    },
+    {
+      "id": 17213,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BOLOGNA",
+      "branch": "(UFF GESTIONE CASH G.CONT)",
+      "swift_code": "BCITITMMK69"
+    },
+    {
+      "id": 17752,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BPVIIT21226"
+    },
+    {
+      "id": 18742,
+      "bank": "MONRIF SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "MORFIT21"
+    },
+    {
+      "id": 18806,
+      "bank": "NOEMALIFE SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "NOEMIT21"
+    },
+    {
+      "id": 18830,
+      "bank": "OIB OPEN INNOVATION AND BUSINESS SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "OOIBIT21"
+    },
+    {
+      "id": 18914,
+      "bank": "PLUSVALORE SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "PLULIT21"
+    },
+    {
+      "id": 18920,
+      "bank": "POLIGRAFICI EDITORIALE S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "POLGIT21"
+    },
+    {
+      "id": 18921,
+      "bank": "POLIGRAFICI PRINTING SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "POPGIT21"
+    },
+    {
+      "id": 18966,
+      "bank": "PROVINCIA DI BOLOGNA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "POOBIT21"
+    },
+    {
+      "id": 19244,
+      "bank": "REGIONE EMILIA ROMAGNA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "REERIT21"
+    },
+    {
+      "id": 19343,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "BOLOGNA",
+      "branch": "(SUCCURSALE DI BOLOGNA)",
+      "swift_code": "SFSPIT21013"
+    },
+    {
+      "id": 19495,
+      "bank": "SIMGEST S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "SIGGIT21"
+    },
+    {
+      "id": 19510,
+      "bank": "SME GRECALE SRL",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "SMGRIT21"
+    },
+    {
+      "id": 19547,
+      "bank": "SOLUTION GROUP SRL",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "SOULIT21"
+    },
+    {
+      "id": 19688,
+      "bank": "THESAURUM SIM S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "THSIIT21"
+    },
+    {
+      "id": 19830,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH 2)",
+      "swift_code": "BAMAIT31170"
+    },
+    {
+      "id": 19831,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH N. 4)",
+      "swift_code": "BAMAIT3A183"
+    },
+    {
+      "id": 19832,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH N.3)",
+      "swift_code": "BAMAIT31185"
+    },
+    {
+      "id": 19833,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BRANCH 1)",
+      "swift_code": "BAMAIT31150"
+    },
+    {
+      "id": 19834,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BAMAIT3A288"
+    },
+    {
+      "id": 20159,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AGENZIA 2)",
+      "swift_code": "ARBAIT33199"
+    },
+    {
+      "id": 20160,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH 3)",
+      "swift_code": "ARBAIT33202"
+    },
+    {
+      "id": 20161,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH 4)",
+      "swift_code": "ARBAIT33208"
+    },
+    {
+      "id": 20162,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(CASALECCHIO RENO BRANCH)",
+      "swift_code": "ARBAIT33201"
+    },
+    {
+      "id": 20163,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(SEDE)",
+      "swift_code": "ARBAIT33188"
+    },
+    {
+      "id": 21490,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA DI BOLOGNA MALPIGHI)",
+      "swift_code": "POCIITM1164"
+    },
+    {
+      "id": 21491,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(AGENZIA DI BOLOGNA VIA MURRI)",
+      "swift_code": "POCIITM1177"
+    },
+    {
+      "id": 21492,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(FIL. BOLOGNA - ERCOLANI)",
+      "swift_code": "POCIITM1132"
+    },
+    {
+      "id": 21493,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "BOLOGNA",
+      "branch": "(FIL. BOLOGNA - LOMBARDIA)",
+      "swift_code": "POCIITM1B34"
+    },
+    {
+      "id": 22851,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "( FOREIGN TRADE MANAGEMENT)",
+      "swift_code": "UNCRITM1BOJ"
+    },
+    {
+      "id": 22852,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA ALDROVANDI)",
+      "swift_code": "UNCRITM1PM7"
+    },
+    {
+      "id": 22853,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA ANDREA COSTA)",
+      "swift_code": "UNCRITM1MO5"
+    },
+    {
+      "id": 22854,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA AZZARITA)",
+      "swift_code": "UNCRITM1OM7"
+    },
+    {
+      "id": 22855,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BARCA)",
+      "swift_code": "UNCRITM1PM6"
+    },
+    {
+      "id": 22856,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BELMELORO)",
+      "swift_code": "UNCRITM1PQ7"
+    },
+    {
+      "id": 22857,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BENTINI)",
+      "swift_code": "UNCRITM1PN2"
+    },
+    {
+      "id": 22858,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BORGO PANIGALE A)",
+      "swift_code": "UNCRITM1026"
+    },
+    {
+      "id": 22859,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BORGO PANIGALE B)",
+      "swift_code": "UNCRITM1MT5"
+    },
+    {
+      "id": 22860,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA DAGNINI)",
+      "swift_code": "UNCRITM1MP4"
+    },
+    {
+      "id": 22861,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA DANTE)",
+      "swift_code": "UNCRITM1PM5"
+    },
+    {
+      "id": 22862,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA DON STURZO)",
+      "swift_code": "UNCRITM1MS0"
+    },
+    {
+      "id": 22863,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA EMILIA PONENTE A)",
+      "swift_code": "UNCRITM1022"
+    },
+    {
+      "id": 22864,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA EMILIA PONENTE B)",
+      "swift_code": "UNCRITM1PM9"
+    },
+    {
+      "id": 22865,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA EMILIA PONENTE C)",
+      "swift_code": "UNCRITM1MQ0"
+    },
+    {
+      "id": 22866,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA EMILIA PONENTE)",
+      "swift_code": "UNCRITM1Y71"
+    },
+    {
+      "id": 22867,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA EST)",
+      "swift_code": "UNCRITM1BOY"
+    },
+    {
+      "id": 22868,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA GAGARIN)",
+      "swift_code": "UNCRITM1PN3"
+    },
+    {
+      "id": 22869,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA GALVANI)",
+      "swift_code": "UNCRITM1MP3"
+    },
+    {
+      "id": 22870,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA INDIPENDENZA)",
+      "swift_code": "UNCRITM1Y68"
+    },
+    {
+      "id": 22871,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA IRNERIO)",
+      "swift_code": "UNCRITM1NP5"
+    },
+    {
+      "id": 22872,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MARCONI)",
+      "swift_code": "UNCRITM1MM5"
+    },
+    {
+      "id": 22873,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MASSARENTI C)",
+      "swift_code": "UNCRITM1MP1"
+    },
+    {
+      "id": 22874,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MASSARENTI D)",
+      "swift_code": "UNCRITM1PM8"
+    },
+    {
+      "id": 22875,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MATTEI)",
+      "swift_code": "UNCRITM1MP8"
+    },
+    {
+      "id": 22876,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MATTEOTTI)",
+      "swift_code": "UNCRITM1PN4"
+    },
+    {
+      "id": 22877,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MAZZINI)",
+      "swift_code": "UNCRITM1ON5"
+    },
+    {
+      "id": 22878,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MONTEGRAPPA)",
+      "swift_code": "UNCRITM1Y76"
+    },
+    {
+      "id": 22879,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MURRI A)",
+      "swift_code": "UNCRITM1MO8"
+    },
+    {
+      "id": 22880,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA MURRI B)",
+      "swift_code": "UNCRITM1PM1"
+    },
+    {
+      "id": 22881,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA OSPEDALE BELLARIA)",
+      "swift_code": "UNCRITM1Z39"
+    },
+    {
+      "id": 22882,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA PARMEGGIANI)",
+      "swift_code": "UNCRITM1MN3"
+    },
+    {
+      "id": 22883,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA PIAZZA TRENTO E TRIESTE)",
+      "swift_code": "UNCRITM1MN6"
+    },
+    {
+      "id": 22884,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA PUPILLI)",
+      "swift_code": "UNCRITM1PQ6"
+    },
+    {
+      "id": 22885,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA S. STEFANO)",
+      "swift_code": "UNCRITM1Y69"
+    },
+    {
+      "id": 22886,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA S.DONATO A)",
+      "swift_code": "UNCRITM1MO2"
+    },
+    {
+      "id": 22887,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA S.MAMOLO)",
+      "swift_code": "UNCRITM1NT4"
+    },
+    {
+      "id": 22888,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA SAFFI)",
+      "swift_code": "UNCRITM1MN9"
+    },
+    {
+      "id": 22889,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA SALVINI)",
+      "swift_code": "UNCRITM1PM4"
+    },
+    {
+      "id": 22890,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA TRAUZZI)",
+      "swift_code": "UNCRITM1MR9"
+    },
+    {
+      "id": 22891,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA UGO BASSI)",
+      "swift_code": "UNCRITM1BA2"
+    },
+    {
+      "id": 22892,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA BELLARIA A)",
+      "swift_code": "UNCRITM1024"
+    },
+    {
+      "id": 22893,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA BELLARIA B)",
+      "swift_code": "UNCRITM1PN1"
+    },
+    {
+      "id": 22894,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA FERRARESE)",
+      "swift_code": "UNCRITM1MQ5"
+    },
+    {
+      "id": 22895,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA RIZZOLI)",
+      "swift_code": "UNCRITM1OM0"
+    },
+    {
+      "id": 22896,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA STALINGRADO)",
+      "swift_code": "UNCRITM1MP5"
+    },
+    {
+      "id": 22897,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA TOSCANA)",
+      "swift_code": "UNCRITM1MT0"
+    },
+    {
+      "id": 22898,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(ESTERO MERCI BOLOGNA)",
+      "swift_code": "UNCRITMMBOE"
+    },
+    {
+      "id": 22899,
+      "bank": "UNICREDIT SPA",
+      "city": "BOLOGNA",
+      "branch": "(FILIALE OPERATIVA EMILIA EST)",
+      "swift_code": "UNCRITMMOEE"
+    },
+    {
+      "id": 25893,
+      "bank": "UNIPOL ASSICURAZIONI SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "UNAUITB1"
+    },
+    {
+      "id": 25912,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA 329 BRANCH)",
+      "swift_code": "BAECIT21329"
+    },
+    {
+      "id": 25913,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BENTINI BRANCH)",
+      "swift_code": "BAECIT21020"
+    },
+    {
+      "id": 25914,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH)",
+      "swift_code": "BAECIT21014"
+    },
+    {
+      "id": 25915,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH)",
+      "swift_code": "BAECIT21015"
+    },
+    {
+      "id": 25916,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH)",
+      "swift_code": "BAECIT21032"
+    },
+    {
+      "id": 25917,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA BRANCH)",
+      "swift_code": "BAECIT21061"
+    },
+    {
+      "id": 25918,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIA MARCONO BRANCH)",
+      "swift_code": "BAECIT21240"
+    },
+    {
+      "id": 25919,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA VIRTUALE BRANCH)",
+      "swift_code": "BAECIT21499"
+    },
+    {
+      "id": 25920,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "(BOLOGNA)",
+      "swift_code": "BAECIT21355"
+    },
+    {
+      "id": 25921,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BAECIT21001"
+    },
+    {
+      "id": 25922,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BAECIT2B"
+    },
+    {
+      "id": 25923,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "BAECIT2BASS"
+    },
+    {
+      "id": 26173,
+      "bank": "UNIPOL GRUPPO FINANZIARIO S.P.A.",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "UNGNIT21"
+    },
+    {
+      "id": 26174,
+      "bank": "UNIPOL MERCHANT SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "UMRCIT21"
+    },
+    {
+      "id": 26192,
+      "bank": "VALSOIA SPA",
+      "city": "BOLOGNA",
+      "branch": "",
+      "swift_code": "VALSIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Bologna — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Bologna, Italy Contiene 276 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Bologna — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Bologna — codici SWIFT/BIC — 276 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 276 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"292","Cagliari","cagliari","CA","true","20","Sardegna","sardegna","17"
+"91","Nuoro","nuoro","NU","false","20","Sardegna","sardegna","74"
+"95","Oristano","oristano","OR","false","20","Sardegna","sardegna","87"
+"90","Sassari","sassari","SS","false","20","Sardegna","sardegna","92"
+"111","Sud Sardegna","sud-sardegna","SU","false","20","Sardegna","sardegna","107"

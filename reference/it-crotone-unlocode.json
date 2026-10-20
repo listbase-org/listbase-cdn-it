@@ -1,0 +1,380 @@
+{
+  "id": "it-crotone-unlocode",
+  "name": "Codici UN/LOCODE — provincia di Crotone (KR)",
+  "title": "Codici UN/LOCODE — provincia di Crotone (KR)",
+  "description": "Codici UN/LOCODE della provincia di Crotone (KR), regione Calabria: 8 località con codice LOCODE, nome (con e senza segni diacritici), classificatori di funzione (porto marittimo, ferrovia, strada, aeroporto, posta, multimodale), stato di approvazione, codice IATA e coordinate. UN/LOCODE entries for the province of Crotone (KR), Calabria region — 8 locations, derived from the UNECE United Nations Code for Trade and Transport Locations. Province assignment is taken verbatim from UN/LOCODE's own Subdivision column (the Italian provincia sigla); no geographic inference was applied.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 35,
+      "locode": "IT3CA",
+      "country": "IT",
+      "location": "3CA",
+      "name": "Casabona",
+      "name_wo_diacritics": "Casabona",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3915N 01657E",
+      "latitude": 39.25,
+      "longitude": 16.95,
+      "date_updated": "2021-07",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 2,
+      "parent_index": 201,
+      "locode": "ITAIC",
+      "country": "IT",
+      "location": "AIC",
+      "name": "Papanice",
+      "name_wo_diacritics": "Papanice",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3904N 01701E",
+      "latitude": 39.0667,
+      "longitude": 17.0167,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 3,
+      "parent_index": 518,
+      "locode": "ITBEE",
+      "country": "IT",
+      "location": "BEE",
+      "name": "Belvedere di Spinello",
+      "name_wo_diacritics": "Belvedere di Spinello",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3912N 01653E",
+      "latitude": 39.2,
+      "longitude": 16.8833,
+      "date_updated": "2023-01",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 4,
+      "parent_index": 2554,
+      "locode": "ITME6",
+      "country": "IT",
+      "location": "ME6",
+      "name": "Melissa",
+      "name_wo_diacritics": "Melissa",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3918N 01701E",
+      "latitude": 39.3,
+      "longitude": 17.0167,
+      "date_updated": "2023-07",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 5,
+      "parent_index": 2755,
+      "locode": "ITMRM",
+      "country": "IT",
+      "location": "MRM",
+      "name": "Cirò Marina",
+      "name_wo_diacritics": "Ciro Marina",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "AA",
+      "status_description": "Approved by competent national government agency",
+      "function": "123-----",
+      "functions": "Maritime transport (sea port), Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "3922N 01708E",
+      "latitude": 39.3667,
+      "longitude": 17.1333,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 6,
+      "parent_index": 3067,
+      "locode": "ITOEC",
+      "country": "IT",
+      "location": "OEC",
+      "name": "Rocca di Neto",
+      "name_wo_diacritics": "Rocca di Neto",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "3911N 01700E",
+      "latitude": 39.1833,
+      "longitude": 17,
+      "date_updated": "2018-01",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 7,
+      "parent_index": 5210,
+      "locode": "ITZ4E",
+      "country": "IT",
+      "location": "Z4E",
+      "name": "Strongoli",
+      "name_wo_diacritics": "Strongoli",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3916N 01703E",
+      "latitude": 39.2667,
+      "longitude": 17.05,
+      "date_updated": "2014-07",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 8,
+      "parent_index": 5789,
+      "locode": "ITZZC",
+      "country": "IT",
+      "location": "ZZC",
+      "name": "Crucoli",
+      "name_wo_diacritics": "Crucoli",
+      "subdivision_code": "KR",
+      "subdivision_name": "Crotone",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "3925N 01700E",
+      "latitude": 39.4167,
+      "longitude": 17,
+      "date_updated": "2009-07",
+      "remarks": "",
+      "provincia_sigla": "KR",
+      "provincia_nome": "Crotone",
+      "provincia_slug": "crotone",
+      "citta_metropolitana": false,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    }
+  ],
+  "meta": {
+    "title": "Codici UN/LOCODE — provincia di Crotone (KR) - Download gratuito",
+    "description": "Codici UN/LOCODE della provincia di Crotone (KR), regione Calabria: 8 località con codice LOCODE, nome (con e senza segni diacritici), classificatori di funzione (porto marittimo, ferrovia, strada, aeroporto, posta, multimodale), stato di approvazione, codice IATA e coordinate. UN/LOCODE entries for the province of Crotone (KR), Calabria region — 8 locations, derived from the UNECE United Nations Code for Trade and Transport Locations. Province assignment is taken verbatim from UN/LOCODE's own Subdivision column (the Italian provincia sigla); no geographic inference was applied. Contiene 8 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Codici UN/LOCODE — provincia di Crotone (KR) | ListBase",
+    "seo_description": "Scarica Codici UN/LOCODE — provincia di Crotone (KR) — 8 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 record / 26 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,5245 @@
+{
+  "id": "it-laghi",
+  "name": "Laghi in Italia",
+  "title": "Laghi in Italia",
+  "description": "Elenco dei laghi in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 576,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q34797806",
+      "name_it": "",
+      "name_en": "Alimini Piccolo",
+      "latitude": 40.17245,
+      "longitude": 18.44939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34797806"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q98803977",
+      "name_it": "Bacino del Truzzo",
+      "name_en": "Bacino del Truzzo",
+      "latitude": 46.362658,
+      "longitude": 9.317886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98803977"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3632560",
+      "name_it": "bacino della Standiana",
+      "name_en": "Standiana Basin",
+      "latitude": 44.3381,
+      "longitude": 12.2516,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632560"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3632563",
+      "name_it": "bacino di Pavana",
+      "name_en": "Bacino di Pavana",
+      "latitude": 44.118421,
+      "longitude": 11.003634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3632563"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q34354520",
+      "name_it": "Categoria:Lago Laceno",
+      "name_en": "Lago Laceno",
+      "latitude": 40.806664,
+      "longitude": 15.096428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34354520"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q35695415",
+      "name_it": "",
+      "name_en": "Eisbruggsee",
+      "latitude": 46.94095,
+      "longitude": 11.72928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35695415"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q111675720",
+      "name_it": "",
+      "name_en": "Fineilsee",
+      "latitude": 46.762363,
+      "longitude": 10.812955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111675720"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q122310154",
+      "name_it": "Gorgo Alto",
+      "name_en": "Gorgo Alto",
+      "latitude": 37.6125,
+      "longitude": 12.6494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122310154"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q122310156",
+      "name_it": "Gorgo Basso",
+      "name_en": "Gorgo Basso",
+      "latitude": 37.6093,
+      "longitude": 12.6551,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122310156"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q122310155",
+      "name_it": "Gorgo Medio",
+      "name_en": "Gorgo Medio",
+      "latitude": 37.6113,
+      "longitude": 12.6511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122310155"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1541865",
+      "name_it": "",
+      "name_en": "Grafsee",
+      "latitude": 46.973889,
+      "longitude": 11.546111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1541865"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1548794",
+      "name_it": "",
+      "name_en": "Großer Montiggler See",
+      "latitude": 46.423378,
+      "longitude": 11.290319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548794"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1552343",
+      "name_it": "",
+      "name_en": "Grünsee",
+      "latitude": 46.964444,
+      "longitude": 11.282778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1552343"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1484955",
+      "name_it": "",
+      "name_en": "Hatzlacke",
+      "latitude": 46.969444,
+      "longitude": 11.543611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1484955"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q72694832",
+      "name_it": "I Laghetti Fioriti",
+      "name_en": "I Laghetti Fioriti",
+      "latitude": 45.363135,
+      "longitude": 10.731614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72694832"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1746649",
+      "name_it": "",
+      "name_en": "Kleiner Montiggler See",
+      "latitude": 46.429694,
+      "longitude": 11.296005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1746649"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q28105859",
+      "name_it": "Kummersee",
+      "name_en": "Kummersee",
+      "latitude": 46.857367,
+      "longitude": 11.154137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28105859"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q120647920",
+      "name_it": "",
+      "name_en": "Lac de Barme supérieur",
+      "latitude": 45.64479,
+      "longitude": 7.92871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120647920"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q48812815",
+      "name_it": "Lac du Vuert",
+      "name_en": "Lac du Vuert",
+      "latitude": 45.543259,
+      "longitude": 7.005599,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48812815"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q130152091",
+      "name_it": "Lagabis",
+      "name_en": "Lagabis",
+      "latitude": 45.94981,
+      "longitude": 11.02145,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130152091"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q130080533",
+      "name_it": "Laghestel",
+      "name_en": "Laghestel",
+      "latitude": 46.114767,
+      "longitude": 11.225455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130080533"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3825598",
+      "name_it": "Laghetti delle Mucille",
+      "name_en": "Ponds of the Mucille",
+      "latitude": 45.821,
+      "longitude": 13.5256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825598"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q105822244",
+      "name_it": "laghetti di Cà Baldo",
+      "name_en": "",
+      "latitude": 43.873444,
+      "longitude": 12.730694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105822244"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3825552",
+      "name_it": "Laghetti di Ponteranica",
+      "name_en": "Laghetti di Ponteranica",
+      "latitude": 46.023611,
+      "longitude": 9.593611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825552"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q3825553",
+      "name_it": "Laghetti di Timau",
+      "name_en": "",
+      "latitude": 46.586,
+      "longitude": 12.989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825553"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q115682932",
+      "name_it": "",
+      "name_en": "Laghetto alpe Cova",
+      "latitude": 45.943066,
+      "longitude": 9.417221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115682932"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q77568058",
+      "name_it": "laghetto Cicogna",
+      "name_en": "Laghetto Cicogna",
+      "latitude": 45.86531,
+      "longitude": 8.86231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q77568058"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q65463703",
+      "name_it": "laghetto collinare di Magisano",
+      "name_en": "Magisano lake",
+      "latitude": 39.034025,
+      "longitude": 16.616406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65463703"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q134567217",
+      "name_it": "",
+      "name_en": "Laghetto del Parco della Vettabbia",
+      "latitude": 45.423098,
+      "longitude": 9.225858,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134567217"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q97173674",
+      "name_it": "Laghetto del Pellicone",
+      "name_en": "",
+      "latitude": 42.42472,
+      "longitude": 11.635319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97173674"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q115683038",
+      "name_it": "",
+      "name_en": "Laghetto del Pertús",
+      "latitude": 45.810367,
+      "longitude": 9.493147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115683038"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q3825568",
+      "name_it": "laghetto delle Conche",
+      "name_en": "laghetto delle Conche",
+      "latitude": 42.838889,
+      "longitude": 10.423333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825568"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q113992907",
+      "name_it": "laghetto Di Aggius",
+      "name_en": "",
+      "latitude": 40.927863,
+      "longitude": 9.058585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113992907"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q96588932",
+      "name_it": "laghetto di Artesso",
+      "name_en": "Laghetto di Artesso",
+      "latitude": 46.096398,
+      "longitude": 9.343155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96588932"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q3825561",
+      "name_it": "Laghetto di Brinzio",
+      "name_en": "Lake of Brinzio",
+      "latitude": 45.88553,
+      "longitude": 8.79419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825561"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q112842723",
+      "name_it": "laghetto di Forcella Quarazza",
+      "name_en": "Forcella Quarazza lake",
+      "latitude": 46.1296,
+      "longitude": 11.57542,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112842723"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q130152927",
+      "name_it": "laghetto di Marco maggiore",
+      "name_en": "laghetto di Marco maggiore",
+      "latitude": 45.854681,
+      "longitude": 11.014422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130152927"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q130152993",
+      "name_it": "laghetto di Marco minore",
+      "name_en": "laghetto di Marco minore",
+      "latitude": 45.85558,
+      "longitude": 11.018029,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130152993"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q3825569",
+      "name_it": "laghetto di Ponte Subiolo",
+      "name_en": "Laghetto di Ponte Subiolo",
+      "latitude": 45.871359,
+      "longitude": 11.668319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825569"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q130320862",
+      "name_it": "Laghetto di Restel",
+      "name_en": "Laghetto di Restel",
+      "latitude": 46.088814,
+      "longitude": 11.244298,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130320862"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q3825570",
+      "name_it": "laghetto di Sassi Neri",
+      "name_en": "laghetto di Sassi Neri",
+      "latitude": 42.7375,
+      "longitude": 10.425833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825570"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3825574",
+      "name_it": "laghetto di Terra Nera",
+      "name_en": "laghetto di Terra Nera",
+      "latitude": 42.774167,
+      "longitude": 10.42,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825574"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q124172078",
+      "name_it": "laghetto Gflierer",
+      "name_en": "Gfliererweiher",
+      "latitude": 46.527158,
+      "longitude": 11.520526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124172078"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q108422346",
+      "name_it": "laghetto giapponese",
+      "name_en": "Japanese Pond",
+      "latitude": 45.98203,
+      "longitude": 9.25584,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108422346"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q106915579",
+      "name_it": "Laghetto Granieri",
+      "name_en": "Laghetto Granieri",
+      "latitude": 41.469302,
+      "longitude": 12.700427,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106915579"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q124172043",
+      "name_it": "laghetto Huber",
+      "name_en": "Huberweiher",
+      "latitude": 46.52246,
+      "longitude": 11.5276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124172043"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q130316011",
+      "name_it": "laghetto Monte Rover",
+      "name_en": "laghetto Monte Rover",
+      "latitude": 45.95773,
+      "longitude": 11.29581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130316011"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q115682426",
+      "name_it": "Laghetto Moto Guzzi",
+      "name_en": "Laghetto Moto Guzzi",
+      "latitude": 45.900464,
+      "longitude": 9.367743,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115682426"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3825555",
+      "name_it": "laghetto Pelas",
+      "name_en": "",
+      "latitude": 46.3267,
+      "longitude": 13.1421,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825555"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q105721101",
+      "name_it": "laghetto Quattrocchi",
+      "name_en": "",
+      "latitude": 37.932864,
+      "longitude": 14.706183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105721101"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q98668831",
+      "name_it": "Laghetto sotterraneo del Museo Civico \"la Città Sotterranea\"",
+      "name_en": "",
+      "latitude": 43.015911,
+      "longitude": 11.9493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98668831"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q113992929",
+      "name_it": "laghetto Sulfner",
+      "name_en": "",
+      "latitude": 46.649112,
+      "longitude": 11.213326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113992929"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q3825556",
+      "name_it": "Laghetto Traversari",
+      "name_en": "Laghetto Traversari",
+      "latitude": 43.807222,
+      "longitude": 11.819444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825556"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q124913653",
+      "name_it": "Laghetto Vorbichl",
+      "name_en": "Vorbichl Lake",
+      "latitude": 46.555793,
+      "longitude": 11.190854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124913653"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3825577",
+      "name_it": "Laghi Aver",
+      "name_en": "",
+      "latitude": 44.200223,
+      "longitude": 7.188599,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825577"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q55378274",
+      "name_it": "Laghi Clot Foiron",
+      "name_en": "Laghi Clot Foiron",
+      "latitude": 44.911983,
+      "longitude": 6.787457,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55378274"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q917585",
+      "name_it": "Laghi del Gorzente",
+      "name_en": "Laghi del Gorzente",
+      "latitude": 44.550556,
+      "longitude": 8.821667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q917585"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q107973740",
+      "name_it": "Laghi dell'Autaret",
+      "name_en": "Laghi dell'Autaret",
+      "latitude": 45.238669,
+      "longitude": 7.116739,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107973740"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3825593",
+      "name_it": "Laghi della Cerviera",
+      "name_en": "Laghi della Cerviera",
+      "latitude": 46.0472,
+      "longitude": 10.0619,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825593"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q3825596",
+      "name_it": "Laghi della Paur",
+      "name_en": "Laghi della Paur",
+      "latitude": 44.21693,
+      "longitude": 7.19863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825596"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q28671062",
+      "name_it": "laghi di Bagno",
+      "name_en": "",
+      "latitude": 42.306866,
+      "longitude": 13.444259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28671062"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q60227918",
+      "name_it": "Laghi di Bruffione",
+      "name_en": "Laghi di Bruffione",
+      "latitude": 45.904111,
+      "longitude": 10.496278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60227918"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q3825600",
+      "name_it": "laghi di Caldirolo",
+      "name_en": "",
+      "latitude": 46.0472,
+      "longitude": 9.81417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825600"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q3825599",
+      "name_it": "laghi di Cardeto",
+      "name_en": "",
+      "latitude": 46,
+      "longitude": 9.54,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825599"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q134613465",
+      "name_it": "Laghi di Corno Stella",
+      "name_en": "",
+      "latitude": 46.049951,
+      "longitude": 9.803817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134613465"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q3825606",
+      "name_it": "laghi di Porcile",
+      "name_en": "laghi di Porcile",
+      "latitude": 46.063622,
+      "longitude": 9.732606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825606"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q3825605",
+      "name_it": "laghi di Revine Lago",
+      "name_en": "Lakes of Revine Lago",
+      "latitude": 45.990194,
+      "longitude": 12.236323,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825605"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3825585",
+      "name_it": "Laghi Gemelli",
+      "name_en": "Laghi Gemelli",
+      "latitude": 45.987222,
+      "longitude": 9.807222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825585"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q10640527",
+      "name_it": "Laghi Soi",
+      "name_en": "Laghisoi",
+      "latitude": 45.95537,
+      "longitude": 10.81546,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10640527"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q97621247",
+      "name_it": "Laghisol",
+      "name_en": "Laghisol",
+      "latitude": 45.97734,
+      "longitude": 10.93156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97621247"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q65955411",
+      "name_it": "lago Acquapartita",
+      "name_en": "lake Acquapartita",
+      "latitude": 43.863808,
+      "longitude": 12.025283,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65955411"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q3825616",
+      "name_it": "lago Acquato",
+      "name_en": "Lago Acquato",
+      "latitude": 42.486667,
+      "longitude": 11.455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825616"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q3825820",
+      "name_it": "lago artificiale della Rossa",
+      "name_en": "Lago della Rossa",
+      "latitude": 45.268,
+      "longitude": 7.142315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825820"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q3825623",
+      "name_it": "lago Asperelle",
+      "name_en": "",
+      "latitude": 44.4956,
+      "longitude": 9.4125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825623"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q3825634",
+      "name_it": "lago Aviolo",
+      "name_en": "Lago Aviolo",
+      "latitude": 46.194444,
+      "longitude": 10.413333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825634"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q72092535",
+      "name_it": "Lago Azzurro",
+      "name_en": "Lago Azzurro",
+      "latitude": 46.503083,
+      "longitude": 9.343583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72092535"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q3825628",
+      "name_it": "lago Baccio",
+      "name_en": "Lago Baccio",
+      "latitude": 44.129769,
+      "longitude": 10.589061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825628"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q3825624",
+      "name_it": "lago Baitone",
+      "name_en": "Lake Baitone",
+      "latitude": 46.144,
+      "longitude": 10.429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825624"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q3825630",
+      "name_it": "lago Ballano",
+      "name_en": "Lago Ballano",
+      "latitude": 44.368,
+      "longitude": 10.1,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825630"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q3825641",
+      "name_it": "Lago Becco",
+      "name_en": "Lago Becco",
+      "latitude": 46.004722,
+      "longitude": 9.794167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825641"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q130469294",
+      "name_it": "Lago Bellavarda",
+      "name_en": "Lago Bellavarda",
+      "latitude": 46.342354,
+      "longitude": 11.077572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130469294"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q105093847",
+      "name_it": "Lago Belviso",
+      "name_en": "Lago Belviso",
+      "latitude": 46.092054,
+      "longitude": 10.13199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105093847"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q3825632",
+      "name_it": "lago Benedetto",
+      "name_en": "Lake Benedetto",
+      "latitude": 46.185654,
+      "longitude": 10.4704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825632"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q3648269",
+      "name_it": "lago Bianco",
+      "name_en": "Lago Bianco",
+      "latitude": 45.808333,
+      "longitude": 7.878889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3648269"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q3825636",
+      "name_it": "lago Bino",
+      "name_en": "Lake Bino",
+      "latitude": 44.618889,
+      "longitude": 9.55,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825636"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q122308290",
+      "name_it": "",
+      "name_en": "Lago Biviere di Gela",
+      "latitude": 37.0193,
+      "longitude": 14.3434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122308290"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q3661928",
+      "name_it": "lago Blu",
+      "name_en": "Lac Bleu",
+      "latitude": 45.92268,
+      "longitude": 7.61833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3661928"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q111918357",
+      "name_it": "Lago Blu alla morena di Verra",
+      "name_en": "",
+      "latitude": 45.8911,
+      "longitude": 7.74364,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111918357"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q134379219",
+      "name_it": "Lago Bonnel",
+      "name_en": "",
+      "latitude": 45.643,
+      "longitude": 7.91486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134379219"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q3825652",
+      "name_it": "lago Boracifero",
+      "name_en": "Lago Boracifero",
+      "latitude": 43.154583,
+      "longitude": 10.811528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825652"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q66317919",
+      "name_it": "Lago Borgarino",
+      "name_en": "Lago Borgarino",
+      "latitude": 45.13049,
+      "longitude": 7.51562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66317919"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q3825646",
+      "name_it": "lago Branchino",
+      "name_en": "lago Branchino",
+      "latitude": 45.949769,
+      "longitude": 9.802187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825646"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q3825648",
+      "name_it": "lago Brocan",
+      "name_en": "Lago Brocan",
+      "latitude": 44.15822,
+      "longitude": 7.33226,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825648"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q35722007",
+      "name_it": "lago Busin Superiore",
+      "name_en": "lago Busin Superiore",
+      "latitude": 46.35,
+      "longitude": 8.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722007"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q3825656",
+      "name_it": "lago Calamone",
+      "name_en": "",
+      "latitude": 44.382039,
+      "longitude": 10.282028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825656"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q3825665",
+      "name_it": "lago Campelli",
+      "name_en": "Lago Campelli",
+      "latitude": 46.004,
+      "longitude": 9.87,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825665"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q124339950",
+      "name_it": "lago Carera",
+      "name_en": "lago Carera",
+      "latitude": 45.995111,
+      "longitude": 10.829306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124339950"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q3825674",
+      "name_it": "Lago Casere",
+      "name_en": "Lago Casere",
+      "latitude": 45.9976,
+      "longitude": 9.7915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825674"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q79446794",
+      "name_it": "Lago Castel",
+      "name_en": "Lago Castel",
+      "latitude": 46.4247,
+      "longitude": 8.4368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79446794"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q3825658",
+      "name_it": "lago Castiglione",
+      "name_en": "",
+      "latitude": 40.926678,
+      "longitude": 17.128561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825658"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q3825663",
+      "name_it": "Lago Cernello",
+      "name_en": "Lago Cernello",
+      "latitude": 46.003139,
+      "longitude": 9.886056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825663"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q127405822",
+      "name_it": "Lago Charey",
+      "name_en": "Lago Charey",
+      "latitude": 45.81996,
+      "longitude": 7.6335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127405822"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q48805106",
+      "name_it": "Lago Chiaretto",
+      "name_en": "Lago Chiaretto",
+      "latitude": 44.686337,
+      "longitude": 7.096911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48805106"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q137203747",
+      "name_it": "Lago Chécrouit",
+      "name_en": "Chécrouit Lake",
+      "latitude": 45.783397,
+      "longitude": 6.919021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137203747"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q3825676",
+      "name_it": "Lago Ciardonnet",
+      "name_en": "Lago Ciardonnet",
+      "latitude": 45.0637,
+      "longitude": 7.11385,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825676"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q77556892",
+      "name_it": "Lago Cingino",
+      "name_en": "Lago Cingino",
+      "latitude": 46.03226,
+      "longitude": 8.03517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q77556892"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q3825679",
+      "name_it": "lago Colombo",
+      "name_en": "Lago Colombo",
+      "latitude": 45.997,
+      "longitude": 9.825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825679"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q3825683",
+      "name_it": "lago Cornu",
+      "name_en": "Lago Cornu",
+      "latitude": 45.646,
+      "longitude": 7.57746,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825683"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q115173841",
+      "name_it": "Lago Costa",
+      "name_en": "Lago Costa",
+      "latitude": 46.07515,
+      "longitude": 11.236982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115173841"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q776498",
+      "name_it": "lago Costantino",
+      "name_en": "Lago Costantino",
+      "latitude": 38.1535,
+      "longitude": 16.0095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q776498"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q3825824",
+      "name_it": "lago d'Ampola",
+      "name_en": "Lago d'Ampola",
+      "latitude": 45.8706,
+      "longitude": 10.652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825824"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q3825822",
+      "name_it": "lago d'Antermoia",
+      "name_en": "Lake of Antermoia",
+      "latitude": 46.4779,
+      "longitude": 11.6603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825822"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q2217047",
+      "name_it": "lago d'Antorno",
+      "name_en": "Lake Antorno",
+      "latitude": 46.5951,
+      "longitude": 12.2654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2217047"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q21177690",
+      "name_it": "Lago d'Antrona",
+      "name_en": "Lago di Antrona",
+      "latitude": 46.05416,
+      "longitude": 8.0908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21177690"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q3825834",
+      "name_it": "lago d'Arno",
+      "name_en": "Lago d'Arno",
+      "latitude": 46.046643,
+      "longitude": 10.442885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825834"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q136954113",
+      "name_it": "",
+      "name_en": "Lago d'Arpone",
+      "latitude": 45.197783,
+      "longitude": 6.966933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136954113"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q3825830",
+      "name_it": "lago d'Arpy",
+      "name_en": "Lake of Arpy",
+      "latitude": 45.72306,
+      "longitude": 7.00037,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825830"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q66073299",
+      "name_it": "Lago d'Avino",
+      "name_en": "Lago d'Avino",
+      "latitude": 46.24717,
+      "longitude": 8.12957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66073299"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q3825826",
+      "name_it": "Lago d'Avio",
+      "name_en": "Lago d'Avio",
+      "latitude": 46.195636,
+      "longitude": 10.471687,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825826"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q73774357",
+      "name_it": "Lago d'Envie",
+      "name_en": "Lago d'Envie",
+      "latitude": 44.87303,
+      "longitude": 7.08583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73774357"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q3825829",
+      "name_it": "lago d'Eugio",
+      "name_en": "",
+      "latitude": 45.461111,
+      "longitude": 7.441111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825829"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q63148",
+      "name_it": "lago d'Idro",
+      "name_en": "Lake Idro",
+      "latitude": 45.7745,
+      "longitude": 10.511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63148"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q15648",
+      "name_it": "lago d'Iseo",
+      "name_en": "Lake Iseo",
+      "latitude": 45.711667,
+      "longitude": 10.071944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15648"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q63141",
+      "name_it": "lago d'Orta",
+      "name_en": "Lake Orta",
+      "latitude": 45.8098,
+      "longitude": 8.3963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63141"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q114034333",
+      "name_it": "lago degli Zingari",
+      "name_en": "lago degli Zingari",
+      "latitude": 46.376596,
+      "longitude": 11.821306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114034333"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q130308752",
+      "name_it": "lago dei Bagàtoi",
+      "name_en": "lago dei Bagàtoi",
+      "latitude": 45.982407,
+      "longitude": 10.922009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130308752"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q28815113",
+      "name_it": "Lago dei Caprioli",
+      "name_en": "Lago dei Caprioli",
+      "latitude": 46.291251,
+      "longitude": 10.767052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28815113"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q18418785",
+      "name_it": "lago dei Frati",
+      "name_en": "lago dei Frati",
+      "latitude": 46.016667,
+      "longitude": 9.83972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18418785"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q3825838",
+      "name_it": "lago dei Monaci",
+      "name_en": "Lago dei Monaci",
+      "latitude": 41.3804,
+      "longitude": 12.9296,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825838"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q87111635",
+      "name_it": "Lago dei Piani inferiore",
+      "name_en": "Unterer Bödensee",
+      "latitude": 46.634528,
+      "longitude": 12.326639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87111635"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q87111638",
+      "name_it": "Lago dei Piani superiore",
+      "name_en": "Oberer Bödensee",
+      "latitude": 46.637879,
+      "longitude": 12.315181,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87111638"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q3825846",
+      "name_it": "lago del Barbellino Naturale",
+      "name_en": "Lago del Barbellino Naturale",
+      "latitude": 46.077778,
+      "longitude": 10.084167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825846"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q25675568",
+      "name_it": "lago del Bidighinzu",
+      "name_en": "Lake Bidighinzu",
+      "latitude": 40.550624,
+      "longitude": 8.670445,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25675568"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q3825837",
+      "name_it": "lago del Brasimone",
+      "name_en": "lago del Brasimone",
+      "latitude": 44.12401,
+      "longitude": 11.1137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825837"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q16570980",
+      "name_it": "lago del Careser",
+      "name_en": "Lago del Careser",
+      "latitude": 46.4263,
+      "longitude": 10.6986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570980"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q508045",
+      "name_it": "lago del Chiotas",
+      "name_en": "Lago del Chiotas",
+      "latitude": 44.167,
+      "longitude": 7.331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q508045"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q3825839",
+      "name_it": "lago del Colle Sant'Anna",
+      "name_en": "Lago del Colle Sant'Anna",
+      "latitude": 44.223,
+      "longitude": 7.10736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825839"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q107564590",
+      "name_it": "lago del Colo",
+      "name_en": "lago del Colo",
+      "latitude": 46.08436,
+      "longitude": 11.410492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107564590"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q52950688",
+      "name_it": "lago del Cuga",
+      "name_en": "Lago del Cuga",
+      "latitude": 40.609848,
+      "longitude": 8.462219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52950688"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q47459477",
+      "name_it": "Lago del Diavolo",
+      "name_en": "Lago del Diavolo",
+      "latitude": 46.043628,
+      "longitude": 9.870119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47459477"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q113529413",
+      "name_it": "lago del Ferraia",
+      "name_en": "lago del Ferraia",
+      "latitude": 44.10541,
+      "longitude": 7.97397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113529413"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q3825849",
+      "name_it": "lago del Gattero",
+      "name_en": "Lago del Gattero",
+      "latitude": 43.4895,
+      "longitude": 10.77,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825849"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q5600028",
+      "name_it": "lago del Gran San Bernardo",
+      "name_en": "Great St Bernard Lake",
+      "latitude": 45.868611,
+      "longitude": 7.167222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5600028"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q1166662",
+      "name_it": "lago del Matese",
+      "name_en": "Matese lake",
+      "latitude": 41.414005,
+      "longitude": 14.391472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1166662"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q3825856",
+      "name_it": "lago del Mucrone",
+      "name_en": "Lago del Mucrone",
+      "latitude": 45.628056,
+      "longitude": 7.9425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825856"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q3825861",
+      "name_it": "lago del Predil",
+      "name_en": "Lago del Predil",
+      "latitude": 46.416667,
+      "longitude": 13.566667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825861"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q3825853",
+      "name_it": "lago del Quaternario",
+      "name_en": "",
+      "latitude": 44.887778,
+      "longitude": 11.450833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825853"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q3825855",
+      "name_it": "lago del Restello",
+      "name_en": "",
+      "latitude": 46.034167,
+      "longitude": 12.303611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825855"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q117966889",
+      "name_it": "",
+      "name_en": "Lago del Rutor",
+      "latitude": 45.668179,
+      "longitude": 6.978079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117966889"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q30888907",
+      "name_it": "Lago del Sabbione",
+      "name_en": "Lago del Sabbione",
+      "latitude": 46.41659,
+      "longitude": 8.34263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30888907"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q3825857",
+      "name_it": "lago del Savuto",
+      "name_en": "",
+      "latitude": 39.181651,
+      "longitude": 16.492403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825857"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q3825864",
+      "name_it": "lago del Segrino",
+      "name_en": "Lago del Segrino",
+      "latitude": 45.82762,
+      "longitude": 9.26456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825864"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q3825862",
+      "name_it": "lago del Tafone",
+      "name_en": "Lago del Tafone",
+      "latitude": 42.482778,
+      "longitude": 11.551944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825862"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q2623043",
+      "name_it": "Lago del Turano",
+      "name_en": "Lago del Turano",
+      "latitude": 42.210978,
+      "longitude": 12.956572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2623043"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q110043979",
+      "name_it": "Lago del Vajont",
+      "name_en": "Vajont Lake",
+      "latitude": 46.267691,
+      "longitude": 12.362277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110043979"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q108571238",
+      "name_it": "Lago del Vallonasso di Stroppia",
+      "name_en": "Lago del Vallonasso di Stroppia",
+      "latitude": 44.530768,
+      "longitude": 6.866208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108571238"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q1574784",
+      "name_it": "lago Delio",
+      "name_en": "Lago Delio",
+      "latitude": 46.077222,
+      "longitude": 8.754722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1574784"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q3825868",
+      "name_it": "lago dell'Accesa",
+      "name_en": "Lago dell'Accesa",
+      "latitude": 42.98825,
+      "longitude": 10.895494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825868"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q3825867",
+      "name_it": "lago dell'Esaro",
+      "name_en": "",
+      "latitude": 39.648017,
+      "longitude": 16.157098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825867"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q105086780",
+      "name_it": "Lago dell'Inferno",
+      "name_en": "Lago dell'Inferno",
+      "latitude": 46.0233,
+      "longitude": 9.526243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105086780"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q3825869",
+      "name_it": "lago dell'Ingagna",
+      "name_en": "Lago dell'Ingagna",
+      "latitude": 45.529321,
+      "longitude": 7.981782,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825869"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q85628542",
+      "name_it": "Lago della Barma",
+      "name_en": "Barma Lake",
+      "latitude": 45.64291,
+      "longitude": 7.93008,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85628542"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q106526079",
+      "name_it": "Lago della Brignola",
+      "name_en": "Lago della Brignola",
+      "latitude": 44.19335,
+      "longitude": 7.77733,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106526079"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q779394",
+      "name_it": "lago della Busalletta",
+      "name_en": "Lago della Busalletta",
+      "latitude": 44.5675,
+      "longitude": 8.921111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q779394"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q35722501",
+      "name_it": "lago della Contessa",
+      "name_en": "lago della Contessa",
+      "latitude": 41.5,
+      "longitude": 15.766667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722501"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q3825871",
+      "name_it": "lago della Duchessa",
+      "name_en": "Lago della Duchessa",
+      "latitude": 42.187461,
+      "longitude": 13.348039,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825871"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q28669935",
+      "name_it": "Lago della Fertà",
+      "name_en": "Lago della Fertà",
+      "latitude": 45.40914,
+      "longitude": 7.27867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28669935"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q137431275",
+      "name_it": "Lago della Gherardesca",
+      "name_en": "",
+      "latitude": 43.779293,
+      "longitude": 10.614317,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137431275"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q70073991",
+      "name_it": "Lago della Maddalena",
+      "name_en": "Lago della Maddalena",
+      "latitude": 44.41761,
+      "longitude": 6.90423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70073991"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q3825878",
+      "name_it": "lago della Malgina",
+      "name_en": "Lago della Malgina",
+      "latitude": 46.0827,
+      "longitude": 10.0595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825878"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q3825875",
+      "name_it": "lago della Maura",
+      "name_en": "",
+      "latitude": 44.13138,
+      "longitude": 7.376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825875"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q3825879",
+      "name_it": "lago della Meja",
+      "name_en": "Lago della Meja",
+      "latitude": 44.38996,
+      "longitude": 7.07548,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825879"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q3825876",
+      "name_it": "lago della Montagna Spaccata",
+      "name_en": "Lago della Montagna Spaccata",
+      "latitude": 41.721,
+      "longitude": 14.006,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825876"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q3825877",
+      "name_it": "lago della Ninfa",
+      "name_en": "Lago della Ninfa",
+      "latitude": 44.210993,
+      "longitude": 10.72492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825877"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q114444519",
+      "name_it": "Lago della Perla",
+      "name_en": "Lago della Perla",
+      "latitude": 44.15413,
+      "longitude": 7.61825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114444519"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q944390",
+      "name_it": "lago della Rovina",
+      "name_en": "Lago della Rovina",
+      "latitude": 44.17638,
+      "longitude": 7.34303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q944390"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q3825886",
+      "name_it": "lago della Serraia",
+      "name_en": "Lago della Serraia",
+      "latitude": 46.13691,
+      "longitude": 11.25566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825886"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q3825882",
+      "name_it": "Lago della Spina",
+      "name_en": "Lago della Spina",
+      "latitude": 44.85,
+      "longitude": 7.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825882"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q953113",
+      "name_it": "Lago della Stua",
+      "name_en": "Stubensee",
+      "latitude": 46.974722,
+      "longitude": 11.285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q953113"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q3825880",
+      "name_it": "lago della Stua",
+      "name_en": "",
+      "latitude": 46.1299,
+      "longitude": 11.9479,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825880"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q962918",
+      "name_it": "lago della Vecchia",
+      "name_en": "Lago della Vecchia",
+      "latitude": 45.1756,
+      "longitude": 6.94528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q962918"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q781181",
+      "name_it": "lago della Vecchia",
+      "name_en": "Lago della Vecchia",
+      "latitude": 45.689722,
+      "longitude": 7.914167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q781181"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q107713911",
+      "name_it": "Lago delle Baste",
+      "name_en": "Lago delle Baste",
+      "latitude": 46.467728,
+      "longitude": 12.081769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107713911"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q60220205",
+      "name_it": "lago delle Buse",
+      "name_en": "Lago delle Buse",
+      "latitude": 46.179194,
+      "longitude": 11.324056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60220205"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q130088832",
+      "name_it": "lago delle Cannelle",
+      "name_en": "lago delle Cannelle",
+      "latitude": 46.01855,
+      "longitude": 11.137358,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130088832"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q3825887",
+      "name_it": "lago delle Ghiarine",
+      "name_en": "",
+      "latitude": 44.335737,
+      "longitude": 12.274888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825887"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q1800418",
+      "name_it": "lago delle Lame",
+      "name_en": "Lago delle Lame",
+      "latitude": 44.503006,
+      "longitude": 9.409033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800418"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q3825898",
+      "name_it": "lago delle Piane",
+      "name_en": "Lago delle Piane",
+      "latitude": 45.611667,
+      "longitude": 8.214722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825898"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q16570996",
+      "name_it": "lago delle Piazze",
+      "name_en": "lake of Piazze",
+      "latitude": 46.15403,
+      "longitude": 11.27867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570996"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q55376312",
+      "name_it": "Lago delle Portette",
+      "name_en": "Lago delle Portette",
+      "latitude": 44.181004,
+      "longitude": 7.215936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55376312"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q115162308",
+      "name_it": "lago delle Prese",
+      "name_en": "lago delle Prese",
+      "latitude": 46.07392,
+      "longitude": 11.377766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115162308"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q112842752",
+      "name_it": "Lago delle Rane",
+      "name_en": "Lago delle Rane",
+      "latitude": 46.146901,
+      "longitude": 11.239423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112842752"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q1147433",
+      "name_it": "lago delle Trote",
+      "name_en": "Lago delle Trote",
+      "latitude": 46.051389,
+      "longitude": 9.780278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1147433"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q3825897",
+      "name_it": "lago di Acerenza",
+      "name_en": "Lago di Acerenza",
+      "latitude": 40.773056,
+      "longitude": 15.919444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825897"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q3825889",
+      "name_it": "Lago di Afframont",
+      "name_en": "Lago di Afframont",
+      "latitude": 45.291524,
+      "longitude": 7.236986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825889"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q124480477",
+      "name_it": "Lago di Agnano",
+      "name_en": "Agnano Lake",
+      "latitude": 40.935935,
+      "longitude": 17.079277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124480477"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q48803505",
+      "name_it": "Lago di Agàro",
+      "name_en": "Lago di Agàro",
+      "latitude": 46.30125,
+      "longitude": 8.30385,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48803505"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q119411357",
+      "name_it": "lago di Aiso",
+      "name_en": "",
+      "latitude": 42.956679,
+      "longitude": 12.607129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119411357"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q1666042",
+      "name_it": "lago di Alborelo",
+      "name_en": "Pankrazer Stausee",
+      "latitude": 46.5678,
+      "longitude": 11.0634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1666042"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q3825893",
+      "name_it": "lago di Alice",
+      "name_en": "Lago di Alice",
+      "latitude": 45.46242,
+      "longitude": 7.79544,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825893"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q3825896",
+      "name_it": "lago di Alleghe",
+      "name_en": "Lake Alleghe",
+      "latitude": 46.406389,
+      "longitude": 12.015556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825896"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q1110115",
+      "name_it": "lago di Alserio",
+      "name_en": "Lake Alserio",
+      "latitude": 45.786389,
+      "longitude": 9.216667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1110115"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q56258567",
+      "name_it": "Lago di Alviano",
+      "name_en": "Lake of Alviano",
+      "latitude": 42.62165,
+      "longitude": 12.25443,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258567"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q101111095",
+      "name_it": "Lago di Andalo",
+      "name_en": "Lake Andalo",
+      "latitude": 46.175167,
+      "longitude": 11.006444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101111095"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q63172",
+      "name_it": "lago di Annone",
+      "name_en": "Lago di Annone",
+      "latitude": 45.811944,
+      "longitude": 9.349444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63172"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q572562",
+      "name_it": "lago di Anterselva",
+      "name_en": "Antholzer See",
+      "latitude": 46.885833,
+      "longitude": 12.166111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q572562"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q3825903",
+      "name_it": "lago di Arezzo",
+      "name_en": "Lago di Arezzo",
+      "latitude": 42.708,
+      "longitude": 12.621,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825903"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q3825904",
+      "name_it": "lago di Arignano",
+      "name_en": "Lago di Arignano",
+      "latitude": 45.046,
+      "longitude": 7.889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825904"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q3825901",
+      "name_it": "lago di Auronzo",
+      "name_en": "Auronzo Lake",
+      "latitude": 46.543986,
+      "longitude": 12.450793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825901"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q946242",
+      "name_it": "lago di Baratz",
+      "name_en": "Lago di Baratz",
+      "latitude": 40.68056,
+      "longitude": 8.22556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q946242"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q3290960",
+      "name_it": "lago di Barrea",
+      "name_en": "Lago di Barrea",
+      "latitude": 41.76306,
+      "longitude": 13.96722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3290960"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q3825905",
+      "name_it": "Lago di Bertignano",
+      "name_en": "Lake of Bertignano",
+      "latitude": 45.432222,
+      "longitude": 8.062222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825905"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q13824130",
+      "name_it": "lago di Biandronno",
+      "name_en": "Biandronno lake",
+      "latitude": 45.8267,
+      "longitude": 8.7032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13824130"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q3825916",
+      "name_it": "lago di Bilancino",
+      "name_en": "Lago di Bilancino",
+      "latitude": 43.977222,
+      "longitude": 11.263333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825916"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q101111392",
+      "name_it": "lago di Bior",
+      "name_en": "Lake Bior",
+      "latitude": 46.142667,
+      "longitude": 10.969444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101111392"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q834348",
+      "name_it": "lago di Bomba",
+      "name_en": "Lago di Bomba",
+      "latitude": 42,
+      "longitude": 14.362,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q834348"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q3825912",
+      "name_it": "lago di Bondione",
+      "name_en": "",
+      "latitude": 46.02,
+      "longitude": 10.04,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825912"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q52423703",
+      "name_it": "Lago di Bongi",
+      "name_en": "Lago di Bongi",
+      "latitude": 45.730833,
+      "longitude": 10.331389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52423703"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q3825650",
+      "name_it": "lago di Bordaglia",
+      "name_en": "Lago Bordaglia",
+      "latitude": 46.623417,
+      "longitude": 12.814478,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825650"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q445369",
+      "name_it": "lago di Braies",
+      "name_en": "Pragser Wildsee",
+      "latitude": 46.693611,
+      "longitude": 12.085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q445369"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q3825915",
+      "name_it": "lago di Bulera",
+      "name_en": "",
+      "latitude": 43.309941,
+      "longitude": 10.924015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825915"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q3825918",
+      "name_it": "lago di Burano",
+      "name_en": "Lago di Burano",
+      "latitude": 42.401111,
+      "longitude": 11.377778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825918"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q19819540",
+      "name_it": "lago di Caccamo",
+      "name_en": "Lago di Caccamo",
+      "latitude": 43.144008,
+      "longitude": 13.196947,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19819540"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q252074",
+      "name_it": "lago di Caldaro",
+      "name_en": "Kalterer See",
+      "latitude": 46.3775,
+      "longitude": 11.2625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q252074"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q1026494",
+      "name_it": "lago di Caldonazzo",
+      "name_en": "Lago di Caldonazzo",
+      "latitude": 46.018528,
+      "longitude": 11.242444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1026494"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q138033743",
+      "name_it": "lago di Camazzole",
+      "name_en": "lago di Camazzole",
+      "latitude": 45.647888,
+      "longitude": 11.710567,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138033743"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q114048126",
+      "name_it": "lago di Campagnola",
+      "name_en": "Lech de la Campagnola",
+      "latitude": 46.38535,
+      "longitude": 11.77527,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114048126"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q87073850",
+      "name_it": "lago di Campitello",
+      "name_en": "Lech de Ciampedel",
+      "latitude": 46.5756,
+      "longitude": 11.79737,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87073850"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q35722552",
+      "name_it": "lago di Campliccioli",
+      "name_en": "lago di Campliccioli",
+      "latitude": 46.04694,
+      "longitude": 8.07517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722552"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q962235",
+      "name_it": "lago di Candia",
+      "name_en": "Lago di Candia",
+      "latitude": 45.333333,
+      "longitude": 7.883333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q962235"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q3215397",
+      "name_it": "lago di Canterno",
+      "name_en": "Lago di Canterno",
+      "latitude": 41.751,
+      "longitude": 13.25,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3215397"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q60039515",
+      "name_it": "lago di Canzolino",
+      "name_en": "Lake of Canzolino",
+      "latitude": 46.082694,
+      "longitude": 11.226333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60039515"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q3825923",
+      "name_it": "lago di Caprolace",
+      "name_en": "Lago di Caprolace",
+      "latitude": 41.350189,
+      "longitude": 12.9749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825923"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q1416530",
+      "name_it": "lago di Carezza",
+      "name_en": "Karersee",
+      "latitude": 46.409167,
+      "longitude": 11.575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1416530"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q65525740",
+      "name_it": "Lago di Caselette",
+      "name_en": "Lago di Caselette",
+      "latitude": 45.1173,
+      "longitude": 7.49129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65525740"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q3825922",
+      "name_it": "lago di Castel dell'Alpi",
+      "name_en": "",
+      "latitude": 44.186,
+      "longitude": 11.275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825922"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q1051808",
+      "name_it": "lago di Cavazzo",
+      "name_en": "Lago di Cavazzo",
+      "latitude": 46.328333,
+      "longitude": 13.0725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1051808"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q35722561",
+      "name_it": "lago di Cavedine",
+      "name_en": "lago di Cavedine",
+      "latitude": 46.00096,
+      "longitude": 10.95079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722561"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q87064271",
+      "name_it": "Lago di Cavia",
+      "name_en": "Lago di Cavia",
+      "latitude": 46.360139,
+      "longitude": 11.816806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87064271"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q1052694",
+      "name_it": "lago di Cei",
+      "name_en": "Lago di Cei",
+      "latitude": 45.951,
+      "longitude": 11.02,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1052694"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q3825925",
+      "name_it": "lago di Centro Cadore",
+      "name_en": "Lago di Centro Cadore",
+      "latitude": 46.433333,
+      "longitude": 12.3875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825925"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q3825928",
+      "name_it": "lago di Ceresole",
+      "name_en": "Lago di Ceresole",
+      "latitude": 45.43,
+      "longitude": 7.228,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825928"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q65658551",
+      "name_it": "lago di Cheggio",
+      "name_en": "Lago Alpe dei Cavalli",
+      "latitude": 46.0889,
+      "longitude": 8.105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65658551"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q655536",
+      "name_it": "lago di Chiusi",
+      "name_en": "Lake Chiusi",
+      "latitude": 43.056142,
+      "longitude": 11.965497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q655536"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q3215568",
+      "name_it": "lago di Cignana",
+      "name_en": "Cignana Lake",
+      "latitude": 45.9311,
+      "longitude": 7.58944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3215568"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q3825933",
+      "name_it": "lago di Coca",
+      "name_en": "Lago di Coca",
+      "latitude": 46.063056,
+      "longitude": 9.999722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825933"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q63093440",
+      "name_it": "Lago di Coldai",
+      "name_en": "Lago Coldai",
+      "latitude": 46.398837,
+      "longitude": 12.061326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63093440"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q1094718",
+      "name_it": "lago di Comabbio",
+      "name_en": "Lago di Comabbio",
+      "latitude": 45.761944,
+      "longitude": 8.691389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1094718"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q17494302",
+      "name_it": "Lago di Cornalta",
+      "name_en": "Lago di Cornalta",
+      "latitude": 46.0256,
+      "longitude": 10.0997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17494302"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q3825936",
+      "name_it": "lago di Cornino",
+      "name_en": "Lago di Cornino",
+      "latitude": 46.2295,
+      "longitude": 13.0244,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825936"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q2592352",
+      "name_it": "lago di Costalovara",
+      "name_en": "Wolfsgrubner See",
+      "latitude": 46.52047,
+      "longitude": 11.426382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2592352"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q1615176",
+      "name_it": "Lago di Crespëina",
+      "name_en": "Lech de Crespëina",
+      "latitude": 46.56847,
+      "longitude": 11.825495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1615176"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q3825937",
+      "name_it": "lago di Cà Selva",
+      "name_en": "",
+      "latitude": 46.2618,
+      "longitude": 12.6931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825937"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q3825938",
+      "name_it": "lago di Cà Zul",
+      "name_en": "",
+      "latitude": 46.2941,
+      "longitude": 12.7113,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825938"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q16570990",
+      "name_it": "Lago di Devero",
+      "name_en": "Lago di Devero",
+      "latitude": 46.342173,
+      "longitude": 8.294751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570990"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q2438157",
+      "name_it": "lago di Dobbiaco",
+      "name_en": "Toblacher See",
+      "latitude": 46.703056,
+      "longitude": 12.219167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2438157"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q3825945",
+      "name_it": "lago di Doberdò",
+      "name_en": "Lago di Doberdò",
+      "latitude": 45.831078,
+      "longitude": 13.562322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825945"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q917288",
+      "name_it": "lago di Endine",
+      "name_en": "Lake Endine",
+      "latitude": 45.77861,
+      "longitude": 9.93944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q917288"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q17635197",
+      "name_it": "lago di Erdemolo",
+      "name_en": "lake Erdemolo",
+      "latitude": 46.110486,
+      "longitude": 11.377132,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17635197"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q1404761",
+      "name_it": "lago di Favogna",
+      "name_en": "Fennberger See",
+      "latitude": 46.274441,
+      "longitude": 11.18493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1404761"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q3825951",
+      "name_it": "lago di Fimon",
+      "name_en": "Lago di Fimon",
+      "latitude": 45.469439,
+      "longitude": 11.542781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825951"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q2536415",
+      "name_it": "lago di Fiè",
+      "name_en": "Völser Weiher",
+      "latitude": 46.523474,
+      "longitude": 11.523926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2536415"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q3825948",
+      "name_it": "lago di Fogliano",
+      "name_en": "Lake Fogliano",
+      "latitude": 41.4,
+      "longitude": 12.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825948"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q3825952",
+      "name_it": "lago di Fondi",
+      "name_en": "Lago di Fondi",
+      "latitude": 41.324,
+      "longitude": 13.333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825952"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q2556824",
+      "name_it": "lago di Fontana Bianca",
+      "name_en": "Weißbrunnsee",
+      "latitude": 46.486131,
+      "longitude": 10.831833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2556824"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q124726160",
+      "name_it": "Lago di Fontanaluccia",
+      "name_en": "Fontanaluccia Lake",
+      "latitude": 44.275043,
+      "longitude": 10.511255,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124726160"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q137901",
+      "name_it": "lago di Fortezza",
+      "name_en": "Franzensfester See",
+      "latitude": 46.781725,
+      "longitude": 11.62066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137901"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q3825943",
+      "name_it": "lago di Fregabolgia",
+      "name_en": "Lago di Fregabolgia",
+      "latitude": 46.023291,
+      "longitude": 9.866932,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825943"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q3825950",
+      "name_it": "lago di Gaiano",
+      "name_en": "",
+      "latitude": 45.7925,
+      "longitude": 10.0099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825950"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q1089655",
+      "name_it": "lago di Ganna",
+      "name_en": "Lago di Ganna",
+      "latitude": 45.89725,
+      "longitude": 8.82624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1089655"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q6414",
+      "name_it": "lago di Garda",
+      "name_en": "Lake Garda",
+      "latitude": 45.633333,
+      "longitude": 10.666667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6414"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q63161",
+      "name_it": "lago di Garlate",
+      "name_en": "Lago di Garlate",
+      "latitude": 45.819444,
+      "longitude": 9.402778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63161"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q108075620",
+      "name_it": "lago di Garzonè",
+      "name_en": "lake Garzonè",
+      "latitude": 46.14193,
+      "longitude": 10.70429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108075620"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q1081290",
+      "name_it": "lago di Ghirla",
+      "name_en": "Lago di Ghirla",
+      "latitude": 45.916944,
+      "longitude": 8.821667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1081290"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q228234",
+      "name_it": "lago di Gioveretto",
+      "name_en": "Zufrittsee",
+      "latitude": 46.503509,
+      "longitude": 10.722056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q228234"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q568715",
+      "name_it": "lago di Giulianello",
+      "name_en": "Lago di Giulianello",
+      "latitude": 41.7,
+      "longitude": 12.85,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q568715"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q588659",
+      "name_it": "lago di Guardialfiera",
+      "name_en": "Lago di Guardialfiera",
+      "latitude": 41.813035,
+      "longitude": 14.834633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q588659"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q64225271",
+      "name_it": "lago di Isola Santa",
+      "name_en": "",
+      "latitude": 44.0637,
+      "longitude": 10.3127,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64225271"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q1800223",
+      "name_it": "lago di Lagazuoi",
+      "name_en": "",
+      "latitude": 46.551667,
+      "longitude": 12.005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800223"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q3825959",
+      "name_it": "lago di Lagolo",
+      "name_en": "Lago di Lagolo",
+      "latitude": 46.041,
+      "longitude": 11.006,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825959"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q3825958",
+      "name_it": "lago di Lamar",
+      "name_en": "Lago di Lamar",
+      "latitude": 46.1304,
+      "longitude": 11.0633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825958"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q691103",
+      "name_it": "lago di Landro",
+      "name_en": "Dürrensee",
+      "latitude": 46.63,
+      "longitude": 12.231944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q691103"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q3825960",
+      "name_it": "lago di Larecchio",
+      "name_en": "Lago di Larecchio",
+      "latitude": 46.203047,
+      "longitude": 8.430754,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825960"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q3825965",
+      "name_it": "lago di Lases",
+      "name_en": "Lago di Lases",
+      "latitude": 46.140597,
+      "longitude": 11.221289,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825965"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q108890847",
+      "name_it": "Lago di Laux",
+      "name_en": "Lago di Laux",
+      "latitude": 45.04116,
+      "longitude": 7.02161,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108890847"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q3825962",
+      "name_it": "Lago di Lavarone",
+      "name_en": "Lake Lavarone",
+      "latitude": 45.9365,
+      "longitude": 11.2528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825962"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q1407745",
+      "name_it": "lago di Ledro",
+      "name_en": "Lago di Ledro",
+      "latitude": 45.876667,
+      "longitude": 10.750556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1407745"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q20009964",
+      "name_it": "lago di Leffe",
+      "name_en": "Lake Leffe",
+      "latitude": 45.8,
+      "longitude": 9.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20009964"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q3825975",
+      "name_it": "lago di Lentini",
+      "name_en": "Lago di Lentini",
+      "latitude": 37.323,
+      "longitude": 14.95,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825975"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q1129358",
+      "name_it": "lago di Lesina",
+      "name_en": "Lake Lesina",
+      "latitude": 41.8825,
+      "longitude": 15.4469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1129358"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q1475787",
+      "name_it": "lago di Levico",
+      "name_en": "Lago di Levico",
+      "latitude": 46.013678,
+      "longitude": 11.278208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1475787"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q19060551",
+      "name_it": "lago di Licola",
+      "name_en": "Lago di Licola",
+      "latitude": 40.858765,
+      "longitude": 14.049911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19060551"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q55978735",
+      "name_it": "Lago di Limides",
+      "name_en": "Lake Limides",
+      "latitude": 46.511806,
+      "longitude": 12.022889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55978735"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q130418568",
+      "name_it": "lago di Limo",
+      "name_en": "Lé de Limo",
+      "latitude": 46.607263,
+      "longitude": 12.019944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130418568"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q3825970",
+      "name_it": "lago di Loppio",
+      "name_en": "Lago di Loppio",
+      "latitude": 45.863333,
+      "longitude": 10.92,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825970"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q3825968",
+      "name_it": "lago di Lova",
+      "name_en": "",
+      "latitude": 45.97,
+      "longitude": 10.21,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825968"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q3825971",
+      "name_it": "lago di Loz",
+      "name_en": "Lago di Loz",
+      "latitude": 45.89043,
+      "longitude": 7.63009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825971"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q432545",
+      "name_it": "lago di Lucrino",
+      "name_en": "Lucrinus Lacus",
+      "latitude": 40.829444,
+      "longitude": 14.080278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q432545"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q14418",
+      "name_it": "lago di Lugano",
+      "name_en": "Lake Lugano",
+      "latitude": 46,
+      "longitude": 9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14418"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q60039246",
+      "name_it": "lago di Madrano",
+      "name_en": "Lake of Madrano",
+      "latitude": 46.0855,
+      "longitude": 11.218861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60039246"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q3825978",
+      "name_it": "lago di Malciaussia",
+      "name_en": "Lago di Malciaussia",
+      "latitude": 45.206944,
+      "longitude": 7.141667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825978"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q87069510",
+      "name_it": "Lago di Malga di Mezzo",
+      "name_en": "Mitteralplsee",
+      "latitude": 46.672611,
+      "longitude": 12.252167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87069510"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q1236114",
+      "name_it": "lago di Massaciuccoli",
+      "name_en": "Lago di Massaciuccoli",
+      "latitude": 43.833333,
+      "longitude": 10.333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1236114"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q115908001",
+      "name_it": "lago di Menezzo",
+      "name_en": "lago di Menezzo",
+      "latitude": 44.08661,
+      "longitude": 8.03749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115908001"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q1467712",
+      "name_it": "lago di Mergozzo",
+      "name_en": "Lago di Mergozzo",
+      "latitude": 45.955556,
+      "longitude": 8.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1467712"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q1502960",
+      "name_it": "lago di Mezzola",
+      "name_en": "Lago di Mezzola",
+      "latitude": 46.200508,
+      "longitude": 9.441033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1502960"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q3825980",
+      "name_it": "lago di Mignano",
+      "name_en": "Lago di Mignano",
+      "latitude": 44.766667,
+      "longitude": 9.8,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825980"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q1177961",
+      "name_it": "lago di Misurina",
+      "name_en": "Lake Misurina",
+      "latitude": 46.581944,
+      "longitude": 12.253889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1177961"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q1112151",
+      "name_it": "Lago di Molveno",
+      "name_en": "Lake Molveno",
+      "latitude": 46.125556,
+      "longitude": 10.961111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1112151"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q3825982",
+      "name_it": "lago di Monastero",
+      "name_en": "Lago di Monastero",
+      "latitude": 45.364167,
+      "longitude": 7.420833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825982"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q2259119",
+      "name_it": "lago di Monate",
+      "name_en": "Lago di Monate",
+      "latitude": 45.795278,
+      "longitude": 8.661111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2259119"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q1236752",
+      "name_it": "lago di Montepulciano",
+      "name_en": "Lago di Montepulciano",
+      "latitude": 43.091667,
+      "longitude": 11.924722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1236752"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q3825987",
+      "name_it": "lago di Monterosi",
+      "name_en": "Lake Monterosi",
+      "latitude": 42.206567,
+      "longitude": 12.301472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825987"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q34798809",
+      "name_it": "Lago di Montespluga",
+      "name_en": "Bacino di Montespluga",
+      "latitude": 46.483333,
+      "longitude": 9.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34798809"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q3825985",
+      "name_it": "lago di Montorfano",
+      "name_en": "Lago di Montorfano",
+      "latitude": 45.783611,
+      "longitude": 9.139444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825985"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q3825988",
+      "name_it": "lago di Negrisiola",
+      "name_en": "",
+      "latitude": 46.025083,
+      "longitude": 12.297499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825988"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q101111346",
+      "name_it": "lago di Nembia",
+      "name_en": "Lake Nembia",
+      "latitude": 46.098222,
+      "longitude": 10.933639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101111346"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q1761445",
+      "name_it": "lago di Neves",
+      "name_en": "Neves-Stausee",
+      "latitude": 46.946389,
+      "longitude": 11.782222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1761445"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q3825994",
+      "name_it": "lago di Nicito",
+      "name_en": "Lago di Nicito",
+      "latitude": 37.508233,
+      "longitude": 15.079336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825994"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q52151329",
+      "name_it": "lago di Niguarda",
+      "name_en": "Niguarda Lake",
+      "latitude": 45.524414,
+      "longitude": 9.18769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52151329"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q109007147",
+      "name_it": "Lago di Nudole",
+      "name_en": "Lago di Nudole",
+      "latitude": 46.03298,
+      "longitude": 10.51369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109007147"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q724869",
+      "name_it": "lago di Occhito",
+      "name_en": "Lago di Occhito",
+      "latitude": 41.58,
+      "longitude": 14.945,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q724869"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q63168",
+      "name_it": "lago di Olginate",
+      "name_en": "Lago di Olginate",
+      "latitude": 45.795278,
+      "longitude": 9.423333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63168"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q3825989",
+      "name_it": "lago di Osiglia",
+      "name_en": "Lake of Osiglia",
+      "latitude": 44.297979,
+      "longitude": 8.199011,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825989"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q3825724",
+      "name_it": "Lago di Ospedaletto",
+      "name_en": "Lago di Ospedaletto",
+      "latitude": 46.297789,
+      "longitude": 13.124285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825724"
+    },
+    {
+      "id": 326,
+      "wikidata_id": "Q106254967",
+      "name_it": "Lago di Pagliana",
+      "name_en": "Lake Pagliana",
+      "latitude": 43.52061,
+      "longitude": 10.49974,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106254967"
+    },
+    {
+      "id": 327,
+      "wikidata_id": "Q3825995",
+      "name_it": "lago di Paola",
+      "name_en": "Lago di Paola",
+      "latitude": 41.278889,
+      "longitude": 13.027222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825995"
+    },
+    {
+      "id": 328,
+      "wikidata_id": "Q3825997",
+      "name_it": "lago di Patria",
+      "name_en": "Lago di Patria",
+      "latitude": 40.933333,
+      "longitude": 14.033333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825997"
+    },
+    {
+      "id": 329,
+      "wikidata_id": "Q3825999",
+      "name_it": "lago di Penne",
+      "name_en": "Lago di Penne",
+      "latitude": 42.442303,
+      "longitude": 13.910365,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825999"
+    },
+    {
+      "id": 330,
+      "wikidata_id": "Q16570993",
+      "name_it": "lago di Peretola",
+      "name_en": "",
+      "latitude": 43.81276,
+      "longitude": 11.198841,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570993"
+    },
+    {
+      "id": 331,
+      "wikidata_id": "Q3826001",
+      "name_it": "lago di Persano",
+      "name_en": "",
+      "latitude": 40.605,
+      "longitude": 15.1356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826001"
+    },
+    {
+      "id": 332,
+      "wikidata_id": "Q105094948",
+      "name_it": "Lago di Pescegallo",
+      "name_en": "Lago di Pescegallo",
+      "latitude": 46.038855,
+      "longitude": 9.586341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105094948"
+    },
+    {
+      "id": 333,
+      "wikidata_id": "Q113130741",
+      "name_it": "Lago di Pianfei",
+      "name_en": "Lake Pianfei",
+      "latitude": 44.34626,
+      "longitude": 7.71027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113130741"
+    },
+    {
+      "id": 334,
+      "wikidata_id": "Q1131376",
+      "name_it": "lago di Piano",
+      "name_en": "Lago di Piano",
+      "latitude": 46.038889,
+      "longitude": 9.163611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1131376"
+    },
+    {
+      "id": 335,
+      "wikidata_id": "Q3215512",
+      "name_it": "lago di Piediluco",
+      "name_en": "Lago di Piediluco",
+      "latitude": 42.531389,
+      "longitude": 12.758333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3215512"
+    },
+    {
+      "id": 336,
+      "wikidata_id": "Q3826016",
+      "name_it": "lago di Pietra del Pertusillo",
+      "name_en": "Lago di Pietra del Pertusillo",
+      "latitude": 40.283333,
+      "longitude": 15.983333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826016"
+    },
+    {
+      "id": 337,
+      "wikidata_id": "Q68012819",
+      "name_it": "Lago di Pietra Rossa",
+      "name_en": "Lago di Pietra Rossa",
+      "latitude": 45.70835,
+      "longitude": 7.00471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68012819"
+    },
+    {
+      "id": 338,
+      "wikidata_id": "Q109377001",
+      "name_it": "Lago di Pietrafitta",
+      "name_en": "",
+      "latitude": 43.005022,
+      "longitude": 12.203041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109377001"
+    },
+    {
+      "id": 339,
+      "wikidata_id": "Q101245967",
+      "name_it": "Lago di Pietranzoni",
+      "name_en": "Lago di Pietranzoni",
+      "latitude": 42.42756,
+      "longitude": 13.62444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101245967"
+    },
+    {
+      "id": 340,
+      "wikidata_id": "Q1059016",
+      "name_it": "lago di Pilato",
+      "name_en": "Lago di Pilato",
+      "latitude": 42.826178,
+      "longitude": 13.265216,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1059016"
+    },
+    {
+      "id": 341,
+      "wikidata_id": "Q3826013",
+      "name_it": "lago di Poggio Perotto",
+      "name_en": "Lago di Poggio Perotto",
+      "latitude": 42.615278,
+      "longitude": 11.248611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826013"
+    },
+    {
+      "id": 342,
+      "wikidata_id": "Q126727712",
+      "name_it": "Lago di Polverina",
+      "name_en": "Lake Polverina",
+      "latitude": 43.08329,
+      "longitude": 13.10223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126727712"
+    },
+    {
+      "id": 343,
+      "wikidata_id": "Q3826010",
+      "name_it": "lago di Ponte Vittorio",
+      "name_en": "Lake Ponte Vittorio",
+      "latitude": 45.64,
+      "longitude": 8.082222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826010"
+    },
+    {
+      "id": 344,
+      "wikidata_id": "Q3826006",
+      "name_it": "lago di Pontechianale",
+      "name_en": "Lake of Pontechianale",
+      "latitude": 44.615331,
+      "longitude": 7.041286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826006"
+    },
+    {
+      "id": 345,
+      "wikidata_id": "Q3826011",
+      "name_it": "lago di Pontesei",
+      "name_en": "Lago di Pontesei",
+      "latitude": 46.336972,
+      "longitude": 12.226003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826011"
+    },
+    {
+      "id": 346,
+      "wikidata_id": "Q3826007",
+      "name_it": "lago di Porta",
+      "name_en": "lago di Porta",
+      "latitude": 43.991817,
+      "longitude": 10.167305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826007"
+    },
+    {
+      "id": 347,
+      "wikidata_id": "Q1001156",
+      "name_it": "lago di Posta Fibreno",
+      "name_en": "Lago di Posta Fibreno",
+      "latitude": 41.699801,
+      "longitude": 13.686304,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1001156"
+    },
+    {
+      "id": 348,
+      "wikidata_id": "Q110803212",
+      "name_it": "Lago di Pourrieres",
+      "name_en": "Lago di Pourrieres",
+      "latitude": 45.04337,
+      "longitude": 6.99757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110803212"
+    },
+    {
+      "id": 349,
+      "wikidata_id": "Q3826014",
+      "name_it": "lago di Pradella",
+      "name_en": "",
+      "latitude": 45.9097,
+      "longitude": 12.2974,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826014"
+    },
+    {
+      "id": 350,
+      "wikidata_id": "Q3826017",
+      "name_it": "lago di Provvidenza",
+      "name_en": "Lago di Provvidenza",
+      "latitude": 42.50931,
+      "longitude": 13.41068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826017"
+    },
+    {
+      "id": 351,
+      "wikidata_id": "Q63177",
+      "name_it": "lago di Pusiano",
+      "name_en": "Lake of Pusiano",
+      "latitude": 45.80194,
+      "longitude": 9.27083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63177"
+    },
+    {
+      "id": 352,
+      "wikidata_id": "Q3826018",
+      "name_it": "lago di Quarto",
+      "name_en": "Lago di Quarto",
+      "latitude": 43.889225,
+      "longitude": 12.081131,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826018"
+    },
+    {
+      "id": 353,
+      "wikidata_id": "Q3826019",
+      "name_it": "lago di Ragogna",
+      "name_en": "Lake Ragogna",
+      "latitude": 46.1762,
+      "longitude": 13.0026,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826019"
+    },
+    {
+      "id": 354,
+      "wikidata_id": "Q3826025",
+      "name_it": "lago di Rascino",
+      "name_en": "Lago di Rascino",
+      "latitude": 42.347778,
+      "longitude": 13.147778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826025"
+    },
+    {
+      "id": 355,
+      "wikidata_id": "Q3826021",
+      "name_it": "lago di Ravedis",
+      "name_en": "Lake Ravedis",
+      "latitude": 46.1685,
+      "longitude": 12.6523,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826021"
+    },
+    {
+      "id": 356,
+      "wikidata_id": "Q923668",
+      "name_it": "lago di Recentino",
+      "name_en": "Lago di Recentino",
+      "latitude": 42.518517,
+      "longitude": 12.54982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q923668"
+    },
+    {
+      "id": 357,
+      "wikidata_id": "Q1249840",
+      "name_it": "lago di Resia",
+      "name_en": "Reschensee",
+      "latitude": 46.801,
+      "longitude": 10.531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1249840"
+    },
+    {
+      "id": 358,
+      "wikidata_id": "Q3826023",
+      "name_it": "lago di Rezzo",
+      "name_en": "",
+      "latitude": 44.5204,
+      "longitude": 9.40629,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826023"
+    },
+    {
+      "id": 359,
+      "wikidata_id": "Q3826024",
+      "name_it": "Lago di Ridracoli",
+      "name_en": "Ridracoli lake",
+      "latitude": 43.872249,
+      "longitude": 11.836066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826024"
+    },
+    {
+      "id": 360,
+      "wikidata_id": "Q3826028",
+      "name_it": "lago di Rimasco",
+      "name_en": "Lago di Rimasco",
+      "latitude": 45.856842,
+      "longitude": 8.063986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826028"
+    },
+    {
+      "id": 361,
+      "wikidata_id": "Q17635199",
+      "name_it": "lago di Ripasottile",
+      "name_en": "Lago di Ripasottile",
+      "latitude": 42.477,
+      "longitude": 12.814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17635199"
+    },
+    {
+      "id": 362,
+      "wikidata_id": "Q38110899",
+      "name_it": "Lago di Roncone",
+      "name_en": "Lago di Roncone",
+      "latitude": 45.986111,
+      "longitude": 10.677778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38110899"
+    },
+    {
+      "id": 363,
+      "wikidata_id": "Q3826034",
+      "name_it": "lago di Salarno",
+      "name_en": "Lago di Salarno",
+      "latitude": 46.109722,
+      "longitude": 10.476111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826034"
+    },
+    {
+      "id": 364,
+      "wikidata_id": "Q303014",
+      "name_it": "lago di San Casciano",
+      "name_en": "Lago di San Casciano",
+      "latitude": 42.839771,
+      "longitude": 11.849613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q303014"
+    },
+    {
+      "id": 365,
+      "wikidata_id": "Q66458722",
+      "name_it": "Lago di San Cipriano",
+      "name_en": "Lake San Cipriano",
+      "latitude": 43.577869,
+      "longitude": 11.481369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66458722"
+    },
+    {
+      "id": 366,
+      "wikidata_id": "Q3826032",
+      "name_it": "lago di San Domenico",
+      "name_en": "Lago di San Domenico",
+      "latitude": 41.941944,
+      "longitude": 13.828889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826032"
+    },
+    {
+      "id": 367,
+      "wikidata_id": "Q3826036",
+      "name_it": "lago di San Floriano",
+      "name_en": "Lago di San Floriano",
+      "latitude": 42.425767,
+      "longitude": 11.361792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826036"
+    },
+    {
+      "id": 368,
+      "wikidata_id": "Q17635200",
+      "name_it": "lago di San Giovanni Incarico",
+      "name_en": "",
+      "latitude": 41.521,
+      "longitude": 13.562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17635200"
+    },
+    {
+      "id": 369,
+      "wikidata_id": "Q108075379",
+      "name_it": "lago di San Giuliano",
+      "name_en": "Lago di San Giuliano",
+      "latitude": 46.14669,
+      "longitude": 10.70206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108075379"
+    },
+    {
+      "id": 370,
+      "wikidata_id": "Q125097557",
+      "name_it": "Lago di San Giuliano",
+      "name_en": "Lago di San Giuliano",
+      "latitude": 40.614,
+      "longitude": 16.497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125097557"
+    },
+    {
+      "id": 371,
+      "wikidata_id": "Q35722603",
+      "name_it": "lago di San Grato",
+      "name_en": "lago di San Grato",
+      "latitude": 45.61743,
+      "longitude": 7.00027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722603"
+    },
+    {
+      "id": 372,
+      "wikidata_id": "Q3826031",
+      "name_it": "lago di San Liberato",
+      "name_en": "San Liberato Lake",
+      "latitude": 42.474722,
+      "longitude": 12.445556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826031"
+    },
+    {
+      "id": 373,
+      "wikidata_id": "Q48812812",
+      "name_it": "Lago di San Martino",
+      "name_en": "Lake Saint-Martin",
+      "latitude": 45.544605,
+      "longitude": 7.041309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48812812"
+    },
+    {
+      "id": 374,
+      "wikidata_id": "Q114316065",
+      "name_it": "lago di San Pancrazio",
+      "name_en": "Kratzberger See",
+      "latitude": 46.704652,
+      "longitude": 11.28551,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114316065"
+    },
+    {
+      "id": 375,
+      "wikidata_id": "Q87064260",
+      "name_it": "Lago di San Pellegrino",
+      "name_en": "Lago di San Pellegrino",
+      "latitude": 46.376583,
+      "longitude": 11.784639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87064260"
+    },
+    {
+      "id": 376,
+      "wikidata_id": "Q1569127",
+      "name_it": "lago di San Valentino alla Muta",
+      "name_en": "Haidersee",
+      "latitude": 46.75,
+      "longitude": 10.533333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1569127"
+    },
+    {
+      "id": 377,
+      "wikidata_id": "Q136375860",
+      "name_it": "lago di San Vincenzo",
+      "name_en": "lago di San Vincenzo",
+      "latitude": 41.649379,
+      "longitude": 14.053659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136375860"
+    },
+    {
+      "id": 378,
+      "wikidata_id": "Q3826033",
+      "name_it": "lago di Sant'Anna",
+      "name_en": "Lago di Sant'Anna",
+      "latitude": 44.2281,
+      "longitude": 7.10083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826033"
+    },
+    {
+      "id": 379,
+      "wikidata_id": "Q3826035",
+      "name_it": "lago di Santa Colomba",
+      "name_en": "Lake Santa Colomba",
+      "latitude": 46.124296,
+      "longitude": 11.180799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826035"
+    },
+    {
+      "id": 380,
+      "wikidata_id": "Q1800433",
+      "name_it": "lago di Santa Croce",
+      "name_en": "Lago di Santa Croce",
+      "latitude": 46.1057,
+      "longitude": 12.3358,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800433"
+    },
+    {
+      "id": 381,
+      "wikidata_id": "Q2222728",
+      "name_it": "lago di Santa Giustina",
+      "name_en": "Lago di Santa Giustina",
+      "latitude": 46.373122,
+      "longitude": 11.049242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2222728"
+    },
+    {
+      "id": 382,
+      "wikidata_id": "Q3826039",
+      "name_it": "lago di Santa Luce",
+      "name_en": "Lago di Santa Luce",
+      "latitude": 43.44466,
+      "longitude": 10.51495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826039"
+    },
+    {
+      "id": 383,
+      "wikidata_id": "Q1403974",
+      "name_it": "lago di Santa Maria",
+      "name_en": "Felixer Weiher",
+      "latitude": 46.49645,
+      "longitude": 11.163247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1403974"
+    },
+    {
+      "id": 384,
+      "wikidata_id": "Q3826040",
+      "name_it": "lago di Santa Maria",
+      "name_en": "Lago di Santa Maria",
+      "latitude": 44.151663,
+      "longitude": 11.149338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826040"
+    },
+    {
+      "id": 385,
+      "wikidata_id": "Q16571001",
+      "name_it": "lago di Santa Massenza",
+      "name_en": "Lago di Santa Massenza",
+      "latitude": 46.063435,
+      "longitude": 10.981257,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16571001"
+    },
+    {
+      "id": 386,
+      "wikidata_id": "Q2323272",
+      "name_it": "lago di Sartirana",
+      "name_en": "Lago di Sartirana",
+      "latitude": 45.716111,
+      "longitude": 9.424722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2323272"
+    },
+    {
+      "id": 387,
+      "wikidata_id": "Q3826046",
+      "name_it": "lago di Sauris",
+      "name_en": "lago di Sauris",
+      "latitude": 46.449444,
+      "longitude": 12.723333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826046"
+    },
+    {
+      "id": 388,
+      "wikidata_id": "Q105085309",
+      "name_it": "Lago di Scais",
+      "name_en": "Lago di Scais",
+      "latitude": 46.086127,
+      "longitude": 9.926248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105085309"
+    },
+    {
+      "id": 389,
+      "wikidata_id": "Q1072254",
+      "name_it": "lago di Scanno",
+      "name_en": "Lago di Scanno",
+      "latitude": 41.92,
+      "longitude": 13.863889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1072254"
+    },
+    {
+      "id": 390,
+      "wikidata_id": "Q114722872",
+      "name_it": "Lago di Sciuz",
+      "name_en": "Lech de Sciuz",
+      "latitude": 46.566417,
+      "longitude": 11.7515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114722872"
+    },
+    {
+      "id": 391,
+      "wikidata_id": "Q979004",
+      "name_it": "lago di Sibolla",
+      "name_en": "Lago di Sibolla",
+      "latitude": 43.825114,
+      "longitude": 10.701519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q979004"
+    },
+    {
+      "id": 392,
+      "wikidata_id": "Q15410555",
+      "name_it": "lago di Sorapiss",
+      "name_en": "Lake Sorapiss",
+      "latitude": 46.5204,
+      "longitude": 12.2236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15410555"
+    },
+    {
+      "id": 393,
+      "wikidata_id": "Q131863473",
+      "name_it": "",
+      "name_en": "Lago di Sotto Lake",
+      "latitude": 46.079856,
+      "longitude": 9.441195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131863473"
+    },
+    {
+      "id": 394,
+      "wikidata_id": "Q3826049",
+      "name_it": "lago di Tavianella",
+      "name_en": "Lago di Tavianella",
+      "latitude": 44.10302,
+      "longitude": 11.19584,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826049"
+    },
+    {
+      "id": 395,
+      "wikidata_id": "Q100558024",
+      "name_it": "lago di Tavon",
+      "name_en": "Lake Tavon",
+      "latitude": 46.359794,
+      "longitude": 11.107509,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100558024"
+    },
+    {
+      "id": 396,
+      "wikidata_id": "Q3826051",
+      "name_it": "Lago di Teleccio",
+      "name_en": "Lago di Teleccio",
+      "latitude": 45.4875,
+      "longitude": 7.368889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826051"
+    },
+    {
+      "id": 397,
+      "wikidata_id": "Q3826056",
+      "name_it": "lago di Telese",
+      "name_en": "Lago di Telese",
+      "latitude": 41.211964,
+      "longitude": 14.534569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826056"
+    },
+    {
+      "id": 398,
+      "wikidata_id": "Q17266055",
+      "name_it": "lago di Tenarda",
+      "name_en": "Lago di Tenarda",
+      "latitude": 43.983428,
+      "longitude": 7.700186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17266055"
+    },
+    {
+      "id": 399,
+      "wikidata_id": "Q1727103",
+      "name_it": "lago di Tenno",
+      "name_en": "Lago di Tenno",
+      "latitude": 45.938056,
+      "longitude": 10.815833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1727103"
+    },
+    {
+      "id": 400,
+      "wikidata_id": "Q3826054",
+      "name_it": "lago di Terlago",
+      "name_en": "lake Terlago",
+      "latitude": 46.098,
+      "longitude": 11.056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826054"
+    },
+    {
+      "id": 401,
+      "wikidata_id": "Q781019",
+      "name_it": "lago di Toblino",
+      "name_en": "Lago di Toblino",
+      "latitude": 46.053361,
+      "longitude": 10.965806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q781019"
+    },
+    {
+      "id": 402,
+      "wikidata_id": "Q1432181",
+      "name_it": "lago di Tovel",
+      "name_en": "Lago di Tovel",
+      "latitude": 46.26155,
+      "longitude": 10.947997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1432181"
+    },
+    {
+      "id": 403,
+      "wikidata_id": "Q18785480",
+      "name_it": "lago di Tramonti",
+      "name_en": "Tramonti Lake",
+      "latitude": 46.255,
+      "longitude": 12.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18785480"
+    },
+    {
+      "id": 404,
+      "wikidata_id": "Q3826057",
+      "name_it": "Lago di Trona",
+      "name_en": "Lago di Trona",
+      "latitude": 46.029161,
+      "longitude": 9.538928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826057"
+    },
+    {
+      "id": 405,
+      "wikidata_id": "Q1800435",
+      "name_it": "lago di Vagli",
+      "name_en": "Lago di Vagli",
+      "latitude": 44.1225,
+      "longitude": 10.305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800435"
+    },
+    {
+      "id": 406,
+      "wikidata_id": "Q674601",
+      "name_it": "Lago di Val di Noci",
+      "name_en": "Lago di Val di Noci",
+      "latitude": 44.493167,
+      "longitude": 9.037731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q674601"
+    },
+    {
+      "id": 407,
+      "wikidata_id": "Q15714216",
+      "name_it": "lago di Val Gallina",
+      "name_en": "",
+      "latitude": 46.2175,
+      "longitude": 12.335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15714216"
+    },
+    {
+      "id": 408,
+      "wikidata_id": "Q3826058",
+      "name_it": "lago di Val Noana",
+      "name_en": "lake of Val Noana",
+      "latitude": 46.138214,
+      "longitude": 11.839135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826058"
+    },
+    {
+      "id": 409,
+      "wikidata_id": "Q17635201",
+      "name_it": "lago di Valbona",
+      "name_en": "Lago di Valbona",
+      "latitude": 46.0472,
+      "longitude": 10.1842,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17635201"
+    },
+    {
+      "id": 410,
+      "wikidata_id": "Q58482894",
+      "name_it": "Lago di Valda",
+      "name_en": "Lake of Valda",
+      "latitude": 46.22355,
+      "longitude": 11.24276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58482894"
+    },
+    {
+      "id": 411,
+      "wikidata_id": "Q545018",
+      "name_it": "lago di Valdaora",
+      "name_en": "Olanger Stausee",
+      "latitude": 46.759827,
+      "longitude": 12.060166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q545018"
+    },
+    {
+      "id": 412,
+      "wikidata_id": "Q1267415",
+      "name_it": "lago di Valdurna",
+      "name_en": "Durnholzer See",
+      "latitude": 46.742778,
+      "longitude": 11.443611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1267415"
+    },
+    {
+      "id": 413,
+      "wikidata_id": "Q59820849",
+      "name_it": "lago di Valle",
+      "name_en": "Lake of Valle",
+      "latitude": 46.12375,
+      "longitude": 11.216167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59820849"
+    },
+    {
+      "id": 414,
+      "wikidata_id": "Q3826063",
+      "name_it": "lago di Valle di Cadore",
+      "name_en": "Lago di Valle di Cadore",
+      "latitude": 46.4107,
+      "longitude": 12.3155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826063"
+    },
+    {
+      "id": 415,
+      "wikidata_id": "Q3826061",
+      "name_it": "lago di Valle Sambuzza",
+      "name_en": "",
+      "latitude": 46.04412,
+      "longitude": 9.82201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826061"
+    },
+    {
+      "id": 416,
+      "wikidata_id": "Q3826065",
+      "name_it": "lago di Valsoera",
+      "name_en": "",
+      "latitude": 45.492047,
+      "longitude": 7.397904,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826065"
+    },
+    {
+      "id": 417,
+      "wikidata_id": "Q511180",
+      "name_it": "lago di Varano",
+      "name_en": "Lago di Varano",
+      "latitude": 41.879167,
+      "longitude": 15.746111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q511180"
+    },
+    {
+      "id": 418,
+      "wikidata_id": "Q542913",
+      "name_it": "lago di Varese",
+      "name_en": "Lake Varese",
+      "latitude": 45.816667,
+      "longitude": 8.733333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q542913"
+    },
+    {
+      "id": 419,
+      "wikidata_id": "Q2507396",
+      "name_it": "lago di Varna",
+      "name_en": "Vahrner See",
+      "latitude": 46.765464,
+      "longitude": 11.634627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2507396"
+    },
+    {
+      "id": 420,
+      "wikidata_id": "Q17494455",
+      "name_it": "Lago di Varro",
+      "name_en": "Lago di Varro",
+      "latitude": 46.0286,
+      "longitude": 10.1083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17494455"
+    },
+    {
+      "id": 421,
+      "wikidata_id": "Q10640493",
+      "name_it": "lago di Vedana",
+      "name_en": "Lake Vedana",
+      "latitude": 46.159995,
+      "longitude": 12.105517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10640493"
+    },
+    {
+      "id": 422,
+      "wikidata_id": "Q105085474",
+      "name_it": "Lago di Venina",
+      "name_en": "Lago di Venina",
+      "latitude": 46.084503,
+      "longitude": 9.866177,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105085474"
+    },
+    {
+      "id": 423,
+      "wikidata_id": "Q3826066",
+      "name_it": "lago di Ventina",
+      "name_en": "Ventina lake",
+      "latitude": 42.508889,
+      "longitude": 12.753333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826066"
+    },
+    {
+      "id": 424,
+      "wikidata_id": "Q1654531",
+      "name_it": "lago di Vernago",
+      "name_en": "Vernagt-Stausee",
+      "latitude": 46.735556,
+      "longitude": 10.836111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1654531"
+    },
+    {
+      "id": 425,
+      "wikidata_id": "Q1246006",
+      "name_it": "Lago di Vico",
+      "name_en": "Lake Vico",
+      "latitude": 42.317,
+      "longitude": 12.175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1246006"
+    },
+    {
+      "id": 426,
+      "wikidata_id": "Q1800441",
+      "name_it": "lago di Viverone",
+      "name_en": "Lago di Viverone",
+      "latitude": 45.416667,
+      "longitude": 8.033333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800441"
+    },
+    {
+      "id": 427,
+      "wikidata_id": "Q3826072",
+      "name_it": "lago di Vladimonio",
+      "name_en": "Lake Vadimo",
+      "latitude": 42.484063,
+      "longitude": 12.323162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826072"
+    },
+    {
+      "id": 428,
+      "wikidata_id": "Q3826068",
+      "name_it": "lago di Vobbietta",
+      "name_en": "",
+      "latitude": 44.638657,
+      "longitude": 8.974851,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826068"
+    },
+    {
+      "id": 429,
+      "wikidata_id": "Q218361",
+      "name_it": "lago di Zoccolo",
+      "name_en": "Lake Zoccolo",
+      "latitude": 46.538171,
+      "longitude": 10.985341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q218361"
+    },
+    {
+      "id": 430,
+      "wikidata_id": "Q36995635",
+      "name_it": "Lago Djouan",
+      "name_en": "Djouan Lakes",
+      "latitude": 45.55772,
+      "longitude": 7.17879,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36995635"
+    },
+    {
+      "id": 431,
+      "wikidata_id": "Q3825689",
+      "name_it": "lago Emet",
+      "name_en": "",
+      "latitude": 46.469493,
+      "longitude": 9.381466,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825689"
+    },
+    {
+      "id": 432,
+      "wikidata_id": "Q109377222",
+      "name_it": "Lago Fallère",
+      "name_en": "Lago Fallère",
+      "latitude": 45.76882,
+      "longitude": 7.20513,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109377222"
+    },
+    {
+      "id": 433,
+      "wikidata_id": "Q3825692",
+      "name_it": "lago Fedèra",
+      "name_en": "Lago Fedèra",
+      "latitude": 46.4881,
+      "longitude": 12.1045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825692"
+    },
+    {
+      "id": 434,
+      "wikidata_id": "Q48805215",
+      "name_it": "Lago Fiorenza",
+      "name_en": "Lago Fiorenza",
+      "latitude": 44.69592,
+      "longitude": 7.09353,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48805215"
+    },
+    {
+      "id": 435,
+      "wikidata_id": "Q21328970",
+      "name_it": "lago Fontanej",
+      "name_en": "Lake Fontanej",
+      "latitude": 45.12201,
+      "longitude": 7.52959,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21328970"
+    },
+    {
+      "id": 436,
+      "wikidata_id": "Q67130929",
+      "name_it": "lago Frontetusio",
+      "name_en": "Lake Frontetusio",
+      "latitude": 40.91533,
+      "longitude": 15.95133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67130929"
+    },
+    {
+      "id": 437,
+      "wikidata_id": "Q764710",
+      "name_it": "lago Fusaro",
+      "name_en": "Fusaro Lake",
+      "latitude": 40.821944,
+      "longitude": 14.054722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q764710"
+    },
+    {
+      "id": 438,
+      "wikidata_id": "Q3825697",
+      "name_it": "lago Gabiet",
+      "name_en": "lago Gabiet",
+      "latitude": 45.8484,
+      "longitude": 7.8477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825697"
+    },
+    {
+      "id": 439,
+      "wikidata_id": "Q3825704",
+      "name_it": "lago Gelt",
+      "name_en": "Gelt Lake",
+      "latitude": 46.0866,
+      "longitude": 10.068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825704"
+    },
+    {
+      "id": 440,
+      "wikidata_id": "Q27037844",
+      "name_it": "lago Gemio inferiore",
+      "name_en": "Lago Gemio",
+      "latitude": 44.39,
+      "longitude": 10.046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27037844"
+    },
+    {
+      "id": 441,
+      "wikidata_id": "Q27037856",
+      "name_it": "lago Gemio superiore",
+      "name_en": "",
+      "latitude": 44.385,
+      "longitude": 10.05,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27037856"
+    },
+    {
+      "id": 442,
+      "wikidata_id": "Q3825703",
+      "name_it": "lago Gerundo",
+      "name_en": "Lago Gerundo",
+      "latitude": 45.410984,
+      "longitude": 9.596558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825703"
+    },
+    {
+      "id": 443,
+      "wikidata_id": "Q136327412",
+      "name_it": "Lago Ghetrun",
+      "name_en": "",
+      "latitude": 46.709729,
+      "longitude": 11.480316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136327412"
+    },
+    {
+      "id": 444,
+      "wikidata_id": "Q3825707",
+      "name_it": "lago Goillet",
+      "name_en": "Goillet Lake",
+      "latitude": 45.929379,
+      "longitude": 7.665045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825707"
+    },
+    {
+      "id": 445,
+      "wikidata_id": "Q122148985",
+      "name_it": "Lago Gover",
+      "name_en": "Lago Gover",
+      "latitude": 45.777147,
+      "longitude": 7.82274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122148985"
+    },
+    {
+      "id": 446,
+      "wikidata_id": "Q30132261",
+      "name_it": "Lago Grande",
+      "name_en": "Lago Grande di Avigliana",
+      "latitude": 45.0655,
+      "longitude": 7.387,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30132261"
+    },
+    {
+      "id": 447,
+      "wikidata_id": "Q56258568",
+      "name_it": "Lago Grande",
+      "name_en": "Lago Grande",
+      "latitude": 40.9308,
+      "longitude": 15.6053,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258568"
+    },
+    {
+      "id": 448,
+      "wikidata_id": "Q28669934",
+      "name_it": "Lago Grande di Unghiasse",
+      "name_en": "Lago Grande di Unghiasse",
+      "latitude": 45.40999,
+      "longitude": 7.29865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28669934"
+    },
+    {
+      "id": 449,
+      "wikidata_id": "Q1800381",
+      "name_it": "Lago Grande di Viso",
+      "name_en": "Lago Grande di Viso",
+      "latitude": 44.6646,
+      "longitude": 7.1071,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800381"
+    },
+    {
+      "id": 450,
+      "wikidata_id": "Q3825716",
+      "name_it": "lago Gurrida",
+      "name_en": "Gurrida Lake",
+      "latitude": 37.85657,
+      "longitude": 14.90011,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825716"
+    },
+    {
+      "id": 451,
+      "wikidata_id": "Q3825709",
+      "name_it": "lago Gurzia",
+      "name_en": "Lake Gurzia",
+      "latitude": 45.42557,
+      "longitude": 7.75662,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825709"
+    },
+    {
+      "id": 452,
+      "wikidata_id": "Q87073181",
+      "name_it": "Lago Iman",
+      "name_en": "Lech da Iman",
+      "latitude": 46.596028,
+      "longitude": 11.743194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87073181"
+    },
+    {
+      "id": 453,
+      "wikidata_id": "Q3825713",
+      "name_it": "lago Inferiore dell'Ischiator",
+      "name_en": "Lago Inferiore dell'Ischiator",
+      "latitude": 44.282569,
+      "longitude": 7.017311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825713"
+    },
+    {
+      "id": 454,
+      "wikidata_id": "Q1127113",
+      "name_it": "lago La Vota",
+      "name_en": "Lago La Vota",
+      "latitude": 38.941944,
+      "longitude": 16.188333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1127113"
+    },
+    {
+      "id": 455,
+      "wikidata_id": "Q35722874",
+      "name_it": "lago Lagorai",
+      "name_en": "lago Lagorai",
+      "latitude": 46.23304,
+      "longitude": 11.52886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35722874"
+    },
+    {
+      "id": 456,
+      "wikidata_id": "Q3825718",
+      "name_it": "lago Lasin",
+      "name_en": "Lago Lasin",
+      "latitude": 45.483611,
+      "longitude": 7.471111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825718"
+    },
+    {
+      "id": 457,
+      "wikidata_id": "Q55372264",
+      "name_it": "Lago Laune",
+      "name_en": "Lake Laune",
+      "latitude": 45.033397,
+      "longitude": 6.88605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55372264"
+    },
+    {
+      "id": 458,
+      "wikidata_id": "Q71021014",
+      "name_it": "Lago Leytà",
+      "name_en": "Lago Leytà",
+      "latitude": 45.49491,
+      "longitude": 7.13361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71021014"
+    },
+    {
+      "id": 459,
+      "wikidata_id": "Q3825719",
+      "name_it": "lago Locone",
+      "name_en": "Lago Locone",
+      "latitude": 41.085,
+      "longitude": 16,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825719"
+    },
+    {
+      "id": 460,
+      "wikidata_id": "Q17635202",
+      "name_it": "lago Lungo",
+      "name_en": "",
+      "latitude": 42.4772,
+      "longitude": 12.845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17635202"
+    },
+    {
+      "id": 461,
+      "wikidata_id": "Q14379",
+      "name_it": "lago Maggiore",
+      "name_en": "Lake Maggiore",
+      "latitude": 46.098056,
+      "longitude": 8.714722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14379"
+    },
+    {
+      "id": 462,
+      "wikidata_id": "Q1123881",
+      "name_it": "lago Malinvern",
+      "name_en": "Lago Malinvern",
+      "latitude": 44.21057,
+      "longitude": 7.19251,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1123881"
+    },
+    {
+      "id": 463,
+      "wikidata_id": "Q3825723",
+      "name_it": "Lago Marcio",
+      "name_en": "Lago Marcio",
+      "latitude": 46.002179,
+      "longitude": 9.791672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825723"
+    },
+    {
+      "id": 464,
+      "wikidata_id": "Q3825720",
+      "name_it": "lago Martel",
+      "name_en": "Lake Martel",
+      "latitude": 44.23771,
+      "longitude": 7.15993,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825720"
+    },
+    {
+      "id": 465,
+      "wikidata_id": "Q111600403",
+      "name_it": "Lago Mercurin",
+      "name_en": "Lake Mercurin",
+      "latitude": 45.31985,
+      "longitude": 7.21498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111600403"
+    },
+    {
+      "id": 466,
+      "wikidata_id": "Q3825725",
+      "name_it": "lago Miseno",
+      "name_en": "Lago Miseno",
+      "latitude": 40.793441,
+      "longitude": 14.072195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825725"
+    },
+    {
+      "id": 467,
+      "wikidata_id": "Q3215066",
+      "name_it": "lago Misérin",
+      "name_en": "Lake Misérin",
+      "latitude": 45.599482,
+      "longitude": 7.522416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3215066"
+    },
+    {
+      "id": 468,
+      "wikidata_id": "Q3825727",
+      "name_it": "lago Moo",
+      "name_en": "Lake Moo",
+      "latitude": 44.62561,
+      "longitude": 9.54233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825727"
+    },
+    {
+      "id": 469,
+      "wikidata_id": "Q56479911",
+      "name_it": "lago Moretta",
+      "name_en": "Lago della Moretta",
+      "latitude": 40.67284,
+      "longitude": 15.6746,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56479911"
+    },
+    {
+      "id": 470,
+      "wikidata_id": "Q3825733",
+      "name_it": "lago Moro",
+      "name_en": "Lago Moro",
+      "latitude": 46.052193,
+      "longitude": 9.794955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825733"
+    },
+    {
+      "id": 471,
+      "wikidata_id": "Q3825741",
+      "name_it": "lago Moro",
+      "name_en": "Lago Moro",
+      "latitude": 45.880169,
+      "longitude": 10.156519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825741"
+    },
+    {
+      "id": 472,
+      "wikidata_id": "Q3825736",
+      "name_it": "lago Morto",
+      "name_en": "Lago Morto",
+      "latitude": 46.06,
+      "longitude": 12.321111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825736"
+    },
+    {
+      "id": 473,
+      "wikidata_id": "Q3825732",
+      "name_it": "lago Mulargia",
+      "name_en": "Lago di Mulargia",
+      "latitude": 39.624731,
+      "longitude": 9.238129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825732"
+    },
+    {
+      "id": 474,
+      "wikidata_id": "Q122310153",
+      "name_it": "Lago Murana",
+      "name_en": "Lago Murana",
+      "latitude": 37.6265,
+      "longitude": 12.6344,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122310153"
+    },
+    {
+      "id": 475,
+      "wikidata_id": "Q11789423",
+      "name_it": "Lago Nambino",
+      "name_en": "Lago Nambino",
+      "latitude": 46.242417,
+      "longitude": 10.799897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11789423"
+    },
+    {
+      "id": 476,
+      "wikidata_id": "Q3825742",
+      "name_it": "lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 45.998497,
+      "longitude": 9.873984,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825742"
+    },
+    {
+      "id": 477,
+      "wikidata_id": "Q3825740",
+      "name_it": "lago Nero",
+      "name_en": "Lake Nero",
+      "latitude": 44.90108,
+      "longitude": 6.79467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825740"
+    },
+    {
+      "id": 478,
+      "wikidata_id": "Q3825747",
+      "name_it": "lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 44.115556,
+      "longitude": 10.636944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825747"
+    },
+    {
+      "id": 479,
+      "wikidata_id": "Q3825744",
+      "name_it": "lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 44.562,
+      "longitude": 9.502,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825744"
+    },
+    {
+      "id": 480,
+      "wikidata_id": "Q3825749",
+      "name_it": "lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 45.816389,
+      "longitude": 7.873611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825749"
+    },
+    {
+      "id": 481,
+      "wikidata_id": "Q16570946",
+      "name_it": "Lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 45.504843,
+      "longitude": 7.873332,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570946"
+    },
+    {
+      "id": 482,
+      "wikidata_id": "Q55372775",
+      "name_it": "Lago Nero",
+      "name_en": "Black Lake",
+      "latitude": 44.999864,
+      "longitude": 6.870345,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55372775"
+    },
+    {
+      "id": 483,
+      "wikidata_id": "Q121437338",
+      "name_it": "Lago Nero",
+      "name_en": "Lago Nero",
+      "latitude": 46.21643,
+      "longitude": 10.73051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121437338"
+    },
+    {
+      "id": 484,
+      "wikidata_id": "Q16570952",
+      "name_it": "lago Palo",
+      "name_en": "Lake Palo",
+      "latitude": 44.361,
+      "longitude": 10.115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570952"
+    },
+    {
+      "id": 485,
+      "wikidata_id": "Q62027816",
+      "name_it": "Lago Palù",
+      "name_en": "Lago Palù",
+      "latitude": 46.299712,
+      "longitude": 9.868433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62027816"
+    },
+    {
+      "id": 486,
+      "wikidata_id": "Q3825752",
+      "name_it": "lago Pantano d'Avio",
+      "name_en": "Lake Pantano d'Avio",
+      "latitude": 46.165,
+      "longitude": 10.47194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825752"
+    },
+    {
+      "id": 487,
+      "wikidata_id": "Q3825756",
+      "name_it": "lago Passante",
+      "name_en": "Lake Passante",
+      "latitude": 39.098847,
+      "longitude": 16.518874,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825756"
+    },
+    {
+      "id": 488,
+      "wikidata_id": "Q20537809",
+      "name_it": "lago Pellaud",
+      "name_en": "Lake Pellaud",
+      "latitude": 45.55767,
+      "longitude": 7.11328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20537809"
+    },
+    {
+      "id": 489,
+      "wikidata_id": "Q1800432",
+      "name_it": "lago Pergusa",
+      "name_en": "Pergusa Lake",
+      "latitude": 37.513889,
+      "longitude": 14.305833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800432"
+    },
+    {
+      "id": 490,
+      "wikidata_id": "Q57545204",
+      "name_it": "Lago Perrin",
+      "name_en": "Perrin Lake",
+      "latitude": 45.81075,
+      "longitude": 7.766231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57545204"
+    },
+    {
+      "id": 491,
+      "wikidata_id": "Q3825759",
+      "name_it": "lago Piatto",
+      "name_en": "Lago Piatto",
+      "latitude": 44.118945,
+      "longitude": 10.630581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825759"
+    },
+    {
+      "id": 492,
+      "wikidata_id": "Q30132247",
+      "name_it": "Lago Piccolo",
+      "name_en": "Lago Piccolo di Avigliana",
+      "latitude": 45.0542,
+      "longitude": 7.3916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30132247"
+    },
+    {
+      "id": 493,
+      "wikidata_id": "Q56258569",
+      "name_it": "Lago Piccolo",
+      "name_en": "Lago Piccolo",
+      "latitude": 40.9324,
+      "longitude": 15.613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258569"
+    },
+    {
+      "id": 494,
+      "wikidata_id": "Q3825758",
+      "name_it": "lago Pio",
+      "name_en": "Lago Pio",
+      "latitude": 41.933047,
+      "longitude": 13.842097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825758"
+    },
+    {
+      "id": 495,
+      "wikidata_id": "Q3825757",
+      "name_it": "lago Pistono",
+      "name_en": "Lago Pistono",
+      "latitude": 45.493,
+      "longitude": 7.8745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825757"
+    },
+    {
+      "id": 496,
+      "wikidata_id": "Q65954939",
+      "name_it": "lago Pontini",
+      "name_en": "Lake Pontini",
+      "latitude": 43.843063,
+      "longitude": 12.004199,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65954939"
+    },
+    {
+      "id": 497,
+      "wikidata_id": "Q27037871",
+      "name_it": "lago Pradaccio",
+      "name_en": "Lago Pradaccio",
+      "latitude": 44.398333,
+      "longitude": 10.018611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27037871"
+    },
+    {
+      "id": 498,
+      "wikidata_id": "Q122308339",
+      "name_it": "Lago Preola",
+      "name_en": "Lago Preola",
+      "latitude": 37.6206,
+      "longitude": 12.6411,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122308339"
+    },
+    {
+      "id": 499,
+      "wikidata_id": "Q105089950",
+      "name_it": "Lago Publino",
+      "name_en": "Lago Publino",
+      "latitude": 46.055369,
+      "longitude": 9.836806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105089950"
+    },
+    {
+      "id": 500,
+      "wikidata_id": "Q115173821",
+      "name_it": "Lago Pudro",
+      "name_en": "Lago Pudro",
+      "latitude": 46.078948,
+      "longitude": 11.221323,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115173821"
+    },
+    {
+      "id": 501,
+      "wikidata_id": "Q99662597",
+      "name_it": "Lago Raschera",
+      "name_en": "Lake Raschera",
+      "latitude": 44.18311,
+      "longitude": 7.78818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99662597"
+    },
+    {
+      "id": 502,
+      "wikidata_id": "Q115089452",
+      "name_it": "Lago Rascià",
+      "name_en": "Rascià Lake",
+      "latitude": 44.92752,
+      "longitude": 6.77261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115089452"
+    },
+    {
+      "id": 503,
+      "wikidata_id": "Q84604026",
+      "name_it": "Lago Rataira",
+      "name_en": "Lake Rataira",
+      "latitude": 44.17725,
+      "longitude": 7.71155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q84604026"
+    },
+    {
+      "id": 504,
+      "wikidata_id": "Q3825768",
+      "name_it": "lago Ravasanella",
+      "name_en": "Lago Ravasanella",
+      "latitude": 45.632222,
+      "longitude": 8.261389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825768"
+    },
+    {
+      "id": 505,
+      "wikidata_id": "Q17051922",
+      "name_it": "Lago Regillo",
+      "name_en": "Regillus",
+      "latitude": 41.840278,
+      "longitude": 12.693056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17051922"
+    },
+    {
+      "id": 506,
+      "wikidata_id": "Q3825765",
+      "name_it": "lago Remmo",
+      "name_en": "Lago Remmo",
+      "latitude": 40.1432,
+      "longitude": 15.8365,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825765"
+    },
+    {
+      "id": 507,
+      "wikidata_id": "Q122949386",
+      "name_it": "Lago Revelli",
+      "name_en": "Lago Revelli",
+      "latitude": 44.17363,
+      "longitude": 7.8158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122949386"
+    },
+    {
+      "id": 508,
+      "wikidata_id": "Q60837331",
+      "name_it": "Lago Rosset",
+      "name_en": "Lago Rosset",
+      "latitude": 45.49569,
+      "longitude": 7.1384,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60837331"
+    },
+    {
+      "id": 509,
+      "wikidata_id": "Q3825770",
+      "name_it": "lago Rotondo",
+      "name_en": "Lago Rotondo",
+      "latitude": 46.025093,
+      "longitude": 9.877918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825770"
+    },
+    {
+      "id": 510,
+      "wikidata_id": "Q3825774",
+      "name_it": "lago Rumia",
+      "name_en": "Lago Rumia",
+      "latitude": 38.180749,
+      "longitude": 15.84721,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825774"
+    },
+    {
+      "id": 511,
+      "wikidata_id": "Q3825773",
+      "name_it": "lago Salinella",
+      "name_en": "Lago Salinella",
+      "latitude": 40.399432,
+      "longitude": 16.863702,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825773"
+    },
+    {
+      "id": 512,
+      "wikidata_id": "Q949581",
+      "name_it": "lago Salso",
+      "name_en": "Lago Salso",
+      "latitude": 41.559142,
+      "longitude": 15.872841,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q949581"
+    },
+    {
+      "id": 513,
+      "wikidata_id": "Q3825776",
+      "name_it": "lago Sant'Angelo",
+      "name_en": "Lago Sant'Angelo",
+      "latitude": 42.090006,
+      "longitude": 14.253044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825776"
+    },
+    {
+      "id": 514,
+      "wikidata_id": "Q1811284",
+      "name_it": "Lago Santo",
+      "name_en": "Lech Sant",
+      "latitude": 46.586459,
+      "longitude": 11.729461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1811284"
+    },
+    {
+      "id": 515,
+      "wikidata_id": "Q23451942",
+      "name_it": "lago Santo",
+      "name_en": "Lago Santo",
+      "latitude": 46.195933,
+      "longitude": 11.208103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23451942"
+    },
+    {
+      "id": 516,
+      "wikidata_id": "Q38095198",
+      "name_it": "Lago Santo",
+      "name_en": "Lago Santo (Terlago)",
+      "latitude": 46.12434,
+      "longitude": 11.05853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38095198"
+    },
+    {
+      "id": 517,
+      "wikidata_id": "Q962018",
+      "name_it": "lago Santo modenese",
+      "name_en": "Lago Santo modenese",
+      "latitude": 44.136522,
+      "longitude": 10.585861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q962018"
+    },
+    {
+      "id": 518,
+      "wikidata_id": "Q3825786",
+      "name_it": "lago Santo parmense",
+      "name_en": "Lago Santo parmense",
+      "latitude": 44.401944,
+      "longitude": 10.006944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825786"
+    },
+    {
+      "id": 519,
+      "wikidata_id": "Q47459470",
+      "name_it": "Lago Sardegnana",
+      "name_en": "Lake Sardegnana",
+      "latitude": 46.014381,
+      "longitude": 9.806561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47459470"
+    },
+    {
+      "id": 520,
+      "wikidata_id": "Q3825777",
+      "name_it": "lago Sassano",
+      "name_en": "Lake Sassano",
+      "latitude": 40.968767,
+      "longitude": 17.097158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825777"
+    },
+    {
+      "id": 521,
+      "wikidata_id": "Q3825783",
+      "name_it": "lago Scaffaiolo",
+      "name_en": "Lago Scaffaiolo",
+      "latitude": 44.118,
+      "longitude": 10.809,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825783"
+    },
+    {
+      "id": 522,
+      "wikidata_id": "Q3825781",
+      "name_it": "lago Scanizzon",
+      "name_en": "",
+      "latitude": 44.4361,
+      "longitude": 8.51806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825781"
+    },
+    {
+      "id": 523,
+      "wikidata_id": "Q110966340",
+      "name_it": "lago Scuro",
+      "name_en": "Lago Scuro",
+      "latitude": 42.501237,
+      "longitude": 11.310518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110966340"
+    },
+    {
+      "id": 524,
+      "wikidata_id": "Q26939160",
+      "name_it": "lago Scuro parmense",
+      "name_en": "Lago Scuro",
+      "latitude": 44.382,
+      "longitude": 10.045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26939160"
+    },
+    {
+      "id": 525,
+      "wikidata_id": "Q56258570",
+      "name_it": "Lago Secco",
+      "name_en": "Lago Secco",
+      "latitude": 42.70331,
+      "longitude": 13.32489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258570"
+    },
+    {
+      "id": 526,
+      "wikidata_id": "Q3825784",
+      "name_it": "lago Selva",
+      "name_en": "Lago Selva",
+      "latitude": 41.607284,
+      "longitude": 13.96593,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825784"
+    },
+    {
+      "id": 527,
+      "wikidata_id": "Q3825791",
+      "name_it": "lago Serrù",
+      "name_en": "Lago Serrù",
+      "latitude": 45.459203,
+      "longitude": 7.125794,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825791"
+    },
+    {
+      "id": 528,
+      "wikidata_id": "Q16570961",
+      "name_it": "lago Sinizzo",
+      "name_en": "Lago Sinizzo",
+      "latitude": 42.290898,
+      "longitude": 13.576262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570961"
+    },
+    {
+      "id": 529,
+      "wikidata_id": "Q3825790",
+      "name_it": "lago Sirino",
+      "name_en": "Lago Sirino",
+      "latitude": 40.092469,
+      "longitude": 15.808765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825790"
+    },
+    {
+      "id": 530,
+      "wikidata_id": "Q3825794",
+      "name_it": "lago Sirio",
+      "name_en": "Lake Sirio",
+      "latitude": 45.487,
+      "longitude": 7.884,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825794"
+    },
+    {
+      "id": 531,
+      "wikidata_id": "Q55372384",
+      "name_it": "Lago Sommelier",
+      "name_en": "Lake Sommelier",
+      "latitude": 45.135189,
+      "longitude": 6.84608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55372384"
+    },
+    {
+      "id": 532,
+      "wikidata_id": "Q16570964",
+      "name_it": "lago Sompunt",
+      "name_en": "Lech de Sompunt",
+      "latitude": 46.596368,
+      "longitude": 11.894031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570964"
+    },
+    {
+      "id": 533,
+      "wikidata_id": "Q121307575",
+      "name_it": "",
+      "name_en": "Lago Soprano",
+      "latitude": 37.4598,
+      "longitude": 13.87718,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121307575"
+    },
+    {
+      "id": 534,
+      "wikidata_id": "Q66482792",
+      "name_it": "Lago Specchio di Venere",
+      "name_en": "Lago di Venere",
+      "latitude": 36.815811,
+      "longitude": 11.986214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66482792"
+    },
+    {
+      "id": 535,
+      "wikidata_id": "Q3825792",
+      "name_it": "lago Spigorel",
+      "name_en": "Lago Spigorel",
+      "latitude": 45.5942,
+      "longitude": 10.0029,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825792"
+    },
+    {
+      "id": 536,
+      "wikidata_id": "Q111633380",
+      "name_it": "Lago Spinale",
+      "name_en": "Lake Spinale",
+      "latitude": 46.22015,
+      "longitude": 10.86562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111633380"
+    },
+    {
+      "id": 537,
+      "wikidata_id": "Q98107771",
+      "name_it": "Lago Squincio",
+      "name_en": "",
+      "latitude": 44.353848,
+      "longitude": 10.136944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98107771"
+    },
+    {
+      "id": 538,
+      "wikidata_id": "Q3825793",
+      "name_it": "Lago Sucotto",
+      "name_en": "Lago Sucotto",
+      "latitude": 45.999111,
+      "longitude": 9.88575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825793"
+    },
+    {
+      "id": 539,
+      "wikidata_id": "Q56258571",
+      "name_it": "Lago sul torrente Moscia",
+      "name_en": "Lago sul torrente Moscia",
+      "latitude": 43.861474,
+      "longitude": 11.571313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258571"
+    },
+    {
+      "id": 540,
+      "wikidata_id": "Q56258572",
+      "name_it": "Lago sul torrente Rincine",
+      "name_en": "Lago sul torrente Rincine",
+      "latitude": 43.868253,
+      "longitude": 11.603711,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258572"
+    },
+    {
+      "id": 541,
+      "wikidata_id": "Q73744645",
+      "name_it": "Lago Superiore di Viso",
+      "name_en": "Lago Superiore di Viso",
+      "latitude": 44.69532,
+      "longitude": 7.08857,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73744645"
+    },
+    {
+      "id": 542,
+      "wikidata_id": "Q110460724",
+      "name_it": "Lago Tacina",
+      "name_en": "Lago Tacina",
+      "latitude": 39.14376,
+      "longitude": 16.574612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110460724"
+    },
+    {
+      "id": 543,
+      "wikidata_id": "Q3825800",
+      "name_it": "lago Torbido",
+      "name_en": "Lago Torbido",
+      "latitude": 44.11619,
+      "longitude": 10.59888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825800"
+    },
+    {
+      "id": 544,
+      "wikidata_id": "Q188487",
+      "name_it": "lago Trasimeno",
+      "name_en": "Lake Trasimeno",
+      "latitude": 43.14,
+      "longitude": 12.1,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q188487"
+    },
+    {
+      "id": 545,
+      "wikidata_id": "Q107043295",
+      "name_it": "lago Trenta",
+      "name_en": "",
+      "latitude": 46.448893,
+      "longitude": 10.874538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107043295"
+    },
+    {
+      "id": 546,
+      "wikidata_id": "Q3825802",
+      "name_it": "lago Turchino",
+      "name_en": "Lago Turchino",
+      "latitude": 44.120497,
+      "longitude": 10.599306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825802"
+    },
+    {
+      "id": 547,
+      "wikidata_id": "Q130088732",
+      "name_it": "lago Turchino",
+      "name_en": "lago Turchino",
+      "latitude": 46.024784,
+      "longitude": 11.137777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130088732"
+    },
+    {
+      "id": 548,
+      "wikidata_id": "Q3825803",
+      "name_it": "lago Valcuca",
+      "name_en": "",
+      "latitude": 44.19284,
+      "longitude": 7.24446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825803"
+    },
+    {
+      "id": 549,
+      "wikidata_id": "Q78305071",
+      "name_it": "Lago Vannino",
+      "name_en": "Lago Vannino",
+      "latitude": 46.37982,
+      "longitude": 8.36024,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q78305071"
+    },
+    {
+      "id": 550,
+      "wikidata_id": "Q115734950",
+      "name_it": "Lago Vargno",
+      "name_en": "",
+      "latitude": 45.64747,
+      "longitude": 7.91138,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115734950"
+    },
+    {
+      "id": 551,
+      "wikidata_id": "Q3825808",
+      "name_it": "lago Vej del Bouc",
+      "name_en": "Vej del Bouc lake",
+      "latitude": 44.1239,
+      "longitude": 7.4064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825808"
+    },
+    {
+      "id": 552,
+      "wikidata_id": "Q3825810",
+      "name_it": "lago Venerocolo",
+      "name_en": "",
+      "latitude": 46.1791,
+      "longitude": 10.495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825810"
+    },
+    {
+      "id": 553,
+      "wikidata_id": "Q1552341",
+      "name_it": "lago Verde",
+      "name_en": "Grünsee",
+      "latitude": 46.481611,
+      "longitude": 10.796642,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1552341"
+    },
+    {
+      "id": 554,
+      "wikidata_id": "Q3825813",
+      "name_it": "lago Verde",
+      "name_en": "Lake Verde",
+      "latitude": 44.3625,
+      "longitude": 10.09,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825813"
+    },
+    {
+      "id": 555,
+      "wikidata_id": "Q6472291",
+      "name_it": "",
+      "name_en": "Lago Verde",
+      "latitude": 44.366667,
+      "longitude": 10.083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6472291"
+    },
+    {
+      "id": 556,
+      "wikidata_id": "Q107468320",
+      "name_it": "Lago Verde",
+      "name_en": "Lago Verde",
+      "latitude": 44.409215,
+      "longitude": 9.796654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107468320"
+    },
+    {
+      "id": 557,
+      "wikidata_id": "Q3661939",
+      "name_it": "lago Verney",
+      "name_en": "Verney Lake",
+      "latitude": 45.688183,
+      "longitude": 6.882442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3661939"
+    },
+    {
+      "id": 558,
+      "wikidata_id": "Q16570970",
+      "name_it": "lago Vetoio",
+      "name_en": "Vetoio lake",
+      "latitude": 42.36533,
+      "longitude": 13.3571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570970"
+    },
+    {
+      "id": 559,
+      "wikidata_id": "Q6472293",
+      "name_it": "",
+      "name_en": "Lago Viola",
+      "latitude": 46.418611,
+      "longitude": 10.163056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6472293"
+    },
+    {
+      "id": 560,
+      "wikidata_id": "Q16570974",
+      "name_it": "lago Vivo",
+      "name_en": "Lago Vivo",
+      "latitude": 41.726965,
+      "longitude": 13.952375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16570974"
+    },
+    {
+      "id": 561,
+      "wikidata_id": "Q3825814",
+      "name_it": "lago Votturino",
+      "name_en": "Lago Votturino",
+      "latitude": 39.299679,
+      "longitude": 16.562446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3825814"
+    },
+    {
+      "id": 562,
+      "wikidata_id": "Q105086424",
+      "name_it": "Lago Zancone",
+      "name_en": "Lago Zancone",
+      "latitude": 46.025106,
+      "longitude": 9.544975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105086424"
+    },
+    {
+      "id": 563,
+      "wikidata_id": "Q105086035",
+      "name_it": "Lago Zappello",
+      "name_en": "Lago Zappello",
+      "latitude": 46.082799,
+      "longitude": 9.890897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105086035"
+    },
+    {
+      "id": 564,
+      "wikidata_id": "Q3826136",
+      "name_it": "Laguna del Mort",
+      "name_en": "Laguna del Mort",
+      "latitude": 45.539121,
+      "longitude": 12.74693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3826136"
+    },
+    {
+      "id": 565,
+      "wikidata_id": "Q2250521",
+      "name_it": "Laguna di Orbetello",
+      "name_en": "Laguna di Orbetello",
+      "latitude": 42.4375,
+      "longitude": 11.194167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2250521"
+    },
+    {
+      "id": 566,
+      "wikidata_id": "Q55377858",
+      "name_it": "Lagusel",
+      "name_en": "Lagusel",
+      "latitude": 46.411963,
+      "longitude": 11.751135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55377858"
+    },
+    {
+      "id": 567,
+      "wikidata_id": "Q87073308",
+      "name_it": "Lech da Rijeda",
+      "name_en": "Lech da Rijeda",
+      "latitude": 46.598778,
+      "longitude": 11.7405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87073308"
+    },
+    {
+      "id": 568,
+      "wikidata_id": "Q1811289",
+      "name_it": "Lech dl Dragon",
+      "name_en": "Lech dl Dragon",
+      "latitude": 46.534722,
+      "longitude": 11.805,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1811289"
+    },
+    {
+      "id": 569,
+      "wikidata_id": "Q124726154",
+      "name_it": "",
+      "name_en": "Patrignano Lake",
+      "latitude": 44.173709,
+      "longitude": 10.818164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124726154"
+    },
+    {
+      "id": 570,
+      "wikidata_id": "Q124172098",
+      "name_it": "Salmseiner Weiher",
+      "name_en": "Salmseiner Weiher",
+      "latitude": 46.528213,
+      "longitude": 11.520531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124172098"
+    },
+    {
+      "id": 571,
+      "wikidata_id": "Q2220642",
+      "name_it": "",
+      "name_en": "Sandessee",
+      "latitude": 46.985278,
+      "longitude": 11.323611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2220642"
+    },
+    {
+      "id": 572,
+      "wikidata_id": "Q3968023",
+      "name_it": "stagno di Calich",
+      "name_en": "estany del Càlic",
+      "latitude": 40.59614,
+      "longitude": 8.299913,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3968023"
+    },
+    {
+      "id": 573,
+      "wikidata_id": "Q3968026",
+      "name_it": "Stagno di Peschiera",
+      "name_en": "",
+      "latitude": 46.213889,
+      "longitude": 9.422778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3968026"
+    },
+    {
+      "id": 574,
+      "wikidata_id": "Q3968034",
+      "name_it": "Stagnone della Capraia",
+      "name_en": "Stagnone della Capraia",
+      "latitude": 43.040278,
+      "longitude": 9.809444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3968034"
+    },
+    {
+      "id": 575,
+      "wikidata_id": "Q98219558",
+      "name_it": "",
+      "name_en": "Upper Lake of Fusine",
+      "latitude": 46.475833,
+      "longitude": 13.6675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98219558"
+    },
+    {
+      "id": 576,
+      "wikidata_id": "Q66309376",
+      "name_it": "",
+      "name_en": "Wilder See",
+      "latitude": 46.89844,
+      "longitude": 11.58979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66309376"
+    }
+  ],
+  "meta": {
+    "title": "Laghi in Italia - Download gratuito",
+    "description": "Elenco dei laghi in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 576 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Laghi in Italia | ListBase",
+    "seo_description": "Scarica Laghi in Italia — 576 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 576 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

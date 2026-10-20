@@ -1,0 +1,1402 @@
+{
+  "id": "it-firenze-banche",
+  "name": "Banche a Firenze — codici SWIFT/BIC",
+  "title": "Banche a Firenze — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Firenze, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 193,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 59,
+      "bank": "AEROPORTO DI FIRENZE SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "AEFRIT21"
+    },
+    {
+      "id": 700,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21626"
+    },
+    {
+      "id": 701,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "ANTBIT21627"
+    },
+    {
+      "id": 702,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "ANTBIT21625"
+    },
+    {
+      "id": 1453,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "(AG. FIRENZE 2)",
+      "swift_code": "CRACIT31313"
+    },
+    {
+      "id": 1454,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "(AG. FIRENZE 3)",
+      "swift_code": "CRACIT31315"
+    },
+    {
+      "id": 1455,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 3)",
+      "swift_code": "CRACIT31316"
+    },
+    {
+      "id": 1456,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE VILLA FAGAN)",
+      "swift_code": "CRACIT31317"
+    },
+    {
+      "id": 1457,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE-AG.1 VIALE FRANCESCO TALENTI)",
+      "swift_code": "CRACIT31312"
+    },
+    {
+      "id": 1458,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "CRACIT33"
+    },
+    {
+      "id": 1557,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 1 - FIRENZE)",
+      "swift_code": "CRGEITG1451"
+    },
+    {
+      "id": 1558,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 5 - FIRENZE)",
+      "swift_code": "CRGEITG1695"
+    },
+    {
+      "id": 1559,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 6 - FIRENZE)",
+      "swift_code": "CRGEITG1766"
+    },
+    {
+      "id": 1560,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 7 - FIRENZE)",
+      "swift_code": "CRGEITG1767"
+    },
+    {
+      "id": 3057,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI PONTASSIEVE SOC.  COOP.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA FIRENZE 1)",
+      "swift_code": "ICRAITR1KG6"
+    },
+    {
+      "id": 3627,
+      "bank": "BANCA D'ITALIA",
+      "city": "FIRENZE",
+      "branch": "(FILIALE DI PRATO)",
+      "swift_code": "BITAITR1319"
+    },
+    {
+      "id": 3628,
+      "bank": "BANCA D'ITALIA",
+      "city": "FIRENZE",
+      "branch": "(SEDE DI FIRENZE)",
+      "swift_code": "BITAITR1311"
+    },
+    {
+      "id": 3760,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 2)",
+      "swift_code": "EUBAITM1823"
+    },
+    {
+      "id": 3790,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 100 SEDE)",
+      "swift_code": "IFIGIT31100"
+    },
+    {
+      "id": 3791,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 105 FIRENZE 2)",
+      "swift_code": "IFIGIT31105"
+    },
+    {
+      "id": 3792,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 108 FIRENZE 3)",
+      "swift_code": "IFIGIT31108"
+    },
+    {
+      "id": 3793,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "IFIGIT31"
+    },
+    {
+      "id": 3818,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BIMTITT1009"
+    },
+    {
+      "id": 4671,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE  AG. 27)",
+      "swift_code": "PASCITM1625"
+    },
+    {
+      "id": 4672,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 28)",
+      "swift_code": "PASCITM1626"
+    },
+    {
+      "id": 4673,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 29)",
+      "swift_code": "PASCITM1627"
+    },
+    {
+      "id": 6693,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR13JZ"
+    },
+    {
+      "id": 6694,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BNLIITR13PZ"
+    },
+    {
+      "id": 6695,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR13KZ"
+    },
+    {
+      "id": 6696,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR13LZ"
+    },
+    {
+      "id": 6697,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BNLIITR13MZ"
+    },
+    {
+      "id": 6698,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BNLIITR13NZ"
+    },
+    {
+      "id": 6699,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 9 UFF. FINANZIARI)",
+      "swift_code": "BNLIITR13OZ"
+    },
+    {
+      "id": 6700,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA BORGO PINTI)",
+      "swift_code": "BNLIITR13QZ"
+    },
+    {
+      "id": 6701,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA DI RIFREDI)",
+      "swift_code": "BNLIITR13RZ"
+    },
+    {
+      "id": 6702,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA FF.SS.)",
+      "swift_code": "BNLIITR13SZ"
+    },
+    {
+      "id": 6703,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA VIALE EUROPA)",
+      "swift_code": "BNLIITR13TZ"
+    },
+    {
+      "id": 6704,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BNLIITRRFIX"
+    },
+    {
+      "id": 8147,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE - AG.2)",
+      "swift_code": "BPMIITM1323"
+    },
+    {
+      "id": 8148,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 1)",
+      "swift_code": "BPMIITM1241"
+    },
+    {
+      "id": 8149,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BPMIITM1240"
+    },
+    {
+      "id": 9039,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 439-TORNABUONI)",
+      "swift_code": "BPSPIT21439"
+    },
+    {
+      "id": 9040,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 441-MAZZINI)",
+      "swift_code": "BPSPIT21441"
+    },
+    {
+      "id": 9041,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 447-NOVOLI)",
+      "swift_code": "BPSPIT21447"
+    },
+    {
+      "id": 9042,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 448-EUROPA)",
+      "swift_code": "BPSPIT21448"
+    },
+    {
+      "id": 9384,
+      "bank": "BANCA PROSSIMA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(DC OP BACK OFFICE FIRENZE)",
+      "swift_code": "BCITITMXK30"
+    },
+    {
+      "id": 10221,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 1)",
+      "swift_code": "BAPPIT21N26"
+    },
+    {
+      "id": 10222,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 10)",
+      "swift_code": "BAPPIT21T93"
+    },
+    {
+      "id": 10223,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 11)",
+      "swift_code": "BAPPIT21T97"
+    },
+    {
+      "id": 10224,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 2)",
+      "swift_code": "BAPPIT21P36"
+    },
+    {
+      "id": 10225,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 3)",
+      "swift_code": "BAPPIT21P42"
+    },
+    {
+      "id": 10226,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 4)",
+      "swift_code": "BAPPIT21N29"
+    },
+    {
+      "id": 10227,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 5)",
+      "swift_code": "BAPPIT21N30"
+    },
+    {
+      "id": 10228,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 6)",
+      "swift_code": "BAPPIT21N31"
+    },
+    {
+      "id": 10229,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 7)",
+      "swift_code": "BAPPIT21N32"
+    },
+    {
+      "id": 10230,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 8)",
+      "swift_code": "BAPPIT21N33"
+    },
+    {
+      "id": 10231,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 9)",
+      "swift_code": "BAPPIT21N34"
+    },
+    {
+      "id": 10232,
+      "bank": "BANCO BPM SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE)",
+      "swift_code": "BAPPIT21N25"
+    },
+    {
+      "id": 11883,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP BACK OFFICE FIRENZE)",
+      "swift_code": "IBSPITNAK30"
+    },
+    {
+      "id": 11884,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE  ESTERO FIRENZE)",
+      "swift_code": "IBSPITNA897"
+    },
+    {
+      "id": 12067,
+      "bank": "BANCO FIORENTINO - MUGELLO IMPRUNETA SIGNA CRED.COOP.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA DI FIRENZE)",
+      "swift_code": "ICRAITR1918"
+    },
+    {
+      "id": 12160,
+      "bank": "BERTI-SIM FIRENZE",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BETFIT31"
+    },
+    {
+      "id": 12620,
+      "bank": "BRAVOECO UNO S.R.L.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BRNRIT21"
+    },
+    {
+      "id": 12663,
+      "bank": "CALIFIN SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "CLLIIT31"
+    },
+    {
+      "id": 12730,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE FIRENZE)",
+      "swift_code": "IBSPIT2FK30"
+    },
+    {
+      "id": 12731,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESRERO FIRENZE)",
+      "swift_code": "IBSPIT2F897"
+    },
+    {
+      "id": 12755,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP BACK OFFICE FIRENZE)",
+      "swift_code": "IBSPIT2UK30"
+    },
+    {
+      "id": 12756,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "IBSPIT2U897"
+    },
+    {
+      "id": 12835,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(DC OP BACK OFFICE FIRENZE)",
+      "swift_code": "IBSPIT2PK30"
+    },
+    {
+      "id": 12836,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "IBSPIT2P897"
+    },
+    {
+      "id": 13349,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGRARIA BRANCH)",
+      "swift_code": "CRFIIT3F146"
+    },
+    {
+      "id": 13350,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE FIRENZE)",
+      "swift_code": "CRFIIT3F775"
+    },
+    {
+      "id": 13351,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(CENTRO TESORERIA)",
+      "swift_code": "CRFIIT3F859"
+    },
+    {
+      "id": 13352,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "CRFIIT3F897"
+    },
+    {
+      "id": 13353,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FI FIRENZE PRATESE)",
+      "swift_code": "CRFIIT3FN6W"
+    },
+    {
+      "id": 13354,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE IMPRESE FIRENZE EST)",
+      "swift_code": "CRFIIT3F381"
+    },
+    {
+      "id": 13355,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 25)",
+      "swift_code": "CRFIIT3F103"
+    },
+    {
+      "id": 13356,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 4)",
+      "swift_code": "CRFIIT3F150"
+    },
+    {
+      "id": 13357,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 41)",
+      "swift_code": "CRFIIT3F806"
+    },
+    {
+      "id": 13358,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH  35)",
+      "swift_code": "CRFIIT3F857"
+    },
+    {
+      "id": 13359,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 1)",
+      "swift_code": "CRFIIT3F147"
+    },
+    {
+      "id": 13360,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 10)",
+      "swift_code": "CRFIIT3F156"
+    },
+    {
+      "id": 13361,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 13)",
+      "swift_code": "CRFIIT3F159"
+    },
+    {
+      "id": 13362,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 14)",
+      "swift_code": "CRFIIT3F160"
+    },
+    {
+      "id": 13363,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 17)",
+      "swift_code": "CRFIIT3F164"
+    },
+    {
+      "id": 13364,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 19)",
+      "swift_code": "CRFIIT3F166"
+    },
+    {
+      "id": 13365,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 2)",
+      "swift_code": "CRFIIT3F148"
+    },
+    {
+      "id": 13366,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 20)",
+      "swift_code": "CRFIIT3F168"
+    },
+    {
+      "id": 13367,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 21)",
+      "swift_code": "CRFIIT3F169"
+    },
+    {
+      "id": 13368,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 22)",
+      "swift_code": "CRFIIT3F173"
+    },
+    {
+      "id": 13369,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 23)",
+      "swift_code": "CRFIIT3F174"
+    },
+    {
+      "id": 13370,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 24)",
+      "swift_code": "CRFIIT3F178"
+    },
+    {
+      "id": 13371,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 26)",
+      "swift_code": "CRFIIT3F180"
+    },
+    {
+      "id": 13372,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 27)",
+      "swift_code": "CRFIIT3F184"
+    },
+    {
+      "id": 13373,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 3)",
+      "swift_code": "CRFIIT3F149"
+    },
+    {
+      "id": 13374,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 30)",
+      "swift_code": "CRFIIT3F849"
+    },
+    {
+      "id": 13375,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 34)",
+      "swift_code": "CRFIIT3F821"
+    },
+    {
+      "id": 13376,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 36)",
+      "swift_code": "CRFIIT3F858"
+    },
+    {
+      "id": 13377,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 42)",
+      "swift_code": "CRFIIT3F807"
+    },
+    {
+      "id": 13378,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 46)",
+      "swift_code": "CRFIIT3F919"
+    },
+    {
+      "id": 13379,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 5)",
+      "swift_code": "CRFIIT3F151"
+    },
+    {
+      "id": 13380,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 6)",
+      "swift_code": "CRFIIT3F152"
+    },
+    {
+      "id": 13381,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 8)",
+      "swift_code": "CRFIIT3F154"
+    },
+    {
+      "id": 13382,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH 9)",
+      "swift_code": "CRFIIT3F155"
+    },
+    {
+      "id": 13383,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE MAIN BRANCH)",
+      "swift_code": "CRFIIT3F101"
+    },
+    {
+      "id": 13384,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(GALLUZZO)",
+      "swift_code": "CRFIIT3F117"
+    },
+    {
+      "id": 13385,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(PERETOLA)",
+      "swift_code": "CRFIIT3F130"
+    },
+    {
+      "id": 13386,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(PONTE A GREVE)",
+      "swift_code": "CRFIIT3F812"
+    },
+    {
+      "id": 13387,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(S.BARTOLO A CINTOIA BRANCH)",
+      "swift_code": "CRFIIT3F196"
+    },
+    {
+      "id": 13388,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "CRFIIT3F"
+    },
+    {
+      "id": 13534,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE DI FIRENZE)",
+      "swift_code": "CRFIIT3P803"
+    },
+    {
+      "id": 13535,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE FIRENZE)",
+      "swift_code": "CRFIIT3PBK3"
+    },
+    {
+      "id": 13536,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "CRFIIT3P897"
+    },
+    {
+      "id": 13587,
+      "bank": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(BRANCH NR.1)",
+      "swift_code": "CRSMIT3S927"
+    },
+    {
+      "id": 13708,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE FIRENZE)",
+      "swift_code": "IBSPIT2BK30"
+    },
+    {
+      "id": 13709,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "IBSPIT2B897"
+    },
+    {
+      "id": 14113,
+      "bank": "CHL DISTRIBUZIONE SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "CHLDIT21"
+    },
+    {
+      "id": 14471,
+      "bank": "COMUNE DI FIRENZE",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "COFZIT31"
+    },
+    {
+      "id": 15363,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21144"
+    },
+    {
+      "id": 15364,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 10)",
+      "swift_code": "BACRIT21704"
+    },
+    {
+      "id": 15365,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 5)",
+      "swift_code": "BACRIT21697"
+    },
+    {
+      "id": 15366,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 6)",
+      "swift_code": "BACRIT21696"
+    },
+    {
+      "id": 15367,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 7)",
+      "swift_code": "BACRIT21695"
+    },
+    {
+      "id": 15368,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE AG. 9)",
+      "swift_code": "BACRIT21699"
+    },
+    {
+      "id": 15369,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE SEDE)",
+      "swift_code": "BACRIT21324"
+    },
+    {
+      "id": 15631,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21315"
+    },
+    {
+      "id": 15632,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "FIRENZE",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21327"
+    },
+    {
+      "id": 16126,
+      "bank": "CYNNY",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "CYNNIT21"
+    },
+    {
+      "id": 16128,
+      "bank": "DADA SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "DADAIT21"
+    },
+    {
+      "id": 16141,
+      "bank": "DAVENTRY RE SECURITIES LIMITED",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "DAVTIT21"
+    },
+    {
+      "id": 16155,
+      "bank": "DEDALUS HOLDING",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "DEHLIT21"
+    },
+    {
+      "id": 16156,
+      "bank": "DEDALUS SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "DEDLIT21"
+    },
+    {
+      "id": 16267,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1312"
+    },
+    {
+      "id": 16268,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1314"
+    },
+    {
+      "id": 16269,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMFIR"
+    },
+    {
+      "id": 16796,
+      "bank": "FIDEURAM INTESA SANPAOLO PRIVATE BANKING",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "FIBKITMM897"
+    },
+    {
+      "id": 16797,
+      "bank": "FIDEURAM INTESA SANPAOLO PRIVATE BANKING",
+      "city": "FIRENZE",
+      "branch": "(FILIALE FIRENZE)",
+      "swift_code": "FIBKITM1085"
+    },
+    {
+      "id": 16828,
+      "bank": "FINDOMESTIC BANCA SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "FIDMIT31"
+    },
+    {
+      "id": 16883,
+      "bank": "FRENDY ENERGY SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "FRENIT21"
+    },
+    {
+      "id": 16988,
+      "bank": "GUESS ITALIA S.R.L.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "GITAIT3F"
+    },
+    {
+      "id": 16989,
+      "bank": "GUESS SERVICE S.R.L.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "GSRVIT31"
+    },
+    {
+      "id": 17144,
+      "bank": "INTEK GROUP SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "ITGUIT31"
+    },
+    {
+      "id": 17165,
+      "bank": "INTESA SANPAOLO PRIVATE BANKING SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "BCITITM3897"
+    },
+    {
+      "id": 17276,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE DI RETE - POLO DI FIRENZE (8005))",
+      "swift_code": "BCITITMM084"
+    },
+    {
+      "id": 17277,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "FIRENZE",
+      "branch": "(BACK OFFICE DI RETE)",
+      "swift_code": "BCITITMMK30"
+    },
+    {
+      "id": 17278,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "FIRENZE",
+      "branch": "(DC OP CORPORATE ESTERO FIRENZE)",
+      "swift_code": "BCITITMM897"
+    },
+    {
+      "id": 17279,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "FIRENZE",
+      "branch": "(FILIALE IMPRESE FIRENZE VINCI)",
+      "swift_code": "BCITITMMV46"
+    },
+    {
+      "id": 17826,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BECCARIA BRANCH)",
+      "swift_code": "BPVIIT21464"
+    },
+    {
+      "id": 17827,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH)",
+      "swift_code": "BPVIIT21448"
+    },
+    {
+      "id": 17828,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE OSMANNORO BRANCH)",
+      "swift_code": "BPVIIT21477"
+    },
+    {
+      "id": 18771,
+      "bank": "MPS CAPITAL SERVICES BANCA PER LE IMPRESE SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "MPSMIT31"
+    },
+    {
+      "id": 18775,
+      "bank": "MPS VENTURE SOCIETA' DI GESTIONE DEL RISPARMIO S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "MVSGIT21"
+    },
+    {
+      "id": 19247,
+      "bank": "REGIONE TOSCANA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "RETOIT21"
+    },
+    {
+      "id": 19334,
+      "bank": "SALVATORE FERRAGAMO SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SAVFIT31"
+    },
+    {
+      "id": 19339,
+      "bank": "SAN GIOVANNI SIM",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SGIOIT31"
+    },
+    {
+      "id": 19491,
+      "bank": "SIM AND FED SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SIMFIT31"
+    },
+    {
+      "id": 19539,
+      "bank": "SOFTEC SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SOETIT21"
+    },
+    {
+      "id": 19552,
+      "bank": "SOPRARNO SGR S.P.A",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SOSGIT31"
+    },
+    {
+      "id": 19630,
+      "bank": "SYSTEMA VITA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "SYVIIT31"
+    },
+    {
+      "id": 19746,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 1)",
+      "swift_code": "BFDVIT31001"
+    },
+    {
+      "id": 19747,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 2)",
+      "swift_code": "BFDVIT31002"
+    },
+    {
+      "id": 19748,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 3)",
+      "swift_code": "BFDVIT31003"
+    },
+    {
+      "id": 19749,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 4)",
+      "swift_code": "BFDVIT31004"
+    },
+    {
+      "id": 19750,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 5)",
+      "swift_code": "BFDVIT31005"
+    },
+    {
+      "id": 19751,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "(FILIALE 6)",
+      "swift_code": "BFDVIT31006"
+    },
+    {
+      "id": 19752,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "BFDVIT31"
+    },
+    {
+      "id": 21511,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "FIRENZE",
+      "branch": "(SEDE DI FIRENZE)",
+      "swift_code": "POCIITM1134"
+    },
+    {
+      "id": 23541,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(ESTERO MERCI FIRENZE)",
+      "swift_code": "UNCRITMMFIE"
+    },
+    {
+      "id": 23542,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIL. OPER. TOSCANA UMBRIA MARCHE)",
+      "swift_code": "UNCRITMMOTU"
+    },
+    {
+      "id": 23543,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BACCIO)",
+      "swift_code": "UNCRITM1F87"
+    },
+    {
+      "id": 23544,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BECCARIA)",
+      "swift_code": "UNCRITM1R03"
+    },
+    {
+      "id": 23545,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE CORRIDONI)",
+      "swift_code": "UNCRITM1R04"
+    },
+    {
+      "id": 23546,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE D'ANNUNZIO)",
+      "swift_code": "UNCRITM1H78"
+    },
+    {
+      "id": 23547,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE DEI MILLE)",
+      "swift_code": "UNCRITM1F88"
+    },
+    {
+      "id": 23548,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE LAVAGNINI)",
+      "swift_code": "UNCRITM1QS2"
+    },
+    {
+      "id": 23549,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE MASCAGNI)",
+      "swift_code": "UNCRITM1B85"
+    },
+    {
+      "id": 23550,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE MILANESI)",
+      "swift_code": "UNCRITM1OS8"
+    },
+    {
+      "id": 23551,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE NAZARIO SAURO)",
+      "swift_code": "UNCRITM1F13"
+    },
+    {
+      "id": 23552,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE NOVOLI)",
+      "swift_code": "UNCRITM1512"
+    },
+    {
+      "id": 23553,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE REDI)",
+      "swift_code": "UNCRITM1RO0"
+    },
+    {
+      "id": 23554,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE SALVEMINI)",
+      "swift_code": "UNCRITM1F15"
+    },
+    {
+      "id": 23555,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE SANSOVINO)",
+      "swift_code": "UNCRITM1RN9"
+    },
+    {
+      "id": 23556,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE VECCHIETTI A)",
+      "swift_code": "UNCRITM1F12"
+    },
+    {
+      "id": 23557,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE VECCHIETTI B)",
+      "swift_code": "UNCRITM1F86"
+    },
+    {
+      "id": 23558,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE VECCHIETTI)",
+      "swift_code": "UNCRITM189Y"
+    },
+    {
+      "id": 23559,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE VIALE EUROPA)",
+      "swift_code": "UNCRITM1R02"
+    },
+    {
+      "id": 23560,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(TOSCANA CENTRO)",
+      "swift_code": "UNCRITM1FIY"
+    },
+    {
+      "id": 23561,
+      "bank": "UNICREDIT SPA",
+      "city": "FIRENZE",
+      "branch": "(TOSCANA LARGE CORPORATE)",
+      "swift_code": "UNCRITM1FIW"
+    },
+    {
+      "id": 25968,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "FIRENZE",
+      "branch": "(FILIALE DI FIRENZE)",
+      "swift_code": "BAECIT2B002"
+    },
+    {
+      "id": 25969,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE 228 BRANCH)",
+      "swift_code": "BAECIT21228"
+    },
+    {
+      "id": 25970,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE BRANCH)",
+      "swift_code": "BAECIT21080"
+    },
+    {
+      "id": 25971,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "FIRENZE",
+      "branch": "(FIRENZE)",
+      "swift_code": "BAECIT21364"
+    },
+    {
+      "id": 26242,
+      "bank": "WIVA GROUP SPA",
+      "city": "FIRENZE",
+      "branch": "",
+      "swift_code": "WIGRIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Firenze — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Firenze, Italy Contiene 193 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Firenze — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Firenze — codici SWIFT/BIC — 193 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 193 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

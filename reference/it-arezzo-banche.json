@@ -1,0 +1,555 @@
+{
+  "id": "it-arezzo-banche",
+  "name": "Banche a Arezzo — codici SWIFT/BIC",
+  "title": "Banche a Arezzo — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Arezzo, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 216,
+      "bank": "AULO SPV SRL",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "ASVRIT31"
+    },
+    {
+      "id": 441,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "ANTBIT21827"
+    },
+    {
+      "id": 1438,
+      "bank": "BANCA ARETINA DI CREDITO COOPERATIVO S.C.P.A. A R.L.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "ACCSIT31"
+    },
+    {
+      "id": 1439,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "AREZZO",
+      "branch": "(FILIALE AREZZO)",
+      "swift_code": "CRACIT31325"
+    },
+    {
+      "id": 1497,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(FILIALE DI AREZZO)",
+      "swift_code": "CRGEITG1342"
+    },
+    {
+      "id": 2450,
+      "bank": "BANCA DI ANGHIARI E STIA CREDITO COOPERATIVO-SOC. COOP.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "ICRAITR19LD"
+    },
+    {
+      "id": 3599,
+      "bank": "BANCA D'ITALIA",
+      "city": "AREZZO",
+      "branch": "(FILIALE DI AREZZO)",
+      "swift_code": "BITAITR1310"
+    },
+    {
+      "id": 3978,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO  AG. 9)",
+      "swift_code": "PASCITM1K68"
+    },
+    {
+      "id": 3979,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 10)",
+      "swift_code": "PASCITM1K69"
+    },
+    {
+      "id": 3980,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 11)",
+      "swift_code": "PASCITM1K70"
+    },
+    {
+      "id": 3981,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 12)",
+      "swift_code": "PASCITM1K71"
+    },
+    {
+      "id": 3982,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 6)",
+      "swift_code": "PASCITM1827"
+    },
+    {
+      "id": 3983,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 7)",
+      "swift_code": "PASCITM1K66"
+    },
+    {
+      "id": 3984,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 8)",
+      "swift_code": "PASCITM1K67"
+    },
+    {
+      "id": 3985,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITM1AR1"
+    },
+    {
+      "id": 3986,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITM1AR2"
+    },
+    {
+      "id": 3987,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITM1AR3"
+    },
+    {
+      "id": 3988,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITM1AR4"
+    },
+    {
+      "id": 3989,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITM1AR5"
+    },
+    {
+      "id": 3990,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PASCITMMARE"
+    },
+    {
+      "id": 6556,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AGENZIA A)",
+      "swift_code": "BNLIITR10GZ"
+    },
+    {
+      "id": 6557,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "BNLIITRRARX"
+    },
+    {
+      "id": 7910,
+      "bank": "BANCA POPOLARE DI CORTONA S.C.PER AZ.",
+      "city": "AREZZO",
+      "branch": "(AG. AREZZO)",
+      "swift_code": "POCSIT31019"
+    },
+    {
+      "id": 9447,
+      "bank": "BANCA VALDICHIANA CREDITO COOPERATIVO DI CHIUSI E MONTEPULCIANO",
+      "city": "AREZZO",
+      "branch": "(FILIALE DI AREZZO)",
+      "swift_code": "ICRAITR1DLD"
+    },
+    {
+      "id": 9462,
+      "bank": "BANCA VALDICHIANA CREDITO COOPERATIVO TOSCO UMBRO SOCIETA' COOPE",
+      "city": "AREZZO",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1DLE"
+    },
+    {
+      "id": 9673,
+      "bank": "BANCASSURANCE POPOLARI S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "BNOOIT21"
+    },
+    {
+      "id": 9725,
+      "bank": "BANCO BPM SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG. 1)",
+      "swift_code": "BAPPIT21Q48"
+    },
+    {
+      "id": 9726,
+      "bank": "BANCO BPM SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO)",
+      "swift_code": "BAPPIT21P13"
+    },
+    {
+      "id": 13303,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO BRANCH  1)",
+      "swift_code": "CRFIIT3F202"
+    },
+    {
+      "id": 13304,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO BRANCH 2)",
+      "swift_code": "CRFIIT3F230"
+    },
+    {
+      "id": 13305,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO BRANCH 3)",
+      "swift_code": "CRFIIT3F231"
+    },
+    {
+      "id": 13306,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO MAIN BRANCH)",
+      "swift_code": "CRFIIT3F201"
+    },
+    {
+      "id": 13307,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "AREZZO",
+      "branch": "(FILIALE IMPRESE AREZZO)",
+      "swift_code": "CRFIIT3F379"
+    },
+    {
+      "id": 15301,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "AREZZO",
+      "branch": "(AREZZO AG.2)",
+      "swift_code": "BACRIT21193"
+    },
+    {
+      "id": 15557,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "BACRIT21351"
+    },
+    {
+      "id": 16178,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "AREZZO",
+      "branch": "(SPORTELLO DI AREZZO)",
+      "swift_code": "DEUTITM1325"
+    },
+    {
+      "id": 16717,
+      "bank": "ETRURIA SECURITISATION SPV SRL",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "ESPSIT21"
+    },
+    {
+      "id": 16741,
+      "bank": "EUTELIA SPA",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "EUTLIT21"
+    },
+    {
+      "id": 17733,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "AREZZO",
+      "branch": "(AREZZO BRANCH)",
+      "swift_code": "BPVIIT21491"
+    },
+    {
+      "id": 18671,
+      "bank": "MECENATE S.R.L.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "MCSRIT21"
+    },
+    {
+      "id": 18718,
+      "bank": "MICROGEST SRL",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "MCRRIT21"
+    },
+    {
+      "id": 18730,
+      "bank": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "MOBMITM1"
+    },
+    {
+      "id": 18961,
+      "bank": "PROVINCIA DI AREZZO",
+      "city": "AREZZO",
+      "branch": "",
+      "swift_code": "PRRZIT21"
+    },
+    {
+      "id": 20131,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 1 AREZZO)",
+      "swift_code": "ARBAIT33001"
+    },
+    {
+      "id": 20132,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 10 AREZZO)",
+      "swift_code": "ARBAIT33146"
+    },
+    {
+      "id": 20133,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 11 AREZZO)",
+      "swift_code": "ARBAIT33147"
+    },
+    {
+      "id": 20134,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 12 AREZZO)",
+      "swift_code": "ARBAIT33148"
+    },
+    {
+      "id": 20135,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 2 AREZZO)",
+      "swift_code": "ARBAIT33015"
+    },
+    {
+      "id": 20136,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 3 AREZZO)",
+      "swift_code": "ARBAIT33002"
+    },
+    {
+      "id": 20137,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 4 AREZZO)",
+      "swift_code": "ARBAIT33022"
+    },
+    {
+      "id": 20138,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 5 AREZZO)",
+      "swift_code": "ARBAIT33026"
+    },
+    {
+      "id": 20139,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 7 AREZZO)",
+      "swift_code": "ARBAIT33032"
+    },
+    {
+      "id": 20140,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 8 AREZZO)",
+      "swift_code": "ARBAIT33029"
+    },
+    {
+      "id": 20141,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(AGENZIA 9 AREZZO)",
+      "swift_code": "ARBAIT33033"
+    },
+    {
+      "id": 20142,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(BACK-OFFICE-DOMESTIC PAYMENTS)",
+      "swift_code": "ARBAIT33BON"
+    },
+    {
+      "id": 20143,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(BACK-OFFICE-SECURITIES)",
+      "swift_code": "ARBAIT33TIT"
+    },
+    {
+      "id": 20144,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(FILIALE DI PONTE ALLA CHIASSA)",
+      "swift_code": "ARBAIT33130"
+    },
+    {
+      "id": 20145,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(FILIALE VIRTUALE)",
+      "swift_code": "ARBAIT33250"
+    },
+    {
+      "id": 20146,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(FOREIGN TRADE DEPT.)",
+      "swift_code": "ARBAIT33636"
+    },
+    {
+      "id": 20147,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(SEDE DI AREZZO)",
+      "swift_code": "ARBAIT33028"
+    },
+    {
+      "id": 20148,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(TREASURY DEPARTMENT)",
+      "swift_code": "ARBAIT33TES"
+    },
+    {
+      "id": 20149,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(UFFICIO CIFRA)",
+      "swift_code": "ARBAIT33723"
+    },
+    {
+      "id": 20150,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(UFFICIO CONTABILITA'ESTERO)",
+      "swift_code": "ARBAIT33777"
+    },
+    {
+      "id": 20151,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "AREZZO",
+      "branch": "(UFFICIO FINANZA ESTERO - SALA CAMBI)",
+      "swift_code": "ARBAIT33917"
+    },
+    {
+      "id": 22680,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO CORSO ITALIA)",
+      "swift_code": "UNCRITM1R10"
+    },
+    {
+      "id": 22681,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO GUIDO MONACO)",
+      "swift_code": "UNCRITM1J50"
+    },
+    {
+      "id": 22682,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO I MAGGIO)",
+      "swift_code": "UNCRITM1F90"
+    },
+    {
+      "id": 22683,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO VIA FIORENTINA)",
+      "swift_code": "UNCRITM1J52"
+    },
+    {
+      "id": 22684,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO XXV APRILE)",
+      "swift_code": "UNCRITM1OV8"
+    },
+    {
+      "id": 22685,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO)",
+      "swift_code": "UNCRITM1O09"
+    },
+    {
+      "id": 22686,
+      "bank": "UNICREDIT SPA",
+      "city": "AREZZO",
+      "branch": "(ESTERO MERCI AREZZO)",
+      "swift_code": "UNCRITMMARE"
+    },
+    {
+      "id": 25901,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "AREZZO",
+      "branch": "(AREZZO BRANCH)",
+      "swift_code": "BAECIT21181"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Arezzo — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Arezzo, Italy Contiene 72 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Arezzo — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Arezzo — codici SWIFT/BIC — 72 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 72 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

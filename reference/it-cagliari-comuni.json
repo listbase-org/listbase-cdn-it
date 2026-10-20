@@ -1,0 +1,280 @@
+{
+  "id": "it-cagliari-comuni",
+  "name": "Comuni della provincia di Cagliari (Città Metropolitana)",
+  "title": "Comuni della provincia di Cagliari (Città Metropolitana)",
+  "description": "Elenco dei 17 comuni della città metropolitana di Cagliari (sigla CA), regione Sardegna. List of 17 comuni in the metropolitan city of Cagliari (CA), Sardegna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 92003,
+      "nome": "Assemini",
+      "slug": "assemini",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92009,
+      "nome": "Cagliari",
+      "slug": "cagliari",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92011,
+      "nome": "Capoterra",
+      "slug": "capoterra",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92015,
+      "nome": "Decimomannu",
+      "slug": "decimomannu",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92108,
+      "nome": "Elmas",
+      "slug": "elmas",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92037,
+      "nome": "Maracalagonis",
+      "slug": "maracalagonis",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92109,
+      "nome": "Monserrato",
+      "slug": "monserrato",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92050,
+      "nome": "Pula",
+      "slug": "pula",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92051,
+      "nome": "Quartu Sant'Elena",
+      "slug": "quartu-santelena",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92105,
+      "nome": "Quartucciu",
+      "slug": "quartucciu",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92066,
+      "nome": "Sarroch",
+      "slug": "sarroch",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92068,
+      "nome": "Selargius",
+      "slug": "selargius",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92074,
+      "nome": "Sestu",
+      "slug": "sestu",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92075,
+      "nome": "Settimo San Pietro",
+      "slug": "settimo-san-pietro",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92080,
+      "nome": "Sinnai",
+      "slug": "sinnai",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92090,
+      "nome": "Uta",
+      "slug": "uta",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    },
+    {
+      "id": 92099,
+      "nome": "Villa San Pietro",
+      "slug": "villa-san-pietro",
+      "provincia_id": 292,
+      "provincia_nome": "Cagliari",
+      "provincia_sigla": "CA",
+      "provincia_slug": "cagliari",
+      "regione_id": 20,
+      "regione_nome": "Sardegna",
+      "regione_slug": "sardegna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Cagliari (Città Metropolitana) - Download gratuito",
+    "description": "Elenco dei 17 comuni della città metropolitana di Cagliari (sigla CA), regione Sardegna. List of 17 comuni in the metropolitan city of Cagliari (CA), Sardegna region. Contiene 17 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Cagliari (Città Metropolitana) | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Cagliari (Città Metropolitana) — 17 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 17 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

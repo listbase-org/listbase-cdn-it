@@ -1,0 +1,196 @@
+{
+  "id": "it-penisole",
+  "name": "Penisole in Italia",
+  "title": "Penisole in Italia",
+  "description": "Elenco delle penisole in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1458",
+      "name_it": "Calabria",
+      "name_en": "Calabria",
+      "latitude": 39,
+      "longitude": 16.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1458"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1034748",
+      "name_it": "capo Testa",
+      "name_en": "Capo Testa",
+      "latitude": 41.238611,
+      "longitude": 9.149167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1034748"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q763332",
+      "name_it": "Gargano",
+      "name_en": "Gargano",
+      "latitude": 41.733,
+      "longitude": 15.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q763332"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3802949",
+      "name_it": "Isola dei Gabbiani",
+      "name_en": "Isola dei Gabbiani",
+      "latitude": 41.195556,
+      "longitude": 9.318611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3802949"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q639912",
+      "name_it": "Istria",
+      "name_en": "Istria",
+      "latitude": 45.2,
+      "longitude": 13.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q639912"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q17640347",
+      "name_it": "Penisola della Maddalena",
+      "name_en": "Maddalena",
+      "latitude": 37.01787,
+      "longitude": 15.314962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17640347"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q49644013",
+      "name_it": "penisola di Culuccia",
+      "name_en": "",
+      "latitude": 41.2,
+      "longitude": 9.283333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49644013"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q145694",
+      "name_it": "penisola italiana",
+      "name_en": "Italian Peninsula",
+      "latitude": 42,
+      "longitude": 14,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q145694"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q59116",
+      "name_it": "Penisola sorrentina",
+      "name_en": "Sorrento Peninsula",
+      "latitude": 40.630556,
+      "longitude": 14.416667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59116"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q138456355",
+      "name_it": "Promontorio di Punta Penna",
+      "name_en": "Punta Penna promontory",
+      "latitude": 42.172561,
+      "longitude": 14.715061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138456355"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1302378",
+      "name_it": "Punta San Vigilio",
+      "name_en": "Punta San Vigilio",
+      "latitude": 45.573611,
+      "longitude": 10.672222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1302378"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q735628",
+      "name_it": "Salento",
+      "name_en": "Salento",
+      "latitude": 40.3333,
+      "longitude": 18,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q735628"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1664412",
+      "name_it": "Sinis",
+      "name_en": "Sinis",
+      "latitude": 39.919167,
+      "longitude": 8.443056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1664412"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q3998557",
+      "name_it": "Triangolo Lariano",
+      "name_en": "Triangolo lariano",
+      "latitude": 45.88,
+      "longitude": 9.22,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3998557"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1321161",
+      "name_it": "Vulcanello",
+      "name_en": "Vulcanello",
+      "latitude": 38.425,
+      "longitude": 14.958333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1321161"
+    }
+  ],
+  "meta": {
+    "title": "Penisole in Italia - Download gratuito",
+    "description": "Elenco delle penisole in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 15 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Penisole in Italia | ListBase",
+    "seo_description": "Scarica Penisole in Italia — 15 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 15 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

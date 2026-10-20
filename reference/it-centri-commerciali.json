@@ -1,0 +1,412 @@
+{
+  "id": "it-centri-commerciali",
+  "name": "Centri commerciali in Italia",
+  "title": "Centri commerciali in Italia",
+  "description": "Elenco dei centri commerciali in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4546860",
+      "name_it": "",
+      "name_en": "10 Corso Como",
+      "latitude": 45.481929,
+      "longitude": 9.187397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4546860"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q129035417",
+      "name_it": "",
+      "name_en": "Castel Guelfo The Style Outlets",
+      "latitude": 44.4339,
+      "longitude": 11.6074,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129035417"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q60464474",
+      "name_it": "Centro commerciale Auchan Collatina",
+      "name_en": "Centro commerciale Auchan Collatina",
+      "latitude": 41.900382,
+      "longitude": 12.568542,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60464474"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q108381369",
+      "name_it": "centro commerciale Aurelia Antica",
+      "name_en": "Aurelia Antica Shopping Center",
+      "latitude": 42.743104,
+      "longitude": 11.107527,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108381369"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q131338626",
+      "name_it": "Centro commerciale Centro Città",
+      "name_en": "Centro Città shopping centre",
+      "latitude": 40.32447,
+      "longitude": 9.31349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131338626"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q128035368",
+      "name_it": "",
+      "name_en": "Centro Commerciale Europa",
+      "latitude": 45.441141,
+      "longitude": 9.041491,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q128035368"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q107739386",
+      "name_it": "centro commerciale Gorarella",
+      "name_en": "Centro Commerciale Gorarella",
+      "latitude": 42.752791,
+      "longitude": 11.107342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107739386"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q123468942",
+      "name_it": "centro commerciale I Fenicotteri",
+      "name_en": "I Fenicotteri shopping center",
+      "latitude": 39.232139,
+      "longitude": 9.091611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123468942"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3664792",
+      "name_it": "Centro commerciale I Gigli",
+      "name_en": "I Gigli shopping center",
+      "latitude": 43.847044,
+      "longitude": 11.142944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3664792"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q122915333",
+      "name_it": "centro commerciale Le Grondaie",
+      "name_en": "",
+      "latitude": 43.330556,
+      "longitude": 11.327778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122915333"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q108714806",
+      "name_it": "centro commerciale Le Palme",
+      "name_en": "Le Palme",
+      "latitude": 42.75072,
+      "longitude": 11.12104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108714806"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q60978625",
+      "name_it": "centro commerciale Le Terrazze",
+      "name_en": "Centro commerciale Le Terrazze",
+      "latitude": 41.750848,
+      "longitude": 12.354276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60978625"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q3664794",
+      "name_it": "Centro commerciale Le Torri",
+      "name_en": "Centro commerciale Le Torri",
+      "latitude": 43.779556,
+      "longitude": 11.198667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3664794"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q108381372",
+      "name_it": "centro commerciale Maremà",
+      "name_en": "Maremà",
+      "latitude": 42.788381,
+      "longitude": 11.114315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108381372"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q89136361",
+      "name_it": "Centro commerciale My Lodi",
+      "name_en": "Centro commerciale My Lodi",
+      "latitude": 45.301239,
+      "longitude": 9.49289,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89136361"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q135402837",
+      "name_it": "Centro commerciale Porta Nuova",
+      "name_en": "Porta Nuova shopping centre",
+      "latitude": 39.9158,
+      "longitude": 8.58572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135402837"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q125490419",
+      "name_it": "Centro commerciale Pratosardo",
+      "name_en": "Pratosardo shopping centre",
+      "latitude": 40.32667,
+      "longitude": 9.28075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125490419"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q60464133",
+      "name_it": "Centro Commerciale Roma Est",
+      "name_en": "Centro Commerciale Roma Est",
+      "latitude": 41.9143,
+      "longitude": 12.661394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60464133"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q132316434",
+      "name_it": "Elnòs Shopping Center",
+      "name_en": "Elnòs Shopping Center",
+      "latitude": 45.533725,
+      "longitude": 10.164725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132316434"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q3733823",
+      "name_it": "Etnapolis",
+      "name_en": "Etnapolis",
+      "latitude": 37.5449,
+      "longitude": 14.9514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3733823"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3734780",
+      "name_it": "Euroma 2",
+      "name_en": "Euroma 2",
+      "latitude": 41.816947,
+      "longitude": 12.459517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3734780"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q43087023",
+      "name_it": "FICO Eataly World",
+      "name_en": "FICO Eataly World",
+      "latitude": 44.513934,
+      "longitude": 11.406685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43087023"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q3757753",
+      "name_it": "Galleria di Legnano",
+      "name_en": "Gallery of Legnano",
+      "latitude": 45.594122,
+      "longitude": 8.918036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3757753"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q132247699",
+      "name_it": "Galleria le Torri",
+      "name_en": "Le Torri shopping Centre",
+      "latitude": 40.32258,
+      "longitude": 9.306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132247699"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q3094790",
+      "name_it": "Galleria San Federico",
+      "name_en": "Galleria San Federico",
+      "latitude": 45.069,
+      "longitude": 7.6827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3094790"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3094792",
+      "name_it": "Galleria Subalpina",
+      "name_en": "Galleria Subalpina",
+      "latitude": 45.069492,
+      "longitude": 7.686492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3094792"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q113354434",
+      "name_it": "Gran Reno",
+      "name_en": "Gran Reno",
+      "latitude": 44.488308,
+      "longitude": 11.248672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113354434"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q130232925",
+      "name_it": "Grand Tour Italia",
+      "name_en": "Grand Tour Italia",
+      "latitude": 44.513934,
+      "longitude": 11.406685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130232925"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q113361013",
+      "name_it": "Grandemilia",
+      "name_en": "Grandemilia",
+      "latitude": 44.648107,
+      "longitude": 10.854059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113361013"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q63879351",
+      "name_it": "GranRoma",
+      "name_en": "GranRoma",
+      "latitude": 41.884007,
+      "longitude": 12.60797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63879351"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q18468537",
+      "name_it": "Oriocenter",
+      "name_en": "Oriocenter",
+      "latitude": 45.66444,
+      "longitude": 9.69038,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18468537"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q101538104",
+      "name_it": "Parco Commerciale Le Fontane",
+      "name_en": "",
+      "latitude": 38.84427,
+      "longitude": 16.645654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101538104"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q136718529",
+      "name_it": "Piazzetta Centro Servizi",
+      "name_en": "Piazzetta Centro Servizi",
+      "latitude": 40.10488,
+      "longitude": 8.49169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136718529"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q3908919",
+      "name_it": "Porta di Roma",
+      "name_en": "Porta di Roma",
+      "latitude": 41.971608,
+      "longitude": 12.540525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908919"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q113483560",
+      "name_it": "Scalo Romana",
+      "name_en": "SouPra",
+      "latitude": 45.441387,
+      "longitude": 9.203695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113483560"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q17652347",
+      "name_it": "Serravalle Designer Outlet",
+      "name_en": "Serravalle Designer Outlet",
+      "latitude": 44.735789,
+      "longitude": 8.835928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17652347"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q48768957",
+      "name_it": "",
+      "name_en": "The Mall Outlets",
+      "latitude": 43.702111,
+      "longitude": 11.464028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48768957"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q129030143",
+      "name_it": "",
+      "name_en": "Vicolungo The Style Outlets",
+      "latitude": 45.4677,
+      "longitude": 8.4611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q129030143"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q3563821",
+      "name_it": "Vulcano buono",
+      "name_en": "Vulcano Buono",
+      "latitude": 40.9498,
+      "longitude": 14.4879,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3563821"
+    }
+  ],
+  "meta": {
+    "title": "Centri commerciali in Italia - Download gratuito",
+    "description": "Elenco dei centri commerciali in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 39 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Centri commerciali in Italia | ListBase",
+    "seo_description": "Scarica Centri commerciali in Italia — 39 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 39 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

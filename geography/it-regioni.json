@@ -1,0 +1,316 @@
+{
+  "id": "it-regioni",
+  "name": "Regioni d'Italia (Regions of Italy)",
+  "title": "Regioni d'Italia (Regions of Italy)",
+  "description": "Elenco completo delle 20 regioni italiane con codice ISTAT, codice ISO 3166-2:IT, capoluogo, ripartizione geografica (Nord-ovest / Nord-est / Centro / Sud / Isole), flag statuto speciale, conteggi province e comuni. Comprehensive list of all 20 Italian regions with ISTAT codes, ISO 3166-2:IT codes, regional capitals, NUTS-1 geographic zone, special-statute flag, and province/comune counts.",
+  "category": "geography",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "capoluogo",
+      "label": "Capoluogo",
+      "type": "string"
+    },
+    {
+      "key": "zona",
+      "label": "Zona",
+      "type": "string"
+    },
+    {
+      "key": "statuto_speciale",
+      "label": "Statuto Speciale",
+      "type": "boolean"
+    },
+    {
+      "key": "num_province",
+      "label": "Num Province",
+      "type": "number"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "01",
+      "iso_3166_2": "IT-21",
+      "slug": "piemonte",
+      "nome": "Piemonte",
+      "capoluogo": "Torino",
+      "zona": "Nord-ovest",
+      "statuto_speciale": false,
+      "num_province": 8,
+      "num_comuni": 1181
+    },
+    {
+      "id": 2,
+      "code": "02",
+      "iso_3166_2": "IT-23",
+      "slug": "valle-daosta",
+      "nome": "Valle d'Aosta",
+      "capoluogo": "Aosta",
+      "zona": "Nord-ovest",
+      "statuto_speciale": true,
+      "num_province": 1,
+      "num_comuni": 74
+    },
+    {
+      "id": 3,
+      "code": "03",
+      "iso_3166_2": "IT-25",
+      "slug": "lombardia",
+      "nome": "Lombardia",
+      "capoluogo": "Milano",
+      "zona": "Nord-ovest",
+      "statuto_speciale": false,
+      "num_province": 12,
+      "num_comuni": 1506
+    },
+    {
+      "id": 4,
+      "code": "04",
+      "iso_3166_2": "IT-32",
+      "slug": "trentino-alto-adige",
+      "nome": "Trentino-Alto Adige",
+      "capoluogo": "Trento",
+      "zona": "Nord-est",
+      "statuto_speciale": true,
+      "num_province": 2,
+      "num_comuni": 282
+    },
+    {
+      "id": 5,
+      "code": "05",
+      "iso_3166_2": "IT-34",
+      "slug": "veneto",
+      "nome": "Veneto",
+      "capoluogo": "Venezia",
+      "zona": "Nord-est",
+      "statuto_speciale": false,
+      "num_province": 7,
+      "num_comuni": 563
+    },
+    {
+      "id": 6,
+      "code": "06",
+      "iso_3166_2": "IT-36",
+      "slug": "friuli-venezia-giulia",
+      "nome": "Friuli-Venezia Giulia",
+      "capoluogo": "Trieste",
+      "zona": "Nord-est",
+      "statuto_speciale": true,
+      "num_province": 4,
+      "num_comuni": 215
+    },
+    {
+      "id": 7,
+      "code": "07",
+      "iso_3166_2": "IT-42",
+      "slug": "liguria",
+      "nome": "Liguria",
+      "capoluogo": "Genova",
+      "zona": "Nord-ovest",
+      "statuto_speciale": false,
+      "num_province": 4,
+      "num_comuni": 234
+    },
+    {
+      "id": 8,
+      "code": "08",
+      "iso_3166_2": "IT-45",
+      "slug": "emilia-romagna",
+      "nome": "Emilia-Romagna",
+      "capoluogo": "Bologna",
+      "zona": "Nord-est",
+      "statuto_speciale": false,
+      "num_province": 9,
+      "num_comuni": 330
+    },
+    {
+      "id": 9,
+      "code": "09",
+      "iso_3166_2": "IT-52",
+      "slug": "toscana",
+      "nome": "Toscana",
+      "capoluogo": "Firenze",
+      "zona": "Centro",
+      "statuto_speciale": false,
+      "num_province": 10,
+      "num_comuni": 273
+    },
+    {
+      "id": 10,
+      "code": "10",
+      "iso_3166_2": "IT-55",
+      "slug": "umbria",
+      "nome": "Umbria",
+      "capoluogo": "Perugia",
+      "zona": "Centro",
+      "statuto_speciale": false,
+      "num_province": 2,
+      "num_comuni": 92
+    },
+    {
+      "id": 11,
+      "code": "11",
+      "iso_3166_2": "IT-57",
+      "slug": "marche",
+      "nome": "Marche",
+      "capoluogo": "Ancona",
+      "zona": "Centro",
+      "statuto_speciale": false,
+      "num_province": 5,
+      "num_comuni": 225
+    },
+    {
+      "id": 12,
+      "code": "12",
+      "iso_3166_2": "IT-62",
+      "slug": "lazio",
+      "nome": "Lazio",
+      "capoluogo": "Roma",
+      "zona": "Centro",
+      "statuto_speciale": false,
+      "num_province": 5,
+      "num_comuni": 378
+    },
+    {
+      "id": 13,
+      "code": "13",
+      "iso_3166_2": "IT-65",
+      "slug": "abruzzo",
+      "nome": "Abruzzo",
+      "capoluogo": "L'Aquila",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 4,
+      "num_comuni": 305
+    },
+    {
+      "id": 14,
+      "code": "14",
+      "iso_3166_2": "IT-67",
+      "slug": "molise",
+      "nome": "Molise",
+      "capoluogo": "Campobasso",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 2,
+      "num_comuni": 136
+    },
+    {
+      "id": 15,
+      "code": "15",
+      "iso_3166_2": "IT-72",
+      "slug": "campania",
+      "nome": "Campania",
+      "capoluogo": "Napoli",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 5,
+      "num_comuni": 550
+    },
+    {
+      "id": 16,
+      "code": "16",
+      "iso_3166_2": "IT-75",
+      "slug": "puglia",
+      "nome": "Puglia",
+      "capoluogo": "Bari",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 6,
+      "num_comuni": 257
+    },
+    {
+      "id": 17,
+      "code": "17",
+      "iso_3166_2": "IT-77",
+      "slug": "basilicata",
+      "nome": "Basilicata",
+      "capoluogo": "Potenza",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 2,
+      "num_comuni": 131
+    },
+    {
+      "id": 18,
+      "code": "18",
+      "iso_3166_2": "IT-78",
+      "slug": "calabria",
+      "nome": "Calabria",
+      "capoluogo": "Catanzaro",
+      "zona": "Sud",
+      "statuto_speciale": false,
+      "num_province": 5,
+      "num_comuni": 404
+    },
+    {
+      "id": 19,
+      "code": "19",
+      "iso_3166_2": "IT-82",
+      "slug": "sicilia",
+      "nome": "Sicilia",
+      "capoluogo": "Palermo",
+      "zona": "Isole",
+      "statuto_speciale": true,
+      "num_province": 9,
+      "num_comuni": 391
+    },
+    {
+      "id": 20,
+      "code": "20",
+      "iso_3166_2": "IT-88",
+      "slug": "sardegna",
+      "nome": "Sardegna",
+      "capoluogo": "Cagliari",
+      "zona": "Isole",
+      "statuto_speciale": true,
+      "num_province": 5,
+      "num_comuni": 377
+    }
+  ],
+  "meta": {
+    "title": "Regioni d'Italia (Regions of Italy) - Download gratuito",
+    "description": "Elenco completo delle 20 regioni italiane con codice ISTAT, codice ISO 3166-2:IT, capoluogo, ripartizione geografica (Nord-ovest / Nord-est / Centro / Sud / Isole), flag statuto speciale, conteggi province e comuni. Comprehensive list of all 20 Italian regions with ISTAT codes, ISO 3166-2:IT codes, regional capitals, NUTS-1 geographic zone, special-statute flag, and province/comune counts. Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Regioni d'Italia (Regions of Italy) | ListBase",
+    "seo_description": "Scarica Regioni d'Italia (Regions of Italy) — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

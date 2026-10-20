@@ -1,0 +1,6 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"78","Cosenza","cosenza","CS","false","18","Calabria","calabria","150"
+"79","Catanzaro","catanzaro","CZ","false","18","Calabria","calabria","80"
+"101","Crotone","crotone","KR","false","18","Calabria","calabria","27"
+"280","Reggio Calabria","reggio-calabria","RC","true","18","Calabria","calabria","97"
+"102","Vibo Valentia","vibo-valentia","VV","false","18","Calabria","calabria","50"

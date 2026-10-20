@@ -1,0 +1,151 @@
+{
+  "id": "it-torri-idriche",
+  "name": "Torri idriche in Italia",
+  "title": "Torri idriche in Italia",
+  "description": "Elenco delle torri idriche in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3604728",
+      "name_it": "Acquedotto di Ferrara",
+      "name_en": "Ferrara aqueduct",
+      "latitude": 44.8375,
+      "longitude": 11.6082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3604728"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q56258269",
+      "name_it": "casa dell'acqua (ex acquedotto)",
+      "name_en": "Casa dell'acqua",
+      "latitude": 45.6776,
+      "longitude": 9.39115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258269"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q97362184",
+      "name_it": "Centro idrico Eur",
+      "name_en": "Waterwork Eur Rome",
+      "latitude": 41.822745,
+      "longitude": 12.497483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97362184"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q56258409",
+      "name_it": "Deposito pensile Acque",
+      "name_en": "Deposito pensile Acque",
+      "latitude": 43.475139,
+      "longitude": 10.728056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258409"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q112138870",
+      "name_it": "Edificio acqua potabile",
+      "name_en": "Torre dell'acquedotto",
+      "latitude": 45.554538,
+      "longitude": 9.193075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138870"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q110409361",
+      "name_it": "Torre Arcobaleno",
+      "name_en": "Torre Arcobaleno",
+      "latitude": 45.486395,
+      "longitude": 9.182543,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110409361"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q96484013",
+      "name_it": "torre idrica",
+      "name_en": "Torre idrica",
+      "latitude": 41.406492,
+      "longitude": 13.040865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96484013"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q19311385",
+      "name_it": "Torre idrica di Ginosa",
+      "name_en": "",
+      "latitude": 40.515556,
+      "longitude": 16.765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19311385"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q102385082",
+      "name_it": "Torre piezometrica dell'Eur",
+      "name_en": "EUR piezometric water tower",
+      "latitude": 41.824486,
+      "longitude": 12.462916,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102385082"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q34599122",
+      "name_it": "torri dell'Acqua",
+      "name_en": "Torri dell'Acqua",
+      "latitude": 44.537065,
+      "longitude": 11.53503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34599122"
+    }
+  ],
+  "meta": {
+    "title": "Torri idriche in Italia - Download gratuito",
+    "description": "Elenco delle torri idriche in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 10 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Torri idriche in Italia | ListBase",
+    "seo_description": "Scarica Torri idriche in Italia — 10 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 10 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

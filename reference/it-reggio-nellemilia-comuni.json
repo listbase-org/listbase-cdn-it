@@ -1,0 +1,580 @@
+{
+  "id": "it-reggio-nellemilia-comuni",
+  "name": "Comuni della provincia di Reggio nell'Emilia",
+  "title": "Comuni della provincia di Reggio nell'Emilia",
+  "description": "Elenco dei 42 comuni della provincia di Reggio nell'Emilia (sigla RE), regione Emilia-Romagna. List of 42 comuni in the province of Reggio nell'Emilia (RE), Emilia-Romagna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 35001,
+      "nome": "Albinea",
+      "slug": "albinea",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35002,
+      "nome": "Bagnolo in Piano",
+      "slug": "bagnolo-in-piano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35003,
+      "nome": "Baiso",
+      "slug": "baiso",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35004,
+      "nome": "Bibbiano",
+      "slug": "bibbiano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35005,
+      "nome": "Boretto",
+      "slug": "boretto",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35006,
+      "nome": "Brescello",
+      "slug": "brescello",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35008,
+      "nome": "Cadelbosco di Sopra",
+      "slug": "cadelbosco-di-sopra",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35009,
+      "nome": "Campagnola Emilia",
+      "slug": "campagnola-emilia",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35010,
+      "nome": "Campegine",
+      "slug": "campegine",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35018,
+      "nome": "Canossa",
+      "slug": "canossa",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35011,
+      "nome": "Carpineti",
+      "slug": "carpineti",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35012,
+      "nome": "Casalgrande",
+      "slug": "casalgrande",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35013,
+      "nome": "Casina",
+      "slug": "casina",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35014,
+      "nome": "Castellarano",
+      "slug": "castellarano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35015,
+      "nome": "Castelnovo di Sotto",
+      "slug": "castelnovo-di-sotto",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35016,
+      "nome": "Castelnovo ne' Monti",
+      "slug": "castelnovo-ne-monti",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35017,
+      "nome": "Cavriago",
+      "slug": "cavriago",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35020,
+      "nome": "Correggio",
+      "slug": "correggio",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35021,
+      "nome": "Fabbrico",
+      "slug": "fabbrico",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35022,
+      "nome": "Gattatico",
+      "slug": "gattatico",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35023,
+      "nome": "Gualtieri",
+      "slug": "gualtieri",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35024,
+      "nome": "Guastalla",
+      "slug": "guastalla",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35026,
+      "nome": "Luzzara",
+      "slug": "luzzara",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35027,
+      "nome": "Montecchio Emilia",
+      "slug": "montecchio-emilia",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35028,
+      "nome": "Novellara",
+      "slug": "novellara",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35029,
+      "nome": "Poviglio",
+      "slug": "poviglio",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35030,
+      "nome": "Quattro Castella",
+      "slug": "quattro-castella",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35033,
+      "nome": "Reggio nell'Emilia",
+      "slug": "reggio-nellemilia",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35032,
+      "nome": "Reggiolo",
+      "slug": "reggiolo",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35034,
+      "nome": "Rio Saliceto",
+      "slug": "rio-saliceto",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35035,
+      "nome": "Rolo",
+      "slug": "rolo",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35036,
+      "nome": "Rubiera",
+      "slug": "rubiera",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35037,
+      "nome": "San Martino in Rio",
+      "slug": "san-martino-in-rio",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35038,
+      "nome": "San Polo d'Enza",
+      "slug": "san-polo-denza",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35039,
+      "nome": "Sant'Ilario d'Enza",
+      "slug": "santilario-denza",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35040,
+      "nome": "Scandiano",
+      "slug": "scandiano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35041,
+      "nome": "Toano",
+      "slug": "toano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35046,
+      "nome": "Ventasso",
+      "slug": "ventasso",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35042,
+      "nome": "Vetto",
+      "slug": "vetto",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35043,
+      "nome": "Vezzano sul Crostolo",
+      "slug": "vezzano-sul-crostolo",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35044,
+      "nome": "Viano",
+      "slug": "viano",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 35045,
+      "nome": "Villa Minozzo",
+      "slug": "villa-minozzo",
+      "provincia_id": 35,
+      "provincia_nome": "Reggio nell'Emilia",
+      "provincia_sigla": "RE",
+      "provincia_slug": "reggio-nellemilia",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Reggio nell'Emilia - Download gratuito",
+    "description": "Elenco dei 42 comuni della provincia di Reggio nell'Emilia (sigla RE), regione Emilia-Romagna. List of 42 comuni in the province of Reggio nell'Emilia (RE), Emilia-Romagna region. Contiene 42 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Reggio nell'Emilia | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Reggio nell'Emilia — 42 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 42 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

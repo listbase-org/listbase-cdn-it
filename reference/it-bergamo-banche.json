@@ -1,0 +1,835 @@
+{
+  "id": "it-bergamo-banche",
+  "name": "Banche a Bergamo — codici SWIFT/BIC",
+  "title": "Banche a Bergamo — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Bergamo, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 17,
+      "bank": "A.G.I.E. S.R.L.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "AGLRIT21"
+    },
+    {
+      "id": 477,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BERGAMO",
+      "branch": "(AG. NO 157)",
+      "swift_code": "ANTBIT21157"
+    },
+    {
+      "id": 1508,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "CRGEITG1391"
+    },
+    {
+      "id": 2553,
+      "bank": "BANCA DI CREDITO COOPERATIVO BERGAMASCA E OROBICA S.C.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "ICRAITR1Q41"
+    },
+    {
+      "id": 2554,
+      "bank": "BANCA DI CREDITO COOPERATIVO BERGAMASCA E OROBICA S.C.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "ICRAITR1Q45"
+    },
+    {
+      "id": 2703,
+      "bank": "BANCA DI CREDITO COOPERATIVO DELL'OGLIO E DEL SERIO S.C.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "ICRAITR1EAH"
+    },
+    {
+      "id": 3606,
+      "bank": "BANCA D'ITALIA",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "BITAITR1130"
+    },
+    {
+      "id": 3814,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BIMTITT1031"
+    },
+    {
+      "id": 4107,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 2)",
+      "swift_code": "PASCITM1127"
+    },
+    {
+      "id": 4108,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 3)",
+      "swift_code": "PASCITM1BGE"
+    },
+    {
+      "id": 4109,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "PASCITM1BG1"
+    },
+    {
+      "id": 4110,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "PASCITMMBER"
+    },
+    {
+      "id": 6585,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BNLIITRRBGX"
+    },
+    {
+      "id": 7640,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BERGAMO",
+      "branch": "(FILIALE BERGAMO VITTORIO EMANUELE)",
+      "swift_code": "BPBAIT21137"
+    },
+    {
+      "id": 8002,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BPMIITM1155"
+    },
+    {
+      "id": 8726,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 1)",
+      "swift_code": "POSOIT2108Q"
+    },
+    {
+      "id": 8727,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO)",
+      "swift_code": "POSOIT2105E"
+    },
+    {
+      "id": 8728,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BERGAMO",
+      "branch": "(VIA G. D'ALZANO 3/E)",
+      "swift_code": "POSOIT2114F"
+    },
+    {
+      "id": 9145,
+      "bank": "BANCA POPOLARE DI VICENZA",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BPVIIT21818"
+    },
+    {
+      "id": 9373,
+      "bank": "BANCA PROGETTO S.P.A",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "POPHIT21006"
+    },
+    {
+      "id": 9381,
+      "bank": "BANCA PROSSIMA S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "BCITITMXK45"
+    },
+    {
+      "id": 9466,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BCVAIT2V067"
+    },
+    {
+      "id": 9783,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 10)",
+      "swift_code": "BAPPIT21AT5"
+    },
+    {
+      "id": 9784,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 11)",
+      "swift_code": "BAPPIT21AE1"
+    },
+    {
+      "id": 9785,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 12)",
+      "swift_code": "BAPPIT21AE9"
+    },
+    {
+      "id": 9786,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 2)",
+      "swift_code": "BAPPIT21AA2"
+    },
+    {
+      "id": 9787,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 3)",
+      "swift_code": "BAPPIT21AA3"
+    },
+    {
+      "id": 9788,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 4)",
+      "swift_code": "BAPPIT21AA4"
+    },
+    {
+      "id": 9789,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 5)",
+      "swift_code": "BAPPIT21AA5"
+    },
+    {
+      "id": 9790,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 6)",
+      "swift_code": "BAPPIT21AW0"
+    },
+    {
+      "id": 9791,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 7)",
+      "swift_code": "BAPPIT21AA7"
+    },
+    {
+      "id": 9792,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 8)",
+      "swift_code": "BAPPIT21AN8"
+    },
+    {
+      "id": 9793,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 9)",
+      "swift_code": "BAPPIT21AY9"
+    },
+    {
+      "id": 9794,
+      "bank": "BANCO BPM SPA",
+      "city": "BERGAMO",
+      "branch": "(SEDE DI BERGAMO)",
+      "swift_code": "BAPPIT21AA1"
+    },
+    {
+      "id": 11456,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(AG. 1 - PIAZZA PONTIDA)",
+      "swift_code": "CREBIT21002"
+    },
+    {
+      "id": 11457,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO VIA STATUTO)",
+      "swift_code": "CREBIT22300"
+    },
+    {
+      "id": 11458,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(BORGO PALAZZO)",
+      "swift_code": "CREBIT21003"
+    },
+    {
+      "id": 11459,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(BORGO SANTA CATERINA)",
+      "swift_code": "CREBIT21004"
+    },
+    {
+      "id": 11460,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(CITTA' ALTA)",
+      "swift_code": "CREBIT21119"
+    },
+    {
+      "id": 11461,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(CITY BRANCH)",
+      "swift_code": "CREBIT22BGE"
+    },
+    {
+      "id": 11462,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(COLOGNOLA)",
+      "swift_code": "CREBIT21007"
+    },
+    {
+      "id": 11463,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(GRUMELLINA)",
+      "swift_code": "CREBIT21049"
+    },
+    {
+      "id": 11464,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(LONGUELO)",
+      "swift_code": "CREBIT21118"
+    },
+    {
+      "id": 11465,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "CREBIT22FEX"
+    },
+    {
+      "id": 11466,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(MALPENSATA)",
+      "swift_code": "CREBIT21005"
+    },
+    {
+      "id": 11467,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BERGAMO",
+      "branch": "(VALTESSE)",
+      "swift_code": "CREBIT21041"
+    },
+    {
+      "id": 11675,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO 73)",
+      "swift_code": "BDBDITA1073"
+    },
+    {
+      "id": 11852,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BERGAMO",
+      "branch": "(DC BACK OFFICE BERGAMO 8781)",
+      "swift_code": "IBSPITNAK45"
+    },
+    {
+      "id": 12724,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "IBSPIT2FK45"
+    },
+    {
+      "id": 12750,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "IBSPIT2UK45"
+    },
+    {
+      "id": 12807,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "IBSPIT2PK45"
+    },
+    {
+      "id": 13313,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "CRFIIT3FK45"
+    },
+    {
+      "id": 13526,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "CRFIIT3PK45"
+    },
+    {
+      "id": 13674,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "IBSPIT2BK45"
+    },
+    {
+      "id": 13780,
+      "bank": "CASSA LOMBARDA SPA",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "LOMCIT21109"
+    },
+    {
+      "id": 14313,
+      "bank": "COMUNE DI BERGAMO",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "CBEOIT21"
+    },
+    {
+      "id": 15199,
+      "bank": "CREDITO COOPERATIVO DI CARAVAGGIO ADDA E CREMASCO CASSA RURALE SOC.COO",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "ICRAITR1C9F"
+    },
+    {
+      "id": 15308,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AG. 2)",
+      "swift_code": "BACRIT21305"
+    },
+    {
+      "id": 15309,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BACRIT21241"
+    },
+    {
+      "id": 16195,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(AG.1)",
+      "swift_code": "DEUTITM1088"
+    },
+    {
+      "id": 16196,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "DEUTITM1054"
+    },
+    {
+      "id": 17018,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO)",
+      "swift_code": "HAABIT2U031"
+    },
+    {
+      "id": 17161,
+      "bank": "INTESA SANPAOLO PRIVATE BANKING SPA",
+      "city": "BERGAMO",
+      "branch": "(DC OR BACK OFFICE BERGAMO)",
+      "swift_code": "BCITITM3K45"
+    },
+    {
+      "id": 17201,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BERGAMO",
+      "branch": "(BACK OFFICE DI RETE - POLO DI BERGAMO (8011))",
+      "swift_code": "BCITITMM206"
+    },
+    {
+      "id": 17202,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BERGAMO",
+      "branch": "(BACK OFFICE DI RETE BERGAMO)",
+      "swift_code": "BCITITMMK45"
+    },
+    {
+      "id": 17203,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BERGAMO",
+      "branch": "(FILIALE IMPRESE BERGAMO)",
+      "swift_code": "BCITITMMB15"
+    },
+    {
+      "id": 17750,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BERGAMO",
+      "branch": "(BRANCH N. 2)",
+      "swift_code": "BPVIIT21660"
+    },
+    {
+      "id": 18157,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "BERGAMO",
+      "branch": "(FILIALE DI BERGAMO)",
+      "swift_code": "VEBHIT21301"
+    },
+    {
+      "id": 18445,
+      "bank": "INVEUROP SPA",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "IVVUIT21"
+    },
+    {
+      "id": 18473,
+      "bank": "ITALCEMENTI S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "ITCGIT22"
+    },
+    {
+      "id": 18561,
+      "bank": "KTM FARIOLI S.R.L.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "KTFSIT21"
+    },
+    {
+      "id": 18793,
+      "bank": "NEODECORTECH SPA",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "NEODIT21"
+    },
+    {
+      "id": 18964,
+      "bank": "PROVINCIA DI BERGAMO",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "POOEIT21"
+    },
+    {
+      "id": 19829,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BAMAIT3A"
+    },
+    {
+      "id": 20156,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "BERGAMO",
+      "branch": "(SEDE CENTRALE AREZZO)",
+      "swift_code": "ARBAIT33"
+    },
+    {
+      "id": 20307,
+      "bank": "UBI BANCA S.P.A. (FORMERLY CARILO - CASSA DI RISPARMIO DI LORETO)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "CRLOIT3L"
+    },
+    {
+      "id": 21243,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BERGAMO",
+      "branch": "(DIREZIONE CENTRALE)",
+      "swift_code": "CARMIT31"
+    },
+    {
+      "id": 21434,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA DI VALLE CAMONICA   SPA)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BVCAIT21"
+    },
+    {
+      "id": 21489,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "POCIITM1"
+    },
+    {
+      "id": 21675,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "BERGAMO",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BPAMIT31"
+    },
+    {
+      "id": 21815,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO SEDE)",
+      "swift_code": "BEPOIT21020"
+    },
+    {
+      "id": 21816,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-BORGO PALAZZO)",
+      "swift_code": "BEPOIT21950"
+    },
+    {
+      "id": 21817,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-BORGO S. CATERINA)",
+      "swift_code": "BEPOIT21920"
+    },
+    {
+      "id": 21818,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-CITTA' ALTA)",
+      "swift_code": "BEPOIT21930"
+    },
+    {
+      "id": 21819,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-CLEMENTINA)",
+      "swift_code": "BEPOIT21951"
+    },
+    {
+      "id": 21820,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-LONGUELO)",
+      "swift_code": "BEPOIT21960"
+    },
+    {
+      "id": 21821,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-LORETO)",
+      "swift_code": "BEPOIT21900"
+    },
+    {
+      "id": 21822,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-PIAZZA PONTIDA)",
+      "swift_code": "BEPOIT21940"
+    },
+    {
+      "id": 21823,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-REDONA)",
+      "swift_code": "BEPOIT21910"
+    },
+    {
+      "id": 21824,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO-SAN BERNARDINO)",
+      "swift_code": "BEPOIT21980"
+    },
+    {
+      "id": 21825,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(CLIENTI ISTITUZIONALI)",
+      "swift_code": "BEPOIT21038"
+    },
+    {
+      "id": 21826,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(FIL. BERGAMO BRIGATA LUPI)",
+      "swift_code": "BEPOIT21084"
+    },
+    {
+      "id": 21827,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BEPOIT21"
+    },
+    {
+      "id": 21828,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BERGAMO",
+      "branch": "(PRIVATE BANKING)",
+      "swift_code": "BEPOIT21024"
+    },
+    {
+      "id": 22097,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BREUITM1"
+    },
+    {
+      "id": 22250,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO 1)",
+      "swift_code": "BCABIT21123"
+    },
+    {
+      "id": 22251,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO 3)",
+      "swift_code": "BCABIT21364"
+    },
+    {
+      "id": 22252,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO 4)",
+      "swift_code": "BCABIT21264"
+    },
+    {
+      "id": 22253,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO)",
+      "swift_code": "BCABIT21121"
+    },
+    {
+      "id": 22254,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BCABIT21"
+    },
+    {
+      "id": 22255,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "BCABIT21348"
+    },
+    {
+      "id": 22821,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO AMBIVERI)",
+      "swift_code": "UNCRITM1H51"
+    },
+    {
+      "id": 22822,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO IV NOVEMBRE)",
+      "swift_code": "UNCRITM1CB0"
+    },
+    {
+      "id": 22823,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO MAJ)",
+      "swift_code": "UNCRITM1301"
+    },
+    {
+      "id": 22824,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO MATTEOTTI)",
+      "swift_code": "UNCRITM1CA9"
+    },
+    {
+      "id": 22825,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO PIAZZA V. VENETO)",
+      "swift_code": "UNCRITM1300"
+    },
+    {
+      "id": 22826,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO REDONA)",
+      "swift_code": "UNCRITM130B"
+    },
+    {
+      "id": 22827,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO)",
+      "swift_code": "UNCRITM153Y"
+    },
+    {
+      "id": 22828,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO)",
+      "swift_code": "UNCRITM1BGW"
+    },
+    {
+      "id": 22829,
+      "bank": "UNICREDIT SPA",
+      "city": "BERGAMO",
+      "branch": "(ESTERO MERCI BERGAMO)",
+      "swift_code": "UNCRITMMBGE"
+    },
+    {
+      "id": 25910,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BERGAMO",
+      "branch": "(BERGAMO BORGO PALAZZO BRANCH)",
+      "swift_code": "BAECIT21142"
+    },
+    {
+      "id": 26254,
+      "bank": "YOUTRADE S.P.A.",
+      "city": "BERGAMO",
+      "branch": "",
+      "swift_code": "YPSTIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Bergamo — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Bergamo, Italy Contiene 112 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Bergamo — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Bergamo — codici SWIFT/BIC — 112 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 112 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "it-rimini-comuni",
+  "name": "Comuni della provincia di Rimini",
+  "title": "Comuni della provincia di Rimini",
+  "description": "Elenco dei 27 comuni della provincia di Rimini (sigla RN), regione Emilia-Romagna. List of 27 comuni in the province of Rimini (RN), Emilia-Romagna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 99001,
+      "nome": "Bellaria-Igea Marina",
+      "slug": "bellaria-igea-marina",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99021,
+      "nome": "Casteldelci",
+      "slug": "casteldelci",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99002,
+      "nome": "Cattolica",
+      "slug": "cattolica",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99003,
+      "nome": "Coriano",
+      "slug": "coriano",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99004,
+      "nome": "Gemmano",
+      "slug": "gemmano",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99022,
+      "nome": "Maiolo",
+      "slug": "maiolo",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99005,
+      "nome": "Misano Adriatico",
+      "slug": "misano-adriatico",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99006,
+      "nome": "Mondaino",
+      "slug": "mondaino",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99030,
+      "nome": "Montecopiolo",
+      "slug": "montecopiolo",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99008,
+      "nome": "Montefiore Conca",
+      "slug": "montefiore-conca",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99009,
+      "nome": "Montegridolfo",
+      "slug": "montegridolfo",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99029,
+      "nome": "Montescudo-Monte Colombo",
+      "slug": "montescudo-monte-colombo",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99011,
+      "nome": "Morciano di Romagna",
+      "slug": "morciano-di-romagna",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99023,
+      "nome": "Novafeltria",
+      "slug": "novafeltria",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99024,
+      "nome": "Pennabilli",
+      "slug": "pennabilli",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99028,
+      "nome": "Poggio Torriana",
+      "slug": "poggio-torriana",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99013,
+      "nome": "Riccione",
+      "slug": "riccione",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99014,
+      "nome": "Rimini",
+      "slug": "rimini",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99015,
+      "nome": "Saludecio",
+      "slug": "saludecio",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99016,
+      "nome": "San Clemente",
+      "slug": "san-clemente",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99017,
+      "nome": "San Giovanni in Marignano",
+      "slug": "san-giovanni-in-marignano",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99025,
+      "nome": "San Leo",
+      "slug": "san-leo",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99026,
+      "nome": "Sant'Agata Feltria",
+      "slug": "santagata-feltria",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99018,
+      "nome": "Santarcangelo di Romagna",
+      "slug": "santarcangelo-di-romagna",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99031,
+      "nome": "Sassofeltrio",
+      "slug": "sassofeltrio",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99027,
+      "nome": "Talamello",
+      "slug": "talamello",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 99020,
+      "nome": "Verucchio",
+      "slug": "verucchio",
+      "provincia_id": 99,
+      "provincia_nome": "Rimini",
+      "provincia_sigla": "RN",
+      "provincia_slug": "rimini",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Rimini - Download gratuito",
+    "description": "Elenco dei 27 comuni della provincia di Rimini (sigla RN), regione Emilia-Romagna. List of 27 comuni in the province of Rimini (RN), Emilia-Romagna region. Contiene 27 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Rimini | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Rimini — 27 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 27 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

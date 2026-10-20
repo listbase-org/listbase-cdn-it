@@ -1,0 +1,872 @@
+{
+  "id": "it-comuni-dolomiti-unesco",
+  "name": "Comuni delle Dolomiti UNESCO (Municipalities of the UNESCO Dolomites)",
+  "title": "Comuni delle Dolomiti UNESCO (Municipalities of the UNESCO Dolomites)",
+  "description": "Elenco dei 102 comuni italiani che rientrano nelle aree delle Dolomiti riconosciute Patrimonio Mondiale UNESCO, con provincia, regione e codici ISTAT. List of 102 Italian municipalities within the UNESCO World Heritage Dolomites areas, with province, region and ISTAT codes.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "codice_istat_regione",
+      "label": "Codice Istat Regione",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_provincia",
+      "label": "Codice Istat Provincia",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_comune",
+      "label": "Codice Istat Comune",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comune": "Agordo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25001"
+    },
+    {
+      "comune": "Aldino",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21001"
+    },
+    {
+      "comune": "Alleghe",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25003"
+    },
+    {
+      "comune": "Ampezzo",
+      "provincia": "Udine",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 30,
+      "codice_istat_comune": "30003"
+    },
+    {
+      "comune": "Andalo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22005"
+    },
+    {
+      "comune": "Andreis",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93001"
+    },
+    {
+      "comune": "Auronzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25005"
+    },
+    {
+      "comune": "Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21006"
+    },
+    {
+      "comune": "Barcis",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93006"
+    },
+    {
+      "comune": "Belluno",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25006"
+    },
+    {
+      "comune": "Borca di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25007"
+    },
+    {
+      "comune": "Braies",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21009"
+    },
+    {
+      "comune": "Calalzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25008"
+    },
+    {
+      "comune": "Campitello di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22036"
+    },
+    {
+      "comune": "Campodenno",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22037"
+    },
+    {
+      "comune": "Canale d'Agordo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25023"
+    },
+    {
+      "comune": "Canazei",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22039"
+    },
+    {
+      "comune": "Castelrotto",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21019"
+    },
+    {
+      "comune": "Cavedago",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22052"
+    },
+    {
+      "comune": "Cencenighe Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25010"
+    },
+    {
+      "comune": "Cesiomaggiore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25011"
+    },
+    {
+      "comune": "Cimolais",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93014"
+    },
+    {
+      "comune": "Claut",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93015"
+    },
+    {
+      "comune": "Colle Santa Lucia",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25014"
+    },
+    {
+      "comune": "Comano Terme",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22228"
+    },
+    {
+      "comune": "Comelico Superiore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25015"
+    },
+    {
+      "comune": "Cortina d'Ampezzo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25016"
+    },
+    {
+      "comune": "Corvara in Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21026"
+    },
+    {
+      "comune": "Dobbiaco",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21028"
+    },
+    {
+      "comune": "Domegge di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25018"
+    },
+    {
+      "comune": "Erto e Casso",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93019"
+    },
+    {
+      "comune": "Falcade",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25019"
+    },
+    {
+      "comune": "Feltre",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25021"
+    },
+    {
+      "comune": "Fiè allo Sciliar",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21031"
+    },
+    {
+      "comune": "Forni di Sopra",
+      "provincia": "Udine",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 30,
+      "codice_istat_comune": "30041"
+    },
+    {
+      "comune": "Forni di Sotto",
+      "provincia": "Udine",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 30,
+      "codice_istat_comune": "30042"
+    },
+    {
+      "comune": "Frisanco",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93024"
+    },
+    {
+      "comune": "Funes",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21033"
+    },
+    {
+      "comune": "Gosaldo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25025"
+    },
+    {
+      "comune": "Imer",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22097"
+    },
+    {
+      "comune": "La Valle",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21117"
+    },
+    {
+      "comune": "La Valle Agordina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25027"
+    },
+    {
+      "comune": "Laion",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21039"
+    },
+    {
+      "comune": "Livinallongo del Col di Lana",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25030"
+    },
+    {
+      "comune": "Longarone",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25071"
+    },
+    {
+      "comune": "Lorenzago di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25032"
+    },
+    {
+      "comune": "Lozzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25033"
+    },
+    {
+      "comune": "Marebbe",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21047"
+    },
+    {
+      "comune": "Mazzin",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22113"
+    },
+    {
+      "comune": "Mezzano",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22115"
+    },
+    {
+      "comune": "Moena",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22118"
+    },
+    {
+      "comune": "Molveno",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22120"
+    },
+    {
+      "comune": "Monguelfo-Tesido",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21052"
+    },
+    {
+      "comune": "Nova Levante",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21058"
+    },
+    {
+      "comune": "Nova Ponente",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21059"
+    },
+    {
+      "comune": "Ortisei",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21061"
+    },
+    {
+      "comune": "Ospitale di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25035"
+    },
+    {
+      "comune": "Pedavena",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25036"
+    },
+    {
+      "comune": "Perarolo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25037"
+    },
+    {
+      "comune": "Pieve di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25039"
+    },
+    {
+      "comune": "Pinzolo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22143"
+    },
+    {
+      "comune": "Ponte nelle Alpi",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25040"
+    },
+    {
+      "comune": "Pozza di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22145"
+    },
+    {
+      "comune": "Predazzo",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22147"
+    },
+    {
+      "comune": "Primiero San Martino di Castrozza",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22245"
+    },
+    {
+      "comune": "Rivamonte Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25043"
+    },
+    {
+      "comune": "Rocca Pietore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25044"
+    },
+    {
+      "comune": "Sagron Mis",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22164"
+    },
+    {
+      "comune": "San Candido",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21077"
+    },
+    {
+      "comune": "San Gregorio nelle Alpi",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25045"
+    },
+    {
+      "comune": "San Lorenzo Dorsino",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22231"
+    },
+    {
+      "comune": "San Martino in Badia",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21082"
+    },
+    {
+      "comune": "San Tomaso Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25049"
+    },
+    {
+      "comune": "San Vito di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25051"
+    },
+    {
+      "comune": "Santa Cristina Valgardena",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21085"
+    },
+    {
+      "comune": "Santa Giustina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25048"
+    },
+    {
+      "comune": "Sedico",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25053"
+    },
+    {
+      "comune": "Selva di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25054"
+    },
+    {
+      "comune": "Selva di Val Gardena",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21089"
+    },
+    {
+      "comune": "Sesto",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21092"
+    },
+    {
+      "comune": "Socchieve",
+      "provincia": "Udine",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 30,
+      "codice_istat_comune": "30110"
+    },
+    {
+      "comune": "Soraga",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22176"
+    },
+    {
+      "comune": "Sospirolo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25056"
+    },
+    {
+      "comune": "Sovramonte",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25058"
+    },
+    {
+      "comune": "Spormaggiore",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22180"
+    },
+    {
+      "comune": "Sporminore",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22181"
+    },
+    {
+      "comune": "Stenico",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22182"
+    },
+    {
+      "comune": "Taibon Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25059"
+    },
+    {
+      "comune": "Tesero",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22196"
+    },
+    {
+      "comune": "Tires",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21100"
+    },
+    {
+      "comune": "Tramonti di Sopra",
+      "provincia": "Pordenone",
+      "regione": "Friuli Venezia Giulia",
+      "codice_istat_regione": 6,
+      "codice_istat_provincia": 93,
+      "codice_istat_comune": "93045"
+    },
+    {
+      "comune": "Tre Ville",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22247"
+    },
+    {
+      "comune": "Val di Zoldo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25073"
+    },
+    {
+      "comune": "Valdaora",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21106"
+    },
+    {
+      "comune": "Vallada Agordina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25062"
+    },
+    {
+      "comune": "Valle di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25063"
+    },
+    {
+      "comune": "Vigo di Fassa",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22217"
+    },
+    {
+      "comune": "Villabassa",
+      "provincia": "Bolzano",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 21,
+      "codice_istat_comune": "21113"
+    },
+    {
+      "comune": "Ville d'Anaunia",
+      "provincia": "Trento",
+      "regione": "Trentino Alto Adige",
+      "codice_istat_regione": 4,
+      "codice_istat_provincia": 22,
+      "codice_istat_comune": "22249"
+    },
+    {
+      "comune": "Vodo Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25066"
+    },
+    {
+      "comune": "Voltago Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25067"
+    },
+    {
+      "comune": "Zoppè di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25069"
+    }
+  ],
+  "meta": {
+    "title": "Comuni delle Dolomiti UNESCO (Municipalities of the UNESCO Dolomites) - Download gratuito",
+    "description": "Elenco dei 102 comuni italiani che rientrano nelle aree delle Dolomiti riconosciute Patrimonio Mondiale UNESCO, con provincia, regione e codici ISTAT. List of 102 Italian municipalities within the UNESCO World Heritage Dolomites areas, with province, region and ISTAT codes. Contiene 102 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni delle Dolomiti UNESCO (Municipalities of the UNESCO Dolomites) | ListBase",
+    "seo_description": "Scarica Comuni delle Dolomiti UNESCO (Municipalities of the UNESCO Dolomites) — 102 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 102 record / 6 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

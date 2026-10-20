@@ -1,0 +1,246 @@
+{
+  "id": "it-molise-aeroporti",
+  "name": "Aeroporti in Molise",
+  "title": "Aeroporti in Molise",
+  "description": "Aeroporti, aeroporti minori, eliporti e impianti aeronautici nella regione Molise (ISO IT-67). Sottoinsieme per regione del dataset nazionale it-aeroporti; ogni record e una copia integrale e verbatim della riga corrispondente. Fonte: OurAirports (dominio pubblico, Unlicense).",
+  "category": "transport",
+  "source": "https://github.com/davidmegginson/ourairports-data",
+  "source_url": "https://github.com/davidmegginson/ourairports-data",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 316927,
+      "ident": "IT-0161",
+      "type": "small_airport",
+      "name": "Volo Molise",
+      "latitude_deg": 41.45948,
+      "longitude_deg": 14.53799,
+      "elevation_ft": 1738,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-67",
+      "region_local_code": "67",
+      "region_name": "Molise",
+      "municipality": "Campochiaro (CB)",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "CBCCH",
+      "home_link": "http://www.cozy.it/AVM/AVM.html",
+      "wikipedia_link": "",
+      "keywords": "Volo Molise"
+    },
+    {
+      "id": 317371,
+      "ident": "IT-0183",
+      "type": "small_airport",
+      "name": "Molise Ultravolo Airfield",
+      "latitude_deg": 41.97547,
+      "longitude_deg": 15.02005,
+      "elevation_ft": 3,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-67",
+      "region_local_code": "67",
+      "region_name": "Molise",
+      "municipality": "Termoli (CB)",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Aviosuperficie Molise Ultravolo, CB01, CBTMO, Arcora"
+    },
+    {
+      "id": 317372,
+      "ident": "IT-0184",
+      "type": "closed",
+      "name": "Arcora Flying Field",
+      "latitude_deg": 41.94428,
+      "longitude_deg": 15.04761,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-67",
+      "region_local_code": "67",
+      "region_name": "Molise",
+      "municipality": "Campomarino (CB)",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Campo di Volo Arcora"
+    },
+    {
+      "id": 317916,
+      "ident": "IT-0227",
+      "type": "closed",
+      "name": "Pozzilli Airfield",
+      "latitude_deg": 41.50223,
+      "longitude_deg": 14.08533,
+      "elevation_ft": 679,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-67",
+      "region_local_code": "67",
+      "region_name": "Molise",
+      "municipality": "Pozzilli",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "LINP, Le Aquile"
+    },
+    {
+      "id": 319648,
+      "ident": "IT-0335",
+      "type": "small_airport",
+      "name": "Base Aerea Molise",
+      "latitude_deg": 41.474462,
+      "longitude_deg": 14.537457,
+      "elevation_ft": 1669,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-67",
+      "region_local_code": "67",
+      "region_name": "Molise",
+      "municipality": "Campochiaro (CB)",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "CB05",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Protezione Civile Molise"
+    }
+  ],
+  "meta": {
+    "title": "Aeroporti in Molise - Download gratuito",
+    "description": "Aeroporti, aeroporti minori, eliporti e impianti aeronautici nella regione Molise (ISO IT-67). Sottoinsieme per regione del dataset nazionale it-aeroporti; ogni record e una copia integrale e verbatim della riga corrispondente. Fonte: OurAirports (dominio pubblico, Unlicense). Contiene 5 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aeroporti in Molise | ListBase",
+    "seo_description": "Scarica Aeroporti in Molise — 5 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 record / 21 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/davidmegginson/ourairports-data"
+    ]
+  }
+}

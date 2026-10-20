@@ -1,0 +1,1466 @@
+{
+  "id": "it-valute",
+  "name": "Valute del mondo (285)",
+  "title": "Valute del mondo (285)",
+  "description": "Elenco delle valute del mondo — 285 codici valuta ISO 4217 con denominazione italiana (Unicode CLDR) e inglese. Es.: dollaro statunitense (USD), euro (EUR), yen giapponese (JPY), sterlina britannica (GBP), renminbi cinese (CNY), lira italiana (ITL), franco svizzero (CHF). Ordinato per codice. Primo elenco di valute del bucket IT, complementare al riferimento mondiale esistente (elenco dei paesi). Fonte: umpirsky/currency-list (CLDR).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "ADP",
+      "name_it": "peseta andorrana",
+      "name_en": "Andorran Peseta"
+    },
+    {
+      "code": "AED",
+      "name_it": "dirham degli Emirati Arabi Uniti",
+      "name_en": "United Arab Emirates Dirham"
+    },
+    {
+      "code": "AFA",
+      "name_it": "afgani (1927–2002)",
+      "name_en": "Afghan Afghani (1927–2002)"
+    },
+    {
+      "code": "AFN",
+      "name_it": "afghani",
+      "name_en": "Afghan Afghani"
+    },
+    {
+      "code": "ALK",
+      "name_it": "Albanian Lek (1946–1965)",
+      "name_en": "Albanian Lek (1946–1965)"
+    },
+    {
+      "code": "ALL",
+      "name_it": "lek albanese",
+      "name_en": "Albanian Lek"
+    },
+    {
+      "code": "AMD",
+      "name_it": "dram armeno",
+      "name_en": "Armenian Dram"
+    },
+    {
+      "code": "ANG",
+      "name_it": "fiorino delle Antille olandesi",
+      "name_en": "Netherlands Antillean Guilder"
+    },
+    {
+      "code": "AOA",
+      "name_it": "kwanza angolano",
+      "name_en": "Angolan Kwanza"
+    },
+    {
+      "code": "AOK",
+      "name_it": "kwanza angolano (1977–1990)",
+      "name_en": "Angolan Kwanza (1977–1991)"
+    },
+    {
+      "code": "AON",
+      "name_it": "nuovo kwanza angolano (1990–2000)",
+      "name_en": "Angolan New Kwanza (1990–2000)"
+    },
+    {
+      "code": "AOR",
+      "name_it": "kwanza reajustado angolano (1995–1999)",
+      "name_en": "Angolan Readjusted Kwanza (1995–1999)"
+    },
+    {
+      "code": "ARA",
+      "name_it": "austral argentino",
+      "name_en": "Argentine Austral"
+    },
+    {
+      "code": "ARL",
+      "name_it": "Argentine Peso Ley (1970–1983)",
+      "name_en": "Argentine Peso Ley (1970–1983)"
+    },
+    {
+      "code": "ARM",
+      "name_it": "Argentine Peso (1881–1970)",
+      "name_en": "Argentine Peso (1881–1970)"
+    },
+    {
+      "code": "ARP",
+      "name_it": "peso argentino (vecchio Cod.)",
+      "name_en": "Argentine Peso (1983–1985)"
+    },
+    {
+      "code": "ARS",
+      "name_it": "peso argentino",
+      "name_en": "Argentine Peso"
+    },
+    {
+      "code": "ATS",
+      "name_it": "scellino austriaco",
+      "name_en": "Austrian Schilling"
+    },
+    {
+      "code": "AUD",
+      "name_it": "dollaro australiano",
+      "name_en": "Australian Dollar"
+    },
+    {
+      "code": "AWG",
+      "name_it": "fiorino di Aruba",
+      "name_en": "Aruban Florin"
+    },
+    {
+      "code": "AZM",
+      "name_it": "manat azero (1993–2006)",
+      "name_en": "Azerbaijani Manat (1993–2006)"
+    },
+    {
+      "code": "AZN",
+      "name_it": "manat azero",
+      "name_en": "Azerbaijani Manat"
+    },
+    {
+      "code": "BAD",
+      "name_it": "dinar Bosnia-Herzegovina",
+      "name_en": "Bosnia-Herzegovina Dinar (1992–1994)"
+    },
+    {
+      "code": "BAM",
+      "name_it": "marco convertibile della Bosnia-Herzegovina",
+      "name_en": "Bosnia-Herzegovina Convertible Mark"
+    },
+    {
+      "code": "BAN",
+      "name_it": "Bosnia-Herzegovina New Dinar (1994–1997)",
+      "name_en": "Bosnia-Herzegovina New Dinar (1994–1997)"
+    },
+    {
+      "code": "BBD",
+      "name_it": "dollaro di Barbados",
+      "name_en": "Barbadian Dollar"
+    },
+    {
+      "code": "BDT",
+      "name_it": "taka bangladese",
+      "name_en": "Bangladeshi Taka"
+    },
+    {
+      "code": "BEC",
+      "name_it": "franco belga (convertibile)",
+      "name_en": "Belgian Franc (convertible)"
+    },
+    {
+      "code": "BEF",
+      "name_it": "franco belga",
+      "name_en": "Belgian Franc"
+    },
+    {
+      "code": "BEL",
+      "name_it": "franco belga (finanziario)",
+      "name_en": "Belgian Franc (financial)"
+    },
+    {
+      "code": "BGL",
+      "name_it": "lev bulgaro (1962–1999)",
+      "name_en": "Bulgarian Hard Lev"
+    },
+    {
+      "code": "BGM",
+      "name_it": "Bulgarian Socialist Lev",
+      "name_en": "Bulgarian Socialist Lev"
+    },
+    {
+      "code": "BGN",
+      "name_it": "lev bulgaro",
+      "name_en": "Bulgarian Lev"
+    },
+    {
+      "code": "BGO",
+      "name_it": "Bulgarian Lev (1879–1952)",
+      "name_en": "Bulgarian Lev (1879–1952)"
+    },
+    {
+      "code": "BHD",
+      "name_it": "dinaro del Bahrein",
+      "name_en": "Bahraini Dinar"
+    },
+    {
+      "code": "BIF",
+      "name_it": "franco del Burundi",
+      "name_en": "Burundian Franc"
+    },
+    {
+      "code": "BMD",
+      "name_it": "dollaro delle Bermuda",
+      "name_en": "Bermudan Dollar"
+    },
+    {
+      "code": "BND",
+      "name_it": "dollaro del Brunei",
+      "name_en": "Brunei Dollar"
+    },
+    {
+      "code": "BOB",
+      "name_it": "boliviano",
+      "name_en": "Bolivian Boliviano"
+    },
+    {
+      "code": "BOL",
+      "name_it": "Bolivian Boliviano (1863–1963)",
+      "name_en": "Bolivian Boliviano (1863–1963)"
+    },
+    {
+      "code": "BOP",
+      "name_it": "peso boliviano",
+      "name_en": "Bolivian Peso"
+    },
+    {
+      "code": "BOV",
+      "name_it": "mvdol boliviano",
+      "name_en": "Bolivian Mvdol"
+    },
+    {
+      "code": "BRB",
+      "name_it": "cruzeiro novo brasiliano (1967–1986)",
+      "name_en": "Brazilian New Cruzeiro (1967–1986)"
+    },
+    {
+      "code": "BRC",
+      "name_it": "cruzado brasiliano",
+      "name_en": "Brazilian Cruzado (1986–1989)"
+    },
+    {
+      "code": "BRE",
+      "name_it": "cruzeiro brasiliano (1990–1993)",
+      "name_en": "Brazilian Cruzeiro (1990–1993)"
+    },
+    {
+      "code": "BRL",
+      "name_it": "real brasiliano",
+      "name_en": "Brazilian Real"
+    },
+    {
+      "code": "BRN",
+      "name_it": "cruzado novo brasiliano",
+      "name_en": "Brazilian New Cruzado (1989–1990)"
+    },
+    {
+      "code": "BRR",
+      "name_it": "cruzeiro brasiliano",
+      "name_en": "Brazilian Cruzeiro (1993–1994)"
+    },
+    {
+      "code": "BRZ",
+      "name_it": "Brazilian Cruzeiro (1942–1967)",
+      "name_en": "Brazilian Cruzeiro (1942–1967)"
+    },
+    {
+      "code": "BSD",
+      "name_it": "dollaro delle Bahamas",
+      "name_en": "Bahamian Dollar"
+    },
+    {
+      "code": "BTN",
+      "name_it": "ngultrum bhutanese",
+      "name_en": "Bhutanese Ngultrum"
+    },
+    {
+      "code": "BUK",
+      "name_it": "kyat birmano",
+      "name_en": "Burmese Kyat"
+    },
+    {
+      "code": "BWP",
+      "name_it": "pula del Botswana",
+      "name_en": "Botswanan Pula"
+    },
+    {
+      "code": "BYB",
+      "name_it": "nuovo rublo bielorusso (1994–1999)",
+      "name_en": "Belarusian Ruble (1994–1999)"
+    },
+    {
+      "code": "BYN",
+      "name_it": "rublo bielorusso",
+      "name_en": "Belarusian Ruble"
+    },
+    {
+      "code": "BYR",
+      "name_it": "rublo bielorusso (2000–2016)",
+      "name_en": "Belarusian Ruble (2000–2016)"
+    },
+    {
+      "code": "BZD",
+      "name_it": "dollaro del Belize",
+      "name_en": "Belize Dollar"
+    },
+    {
+      "code": "CAD",
+      "name_it": "dollaro canadese",
+      "name_en": "Canadian Dollar"
+    },
+    {
+      "code": "CDF",
+      "name_it": "franco congolese",
+      "name_en": "Congolese Franc"
+    },
+    {
+      "code": "CHE",
+      "name_it": "WIR Euro",
+      "name_en": "WIR Euro"
+    },
+    {
+      "code": "CHF",
+      "name_it": "franco svizzero",
+      "name_en": "Swiss Franc"
+    },
+    {
+      "code": "CHW",
+      "name_it": "WIR Franc",
+      "name_en": "WIR Franc"
+    },
+    {
+      "code": "CLE",
+      "name_it": "Chilean Escudo",
+      "name_en": "Chilean Escudo"
+    },
+    {
+      "code": "CLF",
+      "name_it": "unidades de fomento chilene",
+      "name_en": "Chilean Unit of Account (UF)"
+    },
+    {
+      "code": "CLP",
+      "name_it": "peso cileno",
+      "name_en": "Chilean Peso"
+    },
+    {
+      "code": "CNX",
+      "name_it": "Chinese People’s Bank Dollar",
+      "name_en": "Chinese People’s Bank Dollar"
+    },
+    {
+      "code": "CNY",
+      "name_it": "renminbi cinese",
+      "name_en": "Chinese Yuan"
+    },
+    {
+      "code": "COP",
+      "name_it": "peso colombiano",
+      "name_en": "Colombian Peso"
+    },
+    {
+      "code": "COU",
+      "name_it": "Colombian Real Value Unit",
+      "name_en": "Colombian Real Value Unit"
+    },
+    {
+      "code": "CRC",
+      "name_it": "colón costaricano",
+      "name_en": "Costa Rican Colón"
+    },
+    {
+      "code": "CSD",
+      "name_it": "antico dinaro serbo",
+      "name_en": "Serbian Dinar (2002–2006)"
+    },
+    {
+      "code": "CSK",
+      "name_it": "corona forte cecoslovacca",
+      "name_en": "Czechoslovak Hard Koruna"
+    },
+    {
+      "code": "CUC",
+      "name_it": "peso cubano convertibile",
+      "name_en": "Cuban Convertible Peso"
+    },
+    {
+      "code": "CUP",
+      "name_it": "peso cubano",
+      "name_en": "Cuban Peso"
+    },
+    {
+      "code": "CVE",
+      "name_it": "escudo capoverdiano",
+      "name_en": "Cape Verdean Escudo"
+    },
+    {
+      "code": "CYP",
+      "name_it": "sterlina cipriota",
+      "name_en": "Cypriot Pound"
+    },
+    {
+      "code": "CZK",
+      "name_it": "corona ceca",
+      "name_en": "Czech Koruna"
+    },
+    {
+      "code": "DDM",
+      "name_it": "ostmark della Germania Orientale",
+      "name_en": "East German Mark"
+    },
+    {
+      "code": "DEM",
+      "name_it": "marco tedesco",
+      "name_en": "German Mark"
+    },
+    {
+      "code": "DJF",
+      "name_it": "franco di Gibuti",
+      "name_en": "Djiboutian Franc"
+    },
+    {
+      "code": "DKK",
+      "name_it": "corona danese",
+      "name_en": "Danish Krone"
+    },
+    {
+      "code": "DOP",
+      "name_it": "peso dominicano",
+      "name_en": "Dominican Peso"
+    },
+    {
+      "code": "DZD",
+      "name_it": "dinaro algerino",
+      "name_en": "Algerian Dinar"
+    },
+    {
+      "code": "ECS",
+      "name_it": "sucre dell’Ecuador",
+      "name_en": "Ecuadorian Sucre"
+    },
+    {
+      "code": "ECV",
+      "name_it": "unidad de valor constante (UVC) dell’Ecuador",
+      "name_en": "Ecuadorian Unit of Constant Value"
+    },
+    {
+      "code": "EEK",
+      "name_it": "corona dell’Estonia",
+      "name_en": "Estonian Kroon"
+    },
+    {
+      "code": "EGP",
+      "name_it": "sterlina egiziana",
+      "name_en": "Egyptian Pound"
+    },
+    {
+      "code": "ERN",
+      "name_it": "nakfa eritreo",
+      "name_en": "Eritrean Nakfa"
+    },
+    {
+      "code": "ESA",
+      "name_it": "peseta spagnola account",
+      "name_en": "Spanish Peseta (A account)"
+    },
+    {
+      "code": "ESB",
+      "name_it": "peseta spagnola account convertibile",
+      "name_en": "Spanish Peseta (convertible account)"
+    },
+    {
+      "code": "ESP",
+      "name_it": "peseta spagnola",
+      "name_en": "Spanish Peseta"
+    },
+    {
+      "code": "ETB",
+      "name_it": "birr etiope",
+      "name_en": "Ethiopian Birr"
+    },
+    {
+      "code": "EUR",
+      "name_it": "euro",
+      "name_en": "Euro"
+    },
+    {
+      "code": "FIM",
+      "name_it": "markka finlandese",
+      "name_en": "Finnish Markka"
+    },
+    {
+      "code": "FJD",
+      "name_it": "dollaro delle Figi",
+      "name_en": "Fijian Dollar"
+    },
+    {
+      "code": "FKP",
+      "name_it": "sterlina delle Falkland",
+      "name_en": "Falkland Islands Pound"
+    },
+    {
+      "code": "FRF",
+      "name_it": "franco francese",
+      "name_en": "French Franc"
+    },
+    {
+      "code": "GBP",
+      "name_it": "sterlina britannica",
+      "name_en": "British Pound"
+    },
+    {
+      "code": "GEK",
+      "name_it": "kupon larit georgiano",
+      "name_en": "Georgian Kupon Larit"
+    },
+    {
+      "code": "GEL",
+      "name_it": "lari georgiano",
+      "name_en": "Georgian Lari"
+    },
+    {
+      "code": "GHC",
+      "name_it": "cedi del Ghana",
+      "name_en": "Ghanaian Cedi (1979–2007)"
+    },
+    {
+      "code": "GHS",
+      "name_it": "cedi ghanese",
+      "name_en": "Ghanaian Cedi"
+    },
+    {
+      "code": "GIP",
+      "name_it": "sterlina di Gibilterra",
+      "name_en": "Gibraltar Pound"
+    },
+    {
+      "code": "GMD",
+      "name_it": "dalasi gambiano",
+      "name_en": "Gambian Dalasi"
+    },
+    {
+      "code": "GNF",
+      "name_it": "franco della Guinea",
+      "name_en": "Guinean Franc"
+    },
+    {
+      "code": "GNS",
+      "name_it": "syli della Guinea",
+      "name_en": "Guinean Syli"
+    },
+    {
+      "code": "GQE",
+      "name_it": "ekwele della Guinea Equatoriale",
+      "name_en": "Equatorial Guinean Ekwele"
+    },
+    {
+      "code": "GRD",
+      "name_it": "dracma greca",
+      "name_en": "Greek Drachma"
+    },
+    {
+      "code": "GTQ",
+      "name_it": "quetzal guatemalteco",
+      "name_en": "Guatemalan Quetzal"
+    },
+    {
+      "code": "GWE",
+      "name_it": "escudo della Guinea portoghese",
+      "name_en": "Portuguese Guinea Escudo"
+    },
+    {
+      "code": "GWP",
+      "name_it": "peso della Guinea-Bissau",
+      "name_en": "Guinea-Bissau Peso"
+    },
+    {
+      "code": "GYD",
+      "name_it": "dollaro della Guyana",
+      "name_en": "Guyanaese Dollar"
+    },
+    {
+      "code": "HKD",
+      "name_it": "dollaro di Hong Kong",
+      "name_en": "Hong Kong Dollar"
+    },
+    {
+      "code": "HNL",
+      "name_it": "lempira honduregna",
+      "name_en": "Honduran Lempira"
+    },
+    {
+      "code": "HRD",
+      "name_it": "dinaro croato",
+      "name_en": "Croatian Dinar"
+    },
+    {
+      "code": "HRK",
+      "name_it": "kuna croata",
+      "name_en": "Croatian Kuna"
+    },
+    {
+      "code": "HTG",
+      "name_it": "gourde haitiano",
+      "name_en": "Haitian Gourde"
+    },
+    {
+      "code": "HUF",
+      "name_it": "fiorino ungherese",
+      "name_en": "Hungarian Forint"
+    },
+    {
+      "code": "IDR",
+      "name_it": "rupia indonesiana",
+      "name_en": "Indonesian Rupiah"
+    },
+    {
+      "code": "IEP",
+      "name_it": "sterlina irlandese",
+      "name_en": "Irish Pound"
+    },
+    {
+      "code": "ILP",
+      "name_it": "sterlina israeliana",
+      "name_en": "Israeli Pound"
+    },
+    {
+      "code": "ILR",
+      "name_it": "Israeli Shekel (1980–1985)",
+      "name_en": "Israeli Shekel (1980–1985)"
+    },
+    {
+      "code": "ILS",
+      "name_it": "nuovo siclo israeliano",
+      "name_en": "Israeli New Shekel"
+    },
+    {
+      "code": "INR",
+      "name_it": "rupia indiana",
+      "name_en": "Indian Rupee"
+    },
+    {
+      "code": "IQD",
+      "name_it": "dinaro iracheno",
+      "name_en": "Iraqi Dinar"
+    },
+    {
+      "code": "IRR",
+      "name_it": "rial iraniano",
+      "name_en": "Iranian Rial"
+    },
+    {
+      "code": "ISJ",
+      "name_it": "Icelandic Króna (1918–1981)",
+      "name_en": "Icelandic Króna (1918–1981)"
+    },
+    {
+      "code": "ISK",
+      "name_it": "corona islandese",
+      "name_en": "Icelandic Króna"
+    },
+    {
+      "code": "ITL",
+      "name_it": "lira italiana",
+      "name_en": "Italian Lira"
+    },
+    {
+      "code": "JMD",
+      "name_it": "dollaro giamaicano",
+      "name_en": "Jamaican Dollar"
+    },
+    {
+      "code": "JOD",
+      "name_it": "dinaro giordano",
+      "name_en": "Jordanian Dinar"
+    },
+    {
+      "code": "JPY",
+      "name_it": "yen giapponese",
+      "name_en": "Japanese Yen"
+    },
+    {
+      "code": "KES",
+      "name_it": "scellino keniota",
+      "name_en": "Kenyan Shilling"
+    },
+    {
+      "code": "KGS",
+      "name_it": "som kirghiso",
+      "name_en": "Kyrgystani Som"
+    },
+    {
+      "code": "KHR",
+      "name_it": "riel cambogiano",
+      "name_en": "Cambodian Riel"
+    },
+    {
+      "code": "KMF",
+      "name_it": "franco comoriano",
+      "name_en": "Comorian Franc"
+    },
+    {
+      "code": "KPW",
+      "name_it": "won nordcoreano",
+      "name_en": "North Korean Won"
+    },
+    {
+      "code": "KRH",
+      "name_it": "South Korean Hwan (1953–1962)",
+      "name_en": "South Korean Hwan (1953–1962)"
+    },
+    {
+      "code": "KRO",
+      "name_it": "South Korean Won (1945–1953)",
+      "name_en": "South Korean Won (1945–1953)"
+    },
+    {
+      "code": "KRW",
+      "name_it": "won sudcoreano",
+      "name_en": "South Korean Won"
+    },
+    {
+      "code": "KWD",
+      "name_it": "dinaro kuwaitiano",
+      "name_en": "Kuwaiti Dinar"
+    },
+    {
+      "code": "KYD",
+      "name_it": "dollaro delle Isole Cayman",
+      "name_en": "Cayman Islands Dollar"
+    },
+    {
+      "code": "KZT",
+      "name_it": "tenge kazako",
+      "name_en": "Kazakhstani Tenge"
+    },
+    {
+      "code": "LAK",
+      "name_it": "kip laotiano",
+      "name_en": "Laotian Kip"
+    },
+    {
+      "code": "LBP",
+      "name_it": "lira libanese",
+      "name_en": "Lebanese Pound"
+    },
+    {
+      "code": "LKR",
+      "name_it": "rupia di Sri Lanka",
+      "name_en": "Sri Lankan Rupee"
+    },
+    {
+      "code": "LRD",
+      "name_it": "dollaro liberiano",
+      "name_en": "Liberian Dollar"
+    },
+    {
+      "code": "LSL",
+      "name_it": "loti del Lesotho",
+      "name_en": "Lesotho Loti"
+    },
+    {
+      "code": "LTL",
+      "name_it": "litas lituano",
+      "name_en": "Lithuanian Litas"
+    },
+    {
+      "code": "LTT",
+      "name_it": "talonas lituani",
+      "name_en": "Lithuanian Talonas"
+    },
+    {
+      "code": "LUC",
+      "name_it": "franco convertibile del Lussemburgo",
+      "name_en": "Luxembourgian Convertible Franc"
+    },
+    {
+      "code": "LUF",
+      "name_it": "franco del Lussemburgo",
+      "name_en": "Luxembourgian Franc"
+    },
+    {
+      "code": "LUL",
+      "name_it": "franco finanziario del Lussemburgo",
+      "name_en": "Luxembourg Financial Franc"
+    },
+    {
+      "code": "LVL",
+      "name_it": "lats lettone",
+      "name_en": "Latvian Lats"
+    },
+    {
+      "code": "LVR",
+      "name_it": "rublo lettone",
+      "name_en": "Latvian Ruble"
+    },
+    {
+      "code": "LYD",
+      "name_it": "dinaro libico",
+      "name_en": "Libyan Dinar"
+    },
+    {
+      "code": "MAD",
+      "name_it": "dirham marocchino",
+      "name_en": "Moroccan Dirham"
+    },
+    {
+      "code": "MAF",
+      "name_it": "franco marocchino",
+      "name_en": "Moroccan Franc"
+    },
+    {
+      "code": "MCF",
+      "name_it": "Monegasque Franc",
+      "name_en": "Monegasque Franc"
+    },
+    {
+      "code": "MDC",
+      "name_it": "Moldovan Cupon",
+      "name_en": "Moldovan Cupon"
+    },
+    {
+      "code": "MDL",
+      "name_it": "leu moldavo",
+      "name_en": "Moldovan Leu"
+    },
+    {
+      "code": "MGA",
+      "name_it": "ariary malgascio",
+      "name_en": "Malagasy Ariary"
+    },
+    {
+      "code": "MGF",
+      "name_it": "franco malgascio",
+      "name_en": "Malagasy Franc"
+    },
+    {
+      "code": "MKD",
+      "name_it": "denar macedone",
+      "name_en": "Macedonian Denar"
+    },
+    {
+      "code": "MKN",
+      "name_it": "Macedonian Denar (1992–1993)",
+      "name_en": "Macedonian Denar (1992–1993)"
+    },
+    {
+      "code": "MLF",
+      "name_it": "franco di Mali",
+      "name_en": "Malian Franc"
+    },
+    {
+      "code": "MMK",
+      "name_it": "kyat di Myanmar",
+      "name_en": "Myanmar Kyat"
+    },
+    {
+      "code": "MNT",
+      "name_it": "tugrik mongolo",
+      "name_en": "Mongolian Tugrik"
+    },
+    {
+      "code": "MOP",
+      "name_it": "pataca di Macao",
+      "name_en": "Macanese Pataca"
+    },
+    {
+      "code": "MRO",
+      "name_it": "ouguiya della Mauritania",
+      "name_en": "Mauritanian Ouguiya"
+    },
+    {
+      "code": "MTL",
+      "name_it": "lira maltese",
+      "name_en": "Maltese Lira"
+    },
+    {
+      "code": "MTP",
+      "name_it": "sterlina maltese",
+      "name_en": "Maltese Pound"
+    },
+    {
+      "code": "MUR",
+      "name_it": "rupia mauriziana",
+      "name_en": "Mauritian Rupee"
+    },
+    {
+      "code": "MVP",
+      "name_it": "Maldivian Rupee (1947–1981)",
+      "name_en": "Maldivian Rupee (1947–1981)"
+    },
+    {
+      "code": "MVR",
+      "name_it": "rufiyaa delle Maldive",
+      "name_en": "Maldivian Rufiyaa"
+    },
+    {
+      "code": "MWK",
+      "name_it": "kwacha malawiano",
+      "name_en": "Malawian Kwacha"
+    },
+    {
+      "code": "MXN",
+      "name_it": "peso messicano",
+      "name_en": "Mexican Peso"
+    },
+    {
+      "code": "MXP",
+      "name_it": "peso messicano d’argento (1861–1992)",
+      "name_en": "Mexican Silver Peso (1861–1992)"
+    },
+    {
+      "code": "MXV",
+      "name_it": "unidad de inversion (UDI) messicana",
+      "name_en": "Mexican Investment Unit"
+    },
+    {
+      "code": "MYR",
+      "name_it": "ringgit malese",
+      "name_en": "Malaysian Ringgit"
+    },
+    {
+      "code": "MZE",
+      "name_it": "escudo del Mozambico",
+      "name_en": "Mozambican Escudo"
+    },
+    {
+      "code": "MZM",
+      "name_it": "Mozambican Metical (1980–2006)",
+      "name_en": "Mozambican Metical (1980–2006)"
+    },
+    {
+      "code": "MZN",
+      "name_it": "metical mozambicano",
+      "name_en": "Mozambican Metical"
+    },
+    {
+      "code": "NAD",
+      "name_it": "dollaro namibiano",
+      "name_en": "Namibian Dollar"
+    },
+    {
+      "code": "NGN",
+      "name_it": "naira nigeriana",
+      "name_en": "Nigerian Naira"
+    },
+    {
+      "code": "NIC",
+      "name_it": "cordoba nicaraguense",
+      "name_en": "Nicaraguan Córdoba (1988–1991)"
+    },
+    {
+      "code": "NIO",
+      "name_it": "córdoba nicaraguense",
+      "name_en": "Nicaraguan Córdoba"
+    },
+    {
+      "code": "NLG",
+      "name_it": "fiorino olandese",
+      "name_en": "Dutch Guilder"
+    },
+    {
+      "code": "NOK",
+      "name_it": "corona norvegese",
+      "name_en": "Norwegian Krone"
+    },
+    {
+      "code": "NPR",
+      "name_it": "rupia nepalese",
+      "name_en": "Nepalese Rupee"
+    },
+    {
+      "code": "NZD",
+      "name_it": "dollaro neozelandese",
+      "name_en": "New Zealand Dollar"
+    },
+    {
+      "code": "OMR",
+      "name_it": "rial omanita",
+      "name_en": "Omani Rial"
+    },
+    {
+      "code": "PAB",
+      "name_it": "balboa panamense",
+      "name_en": "Panamanian Balboa"
+    },
+    {
+      "code": "PEI",
+      "name_it": "inti peruviano",
+      "name_en": "Peruvian Inti"
+    },
+    {
+      "code": "PEN",
+      "name_it": "sol peruviano",
+      "name_en": "Peruvian Sol"
+    },
+    {
+      "code": "PES",
+      "name_it": "sol peruviano (1863–1965)",
+      "name_en": "Peruvian Sol (1863–1965)"
+    },
+    {
+      "code": "PGK",
+      "name_it": "kina papuana",
+      "name_en": "Papua New Guinean Kina"
+    },
+    {
+      "code": "PHP",
+      "name_it": "peso filippino",
+      "name_en": "Philippine Peso"
+    },
+    {
+      "code": "PKR",
+      "name_it": "rupia pakistana",
+      "name_en": "Pakistani Rupee"
+    },
+    {
+      "code": "PLN",
+      "name_it": "złoty polacco",
+      "name_en": "Polish Zloty"
+    },
+    {
+      "code": "PLZ",
+      "name_it": "złoty Polacco (1950–1995)",
+      "name_en": "Polish Zloty (1950–1995)"
+    },
+    {
+      "code": "PTE",
+      "name_it": "escudo portoghese",
+      "name_en": "Portuguese Escudo"
+    },
+    {
+      "code": "PYG",
+      "name_it": "guaraní paraguayano",
+      "name_en": "Paraguayan Guarani"
+    },
+    {
+      "code": "QAR",
+      "name_it": "rial qatariano",
+      "name_en": "Qatari Rial"
+    },
+    {
+      "code": "RHD",
+      "name_it": "dollaro della Rhodesia",
+      "name_en": "Rhodesian Dollar"
+    },
+    {
+      "code": "ROL",
+      "name_it": "leu della Romania",
+      "name_en": "Romanian Leu (1952–2006)"
+    },
+    {
+      "code": "RON",
+      "name_it": "leu rumeno",
+      "name_en": "Romanian Leu"
+    },
+    {
+      "code": "RSD",
+      "name_it": "dinaro serbo",
+      "name_en": "Serbian Dinar"
+    },
+    {
+      "code": "RUB",
+      "name_it": "rublo russo",
+      "name_en": "Russian Ruble"
+    },
+    {
+      "code": "RUR",
+      "name_it": "rublo della CSI",
+      "name_en": "Russian Ruble (1991–1998)"
+    },
+    {
+      "code": "RWF",
+      "name_it": "franco ruandese",
+      "name_en": "Rwandan Franc"
+    },
+    {
+      "code": "SAR",
+      "name_it": "riyal saudita",
+      "name_en": "Saudi Riyal"
+    },
+    {
+      "code": "SBD",
+      "name_it": "dollaro delle Isole Salomone",
+      "name_en": "Solomon Islands Dollar"
+    },
+    {
+      "code": "SCR",
+      "name_it": "rupia delle Seychelles",
+      "name_en": "Seychellois Rupee"
+    },
+    {
+      "code": "SDD",
+      "name_it": "dinaro sudanese",
+      "name_en": "Sudanese Dinar (1992–2007)"
+    },
+    {
+      "code": "SDG",
+      "name_it": "sterlina sudanese",
+      "name_en": "Sudanese Pound"
+    },
+    {
+      "code": "SDP",
+      "name_it": "Sudanese Pound (1957–1998)",
+      "name_en": "Sudanese Pound (1957–1998)"
+    },
+    {
+      "code": "SEK",
+      "name_it": "corona svedese",
+      "name_en": "Swedish Krona"
+    },
+    {
+      "code": "SGD",
+      "name_it": "dollaro di Singapore",
+      "name_en": "Singapore Dollar"
+    },
+    {
+      "code": "SHP",
+      "name_it": "sterlina di Sant’Elena",
+      "name_en": "St. Helena Pound"
+    },
+    {
+      "code": "SIT",
+      "name_it": "tallero sloveno",
+      "name_en": "Slovenian Tolar"
+    },
+    {
+      "code": "SKK",
+      "name_it": "corona slovacca",
+      "name_en": "Slovak Koruna"
+    },
+    {
+      "code": "SLL",
+      "name_it": "leone della Sierra Leone",
+      "name_en": "Sierra Leonean Leone"
+    },
+    {
+      "code": "SOS",
+      "name_it": "scellino somalo",
+      "name_en": "Somali Shilling"
+    },
+    {
+      "code": "SRD",
+      "name_it": "dollaro del Suriname",
+      "name_en": "Surinamese Dollar"
+    },
+    {
+      "code": "SRG",
+      "name_it": "fiorino del Suriname",
+      "name_en": "Surinamese Guilder"
+    },
+    {
+      "code": "SSP",
+      "name_it": "sterlina sud-sudanese",
+      "name_en": "South Sudanese Pound"
+    },
+    {
+      "code": "STD",
+      "name_it": "dobra di Sao Tomé e Principe",
+      "name_en": "São Tomé & Príncipe Dobra"
+    },
+    {
+      "code": "SUR",
+      "name_it": "rublo sovietico",
+      "name_en": "Soviet Rouble"
+    },
+    {
+      "code": "SVC",
+      "name_it": "colón salvadoregno",
+      "name_en": "Salvadoran Colón"
+    },
+    {
+      "code": "SYP",
+      "name_it": "lira siriana",
+      "name_en": "Syrian Pound"
+    },
+    {
+      "code": "SZL",
+      "name_it": "lilangeni dello Swaziland",
+      "name_en": "Swazi Lilangeni"
+    },
+    {
+      "code": "THB",
+      "name_it": "baht thailandese",
+      "name_en": "Thai Baht"
+    },
+    {
+      "code": "TJR",
+      "name_it": "rublo del Tajikistan",
+      "name_en": "Tajikistani Ruble"
+    },
+    {
+      "code": "TJS",
+      "name_it": "somoni tagiko",
+      "name_en": "Tajikistani Somoni"
+    },
+    {
+      "code": "TMM",
+      "name_it": "manat turkmeno (1993–2009)",
+      "name_en": "Turkmenistani Manat (1993–2009)"
+    },
+    {
+      "code": "TMT",
+      "name_it": "manat turkmeno",
+      "name_en": "Turkmenistani Manat"
+    },
+    {
+      "code": "TND",
+      "name_it": "dinaro tunisino",
+      "name_en": "Tunisian Dinar"
+    },
+    {
+      "code": "TOP",
+      "name_it": "paʻanga tongano",
+      "name_en": "Tongan Paʻanga"
+    },
+    {
+      "code": "TPE",
+      "name_it": "escudo di Timor",
+      "name_en": "Timorese Escudo"
+    },
+    {
+      "code": "TRL",
+      "name_it": "lira turca (1922–2005)",
+      "name_en": "Turkish Lira (1922–2005)"
+    },
+    {
+      "code": "TRY",
+      "name_it": "lira turca",
+      "name_en": "Turkish Lira"
+    },
+    {
+      "code": "TTD",
+      "name_it": "dollaro di Trinidad e Tobago",
+      "name_en": "Trinidad & Tobago Dollar"
+    },
+    {
+      "code": "TWD",
+      "name_it": "nuovo dollaro taiwanese",
+      "name_en": "New Taiwan Dollar"
+    },
+    {
+      "code": "TZS",
+      "name_it": "scellino della Tanzania",
+      "name_en": "Tanzanian Shilling"
+    },
+    {
+      "code": "UAH",
+      "name_it": "grivnia ucraina",
+      "name_en": "Ukrainian Hryvnia"
+    },
+    {
+      "code": "UAK",
+      "name_it": "karbovanetz ucraino",
+      "name_en": "Ukrainian Karbovanets"
+    },
+    {
+      "code": "UGS",
+      "name_it": "scellino ugandese (1966–1987)",
+      "name_en": "Ugandan Shilling (1966–1987)"
+    },
+    {
+      "code": "UGX",
+      "name_it": "scellino ugandese",
+      "name_en": "Ugandan Shilling"
+    },
+    {
+      "code": "USD",
+      "name_it": "dollaro statunitense",
+      "name_en": "US Dollar"
+    },
+    {
+      "code": "USN",
+      "name_it": "dollaro statunitense (next day)",
+      "name_en": "US Dollar (Next day)"
+    },
+    {
+      "code": "USS",
+      "name_it": "dollaro statunitense (same day)",
+      "name_en": "US Dollar (Same day)"
+    },
+    {
+      "code": "UYI",
+      "name_it": "peso uruguaiano in unità indicizzate",
+      "name_en": "Uruguayan Peso (Indexed Units)"
+    },
+    {
+      "code": "UYP",
+      "name_it": "peso uruguaiano (1975–1993)",
+      "name_en": "Uruguayan Peso (1975–1993)"
+    },
+    {
+      "code": "UYU",
+      "name_it": "peso uruguayano",
+      "name_en": "Uruguayan Peso"
+    },
+    {
+      "code": "UZS",
+      "name_it": "sum uzbeco",
+      "name_en": "Uzbekistani Som"
+    },
+    {
+      "code": "VEB",
+      "name_it": "bolivar venezuelano (1871–2008)",
+      "name_en": "Venezuelan Bolívar (1871–2008)"
+    },
+    {
+      "code": "VEF",
+      "name_it": "bolívar venezuelano",
+      "name_en": "Venezuelan Bolívar"
+    },
+    {
+      "code": "VND",
+      "name_it": "dong vietnamita",
+      "name_en": "Vietnamese Dong"
+    },
+    {
+      "code": "VNN",
+      "name_it": "Vietnamese Dong (1978–1985)",
+      "name_en": "Vietnamese Dong (1978–1985)"
+    },
+    {
+      "code": "VUV",
+      "name_it": "vatu di Vanuatu",
+      "name_en": "Vanuatu Vatu"
+    },
+    {
+      "code": "WST",
+      "name_it": "tala samoano",
+      "name_en": "Samoan Tala"
+    },
+    {
+      "code": "XAF",
+      "name_it": "franco CFA BEAC",
+      "name_en": "Central African CFA Franc"
+    },
+    {
+      "code": "XCD",
+      "name_it": "dollaro dei Caraibi orientali",
+      "name_en": "East Caribbean Dollar"
+    },
+    {
+      "code": "XEU",
+      "name_it": "European Currency Unit",
+      "name_en": "European Currency Unit"
+    },
+    {
+      "code": "XFO",
+      "name_it": "franco oro francese",
+      "name_en": "French Gold Franc"
+    },
+    {
+      "code": "XFU",
+      "name_it": "franco UIC francese",
+      "name_en": "French UIC-Franc"
+    },
+    {
+      "code": "XOF",
+      "name_it": "franco CFA BCEAO",
+      "name_en": "West African CFA Franc"
+    },
+    {
+      "code": "XPF",
+      "name_it": "franco CFP",
+      "name_en": "CFP Franc"
+    },
+    {
+      "code": "XRE",
+      "name_it": "fondi RINET",
+      "name_en": "RINET Funds"
+    },
+    {
+      "code": "YDD",
+      "name_it": "dinaro dello Yemen",
+      "name_en": "Yemeni Dinar"
+    },
+    {
+      "code": "YER",
+      "name_it": "riyal yemenita",
+      "name_en": "Yemeni Rial"
+    },
+    {
+      "code": "YUD",
+      "name_it": "dinaro forte yugoslavo",
+      "name_en": "Yugoslavian Hard Dinar (1966–1990)"
+    },
+    {
+      "code": "YUM",
+      "name_it": "dinaro noviy yugoslavo",
+      "name_en": "Yugoslavian New Dinar (1994–2002)"
+    },
+    {
+      "code": "YUN",
+      "name_it": "dinaro convertibile yugoslavo",
+      "name_en": "Yugoslavian Convertible Dinar (1990–1992)"
+    },
+    {
+      "code": "YUR",
+      "name_it": "Yugoslavian Reformed Dinar (1992–1993)",
+      "name_en": "Yugoslavian Reformed Dinar (1992–1993)"
+    },
+    {
+      "code": "ZAL",
+      "name_it": "rand sudafricano (finanziario)",
+      "name_en": "South African Rand (financial)"
+    },
+    {
+      "code": "ZAR",
+      "name_it": "rand sudafricano",
+      "name_en": "South African Rand"
+    },
+    {
+      "code": "ZMK",
+      "name_it": "kwacha dello Zambia (1968–2012)",
+      "name_en": "Zambian Kwacha (1968–2012)"
+    },
+    {
+      "code": "ZMW",
+      "name_it": "kwacha dello Zambia",
+      "name_en": "Zambian Kwacha"
+    },
+    {
+      "code": "ZRN",
+      "name_it": "nuovo zaire dello Zaire",
+      "name_en": "Zairean New Zaire (1993–1998)"
+    },
+    {
+      "code": "ZRZ",
+      "name_it": "zaire dello Zaire",
+      "name_en": "Zairean Zaire (1971–1993)"
+    },
+    {
+      "code": "ZWD",
+      "name_it": "dollaro dello Zimbabwe",
+      "name_en": "Zimbabwean Dollar (1980–2008)"
+    },
+    {
+      "code": "ZWL",
+      "name_it": "dollaro zimbabwiano (2009)",
+      "name_en": "Zimbabwean Dollar (2009)"
+    },
+    {
+      "code": "ZWR",
+      "name_it": "Zimbabwean Dollar (2008)",
+      "name_en": "Zimbabwean Dollar (2008)"
+    }
+  ],
+  "meta": {
+    "title": "Valute del mondo (285) - Download gratuito",
+    "description": "Elenco delle valute del mondo — 285 codici valuta ISO 4217 con denominazione italiana (Unicode CLDR) e inglese. Es.: dollaro statunitense (USD), euro (EUR), yen giapponese (JPY), sterlina britannica (GBP), renminbi cinese (CNY), lira italiana (ITL), franco svizzero (CHF). Ordinato per codice. Primo elenco di valute del bucket IT, complementare al riferimento mondiale esistente (elenco dei paesi). Fonte: umpirsky/currency-list (CLDR). Contiene 285 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Valute del mondo (285) | ListBase",
+    "seo_description": "Scarica Valute del mondo (285) — 285 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 285 record / 3 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

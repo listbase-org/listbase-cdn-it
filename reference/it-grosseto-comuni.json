@@ -1,0 +1,412 @@
+{
+  "id": "it-grosseto-comuni",
+  "name": "Comuni della provincia di Grosseto",
+  "title": "Comuni della provincia di Grosseto",
+  "description": "Elenco dei 28 comuni della provincia di Grosseto (sigla GR), regione Toscana. List of 28 comuni in the province of Grosseto (GR), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 53001,
+      "nome": "Arcidosso",
+      "slug": "arcidosso",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53002,
+      "nome": "Campagnatico",
+      "slug": "campagnatico",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53003,
+      "nome": "Capalbio",
+      "slug": "capalbio",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53004,
+      "nome": "Castel del Piano",
+      "slug": "castel-del-piano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53005,
+      "nome": "Castell'Azzara",
+      "slug": "castellazzara",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53006,
+      "nome": "Castiglione della Pescaia",
+      "slug": "castiglione-della-pescaia",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53007,
+      "nome": "Cinigiano",
+      "slug": "cinigiano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53008,
+      "nome": "Civitella Paganico",
+      "slug": "civitella-paganico",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53009,
+      "nome": "Follonica",
+      "slug": "follonica",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53010,
+      "nome": "Gavorrano",
+      "slug": "gavorrano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53011,
+      "nome": "Grosseto",
+      "slug": "grosseto",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53012,
+      "nome": "Isola del Giglio",
+      "slug": "isola-del-giglio",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53013,
+      "nome": "Magliano in Toscana",
+      "slug": "magliano-in-toscana",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53014,
+      "nome": "Manciano",
+      "slug": "manciano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53015,
+      "nome": "Massa Marittima",
+      "slug": "massa-marittima",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53016,
+      "nome": "Monte Argentario",
+      "slug": "monte-argentario",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53027,
+      "nome": "Monterotondo Marittimo",
+      "slug": "monterotondo-marittimo",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53017,
+      "nome": "Montieri",
+      "slug": "montieri",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53018,
+      "nome": "Orbetello",
+      "slug": "orbetello",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53019,
+      "nome": "Pitigliano",
+      "slug": "pitigliano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53020,
+      "nome": "Roccalbegna",
+      "slug": "roccalbegna",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53021,
+      "nome": "Roccastrada",
+      "slug": "roccastrada",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53022,
+      "nome": "Santa Fiora",
+      "slug": "santa-fiora",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53023,
+      "nome": "Scansano",
+      "slug": "scansano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53024,
+      "nome": "Scarlino",
+      "slug": "scarlino",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53025,
+      "nome": "Seggiano",
+      "slug": "seggiano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53028,
+      "nome": "Semproniano",
+      "slug": "semproniano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 53026,
+      "nome": "Sorano",
+      "slug": "sorano",
+      "provincia_id": 53,
+      "provincia_nome": "Grosseto",
+      "provincia_sigla": "GR",
+      "provincia_slug": "grosseto",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Grosseto - Download gratuito",
+    "description": "Elenco dei 28 comuni della provincia di Grosseto (sigla GR), regione Toscana. List of 28 comuni in the province of Grosseto (GR), Toscana region. Contiene 28 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Grosseto | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Grosseto — 28 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 28 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

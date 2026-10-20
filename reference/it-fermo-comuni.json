@@ -1,0 +1,556 @@
+{
+  "id": "it-fermo-comuni",
+  "name": "Comuni della provincia di Fermo",
+  "title": "Comuni della provincia di Fermo",
+  "description": "Elenco dei 40 comuni della provincia di Fermo (sigla FM), regione Marche. List of 40 comuni in the province of Fermo (FM), Marche region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 109001,
+      "nome": "Altidona",
+      "slug": "altidona",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109002,
+      "nome": "Amandola",
+      "slug": "amandola",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109003,
+      "nome": "Belmonte Piceno",
+      "slug": "belmonte-piceno",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109004,
+      "nome": "Campofilone",
+      "slug": "campofilone",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109005,
+      "nome": "Falerone",
+      "slug": "falerone",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109006,
+      "nome": "Fermo",
+      "slug": "fermo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109007,
+      "nome": "Francavilla d'Ete",
+      "slug": "francavilla-dete",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109008,
+      "nome": "Grottazzolina",
+      "slug": "grottazzolina",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109009,
+      "nome": "Lapedona",
+      "slug": "lapedona",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109010,
+      "nome": "Magliano di Tenna",
+      "slug": "magliano-di-tenna",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109011,
+      "nome": "Massa Fermana",
+      "slug": "massa-fermana",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109012,
+      "nome": "Monsampietro Morico",
+      "slug": "monsampietro-morico",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109013,
+      "nome": "Montappone",
+      "slug": "montappone",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109016,
+      "nome": "Monte Giberto",
+      "slug": "monte-giberto",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109021,
+      "nome": "Monte Rinaldo",
+      "slug": "monte-rinaldo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109023,
+      "nome": "Monte San Pietrangeli",
+      "slug": "monte-san-pietrangeli",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109024,
+      "nome": "Monte Urano",
+      "slug": "monte-urano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109025,
+      "nome": "Monte Vidon Combatte",
+      "slug": "monte-vidon-combatte",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109026,
+      "nome": "Monte Vidon Corrado",
+      "slug": "monte-vidon-corrado",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109014,
+      "nome": "Montefalcone Appennino",
+      "slug": "montefalcone-appennino",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109015,
+      "nome": "Montefortino",
+      "slug": "montefortino",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109017,
+      "nome": "Montegiorgio",
+      "slug": "montegiorgio",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109018,
+      "nome": "Montegranaro",
+      "slug": "montegranaro",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109019,
+      "nome": "Monteleone di Fermo",
+      "slug": "monteleone-di-fermo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109020,
+      "nome": "Montelparo",
+      "slug": "montelparo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109022,
+      "nome": "Monterubbiano",
+      "slug": "monterubbiano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109027,
+      "nome": "Montottone",
+      "slug": "montottone",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109028,
+      "nome": "Moresco",
+      "slug": "moresco",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109029,
+      "nome": "Ortezzano",
+      "slug": "ortezzano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109030,
+      "nome": "Pedaso",
+      "slug": "pedaso",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109031,
+      "nome": "Petritoli",
+      "slug": "petritoli",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109032,
+      "nome": "Ponzano di Fermo",
+      "slug": "ponzano-di-fermo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109033,
+      "nome": "Porto San Giorgio",
+      "slug": "porto-san-giorgio",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109034,
+      "nome": "Porto Sant'Elpidio",
+      "slug": "porto-santelpidio",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109035,
+      "nome": "Rapagnano",
+      "slug": "rapagnano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109037,
+      "nome": "Sant'Elpidio a Mare",
+      "slug": "santelpidio-a-mare",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109036,
+      "nome": "Santa Vittoria in Matenano",
+      "slug": "santa-vittoria-in-matenano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109038,
+      "nome": "Servigliano",
+      "slug": "servigliano",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109039,
+      "nome": "Smerillo",
+      "slug": "smerillo",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 109040,
+      "nome": "Torre San Patrizio",
+      "slug": "torre-san-patrizio",
+      "provincia_id": 109,
+      "provincia_nome": "Fermo",
+      "provincia_sigla": "FM",
+      "provincia_slug": "fermo",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Fermo - Download gratuito",
+    "description": "Elenco dei 40 comuni della provincia di Fermo (sigla FM), regione Marche. List of 40 comuni in the province of Fermo (FM), Marche region. Contiene 40 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Fermo | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Fermo — 40 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 40 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

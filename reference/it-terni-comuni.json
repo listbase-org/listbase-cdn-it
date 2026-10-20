@@ -1,0 +1,472 @@
+{
+  "id": "it-terni-comuni",
+  "name": "Comuni della provincia di Terni",
+  "title": "Comuni della provincia di Terni",
+  "description": "Elenco dei 33 comuni della provincia di Terni (sigla TR), regione Umbria. List of 33 comuni in the province of Terni (TR), Umbria region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 55001,
+      "nome": "Acquasparta",
+      "slug": "acquasparta",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55002,
+      "nome": "Allerona",
+      "slug": "allerona",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55003,
+      "nome": "Alviano",
+      "slug": "alviano",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55004,
+      "nome": "Amelia",
+      "slug": "amelia",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55005,
+      "nome": "Arrone",
+      "slug": "arrone",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55006,
+      "nome": "Attigliano",
+      "slug": "attigliano",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55033,
+      "nome": "Avigliano Umbro",
+      "slug": "avigliano-umbro",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55007,
+      "nome": "Baschi",
+      "slug": "baschi",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55008,
+      "nome": "Calvi dell'Umbria",
+      "slug": "calvi-dellumbria",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55009,
+      "nome": "Castel Giorgio",
+      "slug": "castel-giorgio",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55010,
+      "nome": "Castel Viscardo",
+      "slug": "castel-viscardo",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55011,
+      "nome": "Fabro",
+      "slug": "fabro",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55012,
+      "nome": "Ferentillo",
+      "slug": "ferentillo",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55013,
+      "nome": "Ficulle",
+      "slug": "ficulle",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55014,
+      "nome": "Giove",
+      "slug": "giove",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55015,
+      "nome": "Guardea",
+      "slug": "guardea",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55016,
+      "nome": "Lugnano in Teverina",
+      "slug": "lugnano-in-teverina",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55017,
+      "nome": "Montecastrilli",
+      "slug": "montecastrilli",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55018,
+      "nome": "Montecchio",
+      "slug": "montecchio",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55019,
+      "nome": "Montefranco",
+      "slug": "montefranco",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55020,
+      "nome": "Montegabbione",
+      "slug": "montegabbione",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55021,
+      "nome": "Monteleone d'Orvieto",
+      "slug": "monteleone-dorvieto",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55022,
+      "nome": "Narni",
+      "slug": "narni",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55023,
+      "nome": "Orvieto",
+      "slug": "orvieto",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55024,
+      "nome": "Otricoli",
+      "slug": "otricoli",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55025,
+      "nome": "Parrano",
+      "slug": "parrano",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55026,
+      "nome": "Penna in Teverina",
+      "slug": "penna-in-teverina",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55027,
+      "nome": "Polino",
+      "slug": "polino",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55028,
+      "nome": "Porano",
+      "slug": "porano",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55029,
+      "nome": "San Gemini",
+      "slug": "san-gemini",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55030,
+      "nome": "San Venanzo",
+      "slug": "san-venanzo",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55031,
+      "nome": "Stroncone",
+      "slug": "stroncone",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    },
+    {
+      "id": 55032,
+      "nome": "Terni",
+      "slug": "terni",
+      "provincia_id": 55,
+      "provincia_nome": "Terni",
+      "provincia_sigla": "TR",
+      "provincia_slug": "terni",
+      "regione_id": 10,
+      "regione_nome": "Umbria",
+      "regione_slug": "umbria"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Terni - Download gratuito",
+    "description": "Elenco dei 33 comuni della provincia di Terni (sigla TR), regione Umbria. List of 33 comuni in the province of Terni (TR), Umbria region. Contiene 33 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Terni | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Terni — 33 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 33 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

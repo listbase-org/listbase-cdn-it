@@ -1,0 +1,520 @@
+{
+  "id": "it-pisa-comuni",
+  "name": "Comuni della provincia di Pisa",
+  "title": "Comuni della provincia di Pisa",
+  "description": "Elenco dei 37 comuni della provincia di Pisa (sigla PI), regione Toscana. List of 37 comuni in the province of Pisa (PI), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 50001,
+      "nome": "Bientina",
+      "slug": "bientina",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50002,
+      "nome": "Buti",
+      "slug": "buti",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50003,
+      "nome": "Calci",
+      "slug": "calci",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50004,
+      "nome": "Calcinaia",
+      "slug": "calcinaia",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50005,
+      "nome": "Capannoli",
+      "slug": "capannoli",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50006,
+      "nome": "Casale Marittimo",
+      "slug": "casale-marittimo",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50040,
+      "nome": "Casciana Terme Lari",
+      "slug": "casciana-terme-lari",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50008,
+      "nome": "Cascina",
+      "slug": "cascina",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50009,
+      "nome": "Castelfranco di Sotto",
+      "slug": "castelfranco-di-sotto",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50010,
+      "nome": "Castellina Marittima",
+      "slug": "castellina-marittima",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50011,
+      "nome": "Castelnuovo di Val di Cecina",
+      "slug": "castelnuovo-di-val-di-cecina",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50012,
+      "nome": "Chianni",
+      "slug": "chianni",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50041,
+      "nome": "Crespina Lorenzana",
+      "slug": "crespina-lorenzana",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50014,
+      "nome": "Fauglia",
+      "slug": "fauglia",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50015,
+      "nome": "Guardistallo",
+      "slug": "guardistallo",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50016,
+      "nome": "Lajatico",
+      "slug": "lajatico",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50019,
+      "nome": "Montecatini Val di Cecina",
+      "slug": "montecatini-val-di-cecina",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50020,
+      "nome": "Montescudaio",
+      "slug": "montescudaio",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50021,
+      "nome": "Monteverdi Marittimo",
+      "slug": "monteverdi-marittimo",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50022,
+      "nome": "Montopoli in Val d'Arno",
+      "slug": "montopoli-in-val-darno",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50023,
+      "nome": "Orciano Pisano",
+      "slug": "orciano-pisano",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50024,
+      "nome": "Palaia",
+      "slug": "palaia",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50025,
+      "nome": "Peccioli",
+      "slug": "peccioli",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50026,
+      "nome": "Pisa",
+      "slug": "pisa",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50027,
+      "nome": "Pomarance",
+      "slug": "pomarance",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50028,
+      "nome": "Ponsacco",
+      "slug": "ponsacco",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50029,
+      "nome": "Pontedera",
+      "slug": "pontedera",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50030,
+      "nome": "Riparbella",
+      "slug": "riparbella",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50031,
+      "nome": "San Giuliano Terme",
+      "slug": "san-giuliano-terme",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50032,
+      "nome": "San Miniato",
+      "slug": "san-miniato",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50033,
+      "nome": "Santa Croce sull'Arno",
+      "slug": "santa-croce-sullarno",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50034,
+      "nome": "Santa Luce",
+      "slug": "santa-luce",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50035,
+      "nome": "Santa Maria a Monte",
+      "slug": "santa-maria-a-monte",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50036,
+      "nome": "Terricciola",
+      "slug": "terricciola",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50037,
+      "nome": "Vecchiano",
+      "slug": "vecchiano",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50038,
+      "nome": "Vicopisano",
+      "slug": "vicopisano",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 50039,
+      "nome": "Volterra",
+      "slug": "volterra",
+      "provincia_id": 50,
+      "provincia_nome": "Pisa",
+      "provincia_sigla": "PI",
+      "provincia_slug": "pisa",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Pisa - Download gratuito",
+    "description": "Elenco dei 37 comuni della provincia di Pisa (sigla PI), regione Toscana. List of 37 comuni in the province of Pisa (PI), Toscana region. Contiene 37 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Pisa | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Pisa — 37 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 37 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

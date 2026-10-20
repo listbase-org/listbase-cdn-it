@@ -1,0 +1,126 @@
+{
+  "id": "it-lazio-province",
+  "name": "Province della Lazio (Provinces of Lazio)",
+  "title": "Province della Lazio (Provinces of Lazio)",
+  "description": "Elenco delle 5 unità provinciali della regione Lazio, con sigla automobilistica e flag città metropolitana. List of 5 provincial-tier units in the Lazio region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "nome": "Frosinone",
+      "slug": "frosinone",
+      "sigla": "FR",
+      "citta_metropolitana": false,
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio",
+      "num_comuni": 91
+    },
+    {
+      "id": 59,
+      "nome": "Latina",
+      "slug": "latina",
+      "sigla": "LT",
+      "citta_metropolitana": false,
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio",
+      "num_comuni": 33
+    },
+    {
+      "id": 57,
+      "nome": "Rieti",
+      "slug": "rieti",
+      "sigla": "RI",
+      "citta_metropolitana": false,
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio",
+      "num_comuni": 73
+    },
+    {
+      "id": 258,
+      "nome": "Roma",
+      "slug": "roma",
+      "sigla": "RM",
+      "citta_metropolitana": true,
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio",
+      "num_comuni": 121
+    },
+    {
+      "id": 56,
+      "nome": "Viterbo",
+      "slug": "viterbo",
+      "sigla": "VT",
+      "citta_metropolitana": false,
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio",
+      "num_comuni": 60
+    }
+  ],
+  "meta": {
+    "title": "Province della Lazio (Provinces of Lazio) - Download gratuito",
+    "description": "Elenco delle 5 unità provinciali della regione Lazio, con sigla automobilistica e flag città metropolitana. List of 5 provincial-tier units in the Lazio region with 2-letter sigla and metropolitan-city flag. Contiene 5 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Lazio (Provinces of Lazio) | ListBase",
+    "seo_description": "Scarica Province della Lazio (Provinces of Lazio) — 5 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 5 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

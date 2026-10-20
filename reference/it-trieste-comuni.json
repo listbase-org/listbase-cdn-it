@@ -1,0 +1,148 @@
+{
+  "id": "it-trieste-comuni",
+  "name": "Comuni della provincia di Trieste",
+  "title": "Comuni della provincia di Trieste",
+  "description": "Elenco dei 6 comuni della provincia di Trieste (sigla TS), regione Friuli-Venezia Giulia. List of 6 comuni in the province of Trieste (TS), Friuli-Venezia Giulia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 32001,
+      "nome": "Duino Aurisina",
+      "slug": "duino-aurisina",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 32002,
+      "nome": "Monrupino",
+      "slug": "monrupino",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 32003,
+      "nome": "Muggia",
+      "slug": "muggia",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 32004,
+      "nome": "San Dorligo della Valle",
+      "slug": "san-dorligo-della-valle",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 32005,
+      "nome": "Sgonico",
+      "slug": "sgonico",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    },
+    {
+      "id": 32006,
+      "nome": "Trieste",
+      "slug": "trieste",
+      "provincia_id": 32,
+      "provincia_nome": "Trieste",
+      "provincia_sigla": "TS",
+      "provincia_slug": "trieste",
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Trieste - Download gratuito",
+    "description": "Elenco dei 6 comuni della provincia di Trieste (sigla TS), regione Friuli-Venezia Giulia. List of 6 comuni in the province of Trieste (TS), Friuli-Venezia Giulia region. Contiene 6 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Trieste | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Trieste — 6 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 6 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

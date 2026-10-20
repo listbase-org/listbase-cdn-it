@@ -1,0 +1,401 @@
+{
+  "id": "it-siena-banche",
+  "name": "Banche a Siena — codici SWIFT/BIC",
+  "title": "Banche a Siena — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Siena, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1265,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "SIENA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21896"
+    },
+    {
+      "id": 1266,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "ANTBIT21635"
+    },
+    {
+      "id": 2116,
+      "bank": "BANCA CRAS CRED.COOP. TOSCANO - SIENA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "ICRAITR1OL3"
+    },
+    {
+      "id": 2117,
+      "bank": "BANCA CRAS CRED.COOP. TOSCANO - SIENA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "ICRAITR1OL8"
+    },
+    {
+      "id": 2118,
+      "bank": "BANCA CRAS CRED.COOP. TOSCANO - SIENA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "ICRAITR1OLG"
+    },
+    {
+      "id": 2119,
+      "bank": "BANCA CRAS CRED.COOP. TOSCANO - SIENA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "ICRAITR1OLR"
+    },
+    {
+      "id": 3720,
+      "bank": "BANCA D'ITALIA",
+      "city": "SIENA",
+      "branch": "(FILIALE DI SIENA)",
+      "swift_code": "BITAITR1318"
+    },
+    {
+      "id": 6176,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(AG. 8)",
+      "swift_code": "PASCITM1SI8"
+    },
+    {
+      "id": 6177,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(FIL. DIGITALE 7000)",
+      "swift_code": "PASCITM1DGT"
+    },
+    {
+      "id": 6178,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "PASCITMM"
+    },
+    {
+      "id": 6179,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SEGRETERIA TECNICA AREA LEGALE E SOCIETARIO)",
+      "swift_code": "PASCITM1ALS"
+    },
+    {
+      "id": 6180,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SERVIZIO SICUREZZE CONTINUITA OPERATIVA)",
+      "swift_code": "PASCITM1SSC"
+    },
+    {
+      "id": 6181,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA AG. 10)",
+      "swift_code": "PASCITM1635"
+    },
+    {
+      "id": 6182,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA AG. 11)",
+      "swift_code": "PASCITM1896"
+    },
+    {
+      "id": 6183,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA AG. 12)",
+      "swift_code": "PASCITM1J26"
+    },
+    {
+      "id": 6184,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA AG. 13)",
+      "swift_code": "PASCITM1J25"
+    },
+    {
+      "id": 6185,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1S60"
+    },
+    {
+      "id": 6186,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1S68"
+    },
+    {
+      "id": 6187,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1S97"
+    },
+    {
+      "id": 6188,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI1"
+    },
+    {
+      "id": 6189,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI2"
+    },
+    {
+      "id": 6190,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI3"
+    },
+    {
+      "id": 6191,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI4"
+    },
+    {
+      "id": 6192,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI5"
+    },
+    {
+      "id": 6193,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI6"
+    },
+    {
+      "id": 6194,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI7"
+    },
+    {
+      "id": 6195,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SI9"
+    },
+    {
+      "id": 6196,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITM1SIP"
+    },
+    {
+      "id": 6197,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PASCITMMSIE"
+    },
+    {
+      "id": 7116,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "BNLIITRRSIX"
+    },
+    {
+      "id": 11158,
+      "bank": "BANCO BPM SPA",
+      "city": "SIENA",
+      "branch": "(SIENA)",
+      "swift_code": "BAPPIT21Q13"
+    },
+    {
+      "id": 13483,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "SIENA",
+      "branch": "(FILIALE IMPRESE SIENA)",
+      "swift_code": "CRFIIT3F377"
+    },
+    {
+      "id": 13484,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA SAN MARCO)",
+      "swift_code": "CRFIIT3F916"
+    },
+    {
+      "id": 13485,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "SIENA",
+      "branch": "(SIENA)",
+      "swift_code": "CRFIIT3F909"
+    },
+    {
+      "id": 14758,
+      "bank": "COMUNE DI SIENA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "CUIEIT21"
+    },
+    {
+      "id": 16866,
+      "bank": "FONDO PENSIONE BANCA MONTE DEI PASCHI",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "FPMPIT21"
+    },
+    {
+      "id": 18051,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "SIENA",
+      "branch": "(SIENA BRANCH)",
+      "swift_code": "BPVIIT21494"
+    },
+    {
+      "id": 18773,
+      "bank": "MPS LEASING AND FACTORING-BANCA PER I SERVIZI FINANZIARI ALLE IMPRESE S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "MPLFIT31700"
+    },
+    {
+      "id": 18774,
+      "bank": "MPS LEASING AND FACTORING-BANCA PER I SERVIZI FINANZIARI ALLE IMPRESE S.P.A.",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "MPLFIT33"
+    },
+    {
+      "id": 18885,
+      "bank": "PHILOGEN SPA",
+      "city": "SIENA",
+      "branch": "",
+      "swift_code": "PHIOIT21"
+    },
+    {
+      "id": 20287,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "SIENA",
+      "branch": "(AGENZIA 1 SIENA)",
+      "swift_code": "ARBAIT33085"
+    },
+    {
+      "id": 20288,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "SIENA",
+      "branch": "(AGENZIA 2 SIENA)",
+      "swift_code": "ARBAIT33086"
+    },
+    {
+      "id": 20289,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "SIENA",
+      "branch": "(SEDE DI SIENA)",
+      "swift_code": "ARBAIT33084"
+    },
+    {
+      "id": 21063,
+      "bank": "UBI BANCA SPA",
+      "city": "SIENA",
+      "branch": "(FILIALE DI SIENA PIAZZA MATTEOTTI)",
+      "swift_code": "BLOPIT22C18"
+    },
+    {
+      "id": 21064,
+      "bank": "UBI BANCA SPA",
+      "city": "SIENA",
+      "branch": "(FILIALE DI SIENA VIA DI CITTA')",
+      "swift_code": "BLOPIT22C19"
+    },
+    {
+      "id": 21065,
+      "bank": "UBI BANCA SPA",
+      "city": "SIENA",
+      "branch": "(FILIALE DI SIENA VIALE CAVOUR)",
+      "swift_code": "BLOPIT22C20"
+    },
+    {
+      "id": 25371,
+      "bank": "UNICREDIT SPA",
+      "city": "SIENA",
+      "branch": "(SIENA QUINTO BERSAGLIERI)",
+      "swift_code": "UNCRITM1F89"
+    },
+    {
+      "id": 25372,
+      "bank": "UNICREDIT SPA",
+      "city": "SIENA",
+      "branch": "(SIENA TERMINI)",
+      "swift_code": "UNCRITM1F50"
+    },
+    {
+      "id": 25373,
+      "bank": "UNICREDIT SPA",
+      "city": "SIENA",
+      "branch": "(SIENA)",
+      "swift_code": "UNCRITM1O77"
+    },
+    {
+      "id": 26138,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "SIENA",
+      "branch": "(SIENA 336 BRANCH)",
+      "swift_code": "BAECIT21336"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Siena — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Siena, Italy Contiene 50 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Siena — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Siena — codici SWIFT/BIC — 50 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 50 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

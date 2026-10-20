@@ -1,0 +1,82 @@
+{
+  "id": "it-valle-daosta-province",
+  "name": "Province della Valle d'Aosta (Provinces of Valle d'Aosta)",
+  "title": "Province della Valle d'Aosta (Provinces of Valle d'Aosta)",
+  "description": "Elenco delle 1 unità provinciali della regione Valle d'Aosta, con sigla automobilistica e flag città metropolitana. List of 1 provincial-tier units in the Valle d'Aosta region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "nome": "Aosta",
+      "slug": "aosta",
+      "sigla": "AO",
+      "citta_metropolitana": false,
+      "regione_id": 2,
+      "regione_nome": "Valle d'Aosta",
+      "regione_slug": "valle-daosta",
+      "num_comuni": 74
+    }
+  ],
+  "meta": {
+    "title": "Province della Valle d'Aosta (Provinces of Valle d'Aosta) - Download gratuito",
+    "description": "Elenco delle 1 unità provinciali della regione Valle d'Aosta, con sigla automobilistica e flag città metropolitana. List of 1 provincial-tier units in the Valle d'Aosta region with 2-letter sigla and metropolitan-city flag. Contiene 1 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Valle d'Aosta (Provinces of Valle d'Aosta) | ListBase",
+    "seo_description": "Scarica Province della Valle d'Aosta (Provinces of Valle d'Aosta) — 1 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 1 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

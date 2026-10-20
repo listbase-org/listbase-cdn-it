@@ -1,0 +1,115 @@
+{
+  "id": "it-abruzzo-province",
+  "name": "Province della Abruzzo (Provinces of Abruzzo)",
+  "title": "Province della Abruzzo (Provinces of Abruzzo)",
+  "description": "Elenco delle 4 unità provinciali della regione Abruzzo, con sigla automobilistica e flag città metropolitana. List of 4 provincial-tier units in the Abruzzo region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 66,
+      "nome": "L'Aquila",
+      "slug": "laquila",
+      "sigla": "AQ",
+      "citta_metropolitana": false,
+      "regione_id": 13,
+      "regione_nome": "Abruzzo",
+      "regione_slug": "abruzzo",
+      "num_comuni": 108
+    },
+    {
+      "id": 69,
+      "nome": "Chieti",
+      "slug": "chieti",
+      "sigla": "CH",
+      "citta_metropolitana": false,
+      "regione_id": 13,
+      "regione_nome": "Abruzzo",
+      "regione_slug": "abruzzo",
+      "num_comuni": 104
+    },
+    {
+      "id": 68,
+      "nome": "Pescara",
+      "slug": "pescara",
+      "sigla": "PE",
+      "citta_metropolitana": false,
+      "regione_id": 13,
+      "regione_nome": "Abruzzo",
+      "regione_slug": "abruzzo",
+      "num_comuni": 46
+    },
+    {
+      "id": 67,
+      "nome": "Teramo",
+      "slug": "teramo",
+      "sigla": "TE",
+      "citta_metropolitana": false,
+      "regione_id": 13,
+      "regione_nome": "Abruzzo",
+      "regione_slug": "abruzzo",
+      "num_comuni": 47
+    }
+  ],
+  "meta": {
+    "title": "Province della Abruzzo (Provinces of Abruzzo) - Download gratuito",
+    "description": "Elenco delle 4 unità provinciali della regione Abruzzo, con sigla automobilistica e flag città metropolitana. List of 4 provincial-tier units in the Abruzzo region with 2-letter sigla and metropolitan-city flag. Contiene 4 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Abruzzo (Provinces of Abruzzo) | ListBase",
+    "seo_description": "Scarica Province della Abruzzo (Provinces of Abruzzo) — 4 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

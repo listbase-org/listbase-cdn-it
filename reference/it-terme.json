@@ -1,0 +1,160 @@
+{
+  "id": "it-terme",
+  "name": "Terme in Italia",
+  "title": "Terme in Italia",
+  "description": "Elenco delle terme (stabilimenti termali) in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3621086",
+      "name_it": "Aquae Neapolitanae",
+      "name_en": "Aquae Neapolitanae",
+      "latitude": 39.614019,
+      "longitude": 8.786264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3621086"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q945761",
+      "name_it": "Bagni San Filippo",
+      "name_en": "Bagni San Filippo",
+      "latitude": 42.93,
+      "longitude": 11.701389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q945761"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3777008",
+      "name_it": "Grotta Parlanti",
+      "name_en": "Talking Cave",
+      "latitude": 43.880256,
+      "longitude": 10.815839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3777008"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q55391508",
+      "name_it": "La Bollente",
+      "name_en": "La Bollente",
+      "latitude": 44.675484,
+      "longitude": 8.470395,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55391508"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3828305",
+      "name_it": "Le Caldane",
+      "name_en": "Le Caldane",
+      "latitude": 43.390817,
+      "longitude": 11.134414,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3828305"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3984390",
+      "name_it": "Terme dell'Osa",
+      "name_en": "",
+      "latitude": 42.55246,
+      "longitude": 11.17616,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3984390"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q799945",
+      "name_it": "terme di Petriolo",
+      "name_en": "Terme di Petriolo",
+      "latitude": 43.079722,
+      "longitude": 11.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q799945"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q130224933",
+      "name_it": "Terme di Premia",
+      "name_en": "Terme di Premia",
+      "latitude": 46.294935,
+      "longitude": 8.360338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130224933"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3984412",
+      "name_it": "Terme di Saturnia",
+      "name_en": "Terme di Saturnia",
+      "latitude": 42.6581,
+      "longitude": 11.5162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3984412"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q96082218",
+      "name_it": "Terme di Telese",
+      "name_en": "Telese spa",
+      "latitude": 41.22236,
+      "longitude": 14.52691,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96082218"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q133307775",
+      "name_it": "",
+      "name_en": "Villa del Centro Lago (Lake Como)",
+      "latitude": 45.917018,
+      "longitude": 9.313386,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133307775"
+    }
+  ],
+  "meta": {
+    "title": "Terme in Italia - Download gratuito",
+    "description": "Elenco delle terme (stabilimenti termali) in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 11 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Terme in Italia | ListBase",
+    "seo_description": "Scarica Terme in Italia — 11 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 11 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

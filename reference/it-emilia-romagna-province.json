@@ -1,0 +1,170 @@
+{
+  "id": "it-emilia-romagna-province",
+  "name": "Province della Emilia-Romagna (Provinces of Emilia-Romagna)",
+  "title": "Province della Emilia-Romagna (Provinces of Emilia-Romagna)",
+  "description": "Elenco delle 9 unità provinciali della regione Emilia-Romagna, con sigla automobilistica e flag città metropolitana. List of 9 provincial-tier units in the Emilia-Romagna region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 237,
+      "nome": "Bologna",
+      "slug": "bologna",
+      "sigla": "BO",
+      "citta_metropolitana": true,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 55
+    },
+    {
+      "id": 40,
+      "nome": "Forlì-Cesena",
+      "slug": "forli-cesena",
+      "sigla": "FC",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 30
+    },
+    {
+      "id": 38,
+      "nome": "Ferrara",
+      "slug": "ferrara",
+      "sigla": "FE",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 21
+    },
+    {
+      "id": 36,
+      "nome": "Modena",
+      "slug": "modena",
+      "sigla": "MO",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 47
+    },
+    {
+      "id": 33,
+      "nome": "Piacenza",
+      "slug": "piacenza",
+      "sigla": "PC",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 46
+    },
+    {
+      "id": 34,
+      "nome": "Parma",
+      "slug": "parma",
+      "sigla": "PR",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 44
+    },
+    {
+      "id": 39,
+      "nome": "Ravenna",
+      "slug": "ravenna",
+      "sigla": "RA",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 18
+    },
+    {
+      "id": 35,
+      "nome": "Reggio nell'Emilia",
+      "slug": "reggio-nellemilia",
+      "sigla": "RE",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 42
+    },
+    {
+      "id": 99,
+      "nome": "Rimini",
+      "slug": "rimini",
+      "sigla": "RN",
+      "citta_metropolitana": false,
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna",
+      "num_comuni": 27
+    }
+  ],
+  "meta": {
+    "title": "Province della Emilia-Romagna (Provinces of Emilia-Romagna) - Download gratuito",
+    "description": "Elenco delle 9 unità provinciali della regione Emilia-Romagna, con sigla automobilistica e flag città metropolitana. List of 9 provincial-tier units in the Emilia-Romagna region with 2-letter sigla and metropolitan-city flag. Contiene 9 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Emilia-Romagna (Provinces of Emilia-Romagna) | ListBase",
+    "seo_description": "Scarica Province della Emilia-Romagna (Provinces of Emilia-Romagna) — 9 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

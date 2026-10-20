@@ -1,0 +1,7 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"272","Bari","bari","BA","true","16","Puglia","puglia","41"
+"74","Brindisi","brindisi","BR","false","16","Puglia","puglia","20"
+"110","Barletta-Andria-Trani","barletta-andria-trani","BT","false","16","Puglia","puglia","10"
+"71","Foggia","foggia","FG","false","16","Puglia","puglia","61"
+"75","Lecce","lecce","LE","false","16","Puglia","puglia","96"
+"73","Taranto","taranto","TA","false","16","Puglia","puglia","29"

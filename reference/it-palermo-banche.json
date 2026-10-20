@@ -1,0 +1,1276 @@
+{
+  "id": "it-palermo-banche",
+  "name": "Banche a Palermo — codici SWIFT/BIC",
+  "title": "Banche a Palermo — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Palermo, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 175,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 137,
+      "bank": "ANDREA VESCO E FIGLI SPA",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "ANVFIT31"
+    },
+    {
+      "id": 1027,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PALERMO",
+      "branch": "(AG. 1)",
+      "swift_code": "ANTBIT21560"
+    },
+    {
+      "id": 1028,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PALERMO",
+      "branch": "(AG. 3)",
+      "swift_code": "ANTBIT21567"
+    },
+    {
+      "id": 1029,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "ANTBIT21566"
+    },
+    {
+      "id": 1636,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 1 - PALERMO)",
+      "swift_code": "CRGEITG1561"
+    },
+    {
+      "id": 1637,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 10 - PALERMO)",
+      "swift_code": "CRGEITG1559"
+    },
+    {
+      "id": 1638,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 11 - PALERMO)",
+      "swift_code": "CRGEITG1711"
+    },
+    {
+      "id": 1639,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 2 - PALERMO)",
+      "swift_code": "CRGEITG1562"
+    },
+    {
+      "id": 1640,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 5 - PALERMO)",
+      "swift_code": "CRGEITG1565"
+    },
+    {
+      "id": 1641,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 6 - PALERMO)",
+      "swift_code": "CRGEITG1566"
+    },
+    {
+      "id": 1642,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 8 - PALERMO)",
+      "swift_code": "CRGEITG1568"
+    },
+    {
+      "id": 1643,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 9 - PALERMO)",
+      "swift_code": "CRGEITG1569"
+    },
+    {
+      "id": 1644,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(SEDE PALERMO)",
+      "swift_code": "CRGEITG1560"
+    },
+    {
+      "id": 3243,
+      "bank": "BANCA DI CREDITO COOPERATIVO ''G. TONIOLO'' DI SAN CATALDO SOC. COOP.",
+      "city": "PALERMO",
+      "branch": "(FILIALE DI PALERMO (B))",
+      "swift_code": "ICRAITR1QGE"
+    },
+    {
+      "id": 3244,
+      "bank": "BANCA DI CREDITO COOPERATIVO ''G. TONIOLO'' DI SAN CATALDO SOC. COOP.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "ICRAITR1QG1"
+    },
+    {
+      "id": 3661,
+      "bank": "BANCA D'ITALIA",
+      "city": "PALERMO",
+      "branch": "(SEDE DI PALERMO)",
+      "swift_code": "BITAITR1515"
+    },
+    {
+      "id": 3749,
+      "bank": "BANCA DON RIZZO CREDITO COOPERATIVO DELLA SICILIA OCCIDENTALE-SOC. COOP.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA PALERMO )",
+      "swift_code": "ICRAITR1QA1"
+    },
+    {
+      "id": 3766,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO)",
+      "swift_code": "EUBAITM1850"
+    },
+    {
+      "id": 5421,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(ACQUA DEI CORSARI BRANCH)",
+      "swift_code": "PASCITM1PA4"
+    },
+    {
+      "id": 5422,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(ACQUA DEI CORSARI BRANCH)",
+      "swift_code": "PASCITM1PA8"
+    },
+    {
+      "id": 5423,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AG.9)",
+      "swift_code": "PASCITM1P09"
+    },
+    {
+      "id": 5424,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(ARENELLA BRANCH)",
+      "swift_code": "PASCITM1PA3"
+    },
+    {
+      "id": 5425,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 13)",
+      "swift_code": "PASCITM1P13"
+    },
+    {
+      "id": 5426,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 14)",
+      "swift_code": "PASCITM1P14"
+    },
+    {
+      "id": 5427,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 15)",
+      "swift_code": "PASCITM1560"
+    },
+    {
+      "id": 5428,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 16)",
+      "swift_code": "PASCITM1566"
+    },
+    {
+      "id": 5429,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.11)",
+      "swift_code": "PASCITM1P11"
+    },
+    {
+      "id": 5430,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.12)",
+      "swift_code": "PASCITM1P12"
+    },
+    {
+      "id": 5431,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.17)",
+      "swift_code": "PASCITM1567"
+    },
+    {
+      "id": 5432,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PASSO DI RIGANO BRANCH)",
+      "swift_code": "PASCITM1PA2"
+    },
+    {
+      "id": 5433,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "(SFERRACAVALLO)",
+      "swift_code": "PASCITM1PA5"
+    },
+    {
+      "id": 5434,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PASCITM1P10"
+    },
+    {
+      "id": 5435,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PASCITM1PA1"
+    },
+    {
+      "id": 5436,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PASCITM1PA6"
+    },
+    {
+      "id": 5437,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PASCITM1PA7"
+    },
+    {
+      "id": 5438,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PASCITMMPAL"
+    },
+    {
+      "id": 6901,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18EZ"
+    },
+    {
+      "id": 6902,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR18FZ"
+    },
+    {
+      "id": 6903,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR18GZ"
+    },
+    {
+      "id": 6904,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR18HZ"
+    },
+    {
+      "id": 6905,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BNLIITR18IZ"
+    },
+    {
+      "id": 6906,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA CANTIERI NAVALI)",
+      "swift_code": "BNLIITR18JZ"
+    },
+    {
+      "id": 6907,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA MERCATO ITTICO)",
+      "swift_code": "BNLIITR18KZ"
+    },
+    {
+      "id": 6908,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA MERCATO ORTOFRUTTICOLO)",
+      "swift_code": "BNLIITR18LZ"
+    },
+    {
+      "id": 6909,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AGENZIA PALAZZO DI GIUSTIZIA)",
+      "swift_code": "BNLIITR18MZ"
+    },
+    {
+      "id": 6910,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "BNLIITRRPAX"
+    },
+    {
+      "id": 7255,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N. 13)",
+      "swift_code": "BPVIIT31896"
+    },
+    {
+      "id": 7256,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N. 18)",
+      "swift_code": "BPVIIT31803"
+    },
+    {
+      "id": 7257,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N. 6)",
+      "swift_code": "BPVIIT31818"
+    },
+    {
+      "id": 7258,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT31790"
+    },
+    {
+      "id": 7259,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.10-MONDELLO)",
+      "swift_code": "BPVIIT31854"
+    },
+    {
+      "id": 7260,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.4)",
+      "swift_code": "BPVIIT31811"
+    },
+    {
+      "id": 7261,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "BPVIIT31812"
+    },
+    {
+      "id": 7262,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.8)",
+      "swift_code": "BPVIIT31852"
+    },
+    {
+      "id": 7263,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH N.9)",
+      "swift_code": "BPVIIT31874"
+    },
+    {
+      "id": 7264,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH NO. 15)",
+      "swift_code": "BPVIIT31899"
+    },
+    {
+      "id": 7265,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH)",
+      "swift_code": "BPVIIT31800"
+    },
+    {
+      "id": 7266,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(BRANCH)",
+      "swift_code": "BPVIIT31892"
+    },
+    {
+      "id": 7267,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BPVIIT3T"
+    },
+    {
+      "id": 7268,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(PALERMO N. 17)",
+      "swift_code": "BPVIIT31802"
+    },
+    {
+      "id": 7269,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "(SEDE CENTRALE)",
+      "swift_code": "BPVIIT31810"
+    },
+    {
+      "id": 7270,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "BPVIIT31784"
+    },
+    {
+      "id": 9320,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(BELMONTE, BRANCH 6)",
+      "swift_code": "PSANIT31050"
+    },
+    {
+      "id": 9321,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(DA VINCI, BRANCH 3)",
+      "swift_code": "PSANIT31051"
+    },
+    {
+      "id": 9322,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(LIBERTA', BRANCH 1)",
+      "swift_code": "PSANIT31025"
+    },
+    {
+      "id": 9323,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(MASSIMO, SEDE)",
+      "swift_code": "PSANIT31049"
+    },
+    {
+      "id": 9324,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(MONDELLO, BRANCH 4)",
+      "swift_code": "PSANIT31052"
+    },
+    {
+      "id": 9325,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(STAZIONE CENT., BRANCH 8)",
+      "swift_code": "PSANIT31077"
+    },
+    {
+      "id": 9326,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(STRASBURGO, BRANCH 2)",
+      "swift_code": "PSANIT31030"
+    },
+    {
+      "id": 9327,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(TUKORY, BRANCH 5)",
+      "swift_code": "PSANIT31048"
+    },
+    {
+      "id": 9328,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "PALERMO",
+      "branch": "(VILLA TASCA, BRANCH 7)",
+      "swift_code": "PSANIT31058"
+    },
+    {
+      "id": 10746,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 2)",
+      "swift_code": "BAPPIT21P82"
+    },
+    {
+      "id": 10747,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 3)",
+      "swift_code": "BAPPIT21P83"
+    },
+    {
+      "id": 10748,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 5)",
+      "swift_code": "BAPPIT21P30"
+    },
+    {
+      "id": 10749,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 6)",
+      "swift_code": "BAPPIT21P40"
+    },
+    {
+      "id": 10750,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 7)",
+      "swift_code": "BAPPIT21P02"
+    },
+    {
+      "id": 10751,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 8)",
+      "swift_code": "BAPPIT21P07"
+    },
+    {
+      "id": 10752,
+      "bank": "BANCO BPM SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO)",
+      "swift_code": "BAPPIT21P80"
+    },
+    {
+      "id": 14617,
+      "bank": "COMUNE DI PALERMO",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "CUNPIT31"
+    },
+    {
+      "id": 14849,
+      "bank": "CONTE TASCA D'ALMERITA SOC.AGR.RL",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "CTDSIT31"
+    },
+    {
+      "id": 15426,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(AG. 5)",
+      "swift_code": "BACRIT21467"
+    },
+    {
+      "id": 15427,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 6)",
+      "swift_code": "BACRIT21410"
+    },
+    {
+      "id": 15428,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG. 8)",
+      "swift_code": "BACRIT21753"
+    },
+    {
+      "id": 15715,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21453"
+    },
+    {
+      "id": 15716,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21439"
+    },
+    {
+      "id": 15717,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21409"
+    },
+    {
+      "id": 15718,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22PAL"
+    },
+    {
+      "id": 15943,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 1)",
+      "swift_code": "RSANIT31025"
+    },
+    {
+      "id": 15944,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 10)",
+      "swift_code": "RSANIT31083"
+    },
+    {
+      "id": 15945,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 11)",
+      "swift_code": "RSANIT31089"
+    },
+    {
+      "id": 15946,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 12)",
+      "swift_code": "RSANIT31119"
+    },
+    {
+      "id": 15947,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 2)",
+      "swift_code": "RSANIT31030"
+    },
+    {
+      "id": 15948,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 3)",
+      "swift_code": "RSANIT31051"
+    },
+    {
+      "id": 15949,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 4)",
+      "swift_code": "RSANIT31052"
+    },
+    {
+      "id": 15950,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 5)",
+      "swift_code": "RSANIT31048"
+    },
+    {
+      "id": 15951,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 6)",
+      "swift_code": "RSANIT31050"
+    },
+    {
+      "id": 15952,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 7)",
+      "swift_code": "RSANIT31058"
+    },
+    {
+      "id": 15953,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 8)",
+      "swift_code": "RSANIT31084"
+    },
+    {
+      "id": 15954,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH NR 9)",
+      "swift_code": "RSANIT31004"
+    },
+    {
+      "id": 15955,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(CITY BRANCH)",
+      "swift_code": "RSANIT31049"
+    },
+    {
+      "id": 15956,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "(NOTARBARTOLO)",
+      "swift_code": "RSANIT31116"
+    },
+    {
+      "id": 15957,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "RSANIT3P"
+    },
+    {
+      "id": 17518,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(BRANCH 1 - VIA PRAGA 30)",
+      "swift_code": "BCITITM1613"
+    },
+    {
+      "id": 17519,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(FAVORITA BRANCH - PIAZZA VITTORIO VENETO 2/D)",
+      "swift_code": "BCITITMM601"
+    },
+    {
+      "id": 17520,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(FILIALE IMPRESE PALERMO)",
+      "swift_code": "BCITITMMK42"
+    },
+    {
+      "id": 17521,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(MAQUEDA BRANCH - VIA ROMA 8)",
+      "swift_code": "BCITITM1603"
+    },
+    {
+      "id": 17522,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(PA-GIOR.SICILIA)",
+      "swift_code": "BCITITMM498"
+    },
+    {
+      "id": 17523,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.N.2)",
+      "swift_code": "BCITITMM602"
+    },
+    {
+      "id": 17524,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.N.4)",
+      "swift_code": "BCITITMM604"
+    },
+    {
+      "id": 17525,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AG.N.5)",
+      "swift_code": "BCITITMM607"
+    },
+    {
+      "id": 17526,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE REGIONE SICILIANA SUD EST)",
+      "swift_code": "BCITITM1608"
+    },
+    {
+      "id": 18453,
+      "bank": "IRFIS - MEDIOCREDITO DELLA SICILIA SPA",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "MECRIT31"
+    },
+    {
+      "id": 18741,
+      "bank": "MONEYNET S.P.A.",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "MOETIT31"
+    },
+    {
+      "id": 18989,
+      "bank": "PROVINCIA DI PALERMO",
+      "city": "PALERMO",
+      "branch": "",
+      "swift_code": "PRLRIT31"
+    },
+    {
+      "id": 22559,
+      "bank": "UNICREDIT S.P.A.",
+      "city": "PALERMO",
+      "branch": "(PRODUCT UNIT TESORERIA ENTI PALERMO)",
+      "swift_code": "UNCRITM122P"
+    },
+    {
+      "id": 24449,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(CASSA DISTAC.PALERMO-S.I.T.(DIP.F.24)",
+      "swift_code": "UNCRITM115Z"
+    },
+    {
+      "id": 24450,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(ESTERO MERCI PALERMO)",
+      "swift_code": "UNCRITMMPAE"
+    },
+    {
+      "id": 24451,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO 1)",
+      "swift_code": "UNCRITM153X"
+    },
+    {
+      "id": 24452,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AMARI)",
+      "swift_code": "UNCRITM1I49"
+    },
+    {
+      "id": 24453,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO AUSONIA)",
+      "swift_code": "UNCRITM1851"
+    },
+    {
+      "id": 24454,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO BORRELLI)",
+      "swift_code": "UNCRITM1O41"
+    },
+    {
+      "id": 24455,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO BRUNELLESCHI)",
+      "swift_code": "UNCRITM1K45"
+    },
+    {
+      "id": 24456,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CAMPOLO)",
+      "swift_code": "UNCRITM1I69"
+    },
+    {
+      "id": 24457,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CANTIERI)",
+      "swift_code": "UNCRITM1I62"
+    },
+    {
+      "id": 24458,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CASERMA LUNGARO)",
+      "swift_code": "UNCRITM1Z44"
+    },
+    {
+      "id": 24459,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CASSA REGIONALE)",
+      "swift_code": "UNCRITM1O40"
+    },
+    {
+      "id": 24460,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CORSO CALATAFIMI A)",
+      "swift_code": "UNCRITM1I58"
+    },
+    {
+      "id": 24461,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CORSO CALATAFIMI B)",
+      "swift_code": "UNCRITM1849"
+    },
+    {
+      "id": 24462,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CORSO CALATAFIMI C)",
+      "swift_code": "UNCRITM1M90"
+    },
+    {
+      "id": 24463,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CORSO CALATAFIMI D)",
+      "swift_code": "UNCRITM1I71"
+    },
+    {
+      "id": 24464,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO CORSO DEI MILLE)",
+      "swift_code": "UNCRITM1I52"
+    },
+    {
+      "id": 24465,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO DA VINCI A)",
+      "swift_code": "UNCRITM1I47"
+    },
+    {
+      "id": 24466,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO DA VINCI C)",
+      "swift_code": "UNCRITM1I70"
+    },
+    {
+      "id": 24467,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO DE GASPERI)",
+      "swift_code": "UNCRITM1I59"
+    },
+    {
+      "id": 24468,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO DON BOSCO)",
+      "swift_code": "UNCRITM1I61"
+    },
+    {
+      "id": 24469,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO E. ORLANDO)",
+      "swift_code": "UNCRITM1I51"
+    },
+    {
+      "id": 24470,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO FACOLTA' D'INGEGNERIA)",
+      "swift_code": "UNCRITM1L73"
+    },
+    {
+      "id": 24471,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO FINOCCHIARO APRILE)",
+      "swift_code": "UNCRITM1L76"
+    },
+    {
+      "id": 24472,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO LA FARINA)",
+      "swift_code": "UNCRITM101A"
+    },
+    {
+      "id": 24473,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO LI BASSI)",
+      "swift_code": "UNCRITM1854"
+    },
+    {
+      "id": 24474,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO MARCHESE VILLABIANCA)",
+      "swift_code": "UNCRITM1I63"
+    },
+    {
+      "id": 24475,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO MARIANO STABILE B)",
+      "swift_code": "UNCRITM1M39"
+    },
+    {
+      "id": 24476,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO NOTARBARTOLO)",
+      "swift_code": "UNCRITM1843"
+    },
+    {
+      "id": 24477,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO ORETO NUOVA)",
+      "swift_code": "UNCRITM1853"
+    },
+    {
+      "id": 24478,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO OSPEDALE CERVELLO)",
+      "swift_code": "UNCRITM1I74"
+    },
+    {
+      "id": 24479,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO OSPEDALE CIVICO)",
+      "swift_code": "UNCRITM1I75"
+    },
+    {
+      "id": 24480,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO OSPEDALE VILLA SOFIA)",
+      "swift_code": "UNCRITM1I73"
+    },
+    {
+      "id": 24481,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO POLICLINICO)",
+      "swift_code": "UNCRITM1L78"
+    },
+    {
+      "id": 24482,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO PRINCIPE DI CAMPOREALE)",
+      "swift_code": "UNCRITM1N79"
+    },
+    {
+      "id": 24483,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO PRINCIPE DI PATERNO')",
+      "swift_code": "UNCRITM1842"
+    },
+    {
+      "id": 24484,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO REGIONE SICILIANA)",
+      "swift_code": "UNCRITM1847"
+    },
+    {
+      "id": 24485,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO RESTIVO)",
+      "swift_code": "UNCRITM1I64"
+    },
+    {
+      "id": 24486,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO RUGGERO SETTIMO B)",
+      "swift_code": "UNCRITM1O55"
+    },
+    {
+      "id": 24487,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO SCIUTI)",
+      "swift_code": "UNCRITM1M40"
+    },
+    {
+      "id": 24488,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO TERRASANTA)",
+      "swift_code": "UNCRITM1I60"
+    },
+    {
+      "id": 24489,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO TORRELUNGA)",
+      "swift_code": "UNCRITM1I65"
+    },
+    {
+      "id": 24490,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO TUKORY)",
+      "swift_code": "UNCRITM1I55"
+    },
+    {
+      "id": 24491,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO UNITA' D' ITALIA)",
+      "swift_code": "UNCRITM1I66"
+    },
+    {
+      "id": 24492,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA DANTE)",
+      "swift_code": "UNCRITM1I54"
+    },
+    {
+      "id": 24493,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA DELLA LIBERTA' B)",
+      "swift_code": "UNCRITM1I56"
+    },
+    {
+      "id": 24494,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA DELLA LIBERTA' D)",
+      "swift_code": "UNCRITM1856"
+    },
+    {
+      "id": 24495,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA ROMA A)",
+      "swift_code": "UNCRITM1K67"
+    },
+    {
+      "id": 24496,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA ROMA D)",
+      "swift_code": "UNCRITM1I67"
+    },
+    {
+      "id": 24497,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE EMILIA)",
+      "swift_code": "UNCRITM1L77"
+    },
+    {
+      "id": 24498,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE STRASBURGO A)",
+      "swift_code": "UNCRITM1N78"
+    },
+    {
+      "id": 24499,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE STRASBURGO B)",
+      "swift_code": "UNCRITM167F"
+    },
+    {
+      "id": 24500,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE STRASBURGO C)",
+      "swift_code": "UNCRITM1I57"
+    },
+    {
+      "id": 24501,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VITTORIO EMANUELE)",
+      "swift_code": "UNCRITM1L74"
+    },
+    {
+      "id": 24502,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO)",
+      "swift_code": "UNCRITM187Y"
+    },
+    {
+      "id": 24503,
+      "bank": "UNICREDIT SPA",
+      "city": "PALERMO",
+      "branch": "(SICILIA 2)",
+      "swift_code": "UNCRITM1PAO"
+    },
+    {
+      "id": 26054,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO 295 BRANCH)",
+      "swift_code": "BAECIT21295"
+    },
+    {
+      "id": 26055,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO L.GO CAVALIERI DEL LAVORO BRANCH)",
+      "swift_code": "BAECIT21239"
+    },
+    {
+      "id": 26056,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA AMARI BRANCH)",
+      "swift_code": "BAECIT21196"
+    },
+    {
+      "id": 26057,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIA LEONARDO DA VINCI BRANCH)",
+      "swift_code": "BAECIT21272"
+    },
+    {
+      "id": 26058,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PALERMO",
+      "branch": "(PALERMO VIALE AGRIGENTO BRANCH)",
+      "swift_code": "BAECIT21197"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Palermo — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Palermo, Italy Contiene 175 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Palermo — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Palermo — codici SWIFT/BIC — 175 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 175 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

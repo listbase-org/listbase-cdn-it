@@ -1,0 +1,856 @@
+{
+  "id": "it-catania-banche",
+  "name": "Banche a Catania — codici SWIFT/BIC",
+  "title": "Banche a Catania — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Catania, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 281,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "CATANIA",
+      "branch": "(AG NR.1 DI CATANIA)",
+      "swift_code": "POPRIT31056"
+    },
+    {
+      "id": 282,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 2)",
+      "swift_code": "POPRIT31245"
+    },
+    {
+      "id": 283,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 3)",
+      "swift_code": "POPRIT31100"
+    },
+    {
+      "id": 284,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AGENZIA N.4)",
+      "swift_code": "POPRIT31077"
+    },
+    {
+      "id": 285,
+      "bank": "BANCA AGRICOLA POPOLARE DI RAGUSA",
+      "city": "CATANIA",
+      "branch": "(SUCCURSALE DI CATANIA)",
+      "swift_code": "POPRIT31045"
+    },
+    {
+      "id": 589,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG. 3)",
+      "swift_code": "ANTBIT21527"
+    },
+    {
+      "id": 590,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG. 4)",
+      "swift_code": "ANTBIT21528"
+    },
+    {
+      "id": 591,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG. 6)",
+      "swift_code": "ANTBIT21531"
+    },
+    {
+      "id": 592,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG. 7)",
+      "swift_code": "ANTBIT21532"
+    },
+    {
+      "id": 593,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG. 8)",
+      "swift_code": "ANTBIT21534"
+    },
+    {
+      "id": 594,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG.14)",
+      "swift_code": "ANTBIT21525"
+    },
+    {
+      "id": 595,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AG.2)",
+      "swift_code": "ANTBIT21522"
+    },
+    {
+      "id": 596,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 11)",
+      "swift_code": "ANTBIT21B19"
+    },
+    {
+      "id": 597,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 9)",
+      "swift_code": "ANTBIT21B17"
+    },
+    {
+      "id": 598,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA (AGENZIA 12))",
+      "swift_code": "ANTBIT21C41"
+    },
+    {
+      "id": 1530,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 1 - CATANIA)",
+      "swift_code": "CRGEITG1590"
+    },
+    {
+      "id": 1531,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 2 - CATANIA)",
+      "swift_code": "CRGEITG1645"
+    },
+    {
+      "id": 1532,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "CATANIA",
+      "branch": "(FILIALE DI CATANIA)",
+      "swift_code": "CRGEITG1589"
+    },
+    {
+      "id": 3615,
+      "bank": "BANCA D'ITALIA",
+      "city": "CATANIA",
+      "branch": "(FILIALE DI CATANIA)",
+      "swift_code": "BITAITR1512"
+    },
+    {
+      "id": 4431,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 10)",
+      "swift_code": "PASCITM1525"
+    },
+    {
+      "id": 4432,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 11)",
+      "swift_code": "PASCITM1522"
+    },
+    {
+      "id": 4433,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 12)",
+      "swift_code": "PASCITM1527"
+    },
+    {
+      "id": 4434,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 13)",
+      "swift_code": "PASCITM1528"
+    },
+    {
+      "id": 4435,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 14)",
+      "swift_code": "PASCITM1531"
+    },
+    {
+      "id": 4436,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 15)",
+      "swift_code": "PASCITM1532"
+    },
+    {
+      "id": 4437,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 16)",
+      "swift_code": "PASCITM1534"
+    },
+    {
+      "id": 4438,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 17)",
+      "swift_code": "PASCITM1C17"
+    },
+    {
+      "id": 4439,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 18)",
+      "swift_code": "PASCITM1C18"
+    },
+    {
+      "id": 4440,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 19)",
+      "swift_code": "PASCITM1C41"
+    },
+    {
+      "id": 4441,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 9)",
+      "swift_code": "PASCITM1CT9"
+    },
+    {
+      "id": 4442,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT1"
+    },
+    {
+      "id": 4443,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT2"
+    },
+    {
+      "id": 4444,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT3"
+    },
+    {
+      "id": 4445,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT4"
+    },
+    {
+      "id": 4446,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT6"
+    },
+    {
+      "id": 4447,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT7"
+    },
+    {
+      "id": 4448,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITM1CT8"
+    },
+    {
+      "id": 4449,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PASCITMMCAT"
+    },
+    {
+      "id": 6637,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR129Z"
+    },
+    {
+      "id": 6638,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR12AZ"
+    },
+    {
+      "id": 6639,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR12BZ"
+    },
+    {
+      "id": 6640,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR12CZ"
+    },
+    {
+      "id": 6641,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "BNLIITRRCTX"
+    },
+    {
+      "id": 7224,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "CATANIA",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT31859"
+    },
+    {
+      "id": 7225,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "CATANIA",
+      "branch": "(CATANIA NO.3)",
+      "swift_code": "BPVIIT31713"
+    },
+    {
+      "id": 7226,
+      "bank": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "BPVIIT31814"
+    },
+    {
+      "id": 7328,
+      "bank": "BANCA PER LO SVILUPPO DELLA COOP. DI CREDITO SPA",
+      "city": "CATANIA",
+      "branch": "(FILIALE CATANIA)",
+      "swift_code": "SVIUITR1AA8"
+    },
+    {
+      "id": 9289,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PSANIT3103I"
+    },
+    {
+      "id": 9290,
+      "bank": "BANCA POPOLARE SANT'ANGELO",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "PSANIT31071"
+    },
+    {
+      "id": 9440,
+      "bank": "BANCA SVILUPPO ECONOMICO SPA",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "SVECIT31"
+    },
+    {
+      "id": 10037,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 1)",
+      "swift_code": "BAPPIT21C86"
+    },
+    {
+      "id": 10038,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 10)",
+      "swift_code": "BAPPIT21C83"
+    },
+    {
+      "id": 10039,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 3)",
+      "swift_code": "BAPPIT21P32"
+    },
+    {
+      "id": 10040,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 5)",
+      "swift_code": "BAPPIT21C85"
+    },
+    {
+      "id": 10041,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 6)",
+      "swift_code": "BAPPIT21O46"
+    },
+    {
+      "id": 10042,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 7)",
+      "swift_code": "BAPPIT21P97"
+    },
+    {
+      "id": 10043,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 8)",
+      "swift_code": "BAPPIT21C80"
+    },
+    {
+      "id": 10044,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 9)",
+      "swift_code": "BAPPIT21C81"
+    },
+    {
+      "id": 10045,
+      "bank": "BANCO BPM SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA)",
+      "swift_code": "BAPPIT21P70"
+    },
+    {
+      "id": 14395,
+      "bank": "COMUNE DI CATANIA",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "CMETIT31"
+    },
+    {
+      "id": 15337,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "CATANIA",
+      "branch": "(CATANIA AG. 5)",
+      "swift_code": "BACRIT21745"
+    },
+    {
+      "id": 15603,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21476"
+    },
+    {
+      "id": 15604,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21477"
+    },
+    {
+      "id": 15605,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21478"
+    },
+    {
+      "id": 15606,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT21479"
+    },
+    {
+      "id": 15830,
+      "bank": "CREDITO ETNEO B.C.C. - SOC. COOP.A.R.L.",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "CCRTIT2TETN"
+    },
+    {
+      "id": 15900,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 1)",
+      "swift_code": "RSANIT31001"
+    },
+    {
+      "id": 15901,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 2)",
+      "swift_code": "RSANIT31002"
+    },
+    {
+      "id": 15902,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 3)",
+      "swift_code": "RSANIT31071"
+    },
+    {
+      "id": 15903,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 4)",
+      "swift_code": "RSANIT31102"
+    },
+    {
+      "id": 15904,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 5)",
+      "swift_code": "RSANIT31106"
+    },
+    {
+      "id": 15905,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 6)",
+      "swift_code": "RSANIT31110"
+    },
+    {
+      "id": 15906,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 7)",
+      "swift_code": "RSANIT31115"
+    },
+    {
+      "id": 15907,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 8)",
+      "swift_code": "RSANIT31142"
+    },
+    {
+      "id": 15908,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH NR 9)",
+      "swift_code": "RSANIT31133"
+    },
+    {
+      "id": 15909,
+      "bank": "CREDITO SICILIANO SPA",
+      "city": "CATANIA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "RSANIT31095"
+    },
+    {
+      "id": 16824,
+      "bank": "FINARIA SPA",
+      "city": "CATANIA",
+      "branch": "",
+      "swift_code": "FNRAIT31"
+    },
+    {
+      "id": 17238,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH 4 - VIALE MARIO RAPISARDI 455/A)",
+      "swift_code": "BCITITM1127"
+    },
+    {
+      "id": 17239,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CATANIA",
+      "branch": "(BRANCH 5 - VIA GOZZANO 27/29)",
+      "swift_code": "BCITITM1128"
+    },
+    {
+      "id": 17240,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CATANIA",
+      "branch": "(FILIALE IMPRESE CATANIA)",
+      "swift_code": "BCITITMMJ40"
+    },
+    {
+      "id": 17241,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CATANIA",
+      "branch": "(MAIN BRANCH - CORSO SICILIA 53)",
+      "swift_code": "BCITITMM120"
+    },
+    {
+      "id": 17242,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CATANIA",
+      "branch": "(PIAZZA TRENTO BRANCH - PIAZZA TRENTO 1)",
+      "swift_code": "BCITITMM135"
+    },
+    {
+      "id": 23237,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA 1)",
+      "swift_code": "UNCRITM147X"
+    },
+    {
+      "id": 23238,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA ANDRONE A)",
+      "swift_code": "UNCRITM1H34"
+    },
+    {
+      "id": 23239,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA ANDRONE B)",
+      "swift_code": "UNCRITM1M17"
+    },
+    {
+      "id": 23240,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA BARRIERA DEL BOSCO)",
+      "swift_code": "UNCRITM1164"
+    },
+    {
+      "id": 23241,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA CASSA REGIONALE)",
+      "swift_code": "UNCRITM1O34"
+    },
+    {
+      "id": 23242,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA CORSO ITALIA)",
+      "swift_code": "UNCRITM1L91"
+    },
+    {
+      "id": 23243,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA CORSO SICILIA A)",
+      "swift_code": "UNCRITM1K65"
+    },
+    {
+      "id": 23244,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA CREDITO SU PEGNO)",
+      "swift_code": "UNCRITM1O35"
+    },
+    {
+      "id": 23245,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA CUTELLI)",
+      "swift_code": "UNCRITM1H69"
+    },
+    {
+      "id": 23246,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA D'ANNUNZIO)",
+      "swift_code": "UNCRITM1A81"
+    },
+    {
+      "id": 23247,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA DI LAURIA)",
+      "swift_code": "UNCRITM1H03"
+    },
+    {
+      "id": 23248,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA ETNEA A)",
+      "swift_code": "UNCRITM1L90"
+    },
+    {
+      "id": 23249,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA ETNEA B)",
+      "swift_code": "UNCRITM1M11"
+    },
+    {
+      "id": 23250,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA LEOPARDI)",
+      "swift_code": "UNCRITM1H21"
+    },
+    {
+      "id": 23251,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA MERCATO ITTICO)",
+      "swift_code": "UNCRITM1Z52"
+    },
+    {
+      "id": 23252,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA PIAZZA ROMA)",
+      "swift_code": "UNCRITM1H39"
+    },
+    {
+      "id": 23253,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA RAPISARDI)",
+      "swift_code": "UNCRITM1L93"
+    },
+    {
+      "id": 23254,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA S.EUPLIO)",
+      "swift_code": "UNCRITM1749"
+    },
+    {
+      "id": 23255,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA SCAMMACCA)",
+      "swift_code": "UNCRITM1K99"
+    },
+    {
+      "id": 23256,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA UMBERTO I)",
+      "swift_code": "UNCRITM1H19"
+    },
+    {
+      "id": 23257,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA UNIVERSITA')",
+      "swift_code": "UNCRITM1L92"
+    },
+    {
+      "id": 23258,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA VERGA)",
+      "swift_code": "UNCRITM1H36"
+    },
+    {
+      "id": 23259,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA VIA TORINO)",
+      "swift_code": "UNCRITM1H12"
+    },
+    {
+      "id": 23260,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA VIALE AFRICA)",
+      "swift_code": "UNCRITM1H25"
+    },
+    {
+      "id": 23261,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA VIALE VITTORIO VENETO)",
+      "swift_code": "UNCRITM1M10"
+    },
+    {
+      "id": 23262,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA XX SETTEMBRE)",
+      "swift_code": "UNCRITM1M07"
+    },
+    {
+      "id": 23263,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA ZONA INDUSTRIALE)",
+      "swift_code": "UNCRITM1H42"
+    },
+    {
+      "id": 23264,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(ESTERO MERCI CATANIA)",
+      "swift_code": "UNCRITMMCTE"
+    },
+    {
+      "id": 23265,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(FILIALE OPERATIVA SICILIA)",
+      "swift_code": "UNCRITMMOSI"
+    },
+    {
+      "id": 23266,
+      "bank": "UNICREDIT SPA",
+      "city": "CATANIA",
+      "branch": "(SICILIA 1)",
+      "swift_code": "UNCRITM1CTW"
+    },
+    {
+      "id": 25944,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA 208 BRANCH)",
+      "swift_code": "BAECIT21208"
+    },
+    {
+      "id": 25945,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA BRANCH)",
+      "swift_code": "BAECIT21195"
+    },
+    {
+      "id": 25946,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "CATANIA",
+      "branch": "(CATANIA VIA DOMENICO ORLANDO BRANCH)",
+      "swift_code": "BAECIT21261"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Catania — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Catania, Italy Contiene 115 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Catania — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Catania — codici SWIFT/BIC — 115 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 115 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

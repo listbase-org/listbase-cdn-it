@@ -1,0 +1,2014 @@
+{
+  "id": "it-fari",
+  "name": "Fari in Italia",
+  "title": "Fari in Italia",
+  "description": "Elenco dei fari in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 217,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q29057423",
+      "name_it": "",
+      "name_en": "Antignano (Livorno) Lighthouse",
+      "latitude": 43.495917,
+      "longitude": 10.321333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29057423"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q55984277",
+      "name_it": "",
+      "name_en": "Barletta Lighthouse",
+      "latitude": 41.330556,
+      "longitude": 16.290556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55984277"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q23823863",
+      "name_it": "",
+      "name_en": "Barrettinelli di Fuori Lighthouse",
+      "latitude": 41.301639,
+      "longitude": 9.400878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23823863"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q55606573",
+      "name_it": "Campanile del santuario della Madonna dell'Angelo",
+      "name_en": "Caorle Lighthouse",
+      "latitude": 45.6,
+      "longitude": 12.893056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55606573"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q29877328",
+      "name_it": "",
+      "name_en": "Capo Bellavista Lighthouse",
+      "latitude": 39.918889,
+      "longitude": 9.703611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29877328"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q55105735",
+      "name_it": "",
+      "name_en": "Capo Ferrato Lighthouse",
+      "latitude": 39.298333,
+      "longitude": 9.633889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55105735"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q28376174",
+      "name_it": "",
+      "name_en": "Capo Gallo lighthouse",
+      "latitude": 38.223514,
+      "longitude": 13.316692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376174"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28376173",
+      "name_it": "",
+      "name_en": "Capo Granitola lighthouse",
+      "latitude": 37.565925,
+      "longitude": 12.662082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376173"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q55140133",
+      "name_it": "",
+      "name_en": "Capo Grosso Lighthouse",
+      "latitude": 38.020278,
+      "longitude": 12.334167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55140133"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q28376203",
+      "name_it": "",
+      "name_en": "Capo Murro di Porco lighthouse",
+      "latitude": 37.00315,
+      "longitude": 15.335058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376203"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q55606606",
+      "name_it": "",
+      "name_en": "Capo Palinuro Lighthouse",
+      "latitude": 40.024583,
+      "longitude": 15.274083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55606606"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q28376196",
+      "name_it": "",
+      "name_en": "Capo Passero lighthouse",
+      "latitude": 36.688581,
+      "longitude": 15.151606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376196"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q28376187",
+      "name_it": "",
+      "name_en": "Capo Santa Croce lighthouse",
+      "latitude": 37.243333,
+      "longitude": 15.256389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376187"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q28376191",
+      "name_it": "",
+      "name_en": "Capo Scaramia lighthouse",
+      "latitude": 36.787331,
+      "longitude": 14.494036,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376191"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q28376129",
+      "name_it": "",
+      "name_en": "Castello d'Ischia lighthouse",
+      "latitude": 40.732139,
+      "longitude": 13.965694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376129"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q55164395",
+      "name_it": "",
+      "name_en": "Castello Normanno Lighthouse",
+      "latitude": 38.030833,
+      "longitude": 12.881944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55164395"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q56162256",
+      "name_it": "",
+      "name_en": "Civitavecchia Lighthouse",
+      "latitude": 42.092778,
+      "longitude": 11.787222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56162256"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q28376182",
+      "name_it": "",
+      "name_en": "Cozzo Spadaro lighthouse",
+      "latitude": 36.686111,
+      "longitude": 15.131944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376182"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q62422882",
+      "name_it": "Ex stazione semaforica di Capo Comino",
+      "name_en": "Ex stazione semaforica di Capo Comino",
+      "latitude": 40.528062,
+      "longitude": 9.823475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62422882"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q28376221",
+      "name_it": "Fanale della Diga della Vegliaia",
+      "name_en": "Livorno Diga della Vegliaia light",
+      "latitude": 43.537864,
+      "longitude": 10.286083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376221"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3739193",
+      "name_it": "Fanale di Livorno",
+      "name_en": "Livorno Lighthouse (Fanale dei Pisani)",
+      "latitude": 43.543778,
+      "longitude": 10.294833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739193"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q28376105",
+      "name_it": "Fari di Giulianova",
+      "name_en": "Giulianova lighthouses",
+      "latitude": 42.755111,
+      "longitude": 13.977583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376105"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q111718560",
+      "name_it": "Faro antico di Punta del Diavolo",
+      "name_en": "Punta del Diavolo Lighthouse",
+      "latitude": 42.106546,
+      "longitude": 15.477274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111718560"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q67123634",
+      "name_it": "Faro aragonese",
+      "name_en": "Faro aragonese",
+      "latitude": 40.257445,
+      "longitude": 16.746094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67123634"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q28375096",
+      "name_it": "",
+      "name_en": "Faro Camogli",
+      "latitude": 44.351778,
+      "longitude": 9.149194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375096"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q55685759",
+      "name_it": "faro Capo d'Armi",
+      "name_en": "",
+      "latitude": 37.952377,
+      "longitude": 15.68496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55685759"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q55685763",
+      "name_it": "faro Capo di Rizzuto",
+      "name_en": "",
+      "latitude": 38.905594,
+      "longitude": 17.100084,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55685763"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q126027517",
+      "name_it": "Faro Civitanova Marche",
+      "name_en": "Civitanova Marche lighthouse",
+      "latitude": 43.310684,
+      "longitude": 13.728275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126027517"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q79887827",
+      "name_it": "",
+      "name_en": "Faro de Punta Madonna",
+      "latitude": 40.89525,
+      "longitude": 12.970333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79887827"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q55237603",
+      "name_it": "faro del Castello Maniace",
+      "name_en": "Castello Maniace Lighthouse",
+      "latitude": 37.053611,
+      "longitude": 15.295278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55237603"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q16555224",
+      "name_it": "Faro del Fenaio",
+      "name_en": "Punta Fenaio lighthouse",
+      "latitude": 42.388184,
+      "longitude": 10.881045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555224"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q33127726",
+      "name_it": "faro dell'isola di Zannone",
+      "name_en": "Zannone Lighthouse",
+      "latitude": 40.971667,
+      "longitude": 13.056667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33127726"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q16555227",
+      "name_it": "faro della Diga Curvilinea",
+      "name_en": "Livorno Diga Curvilinea south lighthouse",
+      "latitude": 43.542957,
+      "longitude": 10.289388,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555227"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q16555231",
+      "name_it": "faro della Diga Foranea",
+      "name_en": "Viareggio lighthouse",
+      "latitude": 43.85797,
+      "longitude": 10.237299,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555231"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q752327",
+      "name_it": "Faro della Vittoria",
+      "name_en": "Vittoria Light",
+      "latitude": 45.675566,
+      "longitude": 13.757047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q752327"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q3739745",
+      "name_it": "Faro della Vittoria",
+      "name_en": "Faro della Vittoria",
+      "latitude": 45.031111,
+      "longitude": 7.721667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739745"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q16555234",
+      "name_it": "Faro delle Formiche di Grosseto",
+      "name_en": "Formiche di Grosseto lighthouse",
+      "latitude": 42.577264,
+      "longitude": 10.881865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555234"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q16555237",
+      "name_it": "Faro delle Secche di Vada",
+      "name_en": "Vada Shoal lighthouse",
+      "latitude": 43.32016,
+      "longitude": 10.3637,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555237"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q16555240",
+      "name_it": "Faro delle Vaccarecce",
+      "name_en": "Vaccarecce Lighthouse",
+      "latitude": 42.375611,
+      "longitude": 10.897798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555240"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q16555243",
+      "name_it": "Faro dello Scoglietto di Portoferraio",
+      "name_en": "Scoglietto  Lighthouse",
+      "latitude": 42.828648,
+      "longitude": 10.331032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555243"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q16487600",
+      "name_it": "Faro dello Scoglio d'Africa",
+      "name_en": "Scoglio d'Affrica Lighthouse",
+      "latitude": 42.358942,
+      "longitude": 10.064238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16487600"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3739748",
+      "name_it": "Faro di Ancona",
+      "name_en": "Ancona Lighthouse",
+      "latitude": 43.622833,
+      "longitude": 13.51575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739748"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q16555244",
+      "name_it": "Faro di Baratti",
+      "name_en": "Baratti lighthouse",
+      "latitude": 42.993065,
+      "longitude": 10.498815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555244"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q3378175",
+      "name_it": "Faro di Bari",
+      "name_en": "Bari Light",
+      "latitude": 41.139106,
+      "longitude": 16.845119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3378175"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q126370194",
+      "name_it": "Faro di Barletta",
+      "name_en": "",
+      "latitude": 41.327497,
+      "longitude": 16.290183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126370194"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q57315945",
+      "name_it": "Faro di Besozzo",
+      "name_en": "Besozzo lighthouse",
+      "latitude": 45.84654,
+      "longitude": 8.66712,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57315945"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q113004896",
+      "name_it": "Faro di Brucoli",
+      "name_en": "Brucoli Lighthouse",
+      "latitude": 37.285833,
+      "longitude": 15.186329,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113004896"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q16555247",
+      "name_it": "Faro di Capel Rosso",
+      "name_en": "Punta di Capel Rosso Lighthouse",
+      "latitude": 42.320772,
+      "longitude": 10.919674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555247"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3739761",
+      "name_it": "Faro di Capo Caccia",
+      "name_en": "Cap de Caça Lighthouse",
+      "latitude": 40.560611,
+      "longitude": 8.162944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739761"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3739760",
+      "name_it": "Faro di Capo Carbonara",
+      "name_en": "Capo Carbonara Lighthouse",
+      "latitude": 39.104167,
+      "longitude": 9.513611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739760"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q32848801",
+      "name_it": "Faro di Capo Cefalù",
+      "name_en": "Lighthouse of Cefalù",
+      "latitude": 38.039783,
+      "longitude": 14.029483,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32848801"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q259658",
+      "name_it": "Faro di Capo Circeo",
+      "name_en": "Capo Circeo Lighthouse",
+      "latitude": 41.222349,
+      "longitude": 13.068501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q259658"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q23308931",
+      "name_it": "Faro di Capo Colonna",
+      "name_en": "Capo Colonne Lighthouse",
+      "latitude": 39.02567,
+      "longitude": 17.2045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23308931"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q30337848",
+      "name_it": "faro di Capo Comino",
+      "name_en": "Capo Comino Lighthouse",
+      "latitude": 40.528333,
+      "longitude": 9.827778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337848"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q28376143",
+      "name_it": "faro di Capo d'Anzio",
+      "name_en": "Capo d'Anzio lighthouse",
+      "latitude": 41.445844,
+      "longitude": 12.621806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376143"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q28321891",
+      "name_it": "Faro di Capo d'Orlando",
+      "name_en": "Capo d'Orlando Lighthouse",
+      "latitude": 38.165,
+      "longitude": 14.746667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28321891"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q28376062",
+      "name_it": "faro di Capo d'Orso",
+      "name_en": "Capo d'Orso Lighthouse",
+      "latitude": 40.633194,
+      "longitude": 14.680806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376062"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q55082163",
+      "name_it": "faro di capo d'Orso",
+      "name_en": "Capo d'Orso (Sardinia) Lighthouse",
+      "latitude": 41.177778,
+      "longitude": 9.423056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55082163"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3739768",
+      "name_it": "Faro di Capo dell'Arma",
+      "name_en": "Capo dell'Arma Lighthouse",
+      "latitude": 43.817333,
+      "longitude": 7.831667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739768"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q3739769",
+      "name_it": "Faro di Capo dell'Armi",
+      "name_en": "Capo dell'Armi Lighthouse",
+      "latitude": 38.218889,
+      "longitude": 15.633889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739769"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q55606613",
+      "name_it": "faro di Capo di Vado",
+      "name_en": "Capo di Vado Lighthouse",
+      "latitude": 44.258062,
+      "longitude": 8.452519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55606613"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q3739762",
+      "name_it": "Faro di Capo Ferro",
+      "name_en": "Faro di Capo Ferro",
+      "latitude": 41.154925,
+      "longitude": 9.523333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739762"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q16555250",
+      "name_it": "Faro di Capo Focardo",
+      "name_en": "Capo Focardo lighthouse",
+      "latitude": 42.754373,
+      "longitude": 10.409673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555250"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q28376204",
+      "name_it": "Faro di Capo Grecale",
+      "name_en": "Capo Grecale lighthouse",
+      "latitude": 35.517667,
+      "longitude": 12.63225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376204"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q3739764",
+      "name_it": "faro di Capo Mele",
+      "name_en": "Capo Mele Lighthouse",
+      "latitude": 43.955304,
+      "longitude": 8.172178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739764"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q28376178",
+      "name_it": "faro di Capo Milazzo",
+      "name_en": "Capo Milazzo lighthouse",
+      "latitude": 38.2706,
+      "longitude": 15.230978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376178"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q28376137",
+      "name_it": "Faro di Capo Miseno",
+      "name_en": "Capo Miseno lighthouse",
+      "latitude": 40.778253,
+      "longitude": 14.088942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376137"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q55261105",
+      "name_it": "faro di Capo Molini",
+      "name_en": "Capo Mulini Lighthouse",
+      "latitude": 37.576909,
+      "longitude": 15.176083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55261105"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q28376181",
+      "name_it": "Faro di Capo Peloro",
+      "name_en": "Capo Peloro lighthouse",
+      "latitude": 38.268295,
+      "longitude": 15.650432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376181"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q55224566",
+      "name_it": "Faro di Capo Rasocolmo",
+      "name_en": "Capo Rasocolmo Lighthouse",
+      "latitude": 38.295709,
+      "longitude": 15.519119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55224566"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q55606607",
+      "name_it": "Faro di Capo Rizzuto",
+      "name_en": "Capo Rizzuto Lighthouse",
+      "latitude": 38.895194,
+      "longitude": 17.092861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55606607"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q33019971",
+      "name_it": "Faro di Capo San Marco",
+      "name_en": "Capo San Marco Lighthouse",
+      "latitude": 39.860073,
+      "longitude": 8.434174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33019971"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q56010416",
+      "name_it": "Faro di Capo San Vito",
+      "name_en": "Lighthouse of Capo San Vito",
+      "latitude": 40.411667,
+      "longitude": 17.203333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56010416"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q3378201",
+      "name_it": "faro di Capo Sandalo",
+      "name_en": "Capo Sandalo Lighthouse",
+      "latitude": 39.1475,
+      "longitude": 8.223889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3378201"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q28376237",
+      "name_it": "Faro di Capo Sant'Elia",
+      "name_en": "Capo Sant'Elia lighthouse",
+      "latitude": 39.184167,
+      "longitude": 9.1475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376237"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q28375947",
+      "name_it": "Faro di Capo Santa Maria di Leuca",
+      "name_en": "Capo Santa Maria di Leuca Lighthouse",
+      "latitude": 39.795917,
+      "longitude": 18.368528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375947"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q15113268",
+      "name_it": "faro di Capo Spartivento",
+      "name_en": "faro di Capo Spartivento",
+      "latitude": 38.8764,
+      "longitude": 8.84417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15113268"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q55606612",
+      "name_it": "Faro di Capo Spartivento",
+      "name_en": "Capo Spartivento Calabro Lighthouse",
+      "latitude": 37.924522,
+      "longitude": 16.062895,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55606612"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q56243376",
+      "name_it": "Faro di Capo Suvero",
+      "name_en": "Capo Suvero Lighthouse",
+      "latitude": 38.952288,
+      "longitude": 16.157631,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56243376"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q3739765",
+      "name_it": "faro di Capo Testa",
+      "name_en": "faro di Capo Testa",
+      "latitude": 41.243611,
+      "longitude": 9.144167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739765"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q28376118",
+      "name_it": "faro di Capo Vaticano",
+      "name_en": "Capo Vaticano lighthouse",
+      "latitude": 38.61939,
+      "longitude": 15.828687,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376118"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q28376176",
+      "name_it": "Faro di Capo Zafferano",
+      "name_en": "Capo Zafferano lighthouse",
+      "latitude": 38.112222,
+      "longitude": 13.5375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376176"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q16555256",
+      "name_it": "Faro di Capraia",
+      "name_en": "Punta Ferraione Lighthouse",
+      "latitude": 43.05116,
+      "longitude": 9.844375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555256"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q28376008",
+      "name_it": "faro di Cesenatico",
+      "name_en": "Faro di Cesenatico",
+      "latitude": 44.206108,
+      "longitude": 12.401554,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376008"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q3739776",
+      "name_it": "Faro di Fano",
+      "name_en": "Fano Lighthouse",
+      "latitude": 43.8511,
+      "longitude": 13.0154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739776"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q55612217",
+      "name_it": "faro di Gabicce Mare",
+      "name_en": "Gabicce Mare Lighthouse",
+      "latitude": 43.968983,
+      "longitude": 12.75113,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55612217"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q56648727",
+      "name_it": "faro di Gaggio Montano",
+      "name_en": "Lighthouse of Gaggio Montano",
+      "latitude": 44.19583,
+      "longitude": 10.93518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56648727"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q16555258",
+      "name_it": "Faro di Giannutri",
+      "name_en": "Giannutri lighthouse",
+      "latitude": 42.239432,
+      "longitude": 11.107955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555258"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q28376014",
+      "name_it": "faro di Goro",
+      "name_en": "Faro di Goro",
+      "latitude": 44.791277,
+      "longitude": 12.396545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376014"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q55086538",
+      "name_it": "faro di isola Bocca",
+      "name_en": "Isola della Bocca Lighthouse",
+      "latitude": 40.920556,
+      "longitude": 9.566944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55086538"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q28376165",
+      "name_it": "Faro di Isolotto Monaci",
+      "name_en": "Secca dei Monaci lighthouse",
+      "latitude": 41.215,
+      "longitude": 9.516667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376165"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q28376010",
+      "name_it": "Faro di Lampione",
+      "name_en": "Lampione Lighthouse",
+      "latitude": 35.55114,
+      "longitude": 12.32116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376010"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q108395088",
+      "name_it": "Faro di Lierna",
+      "name_en": "Lighthouse of Lierna",
+      "latitude": 45.959863,
+      "longitude": 9.301218,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108395088"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q16555261",
+      "name_it": "Faro di Lividonia",
+      "name_en": "Lividonia Lighthouse",
+      "latitude": 42.446428,
+      "longitude": 11.104114,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555261"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q28376429",
+      "name_it": "faro di Manfredonia",
+      "name_en": "Manfredonia Lighthouse",
+      "latitude": 41.628889,
+      "longitude": 15.923333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376429"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q16555264",
+      "name_it": "faro di Marina di Campo",
+      "name_en": "Marina di Campo lighthouse",
+      "latitude": 42.741776,
+      "longitude": 10.238178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555264"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q16555267",
+      "name_it": "Faro di Marina di Carrara",
+      "name_en": "",
+      "latitude": 44.036357,
+      "longitude": 10.03685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555267"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q29880023",
+      "name_it": "faro di Marina di Ravenna",
+      "name_en": "Marina di Ravenna Lighthouse",
+      "latitude": 44.49191,
+      "longitude": 12.28412,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29880023"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q18289663",
+      "name_it": "Faro di Molfetta",
+      "name_en": "Molfetta Lighthouse",
+      "latitude": 41.208039,
+      "longitude": 16.594239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18289663"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q28376426",
+      "name_it": "Faro di Molo Martello",
+      "name_en": "Vasto Molo Martello Lighthouse",
+      "latitude": 42.177392,
+      "longitude": 14.711627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376426"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q65464969",
+      "name_it": "Faro di Monte Bernadia",
+      "name_en": "mount Bernadia lighthouse",
+      "latitude": 46.236378,
+      "longitude": 13.256893,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65464969"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q16555269",
+      "name_it": "Faro di Monte Poro",
+      "name_en": "Monte Poro Lighthouse",
+      "latitude": 42.727792,
+      "longitude": 10.237321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555269"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q3739795",
+      "name_it": "Faro di Murano",
+      "name_en": "Murano lighthouse",
+      "latitude": 45.452792,
+      "longitude": 12.354598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739795"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q28376004",
+      "name_it": "Faro di Ortona",
+      "name_en": "Ortona Lighthouse",
+      "latitude": 42.35911,
+      "longitude": 14.40853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376004"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q16555272",
+      "name_it": "Faro di Palmaiola",
+      "name_en": "Palmaiola Lighthouse",
+      "latitude": 42.865,
+      "longitude": 10.475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555272"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q55972406",
+      "name_it": "faro di Pedaso",
+      "name_en": "Pedaso Lighthouse",
+      "latitude": 43.091111,
+      "longitude": 13.845278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55972406"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q3739800",
+      "name_it": "Faro di Pesaro",
+      "name_en": "Monte San Bartolo Lighthouse",
+      "latitude": 43.923006,
+      "longitude": 12.881775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739800"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q16555275",
+      "name_it": "Faro di Pianosa",
+      "name_en": "Pianosa lighthouse",
+      "latitude": 42.58575,
+      "longitude": 10.096139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555275"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q3739801",
+      "name_it": "Faro di Piave Vecchia",
+      "name_en": "Porto Piave Vecchia lighthouse",
+      "latitude": 45.478574,
+      "longitude": 12.5834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739801"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q16555278",
+      "name_it": "Faro di Piombino",
+      "name_en": "Piombino lighthouse",
+      "latitude": 42.919942,
+      "longitude": 10.525315,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555278"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q15786020",
+      "name_it": "Faro di Porto Ercole",
+      "name_en": "Porto Ercole lighthouse",
+      "latitude": 42.390089,
+      "longitude": 11.212683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15786020"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q55935150",
+      "name_it": "faro di Porto Garibaldi",
+      "name_en": "Porto Garibaldi Lighthouse",
+      "latitude": 44.676111,
+      "longitude": 12.244444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55935150"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q28376059",
+      "name_it": "",
+      "name_en": "Faro di Porto Torres",
+      "latitude": 40.836083,
+      "longitude": 8.397306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376059"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q57840241",
+      "name_it": "faro di Porto Torres",
+      "name_en": "faro di Porto Torres",
+      "latitude": 40.83604,
+      "longitude": 8.397229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57840241"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q55685765",
+      "name_it": "Faro di Porto Vecchio",
+      "name_en": "Porto Vecchio Lighthouse",
+      "latitude": 39.080673,
+      "longitude": 17.127146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55685765"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q16555281",
+      "name_it": "Faro di Portoferraio",
+      "name_en": "Portoferraio Lighthouse",
+      "latitude": 42.816348,
+      "longitude": 10.33406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555281"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q28376103",
+      "name_it": "Faro di Portofino",
+      "name_en": "Portofino lighthouse",
+      "latitude": 44.298667,
+      "longitude": 9.218528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376103"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q372769",
+      "name_it": "Faro di Punta Carena",
+      "name_en": "Punta Carena Lighthouse",
+      "latitude": 40.536111,
+      "longitude": 14.198889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q372769"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q55119933",
+      "name_it": "faro di Punta Cavazzi",
+      "name_en": "Punta Cavazzi Lighthouse",
+      "latitude": 38.694167,
+      "longitude": 13.155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55119933"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q55225035",
+      "name_it": "Faro di Punta dei Porci",
+      "name_en": "Punta dei Porci Lighthouse",
+      "latitude": 38.366944,
+      "longitude": 14.984167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55225035"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q56184660",
+      "name_it": "faro di Punta della Guardia",
+      "name_en": "Punta della Guardia Lighthouse",
+      "latitude": 40.878333,
+      "longitude": 12.953333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56184660"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q26027646",
+      "name_it": "Faro di Punta Imperatore",
+      "name_en": "Punta Imperatore Lighthouse",
+      "latitude": 40.7111,
+      "longitude": 13.852522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26027646"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q28376197",
+      "name_it": "faro di Punta Lingua",
+      "name_en": "Punta Lingua lighthouse",
+      "latitude": 38.537194,
+      "longitude": 14.871222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376197"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q55119825",
+      "name_it": "Faro di Punta Omo Morto",
+      "name_en": "Punta Omo Morto Lighthouse",
+      "latitude": 38.712497,
+      "longitude": 13.198587,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55119825"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q3995243",
+      "name_it": "Faro di Punta Palascia",
+      "name_en": "Punta Palascia Lighthouse",
+      "latitude": 40.107422,
+      "longitude": 18.519878,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3995243"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q973243",
+      "name_it": "Faro di Punta Penna",
+      "name_en": "Punta Penna Lighthouse",
+      "latitude": 42.171086,
+      "longitude": 14.714578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q973243"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q16555284",
+      "name_it": "Faro di Punta Pezzo",
+      "name_en": "Punta Pezzo lighthouse",
+      "latitude": 38.23131,
+      "longitude": 15.63664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555284"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q8926010",
+      "name_it": "Faro di Punta Polveraia",
+      "name_en": "Punta Polveraia Lighthouse",
+      "latitude": 42.794448,
+      "longitude": 10.110391,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8926010"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q28374603",
+      "name_it": "Faro di Punta San Raineri",
+      "name_en": "Punta San Raineri Lighthouse",
+      "latitude": 38.193529,
+      "longitude": 15.574192,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28374603"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q29919635",
+      "name_it": "Faro di Punta Sardegna",
+      "name_en": "Punta Sardegna Lighthouse",
+      "latitude": 41.20686,
+      "longitude": 9.362787,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29919635"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q100288664",
+      "name_it": "Faro di Punta Scorno",
+      "name_en": "Faro di Punta Scorno",
+      "latitude": 41.119568,
+      "longitude": 8.31856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100288664"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q3739804",
+      "name_it": "Faro di Punta Stilo",
+      "name_en": "Faro di Punta Stilo",
+      "latitude": 38.44752,
+      "longitude": 16.57757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739804"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q3739805",
+      "name_it": "Faro di Punta Tagliamento",
+      "name_en": "Punta Tagliamento Lighthouse",
+      "latitude": 45.636294,
+      "longitude": 13.097514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739805"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q28376112",
+      "name_it": "Faro di Punta Torre Canne",
+      "name_en": "Punta Torre Canne lighthouse",
+      "latitude": 40.8415,
+      "longitude": 17.46964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376112"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q28376199",
+      "name_it": "Faro di Punta Tuccio",
+      "name_en": "Punta Tuccio lighthouse",
+      "latitude": 35.872194,
+      "longitude": 12.878583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376199"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q55630795",
+      "name_it": "Faro di Punta Vagno",
+      "name_en": "Punta Vagno Lighthouse",
+      "latitude": 44.391997,
+      "longitude": 8.952753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55630795"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q28376065",
+      "name_it": "faro di Razzoli",
+      "name_en": "Isola Razzoli Lighthouse",
+      "latitude": 41.307114,
+      "longitude": 9.339839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376065"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q28376122",
+      "name_it": "faro di Rimini",
+      "name_en": "Rimini Lighthouse",
+      "latitude": 44.074085,
+      "longitude": 12.573943,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376122"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q16555287",
+      "name_it": "Faro di Rio Marina",
+      "name_en": "Faro di Rio Marina",
+      "latitude": 42.81525,
+      "longitude": 10.431359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555287"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q28375369",
+      "name_it": "Faro di Roma",
+      "name_en": "Faro di Roma",
+      "latitude": 41.893805,
+      "longitude": 12.460813,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375369"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q28376417",
+      "name_it": "Faro di San Benedetto del Tronto",
+      "name_en": "San Benedetto del Tronto lighthouse",
+      "latitude": 42.952639,
+      "longitude": 13.886139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376417"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q28376111",
+      "name_it": "Faro di San Cataldo",
+      "name_en": "San Cataldo lighthouse",
+      "latitude": 40.390806,
+      "longitude": 18.306722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376111"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q431403",
+      "name_it": "Faro di San Venerio",
+      "name_en": "San Venerio Lighthouse",
+      "latitude": 44.026667,
+      "longitude": 9.849444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q431403"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q3739812",
+      "name_it": "Faro di San Vito lo Capo",
+      "name_en": "San Vito Lo Capo lighthouse",
+      "latitude": 38.188547,
+      "longitude": 12.733286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739812"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q55260899",
+      "name_it": "Faro di Sciara Biscari",
+      "name_en": "Sciara Biscari lighthouse",
+      "latitude": 37.488333,
+      "longitude": 15.085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55260899"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q548330",
+      "name_it": "Faro di Scilla",
+      "name_en": "Scilla Lighthouse",
+      "latitude": 38.256667,
+      "longitude": 15.715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q548330"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q55962769",
+      "name_it": "faro di Senigallia",
+      "name_en": "Senigallia Lighthouse",
+      "latitude": 43.716667,
+      "longitude": 13.216667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55962769"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q28374605",
+      "name_it": "Faro di Strombolicchio",
+      "name_en": "Strombolicchio Lighthouse",
+      "latitude": 38.817222,
+      "longitude": 15.252222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28374605"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q16555290",
+      "name_it": "Faro di Talamone",
+      "name_en": "Talamone lighthouse",
+      "latitude": 42.551581,
+      "longitude": 11.133704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555290"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q55973607",
+      "name_it": "faro di Termoli",
+      "name_en": "Termoli lighthouse",
+      "latitude": 42.005,
+      "longitude": 14.996667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55973607"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q55237824",
+      "name_it": "Faro di Torre Avalos",
+      "name_en": "Torre Avalos Lighthouse",
+      "latitude": 37.211738,
+      "longitude": 15.224079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55237824"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q28376116",
+      "name_it": "Faro di Torre San Giovanni",
+      "name_en": "Torre San Giovanni lighthouse",
+      "latitude": 39.88623,
+      "longitude": 18.11378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376116"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q28376392",
+      "name_it": "Faro di Torre Sant'Andrea di Missipezza",
+      "name_en": "Torre Sant'Andrea di Missipezza Lighthouse",
+      "latitude": 40.255281,
+      "longitude": 18.444986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376392"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q16555293",
+      "name_it": "Faro di Vada",
+      "name_en": "Faro di Vada",
+      "latitude": 43.350837,
+      "longitude": 10.454073,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555293"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q16555295",
+      "name_it": "Faro di Viareggio",
+      "name_en": "Viareggio old lighthouse",
+      "latitude": 43.86423,
+      "longitude": 10.24335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555295"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q368025",
+      "name_it": "Faro di Vieste",
+      "name_en": "Vieste Lighthouse",
+      "latitude": 41.8892,
+      "longitude": 16.1842,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q368025"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q16555298",
+      "name_it": "faro dismesso della Diga Curvilinea",
+      "name_en": "Livorno Diga Curvilinea north lighthouse",
+      "latitude": 43.552021,
+      "longitude": 10.289584,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555298"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q16555301",
+      "name_it": "Faro meridionale della Meloria",
+      "name_en": "Meloria south end Lighthouse",
+      "latitude": 43.546244,
+      "longitude": 10.218929,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16555301"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q120006778",
+      "name_it": "Faro Nuovo di Barletta",
+      "name_en": "New Barletta Lighthouse",
+      "latitude": 41.327498,
+      "longitude": 16.290182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120006778"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q55630797",
+      "name_it": "Faro nuovo di Punta del Diavolo",
+      "name_en": "Punta del Diavolo Lighthouse",
+      "latitude": 42.106546,
+      "longitude": 15.477274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55630797"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q55685761",
+      "name_it": "faro Punta Stilo",
+      "name_en": "",
+      "latitude": 38.47807,
+      "longitude": 16.469303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55685761"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q3739738",
+      "name_it": "Faro Rocchetta",
+      "name_en": "Faro Rocchetta",
+      "latitude": 45.339874,
+      "longitude": 12.310684,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3739738"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q28375063",
+      "name_it": "Faro Rosso",
+      "name_en": "Lignano range lights",
+      "latitude": 45.69839,
+      "longitude": 13.15447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375063"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q28376207",
+      "name_it": "faro San Giacomo",
+      "name_en": "San Giacomo lighthouse",
+      "latitude": 37.096304,
+      "longitude": 13.941047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376207"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q17630320",
+      "name_it": "Faro settentrionale della Meloria",
+      "name_en": "Meloria North End Lighthouse",
+      "latitude": 43.59,
+      "longitude": 10.2117,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17630320"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q28375375",
+      "name_it": "faro Voltiano",
+      "name_en": "Faro Voltiano di Brunate",
+      "latitude": 45.82606,
+      "longitude": 9.100457,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375375"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q66057485",
+      "name_it": "Faro Votivo",
+      "name_en": "Faro Votivo",
+      "latitude": 41.078162,
+      "longitude": 16.083499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66057485"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q28376424",
+      "name_it": "",
+      "name_en": "Fortino Tenaglia lighthouse",
+      "latitude": 40.81208,
+      "longitude": 14.08238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376424"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q28376085",
+      "name_it": "",
+      "name_en": "Giglio lighthouse",
+      "latitude": 42.388417,
+      "longitude": 10.881111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376085"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q55117002",
+      "name_it": "Gran Torre",
+      "name_en": "Torre Grande Lighthouse",
+      "latitude": 39.906741,
+      "longitude": 8.516314,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55117002"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q28376133",
+      "name_it": "",
+      "name_en": "Ischia Porto lighthouse",
+      "latitude": 40.748167,
+      "longitude": 13.942417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376133"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q55095796",
+      "name_it": "",
+      "name_en": "Isola dei Cavoli Lighthouse",
+      "latitude": 39.088639,
+      "longitude": 9.533417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55095796"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q55082742",
+      "name_it": "",
+      "name_en": "Isola delle Bisce Lighthouse",
+      "latitude": 41.161944,
+      "longitude": 9.524722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55082742"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q55230017",
+      "name_it": "",
+      "name_en": "Isola delle Correnti Lighthouse",
+      "latitude": 36.645,
+      "longitude": 15.0775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55230017"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q28376110",
+      "name_it": "",
+      "name_en": "Isola Sant'Andrea lighthouse",
+      "latitude": 40.050083,
+      "longitude": 17.949472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376110"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q55020983",
+      "name_it": "",
+      "name_en": "Isolotto della Maddalena Lighthouse",
+      "latitude": 40.572222,
+      "longitude": 8.300278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55020983"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q55155449",
+      "name_it": "",
+      "name_en": "Isolotto Formica Lighthouse",
+      "latitude": 37.989167,
+      "longitude": 12.425556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55155449"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q776666",
+      "name_it": "Lanterna di Genova",
+      "name_en": "Lighthouse of Genoa",
+      "latitude": 44.40454,
+      "longitude": 8.904636,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q776666"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q1805580",
+      "name_it": "Lanterna di Trieste",
+      "name_en": "Trieste lighthouse",
+      "latitude": 45.649125,
+      "longitude": 13.756029,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1805580"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q55616842",
+      "name_it": "",
+      "name_en": "Lido Fanale Anteriore Lighthouse",
+      "latitude": 45.438056,
+      "longitude": 12.39,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55616842"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q55672381",
+      "name_it": "",
+      "name_en": "Lido Molo Nord Lighthouse",
+      "latitude": 45.423333,
+      "longitude": 12.436111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55672381"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q55673176",
+      "name_it": "",
+      "name_en": "Lido Molo Sud lighthouse",
+      "latitude": 45.418056,
+      "longitude": 12.426667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55673176"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q28376213",
+      "name_it": "",
+      "name_en": "Livorno Diga del Marzocco light",
+      "latitude": 43.557778,
+      "longitude": 10.290692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376213"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q28376211",
+      "name_it": "",
+      "name_en": "Livorno Diga della Meloria lighthouse",
+      "latitude": 43.557922,
+      "longitude": 10.286597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376211"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q28376214",
+      "name_it": "",
+      "name_en": "Livorno Diga Rettilinea light",
+      "latitude": 43.551086,
+      "longitude": 10.294842,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376214"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q55622013",
+      "name_it": "",
+      "name_en": "Manfredonia Molo di Levante Lighthouse",
+      "latitude": 41.620556,
+      "longitude": 15.925278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55622013"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q28376184",
+      "name_it": "",
+      "name_en": "Marsala lighthouse",
+      "latitude": 37.7875,
+      "longitude": 12.436667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376184"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q29519714",
+      "name_it": "",
+      "name_en": "Molo Margherita Lighthouse",
+      "latitude": 40.9558,
+      "longitude": 17.3045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29519714"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q56173803",
+      "name_it": "",
+      "name_en": "Monte Orlando Lighthouse",
+      "latitude": 41.201111,
+      "longitude": 13.568611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56173803"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q125319712",
+      "name_it": "Monumento ai Caduti del Vega 10",
+      "name_en": "Monument to the Fallen of Vega 10",
+      "latitude": 43.73483,
+      "longitude": 10.54768,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125319712"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q28376132",
+      "name_it": "",
+      "name_en": "Napoli Molo San Vincenzo lighthouse",
+      "latitude": 40.832853,
+      "longitude": 14.272133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376132"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q56243277",
+      "name_it": "",
+      "name_en": "Paola Lighthouse",
+      "latitude": 39.361667,
+      "longitude": 16.031944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56243277"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q29536421",
+      "name_it": "",
+      "name_en": "Porto Conte Lighthouse",
+      "latitude": 40.591667,
+      "longitude": 8.205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29536421"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q55630786",
+      "name_it": "",
+      "name_en": "Punta Cala Scirocco Lighthouse",
+      "latitude": 43.420528,
+      "longitude": 9.900778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55630786"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q28376423",
+      "name_it": "",
+      "name_en": "Punta Campanella lighthouse",
+      "latitude": 40.569484,
+      "longitude": 14.324872,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376423"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q28376139",
+      "name_it": "",
+      "name_en": "Punta del Fortino lighthouse",
+      "latitude": 40.069056,
+      "longitude": 15.6185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376139"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q28376164",
+      "name_it": "",
+      "name_en": "Punta Filetto lighthouse",
+      "latitude": 41.298647,
+      "longitude": 9.384061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376164"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q28376104",
+      "name_it": "",
+      "name_en": "Punta Fortino lighthouse",
+      "latitude": 40.354935,
+      "longitude": 14.987009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376104"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q28376063",
+      "name_it": "",
+      "name_en": "Punta Palau lighthouse",
+      "latitude": 41.1875,
+      "longitude": 9.381111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376063"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q55630791",
+      "name_it": "",
+      "name_en": "Punta Paratella Lighthouse",
+      "latitude": 43.437167,
+      "longitude": 9.902528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55630791"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q33120963",
+      "name_it": "",
+      "name_en": "Punta Pioppeto Lighthouse",
+      "latitude": 40.770403,
+      "longitude": 14.016838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33120963"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q55630794",
+      "name_it": "",
+      "name_en": "Punta Santa Teresa Lighthouse",
+      "latitude": 44.081095,
+      "longitude": 9.88121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55630794"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q28376194",
+      "name_it": "",
+      "name_en": "Punta Sottile lighthouse",
+      "latitude": 37.935056,
+      "longitude": 12.272333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376194"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q28376189",
+      "name_it": "",
+      "name_en": "Punta Spadillo lighthouse",
+      "latitude": 36.824222,
+      "longitude": 12.012444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376189"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q28376170",
+      "name_it": "",
+      "name_en": "Scogli Porcelli lighthouse",
+      "latitude": 38.043333,
+      "longitude": 12.438667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376170"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q55229581",
+      "name_it": "",
+      "name_en": "Scogli Porri Lighthouse",
+      "latitude": 36.686389,
+      "longitude": 14.931944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55229581"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q28375941",
+      "name_it": "",
+      "name_en": "Scoglio Palumbo Lighthouse",
+      "latitude": 38.012583,
+      "longitude": 12.488556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375941"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q55632707",
+      "name_it": "",
+      "name_en": "Scoglio Torre della Scuola Lighthouse",
+      "latitude": 44.051681,
+      "longitude": 9.85856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55632707"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q55229193",
+      "name_it": "",
+      "name_en": "Scoglitti Lighthouse",
+      "latitude": 36.894239,
+      "longitude": 14.43355,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55229193"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q16610108",
+      "name_it": "stazione di vedetta di Capo Ortano",
+      "name_en": "",
+      "latitude": 42.797572,
+      "longitude": 10.432611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16610108"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q28376149",
+      "name_it": "",
+      "name_en": "Terracina Molo Gregoriano lighthouse",
+      "latitude": 41.282556,
+      "longitude": 13.260583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376149"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q3995408",
+      "name_it": "Torre del Coltellazzo",
+      "name_en": "Torre del Coltellazzo",
+      "latitude": 38.984167,
+      "longitude": 9.020278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3995408"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q28375247",
+      "name_it": "Torre della Meloria",
+      "name_en": "Torre della Meloria",
+      "latitude": 43.548044,
+      "longitude": 10.21875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28375247"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q28376159",
+      "name_it": "Torre di San Marco",
+      "name_en": "Gardone Riviera lighthouse",
+      "latitude": 45.620684,
+      "longitude": 10.567562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376159"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q66052151",
+      "name_it": "Vecchio faro di Ancona",
+      "name_en": "Ancona old lighthouse",
+      "latitude": 43.623294,
+      "longitude": 13.514411,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66052151"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q28376169",
+      "name_it": "",
+      "name_en": "Venezia Porto di Lido lighthouses",
+      "latitude": 45.422722,
+      "longitude": 12.436722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376169"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q55637045",
+      "name_it": "",
+      "name_en": "Ventotene Lighthouse",
+      "latitude": 40.796917,
+      "longitude": 13.434559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55637045"
+    }
+  ],
+  "meta": {
+    "title": "Fari in Italia - Download gratuito",
+    "description": "Elenco dei fari in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 217 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Fari in Italia | ListBase",
+    "seo_description": "Scarica Fari in Italia — 217 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 217 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

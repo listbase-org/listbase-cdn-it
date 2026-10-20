@@ -1,0 +1,664 @@
+{
+  "id": "it-basiliche",
+  "name": "Basiliche in Italia",
+  "title": "Basiliche in Italia",
+  "description": "Elenco delle basiliche in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q810067",
+      "name_it": "Basilica Cristiana (III,I,4)",
+      "name_en": "Christian Basilica",
+      "latitude": 41.753,
+      "longitude": 12.2865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q810067"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3635651",
+      "name_it": "basilica dei Santi Gervasio e Protasio",
+      "name_en": "Santi Gervasio e Protasio",
+      "latitude": 44.3496,
+      "longitude": 9.22983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635651"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q118539168",
+      "name_it": "Basilica del Crocifisso",
+      "name_en": "",
+      "latitude": 40.634637,
+      "longitude": 14.603028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118539168"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q30576939",
+      "name_it": "basilica del Santissimo Salvatore",
+      "name_en": "Santissimo Salvatore",
+      "latitude": 45.187874,
+      "longitude": 9.138978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30576939"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q97382812",
+      "name_it": "basilica del Santissimo Salvatore",
+      "name_en": "",
+      "latitude": 36.89081,
+      "longitude": 15.07191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97382812"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q57337519",
+      "name_it": "basilica della Divina Sapienza",
+      "name_en": "",
+      "latitude": 45.73422,
+      "longitude": 8.90854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57337519"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q873518",
+      "name_it": "basilica della Santissima Trinità del Cancelliere",
+      "name_en": "La Magione, Palermo",
+      "latitude": 38.113611,
+      "longitude": 13.368889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q873518"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q784660",
+      "name_it": "basilica dello Spirito Santo",
+      "name_en": "",
+      "latitude": 40.84712,
+      "longitude": 14.24899,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q784660"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3635629",
+      "name_it": "basilica di Pompei",
+      "name_en": "Basilica of Pompeii",
+      "latitude": 40.7488,
+      "longitude": 14.4845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635629"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1543539",
+      "name_it": "basilica di Saccargia",
+      "name_en": "basilica di Saccargia",
+      "latitude": 40.67125,
+      "longitude": 8.689111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1543539"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1255602",
+      "name_it": "basilica di San Babila",
+      "name_en": "San Babila Church",
+      "latitude": 45.467017,
+      "longitude": 9.198376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1255602"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2887100",
+      "name_it": "basilica di San Calimero",
+      "name_en": "Basilica di San Calimero",
+      "latitude": 45.456626,
+      "longitude": 9.192955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887100"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q2887098",
+      "name_it": "basilica di San Carpoforo",
+      "name_en": "San Carpoforo",
+      "latitude": 45.794066,
+      "longitude": 9.090348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887098"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2887102",
+      "name_it": "basilica di San Fedele",
+      "name_en": "Basilica di San Fedele",
+      "latitude": 45.809768,
+      "longitude": 9.084545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887102"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q2886999",
+      "name_it": "basilica di San Giacomo",
+      "name_en": "San Giacomo",
+      "latitude": 45.98798,
+      "longitude": 9.26204,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2886999"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q2446870",
+      "name_it": "basilica di San Giacomo Maggiore",
+      "name_en": "San Giacomo Maggiore",
+      "latitude": 44.49545,
+      "longitude": 11.348954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2446870"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q3635693",
+      "name_it": "basilica di San Giorgio fuori le mura",
+      "name_en": "Saint George's Basilica",
+      "latitude": 44.821658,
+      "longitude": 11.628025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635693"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q118764502",
+      "name_it": "Basilica di San Giovanni Evangelista",
+      "name_en": "",
+      "latitude": 41.250703,
+      "longitude": 14.065692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118764502"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q24952177",
+      "name_it": "Basilica di San Giuseppe da Copertino",
+      "name_en": "San Giuseppe da Copertino",
+      "latitude": 43.486531,
+      "longitude": 13.483378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24952177"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q55087262",
+      "name_it": "basilica di San Gregorio",
+      "name_en": "San Gregorio",
+      "latitude": 41.13069,
+      "longitude": 16.86961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55087262"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q17622412",
+      "name_it": "basilica di San Lorenzo",
+      "name_en": "Basilica of San Lorenzo",
+      "latitude": 45.252139,
+      "longitude": 8.738802,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17622412"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1255904",
+      "name_it": "basilica di San Nazaro in Brolo",
+      "name_en": "San Nazaro in Brolo",
+      "latitude": 45.458794,
+      "longitude": 9.192893,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1255904"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q550514",
+      "name_it": "basilica di San Nicola",
+      "name_en": "Basilica of Saint Nicholas",
+      "latitude": 41.130261,
+      "longitude": 16.870281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q550514"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q644850",
+      "name_it": "basilica di San Pietro",
+      "name_en": "San Pietro",
+      "latitude": 43.101,
+      "longitude": 12.3957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q644850"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q72694193",
+      "name_it": "Basilica di San Pietro Alli Marmi",
+      "name_en": "San Pietro Alli Marmi",
+      "latitude": 40.623029,
+      "longitude": 15.053437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72694193"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q2036332",
+      "name_it": "basilica di San Pietro in Ciel d'Oro",
+      "name_en": "San Pietro in Ciel d'Oro",
+      "latitude": 45.191278,
+      "longitude": 9.154944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2036332"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q3635719",
+      "name_it": "basilica di San Prospero",
+      "name_en": "Basilica di San Prospero",
+      "latitude": 44.697132,
+      "longitude": 10.632378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635719"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q3635721",
+      "name_it": "basilica di San Sabino",
+      "name_en": "Cathedral of San Sabino",
+      "latitude": 41.223028,
+      "longitude": 16.066389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635721"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q747586",
+      "name_it": "basilica di San Saturnino",
+      "name_en": "Basilica of San Saturnino",
+      "latitude": 39.213889,
+      "longitude": 9.123333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q747586"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q56323344",
+      "name_it": "basilica di San Sebastiano",
+      "name_en": "San Sebastiano",
+      "latitude": 37.177702,
+      "longitude": 15.127868,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56323344"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q56323388",
+      "name_it": "basilica di San Sebastiano",
+      "name_en": "San Sebastiano",
+      "latitude": 37.06131,
+      "longitude": 14.90423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56323388"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q2887116",
+      "name_it": "basilica di San Sossio Levita e Martire",
+      "name_en": "",
+      "latitude": 40.9419,
+      "longitude": 14.2756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887116"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q33537327",
+      "name_it": "basilica di San Vincenzo",
+      "name_en": "",
+      "latitude": 45.741564,
+      "longitude": 9.138691,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33537327"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q108913244",
+      "name_it": "Basilica di San Vito",
+      "name_en": "San Vito, Vizzini",
+      "latitude": 37.160817,
+      "longitude": 14.744806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108913244"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q20054475",
+      "name_it": "basilica di San Vittore Martire",
+      "name_en": "Saint Victor High Church",
+      "latitude": 45.687504,
+      "longitude": 8.729525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20054475"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q2263559",
+      "name_it": "basilica di Sant'Abbondio",
+      "name_en": "Basilica of Sant'Abbondio",
+      "latitude": 45.802453,
+      "longitude": 9.080501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2263559"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q3635731",
+      "name_it": "basilica di Sant'Agata Maggiore",
+      "name_en": "Basilica di Sant'Agata Maggiore",
+      "latitude": 44.413935,
+      "longitude": 12.201261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635731"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q3635733",
+      "name_it": "basilica di Sant'Alessandro",
+      "name_en": "Sant'Alessandro",
+      "latitude": 43.807463,
+      "longitude": 11.290067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635733"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q1581882",
+      "name_it": "basilica di Sant'Andrea",
+      "name_en": "Basilica of Sant'Andrea",
+      "latitude": 45.159011,
+      "longitude": 10.794469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1581882"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q832278",
+      "name_it": "basilica di Sant'Apollinare Nuovo",
+      "name_en": "Basilica of Sant'Apollinare Nuovo",
+      "latitude": 44.416738,
+      "longitude": 12.2046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q832278"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q2887127",
+      "name_it": "basilica di Sant'Aurea",
+      "name_en": "Santa Aurea",
+      "latitude": 41.759367,
+      "longitude": 12.30181,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887127"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q24933336",
+      "name_it": "basilica di Santa Caterina",
+      "name_en": "Basilica Santa Caterina",
+      "latitude": 37.618837,
+      "longitude": 15.061222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24933336"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q55386140",
+      "name_it": "basilica di Santa Cristina e Catacomba del Santuario Eucaristico",
+      "name_en": "",
+      "latitude": 42.64485,
+      "longitude": 11.986111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55386140"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q16531350",
+      "name_it": "basilica di Santa Maria a Pugliano",
+      "name_en": "Basilica of Santa Maria a Pugliano",
+      "latitude": 40.81235,
+      "longitude": 14.35262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16531350"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q2887128",
+      "name_it": "basilica di Santa Maria Assunta",
+      "name_en": "Santa Maria Assunta Cathedral",
+      "latitude": 41.78639,
+      "longitude": 14.109182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887128"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q65127338",
+      "name_it": "Basilica di Santa Maria degli Angeli",
+      "name_en": "",
+      "latitude": 40.650371,
+      "longitude": 15.234945,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65127338"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q108015347",
+      "name_it": "basilica di Santa Maria di Sesto",
+      "name_en": "Santa Maria di Sesto",
+      "latitude": 42.38849,
+      "longitude": 12.94215,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108015347"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q2060055",
+      "name_it": "basilica di Santa Maria in Domnica",
+      "name_en": "Santa Maria in Domnica",
+      "latitude": 41.884722,
+      "longitude": 12.495556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2060055"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q19595629",
+      "name_it": "basilica di Santa Maria Infraportas",
+      "name_en": "Santa Maria Infraportas",
+      "latitude": 42.95345,
+      "longitude": 12.70011,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19595629"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q109758161",
+      "name_it": "Basilica di Santa Maria Maddalena",
+      "name_en": "Santa Maria Maddalena Church",
+      "latitude": 44.76188,
+      "longitude": 8.78329,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758161"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q118792192",
+      "name_it": "Basilica di Santa Maria Materdomini e San Gerardo Maiella",
+      "name_en": "",
+      "latitude": 40.815944,
+      "longitude": 15.233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118792192"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q28000913",
+      "name_it": "Basilica di Santo Stefano in via Latina",
+      "name_en": "Basilica of Santo Stefano on the via Latina",
+      "latitude": 41.861652,
+      "longitude": 12.537461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28000913"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q4867343",
+      "name_it": "",
+      "name_en": "Basilica Fulvia",
+      "latitude": 41.892611,
+      "longitude": 12.486111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4867343"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q25112960",
+      "name_it": "Basilica Lateranense di Maria Santissima della Misericordia",
+      "name_en": "Basilica Lateranense di Maria Santissima della Misericordia",
+      "latitude": 43.229575,
+      "longitude": 13.686041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25112960"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3635635",
+      "name_it": "basilica palatina di Santa Barbara",
+      "name_en": "Basilica Palatina di Santa Barbara",
+      "latitude": 45.160144,
+      "longitude": 10.799313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635635"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q2942894",
+      "name_it": "cattedrale di Sant'Agapito martire",
+      "name_en": "Cathedrale Sant'Agapito Martyr",
+      "latitude": 41.839047,
+      "longitude": 12.892077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2942894"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q17624733",
+      "name_it": "chiesa dei Santi Vitale e Agricola in Arena",
+      "name_en": "Chiesa dei Santi Vitale e Agricola in Arena",
+      "latitude": 44.494431,
+      "longitude": 11.350889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17624733"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q17198938",
+      "name_it": "chiesa di San Giovanni in Canale",
+      "name_en": "San Giovanni in Canale, Piacenza",
+      "latitude": 45.051719,
+      "longitude": 9.687919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17198938"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3671621",
+      "name_it": "chiesa di San Pietro",
+      "name_en": "San Pietro Extra Muros",
+      "latitude": 40.289167,
+      "longitude": 8.519722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3671621"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q3584523",
+      "name_it": "chiesa di San Silvestro",
+      "name_en": "San Silvestro",
+      "latitude": 42.93247,
+      "longitude": 12.60814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3584523"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q16540558",
+      "name_it": "chiesa di Sant'Eufemia",
+      "name_en": "Basilica of Sant'Eufemia, Spoleto",
+      "latitude": 42.73468,
+      "longitude": 12.738074,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16540558"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q23853483",
+      "name_it": "chiesa di Santa Maria Assunta in Valvendra",
+      "name_en": "Basilica di santa Maria in Valvendra",
+      "latitude": 45.819412,
+      "longitude": 10.077213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23853483"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q120175952",
+      "name_it": "chiesa di Santa Maria degli Angeli",
+      "name_en": "",
+      "latitude": 37.275028,
+      "longitude": 14.799972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120175952"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1304828",
+      "name_it": "chiesa di Santa Maria Maggiore",
+      "name_en": "Santa Maria Maggiore",
+      "latitude": 43.06966,
+      "longitude": 12.61447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1304828"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q2887053",
+      "name_it": "complesso monumentale di Galliano",
+      "name_en": "Basilica di San Vincenzo",
+      "latitude": 45.741546,
+      "longitude": 9.138682,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2887053"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q1868633",
+      "name_it": "ex chiesa di San Salvatore",
+      "name_en": "Basilica of San Salvatore, Spoleto",
+      "latitude": 42.7419,
+      "longitude": 12.7434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1868633"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q70357692",
+      "name_it": "Santuario di Sant'Angelo a Palombara",
+      "name_en": "Santuario di Sant'Angelo a Palombara",
+      "latitude": 40.999597,
+      "longitude": 14.478886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70357692"
+    }
+  ],
+  "meta": {
+    "title": "Basiliche in Italia - Download gratuito",
+    "description": "Elenco delle basiliche in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 67 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Basiliche in Italia | ListBase",
+    "seo_description": "Scarica Basiliche in Italia — 67 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 67 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

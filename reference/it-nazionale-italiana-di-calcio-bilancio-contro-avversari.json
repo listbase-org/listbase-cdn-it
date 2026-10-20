@@ -1,0 +1,962 @@
+{
+  "id": "it-nazionale-italiana-di-calcio-bilancio-contro-avversari",
+  "name": "Nazionale di calcio dell'Italia — bilancio contro ogni avversario (81)",
+  "title": "Nazionale di calcio dell'Italia — bilancio contro ogni avversario (81)",
+  "description": "Nazionale di calcio dell'Italia: Bilancio complessivo contro ciascun avversario, calcolato da tutte le partite di results.csv: partite, vittorie, pareggi, sconfitte, gol fatti e subiti, prima e ultima partita. Esito in base al punteggio finale (senza rigori). Ordinato per numero di partite.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "avversario",
+      "label": "Avversario",
+      "type": "string"
+    },
+    {
+      "key": "partite",
+      "label": "Partite",
+      "type": "number"
+    },
+    {
+      "key": "vittorie",
+      "label": "Vittorie",
+      "type": "number"
+    },
+    {
+      "key": "pareggi",
+      "label": "Pareggi",
+      "type": "number"
+    },
+    {
+      "key": "sconfitte",
+      "label": "Sconfitte",
+      "type": "number"
+    },
+    {
+      "key": "gol_fatti",
+      "label": "Gol Fatti",
+      "type": "number"
+    },
+    {
+      "key": "gol_subiti",
+      "label": "Gol Subiti",
+      "type": "number"
+    },
+    {
+      "key": "prima_partita",
+      "label": "Prima Partita",
+      "type": "date"
+    },
+    {
+      "key": "ultima_partita",
+      "label": "Ultima Partita",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "avversario": "Switzerland",
+      "partite": 62,
+      "vittorie": 29,
+      "pareggi": 24,
+      "sconfitte": 9,
+      "gol_fatti": 111,
+      "gol_subiti": 70,
+      "prima_partita": "1911-05-07",
+      "ultima_partita": "2024-06-29"
+    },
+    {
+      "avversario": "France",
+      "partite": 42,
+      "vittorie": 19,
+      "pareggi": 10,
+      "sconfitte": 13,
+      "gol_fatti": 86,
+      "gol_subiti": 62,
+      "prima_partita": "1910-05-15",
+      "ultima_partita": "2024-11-17"
+    },
+    {
+      "avversario": "Spain",
+      "partite": 41,
+      "vittorie": 11,
+      "pareggi": 16,
+      "sconfitte": 14,
+      "gol_fatti": 46,
+      "gol_subiti": 46,
+      "prima_partita": "1920-09-02",
+      "ultima_partita": "2024-06-20"
+    },
+    {
+      "avversario": "Germany",
+      "partite": 39,
+      "vittorie": 15,
+      "pareggi": 14,
+      "sconfitte": 10,
+      "gol_fatti": 57,
+      "gol_subiti": 52,
+      "prima_partita": "1923-01-01",
+      "ultima_partita": "2025-03-23"
+    },
+    {
+      "avversario": "Austria",
+      "partite": 38,
+      "vittorie": 17,
+      "pareggi": 8,
+      "sconfitte": 13,
+      "gol_fatti": 49,
+      "gol_subiti": 58,
+      "prima_partita": "1912-07-03",
+      "ultima_partita": "2022-11-20"
+    },
+    {
+      "avversario": "Hungary",
+      "partite": 34,
+      "vittorie": 18,
+      "pareggi": 9,
+      "sconfitte": 7,
+      "gol_fatti": 66,
+      "gol_subiti": 52,
+      "prima_partita": "1910-05-26",
+      "ultima_partita": "2022-09-26"
+    },
+    {
+      "avversario": "England",
+      "partite": 32,
+      "vittorie": 11,
+      "pareggi": 11,
+      "sconfitte": 10,
+      "gol_fatti": 35,
+      "gol_subiti": 39,
+      "prima_partita": "1933-05-13",
+      "ultima_partita": "2023-10-17"
+    },
+    {
+      "avversario": "Portugal",
+      "partite": 27,
+      "vittorie": 18,
+      "pareggi": 3,
+      "sconfitte": 6,
+      "gol_fatti": 51,
+      "gol_subiti": 23,
+      "prima_partita": "1925-06-18",
+      "ultima_partita": "2018-11-17"
+    },
+    {
+      "avversario": "Belgium",
+      "partite": 26,
+      "vittorie": 17,
+      "pareggi": 5,
+      "sconfitte": 4,
+      "gol_fatti": 50,
+      "gol_subiti": 28,
+      "prima_partita": "1913-05-01",
+      "ultima_partita": "2024-11-14"
+    },
+    {
+      "avversario": "Czechoslovakia",
+      "partite": 26,
+      "vittorie": 9,
+      "pareggi": 9,
+      "sconfitte": 8,
+      "gol_fatti": 39,
+      "gol_subiti": 38,
+      "prima_partita": "1922-02-26",
+      "ultima_partita": "1990-06-19"
+    },
+    {
+      "avversario": "Sweden",
+      "partite": 25,
+      "vittorie": 11,
+      "pareggi": 7,
+      "sconfitte": 7,
+      "gol_fatti": 28,
+      "gol_subiti": 25,
+      "prima_partita": "1912-07-01",
+      "ultima_partita": "2017-11-13"
+    },
+    {
+      "avversario": "Netherlands",
+      "partite": 24,
+      "vittorie": 11,
+      "pareggi": 10,
+      "sconfitte": 3,
+      "gol_fatti": 33,
+      "gol_subiti": 24,
+      "prima_partita": "1920-05-13",
+      "ultima_partita": "2023-06-18"
+    },
+    {
+      "avversario": "Bulgaria",
+      "partite": 21,
+      "vittorie": 11,
+      "pareggi": 8,
+      "sconfitte": 2,
+      "gol_fatti": 36,
+      "gol_subiti": 17,
+      "prima_partita": "1966-06-14",
+      "ultima_partita": "2021-09-02"
+    },
+    {
+      "avversario": "Norway",
+      "partite": 19,
+      "vittorie": 10,
+      "pareggi": 4,
+      "sconfitte": 5,
+      "gol_fatti": 25,
+      "gol_subiti": 20,
+      "prima_partita": "1920-08-31",
+      "ultima_partita": "2025-11-16"
+    },
+    {
+      "avversario": "Poland",
+      "partite": 18,
+      "vittorie": 7,
+      "pareggi": 8,
+      "sconfitte": 3,
+      "gol_fatti": 23,
+      "gol_subiti": 10,
+      "prima_partita": "1965-04-18",
+      "ultima_partita": "2020-11-15"
+    },
+    {
+      "avversario": "Romania",
+      "partite": 18,
+      "vittorie": 11,
+      "pareggi": 5,
+      "sconfitte": 2,
+      "gol_fatti": 35,
+      "gol_subiti": 15,
+      "prima_partita": "1919-06-26",
+      "ultima_partita": "2015-11-17"
+    },
+    {
+      "avversario": "Yugoslavia",
+      "partite": 17,
+      "vittorie": 8,
+      "pareggi": 5,
+      "sconfitte": 4,
+      "gol_fatti": 24,
+      "gol_subiti": 21,
+      "prima_partita": "1925-11-04",
+      "ultima_partita": "1988-03-31"
+    },
+    {
+      "avversario": "Argentina",
+      "partite": 16,
+      "vittorie": 6,
+      "pareggi": 5,
+      "sconfitte": 5,
+      "gol_fatti": 22,
+      "gol_subiti": 18,
+      "prima_partita": "1954-12-05",
+      "ultima_partita": "2022-06-01"
+    },
+    {
+      "avversario": "Brazil",
+      "partite": 16,
+      "vittorie": 5,
+      "pareggi": 3,
+      "sconfitte": 8,
+      "gol_fatti": 23,
+      "gol_subiti": 30,
+      "prima_partita": "1938-06-16",
+      "ultima_partita": "2013-06-22"
+    },
+    {
+      "avversario": "Russia",
+      "partite": 16,
+      "vittorie": 5,
+      "pareggi": 6,
+      "sconfitte": 5,
+      "gol_fatti": 13,
+      "gol_subiti": 14,
+      "prima_partita": "1963-10-13",
+      "ultima_partita": "2012-06-01"
+    },
+    {
+      "avversario": "Finland",
+      "partite": 15,
+      "vittorie": 13,
+      "pareggi": 1,
+      "sconfitte": 1,
+      "gol_fatti": 36,
+      "gol_subiti": 8,
+      "prima_partita": "1912-06-29",
+      "ultima_partita": "2019-09-08"
+    },
+    {
+      "avversario": "Greece",
+      "partite": 14,
+      "vittorie": 9,
+      "pareggi": 4,
+      "sconfitte": 1,
+      "gol_fatti": 32,
+      "gol_subiti": 6,
+      "prima_partita": "1919-06-25",
+      "ultima_partita": "2026-06-07"
+    },
+    {
+      "avversario": "Republic of Ireland",
+      "partite": 14,
+      "vittorie": 8,
+      "pareggi": 3,
+      "sconfitte": 3,
+      "gol_fatti": 20,
+      "gol_subiti": 10,
+      "prima_partita": "1926-03-21",
+      "ultima_partita": "2016-06-22"
+    },
+    {
+      "avversario": "Turkey",
+      "partite": 13,
+      "vittorie": 9,
+      "pareggi": 4,
+      "sconfitte": 0,
+      "gol_fatti": 24,
+      "gol_subiti": 7,
+      "prima_partita": "1962-12-02",
+      "ultima_partita": "2024-06-04"
+    },
+    {
+      "avversario": "Denmark",
+      "partite": 12,
+      "vittorie": 8,
+      "pareggi": 2,
+      "sconfitte": 2,
+      "gol_fatti": 21,
+      "gol_subiti": 11,
+      "prima_partita": "1964-12-05",
+      "ultima_partita": "2013-10-11"
+    },
+    {
+      "avversario": "Mexico",
+      "partite": 12,
+      "vittorie": 7,
+      "pareggi": 4,
+      "sconfitte": 1,
+      "gol_fatti": 28,
+      "gol_subiti": 10,
+      "prima_partita": "1966-06-29",
+      "ultima_partita": "2013-06-16"
+    },
+    {
+      "avversario": "Northern Ireland",
+      "partite": 12,
+      "vittorie": 8,
+      "pareggi": 3,
+      "sconfitte": 1,
+      "gol_fatti": 21,
+      "gol_subiti": 6,
+      "prima_partita": "1957-04-25",
+      "ultima_partita": "2026-03-26"
+    },
+    {
+      "avversario": "Scotland",
+      "partite": 11,
+      "vittorie": 8,
+      "pareggi": 2,
+      "sconfitte": 1,
+      "gol_fatti": 19,
+      "gol_subiti": 4,
+      "prima_partita": "1931-05-20",
+      "ultima_partita": "2016-05-29"
+    },
+    {
+      "avversario": "Uruguay",
+      "partite": 11,
+      "vittorie": 3,
+      "pareggi": 4,
+      "sconfitte": 4,
+      "gol_fatti": 12,
+      "gol_subiti": 11,
+      "prima_partita": "1928-06-07",
+      "ultima_partita": "2017-06-07"
+    },
+    {
+      "avversario": "Croatia",
+      "partite": 10,
+      "vittorie": 1,
+      "pareggi": 6,
+      "sconfitte": 3,
+      "gol_fatti": 11,
+      "gol_subiti": 11,
+      "prima_partita": "1942-04-05",
+      "ultima_partita": "2024-06-24"
+    },
+    {
+      "avversario": "Luxembourg",
+      "partite": 10,
+      "vittorie": 9,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 26,
+      "gol_subiti": 2,
+      "prima_partita": "1924-05-29",
+      "ultima_partita": "2026-06-03"
+    },
+    {
+      "avversario": "Malta",
+      "partite": 10,
+      "vittorie": 10,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 27,
+      "gol_subiti": 2,
+      "prima_partita": "1986-12-06",
+      "ultima_partita": "2023-10-14"
+    },
+    {
+      "avversario": "Ukraine",
+      "partite": 10,
+      "vittorie": 7,
+      "pareggi": 3,
+      "sconfitte": 0,
+      "gol_fatti": 17,
+      "gol_subiti": 4,
+      "prima_partita": "1995-03-29",
+      "ultima_partita": "2023-11-20"
+    },
+    {
+      "avversario": "United States",
+      "partite": 10,
+      "vittorie": 6,
+      "pareggi": 3,
+      "sconfitte": 1,
+      "gol_fatti": 25,
+      "gol_subiti": 5,
+      "prima_partita": "1934-05-27",
+      "ultima_partita": "2018-11-20"
+    },
+    {
+      "avversario": "Estonia",
+      "partite": 9,
+      "vittorie": 9,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 28,
+      "gol_subiti": 3,
+      "prima_partita": "1993-04-14",
+      "ultima_partita": "2025-10-11"
+    },
+    {
+      "avversario": "Israel",
+      "partite": 9,
+      "vittorie": 8,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 28,
+      "gol_subiti": 9,
+      "prima_partita": "1961-10-15",
+      "ultima_partita": "2025-10-14"
+    },
+    {
+      "avversario": "Wales",
+      "partite": 9,
+      "vittorie": 7,
+      "pareggi": 0,
+      "sconfitte": 2,
+      "gol_fatti": 21,
+      "gol_subiti": 5,
+      "prima_partita": "1965-05-01",
+      "ultima_partita": "2021-06-20"
+    },
+    {
+      "avversario": "Cyprus",
+      "partite": 8,
+      "vittorie": 7,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 22,
+      "gol_subiti": 5,
+      "prima_partita": "1967-03-22",
+      "ultima_partita": "2009-10-14"
+    },
+    {
+      "avversario": "Georgia",
+      "partite": 8,
+      "vittorie": 7,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 14,
+      "gol_subiti": 2,
+      "prima_partita": "1996-10-09",
+      "ultima_partita": "2009-09-05"
+    },
+    {
+      "avversario": "Lithuania",
+      "partite": 8,
+      "vittorie": 6,
+      "pareggi": 2,
+      "sconfitte": 0,
+      "gol_fatti": 19,
+      "gol_subiti": 1,
+      "prima_partita": "1995-04-26",
+      "ultima_partita": "2021-09-08"
+    },
+    {
+      "avversario": "Bosnia and Herzegovina",
+      "partite": 7,
+      "vittorie": 4,
+      "pareggi": 2,
+      "sconfitte": 1,
+      "gol_fatti": 11,
+      "gol_subiti": 5,
+      "prima_partita": "1996-11-06",
+      "ultima_partita": "2026-03-31"
+    },
+    {
+      "avversario": "Czech Republic",
+      "partite": 7,
+      "vittorie": 3,
+      "pareggi": 2,
+      "sconfitte": 2,
+      "gol_fatti": 11,
+      "gol_subiti": 6,
+      "prima_partita": "1996-06-14",
+      "ultima_partita": "2021-06-04"
+    },
+    {
+      "avversario": "Moldova",
+      "partite": 7,
+      "vittorie": 7,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 19,
+      "gol_subiti": 2,
+      "prima_partita": "1996-10-05",
+      "ultima_partita": "2025-11-13"
+    },
+    {
+      "avversario": "Slovenia",
+      "partite": 7,
+      "vittorie": 4,
+      "pareggi": 1,
+      "sconfitte": 2,
+      "gol_fatti": 5,
+      "gol_subiti": 3,
+      "prima_partita": "1994-09-07",
+      "ultima_partita": "2011-09-06"
+    },
+    {
+      "avversario": "Albania",
+      "partite": 5,
+      "vittorie": 5,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 9,
+      "gol_subiti": 2,
+      "prima_partita": "2014-11-18",
+      "ultima_partita": "2024-06-15"
+    },
+    {
+      "avversario": "Egypt",
+      "partite": 5,
+      "vittorie": 4,
+      "pareggi": 0,
+      "sconfitte": 1,
+      "gol_fatti": 20,
+      "gol_subiti": 7,
+      "prima_partita": "1920-08-28",
+      "ultima_partita": "2009-06-18"
+    },
+    {
+      "avversario": "North Macedonia",
+      "partite": 5,
+      "vittorie": 2,
+      "pareggi": 2,
+      "sconfitte": 1,
+      "gol_fatti": 10,
+      "gol_subiti": 7,
+      "prima_partita": "2016-10-09",
+      "ultima_partita": "2023-11-17"
+    },
+    {
+      "avversario": "Serbia",
+      "partite": 5,
+      "vittorie": 1,
+      "pareggi": 4,
+      "sconfitte": 0,
+      "gol_fatti": 7,
+      "gol_subiti": 4,
+      "prima_partita": "2002-10-12",
+      "ultima_partita": "2011-10-07"
+    },
+    {
+      "avversario": "Armenia",
+      "partite": 4,
+      "vittorie": 3,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 17,
+      "gol_subiti": 5,
+      "prima_partita": "2012-10-12",
+      "ultima_partita": "2019-11-18"
+    },
+    {
+      "avversario": "Azerbaijan",
+      "partite": 4,
+      "vittorie": 4,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 11,
+      "gol_subiti": 2,
+      "prima_partita": "2002-09-07",
+      "ultima_partita": "2015-10-10"
+    },
+    {
+      "avversario": "Belarus",
+      "partite": 4,
+      "vittorie": 2,
+      "pareggi": 2,
+      "sconfitte": 0,
+      "gol_fatti": 9,
+      "gol_subiti": 5,
+      "prima_partita": "1999-03-31",
+      "ultima_partita": "2005-09-07"
+    },
+    {
+      "avversario": "Faroe Islands",
+      "partite": 4,
+      "vittorie": 4,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 11,
+      "gol_subiti": 2,
+      "prima_partita": "2007-06-02",
+      "ultima_partita": "2011-09-02"
+    },
+    {
+      "avversario": "German DR",
+      "partite": 4,
+      "vittorie": 1,
+      "pareggi": 2,
+      "sconfitte": 1,
+      "gol_fatti": 5,
+      "gol_subiti": 3,
+      "prima_partita": "1969-03-29",
+      "ultima_partita": "1982-04-14"
+    },
+    {
+      "avversario": "Liechtenstein",
+      "partite": 4,
+      "vittorie": 4,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 20,
+      "gol_subiti": 0,
+      "prima_partita": "2016-11-12",
+      "ultima_partita": "2019-10-15"
+    },
+    {
+      "avversario": "San Marino",
+      "partite": 4,
+      "vittorie": 4,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 23,
+      "gol_subiti": 0,
+      "prima_partita": "1992-02-19",
+      "ultima_partita": "2021-05-28"
+    },
+    {
+      "avversario": "Cameroon",
+      "partite": 3,
+      "vittorie": 1,
+      "pareggi": 2,
+      "sconfitte": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 1,
+      "prima_partita": "1982-06-23",
+      "ultima_partita": "2010-03-03"
+    },
+    {
+      "avversario": "Chile",
+      "partite": 3,
+      "vittorie": 1,
+      "pareggi": 1,
+      "sconfitte": 1,
+      "gol_fatti": 4,
+      "gol_subiti": 4,
+      "prima_partita": "1962-06-02",
+      "ultima_partita": "1998-06-11"
+    },
+    {
+      "avversario": "Ecuador",
+      "partite": 3,
+      "vittorie": 2,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 5,
+      "gol_subiti": 1,
+      "prima_partita": "2002-06-03",
+      "ultima_partita": "2024-03-24"
+    },
+    {
+      "avversario": "Paraguay",
+      "partite": 3,
+      "vittorie": 2,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 6,
+      "gol_subiti": 2,
+      "prima_partita": "1950-07-02",
+      "ultima_partita": "2010-06-14"
+    },
+    {
+      "avversario": "Costa Rica",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 1,
+      "gol_fatti": 1,
+      "gol_subiti": 1,
+      "prima_partita": "1994-06-11",
+      "ultima_partita": "2014-06-20"
+    },
+    {
+      "avversario": "Haiti",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 5,
+      "gol_subiti": 3,
+      "prima_partita": "1974-06-15",
+      "ultima_partita": "2013-06-11"
+    },
+    {
+      "avversario": "Iceland",
+      "partite": 2,
+      "vittorie": 0,
+      "pareggi": 1,
+      "sconfitte": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 2,
+      "prima_partita": "2004-08-18",
+      "ultima_partita": "2005-03-30"
+    },
+    {
+      "avversario": "Ivory Coast",
+      "partite": 2,
+      "vittorie": 0,
+      "pareggi": 1,
+      "sconfitte": 1,
+      "gol_fatti": 1,
+      "gol_subiti": 2,
+      "prima_partita": "2005-11-16",
+      "ultima_partita": "2010-08-10"
+    },
+    {
+      "avversario": "Japan",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 5,
+      "gol_subiti": 4,
+      "prima_partita": "2001-11-07",
+      "ultima_partita": "2013-06-19"
+    },
+    {
+      "avversario": "Montenegro",
+      "partite": 2,
+      "vittorie": 2,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 1,
+      "prima_partita": "2008-10-15",
+      "ultima_partita": "2009-03-28"
+    },
+    {
+      "avversario": "New Zealand",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 5,
+      "gol_subiti": 4,
+      "prima_partita": "2009-06-10",
+      "ultima_partita": "2010-06-20"
+    },
+    {
+      "avversario": "Nigeria",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 3,
+      "prima_partita": "1994-07-05",
+      "ultima_partita": "2013-11-18"
+    },
+    {
+      "avversario": "Slovakia",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 1,
+      "gol_fatti": 5,
+      "gol_subiti": 3,
+      "prima_partita": "1998-01-28",
+      "ultima_partita": "2010-06-24"
+    },
+    {
+      "avversario": "South Africa",
+      "partite": 2,
+      "vittorie": 2,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 3,
+      "gol_subiti": 0,
+      "prima_partita": "2001-04-25",
+      "ultima_partita": "2007-10-17"
+    },
+    {
+      "avversario": "South Korea",
+      "partite": 2,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 1,
+      "gol_fatti": 4,
+      "gol_subiti": 4,
+      "prima_partita": "1986-06-10",
+      "ultima_partita": "2002-06-18"
+    },
+    {
+      "avversario": "Algeria",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "prima_partita": "1989-11-11",
+      "ultima_partita": "1989-11-11"
+    },
+    {
+      "avversario": "Australia",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "prima_partita": "2006-06-26",
+      "ultima_partita": "2006-06-26"
+    },
+    {
+      "avversario": "Canada",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 0,
+      "prima_partita": "1984-05-26",
+      "ultima_partita": "1984-05-26"
+    },
+    {
+      "avversario": "China",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 0,
+      "prima_partita": "1986-05-11",
+      "ultima_partita": "1986-05-11"
+    },
+    {
+      "avversario": "Ghana",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 0,
+      "prima_partita": "2006-06-12",
+      "ultima_partita": "2006-06-12"
+    },
+    {
+      "avversario": "Morocco",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 0,
+      "prima_partita": "2001-09-05",
+      "ultima_partita": "2001-09-05"
+    },
+    {
+      "avversario": "North Korea",
+      "partite": 1,
+      "vittorie": 0,
+      "pareggi": 0,
+      "sconfitte": 1,
+      "gol_fatti": 0,
+      "gol_subiti": 1,
+      "prima_partita": "1966-07-19",
+      "ultima_partita": "1966-07-19"
+    },
+    {
+      "avversario": "Peru",
+      "partite": 1,
+      "vittorie": 0,
+      "pareggi": 1,
+      "sconfitte": 0,
+      "gol_fatti": 1,
+      "gol_subiti": 1,
+      "prima_partita": "1982-06-18",
+      "ultima_partita": "1982-06-18"
+    },
+    {
+      "avversario": "Saudi Arabia",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 1,
+      "prima_partita": "2018-05-28",
+      "ultima_partita": "2018-05-28"
+    },
+    {
+      "avversario": "Tunisia",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 4,
+      "gol_subiti": 0,
+      "prima_partita": "2004-05-30",
+      "ultima_partita": "2004-05-30"
+    },
+    {
+      "avversario": "Venezuela",
+      "partite": 1,
+      "vittorie": 1,
+      "pareggi": 0,
+      "sconfitte": 0,
+      "gol_fatti": 2,
+      "gol_subiti": 1,
+      "prima_partita": "2024-03-21",
+      "ultima_partita": "2024-03-21"
+    }
+  ],
+  "meta": {
+    "title": "Nazionale di calcio dell'Italia — bilancio contro ogni avversario (81) - Download gratuito",
+    "description": "Nazionale di calcio dell'Italia: Bilancio complessivo contro ciascun avversario, calcolato da tutte le partite di results.csv: partite, vittorie, pareggi, sconfitte, gol fatti e subiti, prima e ultima partita. Esito in base al punteggio finale (senza rigori). Ordinato per numero di partite. Contiene 81 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Nazionale di calcio dell'Italia — bilancio contro ogni avversario (81) | ListBase",
+    "seo_description": "Scarica Nazionale di calcio dell'Italia — bilancio contro ogni avversario (81) — 81 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 81 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

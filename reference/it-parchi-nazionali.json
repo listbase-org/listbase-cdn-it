@@ -1,0 +1,304 @@
+{
+  "id": "it-parchi-nazionali",
+  "name": "Parchi nazionali in Italia",
+  "title": "Parchi nazionali in Italia",
+  "description": "Elenco dei parchi nazionali in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q70357996",
+      "name_it": "Lestra",
+      "name_en": "Lestra",
+      "latitude": 41.293386,
+      "longitude": 13.049503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70357996"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1438999",
+      "name_it": "Parco nazionale d'Abruzzo, Lazio e Molise",
+      "name_en": "Abruzzo, Lazio and Molise National Park",
+      "latitude": 41.808389,
+      "longitude": 13.786472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1438999"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1425191",
+      "name_it": "parco nazionale dei Monti Sibillini",
+      "name_en": "Sibillini Mountains National Park",
+      "latitude": 42.906,
+      "longitude": 13.195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1425191"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q867361",
+      "name_it": "Parco nazionale del Cilento, Vallo di Diano e Alburni",
+      "name_en": "Cilento, Vallo di Diano and Alburni National Park",
+      "latitude": 40.2,
+      "longitude": 15.2,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q867361"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q2738134",
+      "name_it": "parco nazionale del Circeo",
+      "name_en": "Circeo National Park",
+      "latitude": 41.235,
+      "longitude": 13.064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2738134"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q382227",
+      "name_it": "parco nazionale del Gargano",
+      "name_en": "Gargano National Park",
+      "latitude": 41.806111,
+      "longitude": 15.925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q382227"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1425154",
+      "name_it": "parco nazionale del Golfo di Orosei e del Gennargentu",
+      "name_en": "Gennargentu National Park",
+      "latitude": 39.989722,
+      "longitude": 9.324722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1425154"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q847690",
+      "name_it": "parco nazionale del Gran Paradiso",
+      "name_en": "Gran Paradiso National Park",
+      "latitude": 45.502778,
+      "longitude": 7.31,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q847690"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1027914",
+      "name_it": "parco nazionale del Gran Sasso e Monti della Laga",
+      "name_en": "Gran Sasso e Monti della Laga National Park",
+      "latitude": 42.490652,
+      "longitude": 13.495237,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1027914"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3895739",
+      "name_it": "parco nazionale del Matese",
+      "name_en": "Matese National Park",
+      "latitude": 41.3814,
+      "longitude": 14.4069,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895739"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1072838",
+      "name_it": "parco nazionale del Pollino",
+      "name_en": "Pollino National Park",
+      "latitude": 39.931111,
+      "longitude": 16.126111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1072838"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q635414",
+      "name_it": "parco nazionale del Vesuvio",
+      "name_en": "Vesuvius National Park",
+      "latitude": 40.817,
+      "longitude": 14.427,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q635414"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q680313",
+      "name_it": "parco nazionale dell'Alta Murgia",
+      "name_en": "Alta Murgia National Park",
+      "latitude": 40.99,
+      "longitude": 16.37,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q680313"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1325310",
+      "name_it": "parco nazionale dell'Appennino Lucano-Val d'Agri-Lagonegrese",
+      "name_en": "Appennino Lucano - Val d'Agri - Lagonegrese National Park",
+      "latitude": 40.34,
+      "longitude": 15.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1325310"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1761032",
+      "name_it": "parco nazionale dell'Appennino Tosco-Emiliano",
+      "name_en": "Appennino Tosco-Emiliano National Park",
+      "latitude": 44.318333,
+      "longitude": 10.240556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1761032"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q536703",
+      "name_it": "Parco nazionale dell'arcipelago di La Maddalena",
+      "name_en": "Arcipelago di La Maddalena National Park",
+      "latitude": 41.245805,
+      "longitude": 9.41185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q536703"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1111568",
+      "name_it": "parco nazionale dell'Arcipelago Toscano",
+      "name_en": "Arcipelago Toscano National Park",
+      "latitude": 42.824947,
+      "longitude": 10.268736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1111568"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q1091068",
+      "name_it": "parco nazionale dell'Asinara",
+      "name_en": "Asinara National Park",
+      "latitude": 41.058,
+      "longitude": 8.276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1091068"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q778921",
+      "name_it": "parco nazionale dell'Aspromonte",
+      "name_en": "Aspromonte National Park",
+      "latitude": 38.17,
+      "longitude": 15.99,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q778921"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q26736078",
+      "name_it": "parco nazionale dell'Isola di Pantelleria",
+      "name_en": "Pantelleria National Park",
+      "latitude": 36.790833,
+      "longitude": 11.993889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26736078"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3895697",
+      "name_it": "Parco nazionale della Calabria",
+      "name_en": "",
+      "latitude": 39.142308,
+      "longitude": 16.648877,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3895697"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1085735",
+      "name_it": "Parco nazionale della Maiella",
+      "name_en": "Maiella National Park",
+      "latitude": 42.081944,
+      "longitude": 14.06,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1085735"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1091298",
+      "name_it": "parco nazionale della Sila",
+      "name_en": "Sila National Park",
+      "latitude": 39.376111,
+      "longitude": 16.591944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1091298"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q358729",
+      "name_it": "parco nazionale della Val Grande",
+      "name_en": "Val Grande National Park",
+      "latitude": 46.029167,
+      "longitude": 8.459444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q358729"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1886487",
+      "name_it": "parco nazionale delle Cinque Terre",
+      "name_en": "Cinque Terre National Park",
+      "latitude": 44.1,
+      "longitude": 9.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1886487"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1787671",
+      "name_it": "parco nazionale delle Foreste Casentinesi, Monte Falterona e Campigna",
+      "name_en": "Foreste Casentinesi, Monte Falterona, Campigna National Park",
+      "latitude": 43.843333,
+      "longitude": 11.791111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1787671"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1891711",
+      "name_it": "Parco nazionale dello Stelvio",
+      "name_en": "Stelvio National Park",
+      "latitude": 46.466,
+      "longitude": 10.506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1891711"
+    }
+  ],
+  "meta": {
+    "title": "Parchi nazionali in Italia - Download gratuito",
+    "description": "Elenco dei parchi nazionali in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 27 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Parchi nazionali in Italia | ListBase",
+    "seo_description": "Scarica Parchi nazionali in Italia — 27 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 27 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

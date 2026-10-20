@@ -1,0 +1,408 @@
+{
+  "id": "it-isernia-unlocode",
+  "name": "Codici UN/LOCODE — provincia di Isernia (IS)",
+  "title": "Codici UN/LOCODE — provincia di Isernia (IS)",
+  "description": "Codici UN/LOCODE della provincia di Isernia (IS), regione Molise: 9 località con codice LOCODE, nome (con e senza segni diacritici), classificatori di funzione (porto marittimo, ferrovia, strada, aeroporto, posta, multimodale), stato di approvazione, codice IATA e coordinate. UN/LOCODE entries for the province of Isernia (IS), Molise region — 9 locations, derived from the UNECE United Nations Code for Trade and Transport Locations. Province assignment is taken verbatim from UN/LOCODE's own Subdivision column (the Italian provincia sigla); no geographic inference was applied.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 151,
+      "locode": "ITADI",
+      "country": "IT",
+      "location": "ADI",
+      "name": "Macchia d'Isernia",
+      "name_wo_diacritics": "Macchia d'Isernia",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4134N 01410E",
+      "latitude": 41.5667,
+      "longitude": 14.1667,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 2,
+      "parent_index": 1286,
+      "locode": "ITCT2",
+      "country": "IT",
+      "location": "CT2",
+      "name": "Capracotta",
+      "name_wo_diacritics": "Capracotta",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4150N 01415E",
+      "latitude": 41.8333,
+      "longitude": 14.25,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 3,
+      "parent_index": 1525,
+      "locode": "ITEDM",
+      "country": "IT",
+      "location": "EDM",
+      "name": "Sessano del Molise",
+      "name_wo_diacritics": "Sessano del Molise",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4138N 01420E",
+      "latitude": 41.6333,
+      "longitude": 14.3333,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 4,
+      "parent_index": 1540,
+      "locode": "ITELC",
+      "country": "IT",
+      "location": "ELC",
+      "name": "Pescolanciano",
+      "name_wo_diacritics": "Pescolanciano",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4141N 01420E",
+      "latitude": 41.6833,
+      "longitude": 14.3333,
+      "date_updated": "2013-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 5,
+      "parent_index": 2153,
+      "locode": "ITISE",
+      "country": "IT",
+      "location": "ISE",
+      "name": "Isernia",
+      "name_wo_diacritics": "Isernia",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4135N 01418E",
+      "latitude": 41.5833,
+      "longitude": 14.3,
+      "date_updated": "2002-12",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 6,
+      "parent_index": 4264,
+      "locode": "ITSN4",
+      "country": "IT",
+      "location": "SN4",
+      "name": "Sant'Elena Sannita",
+      "name_wo_diacritics": "Sant'Elena Sannita",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4134N 01428E",
+      "latitude": 41.5667,
+      "longitude": 14.4667,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 7,
+      "parent_index": 5015,
+      "locode": "ITVNF",
+      "country": "IT",
+      "location": "VNF",
+      "name": "Venafro",
+      "name_wo_diacritics": "Venafro",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4129N 01402E",
+      "latitude": 41.4833,
+      "longitude": 14.0333,
+      "date_updated": "2005-07",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 8,
+      "parent_index": 5576,
+      "locode": "ITZPQ",
+      "country": "IT",
+      "location": "ZPQ",
+      "name": "Pettoranello",
+      "name_wo_diacritics": "Pettoranello",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4134N 01417E",
+      "latitude": 41.5667,
+      "longitude": 14.2833,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    },
+    {
+      "id": 9,
+      "parent_index": 5794,
+      "locode": "ITZZI",
+      "country": "IT",
+      "location": "ZZI",
+      "name": "Pozzilli",
+      "name_wo_diacritics": "Pozzilli",
+      "subdivision_code": "IS",
+      "subdivision_name": "Isernia",
+      "subdivision_type": "Province",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4130N 01403E",
+      "latitude": 41.5,
+      "longitude": 14.05,
+      "date_updated": "2018-01",
+      "remarks": "",
+      "provincia_sigla": "IS",
+      "provincia_nome": "Isernia",
+      "provincia_slug": "isernia",
+      "citta_metropolitana": false,
+      "regione_nome": "Molise",
+      "regione_slug": "molise"
+    }
+  ],
+  "meta": {
+    "title": "Codici UN/LOCODE — provincia di Isernia (IS) - Download gratuito",
+    "description": "Codici UN/LOCODE della provincia di Isernia (IS), regione Molise: 9 località con codice LOCODE, nome (con e senza segni diacritici), classificatori di funzione (porto marittimo, ferrovia, strada, aeroporto, posta, multimodale), stato di approvazione, codice IATA e coordinate. UN/LOCODE entries for the province of Isernia (IS), Molise region — 9 locations, derived from the UNECE United Nations Code for Trade and Transport Locations. Province assignment is taken verbatim from UN/LOCODE's own Subdivision column (the Italian provincia sigla); no geographic inference was applied. Contiene 9 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Codici UN/LOCODE — provincia di Isernia (IS) | ListBase",
+    "seo_description": "Scarica Codici UN/LOCODE — provincia di Isernia (IS) — 9 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 record / 26 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "it-nomi",
+  "name": "It Nomi",
+  "title": "It Nomi",
+  "description": "Top-10 nomi femminili e top-10 maschili in Italia (2021)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-IT-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Sofia",
+      "romanized": "Sofia",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Aurora",
+      "romanized": "Aurora",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Giulia",
+      "romanized": "Giulia",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Ginevra",
+      "romanized": "Ginevra",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Beatrice",
+      "romanized": "Beatrice",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Alice",
+      "romanized": "Alice",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Vittoria",
+      "romanized": "Vittoria",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Emma",
+      "romanized": "Emma",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Ludovica",
+      "romanized": "Ludovica",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Matilde",
+      "romanized": "Matilde",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Leonardo",
+      "romanized": "Leonardo",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Alessandro",
+      "romanized": "Alessandro",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Tommaso",
+      "romanized": "Tommaso",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Francesco",
+      "romanized": "Francesco",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Lorenzo",
+      "romanized": "Lorenzo",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Edoardo",
+      "romanized": "Edoardo",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Mattia",
+      "romanized": "Mattia",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Riccardo",
+      "romanized": "Riccardo",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Gabriele",
+      "romanized": "Gabriele",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IT-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Andrea",
+      "romanized": "Andrea",
+      "year": 2021
+    }
+  ],
+  "meta": {
+    "title": "It Nomi - Download gratuito",
+    "description": "Top-10 nomi femminili e top-10 maschili in Italia (2021) Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "It Nomi | ListBase",
+    "seo_description": "Scarica It Nomi — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 6 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

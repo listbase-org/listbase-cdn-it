@@ -1,0 +1,8 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"25","Belluno","belluno","BL","false","5","Veneto","veneto","61"
+"28","Padova","padova","PD","false","5","Veneto","veneto","102"
+"29","Rovigo","rovigo","RO","false","5","Veneto","veneto","50"
+"26","Treviso","treviso","TV","false","5","Veneto","veneto","94"
+"227","Venezia","venezia","VE","true","5","Veneto","veneto","44"
+"24","Vicenza","vicenza","VI","false","5","Veneto","veneto","114"
+"23","Verona","verona","VR","false","5","Veneto","veneto","98"

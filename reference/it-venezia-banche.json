@@ -1,0 +1,737 @@
+{
+  "id": "it-venezia-banche",
+  "name": "Banche a Venezia — codici SWIFT/BIC",
+  "title": "Banche a Venezia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Venezia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 239,
+      "bank": "AZIENDA VENEZIANA DELLA MOBILITA' SPA",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "AZVMIT21"
+    },
+    {
+      "id": 1386,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VENEZIA",
+      "branch": "(AG. NO 417 AG VENEZIA 1)",
+      "swift_code": "ANTBIT21417"
+    },
+    {
+      "id": 1387,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VENEZIA",
+      "branch": "(AG. NO 418 AG VENEZIA 2)",
+      "swift_code": "ANTBIT21418"
+    },
+    {
+      "id": 1388,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VENEZIA",
+      "branch": "(AG. NO 419 AG VENEZIA 3)",
+      "swift_code": "ANTBIT21419"
+    },
+    {
+      "id": 1389,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - AG. 4)",
+      "swift_code": "ANTBIT21C29"
+    },
+    {
+      "id": 1730,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(AGENZIA 1 - VENEZIA)",
+      "swift_code": "CRGEITG1741"
+    },
+    {
+      "id": 1731,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(AGENZIA 2 - VENEZIA)",
+      "swift_code": "CRGEITG1742"
+    },
+    {
+      "id": 1732,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(AGENZIA 3 - VENEZIA)",
+      "swift_code": "CRGEITG1743"
+    },
+    {
+      "id": 1733,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(AGENZIA 5 - VENEZIA)",
+      "swift_code": "CRGEITG1745"
+    },
+    {
+      "id": 1734,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(SEDE DI VENEZIA)",
+      "swift_code": "CRGEITG1740"
+    },
+    {
+      "id": 3733,
+      "bank": "BANCA D'ITALIA",
+      "city": "VENEZIA",
+      "branch": "(SEDE DI VENEZIA)",
+      "swift_code": "BITAITR1224"
+    },
+    {
+      "id": 3800,
+      "bank": "BANCA IFIS S.P.A. (FORMERLY INTERBANCA S.P.A.)",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "IBFIITMM"
+    },
+    {
+      "id": 3836,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "BIMTITT1021"
+    },
+    {
+      "id": 6434,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE - AG. 1)",
+      "swift_code": "PASCITM1108"
+    },
+    {
+      "id": 6435,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE - AG. 2)",
+      "swift_code": "PASCITM1291"
+    },
+    {
+      "id": 6436,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE - AG. 3)",
+      "swift_code": "PASCITM153V"
+    },
+    {
+      "id": 6437,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE - AG. 5)",
+      "swift_code": "PASCITM1391"
+    },
+    {
+      "id": 6438,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE PIAZZA FERRETTO)",
+      "swift_code": "PASCITM1MST"
+    },
+    {
+      "id": 6439,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - AEROPORTO MARCO POLO)",
+      "swift_code": "PASCITM1AMP"
+    },
+    {
+      "id": 6440,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - AG. 1)",
+      "swift_code": "PASCITM11VE"
+    },
+    {
+      "id": 6441,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - AG. 2)",
+      "swift_code": "PASCITM12VE"
+    },
+    {
+      "id": 6442,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - AG. 3)",
+      "swift_code": "PASCITM13VE"
+    },
+    {
+      "id": 6443,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "PASCITMMVNZ"
+    },
+    {
+      "id": 7182,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(AGENZIA 1 ACCADEMIA)",
+      "swift_code": "BNLIITR1EWZ"
+    },
+    {
+      "id": 7183,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "BNLIITRRVEX"
+    },
+    {
+      "id": 7579,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "VENEZIA",
+      "branch": "(FILIALE VENEZIA-CAMPO SS APOSTOLI)",
+      "swift_code": "BPAAIT2B139"
+    },
+    {
+      "id": 7580,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "VENEZIA",
+      "branch": "(MARGHERA/VENEZIA)",
+      "swift_code": "BPAAIT2B130"
+    },
+    {
+      "id": 11306,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - BURANO)",
+      "swift_code": "BAPPIT21279"
+    },
+    {
+      "id": 11307,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - GIUDECCA)",
+      "swift_code": "BAPPIT21712"
+    },
+    {
+      "id": 11308,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - LIDO AG. 2)",
+      "swift_code": "BAPPIT21736"
+    },
+    {
+      "id": 11309,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - LIDO)",
+      "swift_code": "BAPPIT21716"
+    },
+    {
+      "id": 11310,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MARGHERA)",
+      "swift_code": "BAPPIT21606"
+    },
+    {
+      "id": 11311,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MESTRE AG. 3)",
+      "swift_code": "BAPPIT21715"
+    },
+    {
+      "id": 11312,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MESTRE)",
+      "swift_code": "BAPPIT21035"
+    },
+    {
+      "id": 11313,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MURANO)",
+      "swift_code": "BAPPIT21337"
+    },
+    {
+      "id": 11314,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 1)",
+      "swift_code": "BAPPIT21049"
+    },
+    {
+      "id": 11315,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 10)",
+      "swift_code": "BAPPIT21603"
+    },
+    {
+      "id": 11316,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 11)",
+      "swift_code": "BAPPIT21732"
+    },
+    {
+      "id": 11317,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 12)",
+      "swift_code": "BAPPIT21709"
+    },
+    {
+      "id": 11318,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 13)",
+      "swift_code": "BAPPIT21710"
+    },
+    {
+      "id": 11319,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 14)",
+      "swift_code": "BAPPIT21702"
+    },
+    {
+      "id": 11320,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 15)",
+      "swift_code": "BAPPIT21339"
+    },
+    {
+      "id": 11321,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 16)",
+      "swift_code": "BAPPIT21308"
+    },
+    {
+      "id": 11322,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 2)",
+      "swift_code": "BAPPIT21730"
+    },
+    {
+      "id": 11323,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 3)",
+      "swift_code": "BAPPIT21342"
+    },
+    {
+      "id": 11324,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 4)",
+      "swift_code": "BAPPIT21711"
+    },
+    {
+      "id": 11325,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 5)",
+      "swift_code": "BAPPIT21733"
+    },
+    {
+      "id": 11326,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 6)",
+      "swift_code": "BAPPIT21704"
+    },
+    {
+      "id": 11327,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 7)",
+      "swift_code": "BAPPIT21341"
+    },
+    {
+      "id": 11328,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 8)",
+      "swift_code": "BAPPIT21720"
+    },
+    {
+      "id": 11329,
+      "bank": "BANCO BPM SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AG. 9)",
+      "swift_code": "BAPPIT21311"
+    },
+    {
+      "id": 11960,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "VENEZIA",
+      "branch": "(DC OP BACK OFFICE MESTRE)",
+      "swift_code": "IBSPITNA454"
+    },
+    {
+      "id": 13500,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(BACK OFFICE RETE MESTRE)",
+      "swift_code": "CRFIIT3F780"
+    },
+    {
+      "id": 14814,
+      "bank": "COMUNE DI VENEZIA",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "CMNZIT31"
+    },
+    {
+      "id": 15162,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(CA'SAVIO - VIA CONCORDIA 38/A)",
+      "swift_code": "BPPNIT2P087"
+    },
+    {
+      "id": 15163,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - BURANO)",
+      "swift_code": "BPPNIT2P316"
+    },
+    {
+      "id": 15164,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - CAMPO S. BARTOLOMEO)",
+      "swift_code": "BPPNIT2P327"
+    },
+    {
+      "id": 15165,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - FAVARO VENETO)",
+      "swift_code": "BPPNIT2P319"
+    },
+    {
+      "id": 15166,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MARGHERA)",
+      "swift_code": "BPPNIT2P310"
+    },
+    {
+      "id": 15167,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MESTRE - VIA PEPE)",
+      "swift_code": "BPPNIT2P325"
+    },
+    {
+      "id": 15168,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - MESTRE - VIA PIAVE)",
+      "swift_code": "BPPNIT2P328"
+    },
+    {
+      "id": 15169,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - S.MARIA ELISABETTA)",
+      "swift_code": "BPPNIT2P323"
+    },
+    {
+      "id": 15170,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - SAN MARCO 1126)",
+      "swift_code": "BPPNIT2P326"
+    },
+    {
+      "id": 15171,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA - ZELARINO)",
+      "swift_code": "BPPNIT2P313"
+    },
+    {
+      "id": 15531,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(MESTRE AG. 2)",
+      "swift_code": "BACRIT21173"
+    },
+    {
+      "id": 15532,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA)",
+      "swift_code": "BACRIT21307"
+    },
+    {
+      "id": 16515,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "DEUTITM1790"
+    },
+    {
+      "id": 17705,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VENEZIA",
+      "branch": "(08780 DC SO BACK OFFICE RETE MESTRE)",
+      "swift_code": "BCITITMM454"
+    },
+    {
+      "id": 17706,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VENEZIA",
+      "branch": "(BACK OFFICE DI RETE - POLO DI MESTRE (8010))",
+      "swift_code": "BCITITMM192"
+    },
+    {
+      "id": 17707,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VENEZIA",
+      "branch": "(BRANCH 3 - PIAZZA SAN MARCO 79/A)",
+      "swift_code": "BCITITM1903"
+    },
+    {
+      "id": 17708,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VENEZIA",
+      "branch": "(FILIALE IMPRESE VENEZIA)",
+      "swift_code": "BCITITMM898"
+    },
+    {
+      "id": 17709,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VENEZIA",
+      "branch": "(TRADING BANCONOTE)",
+      "swift_code": "BCITITMMZ03"
+    },
+    {
+      "id": 18093,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VENEZIA",
+      "branch": "(AREA VENEZIA)",
+      "swift_code": "BPVIIT22A19"
+    },
+    {
+      "id": 18094,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VENEZIA",
+      "branch": "(RIALTO BRANCH)",
+      "swift_code": "BPVIIT21126"
+    },
+    {
+      "id": 18095,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VENEZIA",
+      "branch": "(SAN MARCO)",
+      "swift_code": "BPVIIT21157"
+    },
+    {
+      "id": 18096,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "BPVIIT21250"
+    },
+    {
+      "id": 18411,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VENEZIA",
+      "branch": "(FILIALE DI VENEZIA - DORSODURO)",
+      "swift_code": "VEBHIT21184"
+    },
+    {
+      "id": 18412,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VENEZIA",
+      "branch": "(FILIALE DI VENEZIA)",
+      "swift_code": "VEBHIT21084"
+    },
+    {
+      "id": 18607,
+      "bank": "LIGABUE SPA",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "LIGBIT21"
+    },
+    {
+      "id": 18694,
+      "bank": "MEDIOVENEZIE BANCA S.P.A.",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "MEDVIT21"
+    },
+    {
+      "id": 19010,
+      "bank": "PROVINCIA DI VENEZIA",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "PRVZIT21"
+    },
+    {
+      "id": 19248,
+      "bank": "REGIONE VENETO",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "REVEIT21"
+    },
+    {
+      "id": 19377,
+      "bank": "SAVE SPA",
+      "city": "VENEZIA",
+      "branch": "",
+      "swift_code": "SVVEIT21"
+    },
+    {
+      "id": 21168,
+      "bank": "UBI BANCA SPA",
+      "city": "VENEZIA",
+      "branch": "(FILIALE DI MESTRE)",
+      "swift_code": "BLOPIT22172"
+    },
+    {
+      "id": 25736,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(MESTRE)",
+      "swift_code": "UNCRITM1O21"
+    },
+    {
+      "id": 25737,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA AEROPORTO MARCO POLO)",
+      "swift_code": "UNCRITM131Z"
+    },
+    {
+      "id": 25738,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA CANNAREGIO)",
+      "swift_code": "UNCRITM1S12"
+    },
+    {
+      "id": 25739,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA DEI MURAZZI)",
+      "swift_code": "UNCRITM1VF7"
+    },
+    {
+      "id": 25740,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA DORSODURO SAN PANTALON)",
+      "swift_code": "UNCRITM1VF6"
+    },
+    {
+      "id": 25741,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA DORSODURO ZATTERE)",
+      "swift_code": "UNCRITM1S08"
+    },
+    {
+      "id": 25742,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA FORTE MARGHERA)",
+      "swift_code": "UNCRITM1V48"
+    },
+    {
+      "id": 25743,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA LIDO)",
+      "swift_code": "UNCRITM1VF4"
+    },
+    {
+      "id": 25744,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA MARGHERA FINCANTIERI)",
+      "swift_code": "UNCRITM123Z"
+    },
+    {
+      "id": 25745,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA MERCERIE DELL'OROLOGIO)",
+      "swift_code": "UNCRITM1VF2"
+    },
+    {
+      "id": 25746,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA S.MARCO)",
+      "swift_code": "UNCRITM1UQ1"
+    },
+    {
+      "id": 25747,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA S.SALVADOR)",
+      "swift_code": "UNCRITM1904"
+    },
+    {
+      "id": 25748,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA SAN POLO)",
+      "swift_code": "UNCRITM1VF3"
+    },
+    {
+      "id": 25749,
+      "bank": "UNICREDIT SPA",
+      "city": "VENEZIA",
+      "branch": "(VENEZIA)",
+      "swift_code": "UNCRITM1Y59"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Venezia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Venezia, Italy Contiene 98 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Venezia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Venezia — codici SWIFT/BIC — 98 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 98 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

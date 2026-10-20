@@ -1,0 +1,429 @@
+{
+  "id": "it-taranto-banche",
+  "name": "Banche a Taranto — codici SWIFT/BIC",
+  "title": "Banche a Taranto — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Taranto, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1293,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21813"
+    },
+    {
+      "id": 1294,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "ANTBIT21814"
+    },
+    {
+      "id": 1295,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "ANTBIT21810"
+    },
+    {
+      "id": 1709,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO)",
+      "swift_code": "CRGEITG1599"
+    },
+    {
+      "id": 3564,
+      "bank": "BANCA DI TARANTO CREDITO COOPERATIVO",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "ICRAITR1U71"
+    },
+    {
+      "id": 3565,
+      "bank": "BANCA DI TARANTO CREDITO COOPERATIVO",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "ICRAITRRU70"
+    },
+    {
+      "id": 3723,
+      "bank": "BANCA D'ITALIA",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO)",
+      "swift_code": "BITAITR1434"
+    },
+    {
+      "id": 6263,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "(TARANTO AG. 10)",
+      "swift_code": "PASCITM1814"
+    },
+    {
+      "id": 6264,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "(TARANTO AG. 11)",
+      "swift_code": "PASCITM1816"
+    },
+    {
+      "id": 6265,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "(TARANTO AG. 8)",
+      "swift_code": "PASCITM1810"
+    },
+    {
+      "id": 6266,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "(TARANTO AG. 9)",
+      "swift_code": "PASCITM1813"
+    },
+    {
+      "id": 6267,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TA1"
+    },
+    {
+      "id": 6268,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TA2"
+    },
+    {
+      "id": 6269,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TA3"
+    },
+    {
+      "id": 6270,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TA4"
+    },
+    {
+      "id": 6271,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TAA"
+    },
+    {
+      "id": 6272,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITM1TAZ"
+    },
+    {
+      "id": 6273,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PASCITMMTAR"
+    },
+    {
+      "id": 7129,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1DNZ"
+    },
+    {
+      "id": 7130,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1DOZ"
+    },
+    {
+      "id": 7131,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR1DPZ"
+    },
+    {
+      "id": 7132,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 5 - LAMA)",
+      "swift_code": "BNLIITR1DQZ"
+    },
+    {
+      "id": 7133,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(AGENZIA CORTE APPOLLO LE)",
+      "swift_code": "BNLIITR1DRZ"
+    },
+    {
+      "id": 7134,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "BNLIITRRTAX"
+    },
+    {
+      "id": 7873,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO)",
+      "swift_code": "BPBAIT21088"
+    },
+    {
+      "id": 8695,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 2 DI TARANTO - CORSO ITALIA)",
+      "swift_code": "BPDMIT31184"
+    },
+    {
+      "id": 8696,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 3 DI TARANTO - TALSANO)",
+      "swift_code": "BPDMIT31185"
+    },
+    {
+      "id": 8697,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 4 DI TARANTO - TAMBURI)",
+      "swift_code": "BPDMIT31186"
+    },
+    {
+      "id": 8698,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 5 DI TARANTO - VIA BATTISTI)",
+      "swift_code": "BPDMIT31187"
+    },
+    {
+      "id": 8699,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(AGENZIA 6 DI TARANTO)",
+      "swift_code": "BPDMIT31188"
+    },
+    {
+      "id": 8700,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TARANTO",
+      "branch": "(SEDE DI TARANTO)",
+      "swift_code": "BPDMIT31182"
+    },
+    {
+      "id": 9253,
+      "bank": "BANCA POPOLARE PUGLIESE",
+      "city": "TARANTO",
+      "branch": "(TARANTO - AGENZIA VIA C. GIOVINAZZI)",
+      "swift_code": "BPPUIT31042"
+    },
+    {
+      "id": 9254,
+      "bank": "BANCA POPOLARE PUGLIESE",
+      "city": "TARANTO",
+      "branch": "(TARANTO - FILIALE VIA DANTE)",
+      "swift_code": "BPPUIT31062"
+    },
+    {
+      "id": 9659,
+      "bank": "BANCAPULIA SPA",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO)",
+      "swift_code": "APULIT31025"
+    },
+    {
+      "id": 9660,
+      "bank": "BANCAPULIA SPA",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO)",
+      "swift_code": "APULIT31150"
+    },
+    {
+      "id": 11949,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TARANTO",
+      "branch": "(FILIALE IMPRESE TARANTO)",
+      "swift_code": "IBSPITNA430"
+    },
+    {
+      "id": 11950,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO - PIAZZA FONTANA 41)",
+      "swift_code": "IBSPITNA508"
+    },
+    {
+      "id": 11951,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO - VIALE MAGNA GRECIA 318/320)",
+      "swift_code": "IBSPITNA083"
+    },
+    {
+      "id": 15507,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TARANTO",
+      "branch": "(TARANTO AG. 2)",
+      "swift_code": "BACRIT21608"
+    },
+    {
+      "id": 15508,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "BACRIT21557"
+    },
+    {
+      "id": 16487,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "DEUTITM1710"
+    },
+    {
+      "id": 19004,
+      "bank": "PROVINCIA DI TARANTO",
+      "city": "TARANTO",
+      "branch": "",
+      "swift_code": "PRRNIT31"
+    },
+    {
+      "id": 21084,
+      "bank": "UBI BANCA SPA",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO AGENZIA 1)",
+      "swift_code": "BLOPIT2269B"
+    },
+    {
+      "id": 21085,
+      "bank": "UBI BANCA SPA",
+      "city": "TARANTO",
+      "branch": "(FILIALE DI TARANTO AGENZIA CENTRALE)",
+      "swift_code": "BLOPIT2268A"
+    },
+    {
+      "id": 21411,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "TARANTO",
+      "branch": "(AGENZIA CENTRALE DI TARANTO)",
+      "swift_code": "CARMIT31401"
+    },
+    {
+      "id": 21412,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "TARANTO",
+      "branch": "(TARANTO - AG. 1)",
+      "swift_code": "CARMIT31402"
+    },
+    {
+      "id": 25445,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO AGIP)",
+      "swift_code": "UNCRITM1Z98"
+    },
+    {
+      "id": 25446,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO BATTISTI)",
+      "swift_code": "UNCRITM1H53"
+    },
+    {
+      "id": 25447,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO MAGNA GRECIA)",
+      "swift_code": "UNCRITM1TS7"
+    },
+    {
+      "id": 25448,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO MARGHERITA)",
+      "swift_code": "UNCRITM1H50"
+    },
+    {
+      "id": 25449,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO ORSINI)",
+      "swift_code": "UNCRITM1L58"
+    },
+    {
+      "id": 25450,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO VIA CAMPANIA)",
+      "swift_code": "UNCRITM145F"
+    },
+    {
+      "id": 25451,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO VIA MARCHE)",
+      "swift_code": "UNCRITM1H52"
+    },
+    {
+      "id": 25452,
+      "bank": "UNICREDIT SPA",
+      "city": "TARANTO",
+      "branch": "(TARANTO)",
+      "swift_code": "UNCRITM180Y"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Taranto — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Taranto, Italy Contiene 54 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Taranto — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Taranto — codici SWIFT/BIC — 54 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 54 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

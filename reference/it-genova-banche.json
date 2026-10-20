@@ -1,0 +1,2102 @@
+{
+  "id": "it-genova-banche",
+  "name": "Banche a Genova — codici SWIFT/BIC",
+  "title": "Banche a Genova — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Genova, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 293,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 117,
+      "bank": "ALMO NATURE S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ALMOITGG"
+    },
+    {
+      "id": 144,
+      "bank": "ANSALDO STS SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "AATTITG1"
+    },
+    {
+      "id": 165,
+      "bank": "ARGO MORTGAGE 2 S.R.L.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ARORITG1"
+    },
+    {
+      "id": 184,
+      "bank": "ASPERA SOCIETA PER AZIONI",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ASSZIT21"
+    },
+    {
+      "id": 736,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AG. NO 407)",
+      "swift_code": "ANTBIT21407"
+    },
+    {
+      "id": 737,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AG. NO 410 AG GENOVA 1)",
+      "swift_code": "ANTBIT21410"
+    },
+    {
+      "id": 738,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AG. NO 414 AG GENOVA 2)",
+      "swift_code": "ANTBIT21414"
+    },
+    {
+      "id": 739,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "ANTBIT21661"
+    },
+    {
+      "id": 740,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "ANTBIT21666"
+    },
+    {
+      "id": 741,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "ANTBIT21667"
+    },
+    {
+      "id": 742,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "ANTBIT21675"
+    },
+    {
+      "id": 1569,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "GENOVA",
+      "branch": "(DIP.CONTO ON LINE)",
+      "swift_code": "CRGEITG1794"
+    },
+    {
+      "id": 1817,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 74 - GENOVA)",
+      "swift_code": "CRGEITG1424"
+    },
+    {
+      "id": 1818,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(ANSALDO BRANCH)",
+      "swift_code": "CRGEITGG137"
+    },
+    {
+      "id": 1819,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BACK-OFFICE ESTERO, TEAM 1)",
+      "swift_code": "CRGEITGG931"
+    },
+    {
+      "id": 1820,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BACK-OFFICE ESTERO, TEAM 2)",
+      "swift_code": "CRGEITGG932"
+    },
+    {
+      "id": 1821,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BACK-OFFICE ESTERO, TEAM 3)",
+      "swift_code": "CRGEITGG933"
+    },
+    {
+      "id": 1822,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 15)",
+      "swift_code": "CRGEITGG115"
+    },
+    {
+      "id": 1823,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 37)",
+      "swift_code": "CRGEITGG447"
+    },
+    {
+      "id": 1824,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 40)",
+      "swift_code": "CRGEITGG139"
+    },
+    {
+      "id": 1825,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 44)",
+      "swift_code": "CRGEITGG091"
+    },
+    {
+      "id": 1826,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 45)",
+      "swift_code": "CRGEITGG445"
+    },
+    {
+      "id": 1827,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 55)",
+      "swift_code": "CRGEITGG448"
+    },
+    {
+      "id": 1828,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 56)",
+      "swift_code": "CRGEITGG084"
+    },
+    {
+      "id": 1829,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 62)",
+      "swift_code": "CRGEITGG441"
+    },
+    {
+      "id": 1830,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 63)",
+      "swift_code": "CRGEITGG444"
+    },
+    {
+      "id": 1831,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 64)",
+      "swift_code": "CRGEITGG437"
+    },
+    {
+      "id": 1832,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 66)",
+      "swift_code": "CRGEITGG436"
+    },
+    {
+      "id": 1833,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 67)",
+      "swift_code": "CRGEITGG438"
+    },
+    {
+      "id": 1834,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 68)",
+      "swift_code": "CRGEITGG428"
+    },
+    {
+      "id": 1835,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 69)",
+      "swift_code": "CRGEITGG429"
+    },
+    {
+      "id": 1836,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 70)",
+      "swift_code": "CRGEITGG430"
+    },
+    {
+      "id": 1837,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 71)",
+      "swift_code": "CRGEITGG431"
+    },
+    {
+      "id": 1838,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 72)",
+      "swift_code": "CRGEITGG432"
+    },
+    {
+      "id": 1839,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 73)",
+      "swift_code": "CRGEITGG433"
+    },
+    {
+      "id": 1840,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 76)",
+      "swift_code": "CRGEITGG426"
+    },
+    {
+      "id": 1841,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 77)",
+      "swift_code": "CRGEITGG442"
+    },
+    {
+      "id": 1842,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 78)",
+      "swift_code": "CRGEITGG418"
+    },
+    {
+      "id": 1843,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 79)",
+      "swift_code": "CRGEITGG419"
+    },
+    {
+      "id": 1844,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 80)",
+      "swift_code": "CRGEITGG420"
+    },
+    {
+      "id": 1845,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 81)",
+      "swift_code": "CRGEITGG421"
+    },
+    {
+      "id": 1846,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 82)",
+      "swift_code": "CRGEITGG422"
+    },
+    {
+      "id": 1847,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 83)",
+      "swift_code": "CRGEITGG423"
+    },
+    {
+      "id": 1848,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 88)",
+      "swift_code": "CRGEITGG458"
+    },
+    {
+      "id": 1849,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 11)",
+      "swift_code": "CRGEITGG111"
+    },
+    {
+      "id": 1850,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 12)",
+      "swift_code": "CRGEITGG112"
+    },
+    {
+      "id": 1851,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 20)",
+      "swift_code": "CRGEITGG120"
+    },
+    {
+      "id": 1852,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 32)",
+      "swift_code": "CRGEITGG132"
+    },
+    {
+      "id": 1853,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 4)",
+      "swift_code": "CRGEITGG104"
+    },
+    {
+      "id": 1854,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 8)",
+      "swift_code": "CRGEITGG108"
+    },
+    {
+      "id": 1855,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N. 9)",
+      "swift_code": "CRGEITGG109"
+    },
+    {
+      "id": 1856,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "CRGEITGG101"
+    },
+    {
+      "id": 1857,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.10)",
+      "swift_code": "CRGEITGG110"
+    },
+    {
+      "id": 1858,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.13)",
+      "swift_code": "CRGEITGG113"
+    },
+    {
+      "id": 1859,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.16)",
+      "swift_code": "CRGEITGG116"
+    },
+    {
+      "id": 1860,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.18)",
+      "swift_code": "CRGEITGG118"
+    },
+    {
+      "id": 1861,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.21)",
+      "swift_code": "CRGEITGG121"
+    },
+    {
+      "id": 1862,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.22)",
+      "swift_code": "CRGEITGG122"
+    },
+    {
+      "id": 1863,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.23)",
+      "swift_code": "CRGEITGG123"
+    },
+    {
+      "id": 1864,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.25)",
+      "swift_code": "CRGEITGG125"
+    },
+    {
+      "id": 1865,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.26)",
+      "swift_code": "CRGEITGG126"
+    },
+    {
+      "id": 1866,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.27)",
+      "swift_code": "CRGEITGG127"
+    },
+    {
+      "id": 1867,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.28)",
+      "swift_code": "CRGEITGG128"
+    },
+    {
+      "id": 1868,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.3)",
+      "swift_code": "CRGEITGG103"
+    },
+    {
+      "id": 1869,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.41)",
+      "swift_code": "CRGEITGG090"
+    },
+    {
+      "id": 1870,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.49)",
+      "swift_code": "CRGEITGG085"
+    },
+    {
+      "id": 1871,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "CRGEITGG105"
+    },
+    {
+      "id": 1872,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.6)",
+      "swift_code": "CRGEITGG106"
+    },
+    {
+      "id": 1873,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH N.7)",
+      "swift_code": "CRGEITGG107"
+    },
+    {
+      "id": 1874,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 14)",
+      "swift_code": "CRGEITGG114"
+    },
+    {
+      "id": 1875,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 17)",
+      "swift_code": "CRGEITGG117"
+    },
+    {
+      "id": 1876,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 19)",
+      "swift_code": "CRGEITGG119"
+    },
+    {
+      "id": 1877,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 2)",
+      "swift_code": "CRGEITGG102"
+    },
+    {
+      "id": 1878,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 24)",
+      "swift_code": "CRGEITGG124"
+    },
+    {
+      "id": 1879,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 29)",
+      "swift_code": "CRGEITGG129"
+    },
+    {
+      "id": 1880,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 30)",
+      "swift_code": "CRGEITGG130"
+    },
+    {
+      "id": 1881,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 31)",
+      "swift_code": "CRGEITGG131"
+    },
+    {
+      "id": 1882,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 33)",
+      "swift_code": "CRGEITGG133"
+    },
+    {
+      "id": 1883,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 34)",
+      "swift_code": "CRGEITGG134"
+    },
+    {
+      "id": 1884,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 35)",
+      "swift_code": "CRGEITGG089"
+    },
+    {
+      "id": 1885,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 38 - OSPEDALE SAMPIERDARENA)",
+      "swift_code": "CRGEITGG094"
+    },
+    {
+      "id": 1886,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 42 - MERCATO ITTICO)",
+      "swift_code": "CRGEITGG082"
+    },
+    {
+      "id": 1887,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 43 - PALAZZO GIUSTIZIA)",
+      "swift_code": "CRGEITGG136"
+    },
+    {
+      "id": 1888,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 51 - OSPEDALE GALLIERA)",
+      "swift_code": "CRGEITGG099"
+    },
+    {
+      "id": 1889,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 58 - ISTITUTO GASLINI)",
+      "swift_code": "CRGEITGG138"
+    },
+    {
+      "id": 1890,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 60)",
+      "swift_code": "CRGEITGG198"
+    },
+    {
+      "id": 1891,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(BRANCH NO 61)",
+      "swift_code": "CRGEITGG199"
+    },
+    {
+      "id": 1892,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(CORTE LAMBRUSCHINI BRANCH)",
+      "swift_code": "CRGEITGG196"
+    },
+    {
+      "id": 1893,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AMT BRANCH 53)",
+      "swift_code": "CRGEITGG191"
+    },
+    {
+      "id": 1894,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(GENOVA BRANCH 86)",
+      "swift_code": "CRGEITGG456"
+    },
+    {
+      "id": 1895,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "CRGEITGG040"
+    },
+    {
+      "id": 1896,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(OSPEDALE QUARTO - BRANCH 52)",
+      "swift_code": "CRGEITGG193"
+    },
+    {
+      "id": 1897,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(S. BENIGNO BRANCH)",
+      "swift_code": "CRGEITGG195"
+    },
+    {
+      "id": 1898,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "(VIA PISA BRANCH 87)",
+      "swift_code": "CRGEITGG457"
+    },
+    {
+      "id": 1899,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRGEITGG"
+    },
+    {
+      "id": 1900,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRGEITGG057"
+    },
+    {
+      "id": 1901,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRGEITGG061"
+    },
+    {
+      "id": 2290,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "GENOVA",
+      "branch": "(ARANCIO BRANCH)",
+      "swift_code": "BMLUIT3L120"
+    },
+    {
+      "id": 3634,
+      "bank": "BANCA D'ITALIA",
+      "city": "GENOVA",
+      "branch": "(SEDE DI GENOVA)",
+      "swift_code": "BITAITR1140"
+    },
+    {
+      "id": 3794,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "GENOVA",
+      "branch": "(FILIALE 109 GENOVA)",
+      "swift_code": "IFIGIT31109"
+    },
+    {
+      "id": 3819,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BIMTITT1003"
+    },
+    {
+      "id": 4716,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA  AG. 17)",
+      "swift_code": "PASCITM1675"
+    },
+    {
+      "id": 4717,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 10)",
+      "swift_code": "PASCITM1G10"
+    },
+    {
+      "id": 4718,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 11)",
+      "swift_code": "PASCITM1G11"
+    },
+    {
+      "id": 4719,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 12)",
+      "swift_code": "PASCITM1G12"
+    },
+    {
+      "id": 4720,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 13)",
+      "swift_code": "PASCITM1G13"
+    },
+    {
+      "id": 4721,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 14)",
+      "swift_code": "PASCITM1661"
+    },
+    {
+      "id": 4722,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 15)",
+      "swift_code": "PASCITM1666"
+    },
+    {
+      "id": 4723,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 16)",
+      "swift_code": "PASCITM1667"
+    },
+    {
+      "id": 4724,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE1"
+    },
+    {
+      "id": 4725,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE2"
+    },
+    {
+      "id": 4726,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE3"
+    },
+    {
+      "id": 4727,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE4"
+    },
+    {
+      "id": 4728,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE5"
+    },
+    {
+      "id": 4729,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE6"
+    },
+    {
+      "id": 4730,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE7"
+    },
+    {
+      "id": 4731,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITM1GE8"
+    },
+    {
+      "id": 4732,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASCITMMGEN"
+    },
+    {
+      "id": 6723,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 1 STURLA)",
+      "swift_code": "BNLIITR149Z"
+    },
+    {
+      "id": 6724,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 3 BRIGNOLE)",
+      "swift_code": "BNLIITR14AZ"
+    },
+    {
+      "id": 6725,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 4 ANNUNZIATA)",
+      "swift_code": "BNLIITR14BZ"
+    },
+    {
+      "id": 6726,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 5 SAN LUCA)",
+      "swift_code": "BNLIITR14CZ"
+    },
+    {
+      "id": 6727,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 6 SAN FRUTTUOSO)",
+      "swift_code": "BNLIITR14DZ"
+    },
+    {
+      "id": 6728,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 7 MATTEOTTI)",
+      "swift_code": "BNLIITR14EZ"
+    },
+    {
+      "id": 6729,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 8 FOCE)",
+      "swift_code": "BNLIITR14FZ"
+    },
+    {
+      "id": 6730,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA BOLZANETO)",
+      "swift_code": "BNLIITR14GZ"
+    },
+    {
+      "id": 6731,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA MARASSI)",
+      "swift_code": "BNLIITR14HZ"
+    },
+    {
+      "id": 6732,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA MOLASSANA)",
+      "swift_code": "BNLIITR14IZ"
+    },
+    {
+      "id": 6733,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA NERVI)",
+      "swift_code": "BNLIITR14JZ"
+    },
+    {
+      "id": 6734,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA PEGLI)",
+      "swift_code": "BNLIITR14KZ"
+    },
+    {
+      "id": 6735,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA RIVAROLO)",
+      "swift_code": "BNLIITR14LZ"
+    },
+    {
+      "id": 6736,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA SAMPIERDARENA)",
+      "swift_code": "BNLIITR14MZ"
+    },
+    {
+      "id": 6737,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA SAN BENIGNO)",
+      "swift_code": "BNLIITR14NZ"
+    },
+    {
+      "id": 6738,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AGENZIA SESTRI PONENTE)",
+      "swift_code": "BNLIITR14OZ"
+    },
+    {
+      "id": 6739,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BNLIITRRGEX"
+    },
+    {
+      "id": 7296,
+      "bank": "BANCA PASSADORE E C.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PASBITGG"
+    },
+    {
+      "id": 8165,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA)",
+      "swift_code": "BPMIITM1D97"
+    },
+    {
+      "id": 8804,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 1 GENOVA)",
+      "swift_code": "POSOIT2114O"
+    },
+    {
+      "id": 8805,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "GENOVA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "POSOIT2114T"
+    },
+    {
+      "id": 10283,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA - AGENZIA 33)",
+      "swift_code": "BAPPIT21D04"
+    },
+    {
+      "id": 10284,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA - AGENZIA 34)",
+      "swift_code": "BAPPIT21D05"
+    },
+    {
+      "id": 10285,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA - NERVI)",
+      "swift_code": "BAPPIT21A34"
+    },
+    {
+      "id": 10286,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA - PEGLI)",
+      "swift_code": "BAPPIT21A32"
+    },
+    {
+      "id": 10287,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA - VOLTRI)",
+      "swift_code": "BAPPIT21A37"
+    },
+    {
+      "id": 10288,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 10)",
+      "swift_code": "BAPPIT21Q74"
+    },
+    {
+      "id": 10289,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 11)",
+      "swift_code": "BAPPIT21Q76"
+    },
+    {
+      "id": 10290,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 12)",
+      "swift_code": "BAPPIT21Q78"
+    },
+    {
+      "id": 10291,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 13)",
+      "swift_code": "BAPPIT21Q79"
+    },
+    {
+      "id": 10292,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 15)",
+      "swift_code": "BAPPIT21Q77"
+    },
+    {
+      "id": 10293,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 16)",
+      "swift_code": "BAPPIT21Q63"
+    },
+    {
+      "id": 10294,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 17)",
+      "swift_code": "BAPPIT21Q65"
+    },
+    {
+      "id": 10295,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 18)",
+      "swift_code": "BAPPIT21Q67"
+    },
+    {
+      "id": 10296,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 2)",
+      "swift_code": "BAPPIT21Q72"
+    },
+    {
+      "id": 10297,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 20)",
+      "swift_code": "BAPPIT21Q73"
+    },
+    {
+      "id": 10298,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 22)",
+      "swift_code": "BAPPIT21Q59"
+    },
+    {
+      "id": 10299,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 23)",
+      "swift_code": "BAPPIT21Q75"
+    },
+    {
+      "id": 10300,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 24)",
+      "swift_code": "BAPPIT21A33"
+    },
+    {
+      "id": 10301,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 25)",
+      "swift_code": "BAPPIT21A35"
+    },
+    {
+      "id": 10302,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 26)",
+      "swift_code": "BAPPIT21A36"
+    },
+    {
+      "id": 10303,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 3)",
+      "swift_code": "BAPPIT21Q60"
+    },
+    {
+      "id": 10304,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 30)",
+      "swift_code": "BAPPIT21A30"
+    },
+    {
+      "id": 10305,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 4)",
+      "swift_code": "BAPPIT21Q62"
+    },
+    {
+      "id": 10306,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 5)",
+      "swift_code": "BAPPIT21Q64"
+    },
+    {
+      "id": 10307,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 6)",
+      "swift_code": "BAPPIT21Q80"
+    },
+    {
+      "id": 10308,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 7)",
+      "swift_code": "BAPPIT21R47"
+    },
+    {
+      "id": 10309,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 8)",
+      "swift_code": "BAPPIT21R46"
+    },
+    {
+      "id": 10310,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG.27)",
+      "swift_code": "BAPPIT21A38"
+    },
+    {
+      "id": 10311,
+      "bank": "BANCO BPM SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA)",
+      "swift_code": "BAPPIT21Q56"
+    },
+    {
+      "id": 11547,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "GENOVA",
+      "branch": "(VIA AYROLI)",
+      "swift_code": "CREBIT21109"
+    },
+    {
+      "id": 11548,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CREBIT21076"
+    },
+    {
+      "id": 11728,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "GENOVA",
+      "branch": "(GENOVA 385)",
+      "swift_code": "BDBDITA1385"
+    },
+    {
+      "id": 11976,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FIL. GENOVA 10)",
+      "swift_code": "BPGGITG1031"
+    },
+    {
+      "id": 11977,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FIL. GENOVA 12)",
+      "swift_code": "BPGGITG1034"
+    },
+    {
+      "id": 11978,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 1)",
+      "swift_code": "BPGGITG1204"
+    },
+    {
+      "id": 11979,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 2)",
+      "swift_code": "BPGGITG1205"
+    },
+    {
+      "id": 11980,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 3)",
+      "swift_code": "BPGGITG1206"
+    },
+    {
+      "id": 11981,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 4)",
+      "swift_code": "BPGGITG1207"
+    },
+    {
+      "id": 11982,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 5)",
+      "swift_code": "BPGGITG1211"
+    },
+    {
+      "id": 11983,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA AGENZIA 6)",
+      "swift_code": "BPGGITG1209"
+    },
+    {
+      "id": 11984,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(FILIALE DI GENOVA SEDE)",
+      "swift_code": "BPGGITG1202"
+    },
+    {
+      "id": 11985,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(GENOVA 7-DARSENA)",
+      "swift_code": "BPGGITG1210"
+    },
+    {
+      "id": 11986,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(GENOVA 8)",
+      "swift_code": "BPGGITG1203"
+    },
+    {
+      "id": 11987,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "(GENOVA 9)",
+      "swift_code": "BPGGITG1219"
+    },
+    {
+      "id": 11988,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BPGGITG1"
+    },
+    {
+      "id": 12017,
+      "bank": "BANCO DI SARDEGNA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "SARDIT31920"
+    },
+    {
+      "id": 12596,
+      "bank": "BOERO BARTOLOMEO SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BOBTITG1"
+    },
+    {
+      "id": 12629,
+      "bank": "BRUNETTA D'USSEAUX AND C. S.I.M. S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BRDIITG1"
+    },
+    {
+      "id": 12641,
+      "bank": "C.A.I.M. SOCIETA COOPERATIVA COOP. ARMAMENTO IMPRESE MARITTIME",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CSPCITG1"
+    },
+    {
+      "id": 12687,
+      "bank": "CARIGE ASSET MANAGEMENT SGR S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CAGGITG1"
+    },
+    {
+      "id": 12688,
+      "bank": "CARIGE VITA NUOVA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRVNITG1"
+    },
+    {
+      "id": 13092,
+      "bank": "CASSA DI RISPARMIO DI ASTI SPA (HEAD OFFICE)",
+      "city": "GENOVA",
+      "branch": "(GENOVA)",
+      "swift_code": "CASRITA1148"
+    },
+    {
+      "id": 13394,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "GENOVA",
+      "branch": "(BACK OFFICE  DI RETE GENOVA)",
+      "swift_code": "CRFIIT3F776"
+    },
+    {
+      "id": 14487,
+      "bank": "COMUNE DI GENOVA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CUMGITG1"
+    },
+    {
+      "id": 14866,
+      "bank": "COSTA CROCIERE S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CCRRITG1"
+    },
+    {
+      "id": 14892,
+      "bank": "CREA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "RREAITG1"
+    },
+    {
+      "id": 14939,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "(FILIALE IMPRESE GENOVA)",
+      "swift_code": "CRFIIT2S489"
+    },
+    {
+      "id": 14940,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA BOLZANETO)",
+      "swift_code": "CRFIIT2S251"
+    },
+    {
+      "id": 14941,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA CENTRO)",
+      "swift_code": "CRFIIT2S252"
+    },
+    {
+      "id": 14942,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA MARASSI)",
+      "swift_code": "CRFIIT2S317"
+    },
+    {
+      "id": 14943,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA NERVI)",
+      "swift_code": "CRFIIT2S325"
+    },
+    {
+      "id": 14944,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S304"
+    },
+    {
+      "id": 14945,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S305"
+    },
+    {
+      "id": 14946,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S306"
+    },
+    {
+      "id": 14947,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S459"
+    },
+    {
+      "id": 14948,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S474"
+    },
+    {
+      "id": 14949,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "CRFIIT2S608"
+    },
+    {
+      "id": 15378,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 2)",
+      "swift_code": "BACRIT21222"
+    },
+    {
+      "id": 15379,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 3)",
+      "swift_code": "BACRIT21203"
+    },
+    {
+      "id": 15380,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA AG. 5)",
+      "swift_code": "BACRIT21611"
+    },
+    {
+      "id": 15381,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BACRIT22GEN"
+    },
+    {
+      "id": 16127,
+      "bank": "D.C.D. S.R.L.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "DCSRITG1"
+    },
+    {
+      "id": 16281,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1342"
+    },
+    {
+      "id": 16282,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1343"
+    },
+    {
+      "id": 16283,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1344"
+    },
+    {
+      "id": 16284,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AG.D)",
+      "swift_code": "DEUTITM1345"
+    },
+    {
+      "id": 16285,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(AG.SAMPIERDARENA)",
+      "swift_code": "DEUTITM1346"
+    },
+    {
+      "id": 16286,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMGEN"
+    },
+    {
+      "id": 16287,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(SPORTELLO DI GENOVA NERVI)",
+      "swift_code": "DEUTITM1287"
+    },
+    {
+      "id": 16288,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "GENOVA",
+      "branch": "(SPORTELLO DI SESTRI PONENTE)",
+      "swift_code": "DEUTITM1286"
+    },
+    {
+      "id": 16586,
+      "bank": "EGL ITALIA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "EGITITG1"
+    },
+    {
+      "id": 16668,
+      "bank": "ENERGETICA SRL",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ENGLITG1"
+    },
+    {
+      "id": 16695,
+      "bank": "ERG S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ERGEITG1"
+    },
+    {
+      "id": 16718,
+      "bank": "ETT S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "ETTEITG1"
+    },
+    {
+      "id": 16807,
+      "bank": "FIGENPA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "FGGEITG1"
+    },
+    {
+      "id": 17081,
+      "bank": "IL PESTO DI BRA' DI BRUZZONE E FERRARI S.R.L.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PBBFITG1"
+    },
+    {
+      "id": 17293,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BACK OFFICE DI RETE - POLO DI GENOVA (8006))",
+      "swift_code": "BCITITMM087"
+    },
+    {
+      "id": 17294,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BACK OFFICE DI RETE GENOVA)",
+      "swift_code": "BCITITMMK34"
+    },
+    {
+      "id": 17295,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BOLZANETO BRANCH - VIA PASQUALE PASTORINO 57-R)",
+      "swift_code": "BCITITMM211"
+    },
+    {
+      "id": 17296,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 10 - CORSO FIRENZE 35-R)",
+      "swift_code": "BCITITM1216"
+    },
+    {
+      "id": 17297,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 11 - VIA PIACENZA 217/C ROSSO)",
+      "swift_code": "BCITITM1423"
+    },
+    {
+      "id": 17298,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 14 - VIA RIMASSA 114/R)",
+      "swift_code": "BCITITM1429"
+    },
+    {
+      "id": 17299,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 3 - CORSO SARDEGNA 48-R)",
+      "swift_code": "BCITITM1203"
+    },
+    {
+      "id": 17300,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(BRANCH 4 - LARGO DELLA ZECCA 18-R)",
+      "swift_code": "BCITITM1204"
+    },
+    {
+      "id": 17301,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(FILIALE IMPRESE GENOVA CENTRO)",
+      "swift_code": "BCITITMMG00"
+    },
+    {
+      "id": 17302,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(FILIALE IMPRESE GENOVA PONENTE)",
+      "swift_code": "BCITITMMI94"
+    },
+    {
+      "id": 17303,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(GE-C/O AMGA SPA)",
+      "swift_code": "BCITITMM465"
+    },
+    {
+      "id": 17304,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(LEVANTE BRANCH - VIA TIMAVO 18)",
+      "swift_code": "BCITITMM219"
+    },
+    {
+      "id": 17305,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(MARASSI BRANCH - CORSO SARDEGNA 387-R)",
+      "swift_code": "BCITITMM208"
+    },
+    {
+      "id": 17306,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(SAMPIERDARENA BRANCH - PIAZZA VITTORIO VENETO 88-R)",
+      "swift_code": "BCITITMM214"
+    },
+    {
+      "id": 17307,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "GENOVA",
+      "branch": "(VOLTRI BRANCH - VIA CAMOZZINI 54R)",
+      "swift_code": "BCITITM1427"
+    },
+    {
+      "id": 17840,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BPVIIT21631"
+    },
+    {
+      "id": 18452,
+      "bank": "IREOS S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "IREOITG1"
+    },
+    {
+      "id": 18454,
+      "bank": "IRIDE MERCATO S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "IRMEITG1"
+    },
+    {
+      "id": 18585,
+      "bank": "LANTERNA CONSUMER S.R.L.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "LCSRITG1"
+    },
+    {
+      "id": 18586,
+      "bank": "LANTERNA FINANCE",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "LAFCITG1"
+    },
+    {
+      "id": 18587,
+      "bank": "LANTERNA LEASE S.R.L.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "LALRITG1"
+    },
+    {
+      "id": 18608,
+      "bank": "LIGURE PIEMONTESE SIM SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "LIGUITG1"
+    },
+    {
+      "id": 18722,
+      "bank": "MILLENNIUM SIM S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "MISIITG1"
+    },
+    {
+      "id": 18976,
+      "bank": "PROVINCIA DI GENOVA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "PRGOITG1"
+    },
+    {
+      "id": 19031,
+      "bank": "QUI FINANCIAL SERVICES S.P.A.",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "QUFSITG1"
+    },
+    {
+      "id": 19274,
+      "bank": "RINA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "RINAITGG"
+    },
+    {
+      "id": 19508,
+      "bank": "SIVORI AND PARTNERS SIM",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "SIPSITG1"
+    },
+    {
+      "id": 22146,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL DI GENOVA CORSO TORINO)",
+      "swift_code": "BREUITM15E8"
+    },
+    {
+      "id": 22147,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA PIAZZA LEOPARDI)",
+      "swift_code": "BREUITM1609"
+    },
+    {
+      "id": 22148,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA CECCARDI)",
+      "swift_code": "BREUITM15F1"
+    },
+    {
+      "id": 22149,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA FIESCHI)",
+      "swift_code": "BREUITM160A"
+    },
+    {
+      "id": 22150,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA GRAMSCI)",
+      "swift_code": "BREUITM15EE"
+    },
+    {
+      "id": 22151,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA PASTORINO)",
+      "swift_code": "BREUITM15E9"
+    },
+    {
+      "id": 22152,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA ROLANDO)",
+      "swift_code": "BREUITM15ED"
+    },
+    {
+      "id": 22153,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA SESTRI)",
+      "swift_code": "BREUITM15EA"
+    },
+    {
+      "id": 22154,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "GENOVA",
+      "branch": "(FIL.DI GENOVA VIA V MAGGIO)",
+      "swift_code": "BREUITM15EC"
+    },
+    {
+      "id": 22551,
+      "bank": "UNICREDIT S.P.A.",
+      "city": "GENOVA",
+      "branch": "(GENOVA TESORERIA COMUNALE)",
+      "swift_code": "UNCRITM1TEC"
+    },
+    {
+      "id": 23671,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(FOREIGN TRADE OFFICE GENOVA)",
+      "swift_code": "UNCRITMMGEE"
+    },
+    {
+      "id": 23672,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA AMENDOLA)",
+      "swift_code": "UNCRITM1G23"
+    },
+    {
+      "id": 23673,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA ANSALDO)",
+      "swift_code": "UNCRITM1Z04"
+    },
+    {
+      "id": 23674,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA BANCHI)",
+      "swift_code": "UNCRITM1112"
+    },
+    {
+      "id": 23675,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA BRIGATE PARTIGIANE)",
+      "swift_code": "UNCRITM1DA6"
+    },
+    {
+      "id": 23676,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA CARABINIERI)",
+      "swift_code": "UNCRITM1Z03"
+    },
+    {
+      "id": 23677,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA CAVALLOTTI)",
+      "swift_code": "UNCRITM1G21"
+    },
+    {
+      "id": 23678,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA CORSO BUENOS AIRES A)",
+      "swift_code": "UNCRITM1L16"
+    },
+    {
+      "id": 23679,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA CORSO SARDEGNA)",
+      "swift_code": "UNCRITM1114"
+    },
+    {
+      "id": 23680,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA DANTE)",
+      "swift_code": "UNCRITM1100"
+    },
+    {
+      "id": 23681,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA FIASELLA)",
+      "swift_code": "UNCRITM1111"
+    },
+    {
+      "id": 23682,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA FINCANTIERI)",
+      "swift_code": "UNCRITM1Z02"
+    },
+    {
+      "id": 23683,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA GARIBALDI)",
+      "swift_code": "UNCRITM1L13"
+    },
+    {
+      "id": 23684,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA GASTALDI)",
+      "swift_code": "UNCRITM1103"
+    },
+    {
+      "id": 23685,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA LEVANTE)",
+      "swift_code": "UNCRITM103Y"
+    },
+    {
+      "id": 23686,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA NUNZIATA)",
+      "swift_code": "UNCRITM1G14"
+    },
+    {
+      "id": 23687,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA PONENTE)",
+      "swift_code": "UNCRITM178X"
+    },
+    {
+      "id": 23688,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA PONTEDECIMO)",
+      "swift_code": "UNCRITM1G08"
+    },
+    {
+      "id": 23689,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA QUINTO)",
+      "swift_code": "UNCRITM1G22"
+    },
+    {
+      "id": 23690,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA S. FRANCESCO DA PAOLA)",
+      "swift_code": "UNCRITM1G24"
+    },
+    {
+      "id": 23691,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA SABOTINO)",
+      "swift_code": "UNCRITM1G19"
+    },
+    {
+      "id": 23692,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA TORTOSA)",
+      "swift_code": "UNCRITM1G09"
+    },
+    {
+      "id": 23693,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA VIA CORSICA)",
+      "swift_code": "UNCRITM1115"
+    },
+    {
+      "id": 23694,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA VITTORIO VENETO)",
+      "swift_code": "UNCRITM1G07"
+    },
+    {
+      "id": 23695,
+      "bank": "UNICREDIT SPA",
+      "city": "GENOVA",
+      "branch": "(NORD OVEST 2)",
+      "swift_code": "UNCRITM1GEW"
+    },
+    {
+      "id": 25983,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA BRANCH)",
+      "swift_code": "BAECIT21073"
+    },
+    {
+      "id": 25984,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA SAMPIERDARENA BRANCH)",
+      "swift_code": "BAECIT21072"
+    },
+    {
+      "id": 25985,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA SENAREGA BRANCH)",
+      "swift_code": "BAECIT21147"
+    },
+    {
+      "id": 25986,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "GENOVA",
+      "branch": "(GENOVA)",
+      "swift_code": "BAECIT21361"
+    },
+    {
+      "id": 25987,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "BAECIT21010"
+    },
+    {
+      "id": 26204,
+      "bank": "VELIER SPA",
+      "city": "GENOVA",
+      "branch": "",
+      "swift_code": "VELIITG1"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Genova — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Genova, Italy Contiene 293 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Genova — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Genova — codici SWIFT/BIC — 293 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 293 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

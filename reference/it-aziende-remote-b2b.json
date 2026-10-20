@@ -1,0 +1,720 @@
+{
+  "id": "it-aziende-remote-b2b",
+  "name": "Aziende remote-friendly — tipologia B2B (B2B companies)",
+  "title": "Aziende remote-friendly — tipologia B2B (B2B companies)",
+  "description": "Le 59 aziende italiane remote-friendly di tipologia \"B2B\" (B2B). Suddivisione per tipologia del dataset it-aziende-remote (348 aziende).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "career_page_url",
+      "label": "Career Page Url",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy",
+      "label": "Remote Policy",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy_it",
+      "label": "Remote Policy It",
+      "type": "string"
+    },
+    {
+      "key": "hiring_policies",
+      "label": "Hiring Policies",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aicof",
+      "url": "https://www.aicof.it",
+      "career_page_url": "https://www.linkedin.com/company/aicof/jobs/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Java, Spring Boot, .NET, Angular, Kubernetes"
+    },
+    {
+      "name": "Ama&Me",
+      "url": "https://amaandme.co.uk",
+      "career_page_url": "https://amaandme.co.uk/careers",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Intermediary",
+      "tags": "Python, Docker, Terraform, FastAPI, PostgreSQL, React Native"
+    },
+    {
+      "name": "Beliven",
+      "url": "https://beliven.com",
+      "career_page_url": "https://careers.beliven.com",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Node, Vue.js, React, Angular, React Native, Docker, Kubernetes, Terraform"
+    },
+    {
+      "name": "BizAway",
+      "url": "https://bizaway.com",
+      "career_page_url": "https://bizaway.com/careers/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Javascript/TypeScript, Node.js, Express, MongoDB, Docker, AWS, Elasticsearch, Redis, Angular, Figma"
+    },
+    {
+      "name": "BYTEK \\| the martech of Datrix group",
+      "url": "https://www.linkedin.com/company/bytek-marketing/",
+      "career_page_url": "https://www.linkedin.com/company/bytek-marketing/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "marketing, AI, Python"
+    },
+    {
+      "name": "Capbase",
+      "url": "https://capbase.com/",
+      "career_page_url": "https://www.linkedin.com/company/capbase/jobs/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Intermediary",
+      "tags": ""
+    },
+    {
+      "name": "Cardo AI",
+      "url": "https://cardoai.com/",
+      "career_page_url": "https://cardoai.com/talent/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Python, Django, FastAPI, JavaScript, React, .NET, Airflow, PostgreSQL, TrinoDB, Docker, Kubernetes, AWS, Azure, Data Engineering, Data Science"
+    },
+    {
+      "name": "Cleafy",
+      "url": "https://www.cleafy.com/",
+      "career_page_url": "https://www.cleafy.com/careers",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "React, Java, Kotlin, Go"
+    },
+    {
+      "name": "Deltatre",
+      "url": "https://www.deltatre.com/",
+      "career_page_url": "https://www.deltatre.com/careers/open-positions",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": ".NET, Azure, AWS, GCP, DevOps, MLOps, Machine Learning, Cybersec, C#, Unity 3D, Python, Javascript, Angular, React, Docker, Kubernetes, Terraform, Kafka, iOS, Android"
+    },
+    {
+      "name": "DigitalMakers",
+      "url": "https://digitalmakers.media/",
+      "career_page_url": "https://www.linkedin.com/company/digitalmakers-media/jobs/",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, React.js, PHP, MySQL"
+    },
+    {
+      "name": "DonQ",
+      "url": "https://donq.io",
+      "career_page_url": "https://www.linkedin.com/company/donq",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract, Direct",
+      "tags": "Node, TypeScript, AWS, PHP, Laravel, Magento, React Native, GraphQL, OpenAI, LLama, Terraform, Cloudflare, Docker"
+    },
+    {
+      "name": "Elfo",
+      "url": "https://www.elfo.net/en/custom-software-development/",
+      "career_page_url": "https://www.elfo.net/en/work-with-us/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct, Contract",
+      "tags": ".NET, C#, ASP.NET Core, JavaScript, TypeScript, HTML, CSS, SQL Server, Vue, Azure, DDD, CQRS, DevOps"
+    },
+    {
+      "name": "Ericsson",
+      "url": "https://www.ericsson.com",
+      "career_page_url": "https://www.ericsson.com/en/careers",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Kubernetes, OpenStack, Docker, Linux, Python, Ansible"
+    },
+    {
+      "name": "Exeen",
+      "url": "https://www.linkedin.com/company/exeen/",
+      "career_page_url": "https://www.linkedin.com/company/exeen/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "UX, Ecommerce"
+    },
+    {
+      "name": "Extendi",
+      "url": "https://www.extendi.it",
+      "career_page_url": "https://www.extendi.it/careers",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Ruby on rails, React Native, Node.js, Python, Javascript/Typescript, Kubernetes, React, AWS"
+    },
+    {
+      "name": "Fabrick",
+      "url": "https://www.fabrick.com/",
+      "career_page_url": "https://www.fabrick.com/it/azienda/lavora-con-noi/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": "Typescript, Java, React, React Native, OracleSQL"
+    },
+    {
+      "name": "Forestae",
+      "url": "https://www.linkedin.com/company/forestae/",
+      "career_page_url": "https://www.linkedin.com/company/forestae/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Digital marketing, UX"
+    },
+    {
+      "name": "Formance",
+      "url": "https://www.formance.com/",
+      "career_page_url": "https://www.ycombinator.com/companies/formance/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Intermediary",
+      "tags": "Docker, Kubernetes, AWS, Go, PostgreSQL, React, TypeScript"
+    },
+    {
+      "name": "Frontiers Media",
+      "url": "https://www.frontiersin.org/",
+      "career_page_url": "https://careers.frontiersin.org/",
+      "type": "B2B",
+      "categories": "marketing_writing, cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Azure, GCP, Python, C#, BigQuery, SQL, Kafka, Spark, Docker, K8s"
+    },
+    {
+      "name": "Gummy Industries",
+      "url": "https://www.linkedin.com/company/gummy-industries/",
+      "career_page_url": "https://www.linkedin.com/company/gummy-industries/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing"
+    },
+    {
+      "name": "Hudl",
+      "url": "https://www.hudl.com",
+      "career_page_url": "https://www.hudl.com/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Contract, Direct",
+      "tags": "AWS, C#, Docker, GraphQL, JavaScript, Python, React, React Native, Terraform, TypeScript"
+    },
+    {
+      "name": "Hybrida Marketing",
+      "url": "https://www.linkedin.com/company/hybrida-marketing/",
+      "career_page_url": "https://www.linkedin.com/company/hybrida-marketing/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Ecommerce, Digital marketing"
+    },
+    {
+      "name": "Infor srl SB",
+      "url": "https://infor.gruppoinfor.it",
+      "career_page_url": "https://infor.gruppoinfor.it/chi-siamo/lavora-con-noi/",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Vulnerability Assessment, Penetration Testing, Hardware Security, IT Managed Services, Digital Transformation"
+    },
+    {
+      "name": "Injenia",
+      "url": "https://injenia.it/",
+      "career_page_url": "https://www.linkedin.com/company/injenia/jobs/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Angular, Spring, GCP, AI, Machine Learning"
+    },
+    {
+      "name": "Innoleaps \\| Business Builders",
+      "url": "https://www.linkedin.com/company/innoleaps/",
+      "career_page_url": "https://www.linkedin.com/company/innoleaps/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Venture capital, Startup Builder"
+    },
+    {
+      "name": "Innovyou",
+      "url": "https://www.innovyou.co/",
+      "career_page_url": "https://www.linkedin.com/company/innovi-/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Odoo, Bitcoin, Python, NodeJS, Javascript, Angular, React, Django, Docker, PostgreSQL"
+    },
+    {
+      "name": "Intarget",
+      "url": "https://www.linkedin.com/company/intarget-group/",
+      "career_page_url": "https://www.linkedin.com/company/intarget-group/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Design, UX, UI, 3D"
+    },
+    {
+      "name": "Intent",
+      "url": "https://withintent.com",
+      "career_page_url": "https://withintent.com/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "iOS, Android, IoT, AWS, Node.js, Flutter, JavaScript, Swift, Kotlin, React Native"
+    },
+    {
+      "name": "Intesys",
+      "url": "https://www.intesys.it",
+      "career_page_url": "https://www.intesys.it/lavora-con-noi/posizioni-aperte-y-career/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, Spring Boot, MongoDB, Kotlin, Android, iOS, Javascript/Typescript, Node.js/React, RabbitMQ, Kafka, AWS, Docker, Kubernetes, Terraform"
+    },
+    {
+      "name": "Kiratech S.p.A.",
+      "url": "https://www.kiratech.it/en",
+      "career_page_url": "https://www.kiratech.it/en/work-with-us",
+      "type": "B2B",
+      "categories": "cloud_software, cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Cloud Native, Consultancy, Kubernetes, DevOps, Software Development, Cloud Native Technologies, Platform Engineering"
+    },
+    {
+      "name": "Klondike",
+      "url": "https://www.klondike.ai",
+      "career_page_url": "https://www.linkedin.com/company/klondike/jobs/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Javascript, Python"
+    },
+    {
+      "name": "Koodit",
+      "url": "https://www.linkedin.com/company/koodit/",
+      "career_page_url": "https://www.linkedin.com/company/koodit/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing, React, Wordpress"
+    },
+    {
+      "name": "Kopernicana",
+      "url": "https://www.linkedin.com/company/kopernicana/",
+      "career_page_url": "https://www.linkedin.com/company/kopernicana/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Business Consulting"
+    },
+    {
+      "name": "Larin Group",
+      "url": "https://www.linkedin.com/company/larin-group/",
+      "career_page_url": "https://www.linkedin.com/company/larin-group/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Digital marketing"
+    },
+    {
+      "name": "Loop Srl",
+      "url": "https://www.linkedin.com/company/loopsrl/",
+      "career_page_url": "https://www.linkedin.com/company/loopsrl/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Ecommerce, Social Media Management"
+    },
+    {
+      "name": "Lucus",
+      "url": "https://www.linkedin.com/company/lucus-live/",
+      "career_page_url": "https://www.linkedin.com/company/lucus-live/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing, Influencer Marketing"
+    },
+    {
+      "name": "Luna Labs Srl",
+      "url": "https://www.lunalabs.it",
+      "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing, hr, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Java, Angular, Vue, Node, Python, C#, .NET, iOS, Android, Docker, PostgreSQL, MySQL, Apache Solr, GitLab, DevOps, AI"
+    },
+    {
+      "name": "MIRAI BAY",
+      "url": "https://www.linkedin.com/company/mirai-bay/",
+      "career_page_url": "https://www.linkedin.com/company/mirai-bay/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing, Mobile app"
+    },
+    {
+      "name": "Mostrum Srl",
+      "url": "https://mostrum.com",
+      "career_page_url": "https://mostrum.com/candidature",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, TypeScript, React, React Native, VueJs, NodeJs, Express, Electron, PHP, Laravel, AWS, DigitalOcean, Firebase, Docker, IoT, AR (Augmented Reality), VR (Virtual Reality), WebGl, ThreeJs"
+    },
+    {
+      "name": "Nenet",
+      "url": "https://www.nenetcompany.com",
+      "career_page_url": "https://www.linkedin.com/company/nenetcompany/jobs/",
+      "type": "B2B",
+      "categories": "marketing_writing, hr",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Training, Coaching, Learning"
+    },
+    {
+      "name": "Neosperience",
+      "url": "https://www.neosperience.com",
+      "career_page_url": "https://www.neosperience.com/we-are-hiring/",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "AWS, Node, GraphQL, Kotlin, Python, Java, React, TypeScript, AI, Machine Learning, Data Science"
+    },
+    {
+      "name": "Next2Ad",
+      "url": "https://www.linkedin.com/company/next2ad/",
+      "career_page_url": "https://www.linkedin.com/company/next2ad/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Ecommerce"
+    },
+    {
+      "name": "Officina Microtesti",
+      "url": "https://www.officinamicrotesti.it/",
+      "career_page_url": "https://www.linkedin.com/company/officina-microtesti/jobs",
+      "type": "Consulting, B2B",
+      "categories": "design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "UX Writing, Content design, Inclusive content, Accessible content, Information architecture"
+    },
+    {
+      "name": "Onoblo",
+      "url": "https://www.linkedin.com/company/onoblo/",
+      "career_page_url": "https://www.linkedin.com/company/onoblo/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Business Marketing, Business Development"
+    },
+    {
+      "name": "Quindo \\| Agenzia SEO",
+      "url": "https://www.linkedin.com/company/quindoagenziaseo/",
+      "career_page_url": "https://www.linkedin.com/company/quindoagenziaseo/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "SEO Agency"
+    },
+    {
+      "name": "Quiver Marketing",
+      "url": "https://www.linkedin.com/company/quiver-marketing/",
+      "career_page_url": "https://www.linkedin.com/company/quiver-marketing/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Digital Marketing, Ecommerce"
+    },
+    {
+      "name": "Redlab - The Consultancy Solution",
+      "url": "https://www.linkedin.com/company/redlabsolution/",
+      "career_page_url": "https://www.linkedin.com/company/redlabsolution/jobs",
+      "type": "B2B",
+      "categories": "hr",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Business Management"
+    },
+    {
+      "name": "Refactory",
+      "url": "https://www.refactory-project.com/",
+      "career_page_url": "https://www.refactory-project.com/join-the-team/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Symfony, Yii, JS, TypeScript, Vue, AWS"
+    },
+    {
+      "name": "Searchmetrics",
+      "url": "https://www.searchmetrics.com/",
+      "career_page_url": "https://www.searchmetrics.com/company-and-careers/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": ""
+    },
+    {
+      "name": "Sensify",
+      "url": "https://www.linkedin.com/company/sensifygroup/",
+      "career_page_url": "https://www.linkedin.com/company/sensifygroup/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital marketing, Consumer insights"
+    },
+    {
+      "name": "Shielder",
+      "url": "https://www.shielder.com/",
+      "career_page_url": "https://www.shielder.com/careers/",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Penetration Test, Security Research, Application Security, Red Teaming, Hardware Security"
+    },
+    {
+      "name": "SMACE",
+      "url": "https://www.linkedin.com/company/smace/",
+      "career_page_url": "https://www.linkedin.com/company/smace/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Bootstrap, Jquery"
+    },
+    {
+      "name": "Storeis",
+      "url": "https://www.linkedin.com/company/storeis/",
+      "career_page_url": "https://www.linkedin.com/company/storeis/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Ecommerce"
+    },
+    {
+      "name": "TextYess",
+      "url": "https://www.linkedin.com/company/textyess/",
+      "career_page_url": "https://www.linkedin.com/company/textyess/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "-"
+    },
+    {
+      "name": "TrueLayer",
+      "url": "https://truelayer.com",
+      "career_page_url": "https://truelayer.com/careers",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Rust, C#, AWS, K8S"
+    },
+    {
+      "name": "TWOW",
+      "url": "https://www.linkedin.com/company/twow/",
+      "career_page_url": "https://www.linkedin.com/company/twow/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "-"
+    },
+    {
+      "name": "TXT Group",
+      "url": "https://www.txtgroup.com/",
+      "career_page_url": "https://www.txtgroup.com/careers/all-open-vacancies/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "C++, C#, .NET, Microsoft Azure, DevOps, Javascript, Unity, Unreal, Aerospace, Fintech, Embedded"
+    },
+    {
+      "name": "Up.00  brand with passion",
+      "url": "https://www.linkedin.com/company/up-00/",
+      "career_page_url": "https://www.linkedin.com/company/up-00/jobs",
+      "type": "B2B",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "-"
+    },
+    {
+      "name": "Verizon Connect",
+      "url": "https://www.verizonconnect.com/",
+      "career_page_url": "https://www.verizon.com/about/work/search/firenze-italy/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "AWS, TypeScript, Angular, .NET, Python, Machine Learning, IoT, DevOps, Docker, PostgreSQL, iOS, Android"
+    }
+  ],
+  "meta": {
+    "title": "Aziende remote-friendly — tipologia B2B (B2B companies) - Download gratuito",
+    "description": "Le 59 aziende italiane remote-friendly di tipologia \"B2B\" (B2B). Suddivisione per tipologia del dataset it-aziende-remote (348 aziende). Contiene 59 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aziende remote-friendly — tipologia B2B (B2B companies) | ListBase",
+    "seo_description": "Scarica Aziende remote-friendly — tipologia B2B (B2B companies) — 59 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 59 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

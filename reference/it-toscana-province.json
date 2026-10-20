@@ -1,0 +1,181 @@
+{
+  "id": "it-toscana-province",
+  "name": "Province della Toscana (Provinces of Toscana)",
+  "title": "Province della Toscana (Provinces of Toscana)",
+  "description": "Elenco delle 10 unità provinciali della regione Toscana, con sigla automobilistica e flag città metropolitana. List of 10 provincial-tier units in the Toscana region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 51,
+      "nome": "Arezzo",
+      "slug": "arezzo",
+      "sigla": "AR",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 36
+    },
+    {
+      "id": 248,
+      "nome": "Firenze",
+      "slug": "firenze",
+      "sigla": "FI",
+      "citta_metropolitana": true,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 41
+    },
+    {
+      "id": 53,
+      "nome": "Grosseto",
+      "slug": "grosseto",
+      "sigla": "GR",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 28
+    },
+    {
+      "id": 49,
+      "nome": "Livorno",
+      "slug": "livorno",
+      "sigla": "LI",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 19
+    },
+    {
+      "id": 46,
+      "nome": "Lucca",
+      "slug": "lucca",
+      "sigla": "LU",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 33
+    },
+    {
+      "id": 45,
+      "nome": "Massa-Carrara",
+      "slug": "massa-carrara",
+      "sigla": "MS",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 17
+    },
+    {
+      "id": 50,
+      "nome": "Pisa",
+      "slug": "pisa",
+      "sigla": "PI",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 37
+    },
+    {
+      "id": 100,
+      "nome": "Prato",
+      "slug": "prato",
+      "sigla": "PO",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 7
+    },
+    {
+      "id": 47,
+      "nome": "Pistoia",
+      "slug": "pistoia",
+      "sigla": "PT",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 20
+    },
+    {
+      "id": 52,
+      "nome": "Siena",
+      "slug": "siena",
+      "sigla": "SI",
+      "citta_metropolitana": false,
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana",
+      "num_comuni": 35
+    }
+  ],
+  "meta": {
+    "title": "Province della Toscana (Provinces of Toscana) - Download gratuito",
+    "description": "Elenco delle 10 unità provinciali della regione Toscana, con sigla automobilistica e flag città metropolitana. List of 10 provincial-tier units in the Toscana region with 2-letter sigla and metropolitan-city flag. Contiene 10 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Toscana (Provinces of Toscana) | ListBase",
+    "seo_description": "Scarica Province della Toscana (Provinces of Toscana) — 10 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 10 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

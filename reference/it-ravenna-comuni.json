@@ -1,0 +1,292 @@
+{
+  "id": "it-ravenna-comuni",
+  "name": "Comuni della provincia di Ravenna",
+  "title": "Comuni della provincia di Ravenna",
+  "description": "Elenco dei 18 comuni della provincia di Ravenna (sigla RA), regione Emilia-Romagna. List of 18 comuni in the province of Ravenna (RA), Emilia-Romagna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 39001,
+      "nome": "Alfonsine",
+      "slug": "alfonsine",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39002,
+      "nome": "Bagnacavallo",
+      "slug": "bagnacavallo",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39003,
+      "nome": "Bagnara di Romagna",
+      "slug": "bagnara-di-romagna",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39004,
+      "nome": "Brisighella",
+      "slug": "brisighella",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39005,
+      "nome": "Casola Valsenio",
+      "slug": "casola-valsenio",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39006,
+      "nome": "Castel Bolognese",
+      "slug": "castel-bolognese",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39007,
+      "nome": "Cervia",
+      "slug": "cervia",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39008,
+      "nome": "Conselice",
+      "slug": "conselice",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39009,
+      "nome": "Cotignola",
+      "slug": "cotignola",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39010,
+      "nome": "Faenza",
+      "slug": "faenza",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39011,
+      "nome": "Fusignano",
+      "slug": "fusignano",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39012,
+      "nome": "Lugo",
+      "slug": "lugo",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39013,
+      "nome": "Massa Lombarda",
+      "slug": "massa-lombarda",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39014,
+      "nome": "Ravenna",
+      "slug": "ravenna",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39015,
+      "nome": "Riolo Terme",
+      "slug": "riolo-terme",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39016,
+      "nome": "Russi",
+      "slug": "russi",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39017,
+      "nome": "Sant'Agata sul Santerno",
+      "slug": "santagata-sul-santerno",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 39018,
+      "nome": "Solarolo",
+      "slug": "solarolo",
+      "provincia_id": 39,
+      "provincia_nome": "Ravenna",
+      "provincia_sigla": "RA",
+      "provincia_slug": "ravenna",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Ravenna - Download gratuito",
+    "description": "Elenco dei 18 comuni della provincia di Ravenna (sigla RA), regione Emilia-Romagna. List of 18 comuni in the province of Ravenna (RA), Emilia-Romagna region. Contiene 18 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Ravenna | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Ravenna — 18 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 18 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "it-aziende-remote-b2c",
+  "name": "Aziende remote-friendly — tipologia B2C (B2C companies)",
+  "title": "Aziende remote-friendly — tipologia B2C (B2C companies)",
+  "description": "Le 13 aziende italiane remote-friendly di tipologia \"B2C\" (B2C). Suddivisione per tipologia del dataset it-aziende-remote (348 aziende).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "career_page_url",
+      "label": "Career Page Url",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy",
+      "label": "Remote Policy",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy_it",
+      "label": "Remote Policy It",
+      "type": "string"
+    },
+    {
+      "key": "hiring_policies",
+      "label": "Hiring Policies",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Creative Harbour",
+      "url": "https://www.linkedin.com/company/creative-harbour/",
+      "career_page_url": "https://www.linkedin.com/company/creative-harbour/jobs",
+      "type": "B2C",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Angular, Java"
+    },
+    {
+      "name": "Develhope",
+      "url": "https://www.linkedin.com/school/develhope/",
+      "career_page_url": "https://www.linkedin.com/school/develhope/jobs",
+      "type": "B2C",
+      "categories": "hr",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "HR, Bootcamp"
+    },
+    {
+      "name": "Dove.it",
+      "url": "https://www.dove.it",
+      "career_page_url": "https://www.dove.it/lavora-con-noi",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "",
+      "tags": "TypeScript, Kotlin, React, Elasticsearch, PostgreSQL, GCP, Kubernetes"
+    },
+    {
+      "name": "FBC",
+      "url": "https://www.linkedin.com/company/befbc/",
+      "career_page_url": "https://www.linkedin.com/company/befbc/jobs",
+      "type": "B2C",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Ecommerce"
+    },
+    {
+      "name": "Good Morning Italia",
+      "url": "https://www.linkedin.com/company/good-morning-italia/",
+      "career_page_url": "https://www.linkedin.com/company/good-morning-italia/jobs",
+      "type": "B2C",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "Newsletter"
+    },
+    {
+      "name": "Jagaad",
+      "url": "https://jagaad.com",
+      "career_page_url": "https://jagaad.com/careers",
+      "type": "B2C",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "API Integrations, AWS, Docker, Figma, Flutter, Go, Java, JavaScript, Magento, Mobile Apps, Next.js, Node, PHP, PostgreSQL, PrestaShop, React, Sitecore, Strapi, TypeScript, Vue"
+    },
+    {
+      "name": "Medicilio",
+      "url": "https://www.medicilio.it",
+      "career_page_url": "https://medicilio.it/careers",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Python, Django, Javascript, Go, REST API, React.js, Vue.js, PostgreSQL, Typescript, Docker, AWS"
+    },
+    {
+      "name": "Mia Burton",
+      "url": "https://corporate.miaburton.com/en/",
+      "career_page_url": "https://corporate.miaburton.com/en/jobs/",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "NodeJS, Go, VueJs, TypeScript, NuxtJS, AWS, MongoDB, MariaDB, Redis"
+    },
+    {
+      "name": "Miinto",
+      "url": "https://www.miinto-group.com/",
+      "career_page_url": "https://www.miinto-group.com/jobs/",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Vue.js"
+    },
+    {
+      "name": "Onlytech Industries",
+      "url": "https://www.linkedin.com/company/onlytech-industries/",
+      "career_page_url": "https://www.linkedin.com/company/onlytech-industries/jobs",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Blockchain"
+    },
+    {
+      "name": "TJ Taylor",
+      "url": "https://www.linkedin.com/company/tj-taylor/",
+      "career_page_url": "https://www.linkedin.com/company/tj-taylor/jobs",
+      "type": "B2C",
+      "categories": "marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "-"
+    },
+    {
+      "name": "Veed.io",
+      "url": "https://www.veed.io",
+      "career_page_url": "https://www.veed.io/careers",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "React, C++, Python, TypeScript"
+    },
+    {
+      "name": "ZappyRent",
+      "url": "https://www.zappyrent.com",
+      "career_page_url": "https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": "Node.js, React, AWS, Kubernetes"
+    }
+  ],
+  "meta": {
+    "title": "Aziende remote-friendly — tipologia B2C (B2C companies) - Download gratuito",
+    "description": "Le 13 aziende italiane remote-friendly di tipologia \"B2C\" (B2C). Suddivisione per tipologia del dataset it-aziende-remote (348 aziende). Contiene 13 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aziende remote-friendly — tipologia B2C (B2C companies) | ListBase",
+    "seo_description": "Scarica Aziende remote-friendly — tipologia B2C (B2C companies) — 13 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 13 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "id": "it-aziende-remote-ibrido",
+  "name": "Aziende remote-friendly — politica Ibrido (Hybrid remote policy)",
+  "title": "Aziende remote-friendly — politica Ibrido (Hybrid remote policy)",
+  "description": "Le 38 aziende italiane con politica di lavoro da remoto \"Ibrido\" (Hybrid). Suddivisione per politica remote del dataset it-aziende-remote (348 aziende).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "career_page_url",
+      "label": "Career Page Url",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy",
+      "label": "Remote Policy",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy_it",
+      "label": "Remote Policy It",
+      "type": "string"
+    },
+    {
+      "key": "hiring_policies",
+      "label": "Hiring Policies",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AssistDigital",
+      "url": "https://assistdigital.com/it",
+      "career_page_url": "https://assistdigital.com/it/carriera",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "AWS, DevOps, Docker, JAVA, Javascript, Kubernetes, PostgreSQL, Kafka, TypeScript"
+    },
+    {
+      "name": "Beliven",
+      "url": "https://beliven.com",
+      "career_page_url": "https://careers.beliven.com",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Node, Vue.js, React, Angular, React Native, Docker, Kubernetes, Terraform"
+    },
+    {
+      "name": "Casavo",
+      "url": "https://casavo.com",
+      "career_page_url": "https://careers.casavo.com",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Elixir, CQRS Event-driven architectures, Python, Next.js, React, Android, iOS, Terraform, AWS, Kubernetes, Kotlin"
+    },
+    {
+      "name": "Codemotion",
+      "url": "https://www.codemotion.com",
+      "career_page_url": "https://www.codemotion.com/work-with-us",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Laravel, Vue.js, Azure, MongoDB"
+    },
+    {
+      "name": "Conio S.r.l.",
+      "url": "https://www.conio.com",
+      "career_page_url": "https://www.conio.com/jobs/posizioni-aperte",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Blockchain, Python, AWS, iOS, Android, React, TypeScript"
+    },
+    {
+      "name": "Cortilia",
+      "url": "https://about.cortilia.it/",
+      "career_page_url": "https://about.cortilia.it/lavora-con-noi",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": "AWS, Java"
+    },
+    {
+      "name": "DevInterface",
+      "url": "https://www.devinterface.com/",
+      "career_page_url": "https://www.devinterface.com/en/work-with-us",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Ruby On Rails, Python, Django, Node.js, React, Go"
+    },
+    {
+      "name": "Doctolib",
+      "url": "https://www.doctolib.it/",
+      "career_page_url": "https://careers.doctolib.it/",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Contract",
+      "tags": "Rails, React, PostgreSQL, ElasticSearch"
+    },
+    {
+      "name": "Dscovr",
+      "url": "http://www.dscovr.io",
+      "career_page_url": "https://apply.workable.com/dscovr",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "AWS, AI/ML, Data Science, Python, UX, UI, PHP, Web Development, Typescript, TailwindCSS, Vue.js, Laravel, GraphQL, Terraform, Docker, Mixpanel"
+    },
+    {
+      "name": "DualBit",
+      "url": "https://www.dualb.it",
+      "career_page_url": "https://www.dualb.it/work-with-us",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "iOS, Swift, Android, Kotlin, Native Mobile Development, Python, Django, Vue.js, Docker, Kubernetes"
+    },
+    {
+      "name": "Ericsson",
+      "url": "https://www.ericsson.com",
+      "career_page_url": "https://www.ericsson.com/en/careers",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Kubernetes, OpenStack, Docker, Linux, Python, Ansible"
+    },
+    {
+      "name": "Fabrick",
+      "url": "https://www.fabrick.com/",
+      "career_page_url": "https://www.fabrick.com/it/azienda/lavora-con-noi/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": "Typescript, Java, React, React Native, OracleSQL"
+    },
+    {
+      "name": "Flowe",
+      "url": "https://www.flowe.com/",
+      "career_page_url": "https://www.linkedin.com/company/floweitalia/jobs/",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Python, Databricks, Azure, .NET, C#, Kotlin, Swift"
+    },
+    {
+      "name": "Hudl",
+      "url": "https://www.hudl.com",
+      "career_page_url": "https://www.hudl.com/jobs",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Contract, Direct",
+      "tags": "AWS, C#, Docker, GraphQL, JavaScript, Python, React, React Native, Terraform, TypeScript"
+    },
+    {
+      "name": "Human Analytica",
+      "url": "https://humananalytica.it",
+      "career_page_url": "https://www.linkedin.com/company/human-analytica/jobs",
+      "type": "Consulting",
+      "categories": "marketing_writing",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": ""
+    },
+    {
+      "name": "Infor srl SB",
+      "url": "https://infor.gruppoinfor.it",
+      "career_page_url": "https://infor.gruppoinfor.it/chi-siamo/lavora-con-noi/",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Vulnerability Assessment, Penetration Testing, Hardware Security, IT Managed Services, Digital Transformation"
+    },
+    {
+      "name": "Infovista",
+      "url": "https://www.infovista.com/",
+      "career_page_url": "https://www.linkedin.com/company/infovista/jobs/",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Kubernetes, Rancher, Istio, Docker, DevOps, Terraform, Prometheus, Go, C++, Java, Quarkus, REST, JavaScript, Angular, Redis, Kafka"
+    },
+    {
+      "name": "Injenia",
+      "url": "https://injenia.it/",
+      "career_page_url": "https://www.linkedin.com/company/injenia/jobs/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Angular, Spring, GCP, AI, Machine Learning"
+    },
+    {
+      "name": "Intesys",
+      "url": "https://www.intesys.it",
+      "career_page_url": "https://www.intesys.it/lavora-con-noi/posizioni-aperte-y-career/",
+      "type": "B2B",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, Spring Boot, MongoDB, Kotlin, Android, iOS, Javascript/Typescript, Node.js/React, RabbitMQ, Kafka, AWS, Docker, Kubernetes, Terraform"
+    },
+    {
+      "name": "Lhub srl",
+      "url": "https://lhubagency.com/",
+      "career_page_url": "https://lhubagency.com/",
+      "type": "Consulting",
+      "categories": "marketing_writing",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Marketing, Agency"
+    },
+    {
+      "name": "Luna Labs Srl",
+      "url": "https://www.lunalabs.it",
+      "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing, hr, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Java, Angular, Vue, Node, Python, C#, .NET, iOS, Android, Docker, PostgreSQL, MySQL, Apache Solr, GitLab, DevOps, AI"
+    },
+    {
+      "name": "Mia-Platform",
+      "url": "https://mia-platform.eu/",
+      "career_page_url": "https://mia-platform.eu/company/careers/?utm_source=github&utm_medium=awesome-italian-remote",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Kubernetes, DevOps, Cloud Native Technologies, TypeScript, Node.js, C#, Java, Kotlin, Go, Python, Rust"
+    },
+    {
+      "name": "Mobile Solutions Srl",
+      "url": "https://enerp.it",
+      "career_page_url": "https://www.linkedin.com/company/mobile-solutions-srl/jobs/",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, SQL, Laravel, git, Docker, Svelte, JavaScript, TypeScript, Node.js, AI, Python"
+    },
+    {
+      "name": "Mostrum Srl",
+      "url": "https://mostrum.com",
+      "career_page_url": "https://mostrum.com/candidature",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, TypeScript, React, React Native, VueJs, NodeJs, Express, Electron, PHP, Laravel, AWS, DigitalOcean, Firebase, Docker, IoT, AR (Augmented Reality), VR (Virtual Reality), WebGl, ThreeJs"
+    },
+    {
+      "name": "Objectway",
+      "url": "https://www.objectway.com/",
+      "career_page_url": "https://www.objectway.com/careers-open-job-positions/",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, Spring, Javascript, Typescript, Angular, Docker, Kubernetes, AWS"
+    },
+    {
+      "name": "Qintesi",
+      "url": "https://www.qintesi.com/",
+      "career_page_url": "https://www.qintesi.com/lavora-con-noi/",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "SAP, GCP, Python, SQL"
+    },
+    {
+      "name": "Register S.p.A.",
+      "url": "https://www.register.it/",
+      "career_page_url": "https://itcareers.team.blue/",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, PHP, React"
+    },
+    {
+      "name": "Sidea Group",
+      "url": "https://www.sideagroup.com/",
+      "career_page_url": "https://www.sideagroup.com/sidea-hr/",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, TypeScript, React, Angular, Wordpress, Magento, Salesforce Commerce Cloud"
+    },
+    {
+      "name": "Sysdig",
+      "url": "https://sysdig.com/",
+      "career_page_url": "https://sysdig.com/jobs/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Go, AWS, GCP, Node.js, TypeScript, React, Open Source, Kubernetes, Falco, Cloud, JavaScript, Machine Learning, Java, Prometheus"
+    },
+    {
+      "name": "Telepass",
+      "url": "http://telepass.com",
+      "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Cloud, GCP, AI, Data Science, UX, UI, Mobile Development, iOS, Android, Web Development, JavaScript, React, Java, Ruby, Swift, Kotlin"
+    },
+    {
+      "name": "TheFork",
+      "url": "https://www.thefork.com/",
+      "career_page_url": "https://careers.thefork.com/global/en",
+      "type": "Product",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Node.js, React, TypeScript, GraphQL, Kotlin, Swift, AWS"
+    },
+    {
+      "name": "Thoughtworks",
+      "url": "https://www.thoughtworks.com/",
+      "career_page_url": "https://www.thoughtworks.com/careers/jobs",
+      "type": "Consulting",
+      "categories": "cloud_software, marketing_writing, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, JavaScript, Typescript, Python, C#, AWS, Docker, Kubernetes, Rust, Terraform, React"
+    },
+    {
+      "name": "TUI",
+      "url": "https://www.tuigroup.com/en-en",
+      "career_page_url": "https://careers.tuigroup.com/",
+      "type": "",
+      "categories": "design_ux, hr",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": ""
+    },
+    {
+      "name": "Vcube",
+      "url": "https://www.vcube.it/",
+      "career_page_url": "https://www.vcube.it/careers/",
+      "type": "Consulting",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Ansible, Automation, Azure, DevOps, Docker, Elasticsearch, ELK, Jenkins, Kubernetes, Linux, Openshift, Terraform, VMware"
+    },
+    {
+      "name": "WeSchool",
+      "url": "https://www.weschool.com/",
+      "career_page_url": "http://join.weschool.com/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Javascript, React, Mobx, PHP, Symfony, Elasticsearch, AWS, EdTech"
+    },
+    {
+      "name": "YOOX NET-A-PORTER GROUP",
+      "url": "https://www.ynap.com/it",
+      "career_page_url": "https://www.ynap.com/it/pagine/careers",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, hr",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "iOS, Android, JavaScript, AWS, TypeScript, React, Node.js"
+    },
+    {
+      "name": "ZappyRent",
+      "url": "https://www.zappyrent.com",
+      "career_page_url": "https://zappyrent.zendesk.com/hc/en-us/articles/4407693578897-Work-with-Us",
+      "type": "B2C",
+      "categories": "cloud_software",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": "Node.js, React, AWS, Kubernetes"
+    },
+    {
+      "name": "Zucchetti S.p.A.",
+      "url": "https://www.zucchetti.it",
+      "career_page_url": "https://www.zucchetti.it/website/cms/zcareers.html",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Ansible, Kubernetes, Java, PostgreSQL, Cloud Native, DevOps, Go, OpenShift, React, Linux, CI/CD, SQL"
+    }
+  ],
+  "meta": {
+    "title": "Aziende remote-friendly — politica Ibrido (Hybrid remote policy) - Download gratuito",
+    "description": "Le 38 aziende italiane con politica di lavoro da remoto \"Ibrido\" (Hybrid). Suddivisione per politica remote del dataset it-aziende-remote (348 aziende). Contiene 38 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aziende remote-friendly — politica Ibrido (Hybrid remote policy) | ListBase",
+    "seo_description": "Scarica Aziende remote-friendly — politica Ibrido (Hybrid remote policy) — 38 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 38 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

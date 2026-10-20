@@ -1,0 +1,170 @@
+{
+  "id": "it-sicilia-province",
+  "name": "Province della Sicilia (Provinces of Sicilia)",
+  "title": "Province della Sicilia (Provinces of Sicilia)",
+  "description": "Elenco delle 9 unità provinciali della regione Sicilia, con sigla automobilistica e flag città metropolitana. List of 9 provincial-tier units in the Sicilia region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 84,
+      "nome": "Agrigento",
+      "slug": "agrigento",
+      "sigla": "AG",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 43
+    },
+    {
+      "id": 85,
+      "nome": "Caltanissetta",
+      "slug": "caltanissetta",
+      "sigla": "CL",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 22
+    },
+    {
+      "id": 287,
+      "nome": "Catania",
+      "slug": "catania",
+      "sigla": "CT",
+      "citta_metropolitana": true,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 58
+    },
+    {
+      "id": 86,
+      "nome": "Enna",
+      "slug": "enna",
+      "sigla": "EN",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 20
+    },
+    {
+      "id": 283,
+      "nome": "Messina",
+      "slug": "messina",
+      "sigla": "ME",
+      "citta_metropolitana": true,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 108
+    },
+    {
+      "id": 282,
+      "nome": "Palermo",
+      "slug": "palermo",
+      "sigla": "PA",
+      "citta_metropolitana": true,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 82
+    },
+    {
+      "id": 88,
+      "nome": "Ragusa",
+      "slug": "ragusa",
+      "sigla": "RG",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 12
+    },
+    {
+      "id": 89,
+      "nome": "Siracusa",
+      "slug": "siracusa",
+      "sigla": "SR",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 21
+    },
+    {
+      "id": 81,
+      "nome": "Trapani",
+      "slug": "trapani",
+      "sigla": "TP",
+      "citta_metropolitana": false,
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia",
+      "num_comuni": 25
+    }
+  ],
+  "meta": {
+    "title": "Province della Sicilia (Provinces of Sicilia) - Download gratuito",
+    "description": "Elenco delle 9 unità provinciali della regione Sicilia, con sigla automobilistica e flag città metropolitana. List of 9 provincial-tier units in the Sicilia region with 2-letter sigla and metropolitan-city flag. Contiene 9 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Sicilia (Provinces of Sicilia) | ListBase",
+    "seo_description": "Scarica Province della Sicilia (Provinces of Sicilia) — 9 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 9 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

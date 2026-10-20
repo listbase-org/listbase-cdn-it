@@ -1,0 +1,328 @@
+{
+  "id": "it-ferrara-comuni",
+  "name": "Comuni della provincia di Ferrara",
+  "title": "Comuni della provincia di Ferrara",
+  "description": "Elenco dei 21 comuni della provincia di Ferrara (sigla FE), regione Emilia-Romagna. List of 21 comuni in the province of Ferrara (FE), Emilia-Romagna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 38001,
+      "nome": "Argenta",
+      "slug": "argenta",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38003,
+      "nome": "Bondeno",
+      "slug": "bondeno",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38004,
+      "nome": "Cento",
+      "slug": "cento",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38005,
+      "nome": "Codigoro",
+      "slug": "codigoro",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38006,
+      "nome": "Comacchio",
+      "slug": "comacchio",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38007,
+      "nome": "Copparo",
+      "slug": "copparo",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38008,
+      "nome": "Ferrara",
+      "slug": "ferrara",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38027,
+      "nome": "Fiscaglia",
+      "slug": "fiscaglia",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38025,
+      "nome": "Goro",
+      "slug": "goro",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38010,
+      "nome": "Jolanda di Savoia",
+      "slug": "jolanda-di-savoia",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38011,
+      "nome": "Lagosanto",
+      "slug": "lagosanto",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38012,
+      "nome": "Masi Torello",
+      "slug": "masi-torello",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38014,
+      "nome": "Mesola",
+      "slug": "mesola",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38017,
+      "nome": "Ostellato",
+      "slug": "ostellato",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38018,
+      "nome": "Poggio Renatico",
+      "slug": "poggio-renatico",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38019,
+      "nome": "Portomaggiore",
+      "slug": "portomaggiore",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38029,
+      "nome": "Riva del Po",
+      "slug": "riva-del-po",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38028,
+      "nome": "Terre del Reno",
+      "slug": "terre-del-reno",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38030,
+      "nome": "Tresignana",
+      "slug": "tresignana",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38022,
+      "nome": "Vigarano Mainarda",
+      "slug": "vigarano-mainarda",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 38023,
+      "nome": "Voghiera",
+      "slug": "voghiera",
+      "provincia_id": 38,
+      "provincia_nome": "Ferrara",
+      "provincia_sigla": "FE",
+      "provincia_slug": "ferrara",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Ferrara - Download gratuito",
+    "description": "Elenco dei 21 comuni della provincia di Ferrara (sigla FE), regione Emilia-Romagna. List of 21 comuni in the province of Ferrara (FE), Emilia-Romagna region. Contiene 21 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Ferrara | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Ferrara — 21 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 21 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

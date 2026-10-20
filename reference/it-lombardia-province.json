@@ -1,0 +1,203 @@
+{
+  "id": "it-lombardia-province",
+  "name": "Province della Lombardia (Provinces of Lombardia)",
+  "title": "Province della Lombardia (Provinces of Lombardia)",
+  "description": "Elenco delle 12 unità provinciali della regione Lombardia, con sigla automobilistica e flag città metropolitana. List of 12 provincial-tier units in the Lombardia region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 16,
+      "nome": "Bergamo",
+      "slug": "bergamo",
+      "sigla": "BG",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 243
+    },
+    {
+      "id": 17,
+      "nome": "Brescia",
+      "slug": "brescia",
+      "sigla": "BS",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 205
+    },
+    {
+      "id": 13,
+      "nome": "Como",
+      "slug": "como",
+      "sigla": "CO",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 148
+    },
+    {
+      "id": 19,
+      "nome": "Cremona",
+      "slug": "cremona",
+      "sigla": "CR",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 113
+    },
+    {
+      "id": 97,
+      "nome": "Lecco",
+      "slug": "lecco",
+      "sigla": "LC",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 84
+    },
+    {
+      "id": 98,
+      "nome": "Lodi",
+      "slug": "lodi",
+      "sigla": "LO",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 60
+    },
+    {
+      "id": 108,
+      "nome": "Monza e della Brianza",
+      "slug": "monza-e-della-brianza",
+      "sigla": "MB",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 55
+    },
+    {
+      "id": 215,
+      "nome": "Milano",
+      "slug": "milano",
+      "sigla": "MI",
+      "citta_metropolitana": true,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 133
+    },
+    {
+      "id": 20,
+      "nome": "Mantova",
+      "slug": "mantova",
+      "sigla": "MN",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 64
+    },
+    {
+      "id": 18,
+      "nome": "Pavia",
+      "slug": "pavia",
+      "sigla": "PV",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 186
+    },
+    {
+      "id": 14,
+      "nome": "Sondrio",
+      "slug": "sondrio",
+      "sigla": "SO",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 77
+    },
+    {
+      "id": 12,
+      "nome": "Varese",
+      "slug": "varese",
+      "sigla": "VA",
+      "citta_metropolitana": false,
+      "regione_id": 3,
+      "regione_nome": "Lombardia",
+      "regione_slug": "lombardia",
+      "num_comuni": 138
+    }
+  ],
+  "meta": {
+    "title": "Province della Lombardia (Provinces of Lombardia) - Download gratuito",
+    "description": "Elenco delle 12 unità provinciali della regione Lombardia, con sigla automobilistica e flag città metropolitana. List of 12 provincial-tier units in the Lombardia region with 2-letter sigla and metropolitan-city flag. Contiene 12 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Lombardia (Provinces of Lombardia) | ListBase",
+    "seo_description": "Scarica Province della Lombardia (Provinces of Lombardia) — 12 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 12 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

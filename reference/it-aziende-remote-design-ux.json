@@ -1,0 +1,577 @@
+{
+  "id": "it-aziende-remote-design-ux",
+  "name": "Aziende remote-friendly — settore Design & UX (Design & UX sector)",
+  "title": "Aziende remote-friendly — settore Design & UX (Design & UX sector)",
+  "description": "Le 46 aziende italiane remote-friendly attive nel settore \"Design & UX\" (design_ux). Suddivisione per settore del dataset it-aziende-remote (348 aziende).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "career_page_url",
+      "label": "Career Page Url",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy",
+      "label": "Remote Policy",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy_it",
+      "label": "Remote Policy It",
+      "type": "string"
+    },
+    {
+      "key": "hiring_policies",
+      "label": "Hiring Policies",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Beliven",
+      "url": "https://beliven.com",
+      "career_page_url": "https://careers.beliven.com",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Node, Vue.js, React, Angular, React Native, Docker, Kubernetes, Terraform"
+    },
+    {
+      "name": "Belka",
+      "url": "https://www.belkadigital.com",
+      "career_page_url": "https://www.belkadigital.com/careers",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "JavaScript, React, TypeScript"
+    },
+    {
+      "name": "BIP",
+      "url": "https://www.bip-group.com/",
+      "career_page_url": "https://www.bip-group.com/careers/",
+      "type": "Consulting",
+      "categories": "cloud_software, cybersecurity, design_ux, hr",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Cloud, GCP, AWS, Azure, AI, Data Science, UX, UI, BI, Mobile Development, Web Development"
+    },
+    {
+      "name": "Claranet Italia",
+      "url": "https://www.claranet.it/",
+      "career_page_url": "https://claranetitalia.recruitee.com/l/it",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract, Direct",
+      "tags": "AWS, Serverless, Terraform, PHP, NodeJs, Javascript, TypeScript, React, Angular, Java, Kotlin, Android, iOS, Python, .NET, Mobile Apps, UI/UX Design"
+    },
+    {
+      "name": "Cloud Academy",
+      "url": "https://www.cloudacademy.com",
+      "career_page_url": "https://jobs.cloudacademy.com",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "",
+      "tags": "AWS, Django, GraphQL, Kotlin, Python, PostgresQL, React, TypeScript"
+    },
+    {
+      "name": "CodicePlastico",
+      "url": "https://codiceplastico.com/",
+      "career_page_url": "https://codiceplastico.com/",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": ".NET, Node.js, Elixir, Angular, React, Azure, Kubernetes, Figma, RabbitMQ, MongoDb, PostgreSQL"
+    },
+    {
+      "name": "Dscovr",
+      "url": "http://www.dscovr.io",
+      "career_page_url": "https://apply.workable.com/dscovr",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "AWS, AI/ML, Data Science, Python, UX, UI, PHP, Web Development, Typescript, TailwindCSS, Vue.js, Laravel, GraphQL, Terraform, Docker, Mixpanel"
+    },
+    {
+      "name": "DuckDuckGo",
+      "url": "https://www.duckduckgo.com/",
+      "career_page_url": "https://duckduckgo.com/hiring",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux, hr, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "",
+      "tags": "TypeScript, JavaScript, MacOS, iOS, Android"
+    },
+    {
+      "name": "D/Vision Lab s.r.l.",
+      "url": "https://www.dvisionlab.com/",
+      "career_page_url": "https://www.dvisionlab.com/careers/careers",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Angular, Blender, Cornerstone.js, Django, Docker, Electron, JavaScript, Machine Learning, Node.js, Python, React, Three.js, TypeScript, VTK, Vue.js, WebGL"
+    },
+    {
+      "name": "Elite Division",
+      "url": "https://www.elitedivision.it/",
+      "career_page_url": "https://www.linkedin.com/company/elite-division/jobs/",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Java, Angular, Spring Framework, JavaScript, TypeScript, HTML, CSS, SQL, NoSQL"
+    },
+    {
+      "name": "Evologi",
+      "url": "https://evologi.it/",
+      "career_page_url": "https://evologi.it/carriera/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "JavaScript, TypeScript, Node.js, PostgreSQL, MongoDB, Azure, Kubernetes, RabbitMQ, Angular, DevOps, Python"
+    },
+    {
+      "name": "Exeen",
+      "url": "https://www.linkedin.com/company/exeen/",
+      "career_page_url": "https://www.linkedin.com/company/exeen/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "UX, Ecommerce"
+    },
+    {
+      "name": "Exibe",
+      "url": "https://www.exibe.it",
+      "career_page_url": "https://www.exibe.it/careers",
+      "type": "Consulting",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Contract",
+      "tags": "Laravel, PHP, Wordpress, WooCommerce, Flutter, Android, iOS, Vue, Livewire, Agile Development, JavaScript, TailwindCSS, SASS, Docker, Internet of Things, Arduino, ESP32, CRM, Python, Figma"
+    },
+    {
+      "name": "Fastloop",
+      "url": "https://www.fastloop.it/",
+      "career_page_url": "https://www.fastloop.it/careers/",
+      "type": "Consulting",
+      "categories": "design_ux, cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Business Analyst, Content Design, AWS, Javascript/Typescript, Flutter, Node.js/React, Terraform, Docker, Continuous Delivery, Organization Design, QA, UAT, Functional Testing, User Research, Interaction Design, Brand Identity, Application Maintenance, UI Design, UX Design"
+    },
+    {
+      "name": "Fifth Beat",
+      "url": "https://fifthbeat.com/",
+      "career_page_url": "https://fifthbeat.com/contacts",
+      "type": "Consulting",
+      "categories": "design_ux, cloud_software",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Business Analyst, Content Design, AWS, Javascript/Typescript, Flutter, Node.js/React, Terraform, Docker, Continuous Delivery, Organization Design, QA, UAT, Functional Testing, User Research, Interaction Design, Brand Identity, Application Maintenance, UI Design, UX Design"
+    },
+    {
+      "name": "Hopper",
+      "url": "https://hopper.com/",
+      "career_page_url": "https://hopper.com/careers",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Intermediary",
+      "tags": "Scala, Kubernetes, Terraform"
+    },
+    {
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com/",
+      "career_page_url": "https://careers.hotjar.com/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "",
+      "tags": "AWS, Kubernetes, Terraform, Python, React"
+    },
+    {
+      "name": "Immobiliare.it",
+      "url": "https://labs.immobiliare.it/",
+      "career_page_url": "https://www.immobiliare.it/info/lavora-con-noi/?utm_source=GitHubAwesomeItaliaRemote",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Swift, Java, Kotlin, Sass, React, Node.js, PHP, Python, Go, GIS, RabbitMQ, Big Data, Machine Learning, OpenStack, Palo Alto Networks, Arista Networks, Kubernetes, Terraform, SaltStack, Ansible"
+    },
+    {
+      "name": "Intarget",
+      "url": "https://www.linkedin.com/company/intarget-group/",
+      "career_page_url": "https://www.linkedin.com/company/intarget-group/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Design, UX, UI, 3D"
+    },
+    {
+      "name": "Intent",
+      "url": "https://withintent.com",
+      "career_page_url": "https://withintent.com/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Contract",
+      "tags": "iOS, Android, IoT, AWS, Node.js, Flutter, JavaScript, Swift, Kotlin, React Native"
+    },
+    {
+      "name": "Jagaad",
+      "url": "https://jagaad.com",
+      "career_page_url": "https://jagaad.com/careers",
+      "type": "B2C",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "API Integrations, AWS, Docker, Figma, Flutter, Go, Java, JavaScript, Magento, Mobile Apps, Next.js, Node, PHP, PostgreSQL, PrestaShop, React, Sitecore, Strapi, TypeScript, Vue"
+    },
+    {
+      "name": "Jet HR",
+      "url": "https://www.jethr.com/",
+      "career_page_url": "https://www.linkedin.com/company/jethr/jobs/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, hr",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Python, Django, Django REST framework, JavaScript, Vue.js, AWS, Figma, Notion"
+    },
+    {
+      "name": "Koodit",
+      "url": "https://www.linkedin.com/company/koodit/",
+      "career_page_url": "https://www.linkedin.com/company/koodit/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing, React, Wordpress"
+    },
+    {
+      "name": "Lotrek Digital Agency",
+      "url": "https://www.linkedin.com/company/lotrek/",
+      "career_page_url": "https://www.linkedin.com/company/lotrek/jobs",
+      "type": "Consulting",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, Typescript, Angular"
+    },
+    {
+      "name": "Luna Labs Srl",
+      "url": "https://www.lunalabs.it",
+      "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing, hr, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Java, Angular, Vue, Node, Python, C#, .NET, iOS, Android, Docker, PostgreSQL, MySQL, Apache Solr, GitLab, DevOps, AI"
+    },
+    {
+      "name": "MailUp",
+      "url": "https://www.mailup.com/",
+      "career_page_url": "https://www.growens.io/en/work-with-us/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "",
+      "tags": "Linux, Go, AWS, IaC, React, Angular, C#, Python"
+    },
+    {
+      "name": "Meta",
+      "url": "https://about.facebook.com/meta/",
+      "career_page_url": "https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy",
+      "type": "",
+      "categories": "design_ux, hr, marketing_writing, cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "C, Linux, Kernel, Rust"
+    },
+    {
+      "name": "MIRAI BAY",
+      "url": "https://www.linkedin.com/company/mirai-bay/",
+      "career_page_url": "https://www.linkedin.com/company/mirai-bay/jobs",
+      "type": "B2B",
+      "categories": "design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Digital Marketing, Mobile app"
+    },
+    {
+      "name": "Mostrum Srl",
+      "url": "https://mostrum.com",
+      "career_page_url": "https://mostrum.com/candidature",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Javascript, TypeScript, React, React Native, VueJs, NodeJs, Express, Electron, PHP, Laravel, AWS, DigitalOcean, Firebase, Docker, IoT, AR (Augmented Reality), VR (Virtual Reality), WebGl, ThreeJs"
+    },
+    {
+      "name": "Neosperience",
+      "url": "https://www.neosperience.com",
+      "career_page_url": "https://www.neosperience.com/we-are-hiring/",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "AWS, Node, GraphQL, Kotlin, Python, Java, React, TypeScript, AI, Machine Learning, Data Science"
+    },
+    {
+      "name": "Officina Microtesti",
+      "url": "https://www.officinamicrotesti.it/",
+      "career_page_url": "https://www.linkedin.com/company/officina-microtesti/jobs",
+      "type": "Consulting, B2B",
+      "categories": "design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "UX Writing, Content design, Inclusive content, Accessible content, Information architecture"
+    },
+    {
+      "name": "Patchai",
+      "url": "https://www.patchai.io/",
+      "career_page_url": "https://www.linkedin.com/company/ai-patch/jobs/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "AWS, Kubernetes, Go, Node.js, Flutter, Dart, Python, Terraform"
+    },
+    {
+      "name": "Superlayer",
+      "url": "https://superlayer.co/",
+      "career_page_url": "https://superlayer-1634135852323.freshteam.com/jobs",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "",
+      "tags": "Go, Terraform, AWS, PostgreSQL, HTMX"
+    },
+    {
+      "name": "Sysdig",
+      "url": "https://sysdig.com/",
+      "career_page_url": "https://sysdig.com/jobs/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Go, AWS, GCP, Node.js, TypeScript, React, Open Source, Kubernetes, Falco, Cloud, JavaScript, Machine Learning, Java, Prometheus"
+    },
+    {
+      "name": "Telepass",
+      "url": "http://telepass.com",
+      "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Cloud, GCP, AI, Data Science, UX, UI, Mobile Development, iOS, Android, Web Development, JavaScript, React, Java, Ruby, Swift, Kotlin"
+    },
+    {
+      "name": "Thoughtworks",
+      "url": "https://www.thoughtworks.com/",
+      "career_page_url": "https://www.thoughtworks.com/careers/jobs",
+      "type": "Consulting",
+      "categories": "cloud_software, marketing_writing, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Java, JavaScript, Typescript, Python, C#, AWS, Docker, Kubernetes, Rust, Terraform, React"
+    },
+    {
+      "name": "TUI",
+      "url": "https://www.tuigroup.com/en-en",
+      "career_page_url": "https://careers.tuigroup.com/",
+      "type": "",
+      "categories": "design_ux, hr",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "",
+      "tags": ""
+    },
+    {
+      "name": "Tundr",
+      "url": "https://www.tundr.tech/",
+      "career_page_url": "https://www.tundr.tech/jobs",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Node, Go, Nest, React, Serverless, Microservices, Vue, TypeScript, Android, iOS, Flutter, AWS"
+    },
+    {
+      "name": "UNGUESS",
+      "url": "https://unguess.io/",
+      "career_page_url": "https://www.linkedin.com/company/unguess/jobs",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "AWS, Node.js, TypeScript, React, DevOps, Databases, PHP"
+    },
+    {
+      "name": "Up2You Srl SB",
+      "url": "https://www.u2y.io/",
+      "career_page_url": "https://www.u2y.io/careers",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Laravel, Vue JS, AWS, Blockchain"
+    },
+    {
+      "name": "WeSchool",
+      "url": "https://www.weschool.com/",
+      "career_page_url": "http://join.weschool.com/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct, Contract",
+      "tags": "Javascript, React, Mobx, PHP, Symfony, Elasticsearch, AWS, EdTech"
+    },
+    {
+      "name": "WeRoad",
+      "url": "https://www.weroad.it/",
+      "career_page_url": "https://career.weroad.travel/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Node.js (Nest.js), PHP (Laravel), Vue (Nuxt.js), GCP"
+    },
+    {
+      "name": "Whatwapp",
+      "url": "https://whatwapp.com/",
+      "career_page_url": "https://whatwapp.com/careers/",
+      "type": "Product",
+      "categories": "cloud_software, design_ux",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Unity3D, C#, TypeScript, Nakama, iOS, Android, Mobile Gaming"
+    },
+    {
+      "name": "YOOX NET-A-PORTER GROUP",
+      "url": "https://www.ynap.com/it",
+      "career_page_url": "https://www.ynap.com/it/pagine/careers",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, hr",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "iOS, Android, JavaScript, AWS, TypeScript, React, Node.js"
+    },
+    {
+      "name": "Zendesk",
+      "url": "https://www.zendesk.com",
+      "career_page_url": "https://jobs.zendesk.com/us/en",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, marketing_writing",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Android, AWS, Go, iOS, Java, JavaScript, Kafka, Kubernetes, Python, React, Scala, Terraform, Typescript"
+    },
+    {
+      "name": "ZuruTech",
+      "url": "https://zuru.tech/",
+      "career_page_url": "https://zuru.tech/careers",
+      "type": "Product",
+      "categories": "cloud_software, design_ux, hr",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "C++, UnrealEngine, MacOS, Linux, Machine Learning"
+    }
+  ],
+  "meta": {
+    "title": "Aziende remote-friendly — settore Design & UX (Design & UX sector) - Download gratuito",
+    "description": "Le 46 aziende italiane remote-friendly attive nel settore \"Design & UX\" (design_ux). Suddivisione per settore del dataset it-aziende-remote (348 aziende). Contiene 46 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aziende remote-friendly — settore Design & UX (Design & UX sector) | ListBase",
+    "seo_description": "Scarica Aziende remote-friendly — settore Design & UX (Design & UX sector) — 46 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 46 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

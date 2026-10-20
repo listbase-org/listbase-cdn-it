@@ -1,0 +1,148 @@
+{
+  "id": "it-veneto-province",
+  "name": "Province della Veneto (Provinces of Veneto)",
+  "title": "Province della Veneto (Provinces of Veneto)",
+  "description": "Elenco delle 7 unità provinciali della regione Veneto, con sigla automobilistica e flag città metropolitana. List of 7 provincial-tier units in the Veneto region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "nome": "Belluno",
+      "slug": "belluno",
+      "sigla": "BL",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 61
+    },
+    {
+      "id": 28,
+      "nome": "Padova",
+      "slug": "padova",
+      "sigla": "PD",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 102
+    },
+    {
+      "id": 29,
+      "nome": "Rovigo",
+      "slug": "rovigo",
+      "sigla": "RO",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 50
+    },
+    {
+      "id": 26,
+      "nome": "Treviso",
+      "slug": "treviso",
+      "sigla": "TV",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 94
+    },
+    {
+      "id": 227,
+      "nome": "Venezia",
+      "slug": "venezia",
+      "sigla": "VE",
+      "citta_metropolitana": true,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 44
+    },
+    {
+      "id": 24,
+      "nome": "Vicenza",
+      "slug": "vicenza",
+      "sigla": "VI",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 114
+    },
+    {
+      "id": 23,
+      "nome": "Verona",
+      "slug": "verona",
+      "sigla": "VR",
+      "citta_metropolitana": false,
+      "regione_id": 5,
+      "regione_nome": "Veneto",
+      "regione_slug": "veneto",
+      "num_comuni": 98
+    }
+  ],
+  "meta": {
+    "title": "Province della Veneto (Provinces of Veneto) - Download gratuito",
+    "description": "Elenco delle 7 unità provinciali della regione Veneto, con sigla automobilistica e flag città metropolitana. List of 7 provincial-tier units in the Veneto region with 2-letter sigla and metropolitan-city flag. Contiene 7 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Veneto (Provinces of Veneto) | ListBase",
+    "seo_description": "Scarica Province della Veneto (Provinces of Veneto) — 7 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 7 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

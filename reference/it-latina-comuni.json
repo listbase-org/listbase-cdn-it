@@ -1,0 +1,472 @@
+{
+  "id": "it-latina-comuni",
+  "name": "Comuni della provincia di Latina",
+  "title": "Comuni della provincia di Latina",
+  "description": "Elenco dei 33 comuni della provincia di Latina (sigla LT), regione Lazio. List of 33 comuni in the province of Latina (LT), Lazio region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 59001,
+      "nome": "Aprilia",
+      "slug": "aprilia",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59002,
+      "nome": "Bassiano",
+      "slug": "bassiano",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59003,
+      "nome": "Campodimele",
+      "slug": "campodimele",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59004,
+      "nome": "Castelforte",
+      "slug": "castelforte",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59005,
+      "nome": "Cisterna di Latina",
+      "slug": "cisterna-di-latina",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59006,
+      "nome": "Cori",
+      "slug": "cori",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59007,
+      "nome": "Fondi",
+      "slug": "fondi",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59008,
+      "nome": "Formia",
+      "slug": "formia",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59009,
+      "nome": "Gaeta",
+      "slug": "gaeta",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59010,
+      "nome": "Itri",
+      "slug": "itri",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59011,
+      "nome": "Latina",
+      "slug": "latina",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59012,
+      "nome": "Lenola",
+      "slug": "lenola",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59013,
+      "nome": "Maenza",
+      "slug": "maenza",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59014,
+      "nome": "Minturno",
+      "slug": "minturno",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59015,
+      "nome": "Monte San Biagio",
+      "slug": "monte-san-biagio",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59016,
+      "nome": "Norma",
+      "slug": "norma",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59017,
+      "nome": "Pontinia",
+      "slug": "pontinia",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59018,
+      "nome": "Ponza",
+      "slug": "ponza",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59019,
+      "nome": "Priverno",
+      "slug": "priverno",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59020,
+      "nome": "Prossedi",
+      "slug": "prossedi",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59022,
+      "nome": "Rocca Massima",
+      "slug": "rocca-massima",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59021,
+      "nome": "Roccagorga",
+      "slug": "roccagorga",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59023,
+      "nome": "Roccasecca dei Volsci",
+      "slug": "roccasecca-dei-volsci",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59024,
+      "nome": "Sabaudia",
+      "slug": "sabaudia",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59025,
+      "nome": "San Felice Circeo",
+      "slug": "san-felice-circeo",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59026,
+      "nome": "Santi Cosma e Damiano",
+      "slug": "santi-cosma-e-damiano",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59027,
+      "nome": "Sermoneta",
+      "slug": "sermoneta",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59028,
+      "nome": "Sezze",
+      "slug": "sezze",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59029,
+      "nome": "Sonnino",
+      "slug": "sonnino",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59030,
+      "nome": "Sperlonga",
+      "slug": "sperlonga",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59031,
+      "nome": "Spigno Saturnia",
+      "slug": "spigno-saturnia",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59032,
+      "nome": "Terracina",
+      "slug": "terracina",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    },
+    {
+      "id": 59033,
+      "nome": "Ventotene",
+      "slug": "ventotene",
+      "provincia_id": 59,
+      "provincia_nome": "Latina",
+      "provincia_sigla": "LT",
+      "provincia_slug": "latina",
+      "regione_id": 12,
+      "regione_nome": "Lazio",
+      "regione_slug": "lazio"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Latina - Download gratuito",
+    "description": "Elenco dei 33 comuni della provincia di Latina (sigla LT), regione Lazio. List of 33 comuni in the province of Latina (LT), Lazio region. Contiene 33 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Latina | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Latina — 33 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 33 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "id": "it-rimini-banche",
+  "name": "Banche a Rimini — codici SWIFT/BIC",
+  "title": "Banche a Rimini — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Rimini, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1116,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ANTBIT21730"
+    },
+    {
+      "id": 1664,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI RIMINI)",
+      "swift_code": "CRGEITG1636"
+    },
+    {
+      "id": 2022,
+      "bank": "BANCA CARIM-CASSA DI RISPARMIO DI RIMINI SPA",
+      "city": "RIMINI",
+      "branch": "(TESORERIA)",
+      "swift_code": "CRRNIT2RTES"
+    },
+    {
+      "id": 2023,
+      "bank": "BANCA CARIM-CASSA DI RISPARMIO DI RIMINI SPA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "CRRNIT2R"
+    },
+    {
+      "id": 2946,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI GRADARA",
+      "city": "RIMINI",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1G2H"
+    },
+    {
+      "id": 2954,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI GRADARA SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI RIMINI)",
+      "swift_code": "ICRAITR1G2E"
+    },
+    {
+      "id": 3843,
+      "bank": "BANCA MALATESTIANA CREDITO COOPERATIVO-SOC. COOP.",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI PALAZZO GHETTI)",
+      "swift_code": "ICRAITR1E2Q"
+    },
+    {
+      "id": 3844,
+      "bank": "BANCA MALATESTIANA CREDITO COOPERATIVO-SOC. COOP.",
+      "city": "RIMINI",
+      "branch": "(SEDE DI PALAZZO GHETTI)",
+      "swift_code": "ICRAITRRE20"
+    },
+    {
+      "id": 3855,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-CELLE)",
+      "swift_code": "ICRAITR1E22"
+    },
+    {
+      "id": 3856,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-CENTRO)",
+      "swift_code": "ICRAITR1E2H"
+    },
+    {
+      "id": 3857,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-FLAMINIA)",
+      "swift_code": "ICRAITR1E2F"
+    },
+    {
+      "id": 3858,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-GROTTA ROSSA)",
+      "swift_code": "ICRAITR1E29"
+    },
+    {
+      "id": 3859,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-ITTICO)",
+      "swift_code": "ICRAITR1E23"
+    },
+    {
+      "id": 3860,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-RIVABELLA)",
+      "swift_code": "ICRAITR1E27"
+    },
+    {
+      "id": 3861,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-RIVAZZURRA)",
+      "swift_code": "ICRAITR1E2D"
+    },
+    {
+      "id": 3862,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-SAN VITO)",
+      "swift_code": "ICRAITR1E2R"
+    },
+    {
+      "id": 3863,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-SANTA GIUSTINA)",
+      "swift_code": "ICRAITR1E21"
+    },
+    {
+      "id": 3864,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(RIMINI-TORRE PEDRERA)",
+      "swift_code": "ICRAITR1E25"
+    },
+    {
+      "id": 3870,
+      "bank": "BANCA MALATESTIANA-CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI MARECCHIESE)",
+      "swift_code": "ICRAITR1E2T"
+    },
+    {
+      "id": 5761,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RIMINI",
+      "branch": "(RIMINI AG. 1)",
+      "swift_code": "PASCITM1730"
+    },
+    {
+      "id": 5762,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "PASCITM1FO1"
+    },
+    {
+      "id": 6968,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "RIMINI",
+      "branch": "(AGENZIA A)",
+      "swift_code": "BNLIITR19YZ"
+    },
+    {
+      "id": 6969,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "BNLIITR19WZ"
+    },
+    {
+      "id": 9365,
+      "bank": "BANCA POPOLARE VALCONCA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "BPVMIT2RRIM"
+    },
+    {
+      "id": 10911,
+      "bank": "BANCO BPM SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI)",
+      "swift_code": "BAPPIT21U47"
+    },
+    {
+      "id": 12741,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "RIMINI",
+      "branch": "(FILIALE IMPRESE)",
+      "swift_code": "IBSPIT2F300"
+    },
+    {
+      "id": 12742,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI - PIAZZA FERRARI 7)",
+      "swift_code": "IBSPIT2F063"
+    },
+    {
+      "id": 13750,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "IBSPIT2BRIM"
+    },
+    {
+      "id": 14685,
+      "bank": "COMUNE DI RIMINI",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "CURNIT21"
+    },
+    {
+      "id": 15469,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "BACRIT21225"
+    },
+    {
+      "id": 16432,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "RIMINI",
+      "branch": "(SPORTELLO DI RIMINI)",
+      "swift_code": "DEUTITM1775"
+    },
+    {
+      "id": 16942,
+      "bank": "GIACOMELLI SPORT GROUP SPA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "GISRIT21"
+    },
+    {
+      "id": 18342,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "RIMINI",
+      "branch": "(RIMINI)",
+      "swift_code": "VEBHIT21478"
+    },
+    {
+      "id": 18658,
+      "bank": "MARR SPA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "MRRRIT21"
+    },
+    {
+      "id": 19000,
+      "bank": "PROVINCIA DI RIMINI",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "PORIIT21"
+    },
+    {
+      "id": 19267,
+      "bank": "RIMINI FIERA S.P.A.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "RIMIIT21"
+    },
+    {
+      "id": 19269,
+      "bank": "RIMINIBANCA CREDITO COOPERATIVO DI RIMINI E VALMARECCHIA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ICRAITR1RN1"
+    },
+    {
+      "id": 19270,
+      "bank": "RIMINIBANCA CREDITO COOPERATIVO DI RIMINI E VALMARECCHIA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ICRAITR1RN2"
+    },
+    {
+      "id": 19271,
+      "bank": "RIMINIBANCA CREDITO COOPERATIVO DI RIMINI E VALMARECCHIA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ICRAITR1RN3"
+    },
+    {
+      "id": 19272,
+      "bank": "RIMINIBANCA CREDITO COOPERATIVO DI RIMINI E VALMARECCHIA",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ICRAITRRRN0"
+    },
+    {
+      "id": 19292,
+      "bank": "ROMAGNABANCA CRED.COOP. ROMAGNA EST E SALA DI CESENATICO S.C.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "ICRAITR1NOC"
+    },
+    {
+      "id": 19387,
+      "bank": "SCM GROUP S.P.A.",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "SCGOIT21"
+    },
+    {
+      "id": 19659,
+      "bank": "TELECOM ITALIA SPARKLE S.P.A.",
+      "city": "RIMINI",
+      "branch": "(UFF. RIMINI)",
+      "swift_code": "TISIITRRURM"
+    },
+    {
+      "id": 20047,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "RIMINI",
+      "branch": "(VISERBA BRANCH)",
+      "swift_code": "BAMAIT3A157"
+    },
+    {
+      "id": 20048,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "RIMINI",
+      "branch": "",
+      "swift_code": "BAMAIT3A267"
+    },
+    {
+      "id": 20262,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "RIMINI",
+      "branch": "(BRANCH)",
+      "swift_code": "ARBAIT33185"
+    },
+    {
+      "id": 20894,
+      "bank": "UBI BANCA SPA",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI RIMINI VIA POLETTI)",
+      "swift_code": "BLOPIT2251T"
+    },
+    {
+      "id": 20895,
+      "bank": "UBI BANCA SPA",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI RIMINI)",
+      "swift_code": "BLOPIT22B26"
+    },
+    {
+      "id": 20896,
+      "bank": "UBI BANCA SPA",
+      "city": "RIMINI",
+      "branch": "(FILIALE DI VISERBA)",
+      "swift_code": "BLOPIT22B56"
+    },
+    {
+      "id": 21765,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "RIMINI",
+      "branch": "(RIMINI 1 VIA POLETTI)",
+      "swift_code": "BPAMIT31524"
+    },
+    {
+      "id": 24818,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(ESTERO MERCI RIMINI)",
+      "swift_code": "UNCRITMMRNE"
+    },
+    {
+      "id": 24819,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI D'AUGUSTO)",
+      "swift_code": "UNCRITM1SM0"
+    },
+    {
+      "id": 24820,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI FLAMINIA A)",
+      "swift_code": "UNCRITM1SM6"
+    },
+    {
+      "id": 24821,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI FLAMINIA B)",
+      "swift_code": "UNCRITM1SM3"
+    },
+    {
+      "id": 24822,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI REGINA ELENA A)",
+      "swift_code": "UNCRITM1SM4"
+    },
+    {
+      "id": 24823,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI VALTURIO)",
+      "swift_code": "UNCRITM1MS1"
+    },
+    {
+      "id": 24824,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI VESPUCCI)",
+      "swift_code": "UNCRITM1SM2"
+    },
+    {
+      "id": 24825,
+      "bank": "UNICREDIT SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI)",
+      "swift_code": "UNCRITM1Y48"
+    },
+    {
+      "id": 26087,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "RIMINI",
+      "branch": "(RIMINI BRANCH)",
+      "swift_code": "BAECIT21120"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Rimini — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Rimini, Italy Contiene 59 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Rimini — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Rimini — codici SWIFT/BIC — 59 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 59 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

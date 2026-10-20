@@ -1,0 +1,568 @@
+{
+  "id": "it-firenze-comuni",
+  "name": "Comuni della provincia di Firenze (Città Metropolitana)",
+  "title": "Comuni della provincia di Firenze (Città Metropolitana)",
+  "description": "Elenco dei 41 comuni della città metropolitana di Firenze (sigla FI), regione Toscana. List of 41 comuni in the metropolitan city of Firenze (FI), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 48001,
+      "nome": "Bagno a Ripoli",
+      "slug": "bagno-a-ripoli",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48054,
+      "nome": "Barberino Tavarnelle",
+      "slug": "barberino-tavarnelle",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48002,
+      "nome": "Barberino di Mugello",
+      "slug": "barberino-di-mugello",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48004,
+      "nome": "Borgo San Lorenzo",
+      "slug": "borgo-san-lorenzo",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48005,
+      "nome": "Calenzano",
+      "slug": "calenzano",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48006,
+      "nome": "Campi Bisenzio",
+      "slug": "campi-bisenzio",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48008,
+      "nome": "Capraia e Limite",
+      "slug": "capraia-e-limite",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48010,
+      "nome": "Castelfiorentino",
+      "slug": "castelfiorentino",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48011,
+      "nome": "Cerreto Guidi",
+      "slug": "cerreto-guidi",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48012,
+      "nome": "Certaldo",
+      "slug": "certaldo",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48013,
+      "nome": "Dicomano",
+      "slug": "dicomano",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48014,
+      "nome": "Empoli",
+      "slug": "empoli",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48015,
+      "nome": "Fiesole",
+      "slug": "fiesole",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48052,
+      "nome": "Figline e Incisa Valdarno",
+      "slug": "figline-e-incisa-valdarno",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48017,
+      "nome": "Firenze",
+      "slug": "firenze",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48018,
+      "nome": "Firenzuola",
+      "slug": "firenzuola",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48019,
+      "nome": "Fucecchio",
+      "slug": "fucecchio",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48020,
+      "nome": "Gambassi Terme",
+      "slug": "gambassi-terme",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48021,
+      "nome": "Greve in Chianti",
+      "slug": "greve-in-chianti",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48022,
+      "nome": "Impruneta",
+      "slug": "impruneta",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48024,
+      "nome": "Lastra a Signa",
+      "slug": "lastra-a-signa",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48025,
+      "nome": "Londa",
+      "slug": "londa",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48026,
+      "nome": "Marradi",
+      "slug": "marradi",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48027,
+      "nome": "Montaione",
+      "slug": "montaione",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48028,
+      "nome": "Montelupo Fiorentino",
+      "slug": "montelupo-fiorentino",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48030,
+      "nome": "Montespertoli",
+      "slug": "montespertoli",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48031,
+      "nome": "Palazzuolo sul Senio",
+      "slug": "palazzuolo-sul-senio",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48032,
+      "nome": "Pelago",
+      "slug": "pelago",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48033,
+      "nome": "Pontassieve",
+      "slug": "pontassieve",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48035,
+      "nome": "Reggello",
+      "slug": "reggello",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48036,
+      "nome": "Rignano sull'Arno",
+      "slug": "rignano-sullarno",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48037,
+      "nome": "Rufina",
+      "slug": "rufina",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48038,
+      "nome": "San Casciano in Val di Pesa",
+      "slug": "san-casciano-in-val-di-pesa",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48039,
+      "nome": "San Godenzo",
+      "slug": "san-godenzo",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48041,
+      "nome": "Scandicci",
+      "slug": "scandicci",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48053,
+      "nome": "Scarperia e San Piero",
+      "slug": "scarperia-e-san-piero",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48043,
+      "nome": "Sesto Fiorentino",
+      "slug": "sesto-fiorentino",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48044,
+      "nome": "Signa",
+      "slug": "signa",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48046,
+      "nome": "Vaglia",
+      "slug": "vaglia",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48049,
+      "nome": "Vicchio",
+      "slug": "vicchio",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 48050,
+      "nome": "Vinci",
+      "slug": "vinci",
+      "provincia_id": 248,
+      "provincia_nome": "Firenze",
+      "provincia_sigla": "FI",
+      "provincia_slug": "firenze",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Firenze (Città Metropolitana) - Download gratuito",
+    "description": "Elenco dei 41 comuni della città metropolitana di Firenze (sigla FI), regione Toscana. List of 41 comuni in the metropolitan city of Firenze (FI), Toscana region. Contiene 41 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Firenze (Città Metropolitana) | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Firenze (Città Metropolitana) — 41 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 41 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

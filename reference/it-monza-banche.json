@@ -1,0 +1,541 @@
+{
+  "id": "it-monza-banche",
+  "name": "Banche a Monza — codici SWIFT/BIC",
+  "title": "Banche a Monza — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Monza, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41,
+      "bank": "ACSM-AGAM SPA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "ACSMIT21"
+    },
+    {
+      "id": 930,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MONZA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21681"
+    },
+    {
+      "id": 931,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "ANTBIT21664"
+    },
+    {
+      "id": 1617,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA)",
+      "swift_code": "CRGEITG1550"
+    },
+    {
+      "id": 2815,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L.",
+      "city": "MONZA",
+      "branch": "(MONZA SAN ROCCO)",
+      "swift_code": "CRCBIT21023"
+    },
+    {
+      "id": 2816,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "CRCBIT21015"
+    },
+    {
+      "id": 5249,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA AG. 1)",
+      "swift_code": "PASCITM1664"
+    },
+    {
+      "id": 5250,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA AG. 2)",
+      "swift_code": "PASCITM1681"
+    },
+    {
+      "id": 5251,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "PASCITMMMZA"
+    },
+    {
+      "id": 6856,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MONZA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR179Z"
+    },
+    {
+      "id": 6857,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "BNLIITRRMOZ"
+    },
+    {
+      "id": 8344,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA - AG. 1)",
+      "swift_code": "BPMIITM1122"
+    },
+    {
+      "id": 8345,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA - AG. 3)",
+      "swift_code": "BPMIITM1153"
+    },
+    {
+      "id": 8346,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MONZA",
+      "branch": "(REGIONAL FOREIGN DEPT.)",
+      "swift_code": "BPMIITMMM19"
+    },
+    {
+      "id": 8347,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "BPMIITM1121"
+    },
+    {
+      "id": 8880,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "MONZA",
+      "branch": "(MONZA AG. 1)",
+      "swift_code": "POSOIT2108Z"
+    },
+    {
+      "id": 8881,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "POSOIT2106W"
+    },
+    {
+      "id": 9377,
+      "bank": "BANCA PROGETTO S.P.A",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA)",
+      "swift_code": "POPHIT21003"
+    },
+    {
+      "id": 9504,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "BCVAIT2V056"
+    },
+    {
+      "id": 10636,
+      "bank": "BANCO BPM SPA",
+      "city": "MONZA",
+      "branch": "(MONZA AG. 1)",
+      "swift_code": "BAPPIT21AS5"
+    },
+    {
+      "id": 10637,
+      "bank": "BANCO BPM SPA",
+      "city": "MONZA",
+      "branch": "(MONZA AG. 2)",
+      "swift_code": "BAPPIT21AS1"
+    },
+    {
+      "id": 10638,
+      "bank": "BANCO BPM SPA",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "BAPPIT21M70"
+    },
+    {
+      "id": 11582,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "MONZA",
+      "branch": "(AG. N.1)",
+      "swift_code": "CREBIT21265"
+    },
+    {
+      "id": 11583,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "CREBIT22261"
+    },
+    {
+      "id": 11763,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "MONZA",
+      "branch": "(MONZA 31)",
+      "swift_code": "BDBDITA1031"
+    },
+    {
+      "id": 11764,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "MONZA",
+      "branch": "(MONZA 37-PIAZZA SAN PAOLO)",
+      "swift_code": "BDBDITA1037"
+    },
+    {
+      "id": 11765,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "MONZA",
+      "branch": "(MONZA 46-ROTA)",
+      "swift_code": "BDBDITA1046"
+    },
+    {
+      "id": 12674,
+      "bank": "CANDY SPA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "CAHOIT2C"
+    },
+    {
+      "id": 13036,
+      "bank": "CASSA DI RISPARMIO DI ASTI S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "CASRITA1118"
+    },
+    {
+      "id": 14588,
+      "bank": "COMUNE DI MONZA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "COZNIT21"
+    },
+    {
+      "id": 15418,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA AGENCY 2)",
+      "swift_code": "BACRIT21145"
+    },
+    {
+      "id": 15689,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "BACRIT22MON"
+    },
+    {
+      "id": 16364,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "DEUTITM1106"
+    },
+    {
+      "id": 17029,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "HAABIT2U017"
+    },
+    {
+      "id": 17488,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MONZA",
+      "branch": "(BRANCH 2 - VIA RAMAZZOTTI 22)",
+      "swift_code": "BCITITM1418"
+    },
+    {
+      "id": 17489,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MONZA",
+      "branch": "(BRANCH 3 - VIA ROMAGNA, 16)",
+      "swift_code": "BCITITM1419"
+    },
+    {
+      "id": 17490,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MONZA",
+      "branch": "(EST BRANCH - VIA AMATI 119)",
+      "swift_code": "BCITITMM411"
+    },
+    {
+      "id": 17491,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE IMPRESE MONZA OVEST)",
+      "swift_code": "BCITITMMO02"
+    },
+    {
+      "id": 17492,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE IMPRESE MONZA)",
+      "swift_code": "BCITITMMG81"
+    },
+    {
+      "id": 17903,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "MONZA",
+      "branch": "(MONZA BRANCH)",
+      "swift_code": "BPVIIT21695"
+    },
+    {
+      "id": 18296,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA)",
+      "swift_code": "VEBHIT21351"
+    },
+    {
+      "id": 18516,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "BLPIIT21108"
+    },
+    {
+      "id": 19542,
+      "bank": "SOL SPA",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "OOLSIT21"
+    },
+    {
+      "id": 19761,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA SAN ROCCO)",
+      "swift_code": "BLOPIT22966"
+    },
+    {
+      "id": 19762,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA VIA BOITO)",
+      "swift_code": "BLOPIT22953"
+    },
+    {
+      "id": 19763,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "MONZA",
+      "branch": "(SEDE DI MONZA)",
+      "swift_code": "BLOPIT22974"
+    },
+    {
+      "id": 20229,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "MONZA",
+      "branch": "(BRANCH)",
+      "swift_code": "ARBAIT33190"
+    },
+    {
+      "id": 20677,
+      "bank": "UBI BANCA SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA ARENGARIO)",
+      "swift_code": "BLOPIT22006"
+    },
+    {
+      "id": 20678,
+      "bank": "UBI BANCA SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA CAVALLOTTI)",
+      "swift_code": "BLOPIT22058"
+    },
+    {
+      "id": 20679,
+      "bank": "UBI BANCA SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA MANZONI)",
+      "swift_code": "BLOPIT22066"
+    },
+    {
+      "id": 20680,
+      "bank": "UBI BANCA SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA PIAZZA DUOMO)",
+      "swift_code": "BLOPIT22034"
+    },
+    {
+      "id": 20681,
+      "bank": "UBI BANCA SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE DI MONZA ROTA)",
+      "swift_code": "BLOPIT22071"
+    },
+    {
+      "id": 21964,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(FIL. MONZA CAVALLOTTI 1)",
+      "swift_code": "BEPOIT21132"
+    },
+    {
+      "id": 21965,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(FIL. MONZA MANZONI)",
+      "swift_code": "BEPOIT21146"
+    },
+    {
+      "id": 21966,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(FIL. MONZA PIAZZA DUOMO)",
+      "swift_code": "BEPOIT21071"
+    },
+    {
+      "id": 21967,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(FIL. MONZA ROTA)",
+      "swift_code": "BEPOIT21157"
+    },
+    {
+      "id": 21968,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(MONZA VIA BERGAMO)",
+      "swift_code": "BEPOIT21396"
+    },
+    {
+      "id": 21969,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(MONZA VIA BOITO)",
+      "swift_code": "BEPOIT21698"
+    },
+    {
+      "id": 21970,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(MONZA-ARENGARIO)",
+      "swift_code": "BEPOIT21881"
+    },
+    {
+      "id": 21971,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "(MONZA-SAN ROCCO)",
+      "swift_code": "BEPOIT21883"
+    },
+    {
+      "id": 21972,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "MONZA",
+      "branch": "",
+      "swift_code": "BEPOIT21880"
+    },
+    {
+      "id": 24237,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(ESTERO MERCI MONZA)",
+      "swift_code": "UNCRITMMMZE"
+    },
+    {
+      "id": 24238,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(FILIALE OPERATIVA LOMBARDIA OVEST)",
+      "swift_code": "UNCRITMMOLO"
+    },
+    {
+      "id": 24239,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA BORGAZZI)",
+      "swift_code": "UNCRITM1359"
+    },
+    {
+      "id": 24240,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA CAVALLOTTI A)",
+      "swift_code": "UNCRITM1MI5"
+    },
+    {
+      "id": 24241,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA E BRIANZA)",
+      "swift_code": "UNCRITM1MNZ"
+    },
+    {
+      "id": 24242,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA ENRICO DA MONZA)",
+      "swift_code": "UNCRITM1MI6"
+    },
+    {
+      "id": 24243,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA PIAZZA ROMA)",
+      "swift_code": "UNCRITM1350"
+    },
+    {
+      "id": 24244,
+      "bank": "UNICREDIT SPA",
+      "city": "MONZA",
+      "branch": "(MONZA)",
+      "swift_code": "UNCRITM174Y"
+    },
+    {
+      "id": 26034,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MONZA",
+      "branch": "(MONZA VIA CASATI BRANCH)",
+      "swift_code": "BAECIT21124"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Monza — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Monza, Italy Contiene 70 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Monza — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Monza — codici SWIFT/BIC — 70 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 70 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

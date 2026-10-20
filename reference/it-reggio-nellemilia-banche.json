@@ -1,0 +1,681 @@
+{
+  "id": "it-reggio-nellemilia-banche",
+  "name": "Banche a Reggio Nell'Emilia — codici SWIFT/BIC",
+  "title": "Banche a Reggio Nell'Emilia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Reggio Nell'Emilia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1108,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA - AG. 1)",
+      "swift_code": "ANTBIT21C32"
+    },
+    {
+      "id": 1109,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "ANTBIT21796"
+    },
+    {
+      "id": 3675,
+      "bank": "BANCA D'ITALIA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(FILIALE DI REGGIO EMILIA)",
+      "swift_code": "BITAITR1247"
+    },
+    {
+      "id": 5732,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA  - FERMI)",
+      "swift_code": "PASCITM1323"
+    },
+    {
+      "id": 5733,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA  -GRAMSCI)",
+      "swift_code": "PASCITM1322"
+    },
+    {
+      "id": 5734,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 1)",
+      "swift_code": "PASCITM1300"
+    },
+    {
+      "id": 5735,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 10)",
+      "swift_code": "PASCITM1796"
+    },
+    {
+      "id": 5736,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 2)",
+      "swift_code": "PASCITM1062"
+    },
+    {
+      "id": 5737,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 3)",
+      "swift_code": "PASCITM1135"
+    },
+    {
+      "id": 5738,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 4)",
+      "swift_code": "PASCITM1254"
+    },
+    {
+      "id": 5739,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 5)",
+      "swift_code": "PASCITM1301"
+    },
+    {
+      "id": 5740,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 6)",
+      "swift_code": "PASCITM1307"
+    },
+    {
+      "id": 5741,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 7)",
+      "swift_code": "PASCITM1314"
+    },
+    {
+      "id": 5742,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 8)",
+      "swift_code": "PASCITM1313"
+    },
+    {
+      "id": 5743,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AG. 9)",
+      "swift_code": "PASCITM1320"
+    },
+    {
+      "id": 6962,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR19RZ"
+    },
+    {
+      "id": 6963,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "BNLIITRRREX"
+    },
+    {
+      "id": 8407,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "BPMIITM1243"
+    },
+    {
+      "id": 9370,
+      "bank": "BANCA PRIVATA LEASING SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "PRLEIT23"
+    },
+    {
+      "id": 11782,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO NELL'EMILIA 384)",
+      "swift_code": "BDBDITA1384"
+    },
+    {
+      "id": 12057,
+      "bank": "BANCO EMILIANO CRED.COOP",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "ICRAITR1HC8"
+    },
+    {
+      "id": 12062,
+      "bank": "BANCO EMILIANO CRED.COOP.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "ICRAITR1HD2"
+    },
+    {
+      "id": 13747,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(FILIALE IMPRESE REGGIO EMILIA)",
+      "swift_code": "IBSPIT2BREG"
+    },
+    {
+      "id": 13748,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA - PIAZZA MARTIRI DEL VII LUGLIO 2)",
+      "swift_code": "IBSPIT2B602"
+    },
+    {
+      "id": 14679,
+      "bank": "COMUNE DI REGGIO EMILIA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "CMRMIT21"
+    },
+    {
+      "id": 14986,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(FILIALE IMPRESE REGGIO EMILIA)",
+      "swift_code": "CRFIIT2S495"
+    },
+    {
+      "id": 14987,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA 2)",
+      "swift_code": "CRFIIT2S253"
+    },
+    {
+      "id": 15454,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(BACK OFFICE INVESTMENT FUNDS)",
+      "swift_code": "BACRIT22BPG"
+    },
+    {
+      "id": 15455,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(BACK OFFICE TITOLI)",
+      "swift_code": "BACRIT22BTI"
+    },
+    {
+      "id": 15456,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(BOMCON DEPT)",
+      "swift_code": "BACRIT21BOM"
+    },
+    {
+      "id": 15457,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(CREDEM.IT)",
+      "swift_code": "BACRIT21WEB"
+    },
+    {
+      "id": 15458,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(DOCUMENTARY CREDTS DEPT.)",
+      "swift_code": "BACRIT22MEC"
+    },
+    {
+      "id": 15459,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(EUROFIDUCIARIA)",
+      "swift_code": "BACRIT22FID"
+    },
+    {
+      "id": 15460,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(GRANDI RELAZIONI)",
+      "swift_code": "BACRIT21046"
+    },
+    {
+      "id": 15461,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(INCASSI E PAGAMENTI DEPT.)",
+      "swift_code": "BACRIT22INC"
+    },
+    {
+      "id": 15462,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(LIQUIDAZIONE FORNITORI)",
+      "swift_code": "BACRIT21LIQ"
+    },
+    {
+      "id": 15463,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(PORTAFOGLIO DEPT.)",
+      "swift_code": "BACRIT21POI"
+    },
+    {
+      "id": 15464,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(SECURITIES)",
+      "swift_code": "BACRIT22SEC"
+    },
+    {
+      "id": 15465,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(SEGRETERIA CREDITI)",
+      "swift_code": "BACRIT21CRE"
+    },
+    {
+      "id": 15466,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "BACRIT22"
+    },
+    {
+      "id": 15747,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BACRIT21063"
+    },
+    {
+      "id": 15748,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 11)",
+      "swift_code": "BACRIT21329"
+    },
+    {
+      "id": 15749,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BACRIT21339"
+    },
+    {
+      "id": 15750,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 13)",
+      "swift_code": "BACRIT21362"
+    },
+    {
+      "id": 15751,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT22AGA"
+    },
+    {
+      "id": 15752,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21037"
+    },
+    {
+      "id": 15753,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21041"
+    },
+    {
+      "id": 15754,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BACRIT21045"
+    },
+    {
+      "id": 15755,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BACRIT21059"
+    },
+    {
+      "id": 15756,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BACRIT21061"
+    },
+    {
+      "id": 15757,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BACRIT21320"
+    },
+    {
+      "id": 15758,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(AGENZIA 9)",
+      "swift_code": "BACRIT21321"
+    },
+    {
+      "id": 15759,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(B. O. PAYMENTS)",
+      "swift_code": "BACRIT22EUM"
+    },
+    {
+      "id": 15760,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(COLLECTIONS DEPT)",
+      "swift_code": "BACRIT22NAT"
+    },
+    {
+      "id": 15761,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22REG"
+    },
+    {
+      "id": 15762,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(VILLA CELLA)",
+      "swift_code": "BACRIT21353"
+    },
+    {
+      "id": 16430,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "DEUTITM1771"
+    },
+    {
+      "id": 17977,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "",
+      "swift_code": "BPVIIT21249"
+    },
+    {
+      "id": 19360,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(BRANCH)",
+      "swift_code": "SFSPIT21023"
+    },
+    {
+      "id": 20045,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO NELL'EMILIA)",
+      "swift_code": "BAMAIT3A176"
+    },
+    {
+      "id": 20882,
+      "bank": "UBI BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(FILIALE DI REGGIO EMILIA VIA EMILIA)",
+      "swift_code": "BLOPIT22663"
+    },
+    {
+      "id": 20883,
+      "bank": "UBI BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(SEDE DI REGGIO EMILIA)",
+      "swift_code": "BLOPIT22781"
+    },
+    {
+      "id": 21612,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(FIL. REGGIO EMILIA VI EMILIA)",
+      "swift_code": "POCIITM1133"
+    },
+    {
+      "id": 21613,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA)",
+      "swift_code": "POCIITM1145"
+    },
+    {
+      "id": 24778,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(ESTERO MERCI REGGIO EMILIA)",
+      "swift_code": "UNCRITMMREE"
+    },
+    {
+      "id": 24779,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA AMENDOLA)",
+      "swift_code": "UNCRITM157V"
+    },
+    {
+      "id": 24780,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA BIZET)",
+      "swift_code": "UNCRITM159V"
+    },
+    {
+      "id": 24781,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA CADE')",
+      "swift_code": "UNCRITM1469"
+    },
+    {
+      "id": 24782,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA CALVI DI COENZO)",
+      "swift_code": "UNCRITM154V"
+    },
+    {
+      "id": 24783,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA CANALETTO)",
+      "swift_code": "UNCRITM166Y"
+    },
+    {
+      "id": 24784,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA GANDHI)",
+      "swift_code": "UNCRITM155V"
+    },
+    {
+      "id": 24785,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA MANARA)",
+      "swift_code": "UNCRITM153V"
+    },
+    {
+      "id": 24786,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA MARTIRI CERVAROLO)",
+      "swift_code": "UNCRITM1OR7"
+    },
+    {
+      "id": 24787,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA MONTE S.MICHELE)",
+      "swift_code": "UNCRITM1V51"
+    },
+    {
+      "id": 24788,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA PIAZZA DEL MONTE)",
+      "swift_code": "UNCRITM1447"
+    },
+    {
+      "id": 24789,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA PRAMPOLINI)",
+      "swift_code": "UNCRITM1OR0"
+    },
+    {
+      "id": 24790,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA REGINA MARGHERITA)",
+      "swift_code": "UNCRITM1MT9"
+    },
+    {
+      "id": 24791,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA RESISTENZA)",
+      "swift_code": "UNCRITM168V"
+    },
+    {
+      "id": 24792,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA TORRICELLA)",
+      "swift_code": "UNCRITM164V"
+    },
+    {
+      "id": 24793,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA V. EMILIA ALL'ANGELO A)",
+      "swift_code": "UNCRITM1NS1"
+    },
+    {
+      "id": 24794,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA V. EMILIA ALL'ANGELO B)",
+      "swift_code": "UNCRITM152V"
+    },
+    {
+      "id": 24795,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA VIA CISALPINA)",
+      "swift_code": "UNCRITM1458"
+    },
+    {
+      "id": 24796,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA VIA EMILIA S.STEFANO)",
+      "swift_code": "UNCRITM1075"
+    },
+    {
+      "id": 24797,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA)",
+      "swift_code": "UNCRITM151Y"
+    },
+    {
+      "id": 24798,
+      "bank": "UNICREDIT SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA)",
+      "swift_code": "UNCRITM1REY"
+    },
+    {
+      "id": 26080,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA 05  BRANCH)",
+      "swift_code": "BAECIT21213"
+    },
+    {
+      "id": 26081,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO EMILIA REPUBBLICA BRANCH)",
+      "swift_code": "BAECIT21150"
+    },
+    {
+      "id": 26082,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO NELL'EMILIA BRANCH)",
+      "swift_code": "BAECIT21023"
+    },
+    {
+      "id": 26083,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO NELL'EMILIA BRANCH)",
+      "swift_code": "BAECIT21026"
+    },
+    {
+      "id": 26084,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "REGGIO NELL'EMILIA",
+      "branch": "(REGGIO NELL'EMILIA BRANCH)",
+      "swift_code": "BAECIT21027"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Reggio Nell'Emilia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Reggio Nell'Emilia, Italy Contiene 90 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Reggio Nell'Emilia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Reggio Nell'Emilia — codici SWIFT/BIC — 90 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 90 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

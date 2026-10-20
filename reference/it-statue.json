@@ -1,0 +1,2986 @@
+{
+  "id": "it-statue",
+  "name": "Statue in Italia",
+  "title": "Statue in Italia",
+  "description": "Elenco delle statue in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 325,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q110110839",
+      "name_it": "Allegoria dei fiumi Gesso e Stura",
+      "name_en": "",
+      "latitude": 44.395685,
+      "longitude": 7.554606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110110839"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q126003994",
+      "name_it": "Allegoria della Fede",
+      "name_en": "Allegory of Faith",
+      "latitude": 44.429175,
+      "longitude": 8.950781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126003994"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q105687154",
+      "name_it": "antica statua di Flora",
+      "name_en": "",
+      "latitude": 37.058712,
+      "longitude": 14.90818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105687154"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q28669553",
+      "name_it": "Apollino",
+      "name_en": "Apollino",
+      "latitude": 44.493646,
+      "longitude": 11.3422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28669553"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q55087470",
+      "name_it": "Arca degli Avoscano",
+      "name_en": "",
+      "latitude": 46.140803,
+      "longitude": 12.218397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55087470"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q50307591",
+      "name_it": "Artemide Efesia",
+      "name_en": "Artemis of Ephesus (Naples)",
+      "latitude": 40.853378,
+      "longitude": 14.250486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50307591"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q56258108",
+      "name_it": "Atleta seduto",
+      "name_en": "",
+      "latitude": 45.62352,
+      "longitude": 10.56404,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258108"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q126192131",
+      "name_it": "Augusto capite velato",
+      "name_en": "Veiled head of emperor August",
+      "latitude": 43.623441,
+      "longitude": 13.510816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126192131"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3646496",
+      "name_it": "bue Apis",
+      "name_en": "bue Apis",
+      "latitude": 41.133758,
+      "longitude": 14.770239,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3646496"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q31991724",
+      "name_it": "busto a Giuseppe Giacosa",
+      "name_en": "Monument to Giuseppe Giacosa",
+      "latitude": 45.47484,
+      "longitude": 9.19835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31991724"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q56258109",
+      "name_it": "Canefora",
+      "name_en": "Canefora",
+      "latitude": 45.62435,
+      "longitude": 10.56663,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258109"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q56258262",
+      "name_it": "Cariatidi della Biblioteca Comunale",
+      "name_en": "caryatids from the Public Library",
+      "latitude": 45.52238,
+      "longitude": 11.02153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258262"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q56641513",
+      "name_it": "Carità",
+      "name_en": "Carità",
+      "latitude": 44.430044,
+      "longitude": 8.950212,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56641513"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q131859719",
+      "name_it": "Cavallo di Leonardo da Vinci",
+      "name_en": "The Horse",
+      "latitude": 45.480868,
+      "longitude": 9.129646,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131859719"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q134126147",
+      "name_it": "Cavallo morente",
+      "name_en": "Cavallo morente",
+      "latitude": 41.917568,
+      "longitude": 12.466511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134126147"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q111398462",
+      "name_it": "Cippo a Modesta Rossi Polletti e ai Martiri del 29/6/1944",
+      "name_en": "Cippo to Modesta Rossi Polletti and to the Martyrs of 29/6/1944",
+      "latitude": 43.381187,
+      "longitude": 11.676798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111398462"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q111889333",
+      "name_it": "Cippo per il 60° della Liberazione",
+      "name_en": "Memorial stone for the 60th anniversary of the Liberation",
+      "latitude": 43.688613,
+      "longitude": 10.485914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111889333"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q134779787",
+      "name_it": "colonna del leone di San Marco",
+      "name_en": "column of the Lion of Saint Mark",
+      "latitude": 45.766598,
+      "longitude": 11.733565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134779787"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q134780240",
+      "name_it": "colonna di San Bassiano",
+      "name_en": "Saint Bassianus  column",
+      "latitude": 45.7667,
+      "longitude": 11.733526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134780240"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q132148086",
+      "name_it": "Copia moderna del fauno danzante",
+      "name_en": "Modern copy of the Dancing Faun",
+      "latitude": 40.751082,
+      "longitude": 14.48463,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132148086"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q96582276",
+      "name_it": "Cristo nudo",
+      "name_en": "",
+      "latitude": 40.880469,
+      "longitude": 14.628967,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96582276"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q110112536",
+      "name_it": "Curva di Peano",
+      "name_en": "",
+      "latitude": 44.38722,
+      "longitude": 7.550329,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110112536"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q96310169",
+      "name_it": "Dialogo oltre il tempo e lo spazio",
+      "name_en": "Dialogo oltre il tempo e lo spazio",
+      "latitude": 43.786866,
+      "longitude": 10.927183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96310169"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q5840699",
+      "name_it": "Efebo di Subiaco",
+      "name_en": "Subiaco Ephebe",
+      "latitude": 41.9267,
+      "longitude": 13.0778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5840699"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q374591",
+      "name_it": "Ercole Farnese",
+      "name_en": "Farnese Hercules",
+      "latitude": 40.8534,
+      "longitude": 14.2505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q374591"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q131617913",
+      "name_it": "Ermes in riposo, replica",
+      "name_en": "Resting Hermes, replica",
+      "latitude": 40.557361,
+      "longitude": 14.225198,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131617913"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q3740784",
+      "name_it": "Fede",
+      "name_en": "Faith",
+      "latitude": 43.318062,
+      "longitude": 11.329241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3740784"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q3076346",
+      "name_it": "Fontana del Bacchino",
+      "name_en": "Fountain of Bacchino",
+      "latitude": 43.7659,
+      "longitude": 11.2513,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3076346"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q67017780",
+      "name_it": "fontana della Moretta",
+      "name_en": "Fontana della Moretta",
+      "latitude": 44.078029,
+      "longitude": 10.096342,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67017780"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q131617889",
+      "name_it": "Fontana di Gennaio",
+      "name_en": "Fountain of January",
+      "latitude": 43.821435,
+      "longitude": 11.229827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131617889"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q116977008",
+      "name_it": "fontana di San Giovanni Nepomuceno",
+      "name_en": "Saint John of Nepomuk fountain",
+      "latitude": 46.070139,
+      "longitude": 11.125569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116977008"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q132397739",
+      "name_it": "Fontana di Venere e Adone",
+      "name_en": "Venus and Adonis Fountain",
+      "latitude": 41.097189,
+      "longitude": 14.32901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132397739"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q3759752",
+      "name_it": "Genius populi romani",
+      "name_en": "Lare Farnese",
+      "latitude": 40.8534,
+      "longitude": 14.2505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3759752"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q116865252",
+      "name_it": "Giona",
+      "name_en": "Jonah",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116865252"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q56370345",
+      "name_it": "Giro del sole",
+      "name_en": "Giro del sole",
+      "latitude": 43.932556,
+      "longitude": 10.916917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56370345"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q29647089",
+      "name_it": "Grande Madre",
+      "name_en": "Grande Madre",
+      "latitude": 45.61358,
+      "longitude": 8.85155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29647089"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q105687307",
+      "name_it": "i Leoni di via Annunziata",
+      "name_en": "",
+      "latitude": 37.065357,
+      "longitude": 14.905643,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105687307"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q96688692",
+      "name_it": "Idolino per Graziella Ra",
+      "name_en": "Idolino per Graziella Ra",
+      "latitude": 43.737674,
+      "longitude": 12.781286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96688692"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q56396074",
+      "name_it": "Il Leone in Piazza San Marco",
+      "name_en": "Il Leone in Piazza San Marco",
+      "latitude": 44.90613,
+      "longitude": 10.55383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56396074"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q120765508",
+      "name_it": "",
+      "name_en": "Il Marinaio by Giampaolo Talani",
+      "latitude": 43.774405,
+      "longitude": 11.41773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120765508"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q106775981",
+      "name_it": "Immacolata della Guardia",
+      "name_en": "Immacolata della Guardia",
+      "latitude": 45.908021,
+      "longitude": 11.131249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106775981"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q132157841",
+      "name_it": "",
+      "name_en": "Isis Statue (Farnese Collection)",
+      "latitude": 40.8534,
+      "longitude": 14.2505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132157841"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q3820669",
+      "name_it": "La Bonissima",
+      "name_en": "La Bonissima",
+      "latitude": 44.645694,
+      "longitude": 10.925914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3820669"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q125149107",
+      "name_it": "La Fede",
+      "name_en": "Faith",
+      "latitude": 45.062642,
+      "longitude": 7.698949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125149107"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q16417444",
+      "name_it": "La fiducia in Dio",
+      "name_en": "Trust in God",
+      "latitude": 45.468678,
+      "longitude": 9.191372,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16417444"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q64657868",
+      "name_it": "La patria vincitrice",
+      "name_en": "La patria vincitrice",
+      "latitude": 43.838105,
+      "longitude": 10.50327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64657868"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q125149044",
+      "name_it": "La Religione",
+      "name_en": "Religion",
+      "latitude": 45.062464,
+      "longitude": 7.698739,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125149044"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q108761570",
+      "name_it": "",
+      "name_en": "La Spigolatrice",
+      "latitude": 40.073164,
+      "longitude": 15.628831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108761570"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q7848306",
+      "name_it": "La Verità",
+      "name_en": "Truth unveiled by Time",
+      "latitude": 41.914,
+      "longitude": 12.492,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7848306"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q2568227",
+      "name_it": "Leone del Pireo",
+      "name_en": "Piraeus Lion",
+      "latitude": 45.434783,
+      "longitude": 12.349817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2568227"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q13777023",
+      "name_it": "Leone della colonna di San Marco",
+      "name_en": "Lion of Venice, Piazzetta San Marco",
+      "latitude": 45.433355,
+      "longitude": 12.339915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13777023"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q126182541",
+      "name_it": "Leone di san Marco in Piazza dei Signori",
+      "name_en": "Leone di san Marco, Piazza dei Signori",
+      "latitude": 45.547628,
+      "longitude": 11.547128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126182541"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q97695779",
+      "name_it": "madonna con Bambino",
+      "name_en": "Madonna con bambino",
+      "latitude": 42.922287,
+      "longitude": 10.528086,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97695779"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q61962254",
+      "name_it": "Madonna del Carmine",
+      "name_en": "Madonna del Carmine",
+      "latitude": 43.604556,
+      "longitude": 10.770583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61962254"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q72694905",
+      "name_it": "Madonna della Lobbia",
+      "name_en": "Madonna della Lobbia",
+      "latitude": 45.649667,
+      "longitude": 11.144209,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72694905"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q67882989",
+      "name_it": "madonna di Loreto",
+      "name_en": "Madonna di Loreto",
+      "latitude": 43.858944,
+      "longitude": 12.688972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67882989"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q135003530",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.331594,
+      "longitude": 8.516985,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135003530"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q135003730",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.333205,
+      "longitude": 8.513578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135003730"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q111995825",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.343575,
+      "longitude": 8.50165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111995825"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q111995868",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.331529,
+      "longitude": 8.517229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111995868"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q111995928",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.340034,
+      "longitude": 8.50819,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111995928"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q111995952",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.340093,
+      "longitude": 8.510307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111995952"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q111996159",
+      "name_it": "Madonnetta",
+      "name_en": "Madonnetta",
+      "latitude": 44.331459,
+      "longitude": 8.513763,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111996159"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q33041976",
+      "name_it": "Madonnina d'oro delle nevi",
+      "name_en": "Madonnina d'oro delle nevi",
+      "latitude": 45.998519,
+      "longitude": 7.980274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33041976"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q56258592",
+      "name_it": "Madonnina di Bes",
+      "name_en": "Madonnina di Bes",
+      "latitude": 45.84535,
+      "longitude": 10.5873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258592"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q30133570",
+      "name_it": "Marinai con fucile",
+      "name_en": "Marinai con fucile",
+      "latitude": 43.955108,
+      "longitude": 10.17095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30133570"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q98384099",
+      "name_it": "marzocco",
+      "name_en": "Palazzo Pretorio",
+      "latitude": 43.298093,
+      "longitude": 10.875937,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98384099"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q56642177",
+      "name_it": "Maternità",
+      "name_en": "",
+      "latitude": 41.959243,
+      "longitude": 12.453722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56642177"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q133155057",
+      "name_it": "",
+      "name_en": "Mercury's Seat",
+      "latitude": 40.6424,
+      "longitude": 14.6094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133155057"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q116056818",
+      "name_it": "Mkhitar Sebastatsi",
+      "name_en": "Mkhitar Sebastatsi",
+      "latitude": 45.4121,
+      "longitude": 12.36052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116056818"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q124763014",
+      "name_it": "",
+      "name_en": "Monument Fausto Coppi",
+      "latitude": 43.907,
+      "longitude": 11.001,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124763014"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q108501603",
+      "name_it": "",
+      "name_en": "Monument to Blessed Giuseppe Dusmet, Catania",
+      "latitude": 37.50276,
+      "longitude": 15.08464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108501603"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q104245528",
+      "name_it": "",
+      "name_en": "monument to Francesco Ferrucci",
+      "latitude": 44.055697,
+      "longitude": 10.820041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104245528"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q116178844",
+      "name_it": "",
+      "name_en": "Monument to Nicola Spedalieri",
+      "latitude": 41.8983,
+      "longitude": 12.46778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116178844"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q56373511",
+      "name_it": "Monumento \"Niccolo Forteguerri\"",
+      "name_en": "Monument to Niccolò Forteguerri",
+      "latitude": 43.933917,
+      "longitude": 10.915528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56373511"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q56256391",
+      "name_it": "Monumento a Caduti della Parrocchietta e della Magliana",
+      "name_en": "Monumento ai Caduti della Parrocchietta e della Magliana",
+      "latitude": 41.8538,
+      "longitude": 12.43873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56256391"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q3862609",
+      "name_it": "monumento a Carlo Felice",
+      "name_en": "Monument to Charles Felix of Sardinia",
+      "latitude": 39.217222,
+      "longitude": 9.113333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862609"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q25054009",
+      "name_it": "Monumento a Carlo Goldoni",
+      "name_en": "Monument to Carlo Goldoni",
+      "latitude": 43.770925,
+      "longitude": 11.24775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25054009"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q109652847",
+      "name_it": "Monumento a Carlo Goldoni",
+      "name_en": "Monument to Carlo Goldoni",
+      "latitude": 45.437729,
+      "longitude": 12.336845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109652847"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q34500456",
+      "name_it": "Monumento a Carlo Guzzi",
+      "name_en": "Monument to Carlo Guzzi",
+      "latitude": 45.91707,
+      "longitude": 9.31963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34500456"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q73982391",
+      "name_it": "Monumento a Carlo Porta",
+      "name_en": "Monument to Carlo Porta",
+      "latitude": 45.462732,
+      "longitude": 9.195052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73982391"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q16579809",
+      "name_it": "Monumento a Carlo Turano",
+      "name_en": "Monument to Carlo Turano",
+      "latitude": 39.083458,
+      "longitude": 17.126672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579809"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q105989516",
+      "name_it": "Monumento a Cola di Rienzo",
+      "name_en": "Monument to Cola di Rienzo",
+      "latitude": 41.893721,
+      "longitude": 12.482324,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105989516"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q3695532",
+      "name_it": "monumento a Costantino Imperatore",
+      "name_en": "Constantine Emperor's statue",
+      "latitude": 45.45821,
+      "longitude": 9.1814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3695532"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q63639911",
+      "name_it": "Monumento a Cristoforo Colombo",
+      "name_en": "Statue of Christopher Columbus",
+      "latitude": 45.47081,
+      "longitude": 9.20014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63639911"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q25060814",
+      "name_it": "Monumento a Dante Alighieri",
+      "name_en": "Monument to Dante",
+      "latitude": 43.76885,
+      "longitude": 11.26231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25060814"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q56651118",
+      "name_it": "Monumento a Dante Alighieri",
+      "name_en": "Monument to Dante Alighieri",
+      "latitude": 45.44343,
+      "longitude": 10.99803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56651118"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q126261344",
+      "name_it": "Monumento a Enzo Sicuri",
+      "name_en": "Monument to Enzo Sicuri",
+      "latitude": 44.801902,
+      "longitude": 10.329837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126261344"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q57710512",
+      "name_it": "Monumento a Fedele Lampertico",
+      "name_en": "Monument to Fedele Lampertico",
+      "latitude": 45.54954,
+      "longitude": 11.54944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57710512"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q32011796",
+      "name_it": "monumento a Felice Cavallotti",
+      "name_en": "Monument to Felice Cavallotti",
+      "latitude": 45.47054,
+      "longitude": 9.19775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32011796"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q64624113",
+      "name_it": "monumento a Filippo Carcano",
+      "name_en": "Monument to Filippo Carcano",
+      "latitude": 45.47434,
+      "longitude": 9.20318,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64624113"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q27991079",
+      "name_it": "monumento a Flavio Gioia",
+      "name_en": "monument to Flavio Gioia",
+      "latitude": 40.633547,
+      "longitude": 14.60237,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27991079"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q107630336",
+      "name_it": "Monumento a Francesco Petrarca",
+      "name_en": "Monument to Francesco Petrarca",
+      "latitude": 43.466458,
+      "longitude": 11.885208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107630336"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q34493256",
+      "name_it": "monumento a Francesco Torraca",
+      "name_en": "Monumento a Francesco Torraca",
+      "latitude": 40.518312,
+      "longitude": 16.062051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34493256"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q109444772",
+      "name_it": "monumento a Gaetano Magnolfi",
+      "name_en": "monument to Gaetano Magnolfi",
+      "latitude": 43.882827,
+      "longitude": 11.106112,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109444772"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q32012203",
+      "name_it": "monumento a Gaetano Negri",
+      "name_en": "Monument to Gaetano Negri",
+      "latitude": 45.47416,
+      "longitude": 9.19882,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32012203"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q66313865",
+      "name_it": "monumento a Giacomo Puccini",
+      "name_en": "Monument to Giacomo Puccini (Lucca)",
+      "latitude": 43.843139,
+      "longitude": 10.501333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66313865"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q3648036",
+      "name_it": "Monumento a Giordano Bruno",
+      "name_en": "Statue of Giordano Bruno",
+      "latitude": 41.895593,
+      "longitude": 12.472188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3648036"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q55166604",
+      "name_it": "monumento a Giovanni Fattori",
+      "name_en": "monument to Giovanni Fattori",
+      "latitude": 43.55237,
+      "longitude": 10.31327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55166604"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q113660321",
+      "name_it": "monumento a Giovanni Paisiello",
+      "name_en": "",
+      "latitude": 40.47469,
+      "longitude": 17.23473,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113660321"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q3862615",
+      "name_it": "Monumento a Giovanni Paolo II",
+      "name_en": "Monumento a Giovanni Paolo II, Roma",
+      "latitude": 41.902,
+      "longitude": 12.499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862615"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q125627580",
+      "name_it": "monumento a Giovanni Segantini",
+      "name_en": "monument to Giovanni Segantini",
+      "latitude": 45.918414,
+      "longitude": 10.885497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125627580"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q56598496",
+      "name_it": "monumento a Giulietta Capuleti",
+      "name_en": "monument to Juliet Capuleti",
+      "latitude": 45.442,
+      "longitude": 10.998694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56598496"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q57312417",
+      "name_it": "Monumento a Giulio Ricordi",
+      "name_en": "Monument to Giulio Ricordi",
+      "latitude": 45.46709,
+      "longitude": 9.18927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57312417"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q21141699",
+      "name_it": "monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 45.468226,
+      "longitude": 9.182258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21141699"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q106164886",
+      "name_it": "monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 45.431995,
+      "longitude": 12.354858,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106164886"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q110520234",
+      "name_it": "Monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 43.71648,
+      "longitude": 10.40223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110520234"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q110520400",
+      "name_it": "Monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 43.5537,
+      "longitude": 10.314261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110520400"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q110520566",
+      "name_it": "Monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 40.852186,
+      "longitude": 14.267789,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110520566"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q125809260",
+      "name_it": "monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 45.806101,
+      "longitude": 9.085035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809260"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q125809361",
+      "name_it": "Monumento a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 37.511195,
+      "longitude": 15.085422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809361"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q61963106",
+      "name_it": "Monumento a Giuseppe Mazzoni",
+      "name_en": "Monumento a Mazzoni",
+      "latitude": 43.881829,
+      "longitude": 11.097403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61963106"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q32114071",
+      "name_it": "monumento a Giuseppe Verdi",
+      "name_en": "Verdi Monument",
+      "latitude": 45.47035,
+      "longitude": 9.15539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32114071"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q44713511",
+      "name_it": "monumento a Indro Montanelli",
+      "name_en": "Monument to Indro Montanelli",
+      "latitude": 45.47349,
+      "longitude": 9.19622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q44713511"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q134783755",
+      "name_it": "monumento a Jacopo da Ponte",
+      "name_en": "monument to Jacopo da Ponte",
+      "latitude": 45.767227,
+      "longitude": 11.737229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134783755"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q125809586",
+      "name_it": "Monumento a Luigi Capuana",
+      "name_en": "Monument to Luigi Capuana",
+      "latitude": 37.264832,
+      "longitude": 14.690609,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809586"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q122452295",
+      "name_it": "Monumento a Luigi Orlando",
+      "name_en": "",
+      "latitude": 43.54231,
+      "longitude": 10.30302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122452295"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q112572397",
+      "name_it": "Monumento a Margherita Hack",
+      "name_en": "Monument to Margherita Hack",
+      "latitude": 45.46029,
+      "longitude": 9.19349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112572397"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q67018978",
+      "name_it": "Monumento a Maria Beatrice d'Este",
+      "name_en": "Monument to Maria Beatrice d'Este, Duchess of Massa (Carrara)",
+      "latitude": 44.079667,
+      "longitude": 10.097775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67018978"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q66309893",
+      "name_it": "Monumento a Maria Luisa Borbone",
+      "name_en": "Monument to Maria Luisa di Borbone-Spagna (Lucca)",
+      "latitude": 43.841417,
+      "longitude": 10.5025,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66309893"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q66809876",
+      "name_it": "Monumento a Matteo Renato Imbriani",
+      "name_en": "Monument to Matteo Renato Imbirani",
+      "latitude": 41.151607,
+      "longitude": 16.412009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66809876"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q105994820",
+      "name_it": "Monumento a Niccolò Tommaseo",
+      "name_en": "Monument to Niccolò Tommaseo",
+      "latitude": 45.433259,
+      "longitude": 12.330432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105994820"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q121761819",
+      "name_it": "monumento a papa Innocenzo XI",
+      "name_en": "monument to pope Innocent XI",
+      "latitude": 45.808961,
+      "longitude": 9.084498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121761819"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q125187498",
+      "name_it": "Monumento a Pietro Leopoldo I",
+      "name_en": "Monument to Pietro Leopoldo I",
+      "latitude": 43.52971,
+      "longitude": 10.30615,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125187498"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q56256382",
+      "name_it": "Monumento a Pietro Metastasio",
+      "name_en": "Monument to Pietro Metastasio",
+      "latitude": 41.89786,
+      "longitude": 12.46918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56256382"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q56256384",
+      "name_it": "Monumento a Quintino Sella",
+      "name_en": "Monument to Quintino Sella",
+      "latitude": 41.90598,
+      "longitude": 12.49927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56256384"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q65953666",
+      "name_it": "Monumento a Renato Caminiti",
+      "name_en": "Monument to Renato Caminiti",
+      "latitude": 38.216472,
+      "longitude": 15.638269,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65953666"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q65953665",
+      "name_it": "Monumento a Rocco Caminiti",
+      "name_en": "Monument to Rocco Caminiti",
+      "latitude": 38.217145,
+      "longitude": 15.637547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65953665"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q133295775",
+      "name_it": "monumento a Salvo d'Acquisto",
+      "name_en": "memorial to Salvo d'Acquisto",
+      "latitude": 45.539009,
+      "longitude": 9.236288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133295775"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q3862637",
+      "name_it": "Monumento a san Francesco Caracciolo",
+      "name_en": "Monumento a san Francesco Caracciolo",
+      "latitude": 41.949658,
+      "longitude": 14.350041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862637"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q16579821",
+      "name_it": "monumento a san Francesco d'Assisi",
+      "name_en": "Monument to Saint Francis of Assisi",
+      "latitude": 45.46791,
+      "longitude": 9.21072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579821"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q57392148",
+      "name_it": "monumento a San Francesco d'Assisi",
+      "name_en": "",
+      "latitude": 45.68081,
+      "longitude": 8.70474,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57392148"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q57175462",
+      "name_it": "monumento a San Pietro",
+      "name_en": "Statue of Saint Peter",
+      "latitude": 45.944164,
+      "longitude": 8.831505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57175462"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q108348747",
+      "name_it": "monumento a sant'Ercolano",
+      "name_en": "monument to saint Herculanus",
+      "latitude": 45.635228,
+      "longitude": 10.59959,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108348747"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q136761902",
+      "name_it": "monumento a santa Caterina d'Alessandria",
+      "name_en": "monument to saint Catherine of Alexandria",
+      "latitude": 45.708588,
+      "longitude": 11.56524,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136761902"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q37305967",
+      "name_it": "monumento a Tazio Nuvolari",
+      "name_en": "Monumento a Tazio Nuvolari",
+      "latitude": 45.18663,
+      "longitude": 10.97018,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37305967"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q116188633",
+      "name_it": "Monumento a Terenzio Mamiani",
+      "name_en": "Monument to Terenzio Mamiani",
+      "latitude": 41.8998,
+      "longitude": 12.46571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116188633"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q3862629",
+      "name_it": "monumento a Ugo Bassi",
+      "name_en": "Ugo Bassi statue, Bologna",
+      "latitude": 44.49555,
+      "longitude": 11.338956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862629"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q111944424",
+      "name_it": "monumento a Vincenzo Vela",
+      "name_en": "Monumento a Vincenzo Vela",
+      "latitude": 45.066,
+      "longitude": 7.66165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111944424"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q125037317",
+      "name_it": "Monumento a Vittorio Emanuele II",
+      "name_en": "Vittorio Emanuele II",
+      "latitude": 43.710714,
+      "longitude": 10.399058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125037317"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q113482386",
+      "name_it": "monumento ad Anselmo Ciappi",
+      "name_en": "",
+      "latitude": 43.16353,
+      "longitude": 13.23773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113482386"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q33141463",
+      "name_it": "monumento ad Archimede",
+      "name_en": "Statue of Archimedes",
+      "latitude": 37.06451,
+      "longitude": 15.2907,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33141463"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q32124766",
+      "name_it": "monumento ad Axel Munthe",
+      "name_en": "monument to Axel Munthe",
+      "latitude": 40.55417,
+      "longitude": 14.21623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32124766"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q86751384",
+      "name_it": "Monumento ai Caduti",
+      "name_en": "Formia War Memorial",
+      "latitude": 41.255406,
+      "longitude": 13.606293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86751384"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q63922492",
+      "name_it": "Monumento ai Caduti di Seravezza",
+      "name_en": "Monumento ai Caduti (Seravezza)",
+      "latitude": 43.995223,
+      "longitude": 10.224806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63922492"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q66932093",
+      "name_it": "Monumento ai caduti di tutte le guerre",
+      "name_en": "",
+      "latitude": 44.000944,
+      "longitude": 11.140278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66932093"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q108664424",
+      "name_it": "Monumento ai Caduti Lunigianesi del mare",
+      "name_en": "",
+      "latitude": 44.375837,
+      "longitude": 9.878626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108664424"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q66851023",
+      "name_it": "Monumento ai fratelli Bandiera",
+      "name_en": "Monument to Bandiera brothers",
+      "latitude": 39.17616,
+      "longitude": 17.10467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66851023"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q126897603",
+      "name_it": "Monumento al Buscaiol",
+      "name_en": "Monumento al Buscaiol",
+      "latitude": 44.03585,
+      "longitude": 10.04374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126897603"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q61753443",
+      "name_it": "Monumento Al Cane Fido",
+      "name_en": "Monumento a Fido",
+      "latitude": 43.955101,
+      "longitude": 11.388186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61753443"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q72707088",
+      "name_it": "Monumento al Ciclista",
+      "name_en": "Monumento al Ciclista",
+      "latitude": 44.129461,
+      "longitude": 11.828222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72707088"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q38077156",
+      "name_it": "monumento al colonnello Roberto Simondetti",
+      "name_en": "Monumento a Roberto Simondetti",
+      "latitude": 44.74677,
+      "longitude": 8.52109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38077156"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q66763861",
+      "name_it": "Monumento al Figurinaio",
+      "name_en": "Monumento al Figurinaio",
+      "latitude": 44.064568,
+      "longitude": 10.524605,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66763861"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q25053560",
+      "name_it": "Monumento al Generale Manfredo Fanti",
+      "name_en": "Monument to General Manfredo Fanti, Florence",
+      "latitude": 43.77784,
+      "longitude": 11.25873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25053560"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q110656592",
+      "name_it": "monumento al granatiere austriaco",
+      "name_en": "monument to the Austrian grenadier",
+      "latitude": 46.50823,
+      "longitude": 13.60478,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110656592"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q61763437",
+      "name_it": "Monumento al Marinaio",
+      "name_en": "Il Marinaio by Giampaolo Talani",
+      "latitude": 43.097914,
+      "longitude": 10.535369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61763437"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q107996698",
+      "name_it": "monumento al Minatore",
+      "name_en": "Monumento al Minatore",
+      "latitude": 46.431019,
+      "longitude": 11.106977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107996698"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q137169934",
+      "name_it": "monumento all'Immacolata",
+      "name_en": "monument to the Immaculate Conception",
+      "latitude": 45.622113,
+      "longitude": 11.029634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137169934"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q3862669",
+      "name_it": "Monumento all'Italia",
+      "name_en": "Monumento all'Italia",
+      "latitude": 38.10885,
+      "longitude": 15.64413,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862669"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q113482463",
+      "name_it": "monumento all'unità dei popoli e alla solidarietà fra le genti",
+      "name_en": "",
+      "latitude": 43.162,
+      "longitude": 13.24012,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113482463"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q64801285",
+      "name_it": "Monumento alla fisarmonica",
+      "name_en": "Accordion monument",
+      "latitude": 43.463024,
+      "longitude": 13.548664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64801285"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q113660228",
+      "name_it": "monumento civile per il bicentenario dell'Arma dei Carabinieri",
+      "name_en": "",
+      "latitude": 40.47607,
+      "longitude": 17.23201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113660228"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q3481460",
+      "name_it": "Monumento dei Quattro mori",
+      "name_en": "Monument of the Four Moors",
+      "latitude": 43.549518,
+      "longitude": 10.304776,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3481460"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q125809308",
+      "name_it": "Monumento di Dante Alighieri",
+      "name_en": "Monument of Dante Alighieri",
+      "latitude": 40.848985,
+      "longitude": 14.250156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809308"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q106975522",
+      "name_it": "Monumento di Enea Cocchi",
+      "name_en": "Monument to Enea Cocchi",
+      "latitude": 44.495879,
+      "longitude": 11.30856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106975522"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q55804950",
+      "name_it": "monumento di Nicola Pisano",
+      "name_en": "Monument Niccola Pisano",
+      "latitude": 43.713001,
+      "longitude": 10.400247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55804950"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q62072203",
+      "name_it": "Monumento equestre",
+      "name_en": "equestrian monument",
+      "latitude": 41.126127,
+      "longitude": 16.868528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62072203"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q98143184",
+      "name_it": "monumento Fabrizio Meoni",
+      "name_en": "",
+      "latitude": 43.349806,
+      "longitude": 11.908917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98143184"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q3862681",
+      "name_it": "monumento funebre a Ilaria del Carretto",
+      "name_en": "Tomb of Ilaria del Carretto",
+      "latitude": 43.8406,
+      "longitude": 10.5064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3862681"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q116868386",
+      "name_it": "Mosè",
+      "name_en": "Moses",
+      "latitude": 45.4293,
+      "longitude": 12.3433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116868386"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q54913920",
+      "name_it": "",
+      "name_en": "Omaggio Alla Citta' Di Milano \"Le Gabbie virtuali Sono Pericolose\"",
+      "latitude": 45.477869,
+      "longitude": 9.225111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54913920"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q111419379",
+      "name_it": "parco della Rimembranza di Calamecca (Piteglio)",
+      "name_en": "park of Remembrance of Calamecca (Piteglio)",
+      "latitude": 43.989708,
+      "longitude": 10.76982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111419379"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q958448",
+      "name_it": "Pasquino",
+      "name_en": "Pasquino",
+      "latitude": 41.897722,
+      "longitude": 12.472306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q958448"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q599034",
+      "name_it": "Perseo con la testa di Medusa",
+      "name_en": "Perseus with the Head of Medus",
+      "latitude": 43.7692,
+      "longitude": 11.2558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q599034"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q35990011",
+      "name_it": "piazza Spose dei Marinai e monumento a ''La Ma''",
+      "name_en": "Sailors Brides square and \"La Ma\" monument",
+      "latitude": 44.20636,
+      "longitude": 12.40081,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35990011"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q56258115",
+      "name_it": "Ragazza che si asciuga i capelli",
+      "name_en": "Ragazza che si asciuga i capelli",
+      "latitude": 45.62529,
+      "longitude": 10.56538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258115"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q116868318",
+      "name_it": "Re Davide",
+      "name_en": "King David",
+      "latitude": 45.4293,
+      "longitude": 12.3433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116868318"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q66855772",
+      "name_it": "Refugium peccatorum",
+      "name_en": "Refugium peccatorum",
+      "latitude": 45.216507,
+      "longitude": 12.277141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66855772"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q98821941",
+      "name_it": "",
+      "name_en": "Regina Mundi",
+      "latitude": 45.85659,
+      "longitude": 10.8305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98821941"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q131539110",
+      "name_it": "ritratto di Giovanni Gersen",
+      "name_en": "",
+      "latitude": 45.330262,
+      "longitude": 8.422135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131539110"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q116867766",
+      "name_it": "Salomone",
+      "name_en": "Solomon",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116867766"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q116868757",
+      "name_it": "San Bartolomeo",
+      "name_en": "Saint Bartholomew",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116868757"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q116867838",
+      "name_it": "San Benedetto",
+      "name_en": "Saint Benedict",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116867838"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q97186348",
+      "name_it": "San Catello",
+      "name_en": "",
+      "latitude": 40.694504,
+      "longitude": 14.480798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97186348"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q116867812",
+      "name_it": "San Colombano",
+      "name_en": "Saint Columbanus",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116867812"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q56258116",
+      "name_it": "San Francesco",
+      "name_en": "San Francesco",
+      "latitude": 45.62461,
+      "longitude": 10.566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258116"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q116868535",
+      "name_it": "San Giacomo Maggiore",
+      "name_en": "Saint James the Great",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116868535"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q116859496",
+      "name_it": "San Giovanni Evangelista",
+      "name_en": "St John the Evangelist",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116859496"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q116868784",
+      "name_it": "San Girolamo",
+      "name_en": "Saint Hieronymus",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116868784"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q116872488",
+      "name_it": "San Gregorio Magno",
+      "name_en": "Saint Gregory the Great",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116872488"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q123346549",
+      "name_it": "",
+      "name_en": "San Lorenzo (Genoa) - Lions along the stairs",
+      "latitude": 44.40779,
+      "longitude": 8.93108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123346549"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q116859544",
+      "name_it": "San Luca Evangelista",
+      "name_en": "St Luke the Evangelist",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116859544"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q1626816",
+      "name_it": "San Marco",
+      "name_en": "Saint Mark",
+      "latitude": 43.770556,
+      "longitude": 11.254722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1626816"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q116859586",
+      "name_it": "San Marco Evangelista",
+      "name_en": "St. Mark the Evangelist",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116859586"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q116859465",
+      "name_it": "San Matteo Evangelista",
+      "name_en": "St. Matthew the Evangelist",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116859465"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q116859810",
+      "name_it": "San Mauro",
+      "name_en": "Saint Maurus",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116859810"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q116865358",
+      "name_it": "San Paolo",
+      "name_en": "Saint Paul",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116865358"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q116865337",
+      "name_it": "San Pietro",
+      "name_en": "Saint Peter",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116865337"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q130531648",
+      "name_it": "San Rocco",
+      "name_en": "Saint Roch by Gaetano Cignaroli (Ponte di San Giorgio, Ferrara)",
+      "latitude": 44.823104,
+      "longitude": 11.628675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130531648"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q116867788",
+      "name_it": "San Romano abate",
+      "name_en": "Romanus of Condat",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116867788"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q116865303",
+      "name_it": "San Tommaso",
+      "name_en": "Thomas the Apostle",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116865303"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q84591754",
+      "name_it": "San Zeno che ride",
+      "name_en": "Statue of San Zeno che ride",
+      "latitude": 45.44273,
+      "longitude": 10.97956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q84591754"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q116869411",
+      "name_it": "Sant'Agostino",
+      "name_en": "Saint Augustine",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116869411"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q116872484",
+      "name_it": "Sant'Ambrogio",
+      "name_en": "St. Ambrosius",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116872484"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q116865365",
+      "name_it": "Sant'Andrea",
+      "name_en": "Saint Andrew",
+      "latitude": 45.429167,
+      "longitude": 12.343333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116865365"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q134481256",
+      "name_it": "Scudo con fontana",
+      "name_en": "",
+      "latitude": 44.502832,
+      "longitude": 11.335799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134481256"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q76818100",
+      "name_it": "Sestiga della Pace",
+      "name_en": "",
+      "latitude": 45.475697,
+      "longitude": 9.172408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76818100"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q108338936",
+      "name_it": "sfinge",
+      "name_en": "Sphinx",
+      "latitude": 45.982437,
+      "longitude": 9.256191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108338936"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q131617884",
+      "name_it": "Sfinge egizia a Villa San Michele",
+      "name_en": "Egyptian sphinx in Villa San Michele",
+      "latitude": 40.557201,
+      "longitude": 14.22601,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131617884"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q113662775",
+      "name_it": "Sirene",
+      "name_en": "Sirens",
+      "latitude": 40.474901,
+      "longitude": 17.228357,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113662775"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q59557257",
+      "name_it": "Somala al Vento",
+      "name_en": "Somala al vento",
+      "latitude": 45.60049,
+      "longitude": 9.01729,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59557257"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q56641516",
+      "name_it": "Speranza",
+      "name_en": "",
+      "latitude": 44.430114,
+      "longitude": 8.950609,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56641516"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q105597854",
+      "name_it": "statua \"La Ballerina di Unia\"",
+      "name_en": "",
+      "latitude": 44.676788,
+      "longitude": 8.470019,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105597854"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q97924351",
+      "name_it": "Statua \"Raffaele e Tobiolo\" presso la Bilbioteca Roncioniana",
+      "name_en": "Archangel Raphael and Tobias",
+      "latitude": 43.879669,
+      "longitude": 11.096296,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97924351"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q113813822",
+      "name_it": "statua a Bartolomeo Bosco",
+      "name_en": "",
+      "latitude": 44.40746,
+      "longitude": 8.9703,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113813822"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q32107918",
+      "name_it": "statua a Cesare Beccaria",
+      "name_en": "Monument to Cesare Beccaria",
+      "latitude": 45.46421,
+      "longitude": 9.19482,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32107918"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q113660102",
+      "name_it": "statua a Erasmo Iacovone",
+      "name_en": "",
+      "latitude": 40.45388,
+      "longitude": 17.26902,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113660102"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q125809530",
+      "name_it": "Statua a Ferdinando I de' Medici",
+      "name_en": "Statue to Ferdinando I de' Medici",
+      "latitude": 43.46699,
+      "longitude": 11.882719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809530"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q32108447",
+      "name_it": "statua a Francesco Hayez",
+      "name_en": "Statue of Francesco Hayez",
+      "latitude": 45.47153,
+      "longitude": 9.18814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32108447"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q114328887",
+      "name_it": "Statua a Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi",
+      "latitude": 44.03428,
+      "longitude": 10.138745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114328887"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q108161847",
+      "name_it": "statua a Gaudenzio Ferrari",
+      "name_en": "statue of Gaudenzio Ferrari",
+      "latitude": 45.81732,
+      "longitude": 8.25248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108161847"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q32109216",
+      "name_it": "statua a Giovanbattista Piatti",
+      "name_en": "Statua a Giovanbattista Piatti",
+      "latitude": 45.47818,
+      "longitude": 9.18478,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32109216"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q96903956",
+      "name_it": "Statua a Giuseppe Garibaldi",
+      "name_en": "Monument to Giuseppe Garibaldi (Anghiari)",
+      "latitude": 43.540948,
+      "longitude": 12.054416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96903956"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q32110076",
+      "name_it": "statua a Luciano Manara",
+      "name_en": "Monument to Luciano Manara",
+      "latitude": 45.47471,
+      "longitude": 9.20263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32110076"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q108494490",
+      "name_it": "Statua a Lucio Battisti",
+      "name_en": "Statua Lucio Battisti",
+      "latitude": 42.50359,
+      "longitude": 12.88264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108494490"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q136276462",
+      "name_it": "statua a Luigi Pirandello",
+      "name_en": "",
+      "latitude": 37.289042,
+      "longitude": 13.528651,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136276462"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q32107619",
+      "name_it": "statua ad Antonio Stoppani",
+      "name_en": "",
+      "latitude": 45.473146,
+      "longitude": 9.203072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32107619"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q126597476",
+      "name_it": "statua bronzea di Augusto a Fano",
+      "name_en": "",
+      "latitude": 43.842904,
+      "longitude": 13.014059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126597476"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q108664277",
+      "name_it": "Statua con bambino",
+      "name_en": "",
+      "latitude": 44.375837,
+      "longitude": 9.878626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108664277"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q61641405",
+      "name_it": "Statua con fontana dedicata a san Francesco d'Assisi",
+      "name_en": "statue with fountain to San Francesco d'Assisi",
+      "latitude": 41.163389,
+      "longitude": 16.752139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61641405"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q99871101",
+      "name_it": "statua del Beato Angelico",
+      "name_en": "",
+      "latitude": 43.934376,
+      "longitude": 11.462715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99871101"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q56549778",
+      "name_it": "statua del Cardinale Giovan Battista De Luca",
+      "name_en": "Giovan Battista De Luca statue",
+      "latitude": 40.961498,
+      "longitude": 15.818998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56549778"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q108161744",
+      "name_it": "statua del generale Giacomo Antonini",
+      "name_en": "statue of General Giacomo Antonini",
+      "latitude": 45.81658,
+      "longitude": 8.25049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108161744"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q124472080",
+      "name_it": "",
+      "name_en": "Statua del Gigante",
+      "latitude": 44.14412,
+      "longitude": 9.64392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124472080"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q96744606",
+      "name_it": "Statua del Gigante",
+      "name_en": "",
+      "latitude": 44.62612,
+      "longitude": 10.42077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96744606"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q125850115",
+      "name_it": "Statua del Gigante o di Nettuno",
+      "name_en": "Statue of the Giant or Neptune",
+      "latitude": 44.14425,
+      "longitude": 9.64378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125850115"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q35989701",
+      "name_it": "statua del Guercino",
+      "name_en": "Guercino statue",
+      "latitude": 44.7271,
+      "longitude": 11.29017,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35989701"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q126264371",
+      "name_it": "Statua del Redentore",
+      "name_en": "Statua del Redentore",
+      "latitude": 40.18843,
+      "longitude": 8.57188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126264371"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q108494489",
+      "name_it": "Statua del tosatore",
+      "name_en": "Statua del tosatore",
+      "latitude": 42.50196,
+      "longitude": 12.88888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108494489"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q32110551",
+      "name_it": "statua del Vescovo Ulderico",
+      "name_en": "Statua del vescovo Ulderico",
+      "latitude": 45.45821,
+      "longitude": 9.19279,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32110551"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q105687214",
+      "name_it": "statua dell'Immaccolata",
+      "name_en": "",
+      "latitude": 37.059686,
+      "longitude": 14.916658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105687214"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q15617205",
+      "name_it": "Statua dell'Immacolata",
+      "name_en": "",
+      "latitude": 38.192565,
+      "longitude": 15.555109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15617205"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q56695836",
+      "name_it": "Statua della canapina",
+      "name_en": "",
+      "latitude": 40.942079,
+      "longitude": 14.277134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56695836"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q108339060",
+      "name_it": "statua della dea egizia Sekhmet",
+      "name_en": "Statue of goddess Sekhmet",
+      "latitude": 45.979245,
+      "longitude": 9.253775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108339060"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q126842329",
+      "name_it": "Statua della Fortuna",
+      "name_en": "Statua della Fortuna",
+      "latitude": 45.430835,
+      "longitude": 12.336303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126842329"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q126171251",
+      "name_it": "Statua della Fortuna",
+      "name_en": "",
+      "latitude": 43.844347,
+      "longitude": 13.018377,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126171251"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q64685278",
+      "name_it": "Statua della Lira",
+      "name_en": "",
+      "latitude": 42.399358,
+      "longitude": 12.858884,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64685278"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q56697140",
+      "name_it": "statua della Madonna del Buon Cammino",
+      "name_en": "Madonna del Buon Cammino statue",
+      "latitude": 40.558075,
+      "longitude": 16.659712,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56697140"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q57451518",
+      "name_it": "statua della Madonna della Pietà",
+      "name_en": "Statua di Santa Maria Annunciata",
+      "latitude": 45.76533,
+      "longitude": 8.78927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57451518"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q126326971",
+      "name_it": "Statua della Madonna Salus Populi Romani",
+      "name_en": "Statua della Madonna Salus Populi Romani",
+      "latitude": 41.949889,
+      "longitude": 12.455889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126326971"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q33519625",
+      "name_it": "Statua della Ninfa Termale",
+      "name_en": "Statua della Ninfa Termale",
+      "latitude": 44.010472,
+      "longitude": 10.591167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33519625"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q102046700",
+      "name_it": "Statua di Alessandro Volta",
+      "name_en": "Monument to Alessandro Volta (Como)",
+      "latitude": 45.81179,
+      "longitude": 9.07931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102046700"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q110621721",
+      "name_it": "statua di Andrea Doria",
+      "name_en": "statue of Andrea Doria",
+      "latitude": 44.407594,
+      "longitude": 8.933128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110621721"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q108339134",
+      "name_it": "statua di Apollo",
+      "name_en": "Statue of Apollo",
+      "latitude": 45.979348,
+      "longitude": 9.253032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108339134"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q136345080",
+      "name_it": "Statua di Benedetto XIII",
+      "name_en": "",
+      "latitude": 40.817337,
+      "longitude": 16.413853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136345080"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q56754444",
+      "name_it": "statua di Carlo Emanuele III",
+      "name_en": "Statua di Carlo Emanuele III",
+      "latitude": 39.145171,
+      "longitude": 8.304732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56754444"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q80319527",
+      "name_it": "Statua di Carlo V",
+      "name_en": "Charles V Monument (Palermo)",
+      "latitude": 38.11497,
+      "longitude": 13.36008,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80319527"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q126196003",
+      "name_it": "Statua di Cerere",
+      "name_en": "Statue of Ceres",
+      "latitude": 40.642203,
+      "longitude": 14.610233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126196003"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q66863993",
+      "name_it": "statua di Cornelio Nepote",
+      "name_en": "Monumento a Cornelio Nipote",
+      "latitude": 45.066511,
+      "longitude": 11.132034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66863993"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q3968668",
+      "name_it": "Statua di Cosimo I",
+      "name_en": "Statue of Cosimo I",
+      "latitude": 43.71955,
+      "longitude": 10.40026,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3968668"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q125809512",
+      "name_it": "statua di Cosimo III de' Medici",
+      "name_en": "Cosimo III de' Medici statue",
+      "latitude": 43.058608,
+      "longitude": 11.604524,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125809512"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q115438751",
+      "name_it": "statua di David Chiossone",
+      "name_en": "Statue of David Chiossone",
+      "latitude": 44.4137,
+      "longitude": 8.94397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115438751"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q108339041",
+      "name_it": "statua di dignitario egizio",
+      "name_en": "Statue of ancient egyptian dignitary",
+      "latitude": 45.979249,
+      "longitude": 9.253761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108339041"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q66309219",
+      "name_it": "statua di Domenico Modugno",
+      "name_en": "Statue of Domenico Modugno",
+      "latitude": 40.997282,
+      "longitude": 17.217115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66309219"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q71824838",
+      "name_it": "Statua di Eleonora d'Arborea",
+      "name_en": "Statua di Eleonora d'Arborea",
+      "latitude": 39.903777,
+      "longitude": 8.591426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71824838"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q130632507",
+      "name_it": "Statua di Federico da Montefeltro",
+      "name_en": "Statua di Federico da Montefeltro",
+      "latitude": 43.724357,
+      "longitude": 12.636665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130632507"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q56695838",
+      "name_it": "Statua di Francesco Durante",
+      "name_en": "",
+      "latitude": 40.93922,
+      "longitude": 14.2652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56695838"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q99870482",
+      "name_it": "statua di Giotto",
+      "name_en": "Piazza Giotto",
+      "latitude": 43.933291,
+      "longitude": 11.465235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99870482"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q110621630",
+      "name_it": "statua di Giovanni Andrea Doria",
+      "name_en": "statue of Giovanni Andrea Doria",
+      "latitude": 44.407594,
+      "longitude": 8.933128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110621630"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q88296634",
+      "name_it": "Statua di Giovanni Baldesio",
+      "name_en": "",
+      "latitude": 45.133611,
+      "longitude": 10.025278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q88296634"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q133961310",
+      "name_it": "statua di Giovanni Mazzuconi",
+      "name_en": "statue of Giovanni Mazzuconi",
+      "latitude": 45.524038,
+      "longitude": 9.245601,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133961310"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q126182515",
+      "name_it": "Statua di Giovanni Pierluigi da Palestrina",
+      "name_en": "Statue of Giovanni Pierluigi da Palestrina",
+      "latitude": 41.838974,
+      "longitude": 12.892469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126182515"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q35974814",
+      "name_it": "statua di Giulio Cesare",
+      "name_en": "Statue of Iulius Caesar",
+      "latitude": 44.059796,
+      "longitude": 12.567979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35974814"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q96440175",
+      "name_it": "",
+      "name_en": "Statua di Giulio Cesare",
+      "latitude": 46.093017,
+      "longitude": 13.430926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96440175"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q109334506",
+      "name_it": "statua di Giuseppe Barbaroux",
+      "name_en": "Statua di Giuseppe Barbaroux",
+      "latitude": 44.38956,
+      "longitude": 7.547845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109334506"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q66864001",
+      "name_it": "statua di Giuseppe Garibaldi",
+      "name_en": "",
+      "latitude": 45.065093,
+      "longitude": 11.134624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66864001"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q68787422",
+      "name_it": "statua di Giuseppe Mazzini (Milano)",
+      "name_en": "statue of Giuseppe Mazzini (Milan)",
+      "latitude": 45.479393,
+      "longitude": 9.196971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68787422"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q114326273",
+      "name_it": "Statua di Hermes",
+      "name_en": "Statue of Hermes",
+      "latitude": 44.03556,
+      "longitude": 10.1432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114326273"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q35991402",
+      "name_it": "statua di Icaro",
+      "name_en": "Icaro statue",
+      "latitude": 44.217825,
+      "longitude": 12.05121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35991402"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q66820262",
+      "name_it": "statua di Icaro",
+      "name_en": "Statua di Icaro",
+      "latitude": 42.923504,
+      "longitude": 10.525953,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66820262"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q105598034",
+      "name_it": "statua di Medea",
+      "name_en": "",
+      "latitude": 44.041885,
+      "longitude": 12.318442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105598034"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q108339155",
+      "name_it": "statua di Meleagro",
+      "name_en": "Statue of Meleagro",
+      "latitude": 45.978941,
+      "longitude": 9.252735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108339155"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q66759378",
+      "name_it": "Statua di Padre Alessandro di Meo",
+      "name_en": "statue of Padre Alessandro di Meo",
+      "latitude": 40.878442,
+      "longitude": 14.917293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66759378"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q105516518",
+      "name_it": "statua di padre Eusebio Chini con un nativo americano",
+      "name_en": "statue of Eusebio Kino with a Native American",
+      "latitude": 46.304187,
+      "longitude": 11.071377,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105516518"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q56695839",
+      "name_it": "Statua di Padre Mario Vergara e Isidoro",
+      "name_en": "",
+      "latitude": 40.93659,
+      "longitude": 14.27917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56695839"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q61650975",
+      "name_it": "Statua di Padre Pio",
+      "name_en": "statue of Padre Pio",
+      "latitude": 41.112234,
+      "longitude": 16.862806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61650975"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q105687360",
+      "name_it": "statua di Padre Pio",
+      "name_en": "",
+      "latitude": 37.0625,
+      "longitude": 14.900459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105687360"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q113660087",
+      "name_it": "statua di Padre Pio",
+      "name_en": "",
+      "latitude": 40.45591,
+      "longitude": 17.26558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113660087"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q56695837",
+      "name_it": "Statua di Padre Sossio Del Prete",
+      "name_en": "",
+      "latitude": 40.940471,
+      "longitude": 14.275284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56695837"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q113642571",
+      "name_it": "statua di Papa Pio XI",
+      "name_en": "Pio XI statue in Esino Lario",
+      "latitude": 45.9942,
+      "longitude": 9.33075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113642571"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q96707632",
+      "name_it": "statua di Piero della Francesca",
+      "name_en": "Statue of Piero della Francesca",
+      "latitude": 43.571222,
+      "longitude": 12.142833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96707632"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q107470654",
+      "name_it": "Statua di Pinocchio",
+      "name_en": "",
+      "latitude": 44.376161,
+      "longitude": 9.885277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107470654"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q105598016",
+      "name_it": "statua di Saffo",
+      "name_en": "",
+      "latitude": 44.065882,
+      "longitude": 12.258484,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105598016"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q126766505",
+      "name_it": "statua di Sallustio Bandini",
+      "name_en": "Statue of Sallustio Bandini",
+      "latitude": 43.321177,
+      "longitude": 11.330708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126766505"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q57337508",
+      "name_it": "statua di San Carlo Borromeo",
+      "name_en": "",
+      "latitude": 45.73308,
+      "longitude": 8.90731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57337508"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q135415114",
+      "name_it": "statua di san Francesco",
+      "name_en": "statue of saint Francis",
+      "latitude": 45.816612,
+      "longitude": 11.741408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135415114"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q64511335",
+      "name_it": "Statua di San Francesco",
+      "name_en": "Statua di San Francesco",
+      "latitude": 42.402364,
+      "longitude": 12.859328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64511335"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q132677500",
+      "name_it": "statua di San Giovanni Nepomuceno",
+      "name_en": "Statue of Sain John of Nepomuk",
+      "latitude": 46.193892,
+      "longitude": 11.133429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132677500"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q62072416",
+      "name_it": "Statua di San Nicola",
+      "name_en": "Statue of Saint Nicholas",
+      "latitude": 41.13059,
+      "longitude": 16.869558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62072416"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q61656525",
+      "name_it": "Statua di San Nicola nel complesso della Chiesa Russa di San Nicola",
+      "name_en": "Statue of Saint Nicholas in the complex of the Russian church of Saint Nicholas",
+      "latitude": 41.11022,
+      "longitude": 16.87232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61656525"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q66829045",
+      "name_it": "Statua di San Rocco",
+      "name_en": "Statues in Scordia",
+      "latitude": 37.29605,
+      "longitude": 14.846586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66829045"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q56247957",
+      "name_it": "statua di Sant'Ilario",
+      "name_en": "",
+      "latitude": 45.62936,
+      "longitude": 8.90123,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56247957"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q135525662",
+      "name_it": "statua di Santa Caterina",
+      "name_en": "",
+      "latitude": 44.352086,
+      "longitude": 8.569655,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135525662"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q29709897",
+      "name_it": "statua di Sigismondo Boldoni",
+      "name_en": "",
+      "latitude": 46.04448,
+      "longitude": 9.30348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29709897"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q99509368",
+      "name_it": "Statua di Snoopy",
+      "name_en": "",
+      "latitude": 43.536006,
+      "longitude": 10.317124,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99509368"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q29709688",
+      "name_it": "statua di Tommaso Grossi",
+      "name_en": "Tommaso Grossi monument",
+      "latitude": 46.04378,
+      "longitude": 9.30247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29709688"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q35989846",
+      "name_it": "statua di Ugo Bassi",
+      "name_en": "Statua di Ugo Bassi",
+      "latitude": 44.72991,
+      "longitude": 11.29264,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35989846"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q21141743",
+      "name_it": "Statua equestre di Cangrande della Scala",
+      "name_en": "Statue of Cangrande della Scala",
+      "latitude": 45.439833,
+      "longitude": 10.987449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21141743"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q90481266",
+      "name_it": "statua Ercole del Sansovino",
+      "name_en": "Statua Ercole del Sansovino",
+      "latitude": 44.901515,
+      "longitude": 10.515688,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q90481266"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q66828175",
+      "name_it": "statua in bronzo dello scultore Nado Canuti",
+      "name_en": "",
+      "latitude": 42.920833,
+      "longitude": 10.533889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66828175"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q108699464",
+      "name_it": "statua in Piazza Cavour",
+      "name_en": "",
+      "latitude": 43.564863,
+      "longitude": 11.530428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108699464"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q111440940",
+      "name_it": "Statua Madonna di Poggio alla Malva",
+      "name_en": "",
+      "latitude": 43.76979,
+      "longitude": 11.054219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111440940"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q136593053",
+      "name_it": "statua originale della fontana del Nettuno",
+      "name_en": "original statue of the Neptune fountain",
+      "latitude": 46.069103,
+      "longitude": 11.121908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136593053"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q56380688",
+      "name_it": "statua raffigurante Tiziano Vecellio",
+      "name_en": "monument to Titian",
+      "latitude": 46.42872,
+      "longitude": 12.37546,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56380688"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q63523928",
+      "name_it": "Statua romana di Sor Paolo Proconsole",
+      "name_en": "",
+      "latitude": 42.657261,
+      "longitude": 13.702099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63523928"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q115137261",
+      "name_it": "Statue in bronzo di San Casciano dei Bagni",
+      "name_en": "San Casciano bronzes",
+      "latitude": 42.871053,
+      "longitude": 11.871983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115137261"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q56258304",
+      "name_it": "statue in porfido",
+      "name_en": "porphyry statues",
+      "latitude": 46.144057,
+      "longitude": 11.189423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258304"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q121093784",
+      "name_it": "",
+      "name_en": "Statue of Gioachino Rossini, Pesaro",
+      "latitude": 43.90915,
+      "longitude": 12.91029,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121093784"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q60847287",
+      "name_it": "",
+      "name_en": "statue of Santa Fermina",
+      "latitude": 42.094583,
+      "longitude": 11.779361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60847287"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q125405264",
+      "name_it": "",
+      "name_en": "Statue of the Virgin of the Rocks",
+      "latitude": 45.879133,
+      "longitude": 9.404287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125405264"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q107643403",
+      "name_it": "statue storiche provenienti dal vecchio Ospedale Pammatone",
+      "name_en": "Statues of the benefactors",
+      "latitude": 44.409152,
+      "longitude": 8.971796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107643403"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q55178834",
+      "name_it": "statuette marmoree dei santi Domenico e Pietro situate nella torre dell'orologio",
+      "name_en": "",
+      "latitude": 43.906759,
+      "longitude": 10.690424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55178834"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q108338990",
+      "name_it": "tritone",
+      "name_en": "Tritone",
+      "latitude": 45.98213,
+      "longitude": 9.25598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108338990"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q125392232",
+      "name_it": "Vergine delle rocce",
+      "name_en": "Virgin of the Rocks",
+      "latitude": 45.879163,
+      "longitude": 9.404266,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125392232"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q113836974",
+      "name_it": "Verginedelle vette, Nostra Signora d’Europa",
+      "name_en": "Our Lady of Europe",
+      "latitude": 46.41775,
+      "longitude": 9.36231,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113836974"
+    }
+  ],
+  "meta": {
+    "title": "Statue in Italia - Download gratuito",
+    "description": "Elenco delle statue in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 325 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Statue in Italia | ListBase",
+    "seo_description": "Scarica Statue in Italia — 325 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 325 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

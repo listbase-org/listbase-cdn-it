@@ -1,0 +1,415 @@
+{
+  "id": "it-la-spezia-banche",
+  "name": "Banche a La Spezia — codici SWIFT/BIC",
+  "title": "Banche a La Spezia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in La Spezia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1908,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "LA SPEZIA",
+      "branch": "(AREA TERR. LA SPEZIA E TOSCANA)",
+      "swift_code": "CRGEITGG068"
+    },
+    {
+      "id": 1909,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "LA SPEZIA",
+      "branch": "(BRANCH 3)",
+      "swift_code": "CRGEITGG393"
+    },
+    {
+      "id": 1910,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "LA SPEZIA",
+      "branch": "(BRANCH NO 2)",
+      "swift_code": "CRGEITGG398"
+    },
+    {
+      "id": 1911,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "LA SPEZIA",
+      "branch": "(BRANCH NO. 1-LA SPEZIA)",
+      "swift_code": "CRGEITGG397"
+    },
+    {
+      "id": 1912,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "LA SPEZIA",
+      "branch": "",
+      "swift_code": "CRGEITGG395"
+    },
+    {
+      "id": 3639,
+      "bank": "BANCA D'ITALIA",
+      "city": "LA SPEZIA",
+      "branch": "(FILIALE DI LA SPEZIA)",
+      "swift_code": "BITAITR1142"
+    },
+    {
+      "id": 4828,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA AG. 1)",
+      "swift_code": "PASCITM1K00"
+    },
+    {
+      "id": 4829,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA)",
+      "swift_code": "PASCITM1Z99"
+    },
+    {
+      "id": 6758,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "",
+      "swift_code": "BNLIITRRSPX"
+    },
+    {
+      "id": 9564,
+      "bank": "BANCA VERSILIA LUNIGIANA E GARFAGNANA CREDITO COOPERATIVO",
+      "city": "LA SPEZIA",
+      "branch": "",
+      "swift_code": "ICRAITR1K6N"
+    },
+    {
+      "id": 10373,
+      "bank": "BANCO BPM SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA AG. 1)",
+      "swift_code": "BAPPIT21641"
+    },
+    {
+      "id": 10374,
+      "bank": "BANCO BPM SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA AG. 2)",
+      "swift_code": "BAPPIT21642"
+    },
+    {
+      "id": 10375,
+      "bank": "BANCO BPM SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA AG. 3)",
+      "swift_code": "BAPPIT21640"
+    },
+    {
+      "id": 10376,
+      "bank": "BANCO BPM SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA)",
+      "swift_code": "BAPPIT21S62"
+    },
+    {
+      "id": 11991,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA PIAZZA ARMI)",
+      "swift_code": "BPGGITG17A8"
+    },
+    {
+      "id": 11992,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIA CANALETTO)",
+      "swift_code": "BPGGITG17A4"
+    },
+    {
+      "id": 11993,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIA CHIODO)",
+      "swift_code": "BPGGITG17A9"
+    },
+    {
+      "id": 11994,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIA FIUME)",
+      "swift_code": "BPGGITG15BE"
+    },
+    {
+      "id": 11995,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIA MONALE)",
+      "swift_code": "BPGGITG17A3"
+    },
+    {
+      "id": 11996,
+      "bank": "BANCO DI SAN GIORGIO S.P.A.(UBI BANCA GROUP)",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIA PASCOLI)",
+      "swift_code": "BPGGITG17A5"
+    },
+    {
+      "id": 13407,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "(BACK OFFICE UFF LA SPEZIA)",
+      "swift_code": "CRFIIT3FK02"
+    },
+    {
+      "id": 13540,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(BACK OFFICE LA SPEZIA)",
+      "swift_code": "CRFIIT3PBK2"
+    },
+    {
+      "id": 14263,
+      "bank": "COMUNE DELLA SPEZIA",
+      "city": "LA SPEZIA",
+      "branch": "",
+      "swift_code": "COSZIT21"
+    },
+    {
+      "id": 14952,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(AGENZIA G TERMO)",
+      "swift_code": "CRFIIT2S361"
+    },
+    {
+      "id": 14953,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(CENTRO TESORERIA)",
+      "swift_code": "CRFIIT2S439"
+    },
+    {
+      "id": 14954,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(FILIALE IMPRESE LA SPEZIA)",
+      "swift_code": "CRFIIT2S492"
+    },
+    {
+      "id": 14955,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CRFIIT2S"
+    },
+    {
+      "id": 14956,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA A)",
+      "swift_code": "CRFIIT2S331"
+    },
+    {
+      "id": 14957,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA AG. S)",
+      "swift_code": "CRFIIT2S311"
+    },
+    {
+      "id": 14958,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA B)",
+      "swift_code": "CRFIIT2S332"
+    },
+    {
+      "id": 14959,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA C)",
+      "swift_code": "CRFIIT2S333"
+    },
+    {
+      "id": 14960,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA E)",
+      "swift_code": "CRFIIT2S354"
+    },
+    {
+      "id": 14961,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA F)",
+      "swift_code": "CRFIIT2S357"
+    },
+    {
+      "id": 14962,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA L)",
+      "swift_code": "CRFIIT2S366"
+    },
+    {
+      "id": 14963,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA M)",
+      "swift_code": "CRFIIT2S429"
+    },
+    {
+      "id": 14964,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA N)",
+      "swift_code": "CRFIIT2S431"
+    },
+    {
+      "id": 14965,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA P)",
+      "swift_code": "CRFIIT2S428"
+    },
+    {
+      "id": 14966,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA T)",
+      "swift_code": "CRFIIT2S368"
+    },
+    {
+      "id": 14967,
+      "bank": "CREDIT AGRICOLE CARISPEZIA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "CRFIIT2S330"
+    },
+    {
+      "id": 15387,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA)",
+      "swift_code": "BACRIT21308"
+    },
+    {
+      "id": 16297,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "LA SPEZIA",
+      "branch": "(SPORTELLO DI LA SPEZIA)",
+      "swift_code": "DEUTITM1352"
+    },
+    {
+      "id": 17851,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "LA SPEZIA",
+      "branch": "",
+      "swift_code": "BPVIIT21683"
+    },
+    {
+      "id": 22158,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "LA SPEZIA",
+      "branch": "(FIL.DI LA SPEZIA VIA CHIODO)",
+      "swift_code": "BREUITM15F8"
+    },
+    {
+      "id": 22159,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "LA SPEZIA",
+      "branch": "(FIL.DI LA SPEZIA VIA FIUME)",
+      "swift_code": "BREUITM15F9"
+    },
+    {
+      "id": 22160,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "LA SPEZIA",
+      "branch": "(FIL.DI LA SPEZIA VIA MONALE)",
+      "swift_code": "BREUITM15F6"
+    },
+    {
+      "id": 22161,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "LA SPEZIA",
+      "branch": "(FIL.DI LA SPEZIA VIA PASCOLI)",
+      "swift_code": "BREUITM15F7"
+    },
+    {
+      "id": 23776,
+      "bank": "UNICREDIT SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA CHIODO)",
+      "swift_code": "UNCRITM1D03"
+    },
+    {
+      "id": 23777,
+      "bank": "UNICREDIT SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA D'AZEGLIO)",
+      "swift_code": "UNCRITM1DD7"
+    },
+    {
+      "id": 23778,
+      "bank": "UNICREDIT SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA OCEAN)",
+      "swift_code": "UNCRITM1Z05"
+    },
+    {
+      "id": 23779,
+      "bank": "UNICREDIT SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA VIALE ITALIA)",
+      "swift_code": "UNCRITM1L20"
+    },
+    {
+      "id": 23780,
+      "bank": "UNICREDIT SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA)",
+      "swift_code": "UNCRITM100Y"
+    },
+    {
+      "id": 26000,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "LA SPEZIA",
+      "branch": "(LA SPEZIA BRANCH)",
+      "swift_code": "BAECIT21074"
+    }
+  ],
+  "meta": {
+    "title": "Banche a La Spezia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in La Spezia, Italy Contiene 52 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a La Spezia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a La Spezia — codici SWIFT/BIC — 52 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 52 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

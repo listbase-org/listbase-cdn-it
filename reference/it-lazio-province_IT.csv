@@ -1,0 +1,6 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"60","Frosinone","frosinone","FR","false","12","Lazio","lazio","91"
+"59","Latina","latina","LT","false","12","Lazio","lazio","33"
+"57","Rieti","rieti","RI","false","12","Lazio","lazio","73"
+"258","Roma","roma","RM","true","12","Lazio","lazio","121"
+"56","Viterbo","viterbo","VT","false","12","Lazio","lazio","60"

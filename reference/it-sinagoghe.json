@@ -1,0 +1,709 @@
+{
+  "id": "it-sinagoghe",
+  "name": "Sinagoghe in Italia",
+  "title": "Sinagoghe in Italia",
+  "description": "Elenco delle sinagoghe in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3961363",
+      "name_it": "antica sinagoga di Castel Goffredo",
+      "name_en": "",
+      "latitude": 45.298056,
+      "longitude": 10.475833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961363"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3961365",
+      "name_it": "antica sinagoga di Chieri",
+      "name_en": "antica sinagoga di Chieri",
+      "latitude": 45.010524,
+      "longitude": 7.826884,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961365"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q121052223",
+      "name_it": "antica sinagoga di via San Vitale",
+      "name_en": "",
+      "latitude": 44.494369,
+      "longitude": 11.349615,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121052223"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3961403",
+      "name_it": "antiche sinagoghe di via delle Oche",
+      "name_en": "",
+      "latitude": 43.772114,
+      "longitude": 11.256606,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961403"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3672542",
+      "name_it": "chiesa di Sant'Anna",
+      "name_en": "Scolagrande Synagogue",
+      "latitude": 41.280415,
+      "longitude": 16.418045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3672542"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3961360",
+      "name_it": "ex sinagoga di Bozzolo",
+      "name_en": "Bozzolo Synagogue",
+      "latitude": 45.10631,
+      "longitude": 10.47888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961360"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3961372",
+      "name_it": "ex sinagoga di Moncalvo",
+      "name_en": "Sinagoga",
+      "latitude": 45.05095,
+      "longitude": 8.26563,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961372"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3961374",
+      "name_it": "ex Sinagoga di Monte San Savino",
+      "name_en": "Synagogue of Monte San Savino",
+      "latitude": 43.33234,
+      "longitude": 11.72536,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961374"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3961380",
+      "name_it": "ex sinagoga di Ostiano",
+      "name_en": "Ostiano Synagogue",
+      "latitude": 45.22007,
+      "longitude": 10.24858,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961380"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3961384",
+      "name_it": "ex sinagoga di Pomponesco",
+      "name_en": "",
+      "latitude": 44.92779,
+      "longitude": 10.59108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961384"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q64698531",
+      "name_it": "ex sinagoga in quarto degli ebrei",
+      "name_en": "former synagogue",
+      "latitude": 41.684664,
+      "longitude": 15.380163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64698531"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q33014801",
+      "name_it": "museo ebraico Fausto Levi",
+      "name_en": "Museo Ebraico - Fausto Levi - di Soragna",
+      "latitude": 44.92725,
+      "longitude": 10.123,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33014801"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q2897336",
+      "name_it": "santa Maria in Scolanova",
+      "name_en": "Scolanova Synagogue",
+      "latitude": 41.279772,
+      "longitude": 16.417758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2897336"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q28035407",
+      "name_it": "scola Canton",
+      "name_en": "Canton Synagogue",
+      "latitude": 45.445029,
+      "longitude": 12.326835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28035407"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12051106",
+      "name_it": "scola Grande Tedesca",
+      "name_en": "Scola Grande Tedesca",
+      "latitude": 45.445123,
+      "longitude": 12.32702,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12051106"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q65015",
+      "name_it": "scola Italiana",
+      "name_en": "Italian Synagogue",
+      "latitude": 45.445149,
+      "longitude": 12.326621,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65015"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q62259167",
+      "name_it": "scola Luzzatto",
+      "name_en": "Scola Levantina",
+      "latitude": 45.444742,
+      "longitude": 12.325792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62259167"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q2897799",
+      "name_it": "scola Spagnola",
+      "name_en": "Spanish Synagogue",
+      "latitude": 45.444618,
+      "longitude": 12.325563,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2897799"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3961356",
+      "name_it": "Sinagoga di Alessandria",
+      "name_en": "Alessandria synagogue",
+      "latitude": 44.91418,
+      "longitude": 8.614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961356"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q118608053",
+      "name_it": "sinagoga di Asti",
+      "name_en": "",
+      "latitude": 44.899438,
+      "longitude": 8.202474,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118608053"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3961361",
+      "name_it": "sinagoga di Biella",
+      "name_en": "Biella Synagogue",
+      "latitude": 45.56547,
+      "longitude": 8.04482,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961361"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3961357",
+      "name_it": "sinagoga di Bologna",
+      "name_en": "Synagogue of  Bologna",
+      "latitude": 44.493453,
+      "longitude": 11.336647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961357"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q3961358",
+      "name_it": "sinagoga di Bova Marina",
+      "name_en": "Bova Marina Synagogue",
+      "latitude": 37.923855,
+      "longitude": 15.951687,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961358"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3961359",
+      "name_it": "sinagoga di Carmagnola",
+      "name_en": "Synagogue",
+      "latitude": 44.84486,
+      "longitude": 7.71801,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961359"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1132193",
+      "name_it": "sinagoga di Casale Monferrato",
+      "name_en": "Synagogue of Casale Monferrato",
+      "latitude": 45.13552,
+      "longitude": 8.44978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1132193"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3961369",
+      "name_it": "sinagoga di Cherasco",
+      "name_en": "Cherasco Synagogue",
+      "latitude": 44.65108,
+      "longitude": 7.8576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961369"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q134236518",
+      "name_it": "Sinagoga di Correggio",
+      "name_en": "",
+      "latitude": 44.771137,
+      "longitude": 10.781788,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134236518"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q3961366",
+      "name_it": "sinagoga di Cortemaggiore",
+      "name_en": "",
+      "latitude": 44.99724,
+      "longitude": 9.93184,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961366"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q3508045",
+      "name_it": "sinagoga di Cuneo",
+      "name_en": "Synagogue of Cuneo",
+      "latitude": 44.392177,
+      "longitude": 7.552494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3508045"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q1548456",
+      "name_it": "sinagoga di Firenze",
+      "name_en": "Great Synagogue of Florence",
+      "latitude": 43.77273,
+      "longitude": 11.26633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548456"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q3961368",
+      "name_it": "sinagoga di Genova",
+      "name_en": "Synagogue",
+      "latitude": 44.412502,
+      "longitude": 8.941828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961368"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q3736344",
+      "name_it": "sinagoga di Gorizia",
+      "name_en": "Synagogue",
+      "latitude": 45.949046,
+      "longitude": 13.626098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3736344"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q3961370",
+      "name_it": "sinagoga di Ivrea",
+      "name_en": "Ivrea Synagogue",
+      "latitude": 45.46711,
+      "longitude": 7.87446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961370"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q3961371",
+      "name_it": "sinagoga di Livorno",
+      "name_en": "New Synagogue of Livorno",
+      "latitude": 43.548989,
+      "longitude": 10.309121,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961371"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q21279244",
+      "name_it": "sinagoga di Merano",
+      "name_en": "Synagogue Meran",
+      "latitude": 46.66824,
+      "longitude": 11.15766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21279244"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q3983296",
+      "name_it": "sinagoga di Modena",
+      "name_en": "Synagogue of Modena",
+      "latitude": 44.64714,
+      "longitude": 10.927349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3983296"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q3508064",
+      "name_it": "sinagoga di Mondovì",
+      "name_en": "Synagogue of Mondovi",
+      "latitude": 44.386303,
+      "longitude": 7.832094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3508064"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q3961377",
+      "name_it": "sinagoga di Napoli",
+      "name_en": "Synagogue of Naples",
+      "latitude": 40.833296,
+      "longitude": 14.243576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961377"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q123433",
+      "name_it": "sinagoga di Ostia Antica",
+      "name_en": "Ostia Synagogue",
+      "latitude": 41.748889,
+      "longitude": 12.288611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123433"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q3961382",
+      "name_it": "sinagoga di Parma",
+      "name_en": "Sinagoga di Parma",
+      "latitude": 44.800499,
+      "longitude": 10.33039,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961382"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q3961387",
+      "name_it": "sinagoga di Pisa",
+      "name_en": "synagogue of Pisa",
+      "latitude": 43.71647,
+      "longitude": 10.40495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961387"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q3961383",
+      "name_it": "sinagoga di Pitigliano",
+      "name_en": "Sinagoga di Pitigliano",
+      "latitude": 42.633437,
+      "longitude": 11.666158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961383"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q3961385",
+      "name_it": "sinagoga di Reggio Emilia",
+      "name_en": "Sinagoga Israelitica",
+      "latitude": 44.699859,
+      "longitude": 10.628473,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961385"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q3961386",
+      "name_it": "sinagoga di Rivarolo Mantovano",
+      "name_en": "Rivarolo Mantovano Synagogue",
+      "latitude": 45.07027,
+      "longitude": 10.43242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961386"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q3961388",
+      "name_it": "sinagoga di Rovigo",
+      "name_en": "Synagogue of Rovigo",
+      "latitude": 45.067999,
+      "longitude": 11.794328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961388"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q3961389",
+      "name_it": "sinagoga di Sabbioneta",
+      "name_en": "Synagogue",
+      "latitude": 44.999081,
+      "longitude": 10.490976,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961389"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q3508082",
+      "name_it": "sinagoga di Saluzzo",
+      "name_en": "Synagogues in Saluzzo",
+      "latitude": 44.643925,
+      "longitude": 7.493852,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3508082"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q21208588",
+      "name_it": "sinagoga di Savoca",
+      "name_en": "Synagogue of Savoca",
+      "latitude": 37.953851,
+      "longitude": 15.34017,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21208588"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3961391",
+      "name_it": "sinagoga di Senigallia",
+      "name_en": "Synagogue of Senigallia",
+      "latitude": 43.715097,
+      "longitude": 13.218765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961391"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3961392",
+      "name_it": "sinagoga di Sermide",
+      "name_en": "Sermide Synagogue",
+      "latitude": 45.00617,
+      "longitude": 11.29845,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961392"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q3961393",
+      "name_it": "sinagoga di Siena",
+      "name_en": "Siena synagogue",
+      "latitude": 43.318147,
+      "longitude": 11.333046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961393"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3961394",
+      "name_it": "sinagoga di Soragna",
+      "name_en": "Synagogue",
+      "latitude": 44.927234,
+      "longitude": 10.122998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961394"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q3508094",
+      "name_it": "sinagoga di Torino",
+      "name_en": "Synagogue of Turin",
+      "latitude": 45.060267,
+      "longitude": 7.682142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3508094"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q835441",
+      "name_it": "sinagoga di Trieste",
+      "name_en": "Synagogue of Trieste",
+      "latitude": 45.653368,
+      "longitude": 13.779869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q835441"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q113303319",
+      "name_it": "sinagoga di Urbino",
+      "name_en": "Synagogue of Urbino",
+      "latitude": 43.724581,
+      "longitude": 12.635042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113303319"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q74729",
+      "name_it": "sinagoga di Vercelli",
+      "name_en": "Vercelli Synagogue",
+      "latitude": 45.325643,
+      "longitude": 8.425695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q74729"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q21263209",
+      "name_it": "sinagoga di Verona",
+      "name_en": "Synagogue in Verona",
+      "latitude": 45.442139,
+      "longitude": 10.996806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21263209"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q3961399",
+      "name_it": "sinagoga di Viadana",
+      "name_en": "Sinagoga di Viadana",
+      "latitude": 44.92664,
+      "longitude": 10.51911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961399"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q110079525",
+      "name_it": "Sinagoga di Viareggio",
+      "name_en": "Viareggio Synagogue",
+      "latitude": 43.87764,
+      "longitude": 10.24661,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110079525"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q121052740",
+      "name_it": "sinagoga Fanese",
+      "name_en": "",
+      "latitude": 44.833595,
+      "longitude": 11.622336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121052740"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q118608276",
+      "name_it": "sinagoga Italiana di Ancona",
+      "name_en": "",
+      "latitude": 43.617619,
+      "longitude": 13.509834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118608276"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q7123976",
+      "name_it": "sinagoga italiana di Padova",
+      "name_en": "Padua Synagogue",
+      "latitude": 45.405721,
+      "longitude": 11.875715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7123976"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q121079820",
+      "name_it": "sinagoga italiana di Pesaro",
+      "name_en": "",
+      "latitude": 43.912067,
+      "longitude": 12.911603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121079820"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q118608264",
+      "name_it": "sinagoga Levantina di Ancona",
+      "name_en": "",
+      "latitude": 43.617815,
+      "longitude": 13.510097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118608264"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q3961352",
+      "name_it": "sinagoga Museo S. Anna – Sezione d’Arte Ebraica del Museo Diocesano di Trani",
+      "name_en": "Synagogue Museum Saint Anne",
+      "latitude": 41.280275,
+      "longitude": 16.418053,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961352"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q3961353",
+      "name_it": "sinagoga Norsa-Torrazzo",
+      "name_en": "Sinagoga Norsa Torrazzo",
+      "latitude": 45.15475,
+      "longitude": 10.79512,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961353"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q121052724",
+      "name_it": "sinagoga spagnola di Ferrara",
+      "name_en": "",
+      "latitude": 44.833421,
+      "longitude": 11.619988,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121052724"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3961381",
+      "name_it": "sinagoga spagnola di Pesaro",
+      "name_en": "Synagogue of Pesaro",
+      "latitude": 43.912154,
+      "longitude": 12.912031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961381"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q121052734",
+      "name_it": "sinagoga tedesca di Ferrara",
+      "name_en": "",
+      "latitude": 44.833613,
+      "longitude": 11.622279,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121052734"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q3961354",
+      "name_it": "tempio Centrale Hechal David u-Mordechai",
+      "name_en": "Central Synagogue of Milan",
+      "latitude": 45.460237,
+      "longitude": 9.198826,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3961354"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q1548485",
+      "name_it": "tempio Maggiore di Roma",
+      "name_en": "Great Synagogue of Rome",
+      "latitude": 41.89195,
+      "longitude": 12.47799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1548485"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q118607599",
+      "name_it": "tempio Maggiore Italiano",
+      "name_en": "",
+      "latitude": 44.833671,
+      "longitude": 11.622245,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118607599"
+    }
+  ],
+  "meta": {
+    "title": "Sinagoghe in Italia - Download gratuito",
+    "description": "Elenco delle sinagoghe in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 72 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Sinagoghe in Italia | ListBase",
+    "seo_description": "Scarica Sinagoghe in Italia — 72 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 72 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "it-crotone-comuni",
+  "name": "Comuni della provincia di Crotone",
+  "title": "Comuni della provincia di Crotone",
+  "description": "Elenco dei 27 comuni della provincia di Crotone (sigla KR), regione Calabria. List of 27 comuni in the province of Crotone (KR), Calabria region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 101001,
+      "nome": "Belvedere di Spinello",
+      "slug": "belvedere-di-spinello",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101002,
+      "nome": "Caccuri",
+      "slug": "caccuri",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101003,
+      "nome": "Carfizzi",
+      "slug": "carfizzi",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101004,
+      "nome": "Casabona",
+      "slug": "casabona",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101005,
+      "nome": "Castelsilano",
+      "slug": "castelsilano",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101006,
+      "nome": "Cerenzia",
+      "slug": "cerenzia",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101007,
+      "nome": "Cirò",
+      "slug": "ciro",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101008,
+      "nome": "Cirò Marina",
+      "slug": "ciro-marina",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101009,
+      "nome": "Cotronei",
+      "slug": "cotronei",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101010,
+      "nome": "Crotone",
+      "slug": "crotone",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101011,
+      "nome": "Crucoli",
+      "slug": "crucoli",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101012,
+      "nome": "Cutro",
+      "slug": "cutro",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101013,
+      "nome": "Isola di Capo Rizzuto",
+      "slug": "isola-di-capo-rizzuto",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101014,
+      "nome": "Melissa",
+      "slug": "melissa",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101015,
+      "nome": "Mesoraca",
+      "slug": "mesoraca",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101016,
+      "nome": "Pallagorio",
+      "slug": "pallagorio",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101017,
+      "nome": "Petilia Policastro",
+      "slug": "petilia-policastro",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101019,
+      "nome": "Rocca di Neto",
+      "slug": "rocca-di-neto",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101018,
+      "nome": "Roccabernarda",
+      "slug": "roccabernarda",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101020,
+      "nome": "San Mauro Marchesato",
+      "slug": "san-mauro-marchesato",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101021,
+      "nome": "San Nicola dell'Alto",
+      "slug": "san-nicola-dellalto",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101022,
+      "nome": "Santa Severina",
+      "slug": "santa-severina",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101023,
+      "nome": "Savelli",
+      "slug": "savelli",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101024,
+      "nome": "Scandale",
+      "slug": "scandale",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101025,
+      "nome": "Strongoli",
+      "slug": "strongoli",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101026,
+      "nome": "Umbriatico",
+      "slug": "umbriatico",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    },
+    {
+      "id": 101027,
+      "nome": "Verzino",
+      "slug": "verzino",
+      "provincia_id": 101,
+      "provincia_nome": "Crotone",
+      "provincia_sigla": "KR",
+      "provincia_slug": "crotone",
+      "regione_id": 18,
+      "regione_nome": "Calabria",
+      "regione_slug": "calabria"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Crotone - Download gratuito",
+    "description": "Elenco dei 27 comuni della provincia di Crotone (sigla KR), regione Calabria. List of 27 comuni in the province of Crotone (KR), Calabria region. Contiene 27 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Crotone | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Crotone — 27 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 27 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

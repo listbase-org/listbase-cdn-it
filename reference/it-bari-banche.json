@@ -1,0 +1,975 @@
+{
+  "id": "it-bari-banche",
+  "name": "Banche a Bari — codici SWIFT/BIC",
+  "title": "Banche a Bari — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Bari, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 463,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(AG. 1)",
+      "swift_code": "ANTBIT21596"
+    },
+    {
+      "id": 464,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(AG. 2)",
+      "swift_code": "ANTBIT21597"
+    },
+    {
+      "id": 465,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "ANTBIT21A94"
+    },
+    {
+      "id": 466,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "ANTBIT21A82"
+    },
+    {
+      "id": 467,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "ANTBIT21820"
+    },
+    {
+      "id": 468,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "(BARI - PALESE)",
+      "swift_code": "ANTBIT21C14"
+    },
+    {
+      "id": 469,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "ANTBIT21595"
+    },
+    {
+      "id": 1503,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 1 - BARI)",
+      "swift_code": "CRGEITG1521"
+    },
+    {
+      "id": 1504,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "BARI",
+      "branch": "(SEDE DI BARI)",
+      "swift_code": "CRGEITG1520"
+    },
+    {
+      "id": 2734,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI BARI SCRL",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "ICRAITRRS40"
+    },
+    {
+      "id": 3603,
+      "bank": "BANCA D'ITALIA",
+      "city": "BARI",
+      "branch": "(SEDE DI BARI)",
+      "swift_code": "BITAITR1430"
+    },
+    {
+      "id": 4068,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 10)",
+      "swift_code": "PASCITM1595"
+    },
+    {
+      "id": 4069,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 11)",
+      "swift_code": "PASCITM1596"
+    },
+    {
+      "id": 4070,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 12 RIONE CARRASSI)",
+      "swift_code": "PASCITM1597"
+    },
+    {
+      "id": 4071,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 14)",
+      "swift_code": "PASCITM1A82"
+    },
+    {
+      "id": 4072,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 15)",
+      "swift_code": "PASCITM1820"
+    },
+    {
+      "id": 4073,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI AG. 16)",
+      "swift_code": "PASCITM1B16"
+    },
+    {
+      "id": 4074,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI-PALESE)",
+      "swift_code": "PASCITM1C14"
+    },
+    {
+      "id": 4075,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(CONVERSANO)",
+      "swift_code": "PASCITM1BAC"
+    },
+    {
+      "id": 4076,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "(POLIGNANO A MARE)",
+      "swift_code": "PASCITM1BAP"
+    },
+    {
+      "id": 4077,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1B80"
+    },
+    {
+      "id": 4078,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA2"
+    },
+    {
+      "id": 4079,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA3"
+    },
+    {
+      "id": 4080,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA4"
+    },
+    {
+      "id": 4081,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA5"
+    },
+    {
+      "id": 4082,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA6"
+    },
+    {
+      "id": 4083,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA7"
+    },
+    {
+      "id": 4084,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA8"
+    },
+    {
+      "id": 4085,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITM1BA9"
+    },
+    {
+      "id": 4086,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "PASCITMMBAR"
+    },
+    {
+      "id": 6570,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR10RZ"
+    },
+    {
+      "id": 6571,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR10SZ"
+    },
+    {
+      "id": 6572,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR10TZ"
+    },
+    {
+      "id": 6573,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR10UZ"
+    },
+    {
+      "id": 6574,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BNLIITR10VZ"
+    },
+    {
+      "id": 6575,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BNLIITR10WZ"
+    },
+    {
+      "id": 6576,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BNLIITR10YZ"
+    },
+    {
+      "id": 6577,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "(AGENZIA PALAZZO DI GIUSTIZIA)",
+      "swift_code": "BNLIITR10ZZ"
+    },
+    {
+      "id": 6578,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "BNLIITRRBAX"
+    },
+    {
+      "id": 7617,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE  BARI CORSO V. EMANUELE II)",
+      "swift_code": "BPBAIT21014"
+    },
+    {
+      "id": 7618,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI AMENDOLA)",
+      "swift_code": "BPBAIT21026"
+    },
+    {
+      "id": 7619,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI CALEFATI)",
+      "swift_code": "BPBAIT21035"
+    },
+    {
+      "id": 7620,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI CARBONERIA)",
+      "swift_code": "BPBAIT21069"
+    },
+    {
+      "id": 7621,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI CARRASSI)",
+      "swift_code": "BPBAIT21042"
+    },
+    {
+      "id": 7622,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI CEGLIE)",
+      "swift_code": "BPBAIT21019"
+    },
+    {
+      "id": 7623,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI INDUSTRIALE)",
+      "swift_code": "BPBAIT21117"
+    },
+    {
+      "id": 7624,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI JAPIGIA)",
+      "swift_code": "BPBAIT21039"
+    },
+    {
+      "id": 7625,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI KENNEDY)",
+      "swift_code": "BPBAIT21038"
+    },
+    {
+      "id": 7626,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI LEMBO)",
+      "swift_code": "BPBAIT21071"
+    },
+    {
+      "id": 7627,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI PALESE)",
+      "swift_code": "BPBAIT21013"
+    },
+    {
+      "id": 7628,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI PAPA GIOVANNI XXIII)",
+      "swift_code": "BPBAIT21070"
+    },
+    {
+      "id": 7629,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI POGGIOFRANCO)",
+      "swift_code": "BPBAIT21036"
+    },
+    {
+      "id": 7630,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI SEDE)",
+      "swift_code": "BPBAIT21010"
+    },
+    {
+      "id": 7631,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI SONNINO)",
+      "swift_code": "BPBAIT21133"
+    },
+    {
+      "id": 7632,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BARI",
+      "branch": "(UFFICIO PROMOZIONE FINANZIARIA)",
+      "swift_code": "BPBAIT21614"
+    },
+    {
+      "id": 7907,
+      "bank": "BANCA POPOLARE DI BARI SCPA",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "BPBAIT21"
+    },
+    {
+      "id": 7908,
+      "bank": "BANCA POPOLARE DI BARI SCPA",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "BPBAIT3B"
+    },
+    {
+      "id": 7989,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI - AG.2)",
+      "swift_code": "BPMIITM1381"
+    },
+    {
+      "id": 7990,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "BPMIITM1292"
+    },
+    {
+      "id": 8603,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 1 DI BARI)",
+      "swift_code": "BPDMIT31116"
+    },
+    {
+      "id": 8604,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 2 DI BARI)",
+      "swift_code": "BPDMIT31119"
+    },
+    {
+      "id": 8605,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 3 DI BARI)",
+      "swift_code": "BPDMIT31172"
+    },
+    {
+      "id": 8606,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 4 DI BARI)",
+      "swift_code": "BPDMIT31177"
+    },
+    {
+      "id": 8607,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 6 DI BARI)",
+      "swift_code": "BPDMIT31142"
+    },
+    {
+      "id": 8608,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(AGENZIA 8 DI BARI)",
+      "swift_code": "BPDMIT31162"
+    },
+    {
+      "id": 8609,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI)",
+      "swift_code": "BPDMIT31109"
+    },
+    {
+      "id": 9178,
+      "bank": "BANCA POPOLARE PUGLIESE",
+      "city": "BARI",
+      "branch": "(BARI - AGENZIA VIA CALDAROLA)",
+      "swift_code": "BPPUIT31085"
+    },
+    {
+      "id": 9179,
+      "bank": "BANCA POPOLARE PUGLIESE",
+      "city": "BARI",
+      "branch": "(BARI - AGENZIA VIA MATARRESE)",
+      "swift_code": "BPPUIT31086"
+    },
+    {
+      "id": 9180,
+      "bank": "BANCA POPOLARE PUGLIESE",
+      "city": "BARI",
+      "branch": "(BARI - FILIALE VIA DE CESARE)",
+      "swift_code": "BPPUIT31024"
+    },
+    {
+      "id": 9575,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI - 2 GIUGNO)",
+      "swift_code": "APULIT31013"
+    },
+    {
+      "id": 9576,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI - AMENDOLA)",
+      "swift_code": "APULIT31001"
+    },
+    {
+      "id": 9577,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI - MELO)",
+      "swift_code": "APULIT31035"
+    },
+    {
+      "id": 9578,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI - SAN PAOLO)",
+      "swift_code": "APULIT31059"
+    },
+    {
+      "id": 9579,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI - VITTORIO EMANUELE)",
+      "swift_code": "APULIT31014"
+    },
+    {
+      "id": 9580,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI)",
+      "swift_code": "APULIT31169"
+    },
+    {
+      "id": 9581,
+      "bank": "BANCAPULIA SPA",
+      "city": "BARI",
+      "branch": "(FILIALE DI BARI)",
+      "swift_code": "APULIT31173"
+    },
+    {
+      "id": 9764,
+      "bank": "BANCO BPM SPA",
+      "city": "BARI",
+      "branch": "(BARI AG. 1)",
+      "swift_code": "BAPPIT21C41"
+    },
+    {
+      "id": 9765,
+      "bank": "BANCO BPM SPA",
+      "city": "BARI",
+      "branch": "(BARI)",
+      "swift_code": "BAPPIT21C40"
+    },
+    {
+      "id": 11834,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BACK OFFICE DI RETE BARI)",
+      "swift_code": "IBSPITNAK79"
+    },
+    {
+      "id": 11835,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - CARBONARA)",
+      "swift_code": "IBSPITNA049"
+    },
+    {
+      "id": 11836,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - CORSO ITALIA 145)",
+      "swift_code": "IBSPITNA597"
+    },
+    {
+      "id": 11837,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - PIAZZA LUIGI DI SAVOIA 16)",
+      "swift_code": "IBSPITNA865"
+    },
+    {
+      "id": 11838,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - POGGIOFRANCO)",
+      "swift_code": "IBSPITNA045"
+    },
+    {
+      "id": 11839,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - VIA AMENDOLA 168)",
+      "swift_code": "IBSPITNA099"
+    },
+    {
+      "id": 11840,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - VIA G. PETRONI 114)",
+      "swift_code": "IBSPITNA201"
+    },
+    {
+      "id": 11841,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - VIA NAPOLI 310)",
+      "swift_code": "IBSPITNA044"
+    },
+    {
+      "id": 11842,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - VIALE DEL CONCILIO VATICANO II 126)",
+      "swift_code": "IBSPITNA645"
+    },
+    {
+      "id": 11843,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(BARI - VIALE PAPA GIOVANNI XXIII 49)",
+      "swift_code": "IBSPITNA199"
+    },
+    {
+      "id": 11844,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "BARI",
+      "branch": "(FILIALE IMPRESE BARI)",
+      "swift_code": "IBSPITNA620"
+    },
+    {
+      "id": 14010,
+      "bank": "CASSA RURALE ED ARTIGIANA DI CASTELLANA GROTTE-CREDITO COOPERATIVO SOC",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "ICRAITR1D1C"
+    },
+    {
+      "id": 14011,
+      "bank": "CASSA RURALE ED ARTIGIANA DI CASTELLANA GROTTE-CREDITO COOPERATIVO SOC",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "ICRAITR1D1D"
+    },
+    {
+      "id": 14841,
+      "bank": "CONFIDITALIA CONSORZIO NAZIONALE FIDI E GARANZIE SCPA",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "CCNFIT31"
+    },
+    {
+      "id": 15304,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BARI",
+      "branch": "(BARI)",
+      "swift_code": "BACRIT21523"
+    },
+    {
+      "id": 15566,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "BARI",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21530"
+    },
+    {
+      "id": 16185,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BARI",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1161"
+    },
+    {
+      "id": 16186,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BARI",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMBAR"
+    },
+    {
+      "id": 16909,
+      "bank": "GBM BANCA S.P.A.",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "GBMGIT31"
+    },
+    {
+      "id": 17199,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BARI",
+      "branch": "(BACK OFFICE DI RETE - POLO DI BARI (8009))",
+      "swift_code": "BCITITMM097"
+    },
+    {
+      "id": 17200,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BARI",
+      "branch": "(FILIALE IMPRESE BARI GIMMA)",
+      "swift_code": "BCITITMMV41"
+    },
+    {
+      "id": 17744,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BARI",
+      "branch": "(BARI BRANCH)",
+      "swift_code": "BPVIIT21298"
+    },
+    {
+      "id": 19612,
+      "bank": "SUDCOMMERCI SRL",
+      "city": "BARI",
+      "branch": "",
+      "swift_code": "SURRIT31"
+    },
+    {
+      "id": 21228,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(AGENZIA CENTRALE DI BARI)",
+      "swift_code": "CARMIT31001"
+    },
+    {
+      "id": 21229,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(AGENZIA NO 3 DI BARI)",
+      "swift_code": "CARMIT31003"
+    },
+    {
+      "id": 21230,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - AG. 1)",
+      "swift_code": "CARMIT31002"
+    },
+    {
+      "id": 21231,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - AG. 2)",
+      "swift_code": "CARMIT31005"
+    },
+    {
+      "id": 21232,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - AG. 5)",
+      "swift_code": "CARMIT31008"
+    },
+    {
+      "id": 21233,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - AG. 7)",
+      "swift_code": "CARMIT31050"
+    },
+    {
+      "id": 21234,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - AG. 8)",
+      "swift_code": "CARMIT31051"
+    },
+    {
+      "id": 21235,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - SANTO SPIRITO)",
+      "swift_code": "CARMIT31004"
+    },
+    {
+      "id": 21236,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(BARI - TORRE A MARE)",
+      "swift_code": "CARMIT31006"
+    },
+    {
+      "id": 21237,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "BARI",
+      "branch": "(FIL.DI BARI - AG.11)",
+      "swift_code": "CARMIT31789"
+    },
+    {
+      "id": 22764,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI AMENDOLA)",
+      "swift_code": "UNCRITM1TS9"
+    },
+    {
+      "id": 22765,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI ARGIRO)",
+      "swift_code": "UNCRITM1TT0"
+    },
+    {
+      "id": 22766,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI BENEDETTO CROCE)",
+      "swift_code": "UNCRITM1L07"
+    },
+    {
+      "id": 22767,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI BRIGATA BARI)",
+      "swift_code": "UNCRITM1L05"
+    },
+    {
+      "id": 22768,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI CALEFATI)",
+      "swift_code": "UNCRITM1E70"
+    },
+    {
+      "id": 22769,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI CAPRUZZI)",
+      "swift_code": "UNCRITM1H02"
+    },
+    {
+      "id": 22770,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI CARBONARA)",
+      "swift_code": "UNCRITM1C84"
+    },
+    {
+      "id": 22771,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI EINAUDI)",
+      "swift_code": "UNCRITM1H05"
+    },
+    {
+      "id": 22772,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI GIOVANNI XXIII)",
+      "swift_code": "UNCRITM1403"
+    },
+    {
+      "id": 22773,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI MAGNA GRECIA)",
+      "swift_code": "UNCRITM1L09"
+    },
+    {
+      "id": 22774,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI POGGIOFRANCO)",
+      "swift_code": "UNCRITM140E"
+    },
+    {
+      "id": 22775,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI PUTIGNANI A)",
+      "swift_code": "UNCRITM147H"
+    },
+    {
+      "id": 22776,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI PUTIGNANI)",
+      "swift_code": "UNCRITM1H00"
+    },
+    {
+      "id": 22777,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI SONNINO)",
+      "swift_code": "UNCRITM1L08"
+    },
+    {
+      "id": 22778,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI V.EMANUELE II B)",
+      "swift_code": "UNCRITM1L06"
+    },
+    {
+      "id": 22779,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI ZONA INDUSTRIALE)",
+      "swift_code": "UNCRITM1H04"
+    },
+    {
+      "id": 22780,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(BARI)",
+      "swift_code": "UNCRITM179Y"
+    },
+    {
+      "id": 22781,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(ESTERO MERCI BARI)",
+      "swift_code": "UNCRITMMBAE"
+    },
+    {
+      "id": 22782,
+      "bank": "UNICREDIT SPA",
+      "city": "BARI",
+      "branch": "(PUGLIA)",
+      "swift_code": "UNCRITM1PUG"
+    },
+    {
+      "id": 25906,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BARI",
+      "branch": "(BARI 237 BRANCH)",
+      "swift_code": "BAECIT21237"
+    },
+    {
+      "id": 25907,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BARI",
+      "branch": "(BARI 288 BRANCH)",
+      "swift_code": "BAECIT21288"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Bari — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Bari, Italy Contiene 132 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Bari — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Bari — codici SWIFT/BIC — 132 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 132 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "id": "it-pistoia-banche",
+  "name": "Banche a Pistoia — codici SWIFT/BIC",
+  "title": "Banche a Pistoia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Pistoia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 397,
+      "bank": "BANCA ALTA TOSCANA CREDITO COOPERATIVO S.C.",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "ICRAITR1PMF"
+    },
+    {
+      "id": 1060,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PISTOIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21632"
+    },
+    {
+      "id": 1061,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "ANTBIT21631"
+    },
+    {
+      "id": 1466,
+      "bank": "BANCA CAMBIANO 1884 SPA",
+      "city": "PISTOIA",
+      "branch": "(FILIALE PISTOIA)",
+      "swift_code": "CRACIT31321"
+    },
+    {
+      "id": 1654,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(FILIALE DI PISTOIA)",
+      "swift_code": "CRGEITG1770"
+    },
+    {
+      "id": 2304,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "PISTOIA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "BMLUIT3L119"
+    },
+    {
+      "id": 2305,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "PISTOIA",
+      "branch": "(S. AGOSTINO BRANCH)",
+      "swift_code": "BMLUIT3L121"
+    },
+    {
+      "id": 3171,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI S. PIETRO IN      VINCIO (PISTOIA)",
+      "city": "PISTOIA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1N11"
+    },
+    {
+      "id": 3172,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI S. PIETRO IN      VINCIO (PISTOIA)",
+      "city": "PISTOIA",
+      "branch": "(SEDE)",
+      "swift_code": "ICRAITRRN10"
+    },
+    {
+      "id": 3173,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI S. PIETRO IN      VINCIO S.C.A.R.L.",
+      "city": "PISTOIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ICRAITR1N12"
+    },
+    {
+      "id": 3669,
+      "bank": "BANCA D'ITALIA",
+      "city": "PISTOIA",
+      "branch": "(FILIALE DI PISTOIA)",
+      "swift_code": "BITAITR1317"
+    },
+    {
+      "id": 5559,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 3)",
+      "swift_code": "PASCITM1631"
+    },
+    {
+      "id": 5560,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 4)",
+      "swift_code": "PASCITM1632"
+    },
+    {
+      "id": 5561,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 5)",
+      "swift_code": "PASCITM1Y94"
+    },
+    {
+      "id": 5562,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 6)",
+      "swift_code": "PASCITM1Y95"
+    },
+    {
+      "id": 5563,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 7)",
+      "swift_code": "PASCITM1Y93"
+    },
+    {
+      "id": 5564,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 8)",
+      "swift_code": "PASCITM1Y96"
+    },
+    {
+      "id": 5565,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "PASCITM1PT1"
+    },
+    {
+      "id": 5566,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "PASCITM1PT2"
+    },
+    {
+      "id": 5567,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "PASCITMMPIT"
+    },
+    {
+      "id": 6936,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "BNLIITR196Z"
+    },
+    {
+      "id": 10833,
+      "bank": "BANCO BPM SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 1)",
+      "swift_code": "BAPPIT21S85"
+    },
+    {
+      "id": 10834,
+      "bank": "BANCO BPM SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA)",
+      "swift_code": "BAPPIT21S45"
+    },
+    {
+      "id": 13437,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(BACK OFFICE UFF PISTOIA GALVANI)",
+      "swift_code": "CRFIIT3FK01"
+    },
+    {
+      "id": 13556,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(BACK OFFICE PISTOIA GALVANI)",
+      "swift_code": "CRFIIT3PBK1"
+    },
+    {
+      "id": 13557,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(BOTTEGONE)",
+      "swift_code": "CRFIIT3P590"
+    },
+    {
+      "id": 13558,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(CENTRO TESORERIA)",
+      "swift_code": "CRFIIT3P575"
+    },
+    {
+      "id": 13559,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(CHIAZZANO)",
+      "swift_code": "CRFIIT3P550"
+    },
+    {
+      "id": 13560,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(FILIALE IMPRESE PISTOIA)",
+      "swift_code": "CRFIIT3P295"
+    },
+    {
+      "id": 13561,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CRFIIT3P"
+    },
+    {
+      "id": 13562,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "CRFIIT3P520"
+    },
+    {
+      "id": 13563,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA OSPEDALE S JACOPO)",
+      "swift_code": "CRFIIT3P573"
+    },
+    {
+      "id": 13564,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA PORTA AL BORGO)",
+      "swift_code": "CRFIIT3P522"
+    },
+    {
+      "id": 13565,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA PORTA CARRATICA)",
+      "swift_code": "CRFIIT3P521"
+    },
+    {
+      "id": 13566,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA PORTA SAN MARCO)",
+      "swift_code": "CRFIIT3P523"
+    },
+    {
+      "id": 13567,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA STABILIMENTO BREDA)",
+      "swift_code": "CRFIIT3P574"
+    },
+    {
+      "id": 13568,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA VIALE ADUA)",
+      "swift_code": "CRFIIT3P535"
+    },
+    {
+      "id": 13569,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "PISTOIA",
+      "branch": "(S.AGOSTINO)",
+      "swift_code": "CRFIIT3P571"
+    },
+    {
+      "id": 13890,
+      "bank": "CASSA RISPARMIO DI ORVIETO",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA VANNUCCI)",
+      "swift_code": "BPBAITR1474"
+    },
+    {
+      "id": 14643,
+      "bank": "COMUNE DI PISTOIA",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "CPSSIT21"
+    },
+    {
+      "id": 15445,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA AG. 2)",
+      "swift_code": "BACRIT21727"
+    },
+    {
+      "id": 15733,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PISTOIA",
+      "branch": "",
+      "swift_code": "BACRIT21380"
+    },
+    {
+      "id": 16415,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PISTOIA",
+      "branch": "(SPORTELLO DI PISTOIA)",
+      "swift_code": "DEUTITM1328"
+    },
+    {
+      "id": 17935,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA S. AGOSTINO BRANCH)",
+      "swift_code": "BPVIIT21467"
+    },
+    {
+      "id": 20243,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PISTOIA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "ARBAIT33167"
+    },
+    {
+      "id": 20244,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PISTOIA",
+      "branch": "(SUCCURSALE DI PISTOIA)",
+      "swift_code": "ARBAIT33064"
+    },
+    {
+      "id": 20826,
+      "bank": "UBI BANCA SPA",
+      "city": "PISTOIA",
+      "branch": "(FILIALE DI PISTOIA)",
+      "swift_code": "BLOPIT22C57"
+    },
+    {
+      "id": 24628,
+      "bank": "UNICREDIT SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA FEDI)",
+      "swift_code": "UNCRITM1G28"
+    },
+    {
+      "id": 24629,
+      "bank": "UNICREDIT SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA FERMI)",
+      "swift_code": "UNCRITM1RO6"
+    },
+    {
+      "id": 24630,
+      "bank": "UNICREDIT SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA VIA ADUA)",
+      "swift_code": "UNCRITM1RR3"
+    },
+    {
+      "id": 26072,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PISTOIA",
+      "branch": "(PISTOIA BRANCH)",
+      "swift_code": "BAECIT21189"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Pistoia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Pistoia, Italy Contiene 51 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Pistoia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Pistoia — codici SWIFT/BIC — 51 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 51 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

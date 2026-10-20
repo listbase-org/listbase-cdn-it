@@ -1,0 +1,1752 @@
+{
+  "id": "it-napoli-banche",
+  "name": "Banche a Napoli — codici SWIFT/BIC",
+  "title": "Banche a Napoli — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Napoli, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 243,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 226,
+      "bank": "AUTOSTRADE MERIDIONALI SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "AUTDITN1"
+    },
+    {
+      "id": 938,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21762"
+    },
+    {
+      "id": 939,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "ANTBIT21763"
+    },
+    {
+      "id": 940,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "ANTBIT21765"
+    },
+    {
+      "id": 941,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "ANTBIT21766"
+    },
+    {
+      "id": 942,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "ANTBIT21773"
+    },
+    {
+      "id": 943,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "ANTBIT21761"
+    },
+    {
+      "id": 944,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "ANTBIT21767"
+    },
+    {
+      "id": 945,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "ANTBIT21764"
+    },
+    {
+      "id": 946,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "ANTBIT21760"
+    },
+    {
+      "id": 2370,
+      "bank": "BANCA DEL SUD SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI)",
+      "swift_code": "SUDNITN1010"
+    },
+    {
+      "id": 2371,
+      "bank": "BANCA DEL SUD SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "SUDNITN1"
+    },
+    {
+      "id": 3382,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BCPTITN1010"
+    },
+    {
+      "id": 3383,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BCPTITN1012"
+    },
+    {
+      "id": 3384,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 13)",
+      "swift_code": "BCPTITN1013"
+    },
+    {
+      "id": 3385,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 18)",
+      "swift_code": "BCPTITN1018"
+    },
+    {
+      "id": 3386,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 55)",
+      "swift_code": "BCPTITN1055"
+    },
+    {
+      "id": 3387,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI FUORIGROTTA)",
+      "swift_code": "BCPTITN1065"
+    },
+    {
+      "id": 3388,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI MORELLI)",
+      "swift_code": "BCPTITN1068"
+    },
+    {
+      "id": 3389,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI PORTO)",
+      "swift_code": "BCPTITN1062"
+    },
+    {
+      "id": 3654,
+      "bank": "BANCA D'ITALIA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI)",
+      "swift_code": "BITAITR1425"
+    },
+    {
+      "id": 3655,
+      "bank": "BANCA D'ITALIA",
+      "city": "NAPOLI",
+      "branch": "(SEDE DI NAPOLI)",
+      "swift_code": "BITAITR1423"
+    },
+    {
+      "id": 3764,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI FILIALE)",
+      "swift_code": "EUBAITM1842"
+    },
+    {
+      "id": 3824,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BIMTITT1023"
+    },
+    {
+      "id": 5269,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 24)",
+      "swift_code": "PASCITM1N24"
+    },
+    {
+      "id": 5270,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 25)",
+      "swift_code": "PASCITM1760"
+    },
+    {
+      "id": 5271,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 26)",
+      "swift_code": "PASCITM1762"
+    },
+    {
+      "id": 5272,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 27)",
+      "swift_code": "PASCITM1763"
+    },
+    {
+      "id": 5273,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 28)",
+      "swift_code": "PASCITM1765"
+    },
+    {
+      "id": 5274,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 30)",
+      "swift_code": "PASCITM1773"
+    },
+    {
+      "id": 5275,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 32)",
+      "swift_code": "PASCITM1767"
+    },
+    {
+      "id": 5276,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 33)",
+      "swift_code": "PASCITM1764"
+    },
+    {
+      "id": 5277,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 34)",
+      "swift_code": "PASCITM1N34"
+    },
+    {
+      "id": 5278,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG.29 PARCO SAN PAOLO)",
+      "swift_code": "PASCITM1766"
+    },
+    {
+      "id": 5279,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG.9)",
+      "swift_code": "PASCITM1NA9"
+    },
+    {
+      "id": 5280,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI BRANCH)",
+      "swift_code": "PASCITM1N20"
+    },
+    {
+      "id": 5281,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N10"
+    },
+    {
+      "id": 5282,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N11"
+    },
+    {
+      "id": 5283,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N12"
+    },
+    {
+      "id": 5284,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N13"
+    },
+    {
+      "id": 5285,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N14"
+    },
+    {
+      "id": 5286,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N15"
+    },
+    {
+      "id": 5287,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N16"
+    },
+    {
+      "id": 5288,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N18"
+    },
+    {
+      "id": 5289,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N19"
+    },
+    {
+      "id": 5290,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N21"
+    },
+    {
+      "id": 5291,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1N23"
+    },
+    {
+      "id": 5292,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA1"
+    },
+    {
+      "id": 5293,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA2"
+    },
+    {
+      "id": 5294,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA3"
+    },
+    {
+      "id": 5295,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA4"
+    },
+    {
+      "id": 5296,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA5"
+    },
+    {
+      "id": 5297,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA6"
+    },
+    {
+      "id": 5298,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA7"
+    },
+    {
+      "id": 5299,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITM1NA8"
+    },
+    {
+      "id": 5300,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PASCITMMNAP"
+    },
+    {
+      "id": 6859,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR17BZ"
+    },
+    {
+      "id": 6860,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BNLIITR17KZ"
+    },
+    {
+      "id": 6861,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 11 POSILLIPO)",
+      "swift_code": "BNLIITR17LZ"
+    },
+    {
+      "id": 6862,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BNLIITR17MZ"
+    },
+    {
+      "id": 6863,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 13)",
+      "swift_code": "BNLIITR17NZ"
+    },
+    {
+      "id": 6864,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 14)",
+      "swift_code": "BNLIITR17OZ"
+    },
+    {
+      "id": 6865,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 15)",
+      "swift_code": "BNLIITR17PZ"
+    },
+    {
+      "id": 6866,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR17CZ"
+    },
+    {
+      "id": 6867,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR17DZ"
+    },
+    {
+      "id": 6868,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR17EZ"
+    },
+    {
+      "id": 6869,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BNLIITR17FZ"
+    },
+    {
+      "id": 6870,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BNLIITR17GZ"
+    },
+    {
+      "id": 6871,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BNLIITR17HZ"
+    },
+    {
+      "id": 6872,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BNLIITR17IZ"
+    },
+    {
+      "id": 6873,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 9 SAN GIOVANNI A DEDUCCIO)",
+      "swift_code": "BNLIITR17JZ"
+    },
+    {
+      "id": 6874,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA CASERMA DI P.S. F. IOVINO)",
+      "swift_code": "BNLIITR17QZ"
+    },
+    {
+      "id": 6875,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA DI TELESE TERME)",
+      "swift_code": "BNLIITR17RZ"
+    },
+    {
+      "id": 6876,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(SAN GIOVANNI TEDUCCIO BRANCH)",
+      "swift_code": "BNLIITRRSAG"
+    },
+    {
+      "id": 6877,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BNLIITRRNAX"
+    },
+    {
+      "id": 7386,
+      "bank": "BANCA POPOLARE DEL MEDITERRANEO",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BMEDITN1"
+    },
+    {
+      "id": 7778,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI ARENACCIA)",
+      "swift_code": "BPBAIT21167"
+    },
+    {
+      "id": 7779,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI BOVIO)",
+      "swift_code": "BPBAIT21261"
+    },
+    {
+      "id": 7780,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI CAMPI FLEGREI)",
+      "swift_code": "BPBAIT21178"
+    },
+    {
+      "id": 7781,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI CASERTA AL BRAVO)",
+      "swift_code": "BPBAIT21170"
+    },
+    {
+      "id": 7782,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI CAVALLEGGERI)",
+      "swift_code": "BPBAIT21171"
+    },
+    {
+      "id": 7783,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI CIMAROSA)",
+      "swift_code": "BPBAIT21121"
+    },
+    {
+      "id": 7784,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI DEI MILLE)",
+      "swift_code": "BPBAIT21080"
+    },
+    {
+      "id": 7785,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI SEDE VERDI)",
+      "swift_code": "BPBAIT21115"
+    },
+    {
+      "id": 7786,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI VASTO A CHIAIA)",
+      "swift_code": "BPBAIT21165"
+    },
+    {
+      "id": 7787,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI VITTORIA)",
+      "swift_code": "BPBAIT21098"
+    },
+    {
+      "id": 8351,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG.2)",
+      "swift_code": "BPMIITM1A44"
+    },
+    {
+      "id": 8352,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BPMIITM1445"
+    },
+    {
+      "id": 8663,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 1 DI NAPOLI)",
+      "swift_code": "BPDMIT31149"
+    },
+    {
+      "id": 8664,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI)",
+      "swift_code": "BPDMIT31145"
+    },
+    {
+      "id": 9379,
+      "bank": "BANCA PROMOS SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PROSITNN"
+    },
+    {
+      "id": 9403,
+      "bank": "BANCA REGIONALE DI SVILUPPO S.P.A",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BSVIITNN"
+    },
+    {
+      "id": 9406,
+      "bank": "BANCA REGIONALE DI SVILUPPO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(FILIALE NAPOLI VOMERO)",
+      "swift_code": "BSVIIT21014"
+    },
+    {
+      "id": 9407,
+      "bank": "BANCA REGIONALE DI SVILUPPO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(FILIALE NAPOLI)",
+      "swift_code": "BSVIIT21010"
+    },
+    {
+      "id": 9408,
+      "bank": "BANCA REGIONALE DI SVILUPPO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BSVIIT21"
+    },
+    {
+      "id": 10651,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 1)",
+      "swift_code": "BAPPIT21625"
+    },
+    {
+      "id": 10652,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 10)",
+      "swift_code": "BAPPIT21E26"
+    },
+    {
+      "id": 10653,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 2)",
+      "swift_code": "BAPPIT21624"
+    },
+    {
+      "id": 10654,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 3)",
+      "swift_code": "BAPPIT21626"
+    },
+    {
+      "id": 10655,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 4)",
+      "swift_code": "BAPPIT21627"
+    },
+    {
+      "id": 10656,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 5)",
+      "swift_code": "BAPPIT21G29"
+    },
+    {
+      "id": 10657,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 6)",
+      "swift_code": "BAPPIT21631"
+    },
+    {
+      "id": 10658,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 7)",
+      "swift_code": "BAPPIT21G19"
+    },
+    {
+      "id": 10659,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 8)",
+      "swift_code": "BAPPIT21636"
+    },
+    {
+      "id": 10660,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 9)",
+      "swift_code": "BAPPIT21637"
+    },
+    {
+      "id": 10661,
+      "bank": "BANCO BPM SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI)",
+      "swift_code": "BAPPIT21620"
+    },
+    {
+      "id": 11911,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(BACK OFFICE DI RETE NAPOLI)",
+      "swift_code": "IBSPITNA464"
+    },
+    {
+      "id": 11912,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE IMPRESE NAPOLI CENTRO DIREZIONALE)",
+      "swift_code": "IBSPITNA660"
+    },
+    {
+      "id": 11913,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI - VIA NUOVA MARINA 20)",
+      "swift_code": "IBSPITNA020"
+    },
+    {
+      "id": 11914,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI - VIA TOLEDO 185)",
+      "swift_code": "IBSPITNA880"
+    },
+    {
+      "id": 11915,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI C/O U.S. NAVAL SUPPORT)",
+      "swift_code": "IBSPITNA956"
+    },
+    {
+      "id": 11916,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "(TOLEDO BRANCH)",
+      "swift_code": "IBSPITNA010"
+    },
+    {
+      "id": 11917,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "IBSPITNA"
+    },
+    {
+      "id": 12108,
+      "bank": "BCC DI NAPOLI",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "ICRAITRRUU0"
+    },
+    {
+      "id": 12607,
+      "bank": "BORSACONSULT SIM",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BORTITN1"
+    },
+    {
+      "id": 12765,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "NAPOLI",
+      "branch": "(NOSTRO ACCOUNTS)",
+      "swift_code": "IBSPIT2U932"
+    },
+    {
+      "id": 12868,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(NOSTRO ACCOUNTS)",
+      "swift_code": "IBSPIT2P932"
+    },
+    {
+      "id": 13429,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(BACK OFFICE DI RETE NAPOLI)",
+      "swift_code": "CRFIIT3F773"
+    },
+    {
+      "id": 13729,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "NAPOLI",
+      "branch": "(NOSTRO ACCOUNTS)",
+      "swift_code": "IBSPIT2B932"
+    },
+    {
+      "id": 13730,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "IBSPIT2B858"
+    },
+    {
+      "id": 14250,
+      "bank": "COMMERCIO E FINANZA LEASING E FACTO",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "CFEFIT31"
+    },
+    {
+      "id": 15419,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG. 18)",
+      "swift_code": "BACRIT21574"
+    },
+    {
+      "id": 15692,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BACRIT21561"
+    },
+    {
+      "id": 15693,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 11)",
+      "swift_code": "BACRIT21567"
+    },
+    {
+      "id": 15694,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BACRIT21570"
+    },
+    {
+      "id": 15695,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 13)",
+      "swift_code": "BACRIT21573"
+    },
+    {
+      "id": 15696,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 14)",
+      "swift_code": "BACRIT21579"
+    },
+    {
+      "id": 15697,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 15)",
+      "swift_code": "BACRIT21578"
+    },
+    {
+      "id": 15698,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 17)",
+      "swift_code": "BACRIT21485"
+    },
+    {
+      "id": 15699,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21481"
+    },
+    {
+      "id": 15700,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21483"
+    },
+    {
+      "id": 15701,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BACRIT21484"
+    },
+    {
+      "id": 15702,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BACRIT21581"
+    },
+    {
+      "id": 15703,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BACRIT21582"
+    },
+    {
+      "id": 15704,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BACRIT21583"
+    },
+    {
+      "id": 15705,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AG. 9)",
+      "swift_code": "BACRIT21562"
+    },
+    {
+      "id": 15706,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "NAPOLI",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22NAP"
+    },
+    {
+      "id": 16161,
+      "bank": "DESIGN MANUFACTURING (DEMA) S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "DENDITN1"
+    },
+    {
+      "id": 16366,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG. N)",
+      "swift_code": "DEUTITM1616"
+    },
+    {
+      "id": 16367,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1491"
+    },
+    {
+      "id": 16368,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1492"
+    },
+    {
+      "id": 16369,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.C)",
+      "swift_code": "DEUTITM1493"
+    },
+    {
+      "id": 16370,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.D)",
+      "swift_code": "DEUTITM1494"
+    },
+    {
+      "id": 16371,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.E)",
+      "swift_code": "DEUTITM1495"
+    },
+    {
+      "id": 16372,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.F)",
+      "swift_code": "DEUTITM1498"
+    },
+    {
+      "id": 16373,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.G)",
+      "swift_code": "DEUTITM1496"
+    },
+    {
+      "id": 16374,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.H)",
+      "swift_code": "DEUTITM1501"
+    },
+    {
+      "id": 16375,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.I)",
+      "swift_code": "DEUTITM1507"
+    },
+    {
+      "id": 16376,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.L)",
+      "swift_code": "DEUTITM1801"
+    },
+    {
+      "id": 16377,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(AG.M)",
+      "swift_code": "DEUTITM1802"
+    },
+    {
+      "id": 16378,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMNAP"
+    },
+    {
+      "id": 16379,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NAPOLI",
+      "branch": "(SPORTELLO O DI NAPOLI)",
+      "swift_code": "DEUTITM1619"
+    },
+    {
+      "id": 16804,
+      "bank": "FIDEURAM INTESA SANPAOLO PRIVATE BANKING",
+      "city": "NAPOLI",
+      "branch": "(FILIALE NAPOLI)",
+      "swift_code": "FIBKITM1094"
+    },
+    {
+      "id": 17140,
+      "bank": "INNOVAWAY S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "INNWITN1"
+    },
+    {
+      "id": 17495,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(08773 DC SO BACK OFFICE RETE NAPOLI)",
+      "swift_code": "BCITITMM456"
+    },
+    {
+      "id": 17496,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(BACK OFFICE - VIA TOLEDO 185)",
+      "swift_code": "BCITITMM500"
+    },
+    {
+      "id": 17497,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(BACK OFFICE DI RETE - POLO DI NAPOLI (8003))",
+      "swift_code": "BCITITMM074"
+    },
+    {
+      "id": 17498,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(BRANCH 21 - VIA FRANCESCO GIORDANI 26)",
+      "swift_code": "BCITITM1573"
+    },
+    {
+      "id": 17499,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(BRANCH 23 - PIAZZA FERDINANDO FUGA 11)",
+      "swift_code": "BCITITM1864"
+    },
+    {
+      "id": 17500,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(BRANCH 9 - PIAZZA MERCATO 204)",
+      "swift_code": "BCITITM1009"
+    },
+    {
+      "id": 17501,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NAPOLI",
+      "branch": "(NOSTRO ACCOUNTS)",
+      "swift_code": "BCITITMMM32"
+    },
+    {
+      "id": 17906,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI BRANCH)",
+      "swift_code": "BPVIIT21889"
+    },
+    {
+      "id": 18458,
+      "bank": "ISAIA AND ISAIA SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "ISIAITN1"
+    },
+    {
+      "id": 18467,
+      "bank": "ISTITUTO PER LO SVILUPPO ECONOMICO DELL'ITALIA MERIDIONALE S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "ISEDITN1"
+    },
+    {
+      "id": 18492,
+      "bank": "ITALSIM",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "ITAMITN1"
+    },
+    {
+      "id": 18517,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 1)",
+      "swift_code": "BLPIIT21119"
+    },
+    {
+      "id": 18543,
+      "bank": "K4A S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "KASPITN1"
+    },
+    {
+      "id": 18578,
+      "bank": "LA TECNICA NEL VETRO S.R.L.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "TNVSITN1"
+    },
+    {
+      "id": 18634,
+      "bank": "MACROFIT SIM S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "MCSIITN1"
+    },
+    {
+      "id": 18708,
+      "bank": "MERIDIE SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "MEDDITN1"
+    },
+    {
+      "id": 18891,
+      "bank": "PIAZZA ITALIA S.P.A.",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PIITITN1"
+    },
+    {
+      "id": 18899,
+      "bank": "PINETA GRANDE SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PIGRITN1"
+    },
+    {
+      "id": 18955,
+      "bank": "PROFESSIONE E FINANZE SIM",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "PRFIITN1"
+    },
+    {
+      "id": 19601,
+      "bank": "SQUADRILLI SIM",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "SLLIITN1"
+    },
+    {
+      "id": 19715,
+      "bank": "TREFIN SPA",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "TRIFITN1"
+    },
+    {
+      "id": 20689,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI  CORSO AMEDEO DI SAVOIA)",
+      "swift_code": "BLOPIT2252F"
+    },
+    {
+      "id": 20690,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI  PIAZZA GARIBALDI)",
+      "swift_code": "BLOPIT22490"
+    },
+    {
+      "id": 20691,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI  VIA MERGELLINA)",
+      "swift_code": "BLOPIT2244A"
+    },
+    {
+      "id": 20692,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI  VOMERO)",
+      "swift_code": "BLOPIT2253L"
+    },
+    {
+      "id": 20693,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI P.ZZA BOVIO)",
+      "swift_code": "BLOPIT2244B"
+    },
+    {
+      "id": 20694,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI PIAZZA VITTORIA)",
+      "swift_code": "BLOPIT2253K"
+    },
+    {
+      "id": 20695,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI POSILLIPO)",
+      "swift_code": "BLOPIT22486"
+    },
+    {
+      "id": 20696,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI SOCCAVO)",
+      "swift_code": "BLOPIT2250O"
+    },
+    {
+      "id": 20697,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE DI NAPOLI VIA CRISPI)",
+      "swift_code": "BLOPIT2251U"
+    },
+    {
+      "id": 20698,
+      "bank": "UBI BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(SEDE DI NAPOLI)",
+      "swift_code": "BLOPIT2244W"
+    },
+    {
+      "id": 21731,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 1)",
+      "swift_code": "BPAMIT31866"
+    },
+    {
+      "id": 21732,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 10)",
+      "swift_code": "BPAMIT31353"
+    },
+    {
+      "id": 21733,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 11)",
+      "swift_code": "BPAMIT31358"
+    },
+    {
+      "id": 21734,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 15 VIA CRISPI)",
+      "swift_code": "BPAMIT31701"
+    },
+    {
+      "id": 21735,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 18)",
+      "swift_code": "BPAMIT31A30"
+    },
+    {
+      "id": 21736,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 3)",
+      "swift_code": "BPAMIT31865"
+    },
+    {
+      "id": 21737,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 4)",
+      "swift_code": "BPAMIT31879"
+    },
+    {
+      "id": 21738,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 7)",
+      "swift_code": "BPAMIT31948"
+    },
+    {
+      "id": 21739,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 8)",
+      "swift_code": "BPAMIT31978"
+    },
+    {
+      "id": 21740,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "NAPOLI",
+      "branch": "",
+      "swift_code": "BPAMIT31121"
+    },
+    {
+      "id": 24267,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(FILIALE OPERATIVA SUD ITALIA)",
+      "swift_code": "UNCRITMMOSS"
+    },
+    {
+      "id": 24268,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(FOREIGN TRADE OFFICE NAPOLI)",
+      "swift_code": "UNCRITMMNAE"
+    },
+    {
+      "id": 24269,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI AUGUSTO)",
+      "swift_code": "UNCRITM1N50"
+    },
+    {
+      "id": 24270,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI BOVIO)",
+      "swift_code": "UNCRITM1F02"
+    },
+    {
+      "id": 24271,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CARITA')",
+      "swift_code": "UNCRITM1609"
+    },
+    {
+      "id": 24272,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CAVOUR)",
+      "swift_code": "UNCRITM1F14"
+    },
+    {
+      "id": 24273,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CENTRO DIREZIONALE)",
+      "swift_code": "UNCRITM1616"
+    },
+    {
+      "id": 24274,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CENTRO)",
+      "swift_code": "UNCRITM182Y"
+    },
+    {
+      "id": 24275,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CERBONE)",
+      "swift_code": "UNCRITM1F53"
+    },
+    {
+      "id": 24276,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CHIAIA)",
+      "swift_code": "UNCRITM183Y"
+    },
+    {
+      "id": 24277,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CORSO NOVARA)",
+      "swift_code": "UNCRITM1G41"
+    },
+    {
+      "id": 24278,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CORSO S.GIOVANNI A TEDUCCIO)",
+      "swift_code": "UNCRITM1621"
+    },
+    {
+      "id": 24279,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CORSO SECONDIGLIANO A)",
+      "swift_code": "UNCRITM1F44"
+    },
+    {
+      "id": 24280,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI CORSO SECONDIGLIANO B)",
+      "swift_code": "UNCRITM1618"
+    },
+    {
+      "id": 24281,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI DALI')",
+      "swift_code": "UNCRITM1F39"
+    },
+    {
+      "id": 24282,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI DE MEIS)",
+      "swift_code": "UNCRITM1F41"
+    },
+    {
+      "id": 24283,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI DOMENICO FONTANA)",
+      "swift_code": "UNCRITM160A"
+    },
+    {
+      "id": 24284,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI FILANGIERI)",
+      "swift_code": "UNCRITM1G40"
+    },
+    {
+      "id": 24285,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI FUORIGROTTA)",
+      "swift_code": "UNCRITM1606"
+    },
+    {
+      "id": 24286,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI GALILEO FERRARIS)",
+      "swift_code": "UNCRITM1F34"
+    },
+    {
+      "id": 24287,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI GARIBALDI)",
+      "swift_code": "UNCRITM1G42"
+    },
+    {
+      "id": 24288,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI INAIL POGGIOREALE)",
+      "swift_code": "UNCRITM1653"
+    },
+    {
+      "id": 24289,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI LUCA GIORDANO)",
+      "swift_code": "UNCRITM1F20"
+    },
+    {
+      "id": 24290,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI MANZONI)",
+      "swift_code": "UNCRITM1F09"
+    },
+    {
+      "id": 24291,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI MEDAGLIE D'ORO)",
+      "swift_code": "UNCRITM1G43"
+    },
+    {
+      "id": 24292,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI MERGELLINA)",
+      "swift_code": "UNCRITM1S02"
+    },
+    {
+      "id": 24293,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI NICOLARDI)",
+      "swift_code": "UNCRITM1F38"
+    },
+    {
+      "id": 24294,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI OMODEO)",
+      "swift_code": "UNCRITM1613"
+    },
+    {
+      "id": 24295,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI OSPEDALE COTUGNO)",
+      "swift_code": "UNCRITM1F54"
+    },
+    {
+      "id": 24296,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI PETRARCA)",
+      "swift_code": "UNCRITM151X"
+    },
+    {
+      "id": 24297,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI PETRARCA)",
+      "swift_code": "UNCRITM1E95"
+    },
+    {
+      "id": 24298,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI RIVIERA DI CHIAIA)",
+      "swift_code": "UNCRITM101D"
+    },
+    {
+      "id": 24299,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI SCAGLIONE)",
+      "swift_code": "UNCRITM1F40"
+    },
+    {
+      "id": 24300,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI SCARLATTI)",
+      "swift_code": "UNCRITM1S10"
+    },
+    {
+      "id": 24301,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI SOCCAVO)",
+      "swift_code": "UNCRITM160B"
+    },
+    {
+      "id": 24302,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI SOLARIO)",
+      "swift_code": "UNCRITM1Z25"
+    },
+    {
+      "id": 24303,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI STADERA)",
+      "swift_code": "UNCRITM1619"
+    },
+    {
+      "id": 24304,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI UMBERTO I)",
+      "swift_code": "UNCRITM1S04"
+    },
+    {
+      "id": 24305,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI VERDI A)",
+      "swift_code": "UNCRITM1S99"
+    },
+    {
+      "id": 24306,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI VESPUCCI)",
+      "swift_code": "UNCRITM1F33"
+    },
+    {
+      "id": 24307,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI VIA TOLEDO)",
+      "swift_code": "UNCRITM156H"
+    },
+    {
+      "id": 24308,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI VOMERO)",
+      "swift_code": "UNCRITM18Y1"
+    },
+    {
+      "id": 24309,
+      "bank": "UNICREDIT SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI)",
+      "swift_code": "UNCRITM1NAY"
+    },
+    {
+      "id": 26035,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI 232 BRANCH)",
+      "swift_code": "BAECIT21232"
+    },
+    {
+      "id": 26036,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI ARENELLA BRANCH)",
+      "swift_code": "BAECIT21089"
+    },
+    {
+      "id": 26037,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI BRANCH)",
+      "swift_code": "BAECIT21088"
+    },
+    {
+      "id": 26038,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI EPOMEO BRANCH)",
+      "swift_code": "BAECIT21091"
+    },
+    {
+      "id": 26039,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NAPOLI",
+      "branch": "(NAPOLI TORRETTA BRANCH)",
+      "swift_code": "BAECIT21090"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Napoli — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Napoli, Italy Contiene 243 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Napoli — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Napoli — codici SWIFT/BIC — 243 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 243 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

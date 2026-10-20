@@ -1,0 +1,5 @@
+﻿"Name","Latitude","Longitude","Status","Reactor Type","Reactor Model","Construction Start","Operational From","Operational To","Capacity Mw","Iaea Id","Data Source"
+"Caorso","45.072","9.872","Shutdown","BWR","BWR-4 (Mark 2)","1970-01-01","1981-12-01","1990-07-01","840","327","WNA/IAEA"
+"Enrico Fermi","45.183333","8.283333","Shutdown","PWR","WH 4LP","1961-07-01","1965-01-01","1990-07-01","247","326","IAEA"
+"Garigliano","41.258","13.835","Shutdown","BWR","BWR-1","1959-11-01","1964-06-01","1982-03-01","150","325","WNA/IAEA"
+"Latina","41.427","12.808","Shutdown","GCR","MAGNOX","1958-11-01","1964-01-01","1987-12-01","200","318","WNA/IAEA"

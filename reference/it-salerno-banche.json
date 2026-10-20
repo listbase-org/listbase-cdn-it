@@ -1,0 +1,401 @@
+{
+  "id": "it-salerno-banche",
+  "name": "Banche a Salerno — codici SWIFT/BIC",
+  "title": "Banche a Salerno — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Salerno, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 178,
+      "bank": "ARTI GRAFICHE BOCCIA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "AGBCIT31"
+    },
+    {
+      "id": 1200,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "ANTBIT21775"
+    },
+    {
+      "id": 2372,
+      "bank": "BANCA DEL SUD SPA",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO)",
+      "swift_code": "SUDNITN1013"
+    },
+    {
+      "id": 3399,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "SALERNO",
+      "branch": "(AGENZIA 47)",
+      "swift_code": "BCPTITN1047"
+    },
+    {
+      "id": 3400,
+      "bank": "BANCA DI CREDITO POPOLARE",
+      "city": "SALERNO",
+      "branch": "(AGENZIA 53)",
+      "swift_code": "BCPTITN1053"
+    },
+    {
+      "id": 3560,
+      "bank": "BANCA DI SALERNO",
+      "city": "SALERNO",
+      "branch": "(SALERNO)",
+      "swift_code": "CCRTIT2T91A"
+    },
+    {
+      "id": 3717,
+      "bank": "BANCA D'ITALIA",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO)",
+      "swift_code": "BITAITR1424"
+    },
+    {
+      "id": 5973,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "(MERCATO SAN SEVERINO)",
+      "swift_code": "PASCITM1SAH"
+    },
+    {
+      "id": 5974,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "(SALERNO AG. 8)",
+      "swift_code": "PASCITM1775"
+    },
+    {
+      "id": 5975,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA1"
+    },
+    {
+      "id": 5976,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA2"
+    },
+    {
+      "id": 5977,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA3"
+    },
+    {
+      "id": 5978,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA4"
+    },
+    {
+      "id": 5979,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA5"
+    },
+    {
+      "id": 5980,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITM1SA7"
+    },
+    {
+      "id": 5981,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PASCITMMSAL"
+    },
+    {
+      "id": 7079,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "SALERNO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1CIZ"
+    },
+    {
+      "id": 7080,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "SALERNO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1CJZ"
+    },
+    {
+      "id": 7081,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "BNLIITRRSAX"
+    },
+    {
+      "id": 7852,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO)",
+      "swift_code": "BPBAIT21112"
+    },
+    {
+      "id": 8685,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO)",
+      "swift_code": "BPDMIT31227"
+    },
+    {
+      "id": 11007,
+      "bank": "BANCO BPM SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO AG. 2)",
+      "swift_code": "BAPPIT21Q10"
+    },
+    {
+      "id": 11008,
+      "bank": "BANCO BPM SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO)",
+      "swift_code": "BAPPIT21I90"
+    },
+    {
+      "id": 11936,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO - VIA F. PRUDENTE 25)",
+      "swift_code": "IBSPITNA988"
+    },
+    {
+      "id": 11937,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO MERCATELLO)",
+      "swift_code": "IBSPITNA987"
+    },
+    {
+      "id": 11938,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "IBSPITNA400"
+    },
+    {
+      "id": 14704,
+      "bank": "COMUNE DI SALERNO",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "CUSLIT21"
+    },
+    {
+      "id": 14890,
+      "bank": "CRA BCC DI BATTIPAGLIA E MONTECORVINO ROVELLA",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "ICRAITR1AID"
+    },
+    {
+      "id": 15482,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "SALERNO",
+      "branch": "(SALERNO AGENCY 2)",
+      "swift_code": "BACRIT21575"
+    },
+    {
+      "id": 15483,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "SALERNO",
+      "branch": "(SALERNO MAIN BRANCH)",
+      "swift_code": "BACRIT21577"
+    },
+    {
+      "id": 15872,
+      "bank": "CREDITO SALERNITANO - BANCA POPOLARE DELLA PROVINCIA DI SALERNO -SOCIETA' COOPERATIVA PER AZIONI",
+      "city": "SALERNO",
+      "branch": "(FILIALE 2)",
+      "swift_code": "CRSNIT31CS1"
+    },
+    {
+      "id": 15873,
+      "bank": "CREDITO SALERNITANO - BANCA POPOLARE DELLA PROVINCIA DI SALERNO -SOCIETA' COOPERATIVA PER AZIONI",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "CRSNIT31"
+    },
+    {
+      "id": 16464,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "SALERNO",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1605"
+    },
+    {
+      "id": 16465,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "SALERNO",
+      "branch": "(AG.B)",
+      "swift_code": "DEUTITM1606"
+    },
+    {
+      "id": 16466,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "SALERNO",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMSAL"
+    },
+    {
+      "id": 18523,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "SALERNO",
+      "branch": "(SALERNO)",
+      "swift_code": "BLPIIT21405"
+    },
+    {
+      "id": 19002,
+      "bank": "PROVINCIA DI SALERNO",
+      "city": "SALERNO",
+      "branch": "",
+      "swift_code": "PRLAIT31"
+    },
+    {
+      "id": 20986,
+      "bank": "UBI BANCA SPA",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO AGENZIA 1)",
+      "swift_code": "BLOPIT2268R"
+    },
+    {
+      "id": 20987,
+      "bank": "UBI BANCA SPA",
+      "city": "SALERNO",
+      "branch": "(FILIALE DI SALERNO AGENZIA CENTRALE)",
+      "swift_code": "BLOPIT22664"
+    },
+    {
+      "id": 21383,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "SALERNO",
+      "branch": "(AGENZIA CENTRALE DI SALERNO)",
+      "swift_code": "CARMIT31701"
+    },
+    {
+      "id": 21384,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "SALERNO",
+      "branch": "(SALERNO - AG. 1)",
+      "swift_code": "CARMIT31795"
+    },
+    {
+      "id": 21385,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "SALERNO",
+      "branch": "(SALERNO - AG. 2)",
+      "swift_code": "CARMIT31743"
+    },
+    {
+      "id": 21386,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
+      "city": "SALERNO",
+      "branch": "(SALERNO)",
+      "swift_code": "CARMIT31A67"
+    },
+    {
+      "id": 25142,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(CAMPANIA CALABRIA)",
+      "swift_code": "UNCRITM1CCC"
+    },
+    {
+      "id": 25143,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO COOP. LAVORATORI DEL PORTO)",
+      "swift_code": "UNCRITM1Z85"
+    },
+    {
+      "id": 25144,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO DE GRANITA)",
+      "swift_code": "UNCRITM1641"
+    },
+    {
+      "id": 25145,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO PORTANOVA)",
+      "swift_code": "UNCRITM1NH4"
+    },
+    {
+      "id": 25146,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO WAGNER)",
+      "swift_code": "UNCRITM1642"
+    },
+    {
+      "id": 25147,
+      "bank": "UNICREDIT SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO)",
+      "swift_code": "UNCRITM184Y"
+    },
+    {
+      "id": 26114,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "SALERNO",
+      "branch": "(SALERNO BRANCH)",
+      "swift_code": "BAECIT21093"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Salerno — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Salerno, Italy Contiene 50 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Salerno — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Salerno — codici SWIFT/BIC — 50 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 50 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

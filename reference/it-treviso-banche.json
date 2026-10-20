@@ -1,0 +1,681 @@
+{
+  "id": "it-treviso-banche",
+  "name": "Banche a Treviso — codici SWIFT/BIC",
+  "title": "Banche a Treviso — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Treviso, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1339,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AG. NO 280)",
+      "swift_code": "ANTBIT21280"
+    },
+    {
+      "id": 1340,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AG. NO 281 AG IV NOVEMBRE)",
+      "swift_code": "ANTBIT21TRV"
+    },
+    {
+      "id": 1341,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AG. NO 288 AG CAIROLI)",
+      "swift_code": "ANTBIT21288"
+    },
+    {
+      "id": 1342,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AG. NO 41 AG P.DE FERO)",
+      "swift_code": "ANTBIT21041"
+    },
+    {
+      "id": 1343,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AG. S. ANTONINO)",
+      "swift_code": "ANTBIT21304"
+    },
+    {
+      "id": 1344,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21612"
+    },
+    {
+      "id": 1345,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ANTBIT21035"
+    },
+    {
+      "id": 1725,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "CRGEITG1340"
+    },
+    {
+      "id": 2393,
+      "bank": "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "ICRAITR1U4S"
+    },
+    {
+      "id": 3729,
+      "bank": "BANCA D'ITALIA",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "BITAITR1223"
+    },
+    {
+      "id": 3834,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BIMTITT1020"
+    },
+    {
+      "id": 6372,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO - AG. 1)",
+      "swift_code": "PASCITM1280"
+    },
+    {
+      "id": 6373,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO - AG. 3)",
+      "swift_code": "PASCITM1T3V"
+    },
+    {
+      "id": 6374,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO - AG. 4)",
+      "swift_code": "PASCITM1TRV"
+    },
+    {
+      "id": 6375,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO - AG. 5)",
+      "swift_code": "PASCITM1612"
+    },
+    {
+      "id": 6376,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "PASCITM1TV1"
+    },
+    {
+      "id": 6377,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "PASCITM1TV2"
+    },
+    {
+      "id": 6378,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "PASCITMMTRE"
+    },
+    {
+      "id": 7168,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1EMZ"
+    },
+    {
+      "id": 7169,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(AGENZIA AERON. MILITARE)",
+      "swift_code": "BNLIITR1ENZ"
+    },
+    {
+      "id": 7170,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BNLIITRRTVX"
+    },
+    {
+      "id": 7568,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TREVISO",
+      "branch": "(TREVISO - P.ZZA INDIPENDENZA)",
+      "swift_code": "BPAAIT2B207"
+    },
+    {
+      "id": 7569,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TREVISO",
+      "branch": "(TREVISO - VIALE BRIGATA TREVISO)",
+      "swift_code": "BPAAIT2B201"
+    },
+    {
+      "id": 7570,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TREVISO",
+      "branch": "(TREVISO CITTA)",
+      "swift_code": "BPAAIT2B137"
+    },
+    {
+      "id": 7571,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TREVISO",
+      "branch": "(TREVISO VIALE MONTEGRAPPA)",
+      "swift_code": "BPAAIT2B198"
+    },
+    {
+      "id": 7572,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "BPAAIT2B116"
+    },
+    {
+      "id": 7895,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "BPBAIT21132"
+    },
+    {
+      "id": 8539,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BPMIITM1305"
+    },
+    {
+      "id": 8704,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "BPDMIT31219"
+    },
+    {
+      "id": 8992,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "POSOIT2215Q"
+    },
+    {
+      "id": 11259,
+      "bank": "BANCO BPM SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO - AGENZIA 4)",
+      "swift_code": "BAPPIT21D17"
+    },
+    {
+      "id": 11260,
+      "bank": "BANCO BPM SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO AG. 2)",
+      "swift_code": "BAPPIT21183"
+    },
+    {
+      "id": 11261,
+      "bank": "BANCO BPM SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO AG. 3)",
+      "swift_code": "BAPPIT21672"
+    },
+    {
+      "id": 11262,
+      "bank": "BANCO BPM SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "BAPPIT21093"
+    },
+    {
+      "id": 11642,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "CREBIT21186"
+    },
+    {
+      "id": 11810,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "TREVISO",
+      "branch": "(TREVISO 377)",
+      "swift_code": "BDBDITA1377"
+    },
+    {
+      "id": 11957,
+      "bank": "BANCO DI NAPOLI SPA",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE RETE TREVISO)",
+      "swift_code": "IBSPITNA789"
+    },
+    {
+      "id": 12746,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE RETE TREVISO)",
+      "swift_code": "IBSPIT2F789"
+    },
+    {
+      "id": 12780,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE RETE TREVISO)",
+      "swift_code": "IBSPIT2U789"
+    },
+    {
+      "id": 12781,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TREVISO",
+      "branch": "(FIL. DI TREVISO)",
+      "swift_code": "IBSPIT2U073"
+    },
+    {
+      "id": 12935,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE DI RETE TREVISO)",
+      "swift_code": "IBSPIT2P789"
+    },
+    {
+      "id": 12936,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(FILIALE IMPRESE TREVISO)",
+      "swift_code": "IBSPIT2P549"
+    },
+    {
+      "id": 12937,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO - VIA INDIPENDENZA 16)",
+      "swift_code": "IBSPIT2P685"
+    },
+    {
+      "id": 13219,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(SEDE DI TREVISO)",
+      "swift_code": "CRBZIT2B140"
+    },
+    {
+      "id": 13498,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE RETE TREVISO)",
+      "swift_code": "CRFIIT3F789"
+    },
+    {
+      "id": 13773,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE RETE TREVISO)",
+      "swift_code": "IBSPIT2B789"
+    },
+    {
+      "id": 14080,
+      "bank": "CENTROMARCA BANCA CREDITO COOPERATIVO DI TREVISO EVENEZIA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ICRAITR1KT1"
+    },
+    {
+      "id": 14081,
+      "bank": "CENTROMARCA BANCA CREDITO COOPERATIVO DI TREVISO EVENEZIA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ICRAITR1KTE"
+    },
+    {
+      "id": 14082,
+      "bank": "CENTROMARCA BANCA CREDITO COOPERATIVO DI TREVISO EVENEZIA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ICRAITR1KTH"
+    },
+    {
+      "id": 14086,
+      "bank": "CENTROMARCA BANCA CREDITO COOPERATIVO DI TREVISO EVENEZIA SOC.COOP.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ICRAITRRKT0"
+    },
+    {
+      "id": 15147,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BPPNIT2P018"
+    },
+    {
+      "id": 15148,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BPPNIT2P187"
+    },
+    {
+      "id": 15149,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BPPNIT2P192"
+    },
+    {
+      "id": 15523,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TREVISO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21125"
+    },
+    {
+      "id": 15524,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "BACRIT21133"
+    },
+    {
+      "id": 16035,
+      "bank": "CREDITO TREVIGIANO-BANCA DI CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "ICRAITR1PHO"
+    },
+    {
+      "id": 16148,
+      "bank": "DE' LONGHI SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "LONGIT21"
+    },
+    {
+      "id": 16158,
+      "bank": "DELCLIMA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "DEMLIT21"
+    },
+    {
+      "id": 16502,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TREVISO",
+      "branch": "(SPORTELLO DI TREVISO)",
+      "swift_code": "DEUTITM1514"
+    },
+    {
+      "id": 17037,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "HAABIT2U011"
+    },
+    {
+      "id": 17690,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TREVISO",
+      "branch": "(BACK OFFICE DI RETE ESTERO - TREVISO)",
+      "swift_code": "BCITITMM436"
+    },
+    {
+      "id": 17691,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "TREVISO",
+      "branch": "(FILIALE IMPRESE TREVISO INDIPENDENZA)",
+      "swift_code": "BCITITMMV50"
+    },
+    {
+      "id": 18069,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TREVISO",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT21278"
+    },
+    {
+      "id": 18070,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TREVISO",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT21279"
+    },
+    {
+      "id": 18071,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TREVISO",
+      "branch": "(BRANCH N.4)",
+      "swift_code": "BPVIIT21207"
+    },
+    {
+      "id": 18072,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TREVISO",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "BPVIIT21682"
+    },
+    {
+      "id": 18073,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TREVISO",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A06"
+    },
+    {
+      "id": 18394,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO - STRADA OVEST)",
+      "swift_code": "VEBHIT21132"
+    },
+    {
+      "id": 18395,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO- SANTA DONA)",
+      "swift_code": "VEBHIT21042"
+    },
+    {
+      "id": 18396,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "VEBHIT21020"
+    },
+    {
+      "id": 18397,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO-CENTRO)",
+      "swift_code": "VEBHIT21063"
+    },
+    {
+      "id": 18864,
+      "bank": "PAGNOSSIN SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "PAGSIT21"
+    },
+    {
+      "id": 19007,
+      "bank": "PROVINCIA DI TREVISO",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "PRTEIT21"
+    },
+    {
+      "id": 19520,
+      "bank": "SOCIETA FINANZIARIA ITALIANA SPA",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "SONLIT21"
+    },
+    {
+      "id": 21136,
+      "bank": "UBI BANCA SPA",
+      "city": "TREVISO",
+      "branch": "(FILIALE DI TREVISO)",
+      "swift_code": "BLOPIT22315"
+    },
+    {
+      "id": 22506,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "BCABIT21555"
+    },
+    {
+      "id": 25631,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(ESTERO MERCI TREVISO)",
+      "swift_code": "UNCRITMMTVE"
+    },
+    {
+      "id": 25632,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(FIL. OPERATIVA TRIVENETO ORIENTALE)",
+      "swift_code": "UNCRITMMOTE"
+    },
+    {
+      "id": 25633,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO ALDO MORO)",
+      "swift_code": "UNCRITM1A11"
+    },
+    {
+      "id": 25634,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO BASTIA)",
+      "swift_code": "UNCRITM1A12"
+    },
+    {
+      "id": 25635,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO BURCHIELLATI)",
+      "swift_code": "UNCRITM1UU5"
+    },
+    {
+      "id": 25636,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO IV NOVEMBRE)",
+      "swift_code": "UNCRITM1A98"
+    },
+    {
+      "id": 25637,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO OSPEDALE GENERALE)",
+      "swift_code": "UNCRITM1A15"
+    },
+    {
+      "id": 25638,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO S.BONA)",
+      "swift_code": "UNCRITM1A14"
+    },
+    {
+      "id": 25639,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO SELVANA)",
+      "swift_code": "UNCRITM1A17"
+    },
+    {
+      "id": 25640,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO TERRAGLIO)",
+      "swift_code": "UNCRITM1A13"
+    },
+    {
+      "id": 25641,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "UNCRITM1O23"
+    },
+    {
+      "id": 25642,
+      "bank": "UNICREDIT SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO)",
+      "swift_code": "UNCRITM1TVW"
+    },
+    {
+      "id": 25885,
+      "bank": "UNION CREDIT AND GUARANTEE S.A.",
+      "city": "TREVISO",
+      "branch": "",
+      "swift_code": "UNCGIT21"
+    },
+    {
+      "id": 26161,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TREVISO",
+      "branch": "(TREVISO BRANCH)",
+      "swift_code": "BAECIT21342"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Treviso — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Treviso, Italy Contiene 90 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Treviso — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Treviso — codici SWIFT/BIC — 90 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 90 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

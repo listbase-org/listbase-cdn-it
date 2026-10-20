@@ -1,0 +1,471 @@
+{
+  "id": "it-piacenza-banche",
+  "name": "Banche a Piacenza — codici SWIFT/BIC",
+  "title": "Banche a Piacenza — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Piacenza, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1048,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ANTBIT21507"
+    },
+    {
+      "id": 1650,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(FILIALE DI PIACENZA)",
+      "swift_code": "CRGEITG1365"
+    },
+    {
+      "id": 2060,
+      "bank": "BANCA CENTROPADANA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR19ON"
+    },
+    {
+      "id": 2061,
+      "bank": "BANCA CENTROPADANA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ICRAITR19OT"
+    },
+    {
+      "id": 2081,
+      "bank": "BANCA CENTROPADANA-CREDITO COOPERATIVO SCRL",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ICRAITR190N"
+    },
+    {
+      "id": 2082,
+      "bank": "BANCA CENTROPADANA-CREDITO COOPERATIVO SCRL",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ICRAITR190Q"
+    },
+    {
+      "id": 2083,
+      "bank": "BANCA CENTROPADANA-CREDITO COOPERATIVO SCRL",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ICRAITR190T"
+    },
+    {
+      "id": 2146,
+      "bank": "BANCA CREMASCA E MANTOVANA CREDITO COOPERATIVO SOC. SOOP.",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "ICRAITR1TWL"
+    },
+    {
+      "id": 3507,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BCPCIT21001"
+    },
+    {
+      "id": 3508,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "BCPCIT21042"
+    },
+    {
+      "id": 3509,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "BCPCIT21059"
+    },
+    {
+      "id": 3510,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BCPCIT21019"
+    },
+    {
+      "id": 3511,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BCPCIT21022"
+    },
+    {
+      "id": 3512,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BCPCIT21025"
+    },
+    {
+      "id": 3513,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BCPCIT21026"
+    },
+    {
+      "id": 3514,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BCPCIT21031"
+    },
+    {
+      "id": 3515,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 7)",
+      "swift_code": "BCPCIT21032"
+    },
+    {
+      "id": 3516,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "BCPCIT21039"
+    },
+    {
+      "id": 3517,
+      "bank": "BANCA DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "BCPCIT2P"
+    },
+    {
+      "id": 3667,
+      "bank": "BANCA D'ITALIA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE DI PIACENZA)",
+      "swift_code": "BITAITR1245"
+    },
+    {
+      "id": 3828,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "BIMTITT1013"
+    },
+    {
+      "id": 5509,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA - CELLA)",
+      "swift_code": "PASCITM1122"
+    },
+    {
+      "id": 5510,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG. 1)",
+      "swift_code": "PASCITM1052"
+    },
+    {
+      "id": 5511,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG. 3)",
+      "swift_code": "PASCITM1507"
+    },
+    {
+      "id": 5512,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG.2)",
+      "swift_code": "PASCITM1176"
+    },
+    {
+      "id": 5513,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "PASCITMMPCZ"
+    },
+    {
+      "id": 6927,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR18ZZ"
+    },
+    {
+      "id": 6928,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR190Z"
+    },
+    {
+      "id": 6929,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "BNLIITRRPCX"
+    },
+    {
+      "id": 7348,
+      "bank": "BANCA PER LO SVILUPPO DELLA COOP. DI CREDITO SPA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE PIACENZA)",
+      "swift_code": "SVIUITR1A17"
+    },
+    {
+      "id": 8905,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "PIACENZA",
+      "branch": "(AGENZIA N.2)",
+      "swift_code": "POSOIT2115S"
+    },
+    {
+      "id": 8906,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA 1)",
+      "swift_code": "POSOIT2112C"
+    },
+    {
+      "id": 8907,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA BRANCH)",
+      "swift_code": "POSOIT2109B"
+    },
+    {
+      "id": 10792,
+      "bank": "BANCO BPM SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG. 1)",
+      "swift_code": "BAPPIT21N59"
+    },
+    {
+      "id": 10793,
+      "bank": "BANCO BPM SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG. 2)",
+      "swift_code": "BAPPIT21O18"
+    },
+    {
+      "id": 10794,
+      "bank": "BANCO BPM SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA)",
+      "swift_code": "BAPPIT21M32"
+    },
+    {
+      "id": 11779,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA 349)",
+      "swift_code": "BDBDITA1349"
+    },
+    {
+      "id": 13739,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE IMPRESE PIACENZA)",
+      "swift_code": "IBSPIT2B118"
+    },
+    {
+      "id": 13740,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA-LARGO MATTEOTTI 4/6)",
+      "swift_code": "IBSPIT2B583"
+    },
+    {
+      "id": 13741,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PIACENZA",
+      "branch": "(VIA COLOMBO)",
+      "swift_code": "IBSPIT2B163"
+    },
+    {
+      "id": 13742,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "IBSPIT2BPIA"
+    },
+    {
+      "id": 14630,
+      "bank": "COMUNE DI PIACENZA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "CMMZIT21"
+    },
+    {
+      "id": 15438,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA AG. 2)",
+      "swift_code": "BACRIT21386"
+    },
+    {
+      "id": 15439,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA SEDE)",
+      "swift_code": "BACRIT22PIA"
+    },
+    {
+      "id": 15852,
+      "bank": "CREDITO PADANO BANCA DI CREDITO COOPERATIVO - SOCIETA COOPERATIVA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1CMC"
+    },
+    {
+      "id": 16410,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PIACENZA",
+      "branch": "(SPORTELLO DI PIACENZA)",
+      "swift_code": "DEUTITM1774"
+    },
+    {
+      "id": 17929,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PIACENZA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT21214"
+    },
+    {
+      "id": 18645,
+      "bank": "MANDELLI SPA",
+      "city": "PIACENZA",
+      "branch": "",
+      "swift_code": "MALDIT21"
+    },
+    {
+      "id": 20806,
+      "bank": "UBI BANCA SPA",
+      "city": "PIACENZA",
+      "branch": "(FILIALE DI PIACENZA VIA COLOMBO)",
+      "swift_code": "BLOPIT22638"
+    },
+    {
+      "id": 20807,
+      "bank": "UBI BANCA SPA",
+      "city": "PIACENZA",
+      "branch": "(SEDE DI PIACENZA)",
+      "swift_code": "BLOPIT22779"
+    },
+    {
+      "id": 21609,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "PIACENZA",
+      "branch": "(BRANCH 021 - VIA VERDI)",
+      "swift_code": "POCIITM1021"
+    },
+    {
+      "id": 21610,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA VIA COLOMBO)",
+      "swift_code": "POCIITM1072"
+    },
+    {
+      "id": 24587,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA BATTISTI)",
+      "swift_code": "UNCRITM1365"
+    },
+    {
+      "id": 24588,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA CAVALLI)",
+      "swift_code": "UNCRITM1BC7"
+    },
+    {
+      "id": 24589,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA CELLA)",
+      "swift_code": "UNCRITM1QR2"
+    },
+    {
+      "id": 24590,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA COLOMBO A)",
+      "swift_code": "UNCRITM1366"
+    },
+    {
+      "id": 24591,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA COLOMBO C)",
+      "swift_code": "UNCRITM1V95"
+    },
+    {
+      "id": 24592,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA MARTIRI RESISTENZA)",
+      "swift_code": "UNCRITM1PV2"
+    },
+    {
+      "id": 24593,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA ZECCA)",
+      "swift_code": "UNCRITM16AA"
+    },
+    {
+      "id": 24594,
+      "bank": "UNICREDIT SPA",
+      "city": "PIACENZA",
+      "branch": "(PIACENZA)",
+      "swift_code": "UNCRITM172Y"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Piacenza — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Piacenza, Italy Contiene 60 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Piacenza — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Piacenza — codici SWIFT/BIC — 60 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 60 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

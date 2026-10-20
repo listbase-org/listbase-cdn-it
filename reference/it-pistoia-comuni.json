@@ -1,0 +1,316 @@
+{
+  "id": "it-pistoia-comuni",
+  "name": "Comuni della provincia di Pistoia",
+  "title": "Comuni della provincia di Pistoia",
+  "description": "Elenco dei 20 comuni della provincia di Pistoia (sigla PT), regione Toscana. List of 20 comuni in the province of Pistoia (PT), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 47023,
+      "nome": "Abetone Cutigliano",
+      "slug": "abetone-cutigliano",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47002,
+      "nome": "Agliana",
+      "slug": "agliana",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47003,
+      "nome": "Buggiano",
+      "slug": "buggiano",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47022,
+      "nome": "Chiesina Uzzanese",
+      "slug": "chiesina-uzzanese",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47005,
+      "nome": "Lamporecchio",
+      "slug": "lamporecchio",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47006,
+      "nome": "Larciano",
+      "slug": "larciano",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47007,
+      "nome": "Marliana",
+      "slug": "marliana",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47008,
+      "nome": "Massa e Cozzile",
+      "slug": "massa-e-cozzile",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47009,
+      "nome": "Monsummano Terme",
+      "slug": "monsummano-terme",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47010,
+      "nome": "Montale",
+      "slug": "montale",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47011,
+      "nome": "Montecatini-Terme",
+      "slug": "montecatini-terme",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47012,
+      "nome": "Pescia",
+      "slug": "pescia",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47013,
+      "nome": "Pieve a Nievole",
+      "slug": "pieve-a-nievole",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47014,
+      "nome": "Pistoia",
+      "slug": "pistoia",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47016,
+      "nome": "Ponte Buggianese",
+      "slug": "ponte-buggianese",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47017,
+      "nome": "Quarrata",
+      "slug": "quarrata",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47018,
+      "nome": "Sambuca Pistoiese",
+      "slug": "sambuca-pistoiese",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47024,
+      "nome": "San Marcello Piteglio",
+      "slug": "san-marcello-piteglio",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47020,
+      "nome": "Serravalle Pistoiese",
+      "slug": "serravalle-pistoiese",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 47021,
+      "nome": "Uzzano",
+      "slug": "uzzano",
+      "provincia_id": 47,
+      "provincia_nome": "Pistoia",
+      "provincia_sigla": "PT",
+      "provincia_slug": "pistoia",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Pistoia - Download gratuito",
+    "description": "Elenco dei 20 comuni della provincia di Pistoia (sigla PT), regione Toscana. List of 20 comuni in the province of Pistoia (PT), Toscana region. Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Pistoia | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Pistoia — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

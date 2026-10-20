@@ -1,0 +1,429 @@
+{
+  "id": "it-como-banche",
+  "name": "Banche a Como — codici SWIFT/BIC",
+  "title": "Banche a Como — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Como, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 643,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "ANTBIT21B72"
+    },
+    {
+      "id": 1547,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "COMO",
+      "branch": "(AGENZIA 1 - COMO)",
+      "swift_code": "CRGEITG1527"
+    },
+    {
+      "id": 1548,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "COMO",
+      "branch": "(AGENZIA 2 - COMO)",
+      "swift_code": "CRGEITG1528"
+    },
+    {
+      "id": 1549,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "CRGEITG1734"
+    },
+    {
+      "id": 2687,
+      "bank": "BANCA DI CREDITO COOPERATIVO DELL'ALTA BRIANZA-ALZATE BRIANZA SOCIETA' COOPERATIVA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "ICRAITR195C"
+    },
+    {
+      "id": 2981,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI LEZZENO SCRL",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "ICRAITR1H66"
+    },
+    {
+      "id": 3620,
+      "bank": "BANCA D'ITALIA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "BITAITR1132"
+    },
+    {
+      "id": 3621,
+      "bank": "BANCA D'ITALIA",
+      "city": "COMO",
+      "branch": "(FILIALE DI LECCO)",
+      "swift_code": "BITAITR1128"
+    },
+    {
+      "id": 3758,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "COMO",
+      "branch": "(COMO)",
+      "swift_code": "EUBAITM1855"
+    },
+    {
+      "id": 4575,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "PASCITM1CO1"
+    },
+    {
+      "id": 4576,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "PASCITMMCOM"
+    },
+    {
+      "id": 6663,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "COMO",
+      "branch": "(AGENZIA MERATE)",
+      "swift_code": "BNLIITR12WZ"
+    },
+    {
+      "id": 6664,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "COMO",
+      "branch": "(AGENZIA PONTCHIASSO)",
+      "swift_code": "BNLIITR12YZ"
+    },
+    {
+      "id": 6665,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "BNLIITRRCOX"
+    },
+    {
+      "id": 8120,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "BPMIITM1C73"
+    },
+    {
+      "id": 8777,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "COMO",
+      "branch": "(AG. 1 - VIA GIULINI)",
+      "swift_code": "POSOIT2105I"
+    },
+    {
+      "id": 8778,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "COMO",
+      "branch": "(AG. 2 - FRAZIONE LORA)",
+      "swift_code": "POSOIT2105J"
+    },
+    {
+      "id": 8779,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "COMO",
+      "branch": "(COMO -  AG. 4)",
+      "swift_code": "POSOIT2110G"
+    },
+    {
+      "id": 8780,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "COMO",
+      "branch": "(COMO AG.3)",
+      "swift_code": "POSOIT2108G"
+    },
+    {
+      "id": 8781,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "COMO",
+      "branch": "(COMO)",
+      "swift_code": "POSOIT2102Q"
+    },
+    {
+      "id": 10126,
+      "bank": "BANCO BPM SPA",
+      "city": "COMO",
+      "branch": "(COMO AG. 1)",
+      "swift_code": "BAPPIT21AX1"
+    },
+    {
+      "id": 10127,
+      "bank": "BANCO BPM SPA",
+      "city": "COMO",
+      "branch": "(COMO AG. 2)",
+      "swift_code": "BAPPIT21AY3"
+    },
+    {
+      "id": 10128,
+      "bank": "BANCO BPM SPA",
+      "city": "COMO",
+      "branch": "(COMO)",
+      "swift_code": "BAPPIT21AR9"
+    },
+    {
+      "id": 11525,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "COMO",
+      "branch": "(LUNGO LARIO)",
+      "swift_code": "CREBIT22259"
+    },
+    {
+      "id": 11526,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "COMO",
+      "branch": "(VIA BELVEDERE)",
+      "swift_code": "CREBIT21141"
+    },
+    {
+      "id": 11527,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "COMO",
+      "branch": "(VIALE VARESE)",
+      "swift_code": "CREBIT22313"
+    },
+    {
+      "id": 11528,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "CREBIT21098"
+    },
+    {
+      "id": 11712,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "COMO",
+      "branch": "(COMO 47)",
+      "swift_code": "BDBDITA1047"
+    },
+    {
+      "id": 13782,
+      "bank": "CASSA LOMBARDA SPA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO)",
+      "swift_code": "LOMCIT21108"
+    },
+    {
+      "id": 13994,
+      "bank": "CASSA RURALE ED ARTIGIANA DI CANTU' BANCA DI CREDITO COOPERATIVO - S.C.R.L.",
+      "city": "COMO",
+      "branch": "(ALBATE BRANCH)",
+      "swift_code": "ACARIT21009"
+    },
+    {
+      "id": 13995,
+      "bank": "CASSA RURALE ED ARTIGIANA DI CANTU' BANCA DI CREDITO COOPERATIVO - S.C.R.L.",
+      "city": "COMO",
+      "branch": "(COMO BRANCH)",
+      "swift_code": "ACARIT21026"
+    },
+    {
+      "id": 14434,
+      "bank": "COMUNE DI COMO",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "OCOOIT21"
+    },
+    {
+      "id": 15348,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "BACRIT21917"
+    },
+    {
+      "id": 16065,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "COMO",
+      "branch": "(C OMO AGENZIA 1)",
+      "swift_code": "BPCVIT21034"
+    },
+    {
+      "id": 16066,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "COMO",
+      "branch": "(COMO AGENZIA 2)",
+      "swift_code": "BPCVIT21057"
+    },
+    {
+      "id": 16067,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "COMO",
+      "branch": "(COMO AGENZIA 3)",
+      "swift_code": "BPCVIT21061"
+    },
+    {
+      "id": 16068,
+      "bank": "CREDITO VALTELLINESE",
+      "city": "COMO",
+      "branch": "(COMO SEDE)",
+      "swift_code": "BPCVIT21025"
+    },
+    {
+      "id": 16248,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "DEUTITM1049"
+    },
+    {
+      "id": 17261,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "COMO",
+      "branch": "(FILIALE IMPRESE COMO)",
+      "swift_code": "BCITITMMF41"
+    },
+    {
+      "id": 18970,
+      "bank": "PROVINCIA DI COMO",
+      "city": "COMO",
+      "branch": "",
+      "swift_code": "POOOIT21"
+    },
+    {
+      "id": 20466,
+      "bank": "UBI BANCA SPA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO CAMERLATA)",
+      "swift_code": "BLOPIT22011"
+    },
+    {
+      "id": 20467,
+      "bank": "UBI BANCA SPA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO MORO)",
+      "swift_code": "BLOPIT22089"
+    },
+    {
+      "id": 20468,
+      "bank": "UBI BANCA SPA",
+      "city": "COMO",
+      "branch": "(FILIALE DI COMO VIA CATTANEO)",
+      "swift_code": "BLOPIT22059"
+    },
+    {
+      "id": 20469,
+      "bank": "UBI BANCA SPA",
+      "city": "COMO",
+      "branch": "(SEDE DI COMO)",
+      "swift_code": "BLOPIT22009"
+    },
+    {
+      "id": 21889,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "COMO",
+      "branch": "(COMO SEDE)",
+      "swift_code": "BEPOIT21892"
+    },
+    {
+      "id": 21890,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "COMO",
+      "branch": "(COMO-CAMERLATA)",
+      "swift_code": "BEPOIT21896"
+    },
+    {
+      "id": 21891,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "COMO",
+      "branch": "(FIL. COMO - MORO)",
+      "swift_code": "BEPOIT21179"
+    },
+    {
+      "id": 21892,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "COMO",
+      "branch": "(FIL. COMO - VIA CATTANEIO)",
+      "swift_code": "BEPOIT21137"
+    },
+    {
+      "id": 21893,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "COMO",
+      "branch": "(FIL.COMO - VIA GALLIO)",
+      "swift_code": "BEPOIT21093"
+    },
+    {
+      "id": 23396,
+      "bank": "UNICREDIT SPA",
+      "city": "COMO",
+      "branch": "(COMO CAVOUR)",
+      "swift_code": "UNCRITM1315"
+    },
+    {
+      "id": 23397,
+      "bank": "UNICREDIT SPA",
+      "city": "COMO",
+      "branch": "(COMO E LECCO)",
+      "swift_code": "UNCRITM1COY"
+    },
+    {
+      "id": 23398,
+      "bank": "UNICREDIT SPA",
+      "city": "COMO",
+      "branch": "(COMO GIULIO CESARE)",
+      "swift_code": "UNCRITM1317"
+    },
+    {
+      "id": 23399,
+      "bank": "UNICREDIT SPA",
+      "city": "COMO",
+      "branch": "(COMO PONTECHIASSO)",
+      "swift_code": "UNCRITM1316"
+    },
+    {
+      "id": 23400,
+      "bank": "UNICREDIT SPA",
+      "city": "COMO",
+      "branch": "(COMO)",
+      "swift_code": "UNCRITM162Y"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Como — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Como, Italy Contiene 54 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Como — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Como — codici SWIFT/BIC — 54 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 54 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

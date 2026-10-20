@@ -1,0 +1,205 @@
+{
+  "id": "it-vulcani",
+  "name": "Vulcani in Italia",
+  "title": "Vulcani in Italia",
+  "description": "Elenco dei vulcani in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1037278",
+      "name_it": "Agnano",
+      "name_en": "Agnano",
+      "latitude": 40.844722,
+      "longitude": 14.149722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1037278"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3683240",
+      "name_it": "Collina dei Camaldoli",
+      "name_en": "Collina dei Camaldoli",
+      "latitude": 40.8575,
+      "longitude": 14.1914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3683240"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1339167",
+      "name_it": "Empedocle",
+      "name_en": "Empedocles",
+      "latitude": 37.163611,
+      "longitude": 12.718611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1339167"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q31445586",
+      "name_it": "",
+      "name_en": "Gran Cratere",
+      "latitude": 38.40417,
+      "longitude": 14.9657,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31445586"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q31663694",
+      "name_it": "",
+      "name_en": "I Vancori",
+      "latitude": 38.78874,
+      "longitude": 15.21209,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31663694"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1249309",
+      "name_it": "Isola di Pantelleria",
+      "name_en": "Pantelleria Island",
+      "latitude": 36.783333,
+      "longitude": 12,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1249309"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q56682799",
+      "name_it": "Mefite di Rocca San Felice",
+      "name_en": "",
+      "latitude": 40.97469,
+      "longitude": 15.14612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56682799"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q989650",
+      "name_it": "Monte Algido",
+      "name_en": "Mount Algidus",
+      "latitude": 41.7267,
+      "longitude": 12.7786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q989650"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q31445595",
+      "name_it": "",
+      "name_en": "Monte Barbaro",
+      "latitude": 40.85,
+      "longitude": 14.116667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31445595"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q133073112",
+      "name_it": "monte Cigliano",
+      "name_en": "",
+      "latitude": 40.828156,
+      "longitude": 14.139633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133073112"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q729764",
+      "name_it": "Monte Epomeo",
+      "name_en": "Mount Epomeo",
+      "latitude": 40.730129,
+      "longitude": 13.89514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q729764"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3321680",
+      "name_it": "Monte Gauro",
+      "name_en": "Mount Barbaro",
+      "latitude": 40.8445,
+      "longitude": 14.109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3321680"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q31639874",
+      "name_it": "monte Gibele",
+      "name_en": "Monte Gibele",
+      "latitude": 36.77667,
+      "longitude": 12.01332,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31639874"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q30143153",
+      "name_it": "Monte Spina",
+      "name_en": "Mount  Spina",
+      "latitude": 40.829323,
+      "longitude": 14.163581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30143153"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q31445600",
+      "name_it": "Stromboli",
+      "name_en": "Mount Stromboli",
+      "latitude": 38.79,
+      "longitude": 15.21,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31445600"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1648022",
+      "name_it": "Vulcano",
+      "name_en": "Vulcano",
+      "latitude": 38.404,
+      "longitude": 14.962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1648022"
+    }
+  ],
+  "meta": {
+    "title": "Vulcani in Italia - Download gratuito",
+    "description": "Elenco dei vulcani in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 16 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Vulcani in Italia | ListBase",
+    "seo_description": "Scarica Vulcani in Italia — 16 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 16 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

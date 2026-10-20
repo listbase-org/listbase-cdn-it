@@ -1,0 +1,448 @@
+{
+  "id": "it-matera-comuni",
+  "name": "Comuni della provincia di Matera",
+  "title": "Comuni della provincia di Matera",
+  "description": "Elenco dei 31 comuni della provincia di Matera (sigla MT), regione Basilicata. List of 31 comuni in the province of Matera (MT), Basilicata region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 77001,
+      "nome": "Accettura",
+      "slug": "accettura",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77002,
+      "nome": "Aliano",
+      "slug": "aliano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77003,
+      "nome": "Bernalda",
+      "slug": "bernalda",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77004,
+      "nome": "Calciano",
+      "slug": "calciano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77005,
+      "nome": "Cirigliano",
+      "slug": "cirigliano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77006,
+      "nome": "Colobraro",
+      "slug": "colobraro",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77007,
+      "nome": "Craco",
+      "slug": "craco",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77008,
+      "nome": "Ferrandina",
+      "slug": "ferrandina",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77009,
+      "nome": "Garaguso",
+      "slug": "garaguso",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77010,
+      "nome": "Gorgoglione",
+      "slug": "gorgoglione",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77011,
+      "nome": "Grassano",
+      "slug": "grassano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77012,
+      "nome": "Grottole",
+      "slug": "grottole",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77013,
+      "nome": "Irsina",
+      "slug": "irsina",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77014,
+      "nome": "Matera",
+      "slug": "matera",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77015,
+      "nome": "Miglionico",
+      "slug": "miglionico",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77016,
+      "nome": "Montalbano Jonico",
+      "slug": "montalbano-jonico",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77017,
+      "nome": "Montescaglioso",
+      "slug": "montescaglioso",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77018,
+      "nome": "Nova Siri",
+      "slug": "nova-siri",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77019,
+      "nome": "Oliveto Lucano",
+      "slug": "oliveto-lucano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77020,
+      "nome": "Pisticci",
+      "slug": "pisticci",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77021,
+      "nome": "Policoro",
+      "slug": "policoro",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77022,
+      "nome": "Pomarico",
+      "slug": "pomarico",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77023,
+      "nome": "Rotondella",
+      "slug": "rotondella",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77024,
+      "nome": "Salandra",
+      "slug": "salandra",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77025,
+      "nome": "San Giorgio Lucano",
+      "slug": "san-giorgio-lucano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77026,
+      "nome": "San Mauro Forte",
+      "slug": "san-mauro-forte",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77031,
+      "nome": "Scanzano Jonico",
+      "slug": "scanzano-jonico",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77027,
+      "nome": "Stigliano",
+      "slug": "stigliano",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77028,
+      "nome": "Tricarico",
+      "slug": "tricarico",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77029,
+      "nome": "Tursi",
+      "slug": "tursi",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    },
+    {
+      "id": 77030,
+      "nome": "Valsinni",
+      "slug": "valsinni",
+      "provincia_id": 77,
+      "provincia_nome": "Matera",
+      "provincia_sigla": "MT",
+      "provincia_slug": "matera",
+      "regione_id": 17,
+      "regione_nome": "Basilicata",
+      "regione_slug": "basilicata"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Matera - Download gratuito",
+    "description": "Elenco dei 31 comuni della provincia di Matera (sigla MT), regione Basilicata. List of 31 comuni in the province of Matera (MT), Basilicata region. Contiene 31 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Matera | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Matera — 31 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 31 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "id": "it-prato-banche",
+  "name": "Banche a Prato — codici SWIFT/BIC",
+  "title": "Banche a Prato — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Prato, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 399,
+      "bank": "BANCA ALTA TOSCANA CREDITO COOPERATIVO S.C.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "ICRAITR1PMB"
+    },
+    {
+      "id": 1089,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "ANTBIT21B74"
+    },
+    {
+      "id": 1657,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PRATO",
+      "branch": "(FILIALE DI PRATO)",
+      "swift_code": "CRGEITG1351"
+    },
+    {
+      "id": 3796,
+      "bank": "BANCA IFIGEST S.P.A.",
+      "city": "PRATO",
+      "branch": "(FILIALE 104 PRATO)",
+      "swift_code": "IFIGIT31104"
+    },
+    {
+      "id": 5665,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 10)",
+      "swift_code": "PASCITM1J08"
+    },
+    {
+      "id": 5666,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 11)",
+      "swift_code": "PASCITM1J09"
+    },
+    {
+      "id": 5667,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 7)",
+      "swift_code": "PASCITM1J05"
+    },
+    {
+      "id": 5668,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 8)",
+      "swift_code": "PASCITM1J06"
+    },
+    {
+      "id": 5669,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 9)",
+      "swift_code": "PASCITM1J07"
+    },
+    {
+      "id": 5670,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG.6)",
+      "swift_code": "PASCITM1B74"
+    },
+    {
+      "id": 5671,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO- UNICOOP)",
+      "swift_code": "PASCITM1J04"
+    },
+    {
+      "id": 5672,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITM1PO1"
+    },
+    {
+      "id": 5673,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITM1PO2"
+    },
+    {
+      "id": 5674,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITM1PO3"
+    },
+    {
+      "id": 5675,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITM1PO4"
+    },
+    {
+      "id": 5676,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITM1PO5"
+    },
+    {
+      "id": 5677,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PASCITMMPRA"
+    },
+    {
+      "id": 6951,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PRATO",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR19KZ"
+    },
+    {
+      "id": 6952,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "BNLIITRRPOX"
+    },
+    {
+      "id": 8400,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO BRANCH)",
+      "swift_code": "BPMIITM1400"
+    },
+    {
+      "id": 9086,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "PRATO",
+      "branch": "(PRATO 440)",
+      "swift_code": "BPSPIT21440"
+    },
+    {
+      "id": 10865,
+      "bank": "BANCO BPM SPA",
+      "city": "PRATO",
+      "branch": "(PRATO - GRIGNANO)",
+      "swift_code": "BAPPIT21S60"
+    },
+    {
+      "id": 10866,
+      "bank": "BANCO BPM SPA",
+      "city": "PRATO",
+      "branch": "(PRATO - I CILIANI)",
+      "swift_code": "BAPPIT21S61"
+    },
+    {
+      "id": 10867,
+      "bank": "BANCO BPM SPA",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 1)",
+      "swift_code": "BAPPIT21N37"
+    },
+    {
+      "id": 12603,
+      "bank": "BORGOSESIA",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "BOOGIT31"
+    },
+    {
+      "id": 13446,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(FILIALE IMPRESE PRATO)",
+      "swift_code": "CRFIIT3F382"
+    },
+    {
+      "id": 13447,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(FILIALE IMPRESE PRATO)",
+      "swift_code": "CRFIIT3FH31"
+    },
+    {
+      "id": 13448,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO 1)",
+      "swift_code": "CRFIIT3F850"
+    },
+    {
+      "id": 13449,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO BRANCH 2)",
+      "swift_code": "CRFIIT3F828"
+    },
+    {
+      "id": 13450,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO MACROLOTTO)",
+      "swift_code": "CRFIIT3F197"
+    },
+    {
+      "id": 13451,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO VERGAIO)",
+      "swift_code": "CRFIIT3F851"
+    },
+    {
+      "id": 13595,
+      "bank": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "city": "PRATO",
+      "branch": "(BRANCH NR. 1)",
+      "swift_code": "CRSMIT3S946"
+    },
+    {
+      "id": 14665,
+      "bank": "COMUNE DI PRATO",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "CUPAIT21"
+    },
+    {
+      "id": 15450,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PRATO",
+      "branch": "(PRATO AG. 4)",
+      "swift_code": "BACRIT21722"
+    },
+    {
+      "id": 15740,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PRATO",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21356"
+    },
+    {
+      "id": 15741,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "BACRIT22PRA"
+    },
+    {
+      "id": 16423,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PRATO",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1315"
+    },
+    {
+      "id": 16424,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "DEUTITM1520"
+    },
+    {
+      "id": 16710,
+      "bank": "ESTRA S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "ESRRIT21"
+    },
+    {
+      "id": 16937,
+      "bank": "GESTIONE IMPIANTI DEPURAZIONE ACQUE S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "GIDAIT21"
+    },
+    {
+      "id": 17549,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PRATO",
+      "branch": "(FILIALE IMPRESE PRATO ALBERTI)",
+      "swift_code": "BCITITMMV45"
+    },
+    {
+      "id": 17951,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(CASARSA BRANCH)",
+      "swift_code": "BPVIIT21411"
+    },
+    {
+      "id": 17952,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(CHIESANUOVA BRANCH)",
+      "swift_code": "BPVIIT21409"
+    },
+    {
+      "id": 17953,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(COIANO BRANCH)",
+      "swift_code": "BPVIIT21445"
+    },
+    {
+      "id": 17954,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(COLONICA BRANCH)",
+      "swift_code": "BPVIIT21419"
+    },
+    {
+      "id": 17955,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(CONSIAG BRANCH)",
+      "swift_code": "BPVIIT21443"
+    },
+    {
+      "id": 17956,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(GALCETELLO BRANCH)",
+      "swift_code": "BPVIIT21447"
+    },
+    {
+      "id": 17957,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(GALCIANA BRANCH)",
+      "swift_code": "BPVIIT21446"
+    },
+    {
+      "id": 17958,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(GRIGNANO BRANCH)",
+      "swift_code": "BPVIIT22413"
+    },
+    {
+      "id": 17959,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(ICILIANI BRANCH)",
+      "swift_code": "BPVIIT21441"
+    },
+    {
+      "id": 17960,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(IL PINO BRANCH)",
+      "swift_code": "BPVIIT21414"
+    },
+    {
+      "id": 17961,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(IOLO BRANCH)",
+      "swift_code": "BPVIIT21455"
+    },
+    {
+      "id": 17962,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(LA PIETA' BRANCH)",
+      "swift_code": "BPVIIT21495"
+    },
+    {
+      "id": 17963,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(LA QUERCE BRANCH)",
+      "swift_code": "BPVIIT21417"
+    },
+    {
+      "id": 17964,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(LA ROMITA BRANCH)",
+      "swift_code": "BPVIIT21442"
+    },
+    {
+      "id": 17965,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(MACROLOTTO BRANCH)",
+      "swift_code": "BPVIIT21422"
+    },
+    {
+      "id": 17966,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(MEZZANA BRANCH)",
+      "swift_code": "BPVIIT21462"
+    },
+    {
+      "id": 17967,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(NARNALI BRANCH)",
+      "swift_code": "BPVIIT21470"
+    },
+    {
+      "id": 17968,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(OSPEDALE BRANCH)",
+      "swift_code": "BPVIIT21489"
+    },
+    {
+      "id": 17969,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(SAN MARCO BRANCH)",
+      "swift_code": "BPVIIT21412"
+    },
+    {
+      "id": 17970,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(SEDE BRANCH)",
+      "swift_code": "BPVIIT21490"
+    },
+    {
+      "id": 17971,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PRATO",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A15"
+    },
+    {
+      "id": 18558,
+      "bank": "KRONOS SPA",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "KRNOIT21"
+    },
+    {
+      "id": 18772,
+      "bank": "MPS LEASING AND FACTORING-BANCA PER I SERVIZI FINANZIARI ALLE IMPRESE S.P.A.",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "MPLFIT31600"
+    },
+    {
+      "id": 18997,
+      "bank": "PROVINCIA DI PRATO",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PRRTIT21"
+    },
+    {
+      "id": 19563,
+      "bank": "SPACE SPA",
+      "city": "PRATO",
+      "branch": "",
+      "swift_code": "PPCEIT21"
+    },
+    {
+      "id": 20256,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PRATO",
+      "branch": "(SUCCURSALE DI PRATO)",
+      "swift_code": "ARBAIT33114"
+    },
+    {
+      "id": 20864,
+      "bank": "UBI BANCA SPA",
+      "city": "PRATO",
+      "branch": "(FILIALE DI PRATO)",
+      "swift_code": "BLOPIT22C29"
+    },
+    {
+      "id": 24716,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(ESTERO MERCI PRATO)",
+      "swift_code": "UNCRITMMPOE"
+    },
+    {
+      "id": 24717,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO - C.COMM.DIREZ. TECNO UNO)",
+      "swift_code": "UNCRITM1F46"
+    },
+    {
+      "id": 24718,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO DEL FERRO)",
+      "swift_code": "UNCRITM155A"
+    },
+    {
+      "id": 24719,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO PISTOIESE)",
+      "swift_code": "UNCRITM1R52"
+    },
+    {
+      "id": 24720,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO VALENTINI)",
+      "swift_code": "UNCRITM1G37"
+    },
+    {
+      "id": 24721,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO VIA BOLOGNA A)",
+      "swift_code": "UNCRITM1QU9"
+    },
+    {
+      "id": 24722,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO VIA BOLOGNA B)",
+      "swift_code": "UNCRITM1F45"
+    },
+    {
+      "id": 24723,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO VIA LEPANTO)",
+      "swift_code": "UNCRITM1QS4"
+    },
+    {
+      "id": 24724,
+      "bank": "UNICREDIT SPA",
+      "city": "PRATO",
+      "branch": "(PRATO)",
+      "swift_code": "UNCRITM193Y"
+    },
+    {
+      "id": 26077,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PRATO",
+      "branch": "(PRATO MONTEGRAPPA BRANCH)",
+      "swift_code": "BAECIT21179"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Prato — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Prato, Italy Contiene 78 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Prato — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Prato — codici SWIFT/BIC — 78 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 78 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

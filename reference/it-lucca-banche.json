@@ -1,0 +1,422 @@
+{
+  "id": "it-lucca-banche",
+  "name": "Banche a Lucca — codici SWIFT/BIC",
+  "title": "Banche a Lucca — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Lucca, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 804,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "ANTBIT21895"
+    },
+    {
+      "id": 2293,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "(BORGO GIANNOTTI BRANCH)",
+      "swift_code": "BMLUIT3L111"
+    },
+    {
+      "id": 2294,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BMLUIT3L100"
+    },
+    {
+      "id": 2295,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "(LUCCA BACK-OFFICE ESTERO TEAM 2)",
+      "swift_code": "BMLUIT3L932"
+    },
+    {
+      "id": 2296,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "(S. ANNA BRANCH)",
+      "swift_code": "BMLUIT3L106"
+    },
+    {
+      "id": 2297,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "(S. CONCORDIO BRANCH)",
+      "swift_code": "BMLUIT3L112"
+    },
+    {
+      "id": 2298,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "BMLUIT3L"
+    },
+    {
+      "id": 3472,
+      "bank": "BANCA DI PESCIA E CASCINA CREDITO COOPERATIVO S.C.",
+      "city": "LUCCA",
+      "branch": "(FILIALE LUCCA S. ANNA)",
+      "swift_code": "ICRAITR19Y6"
+    },
+    {
+      "id": 3473,
+      "bank": "BANCA DI PESCIA E CASCINA CREDITO COOPERATIVO S.C.",
+      "city": "LUCCA",
+      "branch": "(FILIALE LUCCA S. MARIA)",
+      "swift_code": "ICRAITR19Y1"
+    },
+    {
+      "id": 3539,
+      "bank": "BANCA DI PISA E FORNACETTE CREDITO COOPERATIVO SOC.COOP.P.A.",
+      "city": "LUCCA",
+      "branch": "(VIALE CASTRUCCIO CASTRACANI 1070)",
+      "swift_code": "BCCFIT31LUC"
+    },
+    {
+      "id": 3644,
+      "bank": "BANCA D'ITALIA",
+      "city": "LUCCA",
+      "branch": "(FILIALE DI LUCCA)",
+      "swift_code": "BITAITR1314"
+    },
+    {
+      "id": 4919,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 10)",
+      "swift_code": "PASCITM1Y23"
+    },
+    {
+      "id": 4920,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 5)",
+      "swift_code": "PASCITM1895"
+    },
+    {
+      "id": 4921,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 6)",
+      "swift_code": "PASCITM1Y24"
+    },
+    {
+      "id": 4922,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 7)",
+      "swift_code": "PASCITM1Y25"
+    },
+    {
+      "id": 4923,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 8)",
+      "swift_code": "PASCITM1Y26"
+    },
+    {
+      "id": 4924,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 9)",
+      "swift_code": "PASCITM1Y27"
+    },
+    {
+      "id": 4925,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PASCITM1LU1"
+    },
+    {
+      "id": 4926,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PASCITM1LU2"
+    },
+    {
+      "id": 4927,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PASCITM1LU3"
+    },
+    {
+      "id": 4928,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PASCITM1LU4"
+    },
+    {
+      "id": 4929,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PASCITMMLUC"
+    },
+    {
+      "id": 6782,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LUCCA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR15KZ"
+    },
+    {
+      "id": 6783,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LUCCA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR15LZ"
+    },
+    {
+      "id": 6784,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "BNLIITRRLUX"
+    },
+    {
+      "id": 9056,
+      "bank": "BANCA POPOLARE DI SPOLETO",
+      "city": "LUCCA",
+      "branch": "(LUCCA 442)",
+      "swift_code": "BPSPIT21442"
+    },
+    {
+      "id": 10455,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 1)",
+      "swift_code": "BAPPIT21G01"
+    },
+    {
+      "id": 10456,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 2)",
+      "swift_code": "BAPPIT21S02"
+    },
+    {
+      "id": 10457,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 3)",
+      "swift_code": "BAPPIT21S03"
+    },
+    {
+      "id": 10458,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 5)",
+      "swift_code": "BAPPIT21S05"
+    },
+    {
+      "id": 10459,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 6)",
+      "swift_code": "BAPPIT21P45"
+    },
+    {
+      "id": 10460,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 7)",
+      "swift_code": "BAPPIT21P96"
+    },
+    {
+      "id": 10461,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(PONTE A MORIANO)",
+      "swift_code": "BAPPIT21S96"
+    },
+    {
+      "id": 10462,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(PONTE SAN PIETRO)",
+      "swift_code": "BAPPIT21S23"
+    },
+    {
+      "id": 10463,
+      "bank": "BANCO BPM SPA",
+      "city": "LUCCA",
+      "branch": "(SEDE DI LUCCA)",
+      "swift_code": "BAPPIT21S00"
+    },
+    {
+      "id": 13544,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "LUCCA",
+      "branch": "(BORGO GIANNOTTI)",
+      "swift_code": "CRFIIT3P588"
+    },
+    {
+      "id": 13545,
+      "bank": "CASSA DI RISPARMIO DI PISTOIA E DELLA LUCCHESIA SPA",
+      "city": "LUCCA",
+      "branch": "(FILIALE IMPRESE LUCCA)",
+      "swift_code": "CRFIIT3P432"
+    },
+    {
+      "id": 13631,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "LUCCA",
+      "branch": "(FILIALE DI LUCCA)",
+      "swift_code": "CRVOIT21047"
+    },
+    {
+      "id": 15400,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA AG. 3)",
+      "swift_code": "BACRIT21712"
+    },
+    {
+      "id": 15401,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "LUCCA",
+      "branch": "(LUCCA)",
+      "swift_code": "BACRIT21189"
+    },
+    {
+      "id": 16316,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "LUCCA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1436"
+    },
+    {
+      "id": 16317,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "DEUTITM1430"
+    },
+    {
+      "id": 17329,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "LUCCA",
+      "branch": "(FILIALE IMPRESE LUCCA POGGIO)",
+      "swift_code": "BCITITMMV44"
+    },
+    {
+      "id": 17330,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "LUCCA",
+      "branch": "(FILIALE IMPRESE LUCCA)",
+      "swift_code": "BCITITMMG32"
+    },
+    {
+      "id": 17865,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "LUCCA",
+      "branch": "(LUCCA BRANCH)",
+      "swift_code": "BPVIIT21460"
+    },
+    {
+      "id": 18981,
+      "bank": "PROVINCIA DI LUCCA",
+      "city": "LUCCA",
+      "branch": "",
+      "swift_code": "PRUAIT21"
+    },
+    {
+      "id": 20212,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "LUCCA",
+      "branch": "(LUCCA BRANCH)",
+      "swift_code": "ARBAIT33180"
+    },
+    {
+      "id": 23880,
+      "bank": "UNICREDIT SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA CATALANI)",
+      "swift_code": "UNCRITM1E49"
+    },
+    {
+      "id": 23881,
+      "bank": "UNICREDIT SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA MARTI)",
+      "swift_code": "UNCRITM1DG3"
+    },
+    {
+      "id": 23882,
+      "bank": "UNICREDIT SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA S.MICHELE)",
+      "swift_code": "UNCRITM1G10"
+    },
+    {
+      "id": 23883,
+      "bank": "UNICREDIT SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA)",
+      "swift_code": "UNCRITM190Y"
+    },
+    {
+      "id": 23884,
+      "bank": "UNICREDIT SPA",
+      "city": "LUCCA",
+      "branch": "(TOSCANA OVEST)",
+      "swift_code": "UNCRITM1LUW"
+    },
+    {
+      "id": 26006,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "LUCCA",
+      "branch": "(LUCCA BRANCH)",
+      "swift_code": "BAECIT21178"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Lucca — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Lucca, Italy Contiene 53 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Lucca — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Lucca — codici SWIFT/BIC — 53 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 53 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "id": "it-novara-banche",
+  "name": "Banche a Novara — codici SWIFT/BIC",
+  "title": "Banche a Novara — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Novara, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 223,
+      "bank": "AUTOGRILL",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "AUOGIT21"
+    },
+    {
+      "id": 960,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NOVARA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21707"
+    },
+    {
+      "id": 961,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "ANTBIT21705"
+    },
+    {
+      "id": 1942,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "CRGEITG1272"
+    },
+    {
+      "id": 2336,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "NOVARA",
+      "branch": "(FUNZIONE PRIVATE BANKER PIEMONTE NORD EST)",
+      "swift_code": "BDCPITT1658"
+    },
+    {
+      "id": 2337,
+      "bank": "BANCA DEL PIEMONTE",
+      "city": "NOVARA",
+      "branch": "(NOVARA)",
+      "swift_code": "BDCPITT1060"
+    },
+    {
+      "id": 3656,
+      "bank": "BANCA D'ITALIA",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "BITAITR1113"
+    },
+    {
+      "id": 3657,
+      "bank": "BANCA D'ITALIA",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI VERBANIA)",
+      "swift_code": "BITAITR1117"
+    },
+    {
+      "id": 3782,
+      "bank": "BANCA EUROPEA PER INVESTIMENTI LUXEMBOURG KIRCHBERG",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "EILKIT21001"
+    },
+    {
+      "id": 5331,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 1)",
+      "swift_code": "PASCITM1705"
+    },
+    {
+      "id": 5332,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "PASCITMMNVR"
+    },
+    {
+      "id": 6881,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NOVARA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR17VZ"
+    },
+    {
+      "id": 6882,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "BNLIITRRNOX"
+    },
+    {
+      "id": 8359,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "BPMIITM1D12"
+    },
+    {
+      "id": 8887,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "NOVARA",
+      "branch": "(NOVARA BRANCH)",
+      "swift_code": "POSOIT2109A"
+    },
+    {
+      "id": 10681,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 1)",
+      "swift_code": "BAPPIT21A51"
+    },
+    {
+      "id": 10682,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 10)",
+      "swift_code": "BAPPIT21E99"
+    },
+    {
+      "id": 10683,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 11)",
+      "swift_code": "BAPPIT21E83"
+    },
+    {
+      "id": 10684,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 2)",
+      "swift_code": "BAPPIT21A52"
+    },
+    {
+      "id": 10685,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 3)",
+      "swift_code": "BAPPIT21A58"
+    },
+    {
+      "id": 10686,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 4)",
+      "swift_code": "BAPPIT21468"
+    },
+    {
+      "id": 10687,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 5)",
+      "swift_code": "BAPPIT21E88"
+    },
+    {
+      "id": 10688,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 6)",
+      "swift_code": "BAPPIT21E89"
+    },
+    {
+      "id": 10689,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 7)",
+      "swift_code": "BAPPIT21E96"
+    },
+    {
+      "id": 10690,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 8)",
+      "swift_code": "BAPPIT21E69"
+    },
+    {
+      "id": 10691,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 9)",
+      "swift_code": "BAPPIT21E98"
+    },
+    {
+      "id": 10692,
+      "bank": "BANCO BPM SPA",
+      "city": "NOVARA",
+      "branch": "(SEDE DI NOVARA)",
+      "swift_code": "BAPPIT21A50"
+    },
+    {
+      "id": 11586,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "NOVARA",
+      "branch": "(UFFICIO BONIFICI-SERVIZIO PER I CLIENTI RETAIL)",
+      "swift_code": "CREBIT22ANT"
+    },
+    {
+      "id": 11587,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "CREBIT21079"
+    },
+    {
+      "id": 11770,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "NOVARA",
+      "branch": "(NOVARA 367)",
+      "swift_code": "BDBDITA1367"
+    },
+    {
+      "id": 12251,
+      "bank": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG. 1 PERNATE)",
+      "swift_code": "CRBIIT2B218"
+    },
+    {
+      "id": 12252,
+      "bank": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA)",
+      "swift_code": "CRBIIT2B216"
+    },
+    {
+      "id": 15421,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "NOVARA",
+      "branch": "(NOVARA AG.2)",
+      "swift_code": "BACRIT21201"
+    },
+    {
+      "id": 15422,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "BACRIT21204"
+    },
+    {
+      "id": 16382,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "NOVARA",
+      "branch": "(SPORTELLO DI NOVARA)",
+      "swift_code": "DEUTITM1223"
+    },
+    {
+      "id": 17504,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NOVARA",
+      "branch": "(BRANCH 1 - CORSO VERCELLI 21)",
+      "swift_code": "BCITITM1431"
+    },
+    {
+      "id": 17505,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NOVARA",
+      "branch": "(FILIALE IMPRESE NOVARA)",
+      "swift_code": "BCITITMMG94"
+    },
+    {
+      "id": 17506,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA -LARGO DONEGANI 4)",
+      "swift_code": "BCITITM1201"
+    },
+    {
+      "id": 18302,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "VEBHIT21220"
+    },
+    {
+      "id": 18303,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "VEBHIT21224"
+    },
+    {
+      "id": 18304,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "VEBHIT21227"
+    },
+    {
+      "id": 20714,
+      "bank": "UBI BANCA SPA",
+      "city": "NOVARA",
+      "branch": "(FILIALE DI NOVARA)",
+      "swift_code": "BLOPIT22619"
+    },
+    {
+      "id": 22183,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "NOVARA",
+      "branch": "(FIL. NOVARA 2)",
+      "swift_code": "BREUITM1122"
+    },
+    {
+      "id": 22184,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
+      "city": "NOVARA",
+      "branch": "(FIL. NOVARA 3)",
+      "swift_code": "BREUITM1060"
+    },
+    {
+      "id": 24352,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(ESTERO MERCI NOVARA)",
+      "swift_code": "UNCRITMMNOE"
+    },
+    {
+      "id": 24353,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NORD OVEST 3)",
+      "swift_code": "UNCRITM1NOW"
+    },
+    {
+      "id": 24354,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA ANDREA COSTA)",
+      "swift_code": "UNCRITM1DB1"
+    },
+    {
+      "id": 24355,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA CAVOUR)",
+      "swift_code": "UNCRITM1355"
+    },
+    {
+      "id": 24356,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA S.FRANCESCO)",
+      "swift_code": "UNCRITM1T22"
+    },
+    {
+      "id": 24357,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA XXIII MARZO)",
+      "swift_code": "UNCRITM1356"
+    },
+    {
+      "id": 24358,
+      "bank": "UNICREDIT SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA)",
+      "swift_code": "UNCRITM160Y"
+    },
+    {
+      "id": 26042,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "NOVARA",
+      "branch": "(NOVARA 248 BRANCH)",
+      "swift_code": "BAECIT21248"
+    },
+    {
+      "id": 26246,
+      "bank": "WORLD DUTY FREE SPA",
+      "city": "NOVARA",
+      "branch": "",
+      "swift_code": "WODRIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Novara — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Novara, Italy Contiene 53 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Novara — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Novara — codici SWIFT/BIC — 53 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 53 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

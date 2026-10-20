@@ -1,0 +1,241 @@
+{
+  "id": "it-parchi-divertimento",
+  "name": "Parchi di divertimento in Italia",
+  "title": "Parchi di divertimento in Italia",
+  "description": "Elenco dei parchi di divertimento in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q124398199",
+      "name_it": "",
+      "name_en": "Acqua Park Laguna Blu",
+      "latitude": 39.39306,
+      "longitude": 16.01977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124398199"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q464445",
+      "name_it": "CanevaWorld Resort",
+      "name_en": "Canevaworld",
+      "latitude": 45.47806,
+      "longitude": 10.72639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q464445"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q845460",
+      "name_it": "CavallinoMatto",
+      "name_en": "Cavallino Matto",
+      "latitude": 43.181389,
+      "longitude": 10.548611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q845460"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3677153",
+      "name_it": "Cinecittà World",
+      "name_en": "Cinecittà World",
+      "latitude": 41.709,
+      "longitude": 12.4467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3677153"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3678591",
+      "name_it": "Città satellite",
+      "name_en": "Città Satellite",
+      "latitude": 45.591575,
+      "longitude": 9.106876,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3678591"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3696356",
+      "name_it": "Cowboyland",
+      "name_en": "Cowboyland",
+      "latitude": 44.968639,
+      "longitude": 9.013166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3696356"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3719016",
+      "name_it": "Edenlandia",
+      "name_en": "Edenlandia",
+      "latitude": 40.822453,
+      "longitude": 14.182595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3719016"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3059351",
+      "name_it": "Etnaland",
+      "name_en": "",
+      "latitude": 37.535764,
+      "longitude": 14.932158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3059351"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3734809",
+      "name_it": "Europark Idroscalo Milano",
+      "name_en": "Europark Idroscalo Milano",
+      "latitude": 45.474806,
+      "longitude": 9.285106,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3734809"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3071082",
+      "name_it": "Fiabilandia",
+      "name_en": "Fiabilandia",
+      "latitude": 44.035067,
+      "longitude": 12.60988,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3071082"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1144922",
+      "name_it": "Gardaland",
+      "name_en": "Gardaland",
+      "latitude": 45.45722,
+      "longitude": 10.71083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1144922"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3315507",
+      "name_it": "Leolandia",
+      "name_en": "Leolandia",
+      "latitude": 45.60574,
+      "longitude": 9.53864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3315507"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q3840616",
+      "name_it": "Luneur Park",
+      "name_en": "Luneur Park",
+      "latitude": 41.837351,
+      "longitude": 12.47612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3840616"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q509529",
+      "name_it": "MagicLand",
+      "name_en": "MagicLand",
+      "latitude": 41.765286,
+      "longitude": 12.956058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q509529"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q180878",
+      "name_it": "Mirabilandia",
+      "name_en": "Mirabilandia",
+      "latitude": 44.337222,
+      "longitude": 12.263333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q180878"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q49527064",
+      "name_it": "Miranolandia",
+      "name_en": "",
+      "latitude": 45.48596,
+      "longitude": 12.11051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49527064"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q69317783",
+      "name_it": "Mola Casanova",
+      "name_en": "Mola Casanova",
+      "latitude": 43.295174,
+      "longitude": 12.332403,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69317783"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q3881966",
+      "name_it": "Oltremare",
+      "name_en": "Oltremare",
+      "latitude": 43.9887,
+      "longitude": 12.6453,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3881966"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q67883010",
+      "name_it": "peter Park",
+      "name_en": "Peter Park",
+      "latitude": 43.866889,
+      "longitude": 12.695333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67883010"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q111310216",
+      "name_it": "Veneland",
+      "name_en": "",
+      "latitude": 45.536274,
+      "longitude": 12.24214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111310216"
+    }
+  ],
+  "meta": {
+    "title": "Parchi di divertimento in Italia - Download gratuito",
+    "description": "Elenco dei parchi di divertimento in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 20 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Parchi di divertimento in Italia | ListBase",
+    "seo_description": "Scarica Parchi di divertimento in Italia — 20 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 20 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

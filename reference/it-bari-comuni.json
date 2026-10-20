@@ -1,0 +1,568 @@
+{
+  "id": "it-bari-comuni",
+  "name": "Comuni della provincia di Bari (Città Metropolitana)",
+  "title": "Comuni della provincia di Bari (Città Metropolitana)",
+  "description": "Elenco dei 41 comuni della città metropolitana di Bari (sigla BA), regione Puglia. List of 41 comuni in the metropolitan city of Bari (BA), Puglia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 72001,
+      "nome": "Acquaviva delle Fonti",
+      "slug": "acquaviva-delle-fonti",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72002,
+      "nome": "Adelfia",
+      "slug": "adelfia",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72003,
+      "nome": "Alberobello",
+      "slug": "alberobello",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72004,
+      "nome": "Altamura",
+      "slug": "altamura",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72006,
+      "nome": "Bari",
+      "slug": "bari",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72008,
+      "nome": "Binetto",
+      "slug": "binetto",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72010,
+      "nome": "Bitetto",
+      "slug": "bitetto",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72011,
+      "nome": "Bitonto",
+      "slug": "bitonto",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72012,
+      "nome": "Bitritto",
+      "slug": "bitritto",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72014,
+      "nome": "Capurso",
+      "slug": "capurso",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72015,
+      "nome": "Casamassima",
+      "slug": "casamassima",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72016,
+      "nome": "Cassano delle Murge",
+      "slug": "cassano-delle-murge",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72017,
+      "nome": "Castellana Grotte",
+      "slug": "castellana-grotte",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72018,
+      "nome": "Cellamare",
+      "slug": "cellamare",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72019,
+      "nome": "Conversano",
+      "slug": "conversano",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72020,
+      "nome": "Corato",
+      "slug": "corato",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72021,
+      "nome": "Gioia del Colle",
+      "slug": "gioia-del-colle",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72022,
+      "nome": "Giovinazzo",
+      "slug": "giovinazzo",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72023,
+      "nome": "Gravina in Puglia",
+      "slug": "gravina-in-puglia",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72024,
+      "nome": "Grumo Appula",
+      "slug": "grumo-appula",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72025,
+      "nome": "Locorotondo",
+      "slug": "locorotondo",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72027,
+      "nome": "Modugno",
+      "slug": "modugno",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72028,
+      "nome": "Mola di Bari",
+      "slug": "mola-di-bari",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72029,
+      "nome": "Molfetta",
+      "slug": "molfetta",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72030,
+      "nome": "Monopoli",
+      "slug": "monopoli",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72031,
+      "nome": "Noci",
+      "slug": "noci",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72032,
+      "nome": "Noicattaro",
+      "slug": "noicattaro",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72033,
+      "nome": "Palo del Colle",
+      "slug": "palo-del-colle",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72034,
+      "nome": "Poggiorsini",
+      "slug": "poggiorsini",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72035,
+      "nome": "Polignano a Mare",
+      "slug": "polignano-a-mare",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72036,
+      "nome": "Putignano",
+      "slug": "putignano",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72037,
+      "nome": "Rutigliano",
+      "slug": "rutigliano",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72038,
+      "nome": "Ruvo di Puglia",
+      "slug": "ruvo-di-puglia",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72039,
+      "nome": "Sammichele di Bari",
+      "slug": "sammichele-di-bari",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72040,
+      "nome": "Sannicandro di Bari",
+      "slug": "sannicandro-di-bari",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72041,
+      "nome": "Santeramo in Colle",
+      "slug": "santeramo-in-colle",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72043,
+      "nome": "Terlizzi",
+      "slug": "terlizzi",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72044,
+      "nome": "Toritto",
+      "slug": "toritto",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72046,
+      "nome": "Triggiano",
+      "slug": "triggiano",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72047,
+      "nome": "Turi",
+      "slug": "turi",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    },
+    {
+      "id": 72048,
+      "nome": "Valenzano",
+      "slug": "valenzano",
+      "provincia_id": 272,
+      "provincia_nome": "Bari",
+      "provincia_sigla": "BA",
+      "provincia_slug": "bari",
+      "regione_id": 16,
+      "regione_nome": "Puglia",
+      "regione_slug": "puglia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Bari (Città Metropolitana) - Download gratuito",
+    "description": "Elenco dei 41 comuni della città metropolitana di Bari (sigla BA), regione Puglia. List of 41 comuni in the metropolitan city of Bari (BA), Puglia region. Contiene 41 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Bari (Città Metropolitana) | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Bari (Città Metropolitana) — 41 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 41 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

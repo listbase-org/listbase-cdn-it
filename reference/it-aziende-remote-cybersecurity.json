@@ -1,0 +1,214 @@
+{
+  "id": "it-aziende-remote-cybersecurity",
+  "name": "Aziende remote-friendly — settore Cybersecurity (Cybersecurity sector)",
+  "title": "Aziende remote-friendly — settore Cybersecurity (Cybersecurity sector)",
+  "description": "Le 13 aziende italiane remote-friendly attive nel settore \"Cybersecurity\" (cybersecurity). Suddivisione per settore del dataset it-aziende-remote (348 aziende).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "career_page_url",
+      "label": "Career Page Url",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy",
+      "label": "Remote Policy",
+      "type": "string"
+    },
+    {
+      "key": "remote_policy_it",
+      "label": "Remote Policy It",
+      "type": "string"
+    },
+    {
+      "key": "hiring_policies",
+      "label": "Hiring Policies",
+      "type": "string"
+    },
+    {
+      "key": "tags",
+      "label": "Tags",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "4Securitas",
+      "url": "https://www.linkedin.com/company/4securitas/",
+      "career_page_url": "https://www.linkedin.com/company/4securitas/jobs",
+      "type": "Consulting",
+      "categories": "cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "ACSIA"
+    },
+    {
+      "name": "BIP",
+      "url": "https://www.bip-group.com/",
+      "career_page_url": "https://www.bip-group.com/careers/",
+      "type": "Consulting",
+      "categories": "cloud_software, cybersecurity, design_ux, hr",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Cloud, GCP, AWS, Azure, AI, Data Science, UX, UI, BI, Mobile Development, Web Development"
+    },
+    {
+      "name": "Cleafy",
+      "url": "https://www.cleafy.com/",
+      "career_page_url": "https://www.cleafy.com/careers",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "React, Java, Kotlin, Go"
+    },
+    {
+      "name": "Codezen",
+      "url": "https://codezen.tech",
+      "career_page_url": "https://www.linkedin.com/company/codezensrls/jobs/",
+      "type": "Consulting",
+      "categories": "cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Rust, Go, Solidity, Blockchain, Cryptography, Distributed Systems"
+    },
+    {
+      "name": "Infor srl SB",
+      "url": "https://infor.gruppoinfor.it",
+      "career_page_url": "https://infor.gruppoinfor.it/chi-siamo/lavora-con-noi/",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Vulnerability Assessment, Penetration Testing, Hardware Security, IT Managed Services, Digital Transformation"
+    },
+    {
+      "name": "Kiratech S.p.A.",
+      "url": "https://www.kiratech.it/en",
+      "career_page_url": "https://www.kiratech.it/en/work-with-us",
+      "type": "B2B",
+      "categories": "cloud_software, cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Cloud Native, Consultancy, Kubernetes, DevOps, Software Development, Cloud Native Technologies, Platform Engineering"
+    },
+    {
+      "name": "Luna Labs Srl",
+      "url": "https://www.lunalabs.it",
+      "career_page_url": "https://www.lunalabs.it/p/lavora-con-noi/careers",
+      "type": "B2B",
+      "categories": "cloud_software, design_ux, marketing_writing, hr, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "PHP, Java, Angular, Vue, Node, Python, C#, .NET, iOS, Android, Docker, PostgreSQL, MySQL, Apache Solr, GitLab, DevOps, AI"
+    },
+    {
+      "name": "Shielder",
+      "url": "https://www.shielder.com/",
+      "career_page_url": "https://www.shielder.com/careers/",
+      "type": "B2B",
+      "categories": "cybersecurity",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct",
+      "tags": "Penetration Test, Security Research, Application Security, Red Teaming, Hardware Security"
+    },
+    {
+      "name": "Softlab S.p.A.",
+      "url": "https://soft.it/softlab-spa/",
+      "career_page_url": "https://www.linkedin.com/company/softlab-spa/jobs/",
+      "type": "Consulting",
+      "categories": "cloud_software, marketing_writing, cybersecurity",
+      "remote_policy": "Optional",
+      "remote_policy_it": "Opzionale",
+      "hiring_policies": "Direct, Contract",
+      "tags": "JavaScript, TypeScript, React, Vue, Angular, NodeJS, Java, PHP, Spring Boot, Python, GCP, Kubernetes, Terraform, DevOps, Cloud Native, GraphQL, AWS, Data Science, Machine Learning"
+    },
+    {
+      "name": "Telepass",
+      "url": "http://telepass.com",
+      "career_page_url": "https://www.telepass.com/it/gruppo/lavora-con-noi",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity, design_ux",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Cloud, GCP, AI, Data Science, UX, UI, Mobile Development, iOS, Android, Web Development, JavaScript, React, Java, Ruby, Swift, Kotlin"
+    },
+    {
+      "name": "THE I",
+      "url": "https://www.linkedin.com/company/thei/",
+      "career_page_url": "https://www.linkedin.com/company/thei/jobs",
+      "type": "Consulting",
+      "categories": "cybersecurity, cloud_software",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "AWS, Azure, Cloud Native Technologies, Terraform, DevOps, Kubernetes, CyberSecurity, Node.js, Python, Go"
+    },
+    {
+      "name": "Wuerth Phoenix",
+      "url": "https://wuerth-phoenix.com/",
+      "career_page_url": "https://www.wuerth-phoenix.com/posizioni-aperte",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity",
+      "remote_policy": "Full",
+      "remote_policy_it": "Completo",
+      "hiring_policies": "Direct",
+      "tags": "Kubernetes, Red Hat OpenShift, Ansible, DevOps, DevSecOps, SRE, Rust, VueJS, Application Security, Red Teaming, Pentest, SOC, OSINT, Azure, AWS, Atlassian"
+    },
+    {
+      "name": "Zucchetti S.p.A.",
+      "url": "https://www.zucchetti.it",
+      "career_page_url": "https://www.zucchetti.it/website/cms/zcareers.html",
+      "type": "Product",
+      "categories": "cloud_software, cybersecurity",
+      "remote_policy": "Hybrid",
+      "remote_policy_it": "Ibrido",
+      "hiring_policies": "Direct",
+      "tags": "Ansible, Kubernetes, Java, PostgreSQL, Cloud Native, DevOps, Go, OpenShift, React, Linux, CI/CD, SQL"
+    }
+  ],
+  "meta": {
+    "title": "Aziende remote-friendly — settore Cybersecurity (Cybersecurity sector) - Download gratuito",
+    "description": "Le 13 aziende italiane remote-friendly attive nel settore \"Cybersecurity\" (cybersecurity). Suddivisione per settore del dataset it-aziende-remote (348 aziende). Contiene 13 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Aziende remote-friendly — settore Cybersecurity (Cybersecurity sector) | ListBase",
+    "seo_description": "Scarica Aziende remote-friendly — settore Cybersecurity (Cybersecurity sector) — 13 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 13 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

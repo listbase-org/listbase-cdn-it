@@ -1,0 +1,422 @@
+{
+  "id": "it-mantova-banche",
+  "name": "Banche a Mantova — codici SWIFT/BIC",
+  "title": "Banche a Mantova — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Mantova, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 817,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "ANTBIT21744"
+    },
+    {
+      "id": 1587,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(FILIALE DI MANTOVA)",
+      "swift_code": "CRGEITG1388"
+    },
+    {
+      "id": 3646,
+      "bank": "BANCA D'ITALIA",
+      "city": "MANTOVA",
+      "branch": "(FILIALE DI MANTOVA)",
+      "swift_code": "BITAITR1134"
+    },
+    {
+      "id": 4962,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(A.T  NORD EST)",
+      "swift_code": "PASCITMMMNN"
+    },
+    {
+      "id": 4963,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(BANCA CORRISPONDENTE)",
+      "swift_code": "PASCITM1COR"
+    },
+    {
+      "id": 4964,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 1)",
+      "swift_code": "PASCITM1001"
+    },
+    {
+      "id": 4965,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 10)",
+      "swift_code": "PASCITM1744"
+    },
+    {
+      "id": 4966,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 11)",
+      "swift_code": "PASCITM1MNO"
+    },
+    {
+      "id": 4967,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 2)",
+      "swift_code": "PASCITM1002"
+    },
+    {
+      "id": 4968,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 3)",
+      "swift_code": "PASCITM1003"
+    },
+    {
+      "id": 4969,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 4- FRASSINO)",
+      "swift_code": "PASCITM1004"
+    },
+    {
+      "id": 4970,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 5 -CITTADELLA)",
+      "swift_code": "PASCITM1005"
+    },
+    {
+      "id": 4971,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 6)",
+      "swift_code": "PASCITM1101"
+    },
+    {
+      "id": 4972,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 7 -BELFIORE)",
+      "swift_code": "PASCITM1185"
+    },
+    {
+      "id": 4973,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 8)",
+      "swift_code": "PASCITM1199"
+    },
+    {
+      "id": 4974,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(REGOLAMENTO SICAV)",
+      "swift_code": "PASCITMMFSU"
+    },
+    {
+      "id": 4975,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "PASCITM1MN1"
+    },
+    {
+      "id": 4976,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "PASCITMMMAN"
+    },
+    {
+      "id": 6791,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "BNLIITRRMNX"
+    },
+    {
+      "id": 8207,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG. 2)",
+      "swift_code": "BPMIITM1E61"
+    },
+    {
+      "id": 8208,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA AG.1)",
+      "swift_code": "BPMIITM1E65"
+    },
+    {
+      "id": 8209,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(PALAZZO DELL AGRICOLTURA)",
+      "swift_code": "BPMIITM1E60"
+    },
+    {
+      "id": 8652,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "MANTOVA",
+      "branch": "(FILIALE DI MANTOVA)",
+      "swift_code": "BPDMIT31234"
+    },
+    {
+      "id": 8837,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA - AG. 1)",
+      "swift_code": "POSOIT2110K"
+    },
+    {
+      "id": 8838,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA BRANCH)",
+      "swift_code": "POSOIT2108V"
+    },
+    {
+      "id": 10483,
+      "bank": "BANCO BPM SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA - AGENZIA 1)",
+      "swift_code": "BAPPIT21D06"
+    },
+    {
+      "id": 10484,
+      "bank": "BANCO BPM SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA)",
+      "swift_code": "BAPPIT21484"
+    },
+    {
+      "id": 11572,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "CREBIT21088"
+    },
+    {
+      "id": 14539,
+      "bank": "COMUNE DI MANTOVA",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "CUMVIT21"
+    },
+    {
+      "id": 15649,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MANTOVA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22MAN"
+    },
+    {
+      "id": 15866,
+      "bank": "CREDITO PADANO BANCA DI CREDITO COOPERATIVO-SOCIETA COOPERATIVA",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "ICRAITR1CMV"
+    },
+    {
+      "id": 16323,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(SPORTELLO DI MANTOVA)",
+      "swift_code": "DEUTITM1489"
+    },
+    {
+      "id": 17087,
+      "bank": "IMMSI SPA",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "IMMSIT21"
+    },
+    {
+      "id": 17335,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MANTOVA",
+      "branch": "(ILIALE IMPRESE MANTOVA)",
+      "swift_code": "BCITITMMG45"
+    },
+    {
+      "id": 17871,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "BPVIIT21223"
+    },
+    {
+      "id": 18646,
+      "bank": "MANTEGNA FINANCE S.R.L.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "MNFSIT21"
+    },
+    {
+      "id": 18983,
+      "bank": "PROVINCIA DI MANTOVA",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "PRNOIT21"
+    },
+    {
+      "id": 19256,
+      "bank": "RENOVO BIOENERGY S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "REBNIT21"
+    },
+    {
+      "id": 19257,
+      "bank": "RENOVO S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "RENVIT21"
+    },
+    {
+      "id": 19349,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MANTOVA",
+      "branch": "(BRANCH)",
+      "swift_code": "SFSPIT21027"
+    },
+    {
+      "id": 19541,
+      "bank": "SOGEFI S.P.A.",
+      "city": "MANTOVA",
+      "branch": "",
+      "swift_code": "SOEEIT21"
+    },
+    {
+      "id": 19755,
+      "bank": "UBI BANCA S.P.A.",
+      "city": "MANTOVA",
+      "branch": "(FILIALE DI MANTOVA PIAZZA MARCONI)",
+      "swift_code": "BLOPIT22210"
+    },
+    {
+      "id": 20528,
+      "bank": "UBI BANCA SPA",
+      "city": "MANTOVA",
+      "branch": "(FILIALE DI MANTOVA V.LE RISORGIMENTO)",
+      "swift_code": "BLOPIT22308"
+    },
+    {
+      "id": 22367,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "MANTOVA",
+      "branch": "(FIL. MANTOVA 3)",
+      "swift_code": "BCABIT21072"
+    },
+    {
+      "id": 22368,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "MANTOVA",
+      "branch": "(FIL. MANTOVA 4)",
+      "swift_code": "BCABIT21073"
+    },
+    {
+      "id": 22369,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "MANTOVA",
+      "branch": "(FIL. MANTOVA 5)",
+      "swift_code": "BCABIT21083"
+    },
+    {
+      "id": 22370,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA 1)",
+      "swift_code": "BCABIT21335"
+    },
+    {
+      "id": 23922,
+      "bank": "UNICREDIT SPA",
+      "city": "MANTOVA",
+      "branch": "(FOREIGN TRADE OFFICE MANTOVA)",
+      "swift_code": "UNCRITMMMNE"
+    },
+    {
+      "id": 23923,
+      "bank": "UNICREDIT SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA VIA GORIZIA)",
+      "swift_code": "UNCRITM1R62"
+    },
+    {
+      "id": 23924,
+      "bank": "UNICREDIT SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA VITTORIO EMANUELE II)",
+      "swift_code": "UNCRITM1M96"
+    },
+    {
+      "id": 23925,
+      "bank": "UNICREDIT SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA)",
+      "swift_code": "UNCRITM129Y"
+    },
+    {
+      "id": 23926,
+      "bank": "UNICREDIT SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA)",
+      "swift_code": "UNCRITM1MNW"
+    },
+    {
+      "id": 26010,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MANTOVA",
+      "branch": "(MANTOVA BRANCH)",
+      "swift_code": "BAECIT21053"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Mantova — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Mantova, Italy Contiene 53 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Mantova — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Mantova — codici SWIFT/BIC — 53 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 53 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

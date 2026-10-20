@@ -1,0 +1,682 @@
+{
+  "id": "it-fortezze",
+  "name": "Fortezze in Italia",
+  "title": "Fortezze in Italia",
+  "description": "Elenco delle fortezze in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q70879505",
+      "name_it": "Baluardo Toledo",
+      "name_en": "Baluardo Toledo",
+      "latitude": 39.080095,
+      "longitude": 17.128223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q70879505"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q41795351",
+      "name_it": "Bastione di Riva del Garda",
+      "name_en": "Bastione",
+      "latitude": 45.884889,
+      "longitude": 10.835917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41795351"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q30050752",
+      "name_it": "batteria Cimirlo",
+      "name_en": "Battery Cimirlo",
+      "latitude": 46.068611,
+      "longitude": 11.194167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30050752"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q37631186",
+      "name_it": "Batteria Le Finestrelle",
+      "name_en": "Forte Le Finestrelle",
+      "latitude": 46.01371,
+      "longitude": 11.17752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37631186"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q37630323",
+      "name_it": "Blockhaus Marzola",
+      "name_en": "Blockhaus Marzola",
+      "latitude": 46.02705,
+      "longitude": 11.17126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37630323"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3662656",
+      "name_it": "castello di Lerici",
+      "name_en": "Castello di San Giorgio",
+      "latitude": 44.072925,
+      "longitude": 9.907194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3662656"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q96252672",
+      "name_it": "castello di Populonia",
+      "name_en": "Castle of Populonia",
+      "latitude": 42.989806,
+      "longitude": 10.492028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96252672"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3678370",
+      "name_it": "Cittadella di Ancona",
+      "name_en": "Cittadella di Ancona",
+      "latitude": 43.61349,
+      "longitude": 13.508617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3678370"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3678371",
+      "name_it": "cittadella di Parma",
+      "name_en": "Cittadella di Parma",
+      "latitude": 44.79253,
+      "longitude": 10.33155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3678371"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3678366",
+      "name_it": "Cittadella Nuova",
+      "name_en": "Cittadella Nuova",
+      "latitude": 43.710406,
+      "longitude": 10.406252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3678366"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q2560275",
+      "name_it": "complesso fortificato di Mattarello",
+      "name_en": "Complesso fortificato di Mattarello",
+      "latitude": 45.997778,
+      "longitude": 11.134722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2560275"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q120483885",
+      "name_it": "",
+      "name_en": "Fort Monte Orsa",
+      "latitude": 45.8885,
+      "longitude": 8.9198,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120483885"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q72786",
+      "name_it": "Forte Belvedere",
+      "name_en": "Belvedere",
+      "latitude": 43.763054,
+      "longitude": 11.253738,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72786"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q65464968",
+      "name_it": "Forte Bernadia",
+      "name_en": "Bernadia Fortress",
+      "latitude": 46.234441,
+      "longitude": 13.255831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65464968"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3748529",
+      "name_it": "Forte Cariola",
+      "name_en": "Forte Cariola",
+      "latitude": 45.940158,
+      "longitude": 10.65735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748529"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q125501448",
+      "name_it": "Forte Centrale",
+      "name_en": "Forte Centrale",
+      "latitude": 44.098548,
+      "longitude": 8.125571,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125501448"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q212164",
+      "name_it": "forte di Fortezza",
+      "name_en": "Franzensfeste Fortress",
+      "latitude": 46.792503,
+      "longitude": 11.609045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q212164"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q111635553",
+      "name_it": "Forte di Rocca Liverna",
+      "name_en": "Forte di Rocca Liverna",
+      "latitude": 44.083517,
+      "longitude": 8.119772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111635553"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3078280",
+      "name_it": "Forte di Vinadio",
+      "name_en": "Forte Albertino",
+      "latitude": 44.307261,
+      "longitude": 7.172726,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3078280"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q102426947",
+      "name_it": "Forte Monte Guano",
+      "name_en": "Fort Monte Guano",
+      "latitude": 44.429389,
+      "longitude": 8.867889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102426947"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3748603",
+      "name_it": "Forte Richelieu",
+      "name_en": "Forte Richelieu",
+      "latitude": 44.42127,
+      "longitude": 8.99154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748603"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3748617",
+      "name_it": "Forte San Paolo",
+      "name_en": "Forte San Paolo",
+      "latitude": 43.792637,
+      "longitude": 7.594773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748617"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q1800109",
+      "name_it": "Forte Strino",
+      "name_en": "Werk Strino",
+      "latitude": 46.279444,
+      "longitude": 10.643056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1800109"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q108369395",
+      "name_it": "fortezza Albornoz",
+      "name_en": "Fortezza Albornoz",
+      "latitude": 43.726263,
+      "longitude": 12.633208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108369395"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q66831763",
+      "name_it": "Fortezza carceraria",
+      "name_en": "Fortezza Carceraria",
+      "latitude": 38.109855,
+      "longitude": 14.827689,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66831763"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3748716",
+      "name_it": "fortezza del Cerruglio",
+      "name_en": "Fortezza del Cerruglio",
+      "latitude": 43.852036,
+      "longitude": 10.66692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748716"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q777001",
+      "name_it": "Fortezza del Priamar",
+      "name_en": "Priamar Fortress",
+      "latitude": 44.304407,
+      "longitude": 8.484149,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q777001"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q3748720",
+      "name_it": "Fortezza del Volterraio",
+      "name_en": "Volterraio Fortress",
+      "latitude": 42.802578,
+      "longitude": 10.383706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748720"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q3748721",
+      "name_it": "fortezza dell'Annunziata",
+      "name_en": "Fortezza dell'Annunziata",
+      "latitude": 43.790365,
+      "longitude": 7.595788,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748721"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3748723",
+      "name_it": "Fortezza della Brunella",
+      "name_en": "Fortezza della Brunella",
+      "latitude": 44.20886,
+      "longitude": 9.973108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748723"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q3748722",
+      "name_it": "Fortezza della Verrucola",
+      "name_en": "Fortezza della Verrucola",
+      "latitude": 44.242784,
+      "longitude": 10.13588,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748722"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q110694487",
+      "name_it": "fortezza delle Castella",
+      "name_en": "Castello Aragonese",
+      "latitude": 38.907023,
+      "longitude": 17.02117,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110694487"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q113550433",
+      "name_it": "Fortezza di Brolio",
+      "name_en": "Brolio Fortress",
+      "latitude": 43.413099,
+      "longitude": 11.462731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113550433"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q56419378",
+      "name_it": "Fortezza di Castelfranco",
+      "name_en": "Castelfranco Fortress",
+      "latitude": 44.17101,
+      "longitude": 8.35035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56419378"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q113563493",
+      "name_it": "Fortezza di Castelluccio",
+      "name_en": "Fortezza di Castelluccio",
+      "latitude": 37.41594,
+      "longitude": 13.779023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113563493"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q113459599",
+      "name_it": "Fortezza di Castelnuovo",
+      "name_en": "Castelnuovo Fortress",
+      "latitude": 43.557163,
+      "longitude": 11.857521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113459599"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q19271670",
+      "name_it": "Fortezza di Civitella del Tronto",
+      "name_en": "Fortress of Civitella del Tronto",
+      "latitude": 42.77314,
+      "longitude": 13.667644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19271670"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q3748726",
+      "name_it": "Fortezza di Gradisca",
+      "name_en": "Fortezza di Gradisca",
+      "latitude": 45.888,
+      "longitude": 13.5041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748726"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q3748731",
+      "name_it": "fortezza di Monleone",
+      "name_en": "Monleone Fortress",
+      "latitude": 44.240715,
+      "longitude": 9.485778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748731"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q24940800",
+      "name_it": "Fortezza di Mont'Alfonso",
+      "name_en": "Fortezza di Mont'Alfonso",
+      "latitude": 44.108111,
+      "longitude": 10.401263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24940800"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q55686151",
+      "name_it": "Fortezza di Monte Altura",
+      "name_en": "Fortezza Monte Altura",
+      "latitude": 41.185497,
+      "longitude": 9.362792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55686151"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q302975",
+      "name_it": "fortezza di Palmanova",
+      "name_en": "Palmanova Fortress",
+      "latitude": 45.904971,
+      "longitude": 13.310256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q302975"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q113563492",
+      "name_it": "Fortezza di Platano",
+      "name_en": "Fortezza di Platano",
+      "latitude": 37.453952,
+      "longitude": 13.421098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113563492"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1349818",
+      "name_it": "Fortezza di Riva",
+      "name_en": "Fortezza di Riva",
+      "latitude": 45.876944,
+      "longitude": 10.856944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1349818"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q124424039",
+      "name_it": "Fortezza di Santa Maria",
+      "name_en": "Forte Santa Maria",
+      "latitude": 44.066794,
+      "longitude": 9.849726,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124424039"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q55375101",
+      "name_it": "fortezza e museo di Radicofani",
+      "name_en": "Fortezza e Museo di Radicofani",
+      "latitude": 42.897133,
+      "longitude": 11.768156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55375101"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q28859651",
+      "name_it": "Fortezza Firmafede",
+      "name_en": "Fortezza di Firmafede",
+      "latitude": 44.112053,
+      "longitude": 9.964864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28859651"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q56258487",
+      "name_it": "Fortezza Greca o Castelluccio",
+      "name_en": "Greek Fortress or Castelluccio",
+      "latitude": 37.883631,
+      "longitude": 15.122343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258487"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3078467",
+      "name_it": "Fortezza Medicea",
+      "name_en": "Fortezza Medicea",
+      "latitude": 43.466522,
+      "longitude": 11.887725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3078467"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3748706",
+      "name_it": "fortezza Medicea",
+      "name_en": "Fortezza Medicea",
+      "latitude": 43.322283,
+      "longitude": 11.323578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748706"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q3748707",
+      "name_it": "Fortezza Medicea",
+      "name_en": "Fortezza Medicea",
+      "latitude": 43.399971,
+      "longitude": 10.865248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748707"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q27889399",
+      "name_it": "fortezza Medicea",
+      "name_en": "Fortezza Medicea",
+      "latitude": 43.090833,
+      "longitude": 11.779722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27889399"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q3748708",
+      "name_it": "Fortezza Medicea di San Martino",
+      "name_en": "Fortezza Medicea di San Martino",
+      "latitude": 43.964143,
+      "longitude": 11.316433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748708"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q3748711",
+      "name_it": "fortezza Orsini",
+      "name_en": "Fortezza Orsini",
+      "latitude": 42.68275,
+      "longitude": 11.714806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748711"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q111523536",
+      "name_it": "Fortezza Pappacoda",
+      "name_en": "Fortress Pappacoda",
+      "latitude": 41.049951,
+      "longitude": 15.423026,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111523536"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q3748710",
+      "name_it": "Fortezza Pia",
+      "name_en": "Fortezza Pia",
+      "latitude": 42.851295,
+      "longitude": 13.567815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748710"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q113432823",
+      "name_it": "Fortezza Scaligera della Rocchetta",
+      "name_en": "Fortezza scaligera della Rocchetta",
+      "latitude": 45.546857,
+      "longitude": 11.535129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113432823"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q3748714",
+      "name_it": "fortezza spagnola",
+      "name_en": "Fortress of Porto Santo Stefano",
+      "latitude": 42.437611,
+      "longitude": 11.118225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3748714"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q43569966",
+      "name_it": "Fortezza vecchia",
+      "name_en": "Fortezza Vecchia",
+      "latitude": 39.116202,
+      "longitude": 9.503651,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43569966"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q56754448",
+      "name_it": "Fortino Santa Cristina",
+      "name_en": "Fortino Santa Cristina",
+      "latitude": 39.144885,
+      "longitude": 8.303751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56754448"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q56754447",
+      "name_it": "Fortino Santa Teresa",
+      "name_en": "Fortino Santa Teresa",
+      "latitude": 39.144885,
+      "longitude": 8.303751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56754447"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q3761234",
+      "name_it": "Geronio",
+      "name_en": "Geronium",
+      "latitude": 41.7522,
+      "longitude": 14.8906,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3761234"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q3854822",
+      "name_it": "Mercabò",
+      "name_en": "Mercabò Castle",
+      "latitude": 44.543383,
+      "longitude": 12.178173,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3854822"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q3939454",
+      "name_it": "Rocca di Acquaviva Picena",
+      "name_en": "Fortezza medievale",
+      "latitude": 42.944431,
+      "longitude": 13.811864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3939454"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q31222018",
+      "name_it": "Rocca di Morro",
+      "name_en": "Rocca di Morro",
+      "latitude": 42.8325,
+      "longitude": 13.65833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31222018"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q88454086",
+      "name_it": "rocca di Radicofani",
+      "name_en": "Rocca di Radicofani",
+      "latitude": 42.89848,
+      "longitude": 11.76853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q88454086"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q29053946",
+      "name_it": "Tagliata Bariola",
+      "name_en": "Tagliata Bariola",
+      "latitude": 45.755689,
+      "longitude": 11.213139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29053946"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3995250",
+      "name_it": "Torre Quezzi",
+      "name_en": "Torre Quezzi",
+      "latitude": 44.428969,
+      "longitude": 8.971781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3995250"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q113148030",
+      "name_it": "Torrione di Ceriale",
+      "name_en": "Torrione",
+      "latitude": 44.096472,
+      "longitude": 8.233585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113148030"
+    }
+  ],
+  "meta": {
+    "title": "Fortezze in Italia - Download gratuito",
+    "description": "Elenco delle fortezze in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 69 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Fortezze in Italia | ListBase",
+    "seo_description": "Scarica Fortezze in Italia — 69 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 69 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

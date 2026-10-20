@@ -1,0 +1,415 @@
+{
+  "id": "it-ravenna-banche",
+  "name": "Banche a Ravenna — codici SWIFT/BIC",
+  "title": "Banche a Ravenna — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Ravenna, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1102,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "RAVENNA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "ANTBIT21865"
+    },
+    {
+      "id": 1103,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "ANTBIT21721"
+    },
+    {
+      "id": 3673,
+      "bank": "BANCA D'ITALIA",
+      "city": "RAVENNA",
+      "branch": "(FILIALE DI RAVENNA)",
+      "swift_code": "BITAITR1246"
+    },
+    {
+      "id": 5715,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA AG. 2)",
+      "swift_code": "PASCITM1721"
+    },
+    {
+      "id": 5716,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA AG. 3)",
+      "swift_code": "PASCITM1865"
+    },
+    {
+      "id": 5717,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "PASCITM1RA1"
+    },
+    {
+      "id": 5718,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "PASCITMMRAV"
+    },
+    {
+      "id": 6958,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "RAVENNA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR19PZ"
+    },
+    {
+      "id": 6959,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "BNLIITRRRAX"
+    },
+    {
+      "id": 8406,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "BPMIITM1193"
+    },
+    {
+      "id": 8680,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "RAVENNA",
+      "branch": "(FILIALE DI RAVENNA)",
+      "swift_code": "BPDMIT31221"
+    },
+    {
+      "id": 10888,
+      "bank": "BANCO BPM SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA)",
+      "swift_code": "BAPPIT21443"
+    },
+    {
+      "id": 12739,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "RAVENNA",
+      "branch": "(FILIALE IMPRESE RAVENNA)",
+      "swift_code": "IBSPIT2F150"
+    },
+    {
+      "id": 12740,
+      "bank": "CASSA DEI RISPARMI DI FORLI' E DELLA ROMAGNA SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA - PIAZZA XX SETTEMBRE 7)",
+      "swift_code": "IBSPIT2F637"
+    },
+    {
+      "id": 13583,
+      "bank": "CASSA DI RISPARMIO DI RAVENNA S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "CRRAIT2R"
+    },
+    {
+      "id": 13746,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "IBSPIT2BRAV"
+    },
+    {
+      "id": 14675,
+      "bank": "COMUNE DI RAVENNA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "CVAVIT21"
+    },
+    {
+      "id": 15262,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE CLASSE)",
+      "swift_code": "ICRAITR1F22"
+    },
+    {
+      "id": 15263,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE LIDO DI CLASSE)",
+      "swift_code": "ICRAITR1F26"
+    },
+    {
+      "id": 15264,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE MARINA DI RAVENNA)",
+      "swift_code": "ICRAITR1F27"
+    },
+    {
+      "id": 15265,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE RAVENNA DARSENA)",
+      "swift_code": "ICRAITR1ZZ6"
+    },
+    {
+      "id": 15266,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE S. PIETRO IN TRENTO)",
+      "swift_code": "ICRAITR1F23"
+    },
+    {
+      "id": 15267,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE S. PIETRO IN VINCOLI)",
+      "swift_code": "ICRAITR1F2R"
+    },
+    {
+      "id": 15268,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE VIA BERLINGUER)",
+      "swift_code": "ICRAITR1F25"
+    },
+    {
+      "id": 15269,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE VIA CANNETI)",
+      "swift_code": "ICRAITR1F24"
+    },
+    {
+      "id": 15270,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE VIA CILLA)",
+      "swift_code": "ICRAITR1F28"
+    },
+    {
+      "id": 15271,
+      "bank": "CREDITO COOPERATIVO RAVENNATE, FORLIVESE E IMOLESE SOC. COOP.",
+      "city": "RAVENNA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1ZZA"
+    },
+    {
+      "id": 15452,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "BACRIT21210"
+    },
+    {
+      "id": 16429,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "RAVENNA",
+      "branch": "(SPORTELLO DI RAVENNA)",
+      "swift_code": "DEUTITM1777"
+    },
+    {
+      "id": 17085,
+      "bank": "IMMOBILIARE GRANDE DISTRIBUZIONE SOC.INV.IMM.QUOTA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "IGDSIT21"
+    },
+    {
+      "id": 18714,
+      "bank": "MICOPERI S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "MIOPIT21"
+    },
+    {
+      "id": 18932,
+      "bank": "PORTO INTERMODALE RAVENNA SPA SAP.I",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "PIRAIT21"
+    },
+    {
+      "id": 18998,
+      "bank": "PROVINCIA DI RAVENNA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "POREIT21"
+    },
+    {
+      "id": 19301,
+      "bank": "ROSETTI MARINO SPA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "ROMRIT21"
+    },
+    {
+      "id": 19500,
+      "bank": "SIRIO S.P.A.",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "SIRIIT21"
+    },
+    {
+      "id": 20041,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA ADRIATICA S.P.A.)",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA BRANCH)",
+      "swift_code": "BAMAIT3A195"
+    },
+    {
+      "id": 20876,
+      "bank": "UBI BANCA SPA",
+      "city": "RAVENNA",
+      "branch": "(FILIALE DI RAVENNA)",
+      "swift_code": "BLOPIT2251S"
+    },
+    {
+      "id": 21763,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI ANCONA SPA)",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA)",
+      "swift_code": "BPAMIT31519"
+    },
+    {
+      "id": 24757,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(FOREIGN TRADE OFFICE RAVENNA)",
+      "swift_code": "UNCRITMMRAE"
+    },
+    {
+      "id": 24758,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA C.NE ALLA ROTONDA)",
+      "swift_code": "UNCRITM1PT1"
+    },
+    {
+      "id": 24759,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA CASSINO)",
+      "swift_code": "UNCRITM1NU8"
+    },
+    {
+      "id": 24760,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA CREDITO SU PEGNO)",
+      "swift_code": "UNCRITM1RO8"
+    },
+    {
+      "id": 24761,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA FAENTINA)",
+      "swift_code": "UNCRITM1RA2"
+    },
+    {
+      "id": 24762,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA GULLI)",
+      "swift_code": "UNCRITM1PT2"
+    },
+    {
+      "id": 24763,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA PANFILIA)",
+      "swift_code": "UNCRITM1RV7"
+    },
+    {
+      "id": 24764,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA PIAZZA DEL POPOLO)",
+      "swift_code": "UNCRITM1RM0"
+    },
+    {
+      "id": 24765,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA RANDI)",
+      "swift_code": "UNCRITM1RM6"
+    },
+    {
+      "id": 24766,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA STAGGI)",
+      "swift_code": "UNCRITM1RN4"
+    },
+    {
+      "id": 24767,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA)",
+      "swift_code": "UNCRITM1Y46"
+    },
+    {
+      "id": 24768,
+      "bank": "UNICREDIT SPA",
+      "city": "RAVENNA",
+      "branch": "(ROMAGNA LARGE CORPORATE)",
+      "swift_code": "UNCRITM1RAW"
+    },
+    {
+      "id": 26078,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "RAVENNA",
+      "branch": "(RAVENNA BRANCH)",
+      "swift_code": "BAECIT21070"
+    },
+    {
+      "id": 26079,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "RAVENNA",
+      "branch": "",
+      "swift_code": "BAECIT21003"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Ravenna — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Ravenna, Italy Contiene 52 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Ravenna — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Ravenna — codici SWIFT/BIC — 52 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 52 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

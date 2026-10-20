@@ -1,0 +1,814 @@
+{
+  "id": "it-vicenza-banche",
+  "name": "Banche a Vicenza — codici SWIFT/BIC",
+  "title": "Banche a Vicenza — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Vicenza, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 40,
+      "bank": "ACQUE VICENTINE S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "ACVIIT21"
+    },
+    {
+      "id": 261,
+      "bank": "B.P.VI FONDI - SOCIETA' DI GESTIONE DEL RISPARMIO PER AZIONI",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BPVFITM1"
+    },
+    {
+      "id": 1403,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(AG. NO 137 AG S. BORTOLO)",
+      "swift_code": "ANTBIT21137"
+    },
+    {
+      "id": 1404,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(AG. NO 138 AG P. CASTELLO)",
+      "swift_code": "ANTBIT21138"
+    },
+    {
+      "id": 1405,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(AG. NO 169 AG. CORSO PADOVA)",
+      "swift_code": "ANTBIT21169"
+    },
+    {
+      "id": 1406,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(AG. NO 236 AG V. DELLA PACE)",
+      "swift_code": "ANTBIT21236"
+    },
+    {
+      "id": 1407,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(AG. NO 240)",
+      "swift_code": "ANTBIT21VIC"
+    },
+    {
+      "id": 1408,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG.VIA GIROTTO)",
+      "swift_code": "ANTBIT21C73"
+    },
+    {
+      "id": 2016,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA)",
+      "swift_code": "CRGEITG1270"
+    },
+    {
+      "id": 3737,
+      "bank": "BANCA D'ITALIA",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA)",
+      "swift_code": "BITAITR1226"
+    },
+    {
+      "id": 3838,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BIMTITT1010"
+    },
+    {
+      "id": 6475,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - AG. 2)",
+      "swift_code": "PASCITM1VI2"
+    },
+    {
+      "id": 6476,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - AG. 3)",
+      "swift_code": "PASCITM1VI3"
+    },
+    {
+      "id": 6477,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - AG. 4)",
+      "swift_code": "PASCITM1VI4"
+    },
+    {
+      "id": 6478,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - AG. 5)",
+      "swift_code": "PASCITM1VI5"
+    },
+    {
+      "id": 6479,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - AG. 6)",
+      "swift_code": "PASCITM1VI6"
+    },
+    {
+      "id": 6480,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "PASCITM1VI1"
+    },
+    {
+      "id": 6481,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "PASCITMMVIC"
+    },
+    {
+      "id": 7194,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1F6Z"
+    },
+    {
+      "id": 7195,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1F7Z"
+    },
+    {
+      "id": 7196,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(AGENZIA SETAF)",
+      "swift_code": "BNLIITR1F8Z"
+    },
+    {
+      "id": 7197,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BNLIITRRVIX"
+    },
+    {
+      "id": 7581,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "VICENZA",
+      "branch": "(VICENZA LOC. LAGHETTO)",
+      "swift_code": "BPAAIT2B185"
+    },
+    {
+      "id": 7582,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "VICENZA",
+      "branch": "(VICENZA PORTA CASTELLO)",
+      "swift_code": "BPAAIT2B194"
+    },
+    {
+      "id": 7902,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA MAZZINI)",
+      "swift_code": "BPBAIT21135"
+    },
+    {
+      "id": 8570,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BPMIITM1170"
+    },
+    {
+      "id": 8711,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA)",
+      "swift_code": "BPDMIT31217"
+    },
+    {
+      "id": 9003,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "VICENZA",
+      "branch": "(VICENZA BRANCH)",
+      "swift_code": "POSOIT2215O"
+    },
+    {
+      "id": 9535,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BCVAIT2V079"
+    },
+    {
+      "id": 11400,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG. 1)",
+      "swift_code": "BAPPIT21258"
+    },
+    {
+      "id": 11401,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG. 2)",
+      "swift_code": "BAPPIT21322"
+    },
+    {
+      "id": 11402,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG. 3)",
+      "swift_code": "BAPPIT21242"
+    },
+    {
+      "id": 11403,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG. 4)",
+      "swift_code": "BAPPIT21266"
+    },
+    {
+      "id": 11404,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA AG. 5)",
+      "swift_code": "BAPPIT21329"
+    },
+    {
+      "id": 11405,
+      "bank": "BANCO BPM SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA)",
+      "swift_code": "BAPPIT21127"
+    },
+    {
+      "id": 11656,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "CREBIT21137"
+    },
+    {
+      "id": 11817,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "VICENZA",
+      "branch": "(VICENZA 350)",
+      "swift_code": "BDBDITA1350"
+    },
+    {
+      "id": 12145,
+      "bank": "BERICA 10 RESIDENTIAL MBS SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BSSRIT21"
+    },
+    {
+      "id": 12146,
+      "bank": "BERICA 5 RESIDENTIAL MBS S.R.L.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BDMRIT21"
+    },
+    {
+      "id": 12147,
+      "bank": "BERICA 6 RESIDENTIAL MBS SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BDMLIT21"
+    },
+    {
+      "id": 12148,
+      "bank": "BERICA 8 RESIDENTIAL MBS S.R.L.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BDBSIT21"
+    },
+    {
+      "id": 12149,
+      "bank": "BERICA 9 RESIDENTIAL MBS SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BDBRIT21"
+    },
+    {
+      "id": 12150,
+      "bank": "BERICA ABS 2 SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "EEBSIT21"
+    },
+    {
+      "id": 12151,
+      "bank": "BERICA ABS 3 S.R.L.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "EEBRIT21"
+    },
+    {
+      "id": 12158,
+      "bank": "BERICA PMI SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BIISIT21"
+    },
+    {
+      "id": 12159,
+      "bank": "BERICA RESIDENTIAL MBS 1 S.R.L.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BSBRIT21"
+    },
+    {
+      "id": 12951,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(FILIALE IMPRESE VICENZA FRAMARIN)",
+      "swift_code": "IBSPIT2P581"
+    },
+    {
+      "id": 12952,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - CORSO PALLADIO 108)",
+      "swift_code": "IBSPIT2P901"
+    },
+    {
+      "id": 12953,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - VIA DELLE CATTANE 19)",
+      "swift_code": "IBSPIT2P937"
+    },
+    {
+      "id": 12954,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - VIALE DELLA PACE 127)",
+      "swift_code": "IBSPIT2P923"
+    },
+    {
+      "id": 12955,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - VIALE DELL'INDUSTRIA 47)",
+      "swift_code": "IBSPIT2P924"
+    },
+    {
+      "id": 12956,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA - VIALE VERONA 68)",
+      "swift_code": "IBSPIT2P903"
+    },
+    {
+      "id": 13227,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(SEDE DI VICENZA)",
+      "swift_code": "CRBZIT2B130"
+    },
+    {
+      "id": 13974,
+      "bank": "CASSA RURALE ED ARTIGIANA DI BRENDOLA CREDITO COOPPERATIVO SOC.COOP.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "ICRAITR1B3L"
+    },
+    {
+      "id": 15176,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA - PONTE ALTO)",
+      "swift_code": "BPPNIT2P335"
+    },
+    {
+      "id": 15177,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BPPNIT2P191"
+    },
+    {
+      "id": 15178,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "BPPNIT2P342"
+    },
+    {
+      "id": 15542,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(AG. 2)",
+      "swift_code": "BACRIT21129"
+    },
+    {
+      "id": 15543,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA H.O.)",
+      "swift_code": "BACRIT21128"
+    },
+    {
+      "id": 16523,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "DEUTITM1750"
+    },
+    {
+      "id": 16778,
+      "bank": "FERAK SPA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "FERAIT21"
+    },
+    {
+      "id": 16810,
+      "bank": "FIMMCO SPA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "FMMMIT21"
+    },
+    {
+      "id": 16875,
+      "bank": "FOPE SPA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "FOPEIT21"
+    },
+    {
+      "id": 17043,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "VICENZA",
+      "branch": "(VICENZA)",
+      "swift_code": "HAABIT2U001"
+    },
+    {
+      "id": 17070,
+      "bank": "ICM S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "IMMMIT21"
+    },
+    {
+      "id": 17714,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VICENZA",
+      "branch": "(FILIALE IMPRESE VICENZA FRAMARIN)",
+      "swift_code": "BCITITMMV60"
+    },
+    {
+      "id": 17715,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "VICENZA",
+      "branch": "(SUPERFILIALE EX BANCHE VENETE VICENZA)",
+      "swift_code": "BCITITMMV03"
+    },
+    {
+      "id": 18106,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BPVI.NET BRANCH)",
+      "swift_code": "BPVIIT21001"
+    },
+    {
+      "id": 18107,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT21012"
+    },
+    {
+      "id": 18108,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.10)",
+      "swift_code": "BPVIIT21089"
+    },
+    {
+      "id": 18109,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.11)",
+      "swift_code": "BPVIIT21090"
+    },
+    {
+      "id": 18110,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.13)",
+      "swift_code": "BPVIIT21113"
+    },
+    {
+      "id": 18111,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT21014"
+    },
+    {
+      "id": 18112,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.3)",
+      "swift_code": "BPVIIT21016"
+    },
+    {
+      "id": 18113,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.4)",
+      "swift_code": "BPVIIT21018"
+    },
+    {
+      "id": 18114,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "BPVIIT21015"
+    },
+    {
+      "id": 18115,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.6)",
+      "swift_code": "BPVIIT21017"
+    },
+    {
+      "id": 18116,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.8)",
+      "swift_code": "BPVIIT21091"
+    },
+    {
+      "id": 18117,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(BRANCH N.9)",
+      "swift_code": "BPVIIT21092"
+    },
+    {
+      "id": 18118,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(CITY BRANCH)",
+      "swift_code": "BPVIIT21010"
+    },
+    {
+      "id": 18119,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "VICENZA",
+      "branch": "(UFFICIO ESTERO)",
+      "swift_code": "BPVIIT22A01"
+    },
+    {
+      "id": 18426,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA - P.ZZA SIGNORI)",
+      "swift_code": "VEBHIT21375"
+    },
+    {
+      "id": 18427,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA - SAN FELICE)",
+      "swift_code": "VEBHIT21099"
+    },
+    {
+      "id": 18428,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA)",
+      "swift_code": "VEBHIT21035"
+    },
+    {
+      "id": 18593,
+      "bank": "LEGATORIA EDITORIALE GIOVANNI OLIVOTTO S.P.A.",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "LEGLIT21"
+    },
+    {
+      "id": 18893,
+      "bank": "PIAZZA VENEZIA SRL",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "PIVRIT21"
+    },
+    {
+      "id": 19013,
+      "bank": "PROVINCIA DI VICENZA",
+      "city": "VICENZA",
+      "branch": "",
+      "swift_code": "PRIZIT21"
+    },
+    {
+      "id": 21184,
+      "bank": "UBI BANCA SPA",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA VIA IV NOVEMBRE)",
+      "swift_code": "BLOPIT22318"
+    },
+    {
+      "id": 21185,
+      "bank": "UBI BANCA SPA",
+      "city": "VICENZA",
+      "branch": "(FILIALE DI VICENZA VIALE SAN LAZZARO)",
+      "swift_code": "BLOPIT22317"
+    },
+    {
+      "id": 22519,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VICENZA",
+      "branch": "(VICENZA 1)",
+      "swift_code": "BCABIT21565"
+    },
+    {
+      "id": 22520,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "VICENZA",
+      "branch": "(VICENZA 2)",
+      "swift_code": "BCABIT21566"
+    },
+    {
+      "id": 22567,
+      "bank": "UNICREDIT S.P.A.",
+      "city": "VICENZA",
+      "branch": "(PRECIOUS METALS)",
+      "swift_code": "UNCRITMMORO"
+    },
+    {
+      "id": 25799,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(ESTERO MERCI VICENZA)",
+      "swift_code": "UNCRITMMVIE"
+    },
+    {
+      "id": 25800,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(FIL. OPER. TRIVENETO CENTRALE)",
+      "swift_code": "UNCRITMMOTC"
+    },
+    {
+      "id": 25801,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA BARTOLOMEO D'ALVIANO)",
+      "swift_code": "UNCRITM1N19"
+    },
+    {
+      "id": 25802,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA BATTISTI)",
+      "swift_code": "UNCRITM1M57"
+    },
+    {
+      "id": 25803,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA BOITO)",
+      "swift_code": "UNCRITM1P29"
+    },
+    {
+      "id": 25804,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA CORSO PADOVA)",
+      "swift_code": "UNCRITM1N18"
+    },
+    {
+      "id": 25805,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA DALLA SCOLA)",
+      "swift_code": "UNCRITM1R83"
+    },
+    {
+      "id": 25806,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA LAGHI)",
+      "swift_code": "UNCRITM1Q42"
+    },
+    {
+      "id": 25807,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA LARGE CORPORATE)",
+      "swift_code": "UNCRITM1VIL"
+    },
+    {
+      "id": 25808,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA MONTE PEGNI)",
+      "swift_code": "UNCRITM1P50"
+    },
+    {
+      "id": 25809,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA RODOLFI)",
+      "swift_code": "UNCRITM1Q55"
+    },
+    {
+      "id": 25810,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA S.AGOSTINO)",
+      "swift_code": "UNCRITM1Q47"
+    },
+    {
+      "id": 25811,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA SS. FELICE E FORTUNATO)",
+      "swift_code": "UNCRITM1M56"
+    },
+    {
+      "id": 25812,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA VIALE TRENTO)",
+      "swift_code": "UNCRITM1N47"
+    },
+    {
+      "id": 25813,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA VIALE TRIESTE B)",
+      "swift_code": "UNCRITM1Q43"
+    },
+    {
+      "id": 25814,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA)",
+      "swift_code": "UNCRITM141Y"
+    },
+    {
+      "id": 25815,
+      "bank": "UNICREDIT SPA",
+      "city": "VICENZA",
+      "branch": "(VICENZA)",
+      "swift_code": "UNCRITM1VIW"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Vicenza — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Vicenza, Italy Contiene 109 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Vicenza — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Vicenza — codici SWIFT/BIC — 109 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 109 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

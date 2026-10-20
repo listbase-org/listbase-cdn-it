@@ -1,0 +1,996 @@
+{
+  "id": "it-universita",
+  "name": "Italia — Università e istituti di istruzione superiore",
+  "title": "Italia — Università e istituti di istruzione superiore",
+  "description": "Elenco delle università e degli istituti di istruzione superiore in Italia. Ogni record contiene il nome dell'istituzione (in alfabeto latino/inglese), il dominio principale registrato, l'elenco completo dei domini, la pagina web principale, il codice paese (ISO-3166-1 alpha-2) e la regione sub-nazionale quando fornita dalla fonte. Estratto filtrando il dataset globale Hipo/university-domains-list (country == \"Italy\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abdus Salam international centre for theoretical physics",
+      "slug": "abdus-salam-international-centre-theoretical-physics",
+      "domain": "ictp.trieste.it",
+      "domains": "ictp.trieste.it",
+      "web_page": "http://www.ictp.trieste.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "American University of Rome",
+      "slug": "american-rome",
+      "domain": "aur.edu",
+      "domains": "aur.edu",
+      "web_page": "https://aur.edu/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Basilicata University Potenza",
+      "slug": "basilicata-potenza",
+      "domain": "unibas.it",
+      "domains": "unibas.it",
+      "web_page": "http://www.unibas.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Bocconi University",
+      "slug": "bocconi",
+      "domain": "unibocconi.it",
+      "domains": "unibocconi.it, studbocconi.it",
+      "web_page": "http://www.unibocconi.eu/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Campus Bio-Medico University of Rome",
+      "slug": "campus-bio-medico-rome",
+      "domain": "unicampus.it",
+      "domains": "unicampus.it",
+      "web_page": "http://www.unicampus.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University of the Sacred Heart",
+      "slug": "catholic-sacred-heart",
+      "domain": "unicatt.it",
+      "domains": "unicatt.it",
+      "web_page": "http://www.unicatt.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Dutch University Institute for Art History (DUIA)",
+      "slug": "dutch-institute-art-history-duia",
+      "domain": "iuoart.org",
+      "domains": "iuoart.org",
+      "web_page": "http://www.iuoart.org/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "European School of Economics",
+      "slug": "european-school-economics",
+      "domain": "uniese.it",
+      "domains": "uniese.it",
+      "web_page": "http://www.uniese.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "European University Institute",
+      "slug": "european-institute",
+      "domain": "iue.it",
+      "domains": "iue.it",
+      "web_page": "http://www.iue.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Fondazione Sacro Cuore",
+      "slug": "fondazione-sacro-cuore",
+      "domain": "sacrocuore.org",
+      "domains": "sacrocuore.org",
+      "web_page": "http://www.sacrocuore.org/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Free University \"Maria Santissima Assunta\"",
+      "slug": "free-maria-santissima-assunta",
+      "domain": "lumsa.it",
+      "domains": "lumsa.it",
+      "web_page": "http://www.lumsa.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Free University Institute \"Carlo Cattaneo\"",
+      "slug": "free-institute-carlo-cattaneo",
+      "domain": "liuc.it",
+      "domains": "liuc.it",
+      "web_page": "http://www.liuc.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Free University of Bozen",
+      "slug": "free-bozen",
+      "domain": "unibz.it",
+      "domains": "unibz.it",
+      "web_page": "http://www.unibz.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Higher School of University and Advanced Studies Pisa",
+      "slug": "higher-school-advanced-studies-pisa",
+      "domain": "sssup.it",
+      "domains": "sssup.it",
+      "web_page": "http://www.sssup.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Institute for Advanced Studies Lucca",
+      "slug": "institute-advanced-studies-lucca",
+      "domain": "imtlucca.it",
+      "domains": "imtlucca.it",
+      "web_page": "http://www.imtlucca.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "International Higher School for Advanced Studies Trieste",
+      "slug": "international-higher-school-advanced-studies-trieste",
+      "domain": "sissa.it",
+      "domains": "sissa.it",
+      "web_page": "http://www.sissa.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Istituto Universitario di Studi Superiori",
+      "slug": "istituto-universitario-di-studi-superiori",
+      "domain": "iusspavia.it",
+      "domains": "iusspavia.it",
+      "web_page": "http://www.iusspavia.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "John Cabot University",
+      "slug": "john-cabot",
+      "domain": "johncabot.edu",
+      "domains": "johncabot.edu",
+      "web_page": "http://www.johncabot.edu/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Johns Hopkins University, SAIS Bologna Center",
+      "slug": "johns-hopkins-sais-bologna-center",
+      "domain": "jhubc.it",
+      "domains": "jhubc.it",
+      "web_page": "http://www.jhubc.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Link Campus University of Malta",
+      "slug": "link-campus-malta",
+      "domain": "unilink.it",
+      "domains": "unilink.it",
+      "web_page": "http://www.unilink.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Luiss Guido Carli University",
+      "slug": "luiss-guido-carli",
+      "domain": "luiss.it",
+      "domains": "luiss.it",
+      "web_page": "https://www.luiss.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "NABA - Nuova Accademia di Belle Arti, Milan",
+      "slug": "naba-nuova-accademia-di-belle-arti-milan",
+      "domain": "naba.it",
+      "domains": "naba.it",
+      "web_page": "http://www.naba.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Polytechnic Institute of Bari",
+      "slug": "polytechnic-institute-bari",
+      "domain": "poliba.it",
+      "domains": "poliba.it",
+      "web_page": "http://www.poliba.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Polytechnic Institute of Milan",
+      "slug": "polytechnic-institute-milan",
+      "domain": "polimi.it",
+      "domains": "polimi.it, mail.polimi.it",
+      "web_page": "http://www.polimi.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Polytechnic Institute of Turin",
+      "slug": "polytechnic-institute-turin",
+      "domain": "polito.it",
+      "domains": "polito.it",
+      "web_page": "http://www.polito.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontifica Università Gregoriana",
+      "slug": "pontifica-universita-gregoriana",
+      "domain": "unigre.it",
+      "domains": "unigre.it",
+      "web_page": "http://www.unigre.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificia Università della Santa Croce",
+      "slug": "pontificia-universita-della-santa-croce",
+      "domain": "pusc.it",
+      "domains": "pusc.it",
+      "web_page": "http://www.pusc.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificia Università Lateranense",
+      "slug": "pontificia-universita-lateranense",
+      "domain": "pul.it",
+      "domains": "pul.it",
+      "web_page": "http://www.pul.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificia Università S. Tommaso",
+      "slug": "pontificia-universita-s-tommaso",
+      "domain": "angelicum.org",
+      "domains": "angelicum.org",
+      "web_page": "http://www.angelicum.org/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificio Ateneo Antonianum",
+      "slug": "pontificio-ateneo-antonianum",
+      "domain": "antonianum.ofm.org",
+      "domains": "antonianum.ofm.org",
+      "web_page": "http://www.antonianum.ofm.org/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Pontificio Istituto Orientale",
+      "slug": "pontificio-istituto-orientale",
+      "domain": "pio.urbe.it",
+      "domains": "pio.urbe.it",
+      "web_page": "http://www.pio.urbe.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "School of Education Pisa",
+      "slug": "school-education-pisa",
+      "domain": "sns.it",
+      "domains": "sns.it",
+      "web_page": "http://www.sns.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Second University of Naples",
+      "slug": "second-naples",
+      "domain": "unina2.it",
+      "domains": "unina2.it",
+      "web_page": "http://www.unina2.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Team Lingue International House",
+      "slug": "team-lingue-international-house",
+      "domain": "ihteamlingue.it",
+      "domains": "ihteamlingue.it",
+      "web_page": "https://ihteamlingue.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Third University of Rome",
+      "slug": "third-rome",
+      "domain": "uniroma3.it",
+      "domains": "uniroma3.it",
+      "web_page": "http://www.uniroma3.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University Institute of Architecture Venice",
+      "slug": "institute-architecture-venice",
+      "domain": "iuav.unive.it",
+      "domains": "iuav.unive.it",
+      "web_page": "http://www.iuav.unive.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University Institute of Modern Languages",
+      "slug": "institute-modern-languages",
+      "domain": "iulm.it",
+      "domains": "iulm.it",
+      "web_page": "http://www.iulm.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University Institute of Naval Studies",
+      "slug": "institute-naval-studies",
+      "domain": "uninav.it",
+      "domains": "uninav.it",
+      "web_page": "http://www.uninav.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University Institute of Oriental Studies",
+      "slug": "institute-oriental-studies",
+      "domain": "iuo.it",
+      "domains": "iuo.it",
+      "web_page": "http://www.iuo.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University Institute of Teacher Training \"Suor Orsola Benincasa\"",
+      "slug": "institute-teacher-training-suor-orsola-benincasa",
+      "domain": "unisob.na.it",
+      "domains": "unisob.na.it",
+      "web_page": "http://www.unisob.na.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Ancona",
+      "slug": "ancona",
+      "domain": "unian.it",
+      "domains": "unian.it",
+      "web_page": "http://www.unian.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Aquila",
+      "slug": "aquila",
+      "domain": "univaq.it",
+      "domains": "univaq.it",
+      "web_page": "http://www.univaq.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bari",
+      "slug": "bari",
+      "domain": "uniba.it",
+      "domains": "uniba.it",
+      "web_page": "http://www.uniba.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bergamo",
+      "slug": "bergamo",
+      "domain": "unibg.it",
+      "domains": "unibg.it",
+      "web_page": "http://www.unibg.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bologna",
+      "slug": "bologna",
+      "domain": "unibo.it",
+      "domains": "unibo.it",
+      "web_page": "http://www.unibo.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Brescia",
+      "slug": "brescia",
+      "domain": "unibs.it",
+      "domains": "unibs.it",
+      "web_page": "http://www.unibs.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Cagliari",
+      "slug": "cagliari",
+      "domain": "unica.it",
+      "domains": "unica.it",
+      "web_page": "http://www.unica.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Calabria",
+      "slug": "calabria",
+      "domain": "unical.it",
+      "domains": "unical.it",
+      "web_page": "http://www.unical.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Camerino",
+      "slug": "camerino",
+      "domain": "unicam.it",
+      "domains": "unicam.it",
+      "web_page": "http://www.unicam.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Cassino",
+      "slug": "cassino",
+      "domain": "unicas.it",
+      "domains": "unicas.it",
+      "web_page": "http://www.unicas.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Catania",
+      "slug": "catania",
+      "domain": "unict.it",
+      "domains": "unict.it",
+      "web_page": "http://www.unict.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Chieti",
+      "slug": "chieti",
+      "domain": "unich.it",
+      "domains": "unich.it",
+      "web_page": "http://www.unich.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Ferrara",
+      "slug": "ferrara",
+      "domain": "unife.it",
+      "domains": "unife.it",
+      "web_page": "http://www.unife.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Florence",
+      "slug": "florence",
+      "domain": "unifi.it",
+      "domains": "unifi.it",
+      "web_page": "http://www.unifi.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Foggia",
+      "slug": "foggia",
+      "domain": "unifg.it",
+      "domains": "unifg.it",
+      "web_page": "http://www.unifg.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Gastronomic Sciences",
+      "slug": "gastronomic-sciences",
+      "domain": "unisg.it",
+      "domains": "unisg.it",
+      "web_page": "http://www.unisg.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Genoa",
+      "slug": "genoa",
+      "domain": "unige.it",
+      "domains": "unige.it",
+      "web_page": "http://www.unige.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Insubria",
+      "slug": "insubria",
+      "domain": "uninsubria.it",
+      "domains": "uninsubria.it",
+      "web_page": "http://www.uninsubria.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Italian Studies for Foreigners of Perugia",
+      "slug": "italian-studies-foreigners-perugia",
+      "domain": "unistrapg.it",
+      "domains": "unistrapg.it",
+      "web_page": "http://www.unistrapg.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Italian Studies for Foreigners of Siena",
+      "slug": "italian-studies-foreigners-siena",
+      "domain": "unistrasi.it",
+      "domains": "unistrasi.it",
+      "web_page": "http://www.unistrasi.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Lecce",
+      "slug": "lecce",
+      "domain": "unile.it",
+      "domains": "unile.it",
+      "web_page": "http://www.unile.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Macerata",
+      "slug": "macerata",
+      "domain": "unimc.it",
+      "domains": "unimc.it",
+      "web_page": "http://www.unimc.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Messina",
+      "slug": "messina",
+      "domain": "unime.it",
+      "domains": "unime.it",
+      "web_page": "http://www.unime.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Milan",
+      "slug": "milan",
+      "domain": "unimi.it",
+      "domains": "unimi.it",
+      "web_page": "https://www.unimi.it/en",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": "Lombardia"
+    },
+    {
+      "name": "University of Milan - Bicocca",
+      "slug": "milan-bicocca",
+      "domain": "unimib.it",
+      "domains": "unimib.it",
+      "web_page": "http://www.unimib.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Modena",
+      "slug": "modena",
+      "domain": "casa.unimo.it",
+      "domains": "casa.unimo.it",
+      "web_page": "http://www.casa.unimo.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Molise",
+      "slug": "molise",
+      "domain": "unimol.it",
+      "domains": "unimol.it",
+      "web_page": "http://www.unimol.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Naples Federico II",
+      "slug": "naples-federico-ii",
+      "domain": "unina.it",
+      "domains": "unina.it",
+      "web_page": "http://www.unina.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Padua",
+      "slug": "padua",
+      "domain": "unipd.it",
+      "domains": "unipd.it",
+      "web_page": "http://www.unipd.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Palermo",
+      "slug": "palermo",
+      "domain": "unipa.it",
+      "domains": "unipa.it",
+      "web_page": "http://www.unipa.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Parma",
+      "slug": "parma",
+      "domain": "unipr.it",
+      "domains": "unipr.it",
+      "web_page": "http://www.unipr.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pavia",
+      "slug": "pavia",
+      "domain": "unipv.it",
+      "domains": "unipv.it",
+      "web_page": "http://www.unipv.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Perugia",
+      "slug": "perugia",
+      "domain": "unipg.it",
+      "domains": "unipg.it",
+      "web_page": "http://www.unipg.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pisa",
+      "slug": "pisa",
+      "domain": "unipi.it",
+      "domains": "unipi.it",
+      "web_page": "http://www.unipi.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Reggio Calabria",
+      "slug": "reggio-calabria",
+      "domain": "unirc.it",
+      "domains": "unirc.it",
+      "web_page": "http://www.unirc.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Roma \"La Sapienza\"",
+      "slug": "roma-sapienza",
+      "domain": "uniroma1.it",
+      "domains": "uniroma1.it",
+      "web_page": "http://www.uniroma1.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Roma \"Tor Vergata\"",
+      "slug": "roma-tor-vergata",
+      "domain": "uniroma2.eu",
+      "domains": "uniroma2.eu",
+      "web_page": "http://www.uniroma2.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Salerno",
+      "slug": "salerno",
+      "domain": "unisa.it",
+      "domains": "unisa.it",
+      "web_page": "http://www.unisa.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Sannio",
+      "slug": "sannio",
+      "domain": "unisannio.it",
+      "domains": "unisannio.it",
+      "web_page": "http://www.unisannio.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Sassari",
+      "slug": "sassari",
+      "domain": "uniss.it",
+      "domains": "uniss.it",
+      "web_page": "http://www.uniss.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Siena",
+      "slug": "siena",
+      "domain": "unisi.it",
+      "domains": "unisi.it",
+      "web_page": "http://www.unisi.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Teramo",
+      "slug": "teramo",
+      "domain": "unite.it",
+      "domains": "unite.it",
+      "web_page": "http://www.unite.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Trento",
+      "slug": "trento",
+      "domain": "unitn.it",
+      "domains": "unitn.it",
+      "web_page": "http://www.unitn.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Trieste",
+      "slug": "trieste",
+      "domain": "units.it",
+      "domains": "units.it",
+      "web_page": "http://www.units.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Turin",
+      "slug": "turin",
+      "domain": "unito.it",
+      "domains": "unito.it",
+      "web_page": "http://www.unito.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Udine",
+      "slug": "udine",
+      "domain": "uniud.it",
+      "domains": "uniud.it",
+      "web_page": "http://www.uniud.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Urbino",
+      "slug": "urbino",
+      "domain": "uniurb.it",
+      "domains": "uniurb.it",
+      "web_page": "http://www.uniurb.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Venice",
+      "slug": "venice",
+      "domain": "unive.it",
+      "domains": "unive.it",
+      "web_page": "http://www.unive.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "University of Verona",
+      "slug": "verona",
+      "domain": "univr.it",
+      "domains": "univr.it",
+      "web_page": "http://www.univr.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Università eCampus",
+      "slug": "universita-ecampus",
+      "domain": "uniecampus.it",
+      "domains": "uniecampus.it",
+      "web_page": "http://www.uniecampus.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Università Pontificia Salesiana",
+      "slug": "universita-pontificia-salesiana",
+      "domain": "unisal.it",
+      "domains": "unisal.it",
+      "web_page": "http://www.unisal.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Viterbo State University",
+      "slug": "viterbo-state",
+      "domain": "unitus.it",
+      "domains": "unitus.it",
+      "web_page": "http://www.unitus.it/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    },
+    {
+      "name": "Yorker International University, Milano",
+      "slug": "yorker-international-milano",
+      "domain": "nyuniversity.net",
+      "domains": "nyuniversity.net",
+      "web_page": "http://www.nyuniversity.net/",
+      "country": "Italy",
+      "country_code": "IT",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Italia — Università e istituti di istruzione superiore - Download gratuito",
+    "description": "Elenco delle università e degli istituti di istruzione superiore in Italia. Ogni record contiene il nome dell'istituzione (in alfabeto latino/inglese), il dominio principale registrato, l'elenco completo dei domini, la pagina web principale, il codice paese (ISO-3166-1 alpha-2) e la regione sub-nazionale quando fornita dalla fonte. Estratto filtrando il dataset globale Hipo/university-domains-list (country == \"Italy\"). Contiene 93 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Italia — Università e istituti di istruzione superiore | ListBase",
+    "seo_description": "Scarica Italia — Università e istituti di istruzione superiore — 93 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 93 record / 8 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

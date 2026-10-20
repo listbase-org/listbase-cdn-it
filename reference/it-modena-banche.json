@@ -1,0 +1,793 @@
+{
+  "id": "it-modena-banche",
+  "name": "Banche a Modena — codici SWIFT/BIC",
+  "title": "Banche a Modena — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Modena, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 11,
+      "bank": "4 MADONNE CASEIFICIO DELL EMILIA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "MAOLIT21"
+    },
+    {
+      "id": 898,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "ANTBIT21867"
+    },
+    {
+      "id": 1609,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "MODENA",
+      "branch": "(FILIALE DI MODENA)",
+      "swift_code": "CRGEITG1362"
+    },
+    {
+      "id": 3653,
+      "bank": "BANCA D'ITALIA",
+      "city": "MODENA",
+      "branch": "(FILIALE DI MODENA)",
+      "swift_code": "BITAITR1243"
+    },
+    {
+      "id": 3754,
+      "bank": "BANCA EMILVENETA SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "EMIVIT21"
+    },
+    {
+      "id": 3823,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA)",
+      "swift_code": "BIMTITT1024"
+    },
+    {
+      "id": 3839,
+      "bank": "BANCA INTERPROVINCIALE SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "ITTPIT2M"
+    },
+    {
+      "id": 5156,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 2)",
+      "swift_code": "PASCITM1057"
+    },
+    {
+      "id": 5157,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 3)",
+      "swift_code": "PASCITM1340"
+    },
+    {
+      "id": 5158,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 4)",
+      "swift_code": "PASCITM1341"
+    },
+    {
+      "id": 5159,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 5)",
+      "swift_code": "PASCITM1867"
+    },
+    {
+      "id": 5160,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 6)",
+      "swift_code": "PASCITM1Z54"
+    },
+    {
+      "id": 5161,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "PASCITMMMDN"
+    },
+    {
+      "id": 6842,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MODENA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR16WZ"
+    },
+    {
+      "id": 6843,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MODENA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR16YZ"
+    },
+    {
+      "id": 6844,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MODENA",
+      "branch": "(AGENZIA CONSORZIO MERCURIO)",
+      "swift_code": "BNLIITR16ZZ"
+    },
+    {
+      "id": 6845,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BNLIITRRMOX"
+    },
+    {
+      "id": 7765,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "MODENA",
+      "branch": "(FILIALE DI MODENA)",
+      "swift_code": "BPBAIT21385"
+    },
+    {
+      "id": 8339,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BPMIITM1195"
+    },
+    {
+      "id": 9502,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BCVAIT2V068"
+    },
+    {
+      "id": 10584,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA - BAGGIOVARA)",
+      "swift_code": "BAPPIT21576"
+    },
+    {
+      "id": 10585,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA - COGNENTO)",
+      "swift_code": "BAPPIT21550"
+    },
+    {
+      "id": 10586,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA - SAN DAMASO)",
+      "swift_code": "BAPPIT21414"
+    },
+    {
+      "id": 10587,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 1)",
+      "swift_code": "BAPPIT21410"
+    },
+    {
+      "id": 10588,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 11)",
+      "swift_code": "BAPPIT21532"
+    },
+    {
+      "id": 10589,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 12)",
+      "swift_code": "BAPPIT21533"
+    },
+    {
+      "id": 10590,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 13)",
+      "swift_code": "BAPPIT21619"
+    },
+    {
+      "id": 10591,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 14)",
+      "swift_code": "BAPPIT21554"
+    },
+    {
+      "id": 10592,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 2)",
+      "swift_code": "BAPPIT21412"
+    },
+    {
+      "id": 10593,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 3)",
+      "swift_code": "BAPPIT21413"
+    },
+    {
+      "id": 10594,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 4)",
+      "swift_code": "BAPPIT21411"
+    },
+    {
+      "id": 10595,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 5)",
+      "swift_code": "BAPPIT21409"
+    },
+    {
+      "id": 10596,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 6)",
+      "swift_code": "BAPPIT21419"
+    },
+    {
+      "id": 10597,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 7)",
+      "swift_code": "BAPPIT21503"
+    },
+    {
+      "id": 10598,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 8)",
+      "swift_code": "BAPPIT21509"
+    },
+    {
+      "id": 10599,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(MODENA AG. 9)",
+      "swift_code": "BAPPIT21518"
+    },
+    {
+      "id": 10600,
+      "bank": "BANCO BPM SPA",
+      "city": "MODENA",
+      "branch": "(SEDE DI MODENA)",
+      "swift_code": "BAPPIT21402"
+    },
+    {
+      "id": 11760,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "MODENA",
+      "branch": "(MODENA 364)",
+      "swift_code": "BDBDITA1364"
+    },
+    {
+      "id": 12610,
+      "bank": "BPER BANCA S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BPMOIT22"
+    },
+    {
+      "id": 13277,
+      "bank": "CASSA DI RISPARMIO DI CENTO SPA",
+      "city": "MODENA",
+      "branch": "(FILIALE DI MODENA DUE)",
+      "swift_code": "CRCEIT21042"
+    },
+    {
+      "id": 13278,
+      "bank": "CASSA DI RISPARMIO DI CENTO SPA",
+      "city": "MODENA",
+      "branch": "(FILIALE DI MODENA)",
+      "swift_code": "CRCEIT21023"
+    },
+    {
+      "id": 13724,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "MODENA",
+      "branch": "(FILIALE IMPRESE MODENA)",
+      "swift_code": "IBSPIT2BMOD"
+    },
+    {
+      "id": 13725,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "MODENA",
+      "branch": "(MODENA - VIA BELLINZONA 47/E)",
+      "swift_code": "IBSPIT2B616"
+    },
+    {
+      "id": 13726,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "MODENA",
+      "branch": "(MODENA-VIA DELL'UNIVERSITA' 31)",
+      "swift_code": "IBSPIT2B615"
+    },
+    {
+      "id": 14089,
+      "bank": "CERAMICHE RICCHETTI",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CEMIIT21"
+    },
+    {
+      "id": 14114,
+      "bank": "CIBUS 1",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CBSUIT21"
+    },
+    {
+      "id": 14218,
+      "bank": "CNH CAPITAL PLC",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CNCIIT21"
+    },
+    {
+      "id": 14569,
+      "bank": "COMUNE DI MODENA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CUNOIT21"
+    },
+    {
+      "id": 14844,
+      "bank": "CONSULTINVEST ASSET MANAGEMENT SGR SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CSGRIT22"
+    },
+    {
+      "id": 14845,
+      "bank": "CONSULTINVEST INVESTIMENTI SIM S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CNISIT21"
+    },
+    {
+      "id": 14854,
+      "bank": "COOPERFIN S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "CPPFIT21"
+    },
+    {
+      "id": 15411,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BACRIT21398"
+    },
+    {
+      "id": 15680,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BACRIT21323"
+    },
+    {
+      "id": 15681,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BACRIT21336"
+    },
+    {
+      "id": 15682,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BACRIT21378"
+    },
+    {
+      "id": 15683,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(AGENZIA 5)",
+      "swift_code": "BACRIT21363"
+    },
+    {
+      "id": 15684,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(AGENZIA 6)",
+      "swift_code": "BACRIT21395"
+    },
+    {
+      "id": 15685,
+      "bank": "CREDITO EMILIANO SPA",
+      "city": "MODENA",
+      "branch": "(SEDE)",
+      "swift_code": "BACRIT22MOD"
+    },
+    {
+      "id": 16360,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "DEUTITM1770"
+    },
+    {
+      "id": 16635,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "MODENA",
+      "branch": "(FILIALE DI BAGGIOVARA)",
+      "swift_code": "ICRAITR1TSQ"
+    },
+    {
+      "id": 16636,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "MODENA",
+      "branch": "(FILIALE MODENA PALAZZO EUROPA)",
+      "swift_code": "ICRAITR1TSP"
+    },
+    {
+      "id": 16637,
+      "bank": "EMIL BANCA CREDITO COOPERATIVO BOLOGNA SOC. COOP.",
+      "city": "MODENA",
+      "branch": "(FILIALE MODENA-EST)",
+      "swift_code": "ICRAITR1TSO"
+    },
+    {
+      "id": 16669,
+      "bank": "ENERGICA MOTOR COMPANY SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "ENMCIT21"
+    },
+    {
+      "id": 16671,
+      "bank": "ENERGON ESCO SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "ENSCIT21"
+    },
+    {
+      "id": 16760,
+      "bank": "FARMACIE COMUNALI DI MODENA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "FACDIT21"
+    },
+    {
+      "id": 16968,
+      "bank": "GRANDI SALUMIFICI ITALIANI SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "GRLIIT21"
+    },
+    {
+      "id": 17026,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "MODENA",
+      "branch": "(MODENA)",
+      "swift_code": "HAABIT2U022"
+    },
+    {
+      "id": 17474,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "MODENA",
+      "branch": "(FILIALE IMPRESE MODENA UNIVERSITA')",
+      "swift_code": "BCITITMMV43"
+    },
+    {
+      "id": 17893,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BPVIIT21650"
+    },
+    {
+      "id": 18278,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "MODENA",
+      "branch": "(MODENA)",
+      "swift_code": "VEBHIT21371"
+    },
+    {
+      "id": 18615,
+      "bank": "LOGOS SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "LOGOIT21"
+    },
+    {
+      "id": 18781,
+      "bank": "MUTINA S.R.L.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "MURRIT21"
+    },
+    {
+      "id": 18952,
+      "bank": "PRIMI SUI MOTORI SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "PISRIT21"
+    },
+    {
+      "id": 18986,
+      "bank": "PROVINCIA DI MODENA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "PRDDIT21"
+    },
+    {
+      "id": 19353,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MODENA",
+      "branch": "(BRANCH)",
+      "swift_code": "SFSPIT21018"
+    },
+    {
+      "id": 19354,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MODENA",
+      "branch": "(BRANCH)",
+      "swift_code": "SFSPIT21020"
+    },
+    {
+      "id": 19355,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MODENA",
+      "branch": "(BRANCH)",
+      "swift_code": "SFSPIT21024"
+    },
+    {
+      "id": 19356,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MODENA",
+      "branch": "(SUCCURSALE DI MODENA B)",
+      "swift_code": "SFSPIT21012"
+    },
+    {
+      "id": 19357,
+      "bank": "SANFELICE 1893 BANCA POPOLARE",
+      "city": "MODENA",
+      "branch": "(SUCCURSALE DI MODENA)",
+      "swift_code": "SFSPIT21010"
+    },
+    {
+      "id": 20623,
+      "bank": "UBI BANCA SPA",
+      "city": "MODENA",
+      "branch": "(SEDE DI MODENA)",
+      "swift_code": "BLOPIT22772"
+    },
+    {
+      "id": 21589,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE COMMERCIO EINDUSTRIA S.P.A.)",
+      "city": "MODENA",
+      "branch": "(SEDE DI MODENA)",
+      "swift_code": "POCIITM1165"
+    },
+    {
+      "id": 24139,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(EMILIA LARGE CORPORATE)",
+      "swift_code": "UNCRITM1MOW"
+    },
+    {
+      "id": 24140,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(ESTERO MERCI MODENA)",
+      "swift_code": "UNCRITMMMOE"
+    },
+    {
+      "id": 24141,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(FILIALE OPERATIVA EMILIA OVEST)",
+      "swift_code": "UNCRITMMOEO"
+    },
+    {
+      "id": 24142,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA ATTIRAGLIO)",
+      "swift_code": "UNCRITM1OM6"
+    },
+    {
+      "id": 24143,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA BUON PASTORE)",
+      "swift_code": "UNCRITM1NP6"
+    },
+    {
+      "id": 24144,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA CANALCHIARO)",
+      "swift_code": "UNCRITM1RN2"
+    },
+    {
+      "id": 24145,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA CENTRO COMMERCIALE GLOBO)",
+      "swift_code": "UNCRITM1NM7"
+    },
+    {
+      "id": 24146,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA CIALDINI)",
+      "swift_code": "UNCRITM1NP0"
+    },
+    {
+      "id": 24147,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA CORASSORI)",
+      "swift_code": "UNCRITM1NO7"
+    },
+    {
+      "id": 24148,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA EMILIA EST A)",
+      "swift_code": "UNCRITM1MN4"
+    },
+    {
+      "id": 24149,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA EMILIA EST C)",
+      "swift_code": "UNCRITM1MR7"
+    },
+    {
+      "id": 24150,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA GARIBALDI)",
+      "swift_code": "UNCRITM1NN3"
+    },
+    {
+      "id": 24151,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA MORANE)",
+      "swift_code": "UNCRITM1MP2"
+    },
+    {
+      "id": 24152,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA PIAZZA GRANDE)",
+      "swift_code": "UNCRITM147Y"
+    },
+    {
+      "id": 24153,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA PIAZZA GRANDE)",
+      "swift_code": "UNCRITM1MO0"
+    },
+    {
+      "id": 24154,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA POLICLINICO)",
+      "swift_code": "UNCRITM1Z40"
+    },
+    {
+      "id": 24155,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA VACIGLIO)",
+      "swift_code": "UNCRITM1PR6"
+    },
+    {
+      "id": 24156,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA VIA MARZABOTTO)",
+      "swift_code": "UNCRITM1MN5"
+    },
+    {
+      "id": 24157,
+      "bank": "UNICREDIT SPA",
+      "city": "MODENA",
+      "branch": "(MODENA)",
+      "swift_code": "UNCRITM1MOY"
+    },
+    {
+      "id": 26026,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MODENA",
+      "branch": "(MODENA GIARDINI BRANCH)",
+      "swift_code": "BAECIT21180"
+    },
+    {
+      "id": 26027,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MODENA",
+      "branch": "(MODENA TORRAZZI BRANCH)",
+      "swift_code": "BAECIT21067"
+    },
+    {
+      "id": 26028,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MODENA",
+      "branch": "(MODENA TRENTO E TRIESTE BRANCH)",
+      "swift_code": "BAECIT21148"
+    },
+    {
+      "id": 26029,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MODENA",
+      "branch": "(MODENA VIA VIGNOLESE BRANCH)",
+      "swift_code": "BAECIT21122"
+    },
+    {
+      "id": 26030,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "BAECIT21008"
+    },
+    {
+      "id": 26183,
+      "bank": "USCO S.P.A.",
+      "city": "MODENA",
+      "branch": "",
+      "swift_code": "UCCOIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Modena — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Modena, Italy Contiene 106 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Modena — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Modena — codici SWIFT/BIC — 106 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 106 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

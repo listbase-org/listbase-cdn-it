@@ -1,0 +1,457 @@
+{
+  "id": "it-pisa-banche",
+  "name": "Banche a Pisa — codici SWIFT/BIC",
+  "title": "Banche a Pisa — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Pisa, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1953,
+      "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+      "city": "PISA",
+      "branch": "(FILIALE DI PISA)",
+      "swift_code": "CRGEITG1F48"
+    },
+    {
+      "id": 2303,
+      "bank": "BANCA DEL MONTE DI LUCCA",
+      "city": "PISA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "BMLUIT3L118"
+    },
+    {
+      "id": 3543,
+      "bank": "BANCA DI PISA E FORNACETTE CREDITO COOPERATIVO SOC.COOP.P.A.",
+      "city": "PISA",
+      "branch": "(LUNGARNO PACINOTTI 7)",
+      "swift_code": "BCCFIT31PIS"
+    },
+    {
+      "id": 3544,
+      "bank": "BANCA DI PISA E FORNACETTE CREDITO COOPERATIVO SOC.COOP.P.A.",
+      "city": "PISA",
+      "branch": "(P.ZA VITTORIO EMANUELE II N. 14)",
+      "swift_code": "BCCFIT31PI2"
+    },
+    {
+      "id": 3545,
+      "bank": "BANCA DI PISA E FORNACETTE CREDITO COOPERATIVO SOC.COOP.P.A.",
+      "city": "PISA",
+      "branch": "(VIA NICCOLINI, 2)",
+      "swift_code": "BCCFIT31PI1"
+    },
+    {
+      "id": 3668,
+      "bank": "BANCA D'ITALIA",
+      "city": "PISA",
+      "branch": "(FILIALE DI PISA)",
+      "swift_code": "BITAITR1316"
+    },
+    {
+      "id": 5549,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 10)",
+      "swift_code": "PASCITM1Y72"
+    },
+    {
+      "id": 5550,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 4)",
+      "swift_code": "PASCITM1Y65"
+    },
+    {
+      "id": 5551,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 5)",
+      "swift_code": "PASCITM1Y68"
+    },
+    {
+      "id": 5552,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 6)",
+      "swift_code": "PASCITM1Y69"
+    },
+    {
+      "id": 5553,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 7)",
+      "swift_code": "PASCITM1Y70"
+    },
+    {
+      "id": 5554,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 8)",
+      "swift_code": "PASCITM1Y71"
+    },
+    {
+      "id": 5555,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 9)",
+      "swift_code": "PASCITM1Y67"
+    },
+    {
+      "id": 5556,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "PASCITM1PI1"
+    },
+    {
+      "id": 5557,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "PASCITM1PI2"
+    },
+    {
+      "id": 5558,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "PASCITMMPIS"
+    },
+    {
+      "id": 6933,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PISA",
+      "branch": "(AGENZIA 46A BRIGATA AEREA)",
+      "swift_code": "BNLIITR194Z"
+    },
+    {
+      "id": 6934,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PISA",
+      "branch": "(AGENZIA A)",
+      "swift_code": "BNLIITR195Z"
+    },
+    {
+      "id": 6935,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "BNLIITRRPIX"
+    },
+    {
+      "id": 7943,
+      "bank": "BANCA POPOLARE DI LAJATICO SOCIETA' COOPERATIVA PER AZIONI",
+      "city": "PISA",
+      "branch": "(BRANCH 007)",
+      "swift_code": "BLJAIT31007"
+    },
+    {
+      "id": 10817,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(MARINA DI PISA)",
+      "swift_code": "BAPPIT21T73"
+    },
+    {
+      "id": 10818,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(OSPEDALETTO)",
+      "swift_code": "BAPPIT21T84"
+    },
+    {
+      "id": 10819,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 1)",
+      "swift_code": "BAPPIT21T52"
+    },
+    {
+      "id": 10820,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 10 - AEROSTAZIONE GALILEI)",
+      "swift_code": "BAPPIT21U03"
+    },
+    {
+      "id": 10821,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 2)",
+      "swift_code": "BAPPIT21T53"
+    },
+    {
+      "id": 10822,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 3)",
+      "swift_code": "BAPPIT21T54"
+    },
+    {
+      "id": 10823,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 4)",
+      "swift_code": "BAPPIT21T55"
+    },
+    {
+      "id": 10824,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 6)",
+      "swift_code": "BAPPIT21T57"
+    },
+    {
+      "id": 10825,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 7)",
+      "swift_code": "BAPPIT21T58"
+    },
+    {
+      "id": 10826,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 8)",
+      "swift_code": "BAPPIT21T59"
+    },
+    {
+      "id": 10827,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(PISA AG. 9)",
+      "swift_code": "BAPPIT21T60"
+    },
+    {
+      "id": 10828,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(POLO VALDARNO)",
+      "swift_code": "BAPPIT21U04"
+    },
+    {
+      "id": 10829,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(RIGLIONE)",
+      "swift_code": "BAPPIT21T77"
+    },
+    {
+      "id": 10830,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(SEDE DI PISA)",
+      "swift_code": "BAPPIT21T51"
+    },
+    {
+      "id": 10831,
+      "bank": "BANCO BPM SPA",
+      "city": "PISA",
+      "branch": "(TIRRENIA)",
+      "swift_code": "BAPPIT21T81"
+    },
+    {
+      "id": 13434,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PISA",
+      "branch": "(FILIALE IMPRESE PISA)",
+      "swift_code": "CRFIIT3FH13"
+    },
+    {
+      "id": 13435,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA CISANELLO)",
+      "swift_code": "CRFIIT3F707"
+    },
+    {
+      "id": 13436,
+      "bank": "CASSA DI RISPARMIO DI FIRENZE S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA MAIN BRANCH)",
+      "swift_code": "CRFIIT3F706"
+    },
+    {
+      "id": 13591,
+      "bank": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "CRSMIT3S925"
+    },
+    {
+      "id": 13639,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "PISA",
+      "branch": "(FILIALE DI PISA - PIAZZA S.ANTONIO)",
+      "swift_code": "CRVOIT21068"
+    },
+    {
+      "id": 13640,
+      "bank": "CASSA DI RISPARMIO DI VOLTERRA",
+      "city": "PISA",
+      "branch": "(FILIALE DI PISA - VIA VENEZIA GIULIA)",
+      "swift_code": "CRVOIT21072"
+    },
+    {
+      "id": 14642,
+      "bank": "COMUNE DI PISA",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "CMPIIT21"
+    },
+    {
+      "id": 15443,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA AG. 2)",
+      "swift_code": "BACRIT21715"
+    },
+    {
+      "id": 15444,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PISA",
+      "branch": "(PISA)",
+      "swift_code": "BACRIT21192"
+    },
+    {
+      "id": 16413,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PISA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1319"
+    },
+    {
+      "id": 16414,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "DEUTITM1318"
+    },
+    {
+      "id": 17934,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PISA",
+      "branch": "(PISA BRANCH)",
+      "swift_code": "BPVIIT21492"
+    },
+    {
+      "id": 18519,
+      "bank": "IW BANK PRIVATE INVESTMENTS",
+      "city": "PISA",
+      "branch": "(PISA)",
+      "swift_code": "BLPIIT21408"
+    },
+    {
+      "id": 18611,
+      "bank": "LIST GROUP SPA",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "LIGRIT21"
+    },
+    {
+      "id": 18884,
+      "bank": "PHARMANUTRA S.P.A.",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "PHATIT21"
+    },
+    {
+      "id": 18995,
+      "bank": "PROVINCIA DI PISA",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "POIIIT21"
+    },
+    {
+      "id": 19515,
+      "bank": "SOCIETA' AEROPORTO TOSCANO (SAT.) G",
+      "city": "PISA",
+      "branch": "",
+      "swift_code": "SRTSIT21"
+    },
+    {
+      "id": 20242,
+      "bank": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
+      "city": "PISA",
+      "branch": "(SUCCURSALE DI PISA)",
+      "swift_code": "ARBAIT33141"
+    },
+    {
+      "id": 20822,
+      "bank": "UBI BANCA SPA",
+      "city": "PISA",
+      "branch": "(FILIALE DI PISA)",
+      "swift_code": "BLOPIT22C46"
+    },
+    {
+      "id": 24625,
+      "bank": "UNICREDIT SPA",
+      "city": "PISA",
+      "branch": "(PISA GARIBALDI)",
+      "swift_code": "UNCRITM1G12"
+    },
+    {
+      "id": 24626,
+      "bank": "UNICREDIT SPA",
+      "city": "PISA",
+      "branch": "(PISA MATEUCCI)",
+      "swift_code": "UNCRITM1H23"
+    },
+    {
+      "id": 26070,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PISA",
+      "branch": "(PISA BRANCH)",
+      "swift_code": "BAECIT21028"
+    },
+    {
+      "id": 26071,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PISA",
+      "branch": "(PISA BRANCH)",
+      "swift_code": "BAECIT21082"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Pisa — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Pisa, Italy Contiene 58 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Pisa — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Pisa — codici SWIFT/BIC — 58 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 58 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

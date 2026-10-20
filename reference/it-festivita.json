@@ -1,0 +1,871 @@
+{
+  "id": "it-festivita",
+  "name": "Festività nazionali italiane (2020–2026)",
+  "title": "Festività nazionali italiane (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-06",
+      "year": 2020,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-04-12",
+      "year": 2020,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-04-13",
+      "year": 2020,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-04-25",
+      "year": 2020,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-06-02",
+      "year": 2020,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-08-15",
+      "year": 2020,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-11-01",
+      "year": 2020,
+      "name_it": "All Saints' Day; National Unity Day",
+      "name_en": "All Saints' Day; National Unity Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-12-08",
+      "year": 2020,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-26",
+      "year": 2020,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-06",
+      "year": 2021,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-04-04",
+      "year": 2021,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 4,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-04-05",
+      "year": 2021,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-04-25",
+      "year": 2021,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-06-02",
+      "year": 2021,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-08-15",
+      "year": 2021,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-11-01",
+      "year": 2021,
+      "name_it": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-11-07",
+      "year": 2021,
+      "name_it": "National Unity Day",
+      "name_en": "National Unity Day",
+      "month": 11,
+      "day": 7,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-12-08",
+      "year": 2021,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-26",
+      "year": 2021,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-06",
+      "year": 2022,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-04-17",
+      "year": 2022,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-04-18",
+      "year": 2022,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-04-25",
+      "year": 2022,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-06-02",
+      "year": 2022,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-08-15",
+      "year": 2022,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-11-01",
+      "year": 2022,
+      "name_it": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-11-06",
+      "year": 2022,
+      "name_it": "National Unity Day",
+      "name_en": "National Unity Day",
+      "month": 11,
+      "day": 6,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-08",
+      "year": 2022,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-06",
+      "year": 2023,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-09",
+      "year": 2023,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-10",
+      "year": 2023,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-04-25",
+      "year": 2023,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-02",
+      "year": 2023,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-08-15",
+      "year": 2023,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-11-01",
+      "year": 2023,
+      "name_it": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-11-05",
+      "year": 2023,
+      "name_it": "National Unity Day",
+      "name_en": "National Unity Day",
+      "month": 11,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-12-08",
+      "year": 2023,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-01-06",
+      "year": 2024,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-03-31",
+      "year": 2024,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 3,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-04-25",
+      "year": 2024,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-06-02",
+      "year": 2024,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-08-15",
+      "year": 2024,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-11-01",
+      "year": 2024,
+      "name_it": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-11-03",
+      "year": 2024,
+      "name_it": "National Unity Day",
+      "name_en": "National Unity Day",
+      "month": 11,
+      "day": 3,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-12-08",
+      "year": 2024,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-26",
+      "year": 2024,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-06",
+      "year": 2025,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-20",
+      "year": 2025,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 20,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-04-21",
+      "year": 2025,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-25",
+      "year": 2025,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-06-02",
+      "year": 2025,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-08-15",
+      "year": 2025,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-11-01",
+      "year": 2025,
+      "name_it": "All Saints' Day",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-11-02",
+      "year": 2025,
+      "name_it": "National Unity Day",
+      "name_en": "National Unity Day",
+      "month": 11,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-12-08",
+      "year": 2025,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-26",
+      "year": 2025,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_it": "New Year's Day",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-06",
+      "year": 2026,
+      "name_it": "Epiphany",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-04-05",
+      "year": 2026,
+      "name_it": "Easter Sunday",
+      "name_en": "Easter Sunday",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-04-06",
+      "year": 2026,
+      "name_it": "Easter Monday",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-04-25",
+      "year": 2026,
+      "name_it": "Liberation Day",
+      "name_en": "Liberation Day",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_it": "Labor Day",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-06-02",
+      "year": 2026,
+      "name_it": "Republic Day",
+      "name_en": "Republic Day",
+      "month": 6,
+      "day": 2,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-08-15",
+      "year": 2026,
+      "name_it": "Assumption Of Mary Day",
+      "name_en": "Assumption Of Mary Day",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-10-04",
+      "year": 2026,
+      "name_it": "Saint Francis of Assisi, Patron Saint of Italy",
+      "name_en": "Saint Francis of Assisi, Patron Saint of Italy",
+      "month": 10,
+      "day": 4,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-11-01",
+      "year": 2026,
+      "name_it": "All Saints' Day; National Unity Day",
+      "name_en": "All Saints' Day; National Unity Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-12-08",
+      "year": 2026,
+      "name_it": "Immaculate Conception",
+      "name_en": "Immaculate Conception",
+      "month": 12,
+      "day": 8,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_it": "Christmas Day",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-26",
+      "year": 2026,
+      "name_it": "Saint Stephen's Day",
+      "name_en": "Saint Stephen's Day",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    }
+  ],
+  "meta": {
+    "title": "Festività nazionali italiane (2020–2026) - Download gratuito",
+    "description": "Public holidays 2020-2026 with native and English names Contiene 90 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Festività nazionali italiane (2020–2026) | ListBase",
+    "seo_description": "Scarica Festività nazionali italiane (2020–2026) — 90 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 90 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

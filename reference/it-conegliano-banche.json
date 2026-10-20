@@ -1,0 +1,1948 @@
+{
+  "id": "it-conegliano-banche",
+  "name": "Banche a Conegliano — codici SWIFT/BIC",
+  "title": "Banche a Conegliano — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Conegliano, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 271,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "16 UNO FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "UFISIT21"
+    },
+    {
+      "id": 3,
+      "bank": "2011 POPOLARE BARI SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBPSIT21"
+    },
+    {
+      "id": 4,
+      "bank": "2012 POPOLARE BARI SME SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBMRIT21"
+    },
+    {
+      "id": 5,
+      "bank": "2013 POPOLARE BARI RMBS SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBRLIT21"
+    },
+    {
+      "id": 6,
+      "bank": "2014 POPOLARE BARI SME S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBESIT21"
+    },
+    {
+      "id": 7,
+      "bank": "2017 POPOLARE BARI RMBS S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBBLIT21"
+    },
+    {
+      "id": 8,
+      "bank": "2017 POPOLARE BARI SME S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CNPSITM1"
+    },
+    {
+      "id": 25,
+      "bank": "A-BEST FOUR S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AFRRIT21"
+    },
+    {
+      "id": 28,
+      "bank": "ABRUZZO 2015 RMBS S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ABRRIT21"
+    },
+    {
+      "id": 33,
+      "bank": "ACHILLE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AHSSIT21"
+    },
+    {
+      "id": 47,
+      "bank": "ADRIANO LEASE SEC S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AEESIT21"
+    },
+    {
+      "id": 48,
+      "bank": "ADRIANO LEASE SEC S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AEESIT21SPV"
+    },
+    {
+      "id": 63,
+      "bank": "AGAVE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAVSIT21"
+    },
+    {
+      "id": 66,
+      "bank": "AGRESTI 6 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AGVLIT21"
+    },
+    {
+      "id": 68,
+      "bank": "AGRICART 4 FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AFNRIT21"
+    },
+    {
+      "id": 80,
+      "bank": "ALBA 4 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ABPLIT21"
+    },
+    {
+      "id": 81,
+      "bank": "ALBA 5 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ABVLIT21"
+    },
+    {
+      "id": 82,
+      "bank": "ALBA 6 SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAPSIT21"
+    },
+    {
+      "id": 83,
+      "bank": "ALBA 7 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAPRIT21"
+    },
+    {
+      "id": 84,
+      "bank": "ALBA 8 SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAPLIT21"
+    },
+    {
+      "id": 85,
+      "bank": "ALBA 9 SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAVRIT21"
+    },
+    {
+      "id": 86,
+      "bank": "ALBA 9 WH S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ALRLIT21"
+    },
+    {
+      "id": 103,
+      "bank": "ALICANTE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AFRLIT21"
+    },
+    {
+      "id": 104,
+      "bank": "ALICUDI SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AISSIT21"
+    },
+    {
+      "id": 127,
+      "bank": "AMBER QUEEN SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AQSSIT21"
+    },
+    {
+      "id": 133,
+      "bank": "AMETISTA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AMPSIT21"
+    },
+    {
+      "id": 138,
+      "bank": "ANDROMEDA FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AFNLIT21"
+    },
+    {
+      "id": 145,
+      "bank": "ANTARES SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ANPSIT21"
+    },
+    {
+      "id": 151,
+      "bank": "APULIA FINANCE N. 4 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "APNSIT21"
+    },
+    {
+      "id": 152,
+      "bank": "APULIA FINANCE N.2 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "APNRIT21"
+    },
+    {
+      "id": 153,
+      "bank": "APULIA MORTGAGES FINANCE 3 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AMNRIT21"
+    },
+    {
+      "id": 163,
+      "bank": "ARENA NPL ONE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ANOSIT21"
+    },
+    {
+      "id": 169,
+      "bank": "ARIES SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ASVLIT21"
+    },
+    {
+      "id": 172,
+      "bank": "ARMONIA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AMVRIT21"
+    },
+    {
+      "id": 177,
+      "bank": "ARTEMISIA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ARVRIT21"
+    },
+    {
+      "id": 183,
+      "bank": "ASPEN SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "APSRIT21"
+    },
+    {
+      "id": 185,
+      "bank": "ASSET BACKED EUROPEAN SECUR. TRANSACTION NINE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ABEUIT21"
+    },
+    {
+      "id": 186,
+      "bank": "ASSET BACKED EUROPEAN SECUR. TRANSACTION TEN SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ABUEIT21"
+    },
+    {
+      "id": 187,
+      "bank": "ASSET-BACKED EUROPEAN SECURITISATION TRANSACTION FIFTEEN S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AESNIT21"
+    },
+    {
+      "id": 188,
+      "bank": "ASSET-BACKED EUROPEAN SECURITISATION TRANSACTION FOURTEEN S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AESCIT21"
+    },
+    {
+      "id": 190,
+      "bank": "ASSET-BACKED EUROPEAN SECURITISATION TRANSACTION TWELVE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AESAIT21"
+    },
+    {
+      "id": 205,
+      "bank": "ATENA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ATPSIT21"
+    },
+    {
+      "id": 208,
+      "bank": "ATLANTIS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ATVSIT21"
+    },
+    {
+      "id": 215,
+      "bank": "AUGUSTUS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AUPRIT21"
+    },
+    {
+      "id": 219,
+      "bank": "AUTO ABS 2012-2 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AUBSIT21"
+    },
+    {
+      "id": 220,
+      "bank": "AUTO ABS ITALIAN LOANS 2018-1 S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAINIT21"
+    },
+    {
+      "id": 221,
+      "bank": "AUTO ABS ITALIAN LOANS MASTER S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AAIOIT21"
+    },
+    {
+      "id": 229,
+      "bank": "AVIA PERVIA SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "APRSIT21"
+    },
+    {
+      "id": 245,
+      "bank": "AZZURRO HOLDINGS SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "AZHSIT21"
+    },
+    {
+      "id": 265,
+      "bank": "BALLADE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BAVLIT21"
+    },
+    {
+      "id": 645,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CONEGLIANO",
+      "branch": "(AG. NO 75)",
+      "swift_code": "ANTBIT2175A"
+    },
+    {
+      "id": 646,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ANTBIT21295"
+    },
+    {
+      "id": 2389,
+      "bank": "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE DI PARE')",
+      "swift_code": "ICRAITR1U4Q"
+    },
+    {
+      "id": 2396,
+      "bank": "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA'COO PERATIVA",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ICRAITR1U4X"
+    },
+    {
+      "id": 2397,
+      "bank": "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA'COO PERATIVA",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ICRAITR1U4Z"
+    },
+    {
+      "id": 2401,
+      "bank": "BANCA DELLA MARCA CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE DI CONEGLIANO)",
+      "swift_code": "ICRAITR1U43"
+    },
+    {
+      "id": 4580,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO - AG. 1)",
+      "swift_code": "PASCITM1295"
+    },
+    {
+      "id": 4581,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO - AG. 2)",
+      "swift_code": "PASCITM175A"
+    },
+    {
+      "id": 4582,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PASCITM1TVC"
+    },
+    {
+      "id": 7450,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO - VIA CAVOUR)",
+      "swift_code": "BPAAIT2B203"
+    },
+    {
+      "id": 7451,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "BPAAIT2B105"
+    },
+    {
+      "id": 7452,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "BPAAIT2B119"
+    },
+    {
+      "id": 10131,
+      "bank": "BANCO BPM SPA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "BAPPIT21027"
+    },
+    {
+      "id": 11714,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO 392 -NON OP-124.14)",
+      "swift_code": "BDBDITA1392"
+    },
+    {
+      "id": 12595,
+      "bank": "BNT PORTFOLIO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BPVRIT21"
+    },
+    {
+      "id": 12602,
+      "bank": "BORGO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BGSSIT21"
+    },
+    {
+      "id": 12608,
+      "bank": "BOTTICELLI FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BOILIT21"
+    },
+    {
+      "id": 12611,
+      "bank": "BPL MORTGAGES",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BPMTIT21"
+    },
+    {
+      "id": 12613,
+      "bank": "BPM SECURITISATION 3 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BPRRIT21"
+    },
+    {
+      "id": 12623,
+      "bank": "BRERA SEC S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "RRSSIT21"
+    },
+    {
+      "id": 12627,
+      "bank": "BRISCA SECURITISATION S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BRNLIT21"
+    },
+    {
+      "id": 12638,
+      "bank": "BVG CREDIT FINANCE S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BCFRIT21"
+    },
+    {
+      "id": 12673,
+      "bank": "CANASTA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CSVRIT21"
+    },
+    {
+      "id": 12683,
+      "bank": "CAPRESE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CPVRIT21"
+    },
+    {
+      "id": 12692,
+      "bank": "CARRERA ITALIA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CTPSIT21"
+    },
+    {
+      "id": 12700,
+      "bank": "CASA D'ESTE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CDNSIT21"
+    },
+    {
+      "id": 12827,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO - VIA PITTONI 12)",
+      "swift_code": "IBSPIT2P508"
+    },
+    {
+      "id": 12828,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE IMPRESE CONEGLIANO)",
+      "swift_code": "IBSPIT2P775"
+    },
+    {
+      "id": 13145,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "CRBZIT2B142"
+    },
+    {
+      "id": 14062,
+      "bank": "CENTRO DELLE ALPI RMBS SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CPBRIT21"
+    },
+    {
+      "id": 14103,
+      "bank": "CESIO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "EESLIT21"
+    },
+    {
+      "id": 14108,
+      "bank": "CHEESETAKE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MIPDIT21"
+    },
+    {
+      "id": 14118,
+      "bank": "CIRENE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CNFLIT21"
+    },
+    {
+      "id": 14196,
+      "bank": "CIVITAS SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CVSSIT21"
+    },
+    {
+      "id": 14198,
+      "bank": "CLARIS ABS 2011 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLBSIT21"
+    },
+    {
+      "id": 14200,
+      "bank": "CLARIS FINANCE 2006 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CSNSIT21"
+    },
+    {
+      "id": 14202,
+      "bank": "CLARIS FINANCE 2008 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LLFLIT21"
+    },
+    {
+      "id": 14203,
+      "bank": "CLARIS LEASE FINANCE 2009 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLFLIT21"
+    },
+    {
+      "id": 14204,
+      "bank": "CLARIS RMBS 2011 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLRLIT21"
+    },
+    {
+      "id": 14205,
+      "bank": "CLARIS RMBS 2014 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLBLIT21"
+    },
+    {
+      "id": 14206,
+      "bank": "CLARIS RMBS 2016 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CBMSIT21"
+    },
+    {
+      "id": 14207,
+      "bank": "CLARIS SME 2011 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLSLIT21"
+    },
+    {
+      "id": 14208,
+      "bank": "CLARIS SME 2012 S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LLSSIT21"
+    },
+    {
+      "id": 14209,
+      "bank": "CLARIS SME 2015",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CLMMIT21"
+    },
+    {
+      "id": 14210,
+      "bank": "CLARIS SME 2016",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LLSMIT21"
+    },
+    {
+      "id": 14225,
+      "bank": "COBALTO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CBVLIT21"
+    },
+    {
+      "id": 14244,
+      "bank": "COMETA SPV",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CEPVIT21"
+    },
+    {
+      "id": 14435,
+      "bank": "COMUNE DI CONEGLIANO",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CUMOIT21"
+    },
+    {
+      "id": 14871,
+      "bank": "CR FIRENZE MUTUI S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FRMLIT21"
+    },
+    {
+      "id": 14872,
+      "bank": "CR VOLTERRA 2 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VOPSIT21"
+    },
+    {
+      "id": 14873,
+      "bank": "CR VOLTERRA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VOIRIT21"
+    },
+    {
+      "id": 15037,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BPPNIT2P021"
+    },
+    {
+      "id": 15349,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO VENETO)",
+      "swift_code": "BACRIT21211"
+    },
+    {
+      "id": 16113,
+      "bank": "CRESCENDO 2015 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "CNLRIT21"
+    },
+    {
+      "id": 16118,
+      "bank": "CRIO SPV II S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "RRSRIT21"
+    },
+    {
+      "id": 16151,
+      "bank": "DECO 2014 - GONDOLA S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DEGLIT21"
+    },
+    {
+      "id": 16154,
+      "bank": "DEDALO FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DEISIT21"
+    },
+    {
+      "id": 16249,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(SPORTELLO DI CONEGLIANO)",
+      "swift_code": "DEUTITM1518"
+    },
+    {
+      "id": 16533,
+      "bank": "DIAMANTE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DISLITM1"
+    },
+    {
+      "id": 16537,
+      "bank": "DIESIS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DIPLIT21"
+    },
+    {
+      "id": 16551,
+      "bank": "DOLOMITI FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DOFSIT21"
+    },
+    {
+      "id": 16552,
+      "bank": "DOLOMITI MORTGAGE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DMOLIT21"
+    },
+    {
+      "id": 16560,
+      "bank": "DRINA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DSPSIT21"
+    },
+    {
+      "id": 16574,
+      "bank": "EBB S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "EBSRIT21"
+    },
+    {
+      "id": 16598,
+      "bank": "ELROND NPL 2017 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ELNSIT21"
+    },
+    {
+      "id": 16655,
+      "bank": "EMILIA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "EMPSIT21"
+    },
+    {
+      "id": 16684,
+      "bank": "EPICURO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "EPSSIT21"
+    },
+    {
+      "id": 16693,
+      "bank": "ERACLE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ERFSIT21"
+    },
+    {
+      "id": 16697,
+      "bank": "ERICE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ERFLIT21"
+    },
+    {
+      "id": 16699,
+      "bank": "ERIS FINANCE",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ERFIIT21"
+    },
+    {
+      "id": 16708,
+      "bank": "ESTENSE FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ESFRIT21"
+    },
+    {
+      "id": 16709,
+      "bank": "ESTENSE SME SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ESSSIT21"
+    },
+    {
+      "id": 16756,
+      "bank": "FANES SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FANSIT21"
+    },
+    {
+      "id": 16776,
+      "bank": "FENICE SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FESRIT21"
+    },
+    {
+      "id": 16781,
+      "bank": "FERRIERE NORD FUNDING S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FNFSIT21"
+    },
+    {
+      "id": 16813,
+      "bank": "FINAFARM SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FNPLIT21"
+    },
+    {
+      "id": 16820,
+      "bank": "FINANZIARIA INTERNAZIONALE ALTERNATIVE INVESTMENT SOCIETA' DI GESTIONE DEL RISPARMIO S.P.A",
+      "city": "CONEGLIANO",
+      "branch": "(ASSET MANAGEMENT)",
+      "swift_code": "FILSIT21SGR"
+    },
+    {
+      "id": 16821,
+      "bank": "FINANZIARIA INTERNAZIONALE ALTERNATIVE INVESTMENT SOCIETA' DI GESTIONE DEL RISPARMIO S.P.A",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FILSIT21"
+    },
+    {
+      "id": 16822,
+      "bank": "FINANZIARIA INTERNAZIONALE HOLDING SPA",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FITHIT21"
+    },
+    {
+      "id": 16847,
+      "bank": "FLORENCE SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FLSSIT21"
+    },
+    {
+      "id": 16849,
+      "bank": "FN FUNDING 2 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FUSLIT21"
+    },
+    {
+      "id": 16899,
+      "bank": "GALLERIE 2013 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GASLIT21"
+    },
+    {
+      "id": 16905,
+      "bank": "GARC SPV 2017 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GAVRIT21"
+    },
+    {
+      "id": 16906,
+      "bank": "GARC SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GAPRIT21"
+    },
+    {
+      "id": 16917,
+      "bank": "GEMINI SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GEPLIT21"
+    },
+    {
+      "id": 16918,
+      "bank": "GEMMA SPV",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GEPPIT21"
+    },
+    {
+      "id": 16934,
+      "bank": "GESPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GESLIT21"
+    },
+    {
+      "id": 16953,
+      "bank": "GIOVECCA MORTGAGES SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GIMRIT21"
+    },
+    {
+      "id": 16957,
+      "bank": "GLICINE SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GLSRIT21"
+    },
+    {
+      "id": 16964,
+      "bank": "GONGAZA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GOFRIT21"
+    },
+    {
+      "id": 16987,
+      "bank": "GUERRIERO SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "GUSLIT21"
+    },
+    {
+      "id": 17016,
+      "bank": "HVL BOLZANO S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "HVBSIT21"
+    },
+    {
+      "id": 17021,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "HAABIT2U004"
+    },
+    {
+      "id": 17069,
+      "bank": "ICCREA SME CART S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ISCRIT21"
+    },
+    {
+      "id": 17074,
+      "bank": "IFIS ABCP PROGRAMME S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IAPSIT21"
+    },
+    {
+      "id": 17077,
+      "bank": "IGEA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IGSSIT21"
+    },
+    {
+      "id": 17101,
+      "bank": "INDIGO LEASE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IDLRIT21"
+    },
+    {
+      "id": 17102,
+      "bank": "INDIGO LOAN S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IDLLIT21"
+    },
+    {
+      "id": 17262,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE IMPRESE CONEGLIANO)",
+      "swift_code": "BCITITMMV48"
+    },
+    {
+      "id": 17808,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "BPVIIT21197"
+    },
+    {
+      "id": 18197,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE DI CONEGLIANO-CENTRO)",
+      "swift_code": "VEBHIT21059"
+    },
+    {
+      "id": 18456,
+      "bank": "ISABEL SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ISSLIT21"
+    },
+    {
+      "id": 18477,
+      "bank": "ITALFINANCE SECURITISATION VEHICLE 2 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ISVSIT21"
+    },
+    {
+      "id": 18478,
+      "bank": "ITALFINANCE SECURITISATION VEHICLE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ITSHIT21"
+    },
+    {
+      "id": 18494,
+      "bank": "ITALY OFFICE 2017 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ITOSIT21"
+    },
+    {
+      "id": 18501,
+      "bank": "IUSTITIA FUTURA SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IUFSIT21"
+    },
+    {
+      "id": 18538,
+      "bank": "JUNE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "JUSLIT21"
+    },
+    {
+      "id": 18544,
+      "bank": "K5 SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SVSLIT21"
+    },
+    {
+      "id": 18579,
+      "bank": "LADY MOON SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LMSSIT21"
+    },
+    {
+      "id": 18581,
+      "bank": "LAKE SECURITISATION S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LAERIT21"
+    },
+    {
+      "id": 18584,
+      "bank": "LANTANA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LAPSIT21"
+    },
+    {
+      "id": 18591,
+      "bank": "LEASIMPRESA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LEFSIT21"
+    },
+    {
+      "id": 18594,
+      "bank": "LEGION CQ S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LERRIT21"
+    },
+    {
+      "id": 18595,
+      "bank": "LEO CONSUMO 1 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LEORIT21"
+    },
+    {
+      "id": 18596,
+      "bank": "LEO CONSUMO 2 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LECLIT21"
+    },
+    {
+      "id": 18605,
+      "bank": "LIBRA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LISSIT21"
+    },
+    {
+      "id": 18613,
+      "bank": "LOCAT SECURITISATION VEHICLE 2 S.R.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LOSVIT21"
+    },
+    {
+      "id": 18614,
+      "bank": "LOCAT SV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LORRIT21"
+    },
+    {
+      "id": 18624,
+      "bank": "LUMEN SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MSERIT21"
+    },
+    {
+      "id": 18635,
+      "bank": "MADELEINE SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MAVRIT21"
+    },
+    {
+      "id": 18642,
+      "bank": "MAJA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MJFSIT21"
+    },
+    {
+      "id": 18650,
+      "bank": "MARCHE M5 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRLRIT21"
+    },
+    {
+      "id": 18651,
+      "bank": "MARCHE M6 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRSLIT21"
+    },
+    {
+      "id": 18653,
+      "bank": "MARCHE MUTUI 3 S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRTSIT21"
+    },
+    {
+      "id": 18654,
+      "bank": "MARCHE MUTUI 4 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRURIT21"
+    },
+    {
+      "id": 18655,
+      "bank": "MARCHE MUTUI S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRULIT21"
+    },
+    {
+      "id": 18659,
+      "bank": "MARS 2600 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MRSRIT21"
+    },
+    {
+      "id": 18660,
+      "bank": "MARTE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MAVLIT21"
+    },
+    {
+      "id": 18673,
+      "bank": "MEDIA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MEELIT21"
+    },
+    {
+      "id": 18692,
+      "bank": "MEDIOLEASING FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MEASIT21"
+    },
+    {
+      "id": 18717,
+      "bank": "MICRO-E FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MIILIT21"
+    },
+    {
+      "id": 18723,
+      "bank": "MILO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MIPSIT21"
+    },
+    {
+      "id": 18732,
+      "bank": "MODA 2014 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MDSLIT21"
+    },
+    {
+      "id": 18763,
+      "bank": "MONVISO FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "MOFLIT21"
+    },
+    {
+      "id": 18809,
+      "bank": "NORMA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "NRSSIT21"
+    },
+    {
+      "id": 18815,
+      "bank": "NOVUS ITALIA 1 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "NOIRIT21"
+    },
+    {
+      "id": 18820,
+      "bank": "NUMA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "NUFSIT21"
+    },
+    {
+      "id": 18825,
+      "bank": "OASIS SECURITISATION SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "OASSIT21"
+    },
+    {
+      "id": 18837,
+      "bank": "OLYMPIA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "OLFSIT21"
+    },
+    {
+      "id": 18844,
+      "bank": "OPERA CQS S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "OPCRIT21"
+    },
+    {
+      "id": 18846,
+      "bank": "OPERA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "OPSRIT21"
+    },
+    {
+      "id": 18849,
+      "bank": "ORAZIO SPV",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ORPPIT21"
+    },
+    {
+      "id": 18854,
+      "bank": "ORTOGONO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "ORPSIT21"
+    },
+    {
+      "id": 18896,
+      "bank": "PIETRA NERO UNO S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PNUSIT21"
+    },
+    {
+      "id": 18897,
+      "bank": "PIGAFETTA SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PISLIT21"
+    },
+    {
+      "id": 18917,
+      "bank": "POLARIS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "POVSIT21"
+    },
+    {
+      "id": 18928,
+      "bank": "POPOLARE BARI MORTGAGES S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBMLIT21"
+    },
+    {
+      "id": 18929,
+      "bank": "POPOLARE BARI NPLS 2016 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBNLIT21"
+    },
+    {
+      "id": 18930,
+      "bank": "POPOLARE BARI NPLS 2017 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PBNRIT21"
+    },
+    {
+      "id": 18954,
+      "bank": "PROFAMILY SECURITISATION S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "PSESIT21"
+    },
+    {
+      "id": 19018,
+      "bank": "PURPLE SPV S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "IDSLIT21"
+    },
+    {
+      "id": 19021,
+      "bank": "QUADRIVIO FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QUFLIT21"
+    },
+    {
+      "id": 19022,
+      "bank": "QUADRIVIO RMBS 2011 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QUBRIT21"
+    },
+    {
+      "id": 19023,
+      "bank": "QUADRIVIO RMBS 2013 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QUBSIT21"
+    },
+    {
+      "id": 19024,
+      "bank": "QUADRIVIO SME 2012 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QASSIT21"
+    },
+    {
+      "id": 19025,
+      "bank": "QUADRIVIO SME 2014 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QUMSIT21"
+    },
+    {
+      "id": 19034,
+      "bank": "QUINTO SISTEMA SEC. 2016",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "QUSCIT21"
+    },
+    {
+      "id": 19035,
+      "bank": "QUINTO SISTEMA SEC. 2017 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "DOPSIT21"
+    },
+    {
+      "id": 19234,
+      "bank": "RAPHAEL SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "RPSSIT21"
+    },
+    {
+      "id": 19253,
+      "bank": "RENI SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "REVLIT21"
+    },
+    {
+      "id": 19255,
+      "bank": "RENO SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "RNSSIT21"
+    },
+    {
+      "id": 19307,
+      "bank": "RUBIDIO SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "RUPSIT21"
+    },
+    {
+      "id": 19322,
+      "bank": "SAFLA S.P.A.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SFFLIT21"
+    },
+    {
+      "id": 19330,
+      "bank": "SALINA LEASING SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SLESIT21"
+    },
+    {
+      "id": 19382,
+      "bank": "SC LOWY PI (ITALY) S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "LOISIT21"
+    },
+    {
+      "id": 19397,
+      "bank": "SEGESTA FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SGILIT21"
+    },
+    {
+      "id": 19411,
+      "bank": "SETAFIA SPV",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SEVPIT21"
+    },
+    {
+      "id": 19472,
+      "bank": "SHAPE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SHSLIT21"
+    },
+    {
+      "id": 19478,
+      "bank": "SIENA CONSUMER 2015 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SIURIT21"
+    },
+    {
+      "id": 19479,
+      "bank": "SIENA CONSUMER SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SIUSIT21"
+    },
+    {
+      "id": 19480,
+      "bank": "SIENA LEASE 11-1 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SILLIT21"
+    },
+    {
+      "id": 19481,
+      "bank": "SIENA LEASE 2015-2  S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SELRIT21"
+    },
+    {
+      "id": 19483,
+      "bank": "SIENA MORTGAGES 09-6 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SEMLIT21"
+    },
+    {
+      "id": 19484,
+      "bank": "SIENA MORTGAGES 10-7 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SEORIT21"
+    },
+    {
+      "id": 19486,
+      "bank": "SIENA PMI 2016 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SNPLIT21"
+    },
+    {
+      "id": 19487,
+      "bank": "SIENA SME 11-1 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SNSLIT21"
+    },
+    {
+      "id": 19501,
+      "bank": "SIRIUS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SIVSIT21"
+    },
+    {
+      "id": 19507,
+      "bank": "SIVIGLIA FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SVFSIT21"
+    },
+    {
+      "id": 19533,
+      "bank": "SOCRATE SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SOVSIT21"
+    },
+    {
+      "id": 19534,
+      "bank": "SOFIA MORTGAGES SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SOTLIT21"
+    },
+    {
+      "id": 19543,
+      "bank": "SOLE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SOVLIT21"
+    },
+    {
+      "id": 19553,
+      "bank": "SORAPISS SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SRSSIT21"
+    },
+    {
+      "id": 19572,
+      "bank": "SPOLETO MORTGAGES 2011 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SOERIT21"
+    },
+    {
+      "id": 19607,
+      "bank": "STEEL LION SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "STLRIT21"
+    },
+    {
+      "id": 19628,
+      "bank": "SYNPLE SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "SYSLIT21"
+    },
+    {
+      "id": 19632,
+      "bank": "TALIA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TLSSIT21"
+    },
+    {
+      "id": 19634,
+      "bank": "TANARO SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "KISRIT21"
+    },
+    {
+      "id": 19637,
+      "bank": "TAURUS 2017-1 IT S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TARLIT21"
+    },
+    {
+      "id": 19665,
+      "bank": "TEOREMA SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TEPSIT21"
+    },
+    {
+      "id": 19692,
+      "bank": "TIBERIUS SPV",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TISVIT21"
+    },
+    {
+      "id": 19696,
+      "bank": "TIEPOLO FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TICRIT21"
+    },
+    {
+      "id": 19697,
+      "bank": "TIERRE SECURITISATION S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TIESIT21"
+    },
+    {
+      "id": 19702,
+      "bank": "TOLOMEO FINANCE SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TOFLIT21"
+    },
+    {
+      "id": 19714,
+      "bank": "TRADE RECEIVABLES ITALIAN SECURITISATION 1",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "TRTUIT21"
+    },
+    {
+      "id": 20473,
+      "bank": "UBI BANCA SPA",
+      "city": "CONEGLIANO",
+      "branch": "(FILIALE DI CONEGLIANO)",
+      "swift_code": "BLOPIT22255"
+    },
+    {
+      "id": 22323,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "BCABIT21211"
+    },
+    {
+      "id": 22546,
+      "bank": "UNICA MULTI-MATERIAL PLASTIC MOLDING S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "UMPMIT21"
+    },
+    {
+      "id": 23403,
+      "bank": "UNICREDIT SPA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO PARE' EINAUDI)",
+      "swift_code": "UNCRITM1A29"
+    },
+    {
+      "id": 23404,
+      "bank": "UNICREDIT SPA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO V. EMANUELE II)",
+      "swift_code": "UNCRITM1A28"
+    },
+    {
+      "id": 23405,
+      "bank": "UNICREDIT SPA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "UNCRITM1CGN"
+    },
+    {
+      "id": 23406,
+      "bank": "UNICREDIT SPA",
+      "city": "CONEGLIANO",
+      "branch": "(CONEGLIANO)",
+      "swift_code": "UNCRITM1O22"
+    },
+    {
+      "id": 26190,
+      "bank": "VALSABBINA INVESTIMENTI S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VINSIT21"
+    },
+    {
+      "id": 26191,
+      "bank": "VALSABBINA SPV 1 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VASLIT21"
+    },
+    {
+      "id": 26196,
+      "bank": "VELA ABS S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEARIT21"
+    },
+    {
+      "id": 26197,
+      "bank": "VELA CONSUMER 2 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEORIT21"
+    },
+    {
+      "id": 26198,
+      "bank": "VELA CONSUMER S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VECLIT21"
+    },
+    {
+      "id": 26199,
+      "bank": "VELA HOME S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEHRIT21"
+    },
+    {
+      "id": 26200,
+      "bank": "VELA LEASE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VELLIT21"
+    },
+    {
+      "id": 26201,
+      "bank": "VELA MORTGAGES SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEMRIT21"
+    },
+    {
+      "id": 26202,
+      "bank": "VELA PUBLIC SECTOR S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VPSRIT21"
+    },
+    {
+      "id": 26203,
+      "bank": "VELA RMBS S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEMLIT21"
+    },
+    {
+      "id": 26206,
+      "bank": "VENI SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VNSRIT21"
+    },
+    {
+      "id": 26207,
+      "bank": "VENUS 1 FINANCE S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VEISIT21"
+    },
+    {
+      "id": 26219,
+      "bank": "VIOLA FINANCE S.R.L",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "FNLLIT21"
+    },
+    {
+      "id": 26226,
+      "bank": "VIVERACQUA HYDROBOND 1 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VIHSIT21"
+    },
+    {
+      "id": 26227,
+      "bank": "VOBA 3 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VBRRIT21"
+    },
+    {
+      "id": 26228,
+      "bank": "VOBA 4 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VBLRIT21"
+    },
+    {
+      "id": 26230,
+      "bank": "VOBA N. 5 SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VBRLIT21"
+    },
+    {
+      "id": 26231,
+      "bank": "VOBA N. 6 S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "VBLLIT21"
+    },
+    {
+      "id": 26238,
+      "bank": "WEST SPV SRL",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "WEPRIT21"
+    },
+    {
+      "id": 26250,
+      "bank": "YANEZ SPV S.R.L.",
+      "city": "CONEGLIANO",
+      "branch": "",
+      "swift_code": "YASLIT21"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Conegliano — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Conegliano, Italy Contiene 271 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Conegliano — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Conegliano — codici SWIFT/BIC — 271 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 271 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

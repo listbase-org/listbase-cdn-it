@@ -1,0 +1,5218 @@
+{
+  "id": "it-monasteri",
+  "name": "Monasteri in Italia",
+  "title": "Monasteri in Italia",
+  "description": "Elenco dei monasteri in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 573,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q112172906",
+      "name_it": "Abbazia dei SS. Pietro e Paolo",
+      "name_en": "",
+      "latitude": 45.164596,
+      "longitude": 9.583433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172906"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q114436",
+      "name_it": "abbazia delle Tre Fontane",
+      "name_en": "Tre Fontane Abbey",
+      "latitude": 41.834444,
+      "longitude": 12.483333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114436"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q333898",
+      "name_it": "abbazia di Farneta",
+      "name_en": "Abbazia di Farneta",
+      "latitude": 43.22628,
+      "longitude": 11.87103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q333898"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q14526949",
+      "name_it": "abbazia di Maguzzano",
+      "name_en": "Abbazia di Maguzzano",
+      "latitude": 45.48538,
+      "longitude": 10.50313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14526949"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3603198",
+      "name_it": "abbazia di Mirasole",
+      "name_en": "Abbey of Mirasole",
+      "latitude": 45.387755,
+      "longitude": 9.20185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603198"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q3603199",
+      "name_it": "abbazia di Monte Oliveto Maggiore",
+      "name_en": "Abbey of Monte Oliveto Maggiore",
+      "latitude": 43.1753,
+      "longitude": 11.5442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603199"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q112318190",
+      "name_it": "Abbazia di S. Giovanni",
+      "name_en": "",
+      "latitude": 45.731522,
+      "longitude": 9.084454,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318190"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q106044800",
+      "name_it": "abbazia di San Bartolo",
+      "name_en": "Abbazia di San Bartolo",
+      "latitude": 44.814119,
+      "longitude": 11.645724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106044800"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q58005983",
+      "name_it": "Abbazia di San Cipriano",
+      "name_en": "San Cipriano",
+      "latitude": 45.457444,
+      "longitude": 12.349667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58005983"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3603220",
+      "name_it": "abbazia di San Giovanni",
+      "name_en": "",
+      "latitude": 45.7316,
+      "longitude": 9.08447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603220"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q3603233",
+      "name_it": "abbazia di San Nicola",
+      "name_en": "Abbazia di San Nicola (Rodengo Saiano)",
+      "latitude": 45.589653,
+      "longitude": 10.11128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603233"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3603234",
+      "name_it": "abbazia di San Nicolò del Boschetto",
+      "name_en": "Abbazia di San Nicolò del Boschetto",
+      "latitude": 44.4338,
+      "longitude": 8.88535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603234"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q126870127",
+      "name_it": "Abbazia di Santa Maria del Parto",
+      "name_en": "",
+      "latitude": 37.919028,
+      "longitude": 14.081193,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126870127"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q64595291",
+      "name_it": "Abbazia di Santa Maria di Cadossa",
+      "name_en": "S. Maria di Cadossa (Abbey)",
+      "latitude": 40.254472,
+      "longitude": 15.700778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64595291"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1775970",
+      "name_it": "Abbazia di Santa Maria di Ponza",
+      "name_en": "",
+      "latitude": 40.908056,
+      "longitude": 12.963333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775970"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q112172369",
+      "name_it": "abbazia di Santa Maria Rossa",
+      "name_en": "Santa Maria Rossa Abbey",
+      "latitude": 45.50872,
+      "longitude": 9.249024,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172369"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q106083378",
+      "name_it": "antico convento dell'Abbazia",
+      "name_en": "Antico convento dell'Abbazia",
+      "latitude": 44.857579,
+      "longitude": 10.175967,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083378"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q16530651",
+      "name_it": "Badia di San Gemolo",
+      "name_en": "Badia di San Gemolo",
+      "latitude": 45.902221,
+      "longitude": 8.822463,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16530651"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3635657",
+      "name_it": "basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "name_en": "Santi Vincenzo e Caterina de' Ricci",
+      "latitude": 43.8818,
+      "longitude": 11.0935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635657"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q810104",
+      "name_it": "Basilica di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 40.84688,
+      "longitude": 14.25287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q810104"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1519975",
+      "name_it": "basilica di Santo Spirito",
+      "name_en": "Santo Spirito",
+      "latitude": 43.767222,
+      "longitude": 11.247778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1519975"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3635781",
+      "name_it": "basilica e convento di Sant'Antonio",
+      "name_en": "Convento di Sant'Antonio",
+      "latitude": 40.746881,
+      "longitude": 14.645475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3635781"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q112818234",
+      "name_it": "canonica della Chiesa di San Girolamo",
+      "name_en": "",
+      "latitude": 45.035972,
+      "longitude": 10.762682,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112818234"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q106073716",
+      "name_it": "carceri di SanTommaso",
+      "name_en": "Carceri di SanTommaso",
+      "latitude": 44.698485,
+      "longitude": 10.63474,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073716"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q106044801",
+      "name_it": "casa Betania - Ex Convento di Santa Maria in Vado",
+      "name_en": "Casa Betania - Ex Convento di Santa Maria in Vado",
+      "latitude": 44.830323,
+      "longitude": 11.627136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106044801"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q112172726",
+      "name_it": "Casa di riposo G. Scola",
+      "name_en": "",
+      "latitude": 45.685159,
+      "longitude": 9.293252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172726"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q61052550",
+      "name_it": "casa di riposo San Domenico",
+      "name_en": "San Domenico Retirement Home",
+      "latitude": 43.904806,
+      "longitude": 10.686861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61052550"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q106073803",
+      "name_it": "casa Fogliani",
+      "name_en": "Casa Fogliani",
+      "latitude": 44.865888,
+      "longitude": 10.063032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073803"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q112138627",
+      "name_it": "Casa monastica di S. Salvatore",
+      "name_en": "",
+      "latitude": 45.145518,
+      "longitude": 10.514207,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138627"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q112137734",
+      "name_it": "Cascina Belvedere",
+      "name_en": "Cascina Belvedere",
+      "latitude": 45.621564,
+      "longitude": 9.516954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137734"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q105620422",
+      "name_it": "cascina Monasterolo",
+      "name_en": "Cascina Monasterolo",
+      "latitude": 45.5416,
+      "longitude": 9.465089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105620422"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q67645643",
+      "name_it": "Cascina San Benedetto",
+      "name_en": "Cascina San Benedetto",
+      "latitude": 45.627496,
+      "longitude": 9.503395,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67645643"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q112172539",
+      "name_it": "Cascina San Benedetto",
+      "name_en": "",
+      "latitude": 45.627608,
+      "longitude": 9.503382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172539"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q106073371",
+      "name_it": "caserma della Guardia di Finanza",
+      "name_en": "Caserma della Guardia di Finanza",
+      "latitude": 44.352594,
+      "longitude": 11.71695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073371"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q35993527",
+      "name_it": "caserma della Neve (Politecnico)",
+      "name_en": "Santa Maria della Neve - Politecnico",
+      "latitude": 45.0481,
+      "longitude": 9.70144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35993527"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q106052982",
+      "name_it": "caserma Montecuccoli",
+      "name_en": "Caserma Montecuccoli",
+      "latitude": 44.649955,
+      "longitude": 10.930449,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106052982"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q106050531",
+      "name_it": "caserma San Guglielmo",
+      "name_en": "Caserma San Guglielmo",
+      "latitude": 44.838078,
+      "longitude": 11.62348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050531"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q106073370",
+      "name_it": "caserma Taddeo della Volpe",
+      "name_en": "Caserma Taddeo della Volpe",
+      "latitude": 44.351907,
+      "longitude": 11.713319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073370"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q113375742",
+      "name_it": "Castello di Lenta",
+      "name_en": "castello di Lenta",
+      "latitude": 45.555294,
+      "longitude": 8.386633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113375742"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q56258313",
+      "name_it": "Cella di Santa Maria",
+      "name_en": "Cella di Santa Maria",
+      "latitude": 45.530404,
+      "longitude": 8.520103,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258313"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q106081686",
+      "name_it": "centro culturale San Biagio",
+      "name_en": "Centro culturale San Biagio",
+      "latitude": 44.137472,
+      "longitude": 12.247933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081686"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q16539016",
+      "name_it": "Certosa di Casotto",
+      "name_en": "Certosa di Casotto",
+      "latitude": 44.230047,
+      "longitude": 7.924376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16539016"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q581827",
+      "name_it": "certosa di Garegnano",
+      "name_en": "Garegnano Charterhouse",
+      "latitude": 45.502305,
+      "longitude": 9.129493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q581827"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q3665204",
+      "name_it": "certosa di Parma",
+      "name_en": "Certosa di Parma",
+      "latitude": 44.802697,
+      "longitude": 10.365906,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3665204"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q654443",
+      "name_it": "Certosa di Pavia",
+      "name_en": "Certosa di Pavia",
+      "latitude": 45.257,
+      "longitude": 9.148278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q654443"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q859732",
+      "name_it": "Certosa di San Martino",
+      "name_en": "Certosa di San Martino",
+      "latitude": 40.84341,
+      "longitude": 14.241129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q859732"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q25396092",
+      "name_it": "chiesa dei Santi Giuseppe e Teresa",
+      "name_en": "Santi Teresa e Giuseppe",
+      "latitude": 45.45865,
+      "longitude": 12.35652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25396092"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q3668478",
+      "name_it": "chiesa dei Santi Vito e Ranieri",
+      "name_en": "S. Vito",
+      "latitude": 43.71491,
+      "longitude": 10.39322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3668478"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q106083253",
+      "name_it": "chiesa del Carmine",
+      "name_en": "Beata Vergine del Carmine",
+      "latitude": 44.419294,
+      "longitude": 11.91021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083253"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q109758272",
+      "name_it": "chiesa della Misericordia",
+      "name_en": "Misericordia",
+      "latitude": 44.38657,
+      "longitude": 7.83164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758272"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q112317904",
+      "name_it": "chiesa di S. Francesco",
+      "name_en": "",
+      "latitude": 45.37593,
+      "longitude": 8.940816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112317904"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3669822",
+      "name_it": "chiesa di San Cristoforo",
+      "name_en": "San Cristoforo",
+      "latitude": 44.796758,
+      "longitude": 10.331767,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3669822"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q2219484",
+      "name_it": "chiesa di San Filippo di Fragalà",
+      "name_en": "Monastero di San Filippo di Fragalà (Frazzanò, Italy)",
+      "latitude": 38.057988,
+      "longitude": 14.744816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2219484"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q3670573",
+      "name_it": "chiesa di San Girolamo",
+      "name_en": "Church of San Girolamo",
+      "latitude": 43.806306,
+      "longitude": 11.288944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3670573"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3670579",
+      "name_it": "chiesa di San Girolamo alla Certosa",
+      "name_en": "chiesa di San Girolamo alla Certosa",
+      "latitude": 44.496317,
+      "longitude": 11.306446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3670579"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q3670589",
+      "name_it": "chiesa di San Giuliano",
+      "name_en": "San Giuliano",
+      "latitude": 43.7785,
+      "longitude": 11.2508,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3670589"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q54869527",
+      "name_it": "chiesa di San Liberato",
+      "name_en": "shrine of St. Liberatus",
+      "latitude": 43.04708,
+      "longitude": 13.24771,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54869527"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q126127318",
+      "name_it": "chiesa di San Lorenzo delle Serre",
+      "name_en": "San Lorenzo delle Serre",
+      "latitude": 42.328247,
+      "longitude": 13.383937,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126127318"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3585363",
+      "name_it": "chiesa di San Martino",
+      "name_en": "San Martino",
+      "latitude": 45.456471,
+      "longitude": 12.357422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3585363"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q3671176",
+      "name_it": "chiesa di San Maurelio Vescovo e Martire",
+      "name_en": "San Maurelio",
+      "latitude": 44.843121,
+      "longitude": 11.617357,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3671176"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q61525787",
+      "name_it": "chiesa di San Pietro in Verzolo",
+      "name_en": "San Pietro in Verzolo Church",
+      "latitude": 45.180604,
+      "longitude": 9.181947,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61525787"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q118390834",
+      "name_it": "chiesa di Sant'Agata",
+      "name_en": "Sant'Agata",
+      "latitude": 36.925722,
+      "longitude": 14.749361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118390834"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q3672285",
+      "name_it": "chiesa di Sant'Agostino",
+      "name_en": "Sant'Agostino, Cesena",
+      "latitude": 44.13565,
+      "longitude": 12.244044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3672285"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q3860521",
+      "name_it": "chiesa di Sant'Anna",
+      "name_en": "Sant'Anna in Camprena",
+      "latitude": 43.12864,
+      "longitude": 11.65039,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860521"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q55157191",
+      "name_it": "chiesa di Sant'Anna",
+      "name_en": "Sant'Anna",
+      "latitude": 42.955806,
+      "longitude": 12.707806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55157191"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q24883638",
+      "name_it": "chiesa di Sant'Erasmo",
+      "name_en": "Sant'Erasmo",
+      "latitude": 41.692978,
+      "longitude": 13.418602,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24883638"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q3672879",
+      "name_it": "chiesa di Sant'Uldarico",
+      "name_en": "Sant'Uldarico",
+      "latitude": 44.796889,
+      "longitude": 10.327366,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3672879"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q108015340",
+      "name_it": "chiesa di Santa Caterina d'Alessandria",
+      "name_en": "Santa Caterina d'Alessandria",
+      "latitude": 42.385633,
+      "longitude": 12.948028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108015340"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q19461213",
+      "name_it": "chiesa di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 44.714352,
+      "longitude": 11.307869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19461213"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q55178796",
+      "name_it": "chiesa di Santa Chiara del Seminario",
+      "name_en": "Santa Chiara",
+      "latitude": 43.90169,
+      "longitude": 10.69262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55178796"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q55140458",
+      "name_it": "chiesa di Santa Chiara delle Cappuccine",
+      "name_en": "Santa Chiara delle Cappuccine",
+      "latitude": 44.834393,
+      "longitude": 11.628145,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55140458"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q55087399",
+      "name_it": "chiesa di Santa Croce",
+      "name_en": "Holy Cross church",
+      "latitude": 45.799621,
+      "longitude": 11.712753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55087399"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q3673041",
+      "name_it": "chiesa di Santa Elisabetta",
+      "name_en": "Sant'Elisabetta",
+      "latitude": 44.804597,
+      "longitude": 10.332954,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3673041"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q117103490",
+      "name_it": "chiesa di Santa Elisabetta",
+      "name_en": "Church of Santa Elisabetta",
+      "latitude": 45.852098,
+      "longitude": 9.12222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117103490"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q118499698",
+      "name_it": "chiesa di Santa Lucia",
+      "name_en": "Church of Saint Lucia",
+      "latitude": 42.251529,
+      "longitude": 11.756128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118499698"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q3673661",
+      "name_it": "chiesa di Santa Maria degli Angeli",
+      "name_en": "Santa Maria degli Angeli",
+      "latitude": 44.795416,
+      "longitude": 10.327223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3673661"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q1775960",
+      "name_it": "chiesa di Santa Maria del Galeso",
+      "name_en": "",
+      "latitude": 40.5077,
+      "longitude": 17.25469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775960"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q3673873",
+      "name_it": "chiesa di Santa Maria della Neve al Portico",
+      "name_en": "Santa Maria della Neve al Portico",
+      "latitude": 43.743991,
+      "longitude": 11.229335,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3673873"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q3674029",
+      "name_it": "chiesa di Santa Maria di Castello",
+      "name_en": "Chiesa di Santa Maria di Castello",
+      "latitude": 44.40559,
+      "longitude": 8.92923,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3674029"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q1775975",
+      "name_it": "chiesa di Santa Maria in Strada",
+      "name_en": "Chiesa di Santa Maria in Strada",
+      "latitude": 44.571667,
+      "longitude": 11.158889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775975"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q1775983",
+      "name_it": "chiesa di Santo Spirito",
+      "name_en": "Santo Spirito",
+      "latitude": 42.28438,
+      "longitude": 13.49508,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775983"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q106075236",
+      "name_it": "chiesa e Convento degli Oliva",
+      "name_en": "Chiesa e Convento degli Oliva",
+      "latitude": 43.848087,
+      "longitude": 12.281339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075236"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q106077609",
+      "name_it": "chiesa e convento di San Bernardino",
+      "name_en": "Chiesa e Convento di San Bernardino",
+      "latitude": 45.010585,
+      "longitude": 9.445099,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077609"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q55165328",
+      "name_it": "chiesa e convento di San Bernardo",
+      "name_en": "Convento di San Bernardino",
+      "latitude": 45.458921,
+      "longitude": 7.875579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55165328"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q106074888",
+      "name_it": "chiesa e convento di Santa Chiara",
+      "name_en": "Chiesa e convento di Santa Chiara",
+      "latitude": 44.288607,
+      "longitude": 11.882707,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074888"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q24933742",
+      "name_it": "chiesa e convento di Santa Maria degli Angeli",
+      "name_en": "Convento di Santa Maria degli Angeli (Busseto)",
+      "latitude": 44.976694,
+      "longitude": 10.038371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24933742"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q89288716",
+      "name_it": "chiesa e monastero dei Santi Cosma e Damiano",
+      "name_en": "Saint Cosmas and Damian church in Tagliacozzo",
+      "latitude": 42.06765,
+      "longitude": 13.25005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89288716"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q106077113",
+      "name_it": "chiesa e monastero delle Agostiniane di Santa Maria Maddalena",
+      "name_en": "Chiesa e monastero delle Agostiniane di Santa Maria Maddalena",
+      "latitude": 44.157814,
+      "longitude": 11.791952,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077113"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q1722493",
+      "name_it": "chiesa e monastero di San Michele alla Verruca",
+      "name_en": "San Michele alla  Verruca",
+      "latitude": 43.70793,
+      "longitude": 10.54166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1722493"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q106074907",
+      "name_it": "chiesa e Monastero di Sant'Antonio da Padova",
+      "name_en": "Chiesa e Monastero di Sant'Antonio da Padova",
+      "latitude": 43.817635,
+      "longitude": 12.267647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074907"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q104089653",
+      "name_it": "chiesa e monastero di Santa Maria delle Grazie",
+      "name_en": "Chiesa e chiostro dell'ex Monastero di Santa Maria delle Grazie",
+      "latitude": 44.837353,
+      "longitude": 11.631466,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104089653"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q106082579",
+      "name_it": "chiesa e monastero di Santa Maria delle Grazie",
+      "name_en": "Chiesa e monastero di S. Maria delle Grazie",
+      "latitude": 44.872147,
+      "longitude": 9.974155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082579"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q88960375",
+      "name_it": "chiesa e monastero di Santa Teresa Trasverberata",
+      "name_en": "Chiesa e Monastero di Santa Teresa Trasverberata",
+      "latitude": 44.829496,
+      "longitude": 11.626727,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q88960375"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q106077133",
+      "name_it": "chiesa ed ex Convento di San Maglorio",
+      "name_en": "Chiesa ed ex Convento di San Maglorio",
+      "latitude": 44.289029,
+      "longitude": 11.881283,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077133"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q101359353",
+      "name_it": "chiesa ed ex monastero di San Fiorenzo",
+      "name_en": "",
+      "latitude": 43.111539,
+      "longitude": 12.391748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101359353"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q101358574",
+      "name_it": "chiesa ed ex monastero di Santa Teresa degli Scalzi",
+      "name_en": "Santa Teresa degli Scalzi",
+      "latitude": 43.112372,
+      "longitude": 12.384942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101358574"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q56547710",
+      "name_it": "chiesetta e monastero di Montalbo",
+      "name_en": "chiesetta e monastero di Montalbo",
+      "latitude": 40.946801,
+      "longitude": 15.788275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56547710"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q3675050",
+      "name_it": "chiostri del monastero dei Santi Severino e Sossio",
+      "name_en": "Cloisters of the Monastery of Saints Severino and Sossio",
+      "latitude": 40.848306,
+      "longitude": 14.258669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3675050"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q106048516",
+      "name_it": "chiostri di San Pietro",
+      "name_en": "Chiostri di San Pietro",
+      "latitude": 44.696234,
+      "longitude": 10.637894,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106048516"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q106075034",
+      "name_it": "chiostri Francescani",
+      "name_en": "Chiostri Francescani",
+      "latitude": 44.41647,
+      "longitude": 12.20088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075034"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q112319229",
+      "name_it": "Chiostrino del Monastero di S. Salvatore",
+      "name_en": "",
+      "latitude": 45.187838,
+      "longitude": 9.138526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319229"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q106082184",
+      "name_it": "chiostro della Badia Cavana",
+      "name_en": "Chiostro della Badia Cavana",
+      "latitude": 44.593071,
+      "longitude": 10.267624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082184"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q106077059",
+      "name_it": "chiostro e Sala Capitolare dell'ex Convento di San Giovanni Battista",
+      "name_en": "Chiostro e Sala Capitolare dell'ex Convento di San Giovanni Battista",
+      "latitude": 44.289147,
+      "longitude": 11.882547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077059"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q112319119",
+      "name_it": "Chiostro principale del Monastero di S. Salvatore",
+      "name_en": "",
+      "latitude": 45.18729,
+      "longitude": 9.138219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319119"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q51879109",
+      "name_it": "collegio dei Gesuiti",
+      "name_en": "Collegio dei Gesuiti",
+      "latitude": 46.069792,
+      "longitude": 11.120875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51879109"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q139695000",
+      "name_it": "complesso dei Santi Teresa e Giuseppe ai Ponti Rossi",
+      "name_en": "",
+      "latitude": 40.878909,
+      "longitude": 14.2627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139695000"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q568823",
+      "name_it": "complesso dell'eremo dei Camaldoli",
+      "name_en": "Hermitage of Camaldoli",
+      "latitude": 40.8582,
+      "longitude": 14.19206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q568823"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q56258379",
+      "name_it": "complesso della Riforma",
+      "name_en": "Reformation complex",
+      "latitude": 39.5967,
+      "longitude": 16.5185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258379"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q106073399",
+      "name_it": "complesso dell’Annunziata",
+      "name_en": "Ex Monastero dell'Annunziata",
+      "latitude": 44.355186,
+      "longitude": 11.70747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073399"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q131392611",
+      "name_it": "complesso di Santa Maria de' Commendatis",
+      "name_en": "",
+      "latitude": 41.037548,
+      "longitude": 14.389652,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131392611"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q50825889",
+      "name_it": "complesso di Santa Maria del Gisolo",
+      "name_en": "Santa Maria del Gisolo monastery",
+      "latitude": 44.80225,
+      "longitude": 10.082778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50825889"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q55673962",
+      "name_it": "complesso monumentale della Badia di Cava dei Tirreni",
+      "name_en": "Abbey of La Trinità della Cava",
+      "latitude": 40.682222,
+      "longitude": 14.690833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55673962"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q55109079",
+      "name_it": "Complesso monumentale di Santa Croce e Tutti i Santi",
+      "name_en": "Complesso monumentale di Santa Croce e Tutti i Santi",
+      "latitude": 44.828236,
+      "longitude": 8.681034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55109079"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q3685238",
+      "name_it": "complesso monumentale di Santa Sofia",
+      "name_en": "",
+      "latitude": 40.68077,
+      "longitude": 14.75753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3685238"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q113382849",
+      "name_it": "Complesso Santa Caterina",
+      "name_en": "Santa Caterina complex",
+      "latitude": 45.404455,
+      "longitude": 11.883827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113382849"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q65131846",
+      "name_it": "Conservatorio Santissima Annunziata",
+      "name_en": "Conservatorio Santissima Annunziata",
+      "latitude": 43.720611,
+      "longitude": 10.94575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65131846"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q133728822",
+      "name_it": "",
+      "name_en": "Convent of St. Mary of Consolation -",
+      "latitude": 40.731439,
+      "longitude": 13.964423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133728822"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q106073057",
+      "name_it": "convento degli Eremitani di San Giacomo Maggiore - Conservatorio G. B. Martini",
+      "name_en": "Convento degli Eremitani di San Giacomo Maggiore - Conservatorio G. B. Martini",
+      "latitude": 44.495268,
+      "longitude": 11.34912,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073057"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q106075132",
+      "name_it": "convento degli Eremiti di San Girolamo detto del Buon Pastore",
+      "name_en": "Convento degli Eremiti di San Girolamo detto del Buon Pastore",
+      "latitude": 44.226727,
+      "longitude": 12.038054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075132"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q28200500",
+      "name_it": "convento degli Zoccolanti",
+      "name_en": "",
+      "latitude": 44.926427,
+      "longitude": 10.238174,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28200500"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q97645449",
+      "name_it": "Convento dei Cappuccini",
+      "name_en": "Kapuzinerkloster Bozen",
+      "latitude": 46.4967,
+      "longitude": 11.352672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97645449"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q106082665",
+      "name_it": "convento dei Cappuccini",
+      "name_en": "Convento dei Cappuccini",
+      "latitude": 44.155542,
+      "longitude": 11.78753,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082665"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q138799864",
+      "name_it": "Convento dei Cappuccini",
+      "name_en": "",
+      "latitude": 44.480323,
+      "longitude": 11.005018,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138799864"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q1418198",
+      "name_it": "convento dei Cappuccini di Merano",
+      "name_en": "Kapuzinerkloster Meran",
+      "latitude": 46.673791,
+      "longitude": 11.158935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1418198"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q124467167",
+      "name_it": "",
+      "name_en": "Convento dei Capuccini",
+      "latitude": 41.00918,
+      "longitude": 16.99811,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124467167"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q125806375",
+      "name_it": "Convento dei Carmelitani",
+      "name_en": "",
+      "latitude": 36.92355,
+      "longitude": 14.733389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125806375"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q21714893",
+      "name_it": "convento dei Domenicani",
+      "name_en": "Convento dei Domenicani",
+      "latitude": 45.018914,
+      "longitude": 10.130389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21714893"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q106073850",
+      "name_it": "convento dei Domenicani",
+      "name_en": "Convento dei Domenicani",
+      "latitude": 44.930675,
+      "longitude": 10.378799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073850"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q106083125",
+      "name_it": "convento dei Frati Cappuccini",
+      "name_en": "Convento dei Frati Cappuccini",
+      "latitude": 44.127697,
+      "longitude": 12.237189,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083125"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q106083799",
+      "name_it": "convento dei Frati Cappuccini",
+      "name_en": "Convento dei Frati Cappuccini",
+      "latitude": 44.858338,
+      "longitude": 10.053156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083799"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q55139812",
+      "name_it": "convento dei Padri Cappuccini",
+      "name_en": "Kapuzinerkloster",
+      "latitude": 46.314309,
+      "longitude": 11.273287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55139812"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q124463683",
+      "name_it": "",
+      "name_en": "Convento dei Paolotti",
+      "latitude": 40.970121,
+      "longitude": 17.116163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124463683"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q3689486",
+      "name_it": "convento della Madonna del Carmine",
+      "name_en": "convento of Madonna del Carmine",
+      "latitude": 41.943273,
+      "longitude": 14.589713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689486"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q107467812",
+      "name_it": "Convento della Santissima Annunziata",
+      "name_en": "Convento della Santissima Annunziata",
+      "latitude": 44.364175,
+      "longitude": 9.888666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107467812"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q3689492",
+      "name_it": "Convento della Santissima Trinità",
+      "name_en": "Convento della Santissima Trinità",
+      "latitude": 40.74885,
+      "longitude": 14.77287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689492"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q107760022",
+      "name_it": "convento delle benedettine",
+      "name_en": "",
+      "latitude": 46.78565,
+      "longitude": 11.890628,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107760022"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q120886654",
+      "name_it": "convento delle Brignoline",
+      "name_en": "Convento delle Brignoline",
+      "latitude": 44.417675,
+      "longitude": 8.959935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120886654"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q15407872",
+      "name_it": "convento delle Clarisse di Merano",
+      "name_en": "Klarissenkloster Meran",
+      "latitude": 46.6727,
+      "longitude": 11.159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15407872"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q57981283",
+      "name_it": "Convento delle Convertite",
+      "name_en": "Convent of Santa Maria Maddalena",
+      "latitude": 45.426076,
+      "longitude": 12.321677,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57981283"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q106074673",
+      "name_it": "convento delle Monache Benedettine",
+      "name_en": "Convento delle Monache Benedettine",
+      "latitude": 43.982186,
+      "longitude": 12.423013,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074673"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q98801389",
+      "name_it": "convento delle suore inglesi e chiesa di San Giuseppe",
+      "name_en": "Kloster der Englischen Fräulein",
+      "latitude": 46.717972,
+      "longitude": 11.656389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98801389"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q106074536",
+      "name_it": "convento detto Casamento",
+      "name_en": "Convento detto Casamento",
+      "latitude": 44.658006,
+      "longitude": 10.371559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074536"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q1273696",
+      "name_it": "convento di Maria Steinach",
+      "name_en": "Maria Steinach",
+      "latitude": 46.681408,
+      "longitude": 11.12042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1273696"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q3689513",
+      "name_it": "Convento di Monte Oliveto",
+      "name_en": "Santa Maria Assunta a Monte Oliveto Minore",
+      "latitude": 43.454806,
+      "longitude": 11.047306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689513"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q105319244",
+      "name_it": "Convento di Monteripido",
+      "name_en": "San Francesco di Monteripido",
+      "latitude": 43.121255,
+      "longitude": 12.381139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105319244"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q97650740",
+      "name_it": "Convento di Pietralba",
+      "name_en": "Servite Monastery Maria Weißenstein",
+      "latitude": 46.391697,
+      "longitude": 11.412933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97650740"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q90846630",
+      "name_it": "Convento di S. Chiara Vecchia",
+      "name_en": "Santa Chiara Vecchia",
+      "latitude": 45.313469,
+      "longitude": 9.509735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q90846630"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q112318968",
+      "name_it": "Convento di S. Pietro Apostolo",
+      "name_en": "",
+      "latitude": 45.518542,
+      "longitude": 10.316934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318968"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q474122",
+      "name_it": "convento di San Domenico",
+      "name_en": "convent of San Domenico",
+      "latitude": 43.801148,
+      "longitude": 11.285327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q474122"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q3689528",
+      "name_it": "Convento di San Domenico a Taggia",
+      "name_en": "Saint Dominic monastery (Taggia)",
+      "latitude": 43.856415,
+      "longitude": 7.852104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689528"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q3689538",
+      "name_it": "convento di San Francesco",
+      "name_en": "San Francesco Convent",
+      "latitude": 43.808014,
+      "longitude": 11.289972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689538"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q3689542",
+      "name_it": "convento di San Francesco",
+      "name_en": "San Francesco",
+      "latitude": 43.09456,
+      "longitude": 11.78098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689542"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q98891963",
+      "name_it": "Convento di San Francesco",
+      "name_en": "San Francesco",
+      "latitude": 42.57917,
+      "longitude": 12.76532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98891963"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q106075014",
+      "name_it": "convento di San Francesco",
+      "name_en": "Convento di San Francesco",
+      "latitude": 43.998466,
+      "longitude": 12.433502,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075014"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q106082794",
+      "name_it": "convento di San Francesco",
+      "name_en": "Convento di San Francesco",
+      "latitude": 44.416217,
+      "longitude": 11.973159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082794"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q112942291",
+      "name_it": "Convento di San Francesco di Paola",
+      "name_en": "San Francesco di Paola (Roccabernarda)",
+      "latitude": 39.126207,
+      "longitude": 16.868949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112942291"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q106074678",
+      "name_it": "convento di San Girolamo",
+      "name_en": "Convento di San Girolamo",
+      "latitude": 43.972225,
+      "longitude": 12.694299,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074678"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q3689582",
+      "name_it": "convento di San Pasquale",
+      "name_en": "convent of San Pasquale",
+      "latitude": 42.060746,
+      "longitude": 14.426388,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689582"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q3689587",
+      "name_it": "convento di San Pietro in Colle",
+      "name_en": "",
+      "latitude": 45.51848,
+      "longitude": 10.31641,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3689587"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q106077975",
+      "name_it": "convento di San Savino",
+      "name_en": "Convento di San Savino",
+      "latitude": 45.050201,
+      "longitude": 9.701388,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077975"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q106083189",
+      "name_it": "Convento di Sant'Antonino",
+      "name_en": "Convento di Sant'Antonino",
+      "latitude": 44.282294,
+      "longitude": 11.891828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083189"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q55178148",
+      "name_it": "convento di Sant'Antonio",
+      "name_en": "Convento di Sant'Antonio",
+      "latitude": 43.817539,
+      "longitude": 12.267232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55178148"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q54870790",
+      "name_it": "convento di Sant'Antonio di Padova",
+      "name_en": "",
+      "latitude": 40.735835,
+      "longitude": 13.953423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54870790"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q106050553",
+      "name_it": "convento di Sant'Orsola",
+      "name_en": "Convento di Sant'Orsola",
+      "latitude": 44.841033,
+      "longitude": 11.617446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050553"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q106053007",
+      "name_it": "convento di Sant'Orsola",
+      "name_en": "Convento di Sant'Orsola",
+      "latitude": 44.650058,
+      "longitude": 10.928173,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106053007"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q106082486",
+      "name_it": "convento di Santa Cecilia",
+      "name_en": "Convento di Santa Cecilia",
+      "latitude": 44.287737,
+      "longitude": 11.8819,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082486"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q139554660",
+      "name_it": "convento di Santa Maria dell'Avella",
+      "name_en": "convento of Santa Maria dell'Avella",
+      "latitude": 42.143137,
+      "longitude": 14.143782,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139554660"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q76615888",
+      "name_it": "Convento di Santa Maria delle Grazie",
+      "name_en": "Convento di Santa Maria delle Grazie",
+      "latitude": 45.41142,
+      "longitude": 10.27108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q76615888"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q40827513",
+      "name_it": "convento di Santa Maria in Aracoeli",
+      "name_en": "convent of Aracoeli",
+      "latitude": 41.893447,
+      "longitude": 12.482627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q40827513"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q106082913",
+      "name_it": "convento e Chiesa dei Cappuccini",
+      "name_en": "Convento e Chiesa dei Cappuccini",
+      "latitude": 44.602545,
+      "longitude": 10.693161,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082913"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q55116723",
+      "name_it": "Convento e Chiesa della Santissima Trinità",
+      "name_en": "Convento e Chiesa della Santissima Trinità",
+      "latitude": 44.319569,
+      "longitude": 11.799885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55116723"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q106081554",
+      "name_it": "convento e Museo della Beata Vergine della Ghiara",
+      "name_en": "Convento e Museo della Beata Vergine della Ghiara",
+      "latitude": 44.69941,
+      "longitude": 10.625416,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081554"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q18424381",
+      "name_it": "convento francescano di Chieti",
+      "name_en": "Convento Francescano",
+      "latitude": 42.04404,
+      "longitude": 14.18454,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18424381"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q106060958",
+      "name_it": "convento patriarcale di San Domenico",
+      "name_en": "Convento di San Domenico",
+      "latitude": 44.489432,
+      "longitude": 11.343946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106060958"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q112318179",
+      "name_it": "Convento Santa Chiara",
+      "name_en": "",
+      "latitude": 45.81886,
+      "longitude": 10.075797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318179"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q133796475",
+      "name_it": "convento Santissima Concezione",
+      "name_en": "",
+      "latitude": 42.046991,
+      "longitude": 13.987445,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133796475"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q112317563",
+      "name_it": "Corpo del refettorio del Monastero di S. Salvatore",
+      "name_en": "",
+      "latitude": 45.187273,
+      "longitude": 9.137519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112317563"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q112319423",
+      "name_it": "Corpo nord ovest del cortile Stella del Monastero di S. Salvatore",
+      "name_en": "",
+      "latitude": 45.18792,
+      "longitude": 9.137966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319423"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q112141832",
+      "name_it": "Corte dei Ciosi",
+      "name_en": "",
+      "latitude": 45.532311,
+      "longitude": 9.404863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141832"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q3763936",
+      "name_it": "corte di Giarola",
+      "name_en": "Corte di Giarola",
+      "latitude": 44.740278,
+      "longitude": 10.174444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3763936"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q112141213",
+      "name_it": "Edicola della Madonna della Grotta",
+      "name_en": "Madonna della Grotta",
+      "latitude": 45.463567,
+      "longitude": 9.474023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141213"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q112140054",
+      "name_it": "Edifici in via Gesù 6-8",
+      "name_en": "",
+      "latitude": 45.46951,
+      "longitude": 9.195509,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140054"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q106650548",
+      "name_it": "Eremo dell'Incoronata",
+      "name_en": "Eremo dell'Incoronata",
+      "latitude": 40.97283,
+      "longitude": 14.72422,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106650548"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q1000040",
+      "name_it": "eremo delle Carceri",
+      "name_en": "Eremo delle Carceri",
+      "latitude": 43.06311,
+      "longitude": 12.65191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1000040"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q116626977",
+      "name_it": "Eremo di Calomini",
+      "name_en": "Eremo di Calomini",
+      "latitude": 44.054926,
+      "longitude": 10.407612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116626977"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q3731332",
+      "name_it": "Eremo di Ronzano",
+      "name_en": "Hermitage of Ronzano",
+      "latitude": 44.474145,
+      "longitude": 11.32249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3731332"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q113494548",
+      "name_it": "Eremo di San Salvatore",
+      "name_en": "",
+      "latitude": 41.233207,
+      "longitude": 14.193058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113494548"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q134396525",
+      "name_it": "",
+      "name_en": "Eremo Gaudio",
+      "latitude": 46.006859,
+      "longitude": 9.290038,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134396525"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q106078935",
+      "name_it": "ex abbazia di Quartazzola",
+      "name_en": "Ex Abbazia di Quartazzola",
+      "latitude": 45.025352,
+      "longitude": 9.620825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078935"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q106075324",
+      "name_it": "ex Caserma Masini",
+      "name_en": "Ex Caserma Masini",
+      "latitude": 44.13648,
+      "longitude": 12.247596,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075324"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q106087055",
+      "name_it": "ex cella monastica di San Martino",
+      "name_en": "Ex Cella Monastica di S. Martino",
+      "latitude": 44.752697,
+      "longitude": 9.378594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106087055"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q106077270",
+      "name_it": "ex Chiesa e Convento di Sant'Agostino",
+      "name_en": "Ex Chiesa e Convento di Sant'Agostino",
+      "latitude": 44.221842,
+      "longitude": 12.034555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077270"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q59522723",
+      "name_it": "ex chiesa e monastero di San Guglielmo",
+      "name_en": "Ex chiesa e monastero di San Guglielmo",
+      "latitude": 44.837863,
+      "longitude": 11.625238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59522723"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q106053002",
+      "name_it": "ex Collegio dei Padri Gesuiti",
+      "name_en": "Ex Collegio dei Padri Gesuiti",
+      "latitude": 44.645647,
+      "longitude": 10.921596,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106053002"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q114958776",
+      "name_it": "Ex Collegio delle Orfane",
+      "name_en": "",
+      "latitude": 45.323018,
+      "longitude": 8.419486,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114958776"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q111600204",
+      "name_it": "ex complesso monastico di Santa Maria del Piano",
+      "name_en": "",
+      "latitude": 43.081547,
+      "longitude": 13.490832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111600204"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q106073046",
+      "name_it": "ex Conservatorio e Chiesa di Santa Croce",
+      "name_en": "Ex Conservatorio e Chiesa di Santa Croce",
+      "latitude": 44.487482,
+      "longitude": 11.339752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073046"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q106077498",
+      "name_it": "ex Conservatorio e chiostro delle Maestre Luigine",
+      "name_en": "Ex Conservatorio e chiostro delle Maestre Luigine",
+      "latitude": 44.800298,
+      "longitude": 10.336828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077498"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q106082264",
+      "name_it": "ex Convento",
+      "name_en": "Ex Convento",
+      "latitude": 44.28725,
+      "longitude": 11.60699,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082264"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q55137332",
+      "name_it": "ex convento cistercense",
+      "name_en": "Ex Convento Cistercense",
+      "latitude": 45.37909,
+      "longitude": 9.33664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55137332"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q106050552",
+      "name_it": "ex convento dei benedettini",
+      "name_en": "Ex convento dei benedettini",
+      "latitude": 44.842855,
+      "longitude": 11.613884,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050552"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q106061084",
+      "name_it": "ex convento dei Canonici Lateranensi di San Salvatore",
+      "name_en": "Ex convento dei Canonici Lateranensi di San Salvatore",
+      "latitude": 44.493797,
+      "longitude": 11.338568,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106061084"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q1775914",
+      "name_it": "ex Convento dei Cappuccini",
+      "name_en": "Convento dei cappuccini",
+      "latitude": 40.633056,
+      "longitude": 14.597222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775914"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q91915302",
+      "name_it": "ex convento dei Domenicani",
+      "name_en": "Convent of the Dominicans",
+      "latitude": 45.958531,
+      "longitude": 12.660506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q91915302"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q106075206",
+      "name_it": "ex Convento dei Filippini",
+      "name_en": "Ex Convento dei Filippini",
+      "latitude": 44.287628,
+      "longitude": 11.880437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075206"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q106052722",
+      "name_it": "ex Convento dei Frati Minimi di San Francesco di Paola",
+      "name_en": "Ex Convento dei Frati Minimi di San Francesco di Paola",
+      "latitude": 44.645697,
+      "longitude": 10.922188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106052722"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q106046627",
+      "name_it": "ex Convento dei Gesuiti",
+      "name_en": "Ex Convento dei Gesuiti",
+      "latitude": 44.887984,
+      "longitude": 11.069318,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046627"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q106078218",
+      "name_it": "ex Convento dei Serviti",
+      "name_en": "Ex Convento dei Serviti",
+      "latitude": 45.059352,
+      "longitude": 9.430707,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078218"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q106050596",
+      "name_it": "ex Convento dei Teatini",
+      "name_en": "Ex Convento dei Teatini",
+      "latitude": 44.836954,
+      "longitude": 11.622104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050596"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q106073390",
+      "name_it": "ex Convento del Buon Pastore",
+      "name_en": "Ex Convento del Buon Pastore",
+      "latitude": 44.351621,
+      "longitude": 11.716355,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073390"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q106061260",
+      "name_it": "ex Convento delle Carmelitane Scalze",
+      "name_en": "Ex Convento delle Carmelitane Scalze",
+      "latitude": 44.486425,
+      "longitude": 11.353701,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106061260"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q106073036",
+      "name_it": "ex convento delle Suore del Pozzo Rosso",
+      "name_en": "Ex convento delle Suore del Pozzo Rosso",
+      "latitude": 44.486972,
+      "longitude": 11.349085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073036"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q106074008",
+      "name_it": "ex Convento di Montefalcone",
+      "name_en": "Ex Convento di Montefalcone",
+      "latitude": 44.633587,
+      "longitude": 10.450511,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074008"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q106079007",
+      "name_it": "ex Convento di San Bartolomeo",
+      "name_en": "Ex Convento di San Bartolomeo",
+      "latitude": 45.0564,
+      "longitude": 9.686657,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106079007"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q106083369",
+      "name_it": "ex convento di San Benedetto",
+      "name_en": "Ex convento di San Benedetto",
+      "latitude": 44.803,
+      "longitude": 10.336312,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083369"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q106078227",
+      "name_it": "ex Convento di San Bernardo",
+      "name_en": "Ex Convento di San Bernardo",
+      "latitude": 45.053139,
+      "longitude": 9.686948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078227"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q106061359",
+      "name_it": "ex convento di San Bernardo",
+      "name_en": "",
+      "latitude": 44.487375,
+      "longitude": 11.345333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106061359"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q106075068",
+      "name_it": "ex convento di San Biagio",
+      "name_en": "Ex convento di San Biagio",
+      "latitude": 44.137611,
+      "longitude": 12.247962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075068"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q89891871",
+      "name_it": "ex convento di San Francesco",
+      "name_en": "Former convent of Saint Francis",
+      "latitude": 45.9558,
+      "longitude": 12.661289,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89891871"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q106046490",
+      "name_it": "ex Convento di San Francesco",
+      "name_en": "Ex Convento di San Francesco",
+      "latitude": 44.888198,
+      "longitude": 11.067901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046490"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q106080249",
+      "name_it": "ex Convento di San Francesco",
+      "name_en": "Ex Convento di San Francesco",
+      "latitude": 44.92838,
+      "longitude": 9.909168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080249"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q116971245",
+      "name_it": "Ex convento di San Francesco di Paola",
+      "name_en": "Ex convento di San Francesco di Paola",
+      "latitude": 39.082107,
+      "longitude": 17.117881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116971245"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q106074680",
+      "name_it": "ex Convento di San Giovanni Battista",
+      "name_en": "Ex Convento di San Giovanni Battista",
+      "latitude": 44.289133,
+      "longitude": 11.882256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074680"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q106050554",
+      "name_it": "ex Convento di San Girolamo",
+      "name_en": "Ex Convento di San Girolamo",
+      "latitude": 44.831555,
+      "longitude": 11.62766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050554"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q106077262",
+      "name_it": "ex convento di San Girolamo",
+      "name_en": "Ex convento di San Girolamo",
+      "latitude": 44.074621,
+      "longitude": 12.326557,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077262"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q106081818",
+      "name_it": "ex Convento di San Maglorio",
+      "name_en": "Ex Convento di San Maglorio",
+      "latitude": 44.289936,
+      "longitude": 11.881055,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081818"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q106082226",
+      "name_it": "ex Convento di San Mattia",
+      "name_en": "Ex Convento di San Mattia",
+      "latitude": 44.493614,
+      "longitude": 11.333834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082226"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q99867690",
+      "name_it": "ex convento di San Mercuriale",
+      "name_en": "",
+      "latitude": 43.933553,
+      "longitude": 10.917205,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99867690"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q106044806",
+      "name_it": "ex Convento di San Nicolò",
+      "name_en": "Ex Convento di San Nicolò",
+      "latitude": 44.837349,
+      "longitude": 11.614918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106044806"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q106078824",
+      "name_it": "ex Convento di San Sisto",
+      "name_en": "Ex Convento di San Sisto",
+      "latitude": 45.056178,
+      "longitude": 9.693723,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078824"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q106078962",
+      "name_it": "ex Convento di Sant'Anna",
+      "name_en": "Ex Convento di Sant'Anna",
+      "latitude": 45.047647,
+      "longitude": 9.7018,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078962"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q106050600",
+      "name_it": "ex Convento di Sant'Apollonia",
+      "name_en": "Ex Convento di Sant'Apollonia",
+      "latitude": 44.826994,
+      "longitude": 11.626389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050600"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q106079005",
+      "name_it": "ex Convento di Sant'Eufemia",
+      "name_en": "Ex Convento di Sant'Eufemia",
+      "latitude": 45.055349,
+      "longitude": 9.690883,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106079005"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q106046510",
+      "name_it": "ex convento di Santa Chiara",
+      "name_en": "Ex convento di Santa Chiara",
+      "latitude": 44.832458,
+      "longitude": 11.292716,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046510"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q55167019",
+      "name_it": "ex convento di Santa Chiara",
+      "name_en": "",
+      "latitude": 43.843667,
+      "longitude": 10.510889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55167019"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q106082871",
+      "name_it": "ex Convento di Santa Maria della Carità",
+      "name_en": "Ex Convento di Santa Maria della Carità",
+      "latitude": 44.497703,
+      "longitude": 11.331237,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082871"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q106077858",
+      "name_it": "ex convento di Santa Maria di Campagna",
+      "name_en": "Ex Convento di S. Maria di Campagna",
+      "latitude": 45.056845,
+      "longitude": 9.680233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077858"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q105859052",
+      "name_it": "Ex convento di Santa Maria di Valmarina",
+      "name_en": "Santa Maria in Valmarina",
+      "latitude": 45.722707,
+      "longitude": 9.649142,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105859052"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q96196268",
+      "name_it": "ex Convento di Santa Maria Maddalena",
+      "name_en": "Santa Maria Maddalena",
+      "latitude": 42.61316,
+      "longitude": 12.54575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96196268"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q123679937",
+      "name_it": "ex Convento di Santa Teresa",
+      "name_en": "ex Convento di Santa Teresa",
+      "latitude": 42.353091,
+      "longitude": 13.394742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123679937"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q106044807",
+      "name_it": "ex Convento di Santo Spirito",
+      "name_en": "Ex Convento di Santo Spirito",
+      "latitude": 44.837927,
+      "longitude": 11.627731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106044807"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q106073273",
+      "name_it": "ex convento ora Hotel Monte del Re",
+      "name_en": "Ex convento ora Hotel Monte del Re",
+      "latitude": 44.357205,
+      "longitude": 11.598705,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073273"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q106034346",
+      "name_it": "ex Convivio e Chiesa dei Ronchi",
+      "name_en": "Ex Convivio e Chiesa dei Ronchi",
+      "latitude": 44.67045,
+      "longitude": 11.322293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106034346"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q106052576",
+      "name_it": "ex Manifattura Tabacchi",
+      "name_en": "Ex Manifattura Tabacchi",
+      "latitude": 44.651483,
+      "longitude": 10.927816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106052576"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q106050917",
+      "name_it": "ex Monastero benedettino di San Pietro",
+      "name_en": "Ex Monastero benedettino di San Pietro",
+      "latitude": 44.642004,
+      "longitude": 10.928027,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106050917"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q106080254",
+      "name_it": "ex monastero camaldolese - Biblioteca Classense",
+      "name_en": "Ex monastero camaldolese - Biblioteca Classense",
+      "latitude": 44.414285,
+      "longitude": 12.199997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080254"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q15720574",
+      "name_it": "ex monastero del Corpus Domini",
+      "name_en": "Corpus Domini, Bologna",
+      "latitude": 44.489091,
+      "longitude": 11.339719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15720574"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q106046514",
+      "name_it": "ex Monastero del Corpus Domini",
+      "name_en": "Ex Monastero del Corpus Domini",
+      "latitude": 44.642608,
+      "longitude": 10.926212,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046514"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q3735858",
+      "name_it": "ex monastero della Santissima Concezione",
+      "name_en": "",
+      "latitude": 43.774789,
+      "longitude": 11.246806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735858"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q3735857",
+      "name_it": "ex monastero della Santissima Trinità",
+      "name_en": "Santissima Trinità",
+      "latitude": 43.679803,
+      "longitude": 10.853536,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735857"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q106073654",
+      "name_it": "ex Monastero delle Grazie",
+      "name_en": "Ex Monastero delle Grazie",
+      "latitude": 44.701024,
+      "longitude": 10.628088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073654"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q106052896",
+      "name_it": "ex monastero di San Geminiano",
+      "name_en": "Ex monastero di San Geminiano",
+      "latitude": 44.643571,
+      "longitude": 10.926234,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106052896"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q56261521",
+      "name_it": "ex monastero di San Michele",
+      "name_en": "Saint Michael's Monastery",
+      "latitude": 45.60031,
+      "longitude": 8.75213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56261521"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q106044813",
+      "name_it": "ex Monastero di San Paolo",
+      "name_en": "Ex Monastero di San Paolo",
+      "latitude": 44.8346,
+      "longitude": 11.617797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106044813"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q106073064",
+      "name_it": "ex monastero di San Procolo",
+      "name_en": "former monastery of St. Proculus of Bologna",
+      "latitude": 44.489231,
+      "longitude": 11.340614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073064"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q30063100",
+      "name_it": "ex monastero di San Vittore",
+      "name_en": "ex monastery of San Vittore",
+      "latitude": 45.912078,
+      "longitude": 9.321471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30063100"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q112155696",
+      "name_it": "ex monastero di Santa Franca",
+      "name_en": "monastero di Santa Franca",
+      "latitude": 45.049218,
+      "longitude": 9.691425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112155696"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q3735795",
+      "name_it": "Ex monastero di Santa Maria della Croce",
+      "name_en": "Town hall of Modugno",
+      "latitude": 41.082313,
+      "longitude": 16.78104,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735795"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q3735862",
+      "name_it": "ex monastero di Santa Teresa",
+      "name_en": "former church of Santa Teresa",
+      "latitude": 43.771517,
+      "longitude": 11.268314,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735862"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q3735864",
+      "name_it": "ex monastero di Santa Verdiana",
+      "name_en": "Santa Verdiana former monastery",
+      "latitude": 43.769972,
+      "longitude": 11.267947,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735864"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q106049805",
+      "name_it": "ex ospedale Carri",
+      "name_en": "Ex ospedale Carri",
+      "latitude": 44.904624,
+      "longitude": 10.626002,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106049805"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q106048511",
+      "name_it": "ex Ospedale Psichiatrico Giudiziario",
+      "name_en": "Ex Ospedale Psichiatrico Giudiziario",
+      "latitude": 44.698368,
+      "longitude": 10.625582,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106048511"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q106075144",
+      "name_it": "ex Seminario Vescovile",
+      "name_en": "Ex Seminario Vescovile",
+      "latitude": 44.157776,
+      "longitude": 11.789149,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075144"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q3735773",
+      "name_it": "ex-monastero di San Silvestro",
+      "name_en": "",
+      "latitude": 43.775467,
+      "longitude": 11.265431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3735773"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q57340799",
+      "name_it": "foresteria della badia di San Gemolo",
+      "name_en": "forestery of San Gemolo Abbey",
+      "latitude": 45.902383,
+      "longitude": 8.822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57340799"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q1450332",
+      "name_it": "",
+      "name_en": "Franciscan Friary Innichen",
+      "latitude": 46.733552,
+      "longitude": 12.279187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1450332"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q1450304",
+      "name_it": "",
+      "name_en": "Franziskanerkloster Brixen",
+      "latitude": 46.711707,
+      "longitude": 11.658752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1450304"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q139554586",
+      "name_it": "Grangia di San Giorgio",
+      "name_en": "Grangia di San Giorgio",
+      "latitude": 42.222014,
+      "longitude": 14.035018,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139554586"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q107077121",
+      "name_it": "Istituto delle suore inglesi",
+      "name_en": "Institut der Englischen Fräulein",
+      "latitude": 46.669826,
+      "longitude": 11.165047,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107077121"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q125339154",
+      "name_it": "Istituto femminile Santa Chiara",
+      "name_en": "Istituto Santa Chiara",
+      "latitude": 43.0512,
+      "longitude": 10.89059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125339154"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q112173145",
+      "name_it": "Istituto geriatrico Camillo Golgi",
+      "name_en": "",
+      "latitude": 45.39711,
+      "longitude": 8.915732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112173145"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q112319907",
+      "name_it": "Istituto geriatrico Camillo Golgi",
+      "name_en": "",
+      "latitude": 45.397144,
+      "longitude": 8.916151,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319907"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q112140726",
+      "name_it": "Istituto Magistrale Isabella d'Este",
+      "name_en": "",
+      "latitude": 45.152321,
+      "longitude": 10.790795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140726"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q106092206",
+      "name_it": "istituto Musicale Vecchi Tonelli",
+      "name_en": "Istituto Musicale Vecchi Tonelli",
+      "latitude": 44.785562,
+      "longitude": 10.888196,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106092206"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q106046495",
+      "name_it": "istituto paritario Sacro Cuore e oratorio Eden",
+      "name_en": "Istituto paritario Sacro Cuore e oratorio Eden",
+      "latitude": 44.786269,
+      "longitude": 10.884399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046495"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q106075237",
+      "name_it": "istituto Salesiano",
+      "name_en": "Istituto Salesiano",
+      "latitude": 44.283668,
+      "longitude": 11.882946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075237"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q1450338",
+      "name_it": "",
+      "name_en": "Kaltern Friary",
+      "latitude": 46.412824,
+      "longitude": 11.244013,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1450338"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q14942775",
+      "name_it": "",
+      "name_en": "Kapuzinerkloster",
+      "latitude": 46.638811,
+      "longitude": 11.56327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14942775"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q98831516",
+      "name_it": "",
+      "name_en": "Kapuzinerkloster",
+      "latitude": 46.6153,
+      "longitude": 11.14658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98831516"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q98034248",
+      "name_it": "",
+      "name_en": "Kapuzinerkloster Brixen",
+      "latitude": 46.712922,
+      "longitude": 11.659347,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98034248"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q1734512",
+      "name_it": "",
+      "name_en": "Kartause Allerengelberg",
+      "latitude": 46.705132,
+      "longitude": 10.910001,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1734512"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q1744458",
+      "name_it": "",
+      "name_en": "Klarissenkloster Brixen",
+      "latitude": 46.711736,
+      "longitude": 11.658209,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1744458"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q106082477",
+      "name_it": "La Cisterna",
+      "name_en": "La Cisterna",
+      "latitude": 44.219626,
+      "longitude": 11.318141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082477"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q112137560",
+      "name_it": "La Filanda",
+      "name_en": "",
+      "latitude": 45.528975,
+      "longitude": 9.276985,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137560"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q98608775",
+      "name_it": "",
+      "name_en": "Lanegg",
+      "latitude": 46.60915,
+      "longitude": 11.15089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98608775"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q1775966",
+      "name_it": "Madonna dello Sterpeto",
+      "name_en": "",
+      "latitude": 41.303611,
+      "longitude": 16.314444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775966"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q334033",
+      "name_it": "",
+      "name_en": "Mariengarten Abbey",
+      "latitude": 46.47066,
+      "longitude": 11.265031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q334033"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q123438066",
+      "name_it": "monastero benedettino",
+      "name_en": "Benedectine monastery",
+      "latitude": 38.46922,
+      "longitude": 14.95696,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123438066"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q120824417",
+      "name_it": "monastero Benedettino di San Giovanni Battista",
+      "name_en": "",
+      "latitude": 41.643536,
+      "longitude": 13.47007,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120824417"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q112173016",
+      "name_it": "Monastero Bernaga Superiore",
+      "name_en": "",
+      "latitude": 45.734759,
+      "longitude": 9.35367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112173016"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q31841211",
+      "name_it": "Monastero Cistercense Dominus Tecum",
+      "name_en": "",
+      "latitude": 44.734708,
+      "longitude": 7.252897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31841211"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q3860414",
+      "name_it": "monastero degli Olivetani",
+      "name_en": "Monastero degli Olivetani",
+      "latitude": 45.064472,
+      "longitude": 11.797194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860414"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q3860413",
+      "name_it": "monastero degli Olivetani",
+      "name_en": "Olivetani Monastery",
+      "latitude": 45.554103,
+      "longitude": 8.970756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860413"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q3860412",
+      "name_it": "monastero degli Olivetani di Lecce",
+      "name_en": "Monastero degli Olivetani",
+      "latitude": 40.362172,
+      "longitude": 18.165467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860412"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q30245217",
+      "name_it": "monastero degli Umiliati",
+      "name_en": "",
+      "latitude": 46.084694,
+      "longitude": 9.312611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30245217"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q3860415",
+      "name_it": "monastero degli Zoccolanti",
+      "name_en": "",
+      "latitude": 40.7893,
+      "longitude": 14.3659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860415"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q3860416",
+      "name_it": "monastero dei Carmelitani",
+      "name_en": "",
+      "latitude": 40.349431,
+      "longitude": 18.167163,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860416"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q64698518",
+      "name_it": "Monastero dei celestini",
+      "name_en": "Monastery of the Celestines",
+      "latitude": 41.686147,
+      "longitude": 15.379803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64698518"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q16579266",
+      "name_it": "Monastero dei Francescani",
+      "name_en": "Monastero dei Francescani",
+      "latitude": 40.116736,
+      "longitude": 16.606781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579266"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q3860419",
+      "name_it": "monastero dei Santi Gervasio e Protasio",
+      "name_en": "Monastero dei Santi Gervasio e Protasio",
+      "latitude": 46.13671,
+      "longitude": 12.19948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860419"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q3860420",
+      "name_it": "monastero dei Santi Pietro e Paolo",
+      "name_en": "Priorato cluniacense dei S. S. Pietro e Paolo",
+      "latitude": 45.6854,
+      "longitude": 9.2929,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860420"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q67445976",
+      "name_it": "monastero dei Santi Pietro e Paolo",
+      "name_en": "Saints Peter and Paul Monastery",
+      "latitude": 45.311528,
+      "longitude": 9.594838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67445976"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q112318490",
+      "name_it": "Monastero dei SS. Pietro e Paolo",
+      "name_en": "",
+      "latitude": 45.164596,
+      "longitude": 9.583433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318490"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q3860421",
+      "name_it": "monastero dei Teatini",
+      "name_en": "",
+      "latitude": 40.352788,
+      "longitude": 18.169569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860421"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q3860422",
+      "name_it": "monastero dei Tre Fanciulli",
+      "name_en": "Monastero dei Tre Fanciulli",
+      "latitude": 39.220517,
+      "longitude": 16.764241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860422"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q28668287",
+      "name_it": "monastero del Ceppo",
+      "name_en": "",
+      "latitude": 43.782014,
+      "longitude": 11.260272,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28668287"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q121362697",
+      "name_it": "Monastero del Corpo di Cristo",
+      "name_en": "",
+      "latitude": 40.843028,
+      "longitude": 14.785472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121362697"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q3860423",
+      "name_it": "monastero del Corpus Domini",
+      "name_en": "Corpus Domini Monastery",
+      "latitude": 44.831972,
+      "longitude": 11.626322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860423"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q112143043",
+      "name_it": "Monastero del Lentasio (resti)",
+      "name_en": "Monastero del Lentasio",
+      "latitude": 45.458881,
+      "longitude": 9.191158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143043"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q106080206",
+      "name_it": "Monastero del santuario della Beata Vergine dell'Olmo",
+      "name_en": "Monastero delle Suore Mantellate del Secondo Ordine dei Servi di Maria",
+      "latitude": 44.701127,
+      "longitude": 10.45539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080206"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q112172775",
+      "name_it": "Monastero del Senatore (resti)",
+      "name_en": "",
+      "latitude": 45.185431,
+      "longitude": 9.152498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172775"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q29899898",
+      "name_it": "monastero del Soccorso",
+      "name_en": "",
+      "latitude": 37.100911,
+      "longitude": 13.939783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29899898"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q106081612",
+      "name_it": "monastero dell'Abbazia di Santa Maria in Porto",
+      "name_en": "Monastero dell'Abbazia di Santa Maria in Porto",
+      "latitude": 44.413758,
+      "longitude": 12.206262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081612"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q136396173",
+      "name_it": "monastero dell'abbazia di Viboldone",
+      "name_en": "",
+      "latitude": 45.386045,
+      "longitude": 9.277807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136396173"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q3860426",
+      "name_it": "monastero dell'Angelo",
+      "name_en": "Convento dell'Angelo",
+      "latitude": 43.92544,
+      "longitude": 10.53649,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860426"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q106075032",
+      "name_it": "monastero dell'Annunziata",
+      "name_en": "Monastero dell'Annunziata",
+      "latitude": 44.086476,
+      "longitude": 11.746543,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075032"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q3860427",
+      "name_it": "monastero dell'Arcangelo Raffaello",
+      "name_en": "Arcangelo Raffaello former monastery",
+      "latitude": 43.770447,
+      "longitude": 11.240939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860427"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q112319384",
+      "name_it": "Monastero dell'Arsana",
+      "name_en": "",
+      "latitude": 45.54775,
+      "longitude": 10.381459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319384"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q112173180",
+      "name_it": "Monastero dell'Ordine della Visitazione di S. Maria",
+      "name_en": "",
+      "latitude": 45.733631,
+      "longitude": 9.726665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112173180"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q112318342",
+      "name_it": "Monastero dell'Ordine della Visitazione di S. Maria",
+      "name_en": "",
+      "latitude": 45.733631,
+      "longitude": 9.726665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318342"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q124152504",
+      "name_it": "monastero della Badia di Sant'Agata",
+      "name_en": "monastery of Badia of Sant'Agata",
+      "latitude": 37.503019,
+      "longitude": 15.088782,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124152504"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q112173507",
+      "name_it": "Monastero della Beata Vergine del Lavello (complesso)",
+      "name_en": "Monastery of Beata Vergine del Lavello (complex)",
+      "latitude": 45.791078,
+      "longitude": 9.431286,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112173507"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q110601639",
+      "name_it": "Monastero della Certosa",
+      "name_en": "Monastero della Certosa",
+      "latitude": 45.155631,
+      "longitude": 10.737739,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110601639"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q3860428",
+      "name_it": "monastero della Crocetta",
+      "name_en": "Convento della Crocetta",
+      "latitude": 43.775739,
+      "longitude": 11.263968,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860428"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q63980830",
+      "name_it": "monastero della Dormizione di Maria",
+      "name_en": "Monastery of the Dormition of Mary (Rome)",
+      "latitude": 41.873484,
+      "longitude": 12.411543,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63980830"
+    },
+    {
+      "id": 326,
+      "wikidata_id": "Q95469487",
+      "name_it": "Monastero della Ginestra (Montevarchi)",
+      "name_en": "La Ginestra Monastery",
+      "latitude": 43.519539,
+      "longitude": 11.570169,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q95469487"
+    },
+    {
+      "id": 327,
+      "wikidata_id": "Q3860429",
+      "name_it": "monastero della Santa Croce",
+      "name_en": "",
+      "latitude": 43.618578,
+      "longitude": 11.472558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860429"
+    },
+    {
+      "id": 328,
+      "wikidata_id": "Q97366064",
+      "name_it": "Monastero della Santa Trinità",
+      "name_en": "Monastero della Santa Trinità",
+      "latitude": 45.07491,
+      "longitude": 7.35846,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97366064"
+    },
+    {
+      "id": 329,
+      "wikidata_id": "Q3860434",
+      "name_it": "monastero della Santissima Annunziata",
+      "name_en": "Santissima Annunziata",
+      "latitude": 43.6214,
+      "longitude": 11.2004,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860434"
+    },
+    {
+      "id": 330,
+      "wikidata_id": "Q3860433",
+      "name_it": "monastero della Santissima Annunziata",
+      "name_en": "Santissima Annunziata",
+      "latitude": 37.566591,
+      "longitude": 14.89686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860433"
+    },
+    {
+      "id": 331,
+      "wikidata_id": "Q3860431",
+      "name_it": "monastero della Santissima Annunziata",
+      "name_en": "",
+      "latitude": 42.760031,
+      "longitude": 11.111569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860431"
+    },
+    {
+      "id": 332,
+      "wikidata_id": "Q120897817",
+      "name_it": "monastero della Santissima Annunziata e Incarnazione",
+      "name_en": "Monastero della Santissima Annunziata e Incarnazione",
+      "latitude": 44.498734,
+      "longitude": 8.912495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120897817"
+    },
+    {
+      "id": 333,
+      "wikidata_id": "Q3860436",
+      "name_it": "monastero della Santissima Trinità",
+      "name_en": "Monastero della Santissima Trinità",
+      "latitude": 37.502333,
+      "longitude": 15.080222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860436"
+    },
+    {
+      "id": 334,
+      "wikidata_id": "Q3860438",
+      "name_it": "monastero della Santissima Trinità e santa Mustiola a Torri",
+      "name_en": "Santa Mustiola",
+      "latitude": 43.233064,
+      "longitude": 11.2203,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860438"
+    },
+    {
+      "id": 335,
+      "wikidata_id": "Q106074877",
+      "name_it": "monastero della Torre e Chiesa di Santa Maria della Ripa",
+      "name_en": "Monastero della Torre e Chiesa di Santa Maria della Ripa",
+      "latitude": 44.225951,
+      "longitude": 12.033415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074877"
+    },
+    {
+      "id": 336,
+      "wikidata_id": "Q55178987",
+      "name_it": "monastero della Trinità",
+      "name_en": "Chiesa della SS. Trinità",
+      "latitude": 37.807914,
+      "longitude": 14.093839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55178987"
+    },
+    {
+      "id": 337,
+      "wikidata_id": "Q29899905",
+      "name_it": "monastero della Visitazione di Santa Maria",
+      "name_en": "Monastero della Visitazione",
+      "latitude": 45.4571,
+      "longitude": 9.19224,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29899905"
+    },
+    {
+      "id": 338,
+      "wikidata_id": "Q80079000",
+      "name_it": "monastero della Visitazione di Santa Maria",
+      "name_en": "",
+      "latitude": 45.76243,
+      "longitude": 8.55815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80079000"
+    },
+    {
+      "id": 339,
+      "wikidata_id": "Q121142602",
+      "name_it": "monastero della Visitazione di Santa Maria",
+      "name_en": "",
+      "latitude": 45.313333,
+      "longitude": 9.921742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121142602"
+    },
+    {
+      "id": 340,
+      "wikidata_id": "Q55174301",
+      "name_it": "monastero delle benedettine",
+      "name_en": "Monastero delle Benedettine",
+      "latitude": 37.1917,
+      "longitude": 13.76147,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55174301"
+    },
+    {
+      "id": 341,
+      "wikidata_id": "Q3860443",
+      "name_it": "monastero delle Camaldolesi",
+      "name_en": "Santissima Annunziata",
+      "latitude": 43.723202,
+      "longitude": 11.768494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860443"
+    },
+    {
+      "id": 342,
+      "wikidata_id": "Q130318035",
+      "name_it": "Monastero delle Carmelitane",
+      "name_en": "",
+      "latitude": 37.575937,
+      "longitude": 15.087184,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130318035"
+    },
+    {
+      "id": 343,
+      "wikidata_id": "Q16579269",
+      "name_it": "monastero delle Carmelitane Scalze di Ripacandida",
+      "name_en": "Monastero delle Carmelitane Scalze di Ripacandida",
+      "latitude": 40.910868,
+      "longitude": 15.723298,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579269"
+    },
+    {
+      "id": 344,
+      "wikidata_id": "Q130567789",
+      "name_it": "Monastero delle Carmelitane Scalze Mater Salvatoris",
+      "name_en": "Mater Salvatoris monastery",
+      "latitude": 40.30644,
+      "longitude": 9.33012,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130567789"
+    },
+    {
+      "id": 345,
+      "wikidata_id": "Q3860448",
+      "name_it": "monastero delle Clarisse",
+      "name_en": "Ex Monastero delle Clarisse",
+      "latitude": 41.287064,
+      "longitude": 14.563639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860448"
+    },
+    {
+      "id": 346,
+      "wikidata_id": "Q3860449",
+      "name_it": "monastero delle Clarisse",
+      "name_en": "Clarisse",
+      "latitude": 44.169917,
+      "longitude": 9.612328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860449"
+    },
+    {
+      "id": 347,
+      "wikidata_id": "Q3860450",
+      "name_it": "monastero delle Clarisse",
+      "name_en": "Clarisse",
+      "latitude": 44.348067,
+      "longitude": 9.235578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860450"
+    },
+    {
+      "id": 348,
+      "wikidata_id": "Q139570900",
+      "name_it": "Monastero delle Clarisse",
+      "name_en": "Monastery of the Poor Clares",
+      "latitude": 38.037781,
+      "longitude": 12.587489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139570900"
+    },
+    {
+      "id": 349,
+      "wikidata_id": "Q106083935",
+      "name_it": "monastero delle Clarisse",
+      "name_en": "Monastero delle Clarisse",
+      "latitude": 44.206999,
+      "longitude": 10.795356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083935"
+    },
+    {
+      "id": 350,
+      "wikidata_id": "Q106082413",
+      "name_it": "monastero delle Clarisse e Chiesa di Santa Maria",
+      "name_en": "Monastero delle Clarisse e Chiesa di Santa Maria",
+      "latitude": 43.865106,
+      "longitude": 12.208856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082413"
+    },
+    {
+      "id": 351,
+      "wikidata_id": "Q112142778",
+      "name_it": "Monastero delle Figlie del Sacro Cuore",
+      "name_en": "",
+      "latitude": 45.506665,
+      "longitude": 8.943955,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142778"
+    },
+    {
+      "id": 352,
+      "wikidata_id": "Q80127793",
+      "name_it": "monastero delle Figlie della Carità",
+      "name_en": "",
+      "latitude": 45.68586,
+      "longitude": 8.33749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80127793"
+    },
+    {
+      "id": 353,
+      "wikidata_id": "Q3860451",
+      "name_it": "monastero delle Murate",
+      "name_en": "Monastero delle Murate",
+      "latitude": 43.769094,
+      "longitude": 11.268686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860451"
+    },
+    {
+      "id": 354,
+      "wikidata_id": "Q56285687",
+      "name_it": "monastero delle Passioniste",
+      "name_en": "",
+      "latitude": 45.74141,
+      "longitude": 8.86079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56285687"
+    },
+    {
+      "id": 355,
+      "wikidata_id": "Q56418952",
+      "name_it": "monastero delle Romite Ambrosiane",
+      "name_en": "",
+      "latitude": 46.03152,
+      "longitude": 8.77552,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56418952"
+    },
+    {
+      "id": 356,
+      "wikidata_id": "Q16579272",
+      "name_it": "monastero delle Santucce",
+      "name_en": "Santucce",
+      "latitude": 43.770606,
+      "longitude": 11.26313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579272"
+    },
+    {
+      "id": 357,
+      "wikidata_id": "Q3860453",
+      "name_it": "monastero delle Suore Domenicane dello Spirito Santo",
+      "name_en": "",
+      "latitude": 43.795558,
+      "longitude": 11.261097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860453"
+    },
+    {
+      "id": 358,
+      "wikidata_id": "Q106083541",
+      "name_it": "monastero delle Suore Domenicane e Chiesa di San Domenico",
+      "name_en": "Monastero delle Suore Domenicane e Chiesa di San Domenico",
+      "latitude": 44.249937,
+      "longitude": 10.716869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083541"
+    },
+    {
+      "id": 359,
+      "wikidata_id": "Q112141241",
+      "name_it": "Monastero delle Suore Orsoline",
+      "name_en": "",
+      "latitude": 45.359713,
+      "longitude": 9.325409,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141241"
+    },
+    {
+      "id": 360,
+      "wikidata_id": "Q122151833",
+      "name_it": "monastero delle Visitadine",
+      "name_en": "",
+      "latitude": 43.842889,
+      "longitude": 10.512278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122151833"
+    },
+    {
+      "id": 361,
+      "wikidata_id": "Q3860457",
+      "name_it": "monastero di Astino",
+      "name_en": "Astino Monastery",
+      "latitude": 45.7075,
+      "longitude": 9.64,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860457"
+    },
+    {
+      "id": 362,
+      "wikidata_id": "Q112318265",
+      "name_it": "Monastero di Calvenzano",
+      "name_en": "",
+      "latitude": 45.360116,
+      "longitude": 9.343937,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318265"
+    },
+    {
+      "id": 363,
+      "wikidata_id": "Q3860456",
+      "name_it": "monastero di Camaldoli",
+      "name_en": "Monastero di Camaldoli",
+      "latitude": 43.793489,
+      "longitude": 11.820589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860456"
+    },
+    {
+      "id": 364,
+      "wikidata_id": "Q1775106",
+      "name_it": "Monastero di Casalvolone",
+      "name_en": "Monastero di Casalvolone",
+      "latitude": 45.4,
+      "longitude": 8.466667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775106"
+    },
+    {
+      "id": 365,
+      "wikidata_id": "Q25444358",
+      "name_it": "monastero di Cristo Re",
+      "name_en": "Monastery of Christ the King in Rome",
+      "latitude": 41.881861,
+      "longitude": 12.483444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25444358"
+    },
+    {
+      "id": 366,
+      "wikidata_id": "Q978549",
+      "name_it": "monastero di Fonte Avellana",
+      "name_en": "Monastery of Fonte Avellana",
+      "latitude": 43.47136,
+      "longitude": 12.72657,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q978549"
+    },
+    {
+      "id": 367,
+      "wikidata_id": "Q136030515",
+      "name_it": "monastero di Maria Santissima Assunta",
+      "name_en": "",
+      "latitude": 40.856609,
+      "longitude": 14.223336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136030515"
+    },
+    {
+      "id": 368,
+      "wikidata_id": "Q54871261",
+      "name_it": "monastero di Montebello",
+      "name_en": "",
+      "latitude": 43.736849,
+      "longitude": 12.782994,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54871261"
+    },
+    {
+      "id": 369,
+      "wikidata_id": "Q31839041",
+      "name_it": "Monastero di Montevergine",
+      "name_en": "",
+      "latitude": 37.155478,
+      "longitude": 15.029447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31839041"
+    },
+    {
+      "id": 370,
+      "wikidata_id": "Q3860463",
+      "name_it": "monastero di Nostra Signora della Guardia",
+      "name_en": "",
+      "latitude": 44.5523,
+      "longitude": 8.93704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860463"
+    },
+    {
+      "id": 371,
+      "wikidata_id": "Q54863954",
+      "name_it": "monastero di S. Chiara",
+      "name_en": "",
+      "latitude": 43.225824,
+      "longitude": 13.174621,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54863954"
+    },
+    {
+      "id": 372,
+      "wikidata_id": "Q54870408",
+      "name_it": "monastero di S. Chiara",
+      "name_en": "",
+      "latitude": 43.16039,
+      "longitude": 13.711958,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54870408"
+    },
+    {
+      "id": 373,
+      "wikidata_id": "Q112172855",
+      "name_it": "Monastero di S. Genesio",
+      "name_en": "",
+      "latitude": 45.758781,
+      "longitude": 9.395368,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112172855"
+    },
+    {
+      "id": 374,
+      "wikidata_id": "Q112318368",
+      "name_it": "Monastero di S. Giulia",
+      "name_en": "",
+      "latitude": 45.539444,
+      "longitude": 10.22808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318368"
+    },
+    {
+      "id": 375,
+      "wikidata_id": "Q54870412",
+      "name_it": "monastero di S. Giuseppe",
+      "name_en": "",
+      "latitude": 43.265966,
+      "longitude": 13.34887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54870412"
+    },
+    {
+      "id": 376,
+      "wikidata_id": "Q113955569",
+      "name_it": "Monastero di S. Maria dell'Appennino",
+      "name_en": "",
+      "latitude": 43.296542,
+      "longitude": 12.810799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113955569"
+    },
+    {
+      "id": 377,
+      "wikidata_id": "Q3860467",
+      "name_it": "monastero di San Benedetto",
+      "name_en": "San Benedetto, Bergamo",
+      "latitude": 45.696938,
+      "longitude": 9.663982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860467"
+    },
+    {
+      "id": 378,
+      "wikidata_id": "Q19545428",
+      "name_it": "monastero di San Benedetto",
+      "name_en": "Abbazia di S. Benedetto",
+      "latitude": 37.274676,
+      "longitude": 14.794064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19545428"
+    },
+    {
+      "id": 379,
+      "wikidata_id": "Q62067430",
+      "name_it": "Monastero di San Benedetto",
+      "name_en": "Monastero di San Benedetto",
+      "latitude": 45.470326,
+      "longitude": 9.209869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62067430"
+    },
+    {
+      "id": 380,
+      "wikidata_id": "Q136221697",
+      "name_it": "Monastero di San Benedetto",
+      "name_en": "",
+      "latitude": 37.503485,
+      "longitude": 15.084714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136221697"
+    },
+    {
+      "id": 381,
+      "wikidata_id": "Q16579277",
+      "name_it": "monastero di San Benedetto al Mugnone",
+      "name_en": "San Benedetto al Mugnone",
+      "latitude": 43.782381,
+      "longitude": 11.272464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579277"
+    },
+    {
+      "id": 382,
+      "wikidata_id": "Q122151835",
+      "name_it": "monastero di San Benedetto e Santa scolastica",
+      "name_en": "",
+      "latitude": 43.846167,
+      "longitude": 10.508861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122151835"
+    },
+    {
+      "id": 383,
+      "wikidata_id": "Q3860470",
+      "name_it": "monastero di San Bernardino",
+      "name_en": "San Bernardino",
+      "latitude": 44.315926,
+      "longitude": 9.329935,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860470"
+    },
+    {
+      "id": 384,
+      "wikidata_id": "Q17636575",
+      "name_it": "monastero di San Bernardino",
+      "name_en": "San Bernardino Caravaggio",
+      "latitude": 45.492753,
+      "longitude": 9.640811,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17636575"
+    },
+    {
+      "id": 385,
+      "wikidata_id": "Q3860473",
+      "name_it": "monastero di San Bruzio",
+      "name_en": "San Bruzio",
+      "latitude": 42.588111,
+      "longitude": 11.301667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860473"
+    },
+    {
+      "id": 386,
+      "wikidata_id": "Q3860475",
+      "name_it": "monastero di San Clemente",
+      "name_en": "San Clemente",
+      "latitude": 43.78236,
+      "longitude": 11.26102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860475"
+    },
+    {
+      "id": 387,
+      "wikidata_id": "Q3860476",
+      "name_it": "monastero di San Clemente",
+      "name_en": "Monastero di San Clemente",
+      "latitude": 43.882364,
+      "longitude": 11.093158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860476"
+    },
+    {
+      "id": 388,
+      "wikidata_id": "Q106078842",
+      "name_it": "monastero di San Colombano",
+      "name_en": "Monastero di San Colombano",
+      "latitude": 44.767488,
+      "longitude": 9.384764,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106078842"
+    },
+    {
+      "id": 389,
+      "wikidata_id": "Q3860477",
+      "name_it": "monastero di San Cristoforo a Rofeno",
+      "name_en": "San Cristoforo a Rofeno",
+      "latitude": 43.242058,
+      "longitude": 11.50945,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860477"
+    },
+    {
+      "id": 390,
+      "wikidata_id": "Q3860478",
+      "name_it": "monastero di San Daniele",
+      "name_en": "Monastero di San Daniele in Monte",
+      "latitude": 45.344796,
+      "longitude": 11.763348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860478"
+    },
+    {
+      "id": 391,
+      "wikidata_id": "Q20009789",
+      "name_it": "Monastero di San Filippo il Grande",
+      "name_en": "",
+      "latitude": 38.163764,
+      "longitude": 15.513824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20009789"
+    },
+    {
+      "id": 392,
+      "wikidata_id": "Q25411091",
+      "name_it": "monastero di San Francesco di Paola",
+      "name_en": "Badia Nuova",
+      "latitude": 37.98019,
+      "longitude": 12.96836,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25411091"
+    },
+    {
+      "id": 393,
+      "wikidata_id": "Q29899910",
+      "name_it": "monastero di San Giorgio",
+      "name_en": "Monastero di S. Giorgio",
+      "latitude": 37.88002,
+      "longitude": 14.95233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29899910"
+    },
+    {
+      "id": 394,
+      "wikidata_id": "Q3860488",
+      "name_it": "monastero di San Giovanni evangelista",
+      "name_en": "San Giovanni Evangelista",
+      "latitude": 43.7889,
+      "longitude": 11.7194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860488"
+    },
+    {
+      "id": 395,
+      "wikidata_id": "Q16579283",
+      "name_it": "monastero di San Giovanni evangelista",
+      "name_en": "Saint John the Evangelist Abbey",
+      "latitude": 45.495278,
+      "longitude": 12.416111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579283"
+    },
+    {
+      "id": 396,
+      "wikidata_id": "Q3860485",
+      "name_it": "monastero di San Giovanni Evangelista di Boldrone",
+      "name_en": "San Giovanni Evangelista di Boldrone",
+      "latitude": 43.8145,
+      "longitude": 11.2399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860485"
+    },
+    {
+      "id": 397,
+      "wikidata_id": "Q121142440",
+      "name_it": "monastero di San Giuseppe in S. Sigismondo",
+      "name_en": "",
+      "latitude": 45.125539,
+      "longitude": 10.053839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121142440"
+    },
+    {
+      "id": 398,
+      "wikidata_id": "Q42532385",
+      "name_it": "monastero di San Giustiniano di Falesia",
+      "name_en": "Monastero di San Giustiniano di Falesia",
+      "latitude": 42.93458,
+      "longitude": 10.54262,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42532385"
+    },
+    {
+      "id": 399,
+      "wikidata_id": "Q4301504",
+      "name_it": "Monastero di San Lazzaro",
+      "name_en": "Monastery of San Lazzaro degli Armeni",
+      "latitude": 45.41229,
+      "longitude": 12.36126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4301504"
+    },
+    {
+      "id": 400,
+      "wikidata_id": "Q3860491",
+      "name_it": "monastero di San Leone da Pannacchio",
+      "name_en": "",
+      "latitude": 37.657,
+      "longitude": 14.9795,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860491"
+    },
+    {
+      "id": 401,
+      "wikidata_id": "Q3860408",
+      "name_it": "monastero di San Liberatore",
+      "name_en": "",
+      "latitude": 42.896378,
+      "longitude": 13.153379,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860408"
+    },
+    {
+      "id": 402,
+      "wikidata_id": "Q112139777",
+      "name_it": "monastero di San Lorenzo",
+      "name_en": "",
+      "latitude": 45.614973,
+      "longitude": 9.372295,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139777"
+    },
+    {
+      "id": 403,
+      "wikidata_id": "Q3860496",
+      "name_it": "monastero di San Luca",
+      "name_en": "Monastero di San Luca",
+      "latitude": 40.639443,
+      "longitude": 15.807559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860496"
+    },
+    {
+      "id": 404,
+      "wikidata_id": "Q28669614",
+      "name_it": "monastero di San Luca",
+      "name_en": "",
+      "latitude": 43.780964,
+      "longitude": 11.259608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28669614"
+    },
+    {
+      "id": 405,
+      "wikidata_id": "Q118983836",
+      "name_it": "Monastero di San Magno",
+      "name_en": "",
+      "latitude": 42.559333,
+      "longitude": 12.413417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118983836"
+    },
+    {
+      "id": 406,
+      "wikidata_id": "Q3860495",
+      "name_it": "monastero di San Mamiliano",
+      "name_en": "San Mamiliano monastery",
+      "latitude": 42.33763,
+      "longitude": 10.30215,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860495"
+    },
+    {
+      "id": 407,
+      "wikidata_id": "Q25396109",
+      "name_it": "Monastero di San Mattia",
+      "name_en": "San Mattia",
+      "latitude": 45.460499,
+      "longitude": 12.355429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25396109"
+    },
+    {
+      "id": 408,
+      "wikidata_id": "Q87824312",
+      "name_it": "monastero di San Michele Arcangelo",
+      "name_en": "monastero di San Michele Arcangelo",
+      "latitude": 41.776068,
+      "longitude": 13.943408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87824312"
+    },
+    {
+      "id": 409,
+      "wikidata_id": "Q16579286",
+      "name_it": "monastero di San Niccolò di Cafaggio",
+      "name_en": "Monastery of San Niccolò di Cafaggio",
+      "latitude": 43.776377,
+      "longitude": 11.258529,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579286"
+    },
+    {
+      "id": 410,
+      "wikidata_id": "Q64943202",
+      "name_it": "Monastero di San Nicola",
+      "name_en": "San Nicola monastery",
+      "latitude": 41.559569,
+      "longitude": 14.976154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64943202"
+    },
+    {
+      "id": 411,
+      "wikidata_id": "Q3860497",
+      "name_it": "monastero di San Nicola di Casole",
+      "name_en": "Monastero di S. Nicola di Casole",
+      "latitude": 40.120028,
+      "longitude": 18.496111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860497"
+    },
+    {
+      "id": 412,
+      "wikidata_id": "Q20007345",
+      "name_it": "monastero di San Nicolao",
+      "name_en": "monastery of San Nicolao",
+      "latitude": 45.53226,
+      "longitude": 9.23969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20007345"
+    },
+    {
+      "id": 413,
+      "wikidata_id": "Q3860498",
+      "name_it": "monastero di San Nicolò l'Arena",
+      "name_en": "Monastery of San Nicolò l'Arena (Nicolosi)",
+      "latitude": 37.630944,
+      "longitude": 15.022306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860498"
+    },
+    {
+      "id": 414,
+      "wikidata_id": "Q122151838",
+      "name_it": "monastero di San Pancrazio",
+      "name_en": "",
+      "latitude": 43.905139,
+      "longitude": 10.558417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122151838"
+    },
+    {
+      "id": 415,
+      "wikidata_id": "Q3860500",
+      "name_it": "monastero di San Paolo",
+      "name_en": "San Paolo, Parma",
+      "latitude": 44.804775,
+      "longitude": 10.328961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860500"
+    },
+    {
+      "id": 416,
+      "wikidata_id": "Q135048784",
+      "name_it": "Monastero di San Pietro al monte",
+      "name_en": "",
+      "latitude": 45.834963,
+      "longitude": 9.319172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135048784"
+    },
+    {
+      "id": 417,
+      "wikidata_id": "Q130633774",
+      "name_it": "Monastero di San Pietro di Sorres",
+      "name_en": "",
+      "latitude": 40.520163,
+      "longitude": 8.749243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130633774"
+    },
+    {
+      "id": 418,
+      "wikidata_id": "Q3860505",
+      "name_it": "monastero di San Pietro in Lamosa",
+      "name_en": "Monastero di San Pietro in Lamosa",
+      "latitude": 45.639373,
+      "longitude": 10.038376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860505"
+    },
+    {
+      "id": 419,
+      "wikidata_id": "Q3860506",
+      "name_it": "monastero di San Pietro in Palazzuolo",
+      "name_en": "San Pietro in Palazzuolo",
+      "latitude": 43.165347,
+      "longitude": 10.736627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860506"
+    },
+    {
+      "id": 420,
+      "wikidata_id": "Q3860501",
+      "name_it": "monastero di San Pietro Martire",
+      "name_en": "",
+      "latitude": 43.763439,
+      "longitude": 11.243464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860501"
+    },
+    {
+      "id": 421,
+      "wikidata_id": "Q20165220",
+      "name_it": "monastero di San Placido Calonerò",
+      "name_en": "Monastero di San Placido Calonerò",
+      "latitude": 38.078084,
+      "longitude": 15.487768,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20165220"
+    },
+    {
+      "id": 422,
+      "wikidata_id": "Q138095139",
+      "name_it": "monastero di San Prospero",
+      "name_en": "San Prospero",
+      "latitude": 44.352094,
+      "longitude": 9.155294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138095139"
+    },
+    {
+      "id": 423,
+      "wikidata_id": "Q30881002",
+      "name_it": "monastero di San Quirico",
+      "name_en": "Monastero di San Quirico",
+      "latitude": 42.973601,
+      "longitude": 10.497871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30881002"
+    },
+    {
+      "id": 424,
+      "wikidata_id": "Q3860510",
+      "name_it": "monastero di San Salvatore",
+      "name_en": "San Salvatore",
+      "latitude": 45.186786,
+      "longitude": 9.138014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860510"
+    },
+    {
+      "id": 425,
+      "wikidata_id": "Q3860508",
+      "name_it": "monastero di San Salvatore",
+      "name_en": "San Salvatore a Fontebona",
+      "latitude": 43.347547,
+      "longitude": 11.551549,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860508"
+    },
+    {
+      "id": 426,
+      "wikidata_id": "Q3860509",
+      "name_it": "monastero di San Salvatore",
+      "name_en": "Monastero di San Salvatore",
+      "latitude": 46.039444,
+      "longitude": 10.353333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860509"
+    },
+    {
+      "id": 427,
+      "wikidata_id": "Q3860511",
+      "name_it": "monastero di San Salvatore",
+      "name_en": "",
+      "latitude": 44.563961,
+      "longitude": 8.989219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860511"
+    },
+    {
+      "id": 428,
+      "wikidata_id": "Q3860512",
+      "name_it": "monastero di San Salvatore a Soffena",
+      "name_en": "San Salvatore a Soffena",
+      "latitude": 43.621365,
+      "longitude": 11.559162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860512"
+    },
+    {
+      "id": 429,
+      "wikidata_id": "Q113557520",
+      "name_it": "Monastero di San Salvatore di Placa",
+      "name_en": "Monastery of San Salvatore di Placa",
+      "latitude": 37.915442,
+      "longitude": 15.100944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113557520"
+    },
+    {
+      "id": 430,
+      "wikidata_id": "Q51164",
+      "name_it": "monastero di San Teonisto",
+      "name_en": "monastery of San Teonisto",
+      "latitude": 45.3641,
+      "longitude": 11.7351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51164"
+    },
+    {
+      "id": 431,
+      "wikidata_id": "Q120833042",
+      "name_it": "monastero di San Vigilio",
+      "name_en": "Saint Vigilius monastery",
+      "latitude": 45.406931,
+      "longitude": 10.597074,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120833042"
+    },
+    {
+      "id": 432,
+      "wikidata_id": "Q14940656",
+      "name_it": "monastero di San Vincenzo",
+      "name_en": "San Vincenzo (Bassano Romano)",
+      "latitude": 42.224702,
+      "longitude": 12.178692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14940656"
+    },
+    {
+      "id": 433,
+      "wikidata_id": "Q43743671",
+      "name_it": "monastero di San Vittorino",
+      "name_en": "San Vittorino",
+      "latitude": 41.129732,
+      "longitude": 14.778596,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43743671"
+    },
+    {
+      "id": 434,
+      "wikidata_id": "Q54871569",
+      "name_it": "monastero di San Zita",
+      "name_en": "",
+      "latitude": 43.526811,
+      "longitude": 13.439349,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54871569"
+    },
+    {
+      "id": 435,
+      "wikidata_id": "Q106083192",
+      "name_it": "Monastero di Sant'Agostino",
+      "name_en": "Monastero di Sant'Agostino",
+      "latitude": 44.283365,
+      "longitude": 11.880216,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083192"
+    },
+    {
+      "id": 436,
+      "wikidata_id": "Q106082243",
+      "name_it": "monastero di Sant'Agostino sede del Museo civico archeologico",
+      "name_en": "Monastero di Sant'Agostino sede del Museo civico archeologico",
+      "latitude": 43.985013,
+      "longitude": 12.419155,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082243"
+    },
+    {
+      "id": 437,
+      "wikidata_id": "Q134510089",
+      "name_it": "",
+      "name_en": "Monastero di Sant'Ambrogio",
+      "latitude": 43.35888,
+      "longitude": 12.57653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134510089"
+    },
+    {
+      "id": 438,
+      "wikidata_id": "Q3860517",
+      "name_it": "monastero di Sant'Angelo alla Ginestra",
+      "name_en": "",
+      "latitude": 43.519378,
+      "longitude": 11.570797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860517"
+    },
+    {
+      "id": 439,
+      "wikidata_id": "Q3860520",
+      "name_it": "monastero di Sant'Anna",
+      "name_en": "Monastero di Sant'Anna",
+      "latitude": 40.749478,
+      "longitude": 14.638864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860520"
+    },
+    {
+      "id": 440,
+      "wikidata_id": "Q66762802",
+      "name_it": "Monastero di Sant'Anna de aquis vivis",
+      "name_en": "Monastero di Sant'Anna de aquis vivis",
+      "latitude": 41.144781,
+      "longitude": 13.880389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66762802"
+    },
+    {
+      "id": 441,
+      "wikidata_id": "Q3860523",
+      "name_it": "monastero di Sant'Antonio",
+      "name_en": "Sant'Antonio",
+      "latitude": 45.494528,
+      "longitude": 12.421889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860523"
+    },
+    {
+      "id": 442,
+      "wikidata_id": "Q20009235",
+      "name_it": "monastero di Sant'Antonio abate",
+      "name_en": "",
+      "latitude": 40.62019,
+      "longitude": 15.05438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20009235"
+    },
+    {
+      "id": 443,
+      "wikidata_id": "Q16579292",
+      "name_it": "monastero di Sant'Antonio di Vienne",
+      "name_en": "monastero di Sant'Antonio di Vienne",
+      "latitude": 43.778861,
+      "longitude": 11.250201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579292"
+    },
+    {
+      "id": 444,
+      "wikidata_id": "Q3860525",
+      "name_it": "monastero di Sant'Antonio in Polesine",
+      "name_en": "Chiesa e Monastero di Sant'Antonio in Polesine",
+      "latitude": 44.826667,
+      "longitude": 11.624444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860525"
+    },
+    {
+      "id": 445,
+      "wikidata_id": "Q106083627",
+      "name_it": "monastero di Sant'Apollinare in Veclo",
+      "name_en": "Monastero di Sant'Apollinare in Veclo",
+      "latitude": 44.421239,
+      "longitude": 12.198667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083627"
+    },
+    {
+      "id": 446,
+      "wikidata_id": "Q101358121",
+      "name_it": "Monastero di Sant'Elia",
+      "name_en": "Monastery of Sant'Elia",
+      "latitude": 42.0458,
+      "longitude": 12.9973,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101358121"
+    },
+    {
+      "id": 447,
+      "wikidata_id": "Q29899893",
+      "name_it": "monastero di Sant'Elia vecchio",
+      "name_en": "Old Sant'Elia monastery",
+      "latitude": 38.82475,
+      "longitude": 16.33175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29899893"
+    },
+    {
+      "id": 448,
+      "wikidata_id": "Q123437928",
+      "name_it": "monastero di Sant'Eugenio",
+      "name_en": "Sant'Eugenio",
+      "latitude": 43.29986,
+      "longitude": 11.313338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123437928"
+    },
+    {
+      "id": 449,
+      "wikidata_id": "Q3860528",
+      "name_it": "monastero di Sant'Orsola",
+      "name_en": "Monastery of Saint Ursula",
+      "latitude": 43.7772,
+      "longitude": 11.2545,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860528"
+    },
+    {
+      "id": 450,
+      "wikidata_id": "Q3860526",
+      "name_it": "monastero di Santa Caterina",
+      "name_en": "Town hall of Cefalù",
+      "latitude": 38.03964,
+      "longitude": 14.02187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860526"
+    },
+    {
+      "id": 451,
+      "wikidata_id": "Q3860527",
+      "name_it": "monastero di Santa Caterina",
+      "name_en": "monastero di Santa Caterina",
+      "latitude": 43.879856,
+      "longitude": 11.092889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860527"
+    },
+    {
+      "id": 452,
+      "wikidata_id": "Q98089766",
+      "name_it": "Monastero di Santa Caterina",
+      "name_en": "Monastero di Santa Caterina",
+      "latitude": 43.11833,
+      "longitude": 12.386732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98089766"
+    },
+    {
+      "id": 453,
+      "wikidata_id": "Q124080186",
+      "name_it": "monastero di Santa Caterina",
+      "name_en": "monastery at Santa Caterina",
+      "latitude": 38.115617,
+      "longitude": 13.363093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124080186"
+    },
+    {
+      "id": 454,
+      "wikidata_id": "Q20007935",
+      "name_it": "Monastero di Santa Caterina d'Alessandria",
+      "name_en": "Nunnery of Saint Catherine",
+      "latitude": 43.722866,
+      "longitude": 12.636565,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20007935"
+    },
+    {
+      "id": 455,
+      "wikidata_id": "Q3860529",
+      "name_it": "monastero di Santa Caterina della Rota",
+      "name_en": "Santa Caterina della Rota",
+      "latitude": 43.26125,
+      "longitude": 11.041583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860529"
+    },
+    {
+      "id": 456,
+      "wikidata_id": "Q3860531",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 44.78564,
+      "longitude": 10.88376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860531"
+    },
+    {
+      "id": 457,
+      "wikidata_id": "Q3860534",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 40.7425,
+      "longitude": 14.629044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860534"
+    },
+    {
+      "id": 458,
+      "wikidata_id": "Q3860535",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 43.676738,
+      "longitude": 10.844546,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860535"
+    },
+    {
+      "id": 459,
+      "wikidata_id": "Q3860533",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara Monastery",
+      "latitude": 44.4066,
+      "longitude": 8.97639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860533"
+    },
+    {
+      "id": 460,
+      "wikidata_id": "Q47249184",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 42.04714,
+      "longitude": 13.926093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47249184"
+    },
+    {
+      "id": 461,
+      "wikidata_id": "Q60477505",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Monastero di Santa Chiara",
+      "latitude": 44.921667,
+      "longitude": 10.228917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60477505"
+    },
+    {
+      "id": 462,
+      "wikidata_id": "Q106083559",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Monastero di Santa Chiara",
+      "latitude": 44.287095,
+      "longitude": 11.887376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083559"
+    },
+    {
+      "id": 463,
+      "wikidata_id": "Q111320478",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "Santa Chiara",
+      "latitude": 44.008409,
+      "longitude": 8.170334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111320478"
+    },
+    {
+      "id": 464,
+      "wikidata_id": "Q54870316",
+      "name_it": "Monastero di Santa Chiara",
+      "name_en": "",
+      "latitude": 43.434345,
+      "longitude": 13.351166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54870316"
+    },
+    {
+      "id": 465,
+      "wikidata_id": "Q111469282",
+      "name_it": "Monastero di Santa Chiara",
+      "name_en": "",
+      "latitude": 40.82922,
+      "longitude": 14.84489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111469282"
+    },
+    {
+      "id": 466,
+      "wikidata_id": "Q135925756",
+      "name_it": "monastero di Santa Chiara",
+      "name_en": "",
+      "latitude": 42.987145,
+      "longitude": 13.607197,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135925756"
+    },
+    {
+      "id": 467,
+      "wikidata_id": "Q54863682",
+      "name_it": "Monastero di Santa Chiara di Camerino",
+      "name_en": "Santa Chiara Monastery",
+      "latitude": 43.139133,
+      "longitude": 13.073023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54863682"
+    },
+    {
+      "id": 468,
+      "wikidata_id": "Q112110243",
+      "name_it": "Monastero di Santa Cristina",
+      "name_en": "Monastero di Santa Cristina",
+      "latitude": 45.156944,
+      "longitude": 9.395833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112110243"
+    },
+    {
+      "id": 469,
+      "wikidata_id": "Q3860540",
+      "name_it": "monastero di Santa Croce",
+      "name_en": "Monastero di Santa Croce",
+      "latitude": 44.986703,
+      "longitude": 11.414528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860540"
+    },
+    {
+      "id": 470,
+      "wikidata_id": "Q51790877",
+      "name_it": "monastero di Santa Croce",
+      "name_en": "Monastero di Santa Croce",
+      "latitude": 45.882035,
+      "longitude": 11.03774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q51790877"
+    },
+    {
+      "id": 471,
+      "wikidata_id": "Q3860541",
+      "name_it": "monastero di Santa Croce del Corvo",
+      "name_en": "Santa Croce del Corvo",
+      "latitude": 44.043411,
+      "longitude": 9.981989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860541"
+    },
+    {
+      "id": 472,
+      "wikidata_id": "Q3860542",
+      "name_it": "monastero di Santa Giulia",
+      "name_en": "Monastery of Santa Giulia",
+      "latitude": 45.539581,
+      "longitude": 10.229353,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860542"
+    },
+    {
+      "id": 473,
+      "wikidata_id": "Q28668286",
+      "name_it": "monastero di Santa Lucia a Camporeggi",
+      "name_en": "",
+      "latitude": 43.780964,
+      "longitude": 11.259608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28668286"
+    },
+    {
+      "id": 474,
+      "wikidata_id": "Q118150359",
+      "name_it": "monastero di Santa Margherita",
+      "name_en": "",
+      "latitude": 45.323812,
+      "longitude": 8.424674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118150359"
+    },
+    {
+      "id": 475,
+      "wikidata_id": "Q16579295",
+      "name_it": "monastero di Santa Margherita delle Romite di Cafaggiolo",
+      "name_en": "",
+      "latitude": 43.77514,
+      "longitude": 11.261093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16579295"
+    },
+    {
+      "id": 476,
+      "wikidata_id": "Q3860544",
+      "name_it": "monastero di Santa Maria",
+      "name_en": "Monastero di Santa Maria",
+      "latitude": 43.132216,
+      "longitude": 11.7436,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860544"
+    },
+    {
+      "id": 477,
+      "wikidata_id": "Q3860545",
+      "name_it": "monastero di Santa Maria",
+      "name_en": "Santa Maria",
+      "latitude": 39.190306,
+      "longitude": 8.474694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860545"
+    },
+    {
+      "id": 478,
+      "wikidata_id": "Q113754108",
+      "name_it": "Monastero di Santa Maria",
+      "name_en": "Monastero di Santa Maria",
+      "latitude": 44.649881,
+      "longitude": 7.351437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113754108"
+    },
+    {
+      "id": 479,
+      "wikidata_id": "Q3860548",
+      "name_it": "monastero di Santa Maria a Rosano",
+      "name_en": "Monastero di Santa Maria a Rosano",
+      "latitude": 43.769814,
+      "longitude": 11.422172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860548"
+    },
+    {
+      "id": 480,
+      "wikidata_id": "Q25308063",
+      "name_it": "monastero di Santa Maria Assunta",
+      "name_en": "Santa Maria Assunta (Castione Marchesi)",
+      "latitude": 44.911403,
+      "longitude": 10.033861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25308063"
+    },
+    {
+      "id": 481,
+      "wikidata_id": "Q78456499",
+      "name_it": "monastero di Santa Maria Assunta",
+      "name_en": "monastero di Santa Maria Assunta",
+      "latitude": 45.691057,
+      "longitude": 8.872639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q78456499"
+    },
+    {
+      "id": 482,
+      "wikidata_id": "Q3860549",
+      "name_it": "monastero di Santa Maria del Latte",
+      "name_en": "Santa Maria del Latte",
+      "latitude": 43.522047,
+      "longitude": 11.568175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860549"
+    },
+    {
+      "id": 483,
+      "wikidata_id": "Q1775776",
+      "name_it": "monastero di Santa Maria del Piave",
+      "name_en": "",
+      "latitude": 45.821389,
+      "longitude": 12.310833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1775776"
+    },
+    {
+      "id": 484,
+      "wikidata_id": "Q3860410",
+      "name_it": "monastero di Santa Maria del Rogato",
+      "name_en": "",
+      "latitude": 38.011361,
+      "longitude": 14.693722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860410"
+    },
+    {
+      "id": 485,
+      "wikidata_id": "Q106440396",
+      "name_it": "Monastero di Santa Maria del Soccorso",
+      "name_en": "Monastero di Santa Maria del Soccorso",
+      "latitude": 40.825516,
+      "longitude": 16.552671,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106440396"
+    },
+    {
+      "id": 486,
+      "wikidata_id": "Q86668653",
+      "name_it": "Monastero di Santa Maria dell'Aspro",
+      "name_en": "",
+      "latitude": 40.362978,
+      "longitude": 15.826918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86668653"
+    },
+    {
+      "id": 487,
+      "wikidata_id": "Q3860551",
+      "name_it": "monastero di Santa Maria della Consolazione",
+      "name_en": "Martano Monastery",
+      "latitude": 40.213611,
+      "longitude": 18.310556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860551"
+    },
+    {
+      "id": 488,
+      "wikidata_id": "Q3860552",
+      "name_it": "monastero di Santa Maria della Giustizia",
+      "name_en": "Monastery of Santa Maria della Giustizia",
+      "latitude": 40.489768,
+      "longitude": 17.190374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860552"
+    },
+    {
+      "id": 489,
+      "wikidata_id": "Q139378083",
+      "name_it": "monastero di Santa Maria della Rocchetta",
+      "name_en": "",
+      "latitude": 44.653806,
+      "longitude": 10.079028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139378083"
+    },
+    {
+      "id": 490,
+      "wikidata_id": "Q3860554",
+      "name_it": "monastero di Santa Maria della Valle",
+      "name_en": "",
+      "latitude": 38.212778,
+      "longitude": 15.514722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860554"
+    },
+    {
+      "id": 491,
+      "wikidata_id": "Q3860555",
+      "name_it": "monastero di Santa Maria delle Cacce",
+      "name_en": "Santa Maria delle Cacce",
+      "latitude": 45.184444,
+      "longitude": 9.161944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860555"
+    },
+    {
+      "id": 492,
+      "wikidata_id": "Q3860556",
+      "name_it": "Monastero di Santa Maria di Betlem",
+      "name_en": "Santa Maria di Betlem",
+      "latitude": 42.935833,
+      "longitude": 12.726667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860556"
+    },
+    {
+      "id": 493,
+      "wikidata_id": "Q3860557",
+      "name_it": "monastero di Santa Maria di Colonna",
+      "name_en": "Monastero di Santa Maria di Colonna",
+      "latitude": 41.270854,
+      "longitude": 16.441764,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860557"
+    },
+    {
+      "id": 494,
+      "wikidata_id": "Q107315532",
+      "name_it": "Monastero di Santa Maria di Costantinopoli",
+      "name_en": "",
+      "latitude": 40.374514,
+      "longitude": 15.824669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107315532"
+    },
+    {
+      "id": 495,
+      "wikidata_id": "Q3860559",
+      "name_it": "monastero di Santa Maria di Monteverde",
+      "name_en": "",
+      "latitude": 41.501609,
+      "longitude": 14.639915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860559"
+    },
+    {
+      "id": 496,
+      "wikidata_id": "Q56294660",
+      "name_it": "Monastero di Santa Maria di Rifesi",
+      "name_en": "Santa Maria di Rifesi Monastery",
+      "latitude": 37.608197,
+      "longitude": 13.344219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56294660"
+    },
+    {
+      "id": 497,
+      "wikidata_id": "Q123351550",
+      "name_it": "monastero di Santa Maria di Vigesimo",
+      "name_en": "Santa Maria di Vigesimo monastery",
+      "latitude": 44.00302,
+      "longitude": 11.23208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123351550"
+    },
+    {
+      "id": 498,
+      "wikidata_id": "Q55673957",
+      "name_it": "monastero di Santa Maria la Nova",
+      "name_en": "Santa Maria la Nova",
+      "latitude": 40.925385,
+      "longitude": 14.530182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55673957"
+    },
+    {
+      "id": 499,
+      "wikidata_id": "Q3860569",
+      "name_it": "monastero di Santa Maria Maddalena dei Pazzi",
+      "name_en": "Monastery of Saint Mary Magdalene of Pazzi",
+      "latitude": 43.8117,
+      "longitude": 11.26,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860569"
+    },
+    {
+      "id": 500,
+      "wikidata_id": "Q3860547",
+      "name_it": "Monastero di Santa Maria Teodote",
+      "name_en": "Monastery of Santa Maria Teodote",
+      "latitude": 45.185556,
+      "longitude": 9.149444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860547"
+    },
+    {
+      "id": 501,
+      "wikidata_id": "Q3860561",
+      "name_it": "monastero di Santa Marta",
+      "name_en": "Monastero di Santa Marta",
+      "latitude": 43.799881,
+      "longitude": 11.256708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860561"
+    },
+    {
+      "id": 502,
+      "wikidata_id": "Q3860563",
+      "name_it": "monastero di Santa Radegonda",
+      "name_en": "Saint Radegonda monastery",
+      "latitude": 45.4651,
+      "longitude": 9.19213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860563"
+    },
+    {
+      "id": 503,
+      "wikidata_id": "Q38257865",
+      "name_it": "monastero di Santa Rita da Cascia",
+      "name_en": "Monastero di S. Rita (Cascia, Italy)",
+      "latitude": 42.718584,
+      "longitude": 13.010291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38257865"
+    },
+    {
+      "id": 504,
+      "wikidata_id": "Q3860562",
+      "name_it": "monastero di Santa Teresa",
+      "name_en": "Santa Teresa",
+      "latitude": 44.318031,
+      "longitude": 8.475561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860562"
+    },
+    {
+      "id": 505,
+      "wikidata_id": "Q139554826",
+      "name_it": "Monastero di Santa Teresa",
+      "name_en": "Monastery of Santa Teresa",
+      "latitude": 38.039311,
+      "longitude": 12.58765,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139554826"
+    },
+    {
+      "id": 506,
+      "wikidata_id": "Q125704976",
+      "name_it": "monastero di Santa Zita",
+      "name_en": "",
+      "latitude": 43.527199,
+      "longitude": 13.440347,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125704976"
+    },
+    {
+      "id": 507,
+      "wikidata_id": "Q3860564",
+      "name_it": "monastero di Santo Spirito",
+      "name_en": "Monastery of Santo Spirito (Agrigento)",
+      "latitude": 37.311359,
+      "longitude": 13.583784,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860564"
+    },
+    {
+      "id": 508,
+      "wikidata_id": "Q3860566",
+      "name_it": "monastero di Santo Stefano",
+      "name_en": "Monastero di Santo Stefano",
+      "latitude": 44.369803,
+      "longitude": 8.204072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860566"
+    },
+    {
+      "id": 509,
+      "wikidata_id": "Q49581690",
+      "name_it": "monastero di Sant’Amico",
+      "name_en": "Monastero di Sant’Amico",
+      "latitude": 42.354303,
+      "longitude": 13.400213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49581690"
+    },
+    {
+      "id": 510,
+      "wikidata_id": "Q29589254",
+      "name_it": "monastero di Sant’Angelo di Prizzi",
+      "name_en": "",
+      "latitude": 37.715218,
+      "longitude": 13.431907,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29589254"
+    },
+    {
+      "id": 511,
+      "wikidata_id": "Q107610913",
+      "name_it": "monastero di Siloe",
+      "name_en": "Monastery of Siloe",
+      "latitude": 42.918737,
+      "longitude": 11.320338,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107610913"
+    },
+    {
+      "id": 512,
+      "wikidata_id": "Q3860567",
+      "name_it": "monastero di Torba",
+      "name_en": "Torba Abbey",
+      "latitude": 45.7294,
+      "longitude": 8.86334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860567"
+    },
+    {
+      "id": 513,
+      "wikidata_id": "Q3860568",
+      "name_it": "monastero di Valle Christi",
+      "name_en": "Valle Christi",
+      "latitude": 44.355556,
+      "longitude": 9.201603,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860568"
+    },
+    {
+      "id": 514,
+      "wikidata_id": "Q56245026",
+      "name_it": "monastero di Voltorre",
+      "name_en": "Voltorre monastery",
+      "latitude": 45.83327,
+      "longitude": 8.73433,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56245026"
+    },
+    {
+      "id": 515,
+      "wikidata_id": "Q3860571",
+      "name_it": "monastero e chiesa di San Niccolò",
+      "name_en": "San Niccolò",
+      "latitude": 43.880419,
+      "longitude": 11.092376,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860571"
+    },
+    {
+      "id": 516,
+      "wikidata_id": "Q106077404",
+      "name_it": "monastero e spezieria di San Giovanni",
+      "name_en": "Monastero e spezieria di San Giovanni",
+      "latitude": 44.803019,
+      "longitude": 10.332049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077404"
+    },
+    {
+      "id": 517,
+      "wikidata_id": "Q112959090",
+      "name_it": "Monastero fortificato",
+      "name_en": "",
+      "latitude": 38.687612,
+      "longitude": 16.48844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112959090"
+    },
+    {
+      "id": 518,
+      "wikidata_id": "Q3860578",
+      "name_it": "Monastero greco-ortodosso di San Giovanni Theristis",
+      "name_en": "San Giovanni Theristis",
+      "latitude": 38.494722,
+      "longitude": 16.471111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860578"
+    },
+    {
+      "id": 519,
+      "wikidata_id": "Q112173037",
+      "name_it": "Monastero Maggiore",
+      "name_en": "",
+      "latitude": 45.465221,
+      "longitude": 9.179011,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112173037"
+    },
+    {
+      "id": 520,
+      "wikidata_id": "Q3818529",
+      "name_it": "monastero Matris Domini",
+      "name_en": "Matris Domini Monastery",
+      "latitude": 45.701051,
+      "longitude": 9.666896,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3818529"
+    },
+    {
+      "id": 521,
+      "wikidata_id": "Q55670064",
+      "name_it": "Monastero Ortodosso di San Serafino di Sarov",
+      "name_en": "",
+      "latitude": 43.98618,
+      "longitude": 10.88633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55670064"
+    },
+    {
+      "id": 522,
+      "wikidata_id": "Q124172579",
+      "name_it": "monastero Regina Mundi",
+      "name_en": "",
+      "latitude": 44.4925,
+      "longitude": 10.242278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124172579"
+    },
+    {
+      "id": 523,
+      "wikidata_id": "Q109758390",
+      "name_it": "monastero San Biagio",
+      "name_en": "San Biagio",
+      "latitude": 44.41247,
+      "longitude": 7.71384,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109758390"
+    },
+    {
+      "id": 524,
+      "wikidata_id": "Q1523424",
+      "name_it": "Monastero San Pantaleone a Monte Faeta",
+      "name_en": "San Pantaleone di Monte Faeta",
+      "latitude": 43.770833,
+      "longitude": 10.471111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1523424"
+    },
+    {
+      "id": 525,
+      "wikidata_id": "Q3603277",
+      "name_it": "monastero santuario di Santa Maria della Catena",
+      "name_en": "Monastery Shrine of Our Lady",
+      "latitude": 39.799937,
+      "longitude": 16.311438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3603277"
+    },
+    {
+      "id": 526,
+      "wikidata_id": "Q136091234",
+      "name_it": "monastero Spirito santo",
+      "name_en": "",
+      "latitude": 37.616845,
+      "longitude": 15.163965,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136091234"
+    },
+    {
+      "id": 527,
+      "wikidata_id": "Q55109365",
+      "name_it": "monastero, collegio e convitto Emiliani",
+      "name_en": "Collegio Emiliani",
+      "latitude": 44.203962,
+      "longitude": 11.731426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55109365"
+    },
+    {
+      "id": 528,
+      "wikidata_id": "Q106077690",
+      "name_it": "municipio di Fiorenzuola D'Arda - Complesso dell'ex Convento di San Giovanni Battista",
+      "name_en": "Municipio di Fiorenzuola D'Arda - Complesso dell'ex Convento di San Giovanni Battista",
+      "latitude": 44.928705,
+      "longitude": 9.907634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077690"
+    },
+    {
+      "id": 529,
+      "wikidata_id": "Q55368550",
+      "name_it": "museo civico delle Cappuccine",
+      "name_en": "Museo Civico delle Cappuccine",
+      "latitude": 44.418794,
+      "longitude": 11.975149,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55368550"
+    },
+    {
+      "id": 530,
+      "wikidata_id": "Q112318332",
+      "name_it": "Museo del Monastero",
+      "name_en": "",
+      "latitude": 45.737633,
+      "longitude": 9.410959,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318332"
+    },
+    {
+      "id": 531,
+      "wikidata_id": "Q55354183",
+      "name_it": "Museo del Monastero delle Orsoline",
+      "name_en": "Museo del Monastero delle Orsoline",
+      "latitude": 42.40424,
+      "longitude": 12.568759,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55354183"
+    },
+    {
+      "id": 532,
+      "wikidata_id": "Q106081678",
+      "name_it": "museo della Città",
+      "name_en": "Museo della Città",
+      "latitude": 44.062513,
+      "longitude": 12.566999,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081678"
+    },
+    {
+      "id": 533,
+      "wikidata_id": "Q13453137",
+      "name_it": "Museo di San Marco",
+      "name_en": "Museum of San Marco",
+      "latitude": 43.7779,
+      "longitude": 11.259393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13453137"
+    },
+    {
+      "id": 534,
+      "wikidata_id": "Q106077073",
+      "name_it": "museo Nazionale Ex Convento di San Vitale",
+      "name_en": "Museo Nazionale Ex Convento di San Vitale",
+      "latitude": 44.420355,
+      "longitude": 12.19531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077073"
+    },
+    {
+      "id": 535,
+      "wikidata_id": "Q106077244",
+      "name_it": "orarorio e monastero di San Giorgio",
+      "name_en": "Orarorio e monastero di San Giorgio",
+      "latitude": 44.279043,
+      "longitude": 11.900494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106077244"
+    },
+    {
+      "id": 536,
+      "wikidata_id": "Q112319612",
+      "name_it": "Oratorio della Beata Vergine e di S. Teresa",
+      "name_en": "",
+      "latitude": 45.366736,
+      "longitude": 8.921493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319612"
+    },
+    {
+      "id": 537,
+      "wikidata_id": "Q112141061",
+      "name_it": "oratorio di Santa Croce",
+      "name_en": "",
+      "latitude": 44.925052,
+      "longitude": 10.522089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141061"
+    },
+    {
+      "id": 538,
+      "wikidata_id": "Q106034477",
+      "name_it": "ospedale di San Salvatore",
+      "name_en": "Ospedale di San Salvatore",
+      "latitude": 44.639147,
+      "longitude": 11.186594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106034477"
+    },
+    {
+      "id": 539,
+      "wikidata_id": "Q106052571",
+      "name_it": "palazzo Agazzotti ed ex Chiostro del Monastero dei Serviti",
+      "name_en": "Palazzo Agazzotti ed ex Chiostro del Monastero dei Serviti",
+      "latitude": 44.644531,
+      "longitude": 10.924183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106052571"
+    },
+    {
+      "id": 540,
+      "wikidata_id": "Q106074562",
+      "name_it": "palazzo Comunale di San Lazzaro di Savena",
+      "name_en": "Palazzo Comunale di San Lazzaro di Savena",
+      "latitude": 44.470422,
+      "longitude": 11.408116,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074562"
+    },
+    {
+      "id": 541,
+      "wikidata_id": "Q27989744",
+      "name_it": "palazzo dell'Orfanotrofio",
+      "name_en": "Palazzo dell'Orfanotrofio",
+      "latitude": 44.445901,
+      "longitude": 11.826579,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27989744"
+    },
+    {
+      "id": 542,
+      "wikidata_id": "Q112142129",
+      "name_it": "Palazzo Diocesano",
+      "name_en": "",
+      "latitude": 45.161175,
+      "longitude": 10.794282,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142129"
+    },
+    {
+      "id": 543,
+      "wikidata_id": "Q106048509",
+      "name_it": "palazzo Ducale",
+      "name_en": "Palazzo Ducale",
+      "latitude": 44.698262,
+      "longitude": 10.627003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106048509"
+    },
+    {
+      "id": 544,
+      "wikidata_id": "Q106049876",
+      "name_it": "palazzo ex Concezione",
+      "name_en": "Palazzo ex Concezione",
+      "latitude": 44.701462,
+      "longitude": 10.63258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106049876"
+    },
+    {
+      "id": 545,
+      "wikidata_id": "Q106079036",
+      "name_it": "palazzo ex conservatorio delle Putte",
+      "name_en": "Palazzo ex Conservatorio delle Putte",
+      "latitude": 45.048827,
+      "longitude": 9.697901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106079036"
+    },
+    {
+      "id": 546,
+      "wikidata_id": "Q106081620",
+      "name_it": "palazzo Rainusso",
+      "name_en": "Palazzo Rainusso",
+      "latitude": 44.660574,
+      "longitude": 10.782235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081620"
+    },
+    {
+      "id": 547,
+      "wikidata_id": "Q31841298",
+      "name_it": "",
+      "name_en": "Pfarrwidum Untermais",
+      "latitude": 46.662778,
+      "longitude": 11.162222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31841298"
+    },
+    {
+      "id": 548,
+      "wikidata_id": "Q1816328",
+      "name_it": "Pio Ospedale della Pietà",
+      "name_en": "Ospedale della Pietà",
+      "latitude": 45.434111,
+      "longitude": 12.344611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1816328"
+    },
+    {
+      "id": 549,
+      "wikidata_id": "Q106061243",
+      "name_it": "procura della Repubblica",
+      "name_en": "Procura della Repubblica",
+      "latitude": 44.489203,
+      "longitude": 11.343296,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106061243"
+    },
+    {
+      "id": 550,
+      "wikidata_id": "Q3937285",
+      "name_it": "ritiro delle Teresiane di Torre del Greco",
+      "name_en": "",
+      "latitude": 40.854767,
+      "longitude": 14.247302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3937285"
+    },
+    {
+      "id": 551,
+      "wikidata_id": "Q3937284",
+      "name_it": "ritiro Regina del Santissimo Rosario Refugium Peccatorum",
+      "name_en": "",
+      "latitude": 40.85522,
+      "longitude": 14.26392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3937284"
+    },
+    {
+      "id": 552,
+      "wikidata_id": "Q3940862",
+      "name_it": "romitorio di San Guglielmo",
+      "name_en": "",
+      "latitude": 42.820681,
+      "longitude": 10.976514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3940862"
+    },
+    {
+      "id": 553,
+      "wikidata_id": "Q112319400",
+      "name_it": "Sala del Capitolo",
+      "name_en": "",
+      "latitude": 45.042641,
+      "longitude": 10.929229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112319400"
+    },
+    {
+      "id": 554,
+      "wikidata_id": "Q58064102",
+      "name_it": "Sala del Coro",
+      "name_en": "Sala del Coro",
+      "latitude": 44.83183,
+      "longitude": 11.62598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58064102"
+    },
+    {
+      "id": 555,
+      "wikidata_id": "Q3860494",
+      "name_it": "San Lorenzo di Ammiana",
+      "name_en": "San Lorenzo di Ammiana",
+      "latitude": 45.50335,
+      "longitude": 12.46165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3860494"
+    },
+    {
+      "id": 556,
+      "wikidata_id": "Q134776651",
+      "name_it": "San Marco alle Foci",
+      "name_en": "San Marco alle Foci",
+      "latitude": 42.119461,
+      "longitude": 13.572531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134776651"
+    },
+    {
+      "id": 557,
+      "wikidata_id": "Q131869395",
+      "name_it": "Sant'Antonino di Campo di Giove",
+      "name_en": "Sant'Antonino di Campo di Giove",
+      "latitude": 42.029013,
+      "longitude": 14.061859,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131869395"
+    },
+    {
+      "id": 558,
+      "wikidata_id": "Q45813946",
+      "name_it": "Santa Maria del Monte a Campo Imperatore",
+      "name_en": "Santa Maria del Monte",
+      "latitude": 42.389629,
+      "longitude": 13.6326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q45813946"
+    },
+    {
+      "id": 559,
+      "wikidata_id": "Q24932335",
+      "name_it": "",
+      "name_en": "Santa Maria dell'Umiltà",
+      "latitude": 45.430112,
+      "longitude": 12.335259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24932335"
+    },
+    {
+      "id": 560,
+      "wikidata_id": "Q1432701",
+      "name_it": "Santo Spirito",
+      "name_en": "Santo Spirito",
+      "latitude": 45.400278,
+      "longitude": 12.334167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1432701"
+    },
+    {
+      "id": 561,
+      "wikidata_id": "Q14552418",
+      "name_it": "Santuario della Verna",
+      "name_en": "Santuario della Verna",
+      "latitude": 43.70729,
+      "longitude": 11.93077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14552418"
+    },
+    {
+      "id": 562,
+      "wikidata_id": "Q3950051",
+      "name_it": "santuario di Santa Maria a Mare",
+      "name_en": "Abbey of Santa Maria a Mare",
+      "latitude": 42.12127,
+      "longitude": 15.50505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3950051"
+    },
+    {
+      "id": 563,
+      "wikidata_id": "Q17652140",
+      "name_it": "santuario di Santa Maria dei Lumi",
+      "name_en": "Santuario di Santa Maria dei Lumi",
+      "latitude": 42.772314,
+      "longitude": 13.677462,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17652140"
+    },
+    {
+      "id": 564,
+      "wikidata_id": "Q3953237",
+      "name_it": "Scuola allievi marescialli e brigadieri carabinieri",
+      "name_en": "Caserma della Scuola allievi ufficiali dei Carabinieri",
+      "latitude": 43.7752,
+      "longitude": 11.247167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3953237"
+    },
+    {
+      "id": 565,
+      "wikidata_id": "Q1273362",
+      "name_it": "Scuola Grande di San Marco",
+      "name_en": "Scuola Grande di San Marco",
+      "latitude": 45.439707,
+      "longitude": 12.341477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1273362"
+    },
+    {
+      "id": 566,
+      "wikidata_id": "Q112138141",
+      "name_it": "Sede del SIAM",
+      "name_en": "",
+      "latitude": 45.461774,
+      "longitude": 9.182261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138141"
+    },
+    {
+      "id": 567,
+      "wikidata_id": "Q106074707",
+      "name_it": "seminario Pio XII",
+      "name_en": "Seminario Pio XII",
+      "latitude": 44.287167,
+      "longitude": 11.872288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106074707"
+    },
+    {
+      "id": 568,
+      "wikidata_id": "Q106082400",
+      "name_it": "seminario Vescovile",
+      "name_en": "Seminario Vescovile",
+      "latitude": 43.816694,
+      "longitude": 12.26347,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082400"
+    },
+    {
+      "id": 569,
+      "wikidata_id": "Q24932188",
+      "name_it": "SS. Cosma e Damiano",
+      "name_en": "Santi Cosma e Damiano",
+      "latitude": 45.42556,
+      "longitude": 12.32302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24932188"
+    },
+    {
+      "id": 570,
+      "wikidata_id": "Q106045152",
+      "name_it": "terzo Chiostro dell'ex convento di San Giorgio",
+      "name_en": "Terzo Chiostro dell'ex convento di San Giorgio",
+      "latitude": 44.821754,
+      "longitude": 11.62728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106045152"
+    },
+    {
+      "id": 571,
+      "wikidata_id": "Q66311465",
+      "name_it": "",
+      "name_en": "Ursulinenkloster",
+      "latitude": 46.795263,
+      "longitude": 11.936168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311465"
+    },
+    {
+      "id": 572,
+      "wikidata_id": "Q17494386",
+      "name_it": "Villa Monastero",
+      "name_en": "Villa Monastero",
+      "latitude": 46.0076,
+      "longitude": 9.288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17494386"
+    },
+    {
+      "id": 573,
+      "wikidata_id": "Q106075130",
+      "name_it": "villa Vannoni",
+      "name_en": "Villa Vannoni",
+      "latitude": 43.938822,
+      "longitude": 12.686972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106075130"
+    }
+  ],
+  "meta": {
+    "title": "Monasteri in Italia - Download gratuito",
+    "description": "Elenco dei monasteri in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 573 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Monasteri in Italia | ListBase",
+    "seo_description": "Scarica Monasteri in Italia — 573 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 573 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

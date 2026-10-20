@@ -1,0 +1,472 @@
+{
+  "id": "it-ascoli-piceno-comuni",
+  "name": "Comuni della provincia di Ascoli Piceno",
+  "title": "Comuni della provincia di Ascoli Piceno",
+  "description": "Elenco dei 33 comuni della provincia di Ascoli Piceno (sigla AP), regione Marche. List of 33 comuni in the province of Ascoli Piceno (AP), Marche region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44001,
+      "nome": "Acquasanta Terme",
+      "slug": "acquasanta-terme",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44002,
+      "nome": "Acquaviva Picena",
+      "slug": "acquaviva-picena",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44005,
+      "nome": "Appignano del Tronto",
+      "slug": "appignano-del-tronto",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44006,
+      "nome": "Arquata del Tronto",
+      "slug": "arquata-del-tronto",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44007,
+      "nome": "Ascoli Piceno",
+      "slug": "ascoli-piceno",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44010,
+      "nome": "Carassai",
+      "slug": "carassai",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44011,
+      "nome": "Castel di Lama",
+      "slug": "castel-di-lama",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44012,
+      "nome": "Castignano",
+      "slug": "castignano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44013,
+      "nome": "Castorano",
+      "slug": "castorano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44014,
+      "nome": "Colli del Tronto",
+      "slug": "colli-del-tronto",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44015,
+      "nome": "Comunanza",
+      "slug": "comunanza",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44016,
+      "nome": "Cossignano",
+      "slug": "cossignano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44017,
+      "nome": "Cupra Marittima",
+      "slug": "cupra-marittima",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44020,
+      "nome": "Folignano",
+      "slug": "folignano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44021,
+      "nome": "Force",
+      "slug": "force",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44023,
+      "nome": "Grottammare",
+      "slug": "grottammare",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44027,
+      "nome": "Maltignano",
+      "slug": "maltignano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44029,
+      "nome": "Massignano",
+      "slug": "massignano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44031,
+      "nome": "Monsampolo del Tronto",
+      "slug": "monsampolo-del-tronto",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44032,
+      "nome": "Montalto delle Marche",
+      "slug": "montalto-delle-marche",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44034,
+      "nome": "Montedinove",
+      "slug": "montedinove",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44036,
+      "nome": "Montefiore dell'Aso",
+      "slug": "montefiore-dellaso",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44038,
+      "nome": "Montegallo",
+      "slug": "montegallo",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44044,
+      "nome": "Montemonaco",
+      "slug": "montemonaco",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44045,
+      "nome": "Monteprandone",
+      "slug": "monteprandone",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44054,
+      "nome": "Offida",
+      "slug": "offida",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44056,
+      "nome": "Palmiano",
+      "slug": "palmiano",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44063,
+      "nome": "Ripatransone",
+      "slug": "ripatransone",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44064,
+      "nome": "Roccafluvione",
+      "slug": "roccafluvione",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44065,
+      "nome": "Rotella",
+      "slug": "rotella",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44066,
+      "nome": "San Benedetto del Tronto",
+      "slug": "san-benedetto-del-tronto",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44071,
+      "nome": "Spinetoli",
+      "slug": "spinetoli",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    },
+    {
+      "id": 44073,
+      "nome": "Venarotta",
+      "slug": "venarotta",
+      "provincia_id": 44,
+      "provincia_nome": "Ascoli Piceno",
+      "provincia_sigla": "AP",
+      "provincia_slug": "ascoli-piceno",
+      "regione_id": 11,
+      "regione_nome": "Marche",
+      "regione_slug": "marche"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Ascoli Piceno - Download gratuito",
+    "description": "Elenco dei 33 comuni della provincia di Ascoli Piceno (sigla AP), regione Marche. List of 33 comuni in the province of Ascoli Piceno (AP), Marche region. Contiene 33 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Ascoli Piceno | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Ascoli Piceno — 33 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 33 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

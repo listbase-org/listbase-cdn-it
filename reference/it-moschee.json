@@ -1,0 +1,133 @@
+{
+  "id": "it-moschee",
+  "name": "Moschee in Italia",
+  "title": "Moschee in Italia",
+  "description": "Elenco delle moschee in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q117409305",
+      "name_it": "",
+      "name_en": "Islamic Center of Venice and Province",
+      "latitude": 45.464556,
+      "longitude": 12.21725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117409305"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q45362253",
+      "name_it": "moschea della Misericordia",
+      "name_en": "",
+      "latitude": 37.50274,
+      "longitude": 15.09278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q45362253"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q39486485",
+      "name_it": "moschea di Forlì",
+      "name_en": "",
+      "latitude": 44.21762,
+      "longitude": 12.08928,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q39486485"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q45372525",
+      "name_it": "moschea di Omar",
+      "name_en": "",
+      "latitude": 37.507722,
+      "longitude": 15.078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q45372525"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3866048",
+      "name_it": "moschea di Palermo",
+      "name_en": "",
+      "latitude": 38.1162,
+      "longitude": 13.3591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3866048"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1789776",
+      "name_it": "moschea di Roma",
+      "name_en": "Moschea di Roma",
+      "latitude": 41.934722,
+      "longitude": 12.495,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1789776"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3866050",
+      "name_it": "moschea di Segrate",
+      "name_en": "Moschea di Segrate",
+      "latitude": 45.490556,
+      "longitude": 9.260833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3866050"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q16580088",
+      "name_it": "Moschea Mohammed VI",
+      "name_en": "",
+      "latitude": 45.01666,
+      "longitude": 7.6629,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16580088"
+    }
+  ],
+  "meta": {
+    "title": "Moschee in Italia - Download gratuito",
+    "description": "Elenco delle moschee in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 8 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Moschee in Italia | ListBase",
+    "seo_description": "Scarica Moschee in Italia — 8 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 8 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

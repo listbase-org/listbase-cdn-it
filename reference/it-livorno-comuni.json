@@ -1,0 +1,304 @@
+{
+  "id": "it-livorno-comuni",
+  "name": "Comuni della provincia di Livorno",
+  "title": "Comuni della provincia di Livorno",
+  "description": "Elenco dei 19 comuni della provincia di Livorno (sigla LI), regione Toscana. List of 19 comuni in the province of Livorno (LI), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 49001,
+      "nome": "Bibbona",
+      "slug": "bibbona",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49002,
+      "nome": "Campiglia Marittima",
+      "slug": "campiglia-marittima",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49003,
+      "nome": "Campo nell'Elba",
+      "slug": "campo-nellelba",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49004,
+      "nome": "Capoliveri",
+      "slug": "capoliveri",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49005,
+      "nome": "Capraia Isola",
+      "slug": "capraia-isola",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49006,
+      "nome": "Castagneto Carducci",
+      "slug": "castagneto-carducci",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49007,
+      "nome": "Cecina",
+      "slug": "cecina",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49008,
+      "nome": "Collesalvetti",
+      "slug": "collesalvetti",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49009,
+      "nome": "Livorno",
+      "slug": "livorno",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49010,
+      "nome": "Marciana",
+      "slug": "marciana",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49011,
+      "nome": "Marciana Marina",
+      "slug": "marciana-marina",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49012,
+      "nome": "Piombino",
+      "slug": "piombino",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49013,
+      "nome": "Porto Azzurro",
+      "slug": "porto-azzurro",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49014,
+      "nome": "Portoferraio",
+      "slug": "portoferraio",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49021,
+      "nome": "Rio",
+      "slug": "rio",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49017,
+      "nome": "Rosignano Marittimo",
+      "slug": "rosignano-marittimo",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49018,
+      "nome": "San Vincenzo",
+      "slug": "san-vincenzo",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49019,
+      "nome": "Sassetta",
+      "slug": "sassetta",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 49020,
+      "nome": "Suvereto",
+      "slug": "suvereto",
+      "provincia_id": 49,
+      "provincia_nome": "Livorno",
+      "provincia_sigla": "LI",
+      "provincia_slug": "livorno",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Livorno - Download gratuito",
+    "description": "Elenco dei 19 comuni della provincia di Livorno (sigla LI), regione Toscana. List of 19 comuni in the province of Livorno (LI), Toscana region. Contiene 19 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Livorno | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Livorno — 19 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 19 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

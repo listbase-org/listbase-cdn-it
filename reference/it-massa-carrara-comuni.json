@@ -1,0 +1,280 @@
+{
+  "id": "it-massa-carrara-comuni",
+  "name": "Comuni della provincia di Massa-Carrara",
+  "title": "Comuni della provincia di Massa-Carrara",
+  "description": "Elenco dei 17 comuni della provincia di Massa-Carrara (sigla MS), regione Toscana. List of 17 comuni in the province of Massa-Carrara (MS), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 45001,
+      "nome": "Aulla",
+      "slug": "aulla",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45002,
+      "nome": "Bagnone",
+      "slug": "bagnone",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45003,
+      "nome": "Carrara",
+      "slug": "carrara",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45004,
+      "nome": "Casola in Lunigiana",
+      "slug": "casola-in-lunigiana",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45005,
+      "nome": "Comano",
+      "slug": "comano",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45006,
+      "nome": "Filattiera",
+      "slug": "filattiera",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45007,
+      "nome": "Fivizzano",
+      "slug": "fivizzano",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45008,
+      "nome": "Fosdinovo",
+      "slug": "fosdinovo",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45009,
+      "nome": "Licciana Nardi",
+      "slug": "licciana-nardi",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45010,
+      "nome": "Massa",
+      "slug": "massa",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45011,
+      "nome": "Montignoso",
+      "slug": "montignoso",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45012,
+      "nome": "Mulazzo",
+      "slug": "mulazzo",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45013,
+      "nome": "Podenzana",
+      "slug": "podenzana",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45014,
+      "nome": "Pontremoli",
+      "slug": "pontremoli",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45015,
+      "nome": "Tresana",
+      "slug": "tresana",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45016,
+      "nome": "Villafranca in Lunigiana",
+      "slug": "villafranca-in-lunigiana",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 45017,
+      "nome": "Zeri",
+      "slug": "zeri",
+      "provincia_id": 45,
+      "provincia_nome": "Massa-Carrara",
+      "provincia_sigla": "MS",
+      "provincia_slug": "massa-carrara",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Massa-Carrara - Download gratuito",
+    "description": "Elenco dei 17 comuni della provincia di Massa-Carrara (sigla MS), regione Toscana. List of 17 comuni in the province of Massa-Carrara (MS), Toscana region. Contiene 17 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Massa-Carrara | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Massa-Carrara — 17 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 17 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

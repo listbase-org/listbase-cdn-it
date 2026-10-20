@@ -1,0 +1,5 @@
+﻿"Id","Nome","Slug","Sigla","Citta Metropolitana","Regione Id","Regione Nome","Regione Slug","Num Comuni"
+"210","Genova","genova","GE","true","7","Liguria","liguria","67"
+"8","Imperia","imperia","IM","false","7","Liguria","liguria","66"
+"11","La Spezia","la-spezia","SP","false","7","Liguria","liguria","32"
+"9","Savona","savona","SV","false","7","Liguria","liguria","69"

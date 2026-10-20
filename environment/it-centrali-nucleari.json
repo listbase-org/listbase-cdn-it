@@ -1,0 +1,142 @@
+{
+  "id": "it-centrali-nucleari",
+  "name": "Centrali nucleari in Italia",
+  "title": "Centrali nucleari in Italia",
+  "description": "Centrali nucleari in Italia — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "date"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Caorso",
+      "latitude": 45.072,
+      "longitude": 9.872,
+      "status": "Shutdown",
+      "reactor_type": "BWR",
+      "reactor_model": "BWR-4 (Mark 2)",
+      "construction_start": "1970-01-01",
+      "operational_from": "1981-12-01",
+      "operational_to": "1990-07-01",
+      "capacity_mw": 840,
+      "iaea_id": 327,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Enrico Fermi",
+      "latitude": 45.183333,
+      "longitude": 8.283333,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "WH 4LP",
+      "construction_start": "1961-07-01",
+      "operational_from": "1965-01-01",
+      "operational_to": "1990-07-01",
+      "capacity_mw": 247,
+      "iaea_id": 326,
+      "data_source": "IAEA"
+    },
+    {
+      "name": "Garigliano",
+      "latitude": 41.258,
+      "longitude": 13.835,
+      "status": "Shutdown",
+      "reactor_type": "BWR",
+      "reactor_model": "BWR-1",
+      "construction_start": "1959-11-01",
+      "operational_from": "1964-06-01",
+      "operational_to": "1982-03-01",
+      "capacity_mw": 150,
+      "iaea_id": 325,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Latina",
+      "latitude": 41.427,
+      "longitude": 12.808,
+      "status": "Shutdown",
+      "reactor_type": "GCR",
+      "reactor_model": "MAGNOX",
+      "construction_start": "1958-11-01",
+      "operational_from": "1964-01-01",
+      "operational_to": "1987-12-01",
+      "capacity_mw": 200,
+      "iaea_id": 318,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Centrali nucleari in Italia - Download gratuito",
+    "description": "Centrali nucleari in Italia — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Contiene 4 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Centrali nucleari in Italia | ListBase",
+    "seo_description": "Scarica Centrali nucleari in Italia — 4 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 record / 12 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

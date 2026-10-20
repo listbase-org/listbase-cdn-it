@@ -1,0 +1,1367 @@
+{
+  "id": "it-padova-banche",
+  "name": "Banche a Padova — codici SWIFT/BIC",
+  "title": "Banche a Padova — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Padova, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2,
+      "bank": "2 PAY ISTITUTO DI MONETA ELETTRONICA SRL",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "PIMEIT21"
+    },
+    {
+      "id": 976,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 01 AG PZZA FRUTTI)",
+      "swift_code": "ANTBIT21001"
+    },
+    {
+      "id": 977,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 02 AG BASSANELLO)",
+      "swift_code": "ANTBIT21002"
+    },
+    {
+      "id": 978,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 03 AG LA CITTADELLA)",
+      "swift_code": "ANTBIT21003"
+    },
+    {
+      "id": 979,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 04 AG ASPETTI)",
+      "swift_code": "ANTBIT21004"
+    },
+    {
+      "id": 980,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 05 AG. STAZIONE)",
+      "swift_code": "ANTBIT21005"
+    },
+    {
+      "id": 981,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 114 AG S. BELLINO)",
+      "swift_code": "ANTBIT21114"
+    },
+    {
+      "id": 982,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 116 AG MORTISE)",
+      "swift_code": "ANTBIT21116"
+    },
+    {
+      "id": 983,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 117 AG CAMIN)",
+      "swift_code": "ANTBIT21117"
+    },
+    {
+      "id": 984,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 159 AG MILANO)",
+      "swift_code": "ANTBIT21159"
+    },
+    {
+      "id": 985,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 201 AG CAVOUR)",
+      "swift_code": "ANTBIT21201"
+    },
+    {
+      "id": 986,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 202 AG CESAROTTI)",
+      "swift_code": "ANTBIT21202"
+    },
+    {
+      "id": 987,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 203 AG ARCELLA)",
+      "swift_code": "ANTBIT21203"
+    },
+    {
+      "id": 988,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 204 AG S.OSVALDO)",
+      "swift_code": "ANTBIT21204"
+    },
+    {
+      "id": 989,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 205 AG EUGANEA)",
+      "swift_code": "ANTBIT21205"
+    },
+    {
+      "id": 990,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 206 AG GIOTTO)",
+      "swift_code": "ANTBIT21206"
+    },
+    {
+      "id": 991,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 208 AG VIGONOVESE)",
+      "swift_code": "ANTBIT21208"
+    },
+    {
+      "id": 992,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 209 AG ALTICHIERO)",
+      "swift_code": "ANTBIT21209"
+    },
+    {
+      "id": 993,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 298 AG GUIZZA)",
+      "swift_code": "ANTBIT21298"
+    },
+    {
+      "id": 994,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 300 AG TITO LIVIO)",
+      "swift_code": "ANTBIT21300"
+    },
+    {
+      "id": 995,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 303 AG PALTANA)",
+      "swift_code": "ANTBIT21303"
+    },
+    {
+      "id": 996,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 311 AG MAZZINI)",
+      "swift_code": "ANTBIT21311"
+    },
+    {
+      "id": 997,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 312 AG TORRESINO)",
+      "swift_code": "ANTBIT21312"
+    },
+    {
+      "id": 998,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 314 AG CHIESANUOVA)",
+      "swift_code": "ANTBIT21314"
+    },
+    {
+      "id": 999,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 315 AG MADONNA SALUTE)",
+      "swift_code": "ANTBIT21315"
+    },
+    {
+      "id": 1000,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 318 AG BELZONI)",
+      "swift_code": "ANTBIT21318"
+    },
+    {
+      "id": 1001,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 319 AG SANTA CROCE)",
+      "swift_code": "ANTBIT21319"
+    },
+    {
+      "id": 1002,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 322 AG SAN CARLO)",
+      "swift_code": "ANTBIT21322"
+    },
+    {
+      "id": 1003,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 327 AG FORCELLINI)",
+      "swift_code": "ANTBIT21327"
+    },
+    {
+      "id": 1004,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 328 AG BRUSEGANA)",
+      "swift_code": "ANTBIT21328"
+    },
+    {
+      "id": 1005,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 334 AG MONTA')",
+      "swift_code": "ANTBIT21334"
+    },
+    {
+      "id": 1006,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 50 SEDE VIII FEBBRAIO)",
+      "swift_code": "ANTBIT21050"
+    },
+    {
+      "id": 1007,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 56 AG ZONA IND NORD)",
+      "swift_code": "ANTBIT21056"
+    },
+    {
+      "id": 1008,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 57 AG TRE GAROFANI)",
+      "swift_code": "ANTBIT21057"
+    },
+    {
+      "id": 1009,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 58 AG GARIBALDI)",
+      "swift_code": "ANTBIT21058"
+    },
+    {
+      "id": 1010,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 59 AG CENTRALE)",
+      "swift_code": "ANTBIT21059"
+    },
+    {
+      "id": 1011,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 80 AG SACRA FAMIGLIA 2)",
+      "swift_code": "ANTBIT21080"
+    },
+    {
+      "id": 1012,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 81 AG CAVE)",
+      "swift_code": "ANTBIT21081"
+    },
+    {
+      "id": 1013,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 82 AG SS TRINITA')",
+      "swift_code": "ANTBIT21082"
+    },
+    {
+      "id": 1014,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(AG. NO 83 AG AEREOPORTO)",
+      "swift_code": "ANTBIT21083"
+    },
+    {
+      "id": 1015,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(HEAD OFFICE - FOREIGN DEPARTMENT)",
+      "swift_code": "ANTBIT21HDO"
+    },
+    {
+      "id": 1016,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. OSPEDALE)",
+      "swift_code": "ANTBIT21966"
+    },
+    {
+      "id": 1017,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. PONTECORVO)",
+      "swift_code": "ANTBIT21C71"
+    },
+    {
+      "id": 1018,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(SEDE VIA VERDI)",
+      "swift_code": "ANTBIT21290"
+    },
+    {
+      "id": 1019,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(UFFICIO CONTABILITA ITALIA)",
+      "swift_code": "ANTBIT21099"
+    },
+    {
+      "id": 1020,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "(UFFICIO FORNITORI)",
+      "swift_code": "ANTBIT21908"
+    },
+    {
+      "id": 1021,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "ANTBIT21"
+    },
+    {
+      "id": 1630,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 1 - PADOVA)",
+      "swift_code": "CRGEITG1781"
+    },
+    {
+      "id": 1631,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 2 - PADOVA)",
+      "swift_code": "CRGEITG1782"
+    },
+    {
+      "id": 1632,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 3 - PADOVA)",
+      "swift_code": "CRGEITG1783"
+    },
+    {
+      "id": 1633,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 4 - PADOVA)",
+      "swift_code": "CRGEITG1784"
+    },
+    {
+      "id": 1634,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "CRGEITG1780"
+    },
+    {
+      "id": 3660,
+      "bank": "BANCA D'ITALIA",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "BITAITR1221"
+    },
+    {
+      "id": 3765,
+      "bank": "BANCA EUROMOBILIARE S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG.2)",
+      "swift_code": "EUBAITM1828"
+    },
+    {
+      "id": 3825,
+      "bank": "BANCA INTERMOBILIARE S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BIMTITT1022"
+    },
+    {
+      "id": 5371,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(CITTADELLA)",
+      "swift_code": "PASCITM1PDC"
+    },
+    {
+      "id": 5372,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 10)",
+      "swift_code": "PASCITM1P1D"
+    },
+    {
+      "id": 5373,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 11)",
+      "swift_code": "PASCITM111P"
+    },
+    {
+      "id": 5374,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 12)",
+      "swift_code": "PASCITM112P"
+    },
+    {
+      "id": 5375,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 13)",
+      "swift_code": "PASCITM113P"
+    },
+    {
+      "id": 5376,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 14)",
+      "swift_code": "PASCITM114P"
+    },
+    {
+      "id": 5377,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 15)",
+      "swift_code": "PASCITM115P"
+    },
+    {
+      "id": 5378,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 16)",
+      "swift_code": "PASCITM1201"
+    },
+    {
+      "id": 5379,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 17)",
+      "swift_code": "PASCITM1202"
+    },
+    {
+      "id": 5380,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 18)",
+      "swift_code": "PASCITM118P"
+    },
+    {
+      "id": 5381,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 19)",
+      "swift_code": "PASCITM119P"
+    },
+    {
+      "id": 5382,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 2)",
+      "swift_code": "PASCITM1PD2"
+    },
+    {
+      "id": 5383,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 20)",
+      "swift_code": "PASCITM1205"
+    },
+    {
+      "id": 5384,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 21)",
+      "swift_code": "PASCITM1206"
+    },
+    {
+      "id": 5385,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 22)",
+      "swift_code": "PASCITM122P"
+    },
+    {
+      "id": 5386,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 23)",
+      "swift_code": "PASCITM1298"
+    },
+    {
+      "id": 5387,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 24)",
+      "swift_code": "PASCITM124P"
+    },
+    {
+      "id": 5388,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 25)",
+      "swift_code": "PASCITM125P"
+    },
+    {
+      "id": 5389,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 26)",
+      "swift_code": "PASCITM126P"
+    },
+    {
+      "id": 5390,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 27)",
+      "swift_code": "PASCITM127P"
+    },
+    {
+      "id": 5391,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 28)",
+      "swift_code": "PASCITM128P"
+    },
+    {
+      "id": 5392,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 29)",
+      "swift_code": "PASCITM129P"
+    },
+    {
+      "id": 5393,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 3)",
+      "swift_code": "PASCITM1PD3"
+    },
+    {
+      "id": 5394,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 30)",
+      "swift_code": "PASCITM130P"
+    },
+    {
+      "id": 5395,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 31)",
+      "swift_code": "PASCITM1327"
+    },
+    {
+      "id": 5396,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 32)",
+      "swift_code": "PASCITM1328"
+    },
+    {
+      "id": 5397,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 33)",
+      "swift_code": "PASCITM1334"
+    },
+    {
+      "id": 5398,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 34)",
+      "swift_code": "PASCITM1209"
+    },
+    {
+      "id": 5399,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 35)",
+      "swift_code": "PASCITM1080"
+    },
+    {
+      "id": 5400,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 4)",
+      "swift_code": "PASCITM1PD4"
+    },
+    {
+      "id": 5401,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 5)",
+      "swift_code": "PASCITM1PD5"
+    },
+    {
+      "id": 5402,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 6)",
+      "swift_code": "PASCITM1PD6"
+    },
+    {
+      "id": 5403,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 7)",
+      "swift_code": "PASCITM1PD7"
+    },
+    {
+      "id": 5404,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 8)",
+      "swift_code": "PASCITM1058"
+    },
+    {
+      "id": 5405,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. 9)",
+      "swift_code": "PASCITM1PD9"
+    },
+    {
+      "id": 5406,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AG. OSPEDALE)",
+      "swift_code": "PASCITM1966"
+    },
+    {
+      "id": 5407,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA VERDI)",
+      "swift_code": "PASCITM1290"
+    },
+    {
+      "id": 5408,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA VIII FEBBRAIO)",
+      "swift_code": "PASCITM1PVD"
+    },
+    {
+      "id": 5409,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PONTE DI BRENTA)",
+      "swift_code": "PASCITM111B"
+    },
+    {
+      "id": 5410,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "(TESORERIA VIA VIII FEBBRAIO)",
+      "swift_code": "PASCITM1H62"
+    },
+    {
+      "id": 5411,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "PASCITM1PD1"
+    },
+    {
+      "id": 5412,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "PASCITM1PDN"
+    },
+    {
+      "id": 5413,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "PASCITMMPAD"
+    },
+    {
+      "id": 6895,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR189Z"
+    },
+    {
+      "id": 6896,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR18AZ"
+    },
+    {
+      "id": 6897,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGENZIA AEROPORTO MILITARE)",
+      "swift_code": "BNLIITR18CZ"
+    },
+    {
+      "id": 6898,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AGEZNIA 3)",
+      "swift_code": "BNLIITR18BZ"
+    },
+    {
+      "id": 6899,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BNLIITRRPDX"
+    },
+    {
+      "id": 7310,
+      "bank": "BANCA PATAVINA CREDITO COOPERATIVO DI SANT ELENA EPIOVE DI SACCO",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "ICRAITR1K8C"
+    },
+    {
+      "id": 7311,
+      "bank": "BANCA PATAVINA CREDITO COOPERATIVO DI SANT ELENA EPIOVE DI SACCO",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "ICRAITR1K8F"
+    },
+    {
+      "id": 7514,
+      "bank": "BANCA POPOLARE DELL'ALTO ADIGE/SUEDTIROLER VOLKSBANK",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "BPAAIT2B196"
+    },
+    {
+      "id": 7796,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA SCROVEGNI)",
+      "swift_code": "BPBAIT21131"
+    },
+    {
+      "id": 8376,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BPMIITM1135"
+    },
+    {
+      "id": 8669,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "BPDMIT31218"
+    },
+    {
+      "id": 8895,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "PADOVA",
+      "branch": "(VIA PONTE MOLINO, 4)",
+      "swift_code": "POSOIT2115I"
+    },
+    {
+      "id": 9171,
+      "bank": "BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "CCRTIT2T84A"
+    },
+    {
+      "id": 9510,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BCVAIT2V081"
+    },
+    {
+      "id": 10731,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - AGENZIA 9)",
+      "swift_code": "BAPPIT21D07"
+    },
+    {
+      "id": 10732,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - CAMIN)",
+      "swift_code": "BAPPIT21205"
+    },
+    {
+      "id": 10733,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 3)",
+      "swift_code": "BAPPIT21285"
+    },
+    {
+      "id": 10734,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 4)",
+      "swift_code": "BAPPIT21286"
+    },
+    {
+      "id": 10735,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 5)",
+      "swift_code": "BAPPIT21314"
+    },
+    {
+      "id": 10736,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 6)",
+      "swift_code": "BAPPIT21317"
+    },
+    {
+      "id": 10737,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 7)",
+      "swift_code": "BAPPIT21282"
+    },
+    {
+      "id": 10738,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 8)",
+      "swift_code": "BAPPIT21C15"
+    },
+    {
+      "id": 10739,
+      "bank": "BANCO BPM SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "BAPPIT21120"
+    },
+    {
+      "id": 11594,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "CREBIT21198"
+    },
+    {
+      "id": 11664,
+      "bank": "BANCO DELLE TRE VENEZIE S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "TRVEIT2P"
+    },
+    {
+      "id": 11774,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "PADOVA",
+      "branch": "(PADOVA 356)",
+      "swift_code": "BDBDITA1356"
+    },
+    {
+      "id": 12875,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(FILIALE IMPRESE PADOVA)",
+      "swift_code": "IBSPIT2P175"
+    },
+    {
+      "id": 12876,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "IBSPIT2P"
+    },
+    {
+      "id": 12877,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(NUCLEO ESTERO)",
+      "swift_code": "IBSPIT2PNEP"
+    },
+    {
+      "id": 12878,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA BEZZECCA 2 B)",
+      "swift_code": "IBSPIT2P323"
+    },
+    {
+      "id": 12879,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA DELLE GRANZE 1)",
+      "swift_code": "IBSPIT2P317"
+    },
+    {
+      "id": 12880,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA FACCIOLATI 124)",
+      "swift_code": "IBSPIT2P693"
+    },
+    {
+      "id": 12881,
+      "bank": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA VALERI 1)",
+      "swift_code": "IBSPIT2P651"
+    },
+    {
+      "id": 13094,
+      "bank": "CASSA DI RISPARMIO DI ASTI SPA (HEAD OFFICE)",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "CASRITA1151"
+    },
+    {
+      "id": 13177,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(SEDE DI PADOVA)",
+      "swift_code": "CRBZIT2B135"
+    },
+    {
+      "id": 13178,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(VIA XX SETTEMBRE)",
+      "swift_code": "CRBZIT2B138"
+    },
+    {
+      "id": 14615,
+      "bank": "COMUNE DI PADOVA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "CPAOIT21"
+    },
+    {
+      "id": 14862,
+      "bank": "CORVALLIS HOLDING SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "CRHDIT21"
+    },
+    {
+      "id": 15081,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - RIVIERA MUGNAI)",
+      "swift_code": "BPPNIT2P304"
+    },
+    {
+      "id": 15082,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA ASPETTI)",
+      "swift_code": "BPPNIT2P307"
+    },
+    {
+      "id": 15083,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA DEI COLLI )",
+      "swift_code": "BPPNIT2P324"
+    },
+    {
+      "id": 15084,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA - VIA NAZARETH)",
+      "swift_code": "BPPNIT2P309"
+    },
+    {
+      "id": 15085,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BPPNIT2P181"
+    },
+    {
+      "id": 15086,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BPPNIT2P182"
+    },
+    {
+      "id": 15087,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BPPNIT2P193"
+    },
+    {
+      "id": 15424,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA AG. 2)",
+      "swift_code": "BACRIT21226"
+    },
+    {
+      "id": 15425,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BACRIT21155"
+    },
+    {
+      "id": 16131,
+      "bank": "D'AMANTE SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "DAANIT21"
+    },
+    {
+      "id": 16395,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PADOVA",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1512"
+    },
+    {
+      "id": 16396,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "PADOVA",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "DEUTITMMPAD"
+    },
+    {
+      "id": 16707,
+      "bank": "ESTCAPITAL SGR SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "ESSGIT21"
+    },
+    {
+      "id": 16814,
+      "bank": "FINANCE PARTNERS GROUP",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "FNPGIT21"
+    },
+    {
+      "id": 16951,
+      "bank": "GIOTTO SOCIETA DI INTERMEDIAZIONE MOBILIARE SPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "GSIOIT21"
+    },
+    {
+      "id": 17030,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "HAABIT2U019"
+    },
+    {
+      "id": 17066,
+      "bank": "ICCREA BANCA, PADOVA BRANCH",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "ICRAITRRPAD"
+    },
+    {
+      "id": 17112,
+      "bank": "INFOCAMERE SCPA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "IFSPIT21"
+    },
+    {
+      "id": 17515,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PADOVA",
+      "branch": "(BRANCH 3 - VIA MARSILIO DA PADOVA 22/A)",
+      "swift_code": "BCITITM1539"
+    },
+    {
+      "id": 17516,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PADOVA",
+      "branch": "(BRANCH 4 - VIA UMBERTO I 2)",
+      "swift_code": "BCITITM1589"
+    },
+    {
+      "id": 17517,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "PADOVA",
+      "branch": "(FILIALE IMPRESE PADOVA GUIZZA)",
+      "swift_code": "BCITITMMV54"
+    },
+    {
+      "id": 17914,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PADOVA",
+      "branch": "(BRANCH N. 2)",
+      "swift_code": "BPVIIT21237"
+    },
+    {
+      "id": 17915,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PADOVA",
+      "branch": "(PADOVA BR.NO.6)",
+      "swift_code": "BPVIIT21697"
+    },
+    {
+      "id": 17916,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PADOVA",
+      "branch": "(PADOVA NO.5 BRANCH)",
+      "swift_code": "BPVIIT21296"
+    },
+    {
+      "id": 17917,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PADOVA",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A02"
+    },
+    {
+      "id": 17918,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "BPVIIT22022"
+    },
+    {
+      "id": 18316,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA - INSURREZIONE)",
+      "swift_code": "VEBHIT21169"
+    },
+    {
+      "id": 18317,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA - SANTA CROCE)",
+      "swift_code": "VEBHIT21168"
+    },
+    {
+      "id": 18318,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA - SANT'OSVALDO)",
+      "swift_code": "VEBHIT21165"
+    },
+    {
+      "id": 18319,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "VEBHIT21025"
+    },
+    {
+      "id": 18320,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA-FIERA)",
+      "swift_code": "VEBHIT21111"
+    },
+    {
+      "id": 18988,
+      "bank": "PROVINCIA DI PADOVA",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "PRPDIT21"
+    },
+    {
+      "id": 19328,
+      "bank": "SAIND S.R.L.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "SILRIT21"
+    },
+    {
+      "id": 19505,
+      "bank": "SIT S.P.A.",
+      "city": "PADOVA",
+      "branch": "",
+      "swift_code": "STTIIT21"
+    },
+    {
+      "id": 20744,
+      "bank": "UBI BANCA SPA",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "BLOPIT22328"
+    },
+    {
+      "id": 22428,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "BCABIT21385"
+    },
+    {
+      "id": 24421,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(ESTERO MERCI PADOVA)",
+      "swift_code": "UNCRITMMPDE"
+    },
+    {
+      "id": 24422,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA CAVOUR)",
+      "swift_code": "UNCRITM1QU0"
+    },
+    {
+      "id": 24423,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA CHIESANUOVA)",
+      "swift_code": "UNCRITM1MU5"
+    },
+    {
+      "id": 24424,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA CORSO STATI UNITI)",
+      "swift_code": "UNCRITM1922"
+    },
+    {
+      "id": 24425,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA CRESCINI)",
+      "swift_code": "UNCRITM1Q90"
+    },
+    {
+      "id": 24426,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA GUIZZA)",
+      "swift_code": "UNCRITM1168"
+    },
+    {
+      "id": 24427,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA MINIO)",
+      "swift_code": "UNCRITM1DH7"
+    },
+    {
+      "id": 24428,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA MORO)",
+      "swift_code": "UNCRITM1N97"
+    },
+    {
+      "id": 24429,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA S.FERMO)",
+      "swift_code": "UNCRITM1923"
+    },
+    {
+      "id": 24430,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA SARTORI)",
+      "swift_code": "UNCRITM1VA8"
+    },
+    {
+      "id": 24431,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA VIA TRIESTE)",
+      "swift_code": "UNCRITM1920"
+    },
+    {
+      "id": 24432,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA ZANELLATO)",
+      "swift_code": "UNCRITM1UT0"
+    },
+    {
+      "id": 24433,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "UNCRITM142Y"
+    },
+    {
+      "id": 24434,
+      "bank": "UNICREDIT SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA)",
+      "swift_code": "UNCRITM1PDW"
+    },
+    {
+      "id": 26052,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PADOVA",
+      "branch": "(FILIALE DI PADOVA)",
+      "swift_code": "BAECIT2B004"
+    },
+    {
+      "id": 26053,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "PADOVA",
+      "branch": "(PADOVA VIA PALERMO BRANCH)",
+      "swift_code": "BAECIT21116"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Padova — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Padova, Italy Contiene 188 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Padova — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Padova — codici SWIFT/BIC — 188 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 188 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

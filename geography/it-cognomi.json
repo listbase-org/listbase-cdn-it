@@ -1,0 +1,856 @@
+{
+  "id": "it-cognomi",
+  "name": "It Cognomi",
+  "title": "It Cognomi",
+  "description": "Top-100 cognomi più comuni in Italia",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "IT-1",
+      "rank": 1,
+      "localized": "Rossi",
+      "romanized": "Rossi",
+      "count": 60,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-2",
+      "rank": 2,
+      "localized": "Russo",
+      "romanized": "Russo",
+      "count": 43,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-3",
+      "rank": 3,
+      "localized": "Ferrari",
+      "romanized": "Ferrari",
+      "count": 34,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-4",
+      "rank": 4,
+      "localized": "Esposito",
+      "romanized": "Esposito",
+      "count": 32,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-5",
+      "rank": 5,
+      "localized": "Bianchi",
+      "romanized": "Bianchi",
+      "count": 25,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-6",
+      "rank": 6,
+      "localized": "Romano",
+      "romanized": "Romano",
+      "count": 24,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-7",
+      "rank": 7,
+      "localized": "Colombo",
+      "romanized": "Colombo",
+      "count": 23,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-8",
+      "rank": 8,
+      "localized": "Bruno",
+      "romanized": "Bruno",
+      "count": 21,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-9",
+      "rank": 9,
+      "localized": "Ricci",
+      "romanized": "Ricci",
+      "count": 20,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-10",
+      "rank": 10,
+      "localized": "Greco",
+      "romanized": "Greco",
+      "count": 18,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-11",
+      "rank": 11,
+      "localized": "Marino",
+      "romanized": "Marino",
+      "count": 18,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-12",
+      "rank": 12,
+      "localized": "Gallo",
+      "romanized": "Gallo",
+      "count": 18,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-13",
+      "rank": 13,
+      "localized": "De Luca",
+      "romanized": "De Luca",
+      "count": 17,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-14",
+      "rank": 14,
+      "localized": "Conti",
+      "romanized": "Conti",
+      "count": 17,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-15",
+      "rank": 15,
+      "localized": "Costa",
+      "romanized": "Costa",
+      "count": 17,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-16",
+      "rank": 16,
+      "localized": "Mancini",
+      "romanized": "Mancini",
+      "count": 17,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-17",
+      "rank": 17,
+      "localized": "Giordano",
+      "romanized": "Giordano",
+      "count": 17,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-18",
+      "rank": 18,
+      "localized": "Rizzo",
+      "romanized": "Rizzo",
+      "count": 16,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-19",
+      "rank": 19,
+      "localized": "Lombardi",
+      "romanized": "Lombardi",
+      "count": 15,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-20",
+      "rank": 20,
+      "localized": "Barbieri",
+      "romanized": "Barbieri",
+      "count": 14,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-21",
+      "rank": 21,
+      "localized": "Moretti",
+      "romanized": "Moretti",
+      "count": 14,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-22",
+      "rank": 22,
+      "localized": "Fontana",
+      "romanized": "Fontana",
+      "count": 14,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-23",
+      "rank": 23,
+      "localized": "Caruso",
+      "romanized": "Caruso",
+      "count": 14,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-24",
+      "rank": 24,
+      "localized": "Mariani",
+      "romanized": "Mariani",
+      "count": 14,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-25",
+      "rank": 25,
+      "localized": "Ferrara",
+      "romanized": "Ferrara",
+      "count": 13,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-26",
+      "rank": 26,
+      "localized": "Santoro",
+      "romanized": "Santoro",
+      "count": 13,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-27",
+      "rank": 27,
+      "localized": "Rinaldi",
+      "romanized": "Rinaldi",
+      "count": 13,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-28",
+      "rank": 28,
+      "localized": "Leone",
+      "romanized": "Leone",
+      "count": 13,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-29",
+      "rank": 29,
+      "localized": "D'Angelo",
+      "romanized": "D'Angelo",
+      "count": 13,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-30",
+      "rank": 30,
+      "localized": "Longo",
+      "romanized": "Longo",
+      "count": 12,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-31",
+      "rank": 31,
+      "localized": "Galli",
+      "romanized": "Galli",
+      "count": 12,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-32",
+      "rank": 32,
+      "localized": "Martini",
+      "romanized": "Martini",
+      "count": 12,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-33",
+      "rank": 33,
+      "localized": "Martinelli",
+      "romanized": "Martinelli",
+      "count": 12,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-34",
+      "rank": 34,
+      "localized": "Serra",
+      "romanized": "Serra",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-35",
+      "rank": 35,
+      "localized": "Conte",
+      "romanized": "Conte",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-36",
+      "rank": 36,
+      "localized": "Vitale",
+      "romanized": "Vitale",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-37",
+      "rank": 37,
+      "localized": "De Santis",
+      "romanized": "De Santis",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-38",
+      "rank": 38,
+      "localized": "Marchetti",
+      "romanized": "Marchetti",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-39",
+      "rank": 39,
+      "localized": "Messina",
+      "romanized": "Messina",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-40",
+      "rank": 40,
+      "localized": "Gentile",
+      "romanized": "Gentile",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-41",
+      "rank": 41,
+      "localized": "Villa",
+      "romanized": "Villa",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-42",
+      "rank": 42,
+      "localized": "Marini",
+      "romanized": "Marini",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-43",
+      "rank": 43,
+      "localized": "Lombardo",
+      "romanized": "Lombardo",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-44",
+      "rank": 44,
+      "localized": "Coppola",
+      "romanized": "Coppola",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-45",
+      "rank": 45,
+      "localized": "Ferri",
+      "romanized": "Ferri",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-46",
+      "rank": 46,
+      "localized": "Parisi",
+      "romanized": "Parisi",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-47",
+      "rank": 47,
+      "localized": "De Angelis",
+      "romanized": "De Angelis",
+      "count": 11,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-48",
+      "rank": 48,
+      "localized": "Bianco",
+      "romanized": "Bianco",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-49",
+      "rank": 49,
+      "localized": "Amato",
+      "romanized": "Amato",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-50",
+      "rank": 50,
+      "localized": "Fabbri",
+      "romanized": "Fabbri",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-51",
+      "rank": 51,
+      "localized": "Gatti",
+      "romanized": "Gatti",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-52",
+      "rank": 52,
+      "localized": "Sala",
+      "romanized": "Sala",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-53",
+      "rank": 53,
+      "localized": "Morelli",
+      "romanized": "Morelli",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-54",
+      "rank": 54,
+      "localized": "Grasso",
+      "romanized": "Grasso",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-55",
+      "rank": 55,
+      "localized": "Pellegrini",
+      "romanized": "Pellegrini",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-56",
+      "rank": 56,
+      "localized": "Ferraro",
+      "romanized": "Ferraro",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-57",
+      "rank": 57,
+      "localized": "Monti",
+      "romanized": "Monti",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-58",
+      "rank": 58,
+      "localized": "Palumbo",
+      "romanized": "Palumbo",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-59",
+      "rank": 59,
+      "localized": "Grassi",
+      "romanized": "Grassi",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-60",
+      "rank": 60,
+      "localized": "Testa",
+      "romanized": "Testa",
+      "count": 10,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-61",
+      "rank": 61,
+      "localized": "Valentini",
+      "romanized": "Valentini",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-62",
+      "rank": 62,
+      "localized": "Carbone",
+      "romanized": "Carbone",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-63",
+      "rank": 63,
+      "localized": "Benedetti",
+      "romanized": "Benedetti",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-64",
+      "rank": 64,
+      "localized": "Silvestri",
+      "romanized": "Silvestri",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-65",
+      "rank": 65,
+      "localized": "Farina",
+      "romanized": "Farina",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-66",
+      "rank": 66,
+      "localized": "D'Amico",
+      "romanized": "D'Amico",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-67",
+      "rank": 67,
+      "localized": "Martino",
+      "romanized": "Martino",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-68",
+      "rank": 68,
+      "localized": "Bernardi",
+      "romanized": "Bernardi",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-69",
+      "rank": 69,
+      "localized": "Caputo",
+      "romanized": "Caputo",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-70",
+      "rank": 70,
+      "localized": "Mazza",
+      "romanized": "Mazza",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-71",
+      "rank": 71,
+      "localized": "Sanna",
+      "romanized": "Sanna",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-72",
+      "rank": 72,
+      "localized": "Fiore",
+      "romanized": "Fiore",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-73",
+      "rank": 73,
+      "localized": "De Rosa",
+      "romanized": "De Rosa",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-74",
+      "rank": 74,
+      "localized": "Pellegrino",
+      "romanized": "Pellegrino",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-75",
+      "rank": 75,
+      "localized": "Giuliani",
+      "romanized": "Giuliani",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-76",
+      "rank": 76,
+      "localized": "Rizzi",
+      "romanized": "Rizzi",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-77",
+      "rank": 77,
+      "localized": "Di Stefano",
+      "romanized": "Di Stefano",
+      "count": 9,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-78",
+      "rank": 78,
+      "localized": "Cattaneo",
+      "romanized": "Cattaneo",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-79",
+      "rank": 79,
+      "localized": "Rossetti",
+      "romanized": "Rossetti",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-80",
+      "rank": 80,
+      "localized": "Orlando",
+      "romanized": "Orlando",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-81",
+      "rank": 81,
+      "localized": "Basile",
+      "romanized": "Basile",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-82",
+      "rank": 82,
+      "localized": "Neri",
+      "romanized": "Neri",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-83",
+      "rank": 83,
+      "localized": "Barone",
+      "romanized": "Barone",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-84",
+      "rank": 84,
+      "localized": "Palmieri",
+      "romanized": "Palmieri",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-85",
+      "rank": 85,
+      "localized": "Riva",
+      "romanized": "Riva",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-86",
+      "rank": 86,
+      "localized": "Romeo",
+      "romanized": "Romeo",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-87",
+      "rank": 87,
+      "localized": "Franco",
+      "romanized": "Franco",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-88",
+      "rank": 88,
+      "localized": "Sorrentino",
+      "romanized": "Sorrentino",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-89",
+      "rank": 89,
+      "localized": "Pagano",
+      "romanized": "Pagano",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-90",
+      "rank": 90,
+      "localized": "D'Agostino",
+      "romanized": "D'Agostino",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-91",
+      "rank": 91,
+      "localized": "Piras",
+      "romanized": "Piras",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-92",
+      "rank": 92,
+      "localized": "Ruggiero",
+      "romanized": "Ruggiero",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-93",
+      "rank": 93,
+      "localized": "Montanari",
+      "romanized": "Montanari",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-94",
+      "rank": 94,
+      "localized": "Battaglia",
+      "romanized": "Battaglia",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-95",
+      "rank": 95,
+      "localized": "Bellini",
+      "romanized": "Bellini",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-96",
+      "rank": 96,
+      "localized": "Castelli",
+      "romanized": "Castelli",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-97",
+      "rank": 97,
+      "localized": "Guerra",
+      "romanized": "Guerra",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-98",
+      "rank": 98,
+      "localized": "Poli",
+      "romanized": "Poli",
+      "count": 8,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-99",
+      "rank": 99,
+      "localized": "Valente",
+      "romanized": "Valente",
+      "count": 7,
+      "percent": ""
+    },
+    {
+      "name_group": "IT-100",
+      "rank": 100,
+      "localized": "Ferretti",
+      "romanized": "Ferretti",
+      "count": 7,
+      "percent": ""
+    }
+  ],
+  "meta": {
+    "title": "It Cognomi - Download gratuito",
+    "description": "Top-100 cognomi più comuni in Italia Contiene 100 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "It Cognomi | ListBase",
+    "seo_description": "Scarica It Cognomi — 100 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 100 record / 6 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

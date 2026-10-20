@@ -1,0 +1,436 @@
+{
+  "id": "it-forli-cesena-comuni",
+  "name": "Comuni della provincia di Forlì-Cesena",
+  "title": "Comuni della provincia di Forlì-Cesena",
+  "description": "Elenco dei 30 comuni della provincia di Forlì-Cesena (sigla FC), regione Emilia-Romagna. List of 30 comuni in the province of Forlì-Cesena (FC), Emilia-Romagna region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 40001,
+      "nome": "Bagno di Romagna",
+      "slug": "bagno-di-romagna",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40003,
+      "nome": "Bertinoro",
+      "slug": "bertinoro",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40004,
+      "nome": "Borghi",
+      "slug": "borghi",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40005,
+      "nome": "Castrocaro Terme e Terra del Sole",
+      "slug": "castrocaro-terme-e-terra-del-sole",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40007,
+      "nome": "Cesena",
+      "slug": "cesena",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40008,
+      "nome": "Cesenatico",
+      "slug": "cesenatico",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40009,
+      "nome": "Civitella di Romagna",
+      "slug": "civitella-di-romagna",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40011,
+      "nome": "Dovadola",
+      "slug": "dovadola",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40013,
+      "nome": "Forlimpopoli",
+      "slug": "forlimpopoli",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40012,
+      "nome": "Forlì",
+      "slug": "forli",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40014,
+      "nome": "Galeata",
+      "slug": "galeata",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40015,
+      "nome": "Gambettola",
+      "slug": "gambettola",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40016,
+      "nome": "Gatteo",
+      "slug": "gatteo",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40018,
+      "nome": "Longiano",
+      "slug": "longiano",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40019,
+      "nome": "Meldola",
+      "slug": "meldola",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40020,
+      "nome": "Mercato Saraceno",
+      "slug": "mercato-saraceno",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40022,
+      "nome": "Modigliana",
+      "slug": "modigliana",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40028,
+      "nome": "Montiano",
+      "slug": "montiano",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40031,
+      "nome": "Portico e San Benedetto",
+      "slug": "portico-e-san-benedetto",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40032,
+      "nome": "Predappio",
+      "slug": "predappio",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40033,
+      "nome": "Premilcuore",
+      "slug": "premilcuore",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40036,
+      "nome": "Rocca San Casciano",
+      "slug": "rocca-san-casciano",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40037,
+      "nome": "Roncofreddo",
+      "slug": "roncofreddo",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40041,
+      "nome": "San Mauro Pascoli",
+      "slug": "san-mauro-pascoli",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40043,
+      "nome": "Santa Sofia",
+      "slug": "santa-sofia",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40044,
+      "nome": "Sarsina",
+      "slug": "sarsina",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40045,
+      "nome": "Savignano sul Rubicone",
+      "slug": "savignano-sul-rubicone",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40046,
+      "nome": "Sogliano al Rubicone",
+      "slug": "sogliano-al-rubicone",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40049,
+      "nome": "Tredozio",
+      "slug": "tredozio",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    },
+    {
+      "id": 40050,
+      "nome": "Verghereto",
+      "slug": "verghereto",
+      "provincia_id": 40,
+      "provincia_nome": "Forlì-Cesena",
+      "provincia_sigla": "FC",
+      "provincia_slug": "forli-cesena",
+      "regione_id": 8,
+      "regione_nome": "Emilia-Romagna",
+      "regione_slug": "emilia-romagna"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Forlì-Cesena - Download gratuito",
+    "description": "Elenco dei 30 comuni della provincia di Forlì-Cesena (sigla FC), regione Emilia-Romagna. List of 30 comuni in the province of Forlì-Cesena (FC), Emilia-Romagna region. Contiene 30 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Forlì-Cesena | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Forlì-Cesena — 30 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 30 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "it-siracusa-comuni",
+  "name": "Comuni della provincia di Siracusa",
+  "title": "Comuni della provincia di Siracusa",
+  "description": "Elenco dei 21 comuni della provincia di Siracusa (sigla SR), regione Sicilia. List of 21 comuni in the province of Siracusa (SR), Sicilia region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 89001,
+      "nome": "Augusta",
+      "slug": "augusta",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89002,
+      "nome": "Avola",
+      "slug": "avola",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89003,
+      "nome": "Buccheri",
+      "slug": "buccheri",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89004,
+      "nome": "Buscemi",
+      "slug": "buscemi",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89005,
+      "nome": "Canicattini Bagni",
+      "slug": "canicattini-bagni",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89006,
+      "nome": "Carlentini",
+      "slug": "carlentini",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89007,
+      "nome": "Cassaro",
+      "slug": "cassaro",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89008,
+      "nome": "Ferla",
+      "slug": "ferla",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89009,
+      "nome": "Floridia",
+      "slug": "floridia",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89010,
+      "nome": "Francofonte",
+      "slug": "francofonte",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89011,
+      "nome": "Lentini",
+      "slug": "lentini",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89012,
+      "nome": "Melilli",
+      "slug": "melilli",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89013,
+      "nome": "Noto",
+      "slug": "noto",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89014,
+      "nome": "Pachino",
+      "slug": "pachino",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89015,
+      "nome": "Palazzolo Acreide",
+      "slug": "palazzolo-acreide",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89020,
+      "nome": "Portopalo di Capo Passero",
+      "slug": "portopalo-di-capo-passero",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89021,
+      "nome": "Priolo Gargallo",
+      "slug": "priolo-gargallo",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89016,
+      "nome": "Rosolini",
+      "slug": "rosolini",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89017,
+      "nome": "Siracusa",
+      "slug": "siracusa",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89018,
+      "nome": "Solarino",
+      "slug": "solarino",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    },
+    {
+      "id": 89019,
+      "nome": "Sortino",
+      "slug": "sortino",
+      "provincia_id": 89,
+      "provincia_nome": "Siracusa",
+      "provincia_sigla": "SR",
+      "provincia_slug": "siracusa",
+      "regione_id": 19,
+      "regione_nome": "Sicilia",
+      "regione_slug": "sicilia"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Siracusa - Download gratuito",
+    "description": "Elenco dei 21 comuni della provincia di Siracusa (sigla SR), regione Sicilia. List of 21 comuni in the province of Siracusa (SR), Sicilia region. Contiene 21 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Siracusa | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Siracusa — 21 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 21 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

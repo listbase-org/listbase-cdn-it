@@ -1,0 +1,793 @@
+{
+  "id": "it-trieste-banche",
+  "name": "Banche a Trieste — codici SWIFT/BIC",
+  "title": "Banche a Trieste — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Trieste, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 106,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 115,
+      "bank": "ALLIANZ SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "ALAZIT21"
+    },
+    {
+      "id": 192,
+      "bank": "ASSICURAZIONI GENERALI",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "ASGNIT22"
+    },
+    {
+      "id": 1349,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 112 AG TRIESTE 5)",
+      "swift_code": "ANTBIT21112"
+    },
+    {
+      "id": 1350,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 113 AG TRIESTE 6)",
+      "swift_code": "ANTBIT21113"
+    },
+    {
+      "id": 1351,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 14)",
+      "swift_code": "ANTBIT21489"
+    },
+    {
+      "id": 1352,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 162 AG TRIESTE 7)",
+      "swift_code": "ANTBIT21162"
+    },
+    {
+      "id": 1353,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 30)",
+      "swift_code": "ANTBIT21TST"
+    },
+    {
+      "id": 1354,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 31 AG TRIESTE 1)",
+      "swift_code": "ANTBIT21031"
+    },
+    {
+      "id": 1355,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 32 AG TRIESTE 2)",
+      "swift_code": "ANTBIT21032"
+    },
+    {
+      "id": 1356,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AG. NO 33 AG TRIESTE 3)",
+      "swift_code": "ANTBIT21033"
+    },
+    {
+      "id": 1357,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 10)",
+      "swift_code": "ANTBIT21485"
+    },
+    {
+      "id": 1358,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 12)",
+      "swift_code": "ANTBIT21487"
+    },
+    {
+      "id": 1359,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 15)",
+      "swift_code": "ANTBIT21C13"
+    },
+    {
+      "id": 1360,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "ANTBIT21034"
+    },
+    {
+      "id": 1361,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 8)",
+      "swift_code": "ANTBIT21480"
+    },
+    {
+      "id": 3006,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI MANZANO (UDINE)",
+      "city": "TRIESTE",
+      "branch": "(FILIALE DI TRIESTE)",
+      "swift_code": "RUAMIT21TRS"
+    },
+    {
+      "id": 3208,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI STARANZANO E VILLESSE",
+      "city": "TRIESTE",
+      "branch": "(SUCCURSALE DI TRIESTE SAN GIACOMO)",
+      "swift_code": "ICRAITR1ODE"
+    },
+    {
+      "id": 3209,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI STARANZANO E VILLESSE",
+      "city": "TRIESTE",
+      "branch": "(SUCCURSALE DI TRIESTE SAN GIOVANNI)",
+      "swift_code": "ICRAITR1ODG"
+    },
+    {
+      "id": 3210,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI STARANZANO E VILLESSE",
+      "city": "TRIESTE",
+      "branch": "(SUCCURSALE DI TRIESTE-CHIARBOLA)",
+      "swift_code": "ICRAITR1ODF"
+    },
+    {
+      "id": 3211,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI STARANZANO E VILLESSE",
+      "city": "TRIESTE",
+      "branch": "(SUCCURSALE DI TRIESTE-PONTEROSSO)",
+      "swift_code": "ICRAITR1ODD"
+    },
+    {
+      "id": 3212,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI STARANZANO E VILLESSE",
+      "city": "TRIESTE",
+      "branch": "(SUCCURSALE DI TRIESTE-ROIANO)",
+      "swift_code": "ICRAITR1OD6"
+    },
+    {
+      "id": 3730,
+      "bank": "BANCA D'ITALIA",
+      "city": "TRIESTE",
+      "branch": "(SEDE DI TRIESTE)",
+      "swift_code": "BITAITR1231"
+    },
+    {
+      "id": 3788,
+      "bank": "BANCA GENERALI SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "BGENIT2T"
+    },
+    {
+      "id": 6383,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 1)",
+      "swift_code": "PASCITM1TS1"
+    },
+    {
+      "id": 6384,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 10)",
+      "swift_code": "PASCITM1TS0"
+    },
+    {
+      "id": 6385,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 11)",
+      "swift_code": "PASCITM1486"
+    },
+    {
+      "id": 6386,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 13)",
+      "swift_code": "PASCITM1488"
+    },
+    {
+      "id": 6387,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 15)",
+      "swift_code": "PASCITM1C13"
+    },
+    {
+      "id": 6388,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 2)",
+      "swift_code": "PASCITM1TS2"
+    },
+    {
+      "id": 6389,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 3)",
+      "swift_code": "PASCITM1TS3"
+    },
+    {
+      "id": 6390,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 5)",
+      "swift_code": "PASCITM1TS5"
+    },
+    {
+      "id": 6391,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 6)",
+      "swift_code": "PASCITM1TS6"
+    },
+    {
+      "id": 6392,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - AG. 7)",
+      "swift_code": "PASCITM1TS7"
+    },
+    {
+      "id": 6393,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE PIAZZA BORSA)",
+      "swift_code": "PASCITM1TST"
+    },
+    {
+      "id": 6394,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "PASCITMMTRI"
+    },
+    {
+      "id": 7171,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR1EOZ"
+    },
+    {
+      "id": 7172,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR1EPZ"
+    },
+    {
+      "id": 7173,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "BNLIITR1EQZ"
+    },
+    {
+      "id": 7174,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(AGENZIA 4)",
+      "swift_code": "BNLIITR1ERZ"
+    },
+    {
+      "id": 7175,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "BNLIITRRTSX"
+    },
+    {
+      "id": 11265,
+      "bank": "BANCO BPM SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE AG. 2)",
+      "swift_code": "BAPPIT21703"
+    },
+    {
+      "id": 11266,
+      "bank": "BANCO BPM SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE)",
+      "swift_code": "BAPPIT21261"
+    },
+    {
+      "id": 12166,
+      "bank": "BG SGR S.P.A.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "SGRSITM1"
+    },
+    {
+      "id": 12782,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TRIESTE",
+      "branch": "(FILIALE IMPRESE TRIESTE)",
+      "swift_code": "IBSPIT2U075"
+    },
+    {
+      "id": 12783,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - PIAZZA DELLA LIBERTA' 4)",
+      "swift_code": "IBSPIT2U520"
+    },
+    {
+      "id": 12784,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - PIAZZA DELLA REPUBBLICA 2)",
+      "swift_code": "IBSPIT2U526"
+    },
+    {
+      "id": 12785,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - VIA CABOTO 12)",
+      "swift_code": "IBSPIT2U524"
+    },
+    {
+      "id": 12786,
+      "bank": "CASSA DI RISPARMIO DEL FRIULI VENEZIA GIULIA SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE - VIALE XX SETTEMBRE 35)",
+      "swift_code": "IBSPIT2U021"
+    },
+    {
+      "id": 13774,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "IBSPIT2B161"
+    },
+    {
+      "id": 13775,
+      "bank": "CASSA DI RISPARMIO IN BOLOGNA SPA - CARISBO SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "IBSPIT2BTRI"
+    },
+    {
+      "id": 14798,
+      "bank": "COMUNE DI TRIESTE",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "CUISIT21"
+    },
+    {
+      "id": 15151,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TRIESTE",
+      "branch": "(PIAZZA FORAGGI 5/I)",
+      "swift_code": "BPPNIT2P173"
+    },
+    {
+      "id": 15152,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TRIESTE",
+      "branch": "(VIA CARDUCCI 18)",
+      "swift_code": "BPPNIT2P028"
+    },
+    {
+      "id": 15153,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TRIESTE",
+      "branch": "(VIA FLAVIA 132)",
+      "swift_code": "BPPNIT2P175"
+    },
+    {
+      "id": 15154,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TRIESTE",
+      "branch": "(VIA GIULIA 9)",
+      "swift_code": "BPPNIT2P172"
+    },
+    {
+      "id": 15155,
+      "bank": "CREDIT AGRICOLE FRIULADRIA SPA",
+      "city": "TRIESTE",
+      "branch": "(VIA MAZZINI 7)",
+      "swift_code": "BPPNIT2P171"
+    },
+    {
+      "id": 15525,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE AG. 5)",
+      "swift_code": "BACRIT21741"
+    },
+    {
+      "id": 15526,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE AG.2)",
+      "swift_code": "BACRIT21213"
+    },
+    {
+      "id": 15527,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "BACRIT21195"
+    },
+    {
+      "id": 16505,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(AG.A)",
+      "swift_code": "DEUTITM1762"
+    },
+    {
+      "id": 16506,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "DEUTITM1760"
+    },
+    {
+      "id": 16827,
+      "bank": "FINCANTIERI SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "FNNRIT21"
+    },
+    {
+      "id": 16921,
+      "bank": "GENERALI",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "GEEAIT21"
+    },
+    {
+      "id": 16922,
+      "bank": "GENERALI BUSINESS SOLUTION",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "GEBOIT21"
+    },
+    {
+      "id": 16923,
+      "bank": "GENERALI INVESTIMENTI",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "GEIVIT21"
+    },
+    {
+      "id": 16924,
+      "bank": "GENERALI INVESTMENTS EUROPE",
+      "city": "TRIESTE",
+      "branch": "(GIE GERMAN BRANCH)",
+      "swift_code": "GIISIT2TGDE"
+    },
+    {
+      "id": 16925,
+      "bank": "GENERALI INVESTMENTS EUROPE",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "GIISIT2T"
+    },
+    {
+      "id": 16926,
+      "bank": "GENERALI INVESTMENTS ITALY S.P.A. SGR.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "GIISIT21"
+    },
+    {
+      "id": 16927,
+      "bank": "GENERALI SHARED SERVICES S.C.A.R.L.",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "ASGNIT2T"
+    },
+    {
+      "id": 17038,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE)",
+      "swift_code": "HAABIT2U018"
+    },
+    {
+      "id": 18075,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRIESTE",
+      "branch": "(BRANCH N. 3)",
+      "swift_code": "BPVIIT21806"
+    },
+    {
+      "id": 18076,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRIESTE",
+      "branch": "(BRANCH N. 4)",
+      "swift_code": "BPVIIT21807"
+    },
+    {
+      "id": 18077,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRIESTE",
+      "branch": "(BRANCH N. 5)",
+      "swift_code": "BPVIIT21808"
+    },
+    {
+      "id": 18078,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRIESTE",
+      "branch": "(BRANCH N. 6)",
+      "swift_code": "BPVIIT21240"
+    },
+    {
+      "id": 18079,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "BPVIIT21801"
+    },
+    {
+      "id": 18398,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "TRIESTE",
+      "branch": "(FILIALE DI TRIESTE)",
+      "swift_code": "VEBHIT21134"
+    },
+    {
+      "id": 18471,
+      "bank": "ITAL TBS TELEMATIC AND BIOMEDICAL SERVICES SPA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "ITTBIT21"
+    },
+    {
+      "id": 18612,
+      "bank": "LLOYD ADRIATICO HOLDING",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "LLAHIT21"
+    },
+    {
+      "id": 18942,
+      "bank": "PREMUDA",
+      "city": "TRIESTE",
+      "branch": "",
+      "swift_code": "PEEDIT21"
+    },
+    {
+      "id": 25648,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(ESTERO MERCI TRIESTE)",
+      "swift_code": "UNCRITMMTSE"
+    },
+    {
+      "id": 25649,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE BAIAMONTI)",
+      "swift_code": "UNCRITM1UV2"
+    },
+    {
+      "id": 25650,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE BARBARIGA)",
+      "swift_code": "UNCRITM10ML"
+    },
+    {
+      "id": 25651,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE BORSA)",
+      "swift_code": "UNCRITM1880"
+    },
+    {
+      "id": 25652,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CAMPO S.GIACOMO)",
+      "swift_code": "UNCRITM10OF"
+    },
+    {
+      "id": 25653,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CARDUCCI)",
+      "swift_code": "UNCRITM10MC"
+    },
+    {
+      "id": 25654,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CAVANA)",
+      "swift_code": "UNCRITM10NA"
+    },
+    {
+      "id": 25655,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CENTRO COMM. IL GIULIA)",
+      "swift_code": "UNCRITM10SD"
+    },
+    {
+      "id": 25656,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CESARE BATTISTI)",
+      "swift_code": "UNCRITM10MF"
+    },
+    {
+      "id": 25657,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE CORSO ITALIA B)",
+      "swift_code": "UNCRITM1VE0"
+    },
+    {
+      "id": 25658,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE FABIO SEVERO)",
+      "swift_code": "UNCRITM10UC"
+    },
+    {
+      "id": 25659,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE FINCANTIERI)",
+      "swift_code": "UNCRITM1Z23"
+    },
+    {
+      "id": 25660,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE GARIBALDI)",
+      "swift_code": "UNCRITM1884"
+    },
+    {
+      "id": 25661,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE GRIGNANO)",
+      "swift_code": "UNCRITM1Z41"
+    },
+    {
+      "id": 25662,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE LOCCHI)",
+      "swift_code": "UNCRITM10NL"
+    },
+    {
+      "id": 25663,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE MERCATO ORTOFRUTTICOLO)",
+      "swift_code": "UNCRITM10MI"
+    },
+    {
+      "id": 25664,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE MIRAMARE)",
+      "swift_code": "UNCRITM10ND"
+    },
+    {
+      "id": 25665,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE PICCARDI)",
+      "swift_code": "UNCRITM10NH"
+    },
+    {
+      "id": 25666,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE SANZIO)",
+      "swift_code": "UNCRITM10UH"
+    },
+    {
+      "id": 25667,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE SETTEFONTANE A)",
+      "swift_code": "UNCRITM10NG"
+    },
+    {
+      "id": 25668,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE SETTEFONTANE B)",
+      "swift_code": "UNCRITM10TH"
+    },
+    {
+      "id": 25669,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE SILVIO PELLICO)",
+      "swift_code": "UNCRITM10OE"
+    },
+    {
+      "id": 25670,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE TOMIZZA)",
+      "swift_code": "UNCRITM10NI"
+    },
+    {
+      "id": 25671,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE VALMAURA)",
+      "swift_code": "UNCRITM10MG"
+    },
+    {
+      "id": 25672,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE VIA CASSA DI RISPARMIO)",
+      "swift_code": "UNCRITM10PA"
+    },
+    {
+      "id": 25673,
+      "bank": "UNICREDIT SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE)",
+      "swift_code": "UNCRITM1O25"
+    },
+    {
+      "id": 26162,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "TRIESTE",
+      "branch": "(TRIESTE BRANCH)",
+      "swift_code": "BAECIT21060"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Trieste — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Trieste, Italy Contiene 106 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Trieste — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Trieste — codici SWIFT/BIC — 106 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 106 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "it-veneto-comuni-dolomiti-unesco",
+  "name": "Comuni delle Dolomiti UNESCO in Veneto (UNESCO Dolomites municipalities in Veneto)",
+  "title": "Comuni delle Dolomiti UNESCO in Veneto (UNESCO Dolomites municipalities in Veneto)",
+  "description": "Elenco dei 43 comuni della regione Veneto che rientrano nelle aree delle Dolomiti Patrimonio Mondiale UNESCO. List of 43 municipalities in Veneto within the UNESCO World Heritage Dolomites areas.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "codice_istat_regione",
+      "label": "Codice Istat Regione",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_provincia",
+      "label": "Codice Istat Provincia",
+      "type": "number"
+    },
+    {
+      "key": "codice_istat_comune",
+      "label": "Codice Istat Comune",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comune": "Agordo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25001"
+    },
+    {
+      "comune": "Alleghe",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25003"
+    },
+    {
+      "comune": "Auronzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25005"
+    },
+    {
+      "comune": "Belluno",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25006"
+    },
+    {
+      "comune": "Borca di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25007"
+    },
+    {
+      "comune": "Calalzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25008"
+    },
+    {
+      "comune": "Canale d'Agordo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25023"
+    },
+    {
+      "comune": "Cencenighe Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25010"
+    },
+    {
+      "comune": "Cesiomaggiore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25011"
+    },
+    {
+      "comune": "Colle Santa Lucia",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25014"
+    },
+    {
+      "comune": "Comelico Superiore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25015"
+    },
+    {
+      "comune": "Cortina d'Ampezzo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25016"
+    },
+    {
+      "comune": "Domegge di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25018"
+    },
+    {
+      "comune": "Falcade",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25019"
+    },
+    {
+      "comune": "Feltre",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25021"
+    },
+    {
+      "comune": "Gosaldo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25025"
+    },
+    {
+      "comune": "La Valle Agordina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25027"
+    },
+    {
+      "comune": "Livinallongo del Col di Lana",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25030"
+    },
+    {
+      "comune": "Longarone",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25071"
+    },
+    {
+      "comune": "Lorenzago di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25032"
+    },
+    {
+      "comune": "Lozzo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25033"
+    },
+    {
+      "comune": "Ospitale di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25035"
+    },
+    {
+      "comune": "Pedavena",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25036"
+    },
+    {
+      "comune": "Perarolo di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25037"
+    },
+    {
+      "comune": "Pieve di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25039"
+    },
+    {
+      "comune": "Ponte nelle Alpi",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25040"
+    },
+    {
+      "comune": "Rivamonte Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25043"
+    },
+    {
+      "comune": "Rocca Pietore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25044"
+    },
+    {
+      "comune": "San Gregorio nelle Alpi",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25045"
+    },
+    {
+      "comune": "San Tomaso Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25049"
+    },
+    {
+      "comune": "San Vito di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25051"
+    },
+    {
+      "comune": "Santa Giustina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25048"
+    },
+    {
+      "comune": "Sedico",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25053"
+    },
+    {
+      "comune": "Selva di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25054"
+    },
+    {
+      "comune": "Sospirolo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25056"
+    },
+    {
+      "comune": "Sovramonte",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25058"
+    },
+    {
+      "comune": "Taibon Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25059"
+    },
+    {
+      "comune": "Val di Zoldo",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25073"
+    },
+    {
+      "comune": "Vallada Agordina",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25062"
+    },
+    {
+      "comune": "Valle di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25063"
+    },
+    {
+      "comune": "Vodo Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25066"
+    },
+    {
+      "comune": "Voltago Agordino",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25067"
+    },
+    {
+      "comune": "Zoppè di Cadore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "codice_istat_regione": 5,
+      "codice_istat_provincia": 25,
+      "codice_istat_comune": "25069"
+    }
+  ],
+  "meta": {
+    "title": "Comuni delle Dolomiti UNESCO in Veneto (UNESCO Dolomites municipalities in Veneto) - Download gratuito",
+    "description": "Elenco dei 43 comuni della regione Veneto che rientrano nelle aree delle Dolomiti Patrimonio Mondiale UNESCO. List of 43 municipalities in Veneto within the UNESCO World Heritage Dolomites areas. Contiene 43 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni delle Dolomiti UNESCO in Veneto (UNESCO Dolomites municipalities in Veneto) | ListBase",
+    "seo_description": "Scarica Comuni delle Dolomiti UNESCO in Veneto (UNESCO Dolomites municipalities in Veneto) — 43 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 43 record / 6 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

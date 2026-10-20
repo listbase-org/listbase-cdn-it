@@ -1,0 +1,5569 @@
+{
+  "id": "it-ponti",
+  "name": "Ponti in Italia",
+  "title": "Ponti in Italia",
+  "description": "Elenco dei ponti in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 612,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_it",
+      "label": "Name It",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q106082578",
+      "name_it": "Antico ponte sul Rio Muraglio",
+      "name_en": "Antico ponte sul Rio Muraglio",
+      "latitude": 44.102076,
+      "longitude": 10.921188,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082578"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q3621805",
+      "name_it": "Arco olimpico di Torino",
+      "name_en": "Arco olimpico di Torino",
+      "latitude": 45.031655,
+      "longitude": 7.660153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3621805"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q55397994",
+      "name_it": "",
+      "name_en": "Casalmaggiore road bridge",
+      "latitude": 44.974119,
+      "longitude": 10.416069,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55397994"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q104636505",
+      "name_it": "cavalcavia Don Lorenzo Milani",
+      "name_en": "Cavalcavia Don Lorenzo Milani",
+      "latitude": 45.44569,
+      "longitude": 9.146056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104636505"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q104636529",
+      "name_it": "cavalcavia Pietro Giordani",
+      "name_en": "Cavalcavia Pietro Giordani",
+      "latitude": 45.438926,
+      "longitude": 9.1252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104636529"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q137302223",
+      "name_it": "",
+      "name_en": "Cavalcavia Pontinia",
+      "latitude": 45.431444,
+      "longitude": 9.239792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137302223"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q125567630",
+      "name_it": "",
+      "name_en": "Mereta road bridge",
+      "latitude": 44.66349,
+      "longitude": 8.94009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125567630"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q125563719",
+      "name_it": "nuovo ponte ferroviario di Calolziocorte",
+      "name_en": "Calolziocorte new railway bridge",
+      "latitude": 45.787908,
+      "longitude": 9.431997,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125563719"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q56236012",
+      "name_it": "Nuovo ponte ferroviario sul Po tra Ostiglia e Revere",
+      "name_en": "",
+      "latitude": 45.05365,
+      "longitude": 11.13758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56236012"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q3368263",
+      "name_it": "Passerella dell'Isolotto",
+      "name_en": "Passerella dell'Isolotto",
+      "latitude": 43.78,
+      "longitude": 11.2182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3368263"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q106907087",
+      "name_it": "Passerella Natale Capellaro",
+      "name_en": "Passerella Natale Capellaro",
+      "latitude": 45.462952,
+      "longitude": 7.881554,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106907087"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q112137984",
+      "name_it": "Passerella per Crespi d'Adda",
+      "name_en": "",
+      "latitude": 45.602315,
+      "longitude": 9.530012,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137984"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q112142408",
+      "name_it": "Pila del ponte altomedioevale sul Ticino (resti)",
+      "name_en": "",
+      "latitude": 45.506721,
+      "longitude": 8.723583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142408"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q36993004",
+      "name_it": "Pon Nou - Introd",
+      "name_en": "New bridge of Introd",
+      "latitude": 45.691562,
+      "longitude": 7.185105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36993004"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q118313289",
+      "name_it": "Pont del Diaol",
+      "name_en": "Pont del Diaol",
+      "latitude": 45.81245,
+      "longitude": 10.97747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118313289"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q86674844",
+      "name_it": "Pont Neuf",
+      "name_en": "Pont Neuf",
+      "latitude": 45.74869,
+      "longitude": 7.610356,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86674844"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q114346979",
+      "name_it": "Pontasso",
+      "name_en": "Pontasso",
+      "latitude": 44.11811,
+      "longitude": 8.2471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114346979"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q106087214",
+      "name_it": "",
+      "name_en": "Pontazzo",
+      "latitude": 44.086521,
+      "longitude": 12.45361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106087214"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q29706963",
+      "name_it": "ponte",
+      "name_en": "",
+      "latitude": 45.987155,
+      "longitude": 9.427002,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29706963"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q69555721",
+      "name_it": "Ponte \"Annibale\"",
+      "name_en": "Hannibal's Bridge",
+      "latitude": 44.346848,
+      "longitude": 9.227129,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q69555721"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q28003387",
+      "name_it": "Ponte - Chiusa di Sant'Antonio",
+      "name_en": "",
+      "latitude": 43.230068,
+      "longitude": 13.16555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003387"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q108678863",
+      "name_it": "ponte a arco di Braia",
+      "name_en": "ponte a arco di Braia",
+      "latitude": 44.443478,
+      "longitude": 9.847634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108678863"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q3908060",
+      "name_it": "Ponte a Sieve",
+      "name_en": "Ponte a Sieve",
+      "latitude": 43.778278,
+      "longitude": 11.444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908060"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q131426565",
+      "name_it": "Ponte Acque Alte",
+      "name_en": "",
+      "latitude": 41.554566,
+      "longitude": 12.884348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131426565"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q66860228",
+      "name_it": "Ponte Acquedotto",
+      "name_en": "Ponte Acquedotto",
+      "latitude": 40.820082,
+      "longitude": 16.41312,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66860228"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q60441243",
+      "name_it": "Ponte Adriatico",
+      "name_en": "Adriatico bridge",
+      "latitude": 41.11957,
+      "longitude": 16.84826,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60441243"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q107452771",
+      "name_it": "Ponte ai Chiosi",
+      "name_en": "Ponte ai Chiosi",
+      "latitude": 44.3817,
+      "longitude": 9.87441,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107452771"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q65665383",
+      "name_it": "Ponte al Buco",
+      "name_en": "Ponte al Buco",
+      "latitude": 43.839395,
+      "longitude": 11.208287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65665383"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q107521337",
+      "name_it": "Ponte Alcide de Gasperi",
+      "name_en": "Ponte de Gasperi",
+      "latitude": 44.370727,
+      "longitude": 9.88481,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107521337"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3907950",
+      "name_it": "Ponte Aleardi",
+      "name_en": "Ponte Aleardi",
+      "latitude": 45.435,
+      "longitude": 11.0003,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907950"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q62099315",
+      "name_it": "Ponte all'amore",
+      "name_en": "Ponte all'amore",
+      "latitude": 43.839142,
+      "longitude": 11.20755,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62099315"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q62099452",
+      "name_it": "Ponte alla Parancola",
+      "name_en": "Ponte alla Parancola",
+      "latitude": 43.841999,
+      "longitude": 11.208931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62099452"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q3397708",
+      "name_it": "Ponte alla Vittoria",
+      "name_en": "Ponte alla Vittoria",
+      "latitude": 43.7749,
+      "longitude": 11.2344,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397708"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q62099523",
+      "name_it": "Ponte alla Volpe",
+      "name_en": "Ponte alla Volpe",
+      "latitude": 43.835485,
+      "longitude": 11.228059,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62099523"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q2517000",
+      "name_it": "ponte alle Grazie",
+      "name_en": "Ponte alle Grazie",
+      "latitude": 43.766211,
+      "longitude": 11.258731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2517000"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q96755101",
+      "name_it": "Ponte Alto",
+      "name_en": "Ponte Alto",
+      "latitude": 46.07389,
+      "longitude": 11.15115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96755101"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q112143559",
+      "name_it": "Ponte Alto",
+      "name_en": "",
+      "latitude": 46.181506,
+      "longitude": 10.333704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143559"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q106083762",
+      "name_it": "",
+      "name_en": "Ponte Alto sul Fiume Secchia",
+      "latitude": 44.669626,
+      "longitude": 10.899408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083762"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q106241501",
+      "name_it": "Ponte Amedeo IX",
+      "name_en": "Ponte vittime dell'immigrazione",
+      "latitude": 45.08994,
+      "longitude": 7.67033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106241501"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q3397701",
+      "name_it": "Ponte Amerigo Vespucci",
+      "name_en": "Ponte Amerigo Vespucci",
+      "latitude": 43.771973,
+      "longitude": 11.242473,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397701"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q107573903",
+      "name_it": "ponte Amiata",
+      "name_en": "Ponte Amiata",
+      "latitude": 42.761132,
+      "longitude": 11.117625,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107573903"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q114962060",
+      "name_it": "Ponte Annibale",
+      "name_en": "Ponte Annibale",
+      "latitude": 44.346866,
+      "longitude": 9.227094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114962060"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q106082811",
+      "name_it": "",
+      "name_en": "Ponte antico di Sesta",
+      "latitude": 44.434723,
+      "longitude": 10.038509,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082811"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q81808156",
+      "name_it": "ponte antico sul Naviglio Grande",
+      "name_en": "Ponte antico sul Naviglio Grande",
+      "latitude": 45.52814,
+      "longitude": 8.732992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81808156"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q112141042",
+      "name_it": "Ponte antico via Marchesi",
+      "name_en": "",
+      "latitude": 45.538212,
+      "longitude": 9.479309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141042"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q108161572",
+      "name_it": "ponte Antonini",
+      "name_en": "Antonini bridge",
+      "latitude": 45.81656,
+      "longitude": 8.25051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108161572"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q113948083",
+      "name_it": "Ponte aragonese",
+      "name_en": "",
+      "latitude": 40.73184,
+      "longitude": 13.96234,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113948083"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q2854742",
+      "name_it": "Ponte Aurelio",
+      "name_en": "Ponte Aurelio",
+      "latitude": 41.8923,
+      "longitude": 12.4708,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2854742"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q106083978",
+      "name_it": "Ponte Bailey",
+      "name_en": "Ponte Bailey",
+      "latitude": 44.275556,
+      "longitude": 11.57885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083978"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q56612761",
+      "name_it": "ponte Benedetti",
+      "name_en": "Ponte Benedetti",
+      "latitude": 45.441738,
+      "longitude": 12.335812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56612761"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q28003422",
+      "name_it": "ponte Bettigna",
+      "name_en": "Bettigna bridge",
+      "latitude": 44.089606,
+      "longitude": 10.017092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003422"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3396472",
+      "name_it": "Ponte Bisantis",
+      "name_en": "Bisantis bridge",
+      "latitude": 38.906797,
+      "longitude": 16.585021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3396472"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q3907955",
+      "name_it": "Ponte Cadore",
+      "name_en": "Cadore Viaduct",
+      "latitude": 46.405533,
+      "longitude": 12.369607,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907955"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q60838358",
+      "name_it": "Ponte canale sul Tevere",
+      "name_en": "Ponte Canale sul Tevere",
+      "latitude": 41.961075,
+      "longitude": 12.503135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60838358"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q112142280",
+      "name_it": "Ponte Canale Villoresi",
+      "name_en": "",
+      "latitude": 45.541612,
+      "longitude": 8.87798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142280"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q3907956",
+      "name_it": "Ponte Capodarso",
+      "name_en": "Ponte Capodarso",
+      "latitude": 37.49529,
+      "longitude": 14.14544,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907956"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q106083781",
+      "name_it": "",
+      "name_en": "Ponte Caprazucca",
+      "latitude": 44.798459,
+      "longitude": 10.323367,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083781"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q123570400",
+      "name_it": "",
+      "name_en": "Ponte Carlo Emanuele III",
+      "latitude": 45.09085,
+      "longitude": 7.663001,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123570400"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q3907959",
+      "name_it": "ponte Carpanini",
+      "name_en": "Ponte Carpanini",
+      "latitude": 45.082238,
+      "longitude": 7.684971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907959"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q50378230",
+      "name_it": "Ponte Carrega",
+      "name_en": "Ponte Carrega",
+      "latitude": 44.435826,
+      "longitude": 8.962399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50378230"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q2792530",
+      "name_it": "Ponte Cavour",
+      "name_en": "Ponte Cavour",
+      "latitude": 41.904972,
+      "longitude": 12.474389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2792530"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q104090818",
+      "name_it": "Ponte Cavriga",
+      "name_en": "Cavriga Bridge",
+      "latitude": 45.600167,
+      "longitude": 9.289037,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104090818"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q107456406",
+      "name_it": "Ponte Cesare Battisti",
+      "name_en": "Ponte Cesare Battisti",
+      "latitude": 44.37556,
+      "longitude": 9.88458,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107456406"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q125563689",
+      "name_it": "ponte Cesare Cantù",
+      "name_en": "Cesare Cantù Bridge",
+      "latitude": 45.783889,
+      "longitude": 9.434722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125563689"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q131906626",
+      "name_it": "ponte Chiavica",
+      "name_en": "Ponte Chiavica",
+      "latitude": 42.66062,
+      "longitude": 11.016745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131906626"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q56779440",
+      "name_it": "ponte ciclopedonale della Fosina",
+      "name_en": "Ponte ciclopedonale della Fosina",
+      "latitude": 46.218988,
+      "longitude": 11.101719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56779440"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q106083477",
+      "name_it": "",
+      "name_en": "Ponte Cipolli",
+      "latitude": 44.128902,
+      "longitude": 11.177088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083477"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q16591307",
+      "name_it": "Ponte Cittadella",
+      "name_en": "Ponte Cittadella",
+      "latitude": 44.91893,
+      "longitude": 8.60932,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591307"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q71672965",
+      "name_it": "Ponte Clementino",
+      "name_en": "Ponte Clementino",
+      "latitude": 42.290303,
+      "longitude": 12.412637,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71672965"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q1053846",
+      "name_it": "ponte coperto",
+      "name_en": "Ponte Coperto",
+      "latitude": 45.180656,
+      "longitude": 9.15319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1053846"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q71691984",
+      "name_it": "ponte Cornicchio",
+      "name_en": "Cornicchio bridge",
+      "latitude": 46.06666,
+      "longitude": 11.13686,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71691984"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q112137103",
+      "name_it": "Ponte Corvo",
+      "name_en": "",
+      "latitude": 45.626634,
+      "longitude": 9.559219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137103"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q3907961",
+      "name_it": "Ponte Costanzo",
+      "name_en": "Ponte Costanzo",
+      "latitude": 36.86433,
+      "longitude": 14.72691,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907961"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q112137336",
+      "name_it": "Ponte Cotonificio Dell'Acqua sull'Olona",
+      "name_en": "",
+      "latitude": 45.595329,
+      "longitude": 8.921631,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137336"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q112142370",
+      "name_it": "Ponte D' Agliate",
+      "name_en": "",
+      "latitude": 45.685676,
+      "longitude": 9.237043,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142370"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q113050661",
+      "name_it": "Ponte d'accesso",
+      "name_en": "Castrum in Castelseprio - access bridge",
+      "latitude": 45.72894,
+      "longitude": 8.85832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113050661"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q3908070",
+      "name_it": "Ponte d'Arena",
+      "name_en": "",
+      "latitude": 45.584094,
+      "longitude": 9.277722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908070"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q56604722",
+      "name_it": "ponte Dante",
+      "name_en": "Ponte Dante",
+      "latitude": 45.66436,
+      "longitude": 12.25085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604722"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q104091182",
+      "name_it": "ponte De Gradi",
+      "name_en": "De Gradi Bridge",
+      "latitude": 45.584022,
+      "longitude": 9.281854,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104091182"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q56604200",
+      "name_it": "ponte de l'Anzolo",
+      "name_en": "Ponte de l'Anzolo",
+      "latitude": 45.432628,
+      "longitude": 12.31869,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604200"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q56604210",
+      "name_it": "ponte de l'Anzolo",
+      "name_en": "Ponte de l'Anzolo",
+      "latitude": 45.43579,
+      "longitude": 12.339886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604210"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q28003396",
+      "name_it": "ponte de l'Inguissot",
+      "name_en": "ponte de l'Inguissot",
+      "latitude": 45.65273,
+      "longitude": 7.86946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003396"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q56651043",
+      "name_it": "ponte de la Cavana del Gas",
+      "name_en": "Ponte de la Cavana del Gas",
+      "latitude": 45.439445,
+      "longitude": 12.34617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56651043"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q56659306",
+      "name_it": "ponte de la Corona",
+      "name_en": "Ponte de la Corona",
+      "latitude": 45.435761,
+      "longitude": 12.342312,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56659306"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q138918976",
+      "name_it": "Ponte de la Utra",
+      "name_en": "Ponte de la Utra",
+      "latitude": 44.117991,
+      "longitude": 8.174689,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138918976"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q57339075",
+      "name_it": "",
+      "name_en": "Ponte de le Sechere",
+      "latitude": 45.438035,
+      "longitude": 12.322958,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57339075"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q56604337",
+      "name_it": "ponte de le Terese",
+      "name_en": "Ponte de le Terese",
+      "latitude": 45.433274,
+      "longitude": 12.317095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604337"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q17517427",
+      "name_it": "Ponte de Pria",
+      "name_en": "Ponte de Pria",
+      "latitude": 45.6694,
+      "longitude": 12.2461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17517427"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q56604097",
+      "name_it": "ponte de Sant'Antonin",
+      "name_en": "Ponte de Sant'Antonin",
+      "latitude": 45.435563,
+      "longitude": 12.346049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604097"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q28003382",
+      "name_it": "Ponte degli Alidosi",
+      "name_en": "Ponte degli Alidosi",
+      "latitude": 44.214742,
+      "longitude": 11.506288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003382"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q28003449",
+      "name_it": "ponte degli Alpini",
+      "name_en": "Ponte degli Alpini",
+      "latitude": 46.145119,
+      "longitude": 12.214715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003449"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q28003417",
+      "name_it": "ponte degli Sbirri",
+      "name_en": "ponte degli Sbirri",
+      "latitude": 44.693342,
+      "longitude": 12.181934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003417"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q34770809",
+      "name_it": "ponte degli scalini",
+      "name_en": "Ponte degli scalini",
+      "latitude": 45.43749,
+      "longitude": 8.88981,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34770809"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q112141078",
+      "name_it": "Ponte dei Bertoli",
+      "name_en": "Ponte dei Bertoli",
+      "latitude": 45.608172,
+      "longitude": 9.297556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141078"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q28003429",
+      "name_it": "ponte dei Cocci",
+      "name_en": "",
+      "latitude": 43.66769,
+      "longitude": 12.52533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003429"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q114964888",
+      "name_it": "Ponte dei Fieschi",
+      "name_en": "Ponte dei Fieschi",
+      "latitude": 44.409678,
+      "longitude": 9.235825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114964888"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q106080265",
+      "name_it": "",
+      "name_en": "Ponte dei Frati",
+      "latitude": 43.858072,
+      "longitude": 11.978888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080265"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q112143555",
+      "name_it": "Ponte dei Frati",
+      "name_en": "Ponte dei Frati",
+      "latitude": 45.870281,
+      "longitude": 9.652597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143555"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q112044639",
+      "name_it": "Ponte dei frati",
+      "name_en": "",
+      "latitude": 43.8192,
+      "longitude": 10.5028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112044639"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q3908073",
+      "name_it": "ponte dei Leoni",
+      "name_en": "Ponte dei Leoni",
+      "latitude": 45.584094,
+      "longitude": 9.277722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908073"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q3908074",
+      "name_it": "Ponte dei Mulini",
+      "name_en": "Ponte dei Mulini, Mantua",
+      "latitude": 45.1658,
+      "longitude": 10.7885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908074"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q57326317",
+      "name_it": "ponte dei Pensieri",
+      "name_en": "Ponte dei Pensieri",
+      "latitude": 45.435049,
+      "longitude": 12.357527,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57326317"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q68662462",
+      "name_it": "Ponte dei Preti",
+      "name_en": "Ponte dei Preti",
+      "latitude": 45.416624,
+      "longitude": 7.762669,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68662462"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q106080149",
+      "name_it": "",
+      "name_en": "Ponte dei Priori",
+      "latitude": 44.432129,
+      "longitude": 9.491515,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080149"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q20020861",
+      "name_it": "Ponte dei Santi",
+      "name_en": "",
+      "latitude": 41.781272,
+      "longitude": 13.409897,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20020861"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q56604229",
+      "name_it": "ponte dei Santi Apostoli",
+      "name_en": "Ponte dei Santi Apostoli",
+      "latitude": 45.440085,
+      "longitude": 12.336461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604229"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q28668647",
+      "name_it": "Ponte dei Santi Filippo e Giacomo",
+      "name_en": "",
+      "latitude": 42.852117,
+      "longitude": 13.602693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28668647"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q108841169",
+      "name_it": "",
+      "name_en": "Ponte dei Saraceni, Adrano",
+      "latitude": 37.70091,
+      "longitude": 14.79977,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108841169"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q96652561",
+      "name_it": "Ponte dei Servi",
+      "name_en": "Ponte dei Servi",
+      "latitude": 46.046389,
+      "longitude": 10.893889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96652561"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q106083355",
+      "name_it": "",
+      "name_en": "Ponte dei Sisti",
+      "latitude": 44.692304,
+      "longitude": 12.180533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083355"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q57340669",
+      "name_it": "Ponte dei Tre Ponti",
+      "name_en": "Ponte dei Tre Ponti",
+      "latitude": 45.43708,
+      "longitude": 12.319943,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57340669"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q28003377",
+      "name_it": "ponte dei Veneziani",
+      "name_en": "ponte dei Veneziani",
+      "latitude": 44.121467,
+      "longitude": 12.061632,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003377"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q28003399",
+      "name_it": "ponte dei Voltoni",
+      "name_en": "Ponte dei Voltoni",
+      "latitude": 45.43858,
+      "longitude": 10.6964,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003399"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q110205772",
+      "name_it": "Ponte del Cappello",
+      "name_en": "Ponte del Cappello",
+      "latitude": 45.787342,
+      "longitude": 9.628176,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110205772"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q107457356",
+      "name_it": "ponte del Carmine",
+      "name_en": "ponte del Carmine",
+      "latitude": 44.383183,
+      "longitude": 9.88456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107457356"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q107299718",
+      "name_it": "ponte del Castellaz",
+      "name_en": "Ponte del Castellaz",
+      "latitude": 46.387768,
+      "longitude": 11.037082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107299718"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q66974855",
+      "name_it": "Ponte del Cicaleto",
+      "name_en": "",
+      "latitude": 43.93128,
+      "longitude": 11.60706,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66974855"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q3908079",
+      "name_it": "Ponte del Diavolo",
+      "name_en": "Ponte del Diavolo",
+      "latitude": 46.09191,
+      "longitude": 13.43166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908079"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q18288893",
+      "name_it": "Ponte del Diavolo",
+      "name_en": "Ponte del Diavolo",
+      "latitude": 45.267969,
+      "longitude": 7.479176,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18288893"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q28003390",
+      "name_it": "ponte del Diavolo",
+      "name_en": "Ponte del Diavolo",
+      "latitude": 43.20515,
+      "longitude": 13.28662,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003390"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q68662646",
+      "name_it": "Ponte del Diavolo",
+      "name_en": "Ponte del Diavolo",
+      "latitude": 38.78702,
+      "longitude": 16.516635,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68662646"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q87351852",
+      "name_it": "ponte del Diavolo",
+      "name_en": "Ponte del Diavolo",
+      "latitude": 39.369927,
+      "longitude": 16.046544,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87351852"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q99656430",
+      "name_it": "Ponte del diavolo",
+      "name_en": "",
+      "latitude": 45.96149,
+      "longitude": 9.22751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99656430"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q106082426",
+      "name_it": "",
+      "name_en": "Ponte del Gorgolaio",
+      "latitude": 43.952087,
+      "longitude": 11.743396,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082426"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q56516416",
+      "name_it": "Ponte del Guazzaloca",
+      "name_en": "Guazzaloca bridge",
+      "latitude": 44.752483,
+      "longitude": 11.217717,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56516416"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q106083851",
+      "name_it": "Ponte del Ladrone",
+      "name_en": "Ponte del Ladrone",
+      "latitude": 43.896449,
+      "longitude": 11.779063,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083851"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q136304364",
+      "name_it": "ponte del lago di San Domenico",
+      "name_en": "bridge of the San Domenico lake",
+      "latitude": 41.942762,
+      "longitude": 13.829008,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136304364"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q100327731",
+      "name_it": "ponte del Malione",
+      "name_en": "ponte del Malione",
+      "latitude": 46.13053,
+      "longitude": 8.55119,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100327731"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q3908081",
+      "name_it": "Ponte del Mare",
+      "name_en": "Ponte del Mare",
+      "latitude": 42.466454,
+      "longitude": 14.223647,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908081"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q106082406",
+      "name_it": "Ponte del Mulino di Trappisa",
+      "name_en": "Ponte del Mulino di Trappisa",
+      "latitude": 43.868476,
+      "longitude": 11.883411,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082406"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q3908082",
+      "name_it": "Ponte del Passo",
+      "name_en": "Ponte del Passo",
+      "latitude": 46.17256,
+      "longitude": 9.40405,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908082"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q66986872",
+      "name_it": "ponte del Pianello",
+      "name_en": "Ponte Pianello",
+      "latitude": 40.753721,
+      "longitude": 15.489912,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66986872"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q107262225",
+      "name_it": "Ponte del Rastrello",
+      "name_en": "",
+      "latitude": 45.7736,
+      "longitude": 12.8382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107262225"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q28003427",
+      "name_it": "ponte del Riscatto",
+      "name_en": "Ponte del Riscatto",
+      "latitude": 43.66959,
+      "longitude": 12.522485,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003427"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q3908084",
+      "name_it": "Ponte del Risorgimento",
+      "name_en": "Ponte del Risorgimento",
+      "latitude": 45.444556,
+      "longitude": 10.982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908084"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q106083910",
+      "name_it": "",
+      "name_en": "Ponte del Risorgimento",
+      "latitude": 44.13968,
+      "longitude": 12.235162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083910"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q57339528",
+      "name_it": "",
+      "name_en": "Ponte del Stadio",
+      "latitude": 45.427548,
+      "longitude": 12.363221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57339528"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q136939137",
+      "name_it": "Ponte dell'Amicizia",
+      "name_en": "Ponte dell'Amicizia",
+      "latitude": 46.182809,
+      "longitude": 11.246792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136939137"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q56604251",
+      "name_it": "ponte dell'Arco",
+      "name_en": "Ponte dell'Arco",
+      "latitude": 45.436879,
+      "longitude": 12.342711,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604251"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q3908087",
+      "name_it": "Ponte dell'Arenaccia",
+      "name_en": "",
+      "latitude": 40.864952,
+      "longitude": 14.269377,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908087"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q56604288",
+      "name_it": "ponte dell'Aseo",
+      "name_en": "Ponte dell'Aseo",
+      "latitude": 45.445083,
+      "longitude": 12.329833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604288"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q3397715",
+      "name_it": "Ponte dell'autostrada A1",
+      "name_en": "Autostrada A1 bridge",
+      "latitude": 43.786944,
+      "longitude": 11.158611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397715"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q3908089",
+      "name_it": "Ponte dell'Industria",
+      "name_en": "Ponte dell'Industria",
+      "latitude": 41.87195,
+      "longitude": 12.472122,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908089"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q107999707",
+      "name_it": "Ponte della Badia di Susinana",
+      "name_en": "Ponte della Badia di Susinana",
+      "latitude": 44.141042,
+      "longitude": 11.575035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107999707"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q105623173",
+      "name_it": "ponte della Barciuja",
+      "name_en": "ponte della Barciuja",
+      "latitude": 45.72593,
+      "longitude": 8.32837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105623173"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q3908092",
+      "name_it": "Ponte della Becca",
+      "name_en": "Ponte della Becca",
+      "latitude": 45.140554,
+      "longitude": 9.226761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908092"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q106082412",
+      "name_it": "Ponte della Bottega",
+      "name_en": "Ponte della Bottega",
+      "latitude": 43.870436,
+      "longitude": 11.891562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082412"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q106083088",
+      "name_it": "Ponte della Brusia",
+      "name_en": "Ponte della Brusia",
+      "latitude": 44.0072,
+      "longitude": 11.746506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083088"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q28003381",
+      "name_it": "ponte della Ceramica",
+      "name_en": "",
+      "latitude": 45.06446,
+      "longitude": 9.87413,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003381"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q64224954",
+      "name_it": "Ponte della Civera",
+      "name_en": "Ponte della Civera",
+      "latitude": 45.91068,
+      "longitude": 9.1544,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64224954"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q25053886",
+      "name_it": "Ponte della Concordia",
+      "name_en": "Ponte della Concordia",
+      "latitude": 43.6883,
+      "longitude": 12.8034,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25053886"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q107439632",
+      "name_it": "Ponte della Crësa",
+      "name_en": "Ponte della Crësa",
+      "latitude": 44.37766,
+      "longitude": 9.88139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107439632"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q110163294",
+      "name_it": "Ponte della Delizia",
+      "name_en": "Ponte della Delizia (bridge)",
+      "latitude": 45.964888,
+      "longitude": 12.903927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110163294"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q3908098",
+      "name_it": "Ponte della Ferrovia",
+      "name_en": "",
+      "latitude": 45.4275,
+      "longitude": 10.995,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908098"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q3908096",
+      "name_it": "Ponte della ferrovia",
+      "name_en": "",
+      "latitude": 45.475906,
+      "longitude": 10.941189,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908096"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q105920307",
+      "name_it": "Ponte della Fola",
+      "name_en": "Ponte della Fola",
+      "latitude": 44.212765,
+      "longitude": 10.629742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105920307"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q114946736",
+      "name_it": "ponte della Gaietta",
+      "name_en": "Ponte della Gaietta",
+      "latitude": 44.363313,
+      "longitude": 8.205196,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114946736"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q55832214",
+      "name_it": "Ponte della Gerola",
+      "name_en": "Ponte della Gerola",
+      "latitude": 45.06007,
+      "longitude": 8.90558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55832214"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q71832607",
+      "name_it": "Ponte della Girometta",
+      "name_en": "Ponte della Girometta",
+      "latitude": 45.230747,
+      "longitude": 11.651339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71832607"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q68676061",
+      "name_it": "Ponte della Gula",
+      "name_en": "Ponte della Gula",
+      "latitude": 45.844495,
+      "longitude": 8.249325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68676061"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q99371373",
+      "name_it": "Ponte della Lavandara",
+      "name_en": "Ponte della Lavandara",
+      "latitude": 40.83673,
+      "longitude": 15.03049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99371373"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q106083534",
+      "name_it": "",
+      "name_en": "Ponte della Luna",
+      "latitude": 44.232742,
+      "longitude": 10.648937,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083534"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q3908101",
+      "name_it": "Ponte della Maddalena",
+      "name_en": "Ponte della Maddalena, Naples",
+      "latitude": 40.84529,
+      "longitude": 14.27793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908101"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q114961868",
+      "name_it": "Ponte della Maddalena",
+      "name_en": "Ponte della Maddalena",
+      "latitude": 44.317856,
+      "longitude": 9.343307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114961868"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q114956424",
+      "name_it": "Ponte della Madonna degli Angeli",
+      "name_en": "Ponte della Madonna degli Angeli",
+      "latitude": 43.919999,
+      "longitude": 7.843856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956424"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q80783162",
+      "name_it": "Ponte della Maestà",
+      "name_en": "Ponte della Maestà",
+      "latitude": 44.024564,
+      "longitude": 11.783371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80783162"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q3908102",
+      "name_it": "Ponte della Magliana",
+      "name_en": "Ponte della Magliana",
+      "latitude": 41.839378,
+      "longitude": 12.457927,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908102"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q3908105",
+      "name_it": "Ponte della Musica",
+      "name_en": "Ponte della Musica",
+      "latitude": 41.9265,
+      "longitude": 12.45967,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908105"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q118120333",
+      "name_it": "Ponte della Nave",
+      "name_en": "Ponte della Nave",
+      "latitude": 43.774245,
+      "longitude": 11.414051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118120333"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q28003455",
+      "name_it": "ponte della Padregnana",
+      "name_en": "Ponte della Padregnana",
+      "latitude": 45.516764,
+      "longitude": 8.750892,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003455"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q66922961",
+      "name_it": "ponte della pista ciclo-pedonale",
+      "name_en": "Bridge of the pista ciclo-pedonale",
+      "latitude": 43.88276,
+      "longitude": 11.52716,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66922961"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q17651431",
+      "name_it": "Ponte della Pistolesa",
+      "name_en": "Ponte della Pistolesa",
+      "latitude": 45.633,
+      "longitude": 8.133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17651431"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q138966663",
+      "name_it": "Ponte della Riviera",
+      "name_en": "Ponte della Riviera",
+      "latitude": 45.311025,
+      "longitude": 11.934671,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138966663"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q56321977",
+      "name_it": "Ponte della Sega",
+      "name_en": "",
+      "latitude": 44.127278,
+      "longitude": 10.679694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56321977"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q109010169",
+      "name_it": "ponte della Sombliga",
+      "name_en": "Ponte della Sombliga",
+      "latitude": 45.94267,
+      "longitude": 10.62886,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109010169"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q138965026",
+      "name_it": "ponte della SP19 sul fiume Frassine",
+      "name_en": "SP19 bridge over the Frassine river",
+      "latitude": 45.251447,
+      "longitude": 11.481035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138965026"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q138966125",
+      "name_it": "ponte della SP91 sul fiume Fratta",
+      "name_en": "SP91 bridge over the Fratta river",
+      "latitude": 45.155181,
+      "longitude": 11.56494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138966125"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q3908113",
+      "name_it": "Ponte della tramvia",
+      "name_en": "Ponte della tramvia",
+      "latitude": 43.77625,
+      "longitude": 11.2294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908113"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q25410182",
+      "name_it": "Ponte della Vittoria",
+      "name_en": "Ponte della Vittoria",
+      "latitude": 45.62556,
+      "longitude": 12.563054,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25410182"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q28003447",
+      "name_it": "ponte della Vittoria",
+      "name_en": "Ponte della Vittoria",
+      "latitude": 46.134353,
+      "longitude": 12.218808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003447"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q29714527",
+      "name_it": "ponte della Vittoria",
+      "name_en": "Ponte della Vittoria",
+      "latitude": 45.92995,
+      "longitude": 9.46962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29714527"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q114964676",
+      "name_it": "Ponte della Vittoria",
+      "name_en": "Ponte della Vittoria",
+      "latitude": 44.409353,
+      "longitude": 9.237045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114964676"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q112139409",
+      "name_it": "Ponte delle Capre",
+      "name_en": "",
+      "latitude": 45.934393,
+      "longitude": 9.668214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139409"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q3908116",
+      "name_it": "Ponte delle Catene",
+      "name_en": "Ponte delle Catene",
+      "latitude": 44.006139,
+      "longitude": 10.562658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908116"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q112139119",
+      "name_it": "Ponte delle Catene",
+      "name_en": "Ponte delle Catene",
+      "latitude": 45.595305,
+      "longitude": 9.286479,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139119"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q28003410",
+      "name_it": "ponte delle Fate",
+      "name_en": "ponte delle Fate",
+      "latitude": 44.196544,
+      "longitude": 8.365249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003410"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q3908117",
+      "name_it": "Ponte delle Gabelle",
+      "name_en": "Bridge of Gabelle",
+      "latitude": 45.48,
+      "longitude": 9.19007,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908117"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q114347342",
+      "name_it": "Ponte delle Giaire",
+      "name_en": "Ponte delle Giaire",
+      "latitude": 44.126046,
+      "longitude": 8.211274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114347342"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q106083418",
+      "name_it": "",
+      "name_en": "Ponte delle Graticce",
+      "latitude": 43.839447,
+      "longitude": 11.898969,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083418"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q72157263",
+      "name_it": "Ponte delle Grazie",
+      "name_en": "Ponte delle Grazie",
+      "latitude": 45.22577,
+      "longitude": 11.660292,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72157263"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q131389967",
+      "name_it": "Ponte delle Grazie",
+      "name_en": "Ponte delle Grazie",
+      "latitude": 43.931209,
+      "longitude": 7.65499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131389967"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q3908118",
+      "name_it": "ponte delle Grazie Vecchie",
+      "name_en": "Grazie Vecchie Bridge",
+      "latitude": 45.591744,
+      "longitude": 9.283871,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908118"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q106082360",
+      "name_it": "Ponte delle Gualchiere",
+      "name_en": "Ponte delle Gualchiere",
+      "latitude": 43.814132,
+      "longitude": 11.953512,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082360"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q97279857",
+      "name_it": "Ponte delle Marmore",
+      "name_en": "Marmore bridge",
+      "latitude": 42.553398,
+      "longitude": 12.700046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97279857"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q97503206",
+      "name_it": "Ponte delle Mille miglia",
+      "name_en": "Ponte delle Mille miglia",
+      "latitude": 43.060222,
+      "longitude": 11.601056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97503206"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q112686757",
+      "name_it": "Ponte delle Nazioni",
+      "name_en": "Ponte delle Nazioni",
+      "latitude": 44.808889,
+      "longitude": 10.325278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112686757"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q66476413",
+      "name_it": "Ponte delle Parole d'oro",
+      "name_en": "Ponte delle Parole d'oro",
+      "latitude": 43.801025,
+      "longitude": 10.52394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66476413"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q106049814",
+      "name_it": "Ponte delle Portine",
+      "name_en": "Ponte delle Portine",
+      "latitude": 44.84971,
+      "longitude": 10.636724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106049814"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q28003454",
+      "name_it": "ponte delle Teste di ferro",
+      "name_en": "Ponte delle Teste di ferro",
+      "latitude": 45.62486,
+      "longitude": 10.56658,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003454"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q16591375",
+      "name_it": "Ponte delle Torri",
+      "name_en": "Ponte delle Torri",
+      "latitude": 42.733083,
+      "longitude": 12.743577,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591375"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q21208574",
+      "name_it": "Ponte delle Zigherane",
+      "name_en": "Ponte delle Zigherane",
+      "latitude": 45.880888,
+      "longitude": 11.022079,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21208574"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q28003456",
+      "name_it": "ponte dell’Indipendenza",
+      "name_en": "Ponte dell'Indipendenza",
+      "latitude": 45.50636,
+      "longitude": 8.775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003456"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q106073920",
+      "name_it": "",
+      "name_en": "Ponte denominato Picchiasassi",
+      "latitude": 44.164991,
+      "longitude": 10.639623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073920"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q106073919",
+      "name_it": "",
+      "name_en": "Ponte denominato San Michele sul Rio Scoltenna",
+      "latitude": 44.190648,
+      "longitude": 10.636667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073919"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q30184390",
+      "name_it": "ponte di Airola",
+      "name_en": "",
+      "latitude": 44.32158,
+      "longitude": 9.69364,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30184390"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q3908121",
+      "name_it": "Ponte di Annibale",
+      "name_en": "Ponte di Annibale",
+      "latitude": 41.2914,
+      "longitude": 14.5496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908121"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q113084011",
+      "name_it": "Ponte di Attone",
+      "name_en": "Ponte di Attone",
+      "latitude": 45.76063,
+      "longitude": 9.60359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113084011"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q28003438",
+      "name_it": "ponte di barche sul canale Navarolo",
+      "name_en": "ships bridge over Navarolo sewer",
+      "latitude": 45.03247,
+      "longitude": 10.54566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003438"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q114956710",
+      "name_it": "Ponte di Barcheto",
+      "name_en": "Ponte di Barcheto",
+      "latitude": 43.902764,
+      "longitude": 8.027133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956710"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q61197914",
+      "name_it": "Ponte di Bard",
+      "name_en": "Ponte di Bard",
+      "latitude": 45.61179,
+      "longitude": 7.74429,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61197914"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q60840329",
+      "name_it": "Ponte di Boffalora sopra Ticino",
+      "name_en": "Boffalora sopra Ticino railway bridge",
+      "latitude": 45.450477,
+      "longitude": 8.805426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60840329"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q28003450",
+      "name_it": "ponte di Borgo Prà",
+      "name_en": "Ponte di Borgo Prà",
+      "latitude": 46.142992,
+      "longitude": 12.217781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003450"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q55398037",
+      "name_it": "ponte di Boscotosca",
+      "name_en": "Boscotosca bridge",
+      "latitude": 45.096064,
+      "longitude": 9.450924,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55398037"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q106082826",
+      "name_it": "Ponte di Brandola",
+      "name_en": "Ponte di Brandola",
+      "latitude": 44.336396,
+      "longitude": 10.738536,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082826"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q138902881",
+      "name_it": "Ponte di Brenta d'Abbà",
+      "name_en": "Ponte di Brenta d'Abbà",
+      "latitude": 45.23342,
+      "longitude": 12.11078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138902881"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q112140416",
+      "name_it": "ponte di Brivio",
+      "name_en": "Brivio Bridge",
+      "latitude": 45.739307,
+      "longitude": 9.448674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140416"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q123856035",
+      "name_it": "Ponte di Budanghel",
+      "name_en": "Bridge of Budanghel",
+      "latitude": 46.164057,
+      "longitude": 9.212447,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123856035"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q106083848",
+      "name_it": "",
+      "name_en": "Ponte di Ca' Morelli sul Bidente di Pietrapazza",
+      "latitude": 43.891435,
+      "longitude": 11.904961,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083848"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q68664186",
+      "name_it": "Ponte di Cadignano",
+      "name_en": "Ponte di Cadignano",
+      "latitude": 44.336765,
+      "longitude": 10.527087,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68664186"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q28671446",
+      "name_it": "ponte di Campofranco",
+      "name_en": "",
+      "latitude": 37.496371,
+      "longitude": 13.709698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28671446"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q62128694",
+      "name_it": "ponte di Cantilaga",
+      "name_en": "Cantilaga bridge",
+      "latitude": 46.189806,
+      "longitude": 11.251056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q62128694"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q41473911",
+      "name_it": "Ponte di Carignano",
+      "name_en": "Ponte di Carignano",
+      "latitude": 44.402797,
+      "longitude": 8.933724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q41473911"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q136343998",
+      "name_it": "ponte di Castelletto di Abbiategrasso",
+      "name_en": "Castelletto di Abbiategrasso bridge",
+      "latitude": 45.400017,
+      "longitude": 8.935956,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136343998"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q56065975",
+      "name_it": "Ponte di Castruccio Castracani",
+      "name_en": "Ponte di Castruccio Castracani",
+      "latitude": 44.03912,
+      "longitude": 10.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56065975"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q114964480",
+      "name_it": "Ponte di Celesia",
+      "name_en": "Ponte di Celesia",
+      "latitude": 44.401674,
+      "longitude": 9.346321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114964480"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q3908127",
+      "name_it": "Ponte di Cerbaia",
+      "name_en": "Ponte Medievale di Cerbaia",
+      "latitude": 44.0084,
+      "longitude": 11.1428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908127"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q60837238",
+      "name_it": "Ponte di Chevril",
+      "name_en": "",
+      "latitude": 45.664374,
+      "longitude": 7.230585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60837238"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q28003431",
+      "name_it": "ponte di Chiatte",
+      "name_en": "Ponte di Chiatte",
+      "latitude": 44.8359,
+      "longitude": 12.3442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003431"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q108654871",
+      "name_it": "Ponte di Cicerone",
+      "name_en": "Ponte di Cicerone",
+      "latitude": 37.777498,
+      "longitude": 14.494248,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108654871"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q99513083",
+      "name_it": "Ponte di Combo",
+      "name_en": "",
+      "latitude": 46.46649,
+      "longitude": 10.37942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99513083"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q106046649",
+      "name_it": "Ponte di Concordia sulla Secchia",
+      "name_en": "Ponte di Concordia",
+      "latitude": 44.910723,
+      "longitude": 10.983294,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106046649"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q114962390",
+      "name_it": "Ponte di Cornaleto",
+      "name_en": "Ponte di Cornaleto",
+      "latitude": 44.533098,
+      "longitude": 9.410419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114962390"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q130204005",
+      "name_it": "Ponte di Cornigliano",
+      "name_en": "Ponte di Cornigliano",
+      "latitude": 44.415348,
+      "longitude": 8.879786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130204005"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q96407634",
+      "name_it": "Ponte di Croina",
+      "name_en": "Ponte di Croina",
+      "latitude": 45.90563,
+      "longitude": 10.67365,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96407634"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q61613289",
+      "name_it": "Ponte di Cuggiono",
+      "name_en": "",
+      "latitude": 45.49429,
+      "longitude": 8.79259,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61613289"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q21552357",
+      "name_it": "Ponte di Diocleziano",
+      "name_en": "Bridge of Diocletian",
+      "latitude": 42.230665,
+      "longitude": 14.391222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21552357"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q55674817",
+      "name_it": "ponte di Diocleziano",
+      "name_en": "Ponte di Diocleziano",
+      "latitude": 42.22655,
+      "longitude": 14.389023,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55674817"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q65920421",
+      "name_it": "Ponte di ferro",
+      "name_en": "Ponte di ferro",
+      "latitude": 43.764695,
+      "longitude": 11.271014,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65920421"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q131236982",
+      "name_it": "Ponte di Fondo",
+      "name_en": "Fondo Bridge",
+      "latitude": 45.531468,
+      "longitude": 7.686177,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131236982"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q89206687",
+      "name_it": "Ponte di Forcola",
+      "name_en": "",
+      "latitude": 45.89544,
+      "longitude": 9.57949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q89206687"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q55109224",
+      "name_it": "ponte di Galliate",
+      "name_en": "Galliate bridge",
+      "latitude": 45.5086,
+      "longitude": 8.72,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55109224"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q112044679",
+      "name_it": "Ponte di Ganda",
+      "name_en": "Ponte di Ganda",
+      "latitude": 46.146046,
+      "longitude": 9.571788,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112044679"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q28003392",
+      "name_it": "ponte di Introd",
+      "name_en": "Ponte di Introd (1915)",
+      "latitude": 45.691562,
+      "longitude": 7.185105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003392"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q114957007",
+      "name_it": "Ponte di Lavina",
+      "name_en": "Ponte di Lavina",
+      "latitude": 44.027869,
+      "longitude": 7.902911,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114957007"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q29693311",
+      "name_it": "ponte di Lentrèe",
+      "name_en": "",
+      "latitude": 46.07282,
+      "longitude": 9.36229,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29693311"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q3908134",
+      "name_it": "ponte di Lodi",
+      "name_en": "Bridge of Lodi",
+      "latitude": 45.319067,
+      "longitude": 9.50857,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908134"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q106082784",
+      "name_it": "",
+      "name_en": "Ponte di Lugagnano",
+      "latitude": 44.412831,
+      "longitude": 10.137797,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082784"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q131324730",
+      "name_it": "ponte di Mantignano",
+      "name_en": "ponte di Mantignano",
+      "latitude": 43.782291,
+      "longitude": 11.182064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131324730"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q106083724",
+      "name_it": "",
+      "name_en": "Ponte di Maria Luigia",
+      "latitude": 44.590883,
+      "longitude": 9.594957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083724"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q55108958",
+      "name_it": "ponte di Mezzanacorti",
+      "name_en": "Mezzanacorti bridge",
+      "latitude": 45.10622,
+      "longitude": 9.114983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55108958"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q3908135",
+      "name_it": "ponte di Mezzo",
+      "name_en": "Ponte di Mezzo",
+      "latitude": 44.802351,
+      "longitude": 10.32354,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908135"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q18785546",
+      "name_it": "ponte di Mezzocammino",
+      "name_en": "Ponte di Mezzocammino",
+      "latitude": 41.808126,
+      "longitude": 12.418291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18785546"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q112137877",
+      "name_it": "Ponte di Milano",
+      "name_en": "",
+      "latitude": 45.529946,
+      "longitude": 9.403257,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137877"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q117433306",
+      "name_it": "Ponte di Molino Carliseppi",
+      "name_en": "bridge at Mulino Carliseppi",
+      "latitude": 46.040157,
+      "longitude": 9.207973,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117433306"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q134487408",
+      "name_it": "ponte di Montecchio",
+      "name_en": "Montecchio Bridge",
+      "latitude": 45.886547,
+      "longitude": 10.192558,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134487408"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q116599755",
+      "name_it": "Ponte di Murin",
+      "name_en": "Ponte di Murin",
+      "latitude": 44.12873,
+      "longitude": 8.20671,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116599755"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q56650059",
+      "name_it": "Ponte di Oleggio",
+      "name_en": "Ponte di Oleggio",
+      "latitude": 45.5895,
+      "longitude": 8.7044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56650059"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q106073941",
+      "name_it": "",
+      "name_en": "Ponte di Olina",
+      "latitude": 44.298528,
+      "longitude": 10.782677,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073941"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q114602904",
+      "name_it": "Ponte di Pian di Maggio",
+      "name_en": "Ponte di Pian di Maggio",
+      "latitude": 43.020698,
+      "longitude": 11.689825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114602904"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q106083590",
+      "name_it": "Ponte di Pianoro Vecchio",
+      "name_en": "Ponte di Pianoro Vecchio",
+      "latitude": 44.371947,
+      "longitude": 11.340236,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083590"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q106083421",
+      "name_it": "",
+      "name_en": "Ponte di Pietrapazza sul Bidente di Pietrapazza",
+      "latitude": 43.840136,
+      "longitude": 11.896729,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083421"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q30184316",
+      "name_it": "ponte di Pignona",
+      "name_en": "bridge of Pignona",
+      "latitude": 44.31603,
+      "longitude": 9.69302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30184316"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q3908143",
+      "name_it": "Ponte di Pinzano",
+      "name_en": "Ponte di Pinzano",
+      "latitude": 46.185149,
+      "longitude": 12.957172,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908143"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q112318012",
+      "name_it": "Ponte di Pontenove",
+      "name_en": "",
+      "latitude": 45.498244,
+      "longitude": 10.40209,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112318012"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q126681018",
+      "name_it": "Ponte di Pozzena",
+      "name_en": "",
+      "latitude": 46.39779,
+      "longitude": 11.07833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126681018"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q28003437",
+      "name_it": "ponte di Proh",
+      "name_en": "Ponte di Proh",
+      "latitude": 45.531877,
+      "longitude": 8.509089,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003437"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q99871448",
+      "name_it": "Ponte di Ragnaia",
+      "name_en": "",
+      "latitude": 43.933094,
+      "longitude": 11.464747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99871448"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q3908144",
+      "name_it": "Ponte di Ravazzone",
+      "name_en": "Ponte di Ravazzone",
+      "latitude": 45.86262,
+      "longitude": 10.99888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908144"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q3908145",
+      "name_it": "Ponte di Rignano",
+      "name_en": "Ponte di Rignano",
+      "latitude": 43.7215,
+      "longitude": 11.454222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908145"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q3908146",
+      "name_it": "Ponte di Roana",
+      "name_en": "",
+      "latitude": 45.876944,
+      "longitude": 11.473611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908146"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q136342799",
+      "name_it": "ponte di Romanterra",
+      "name_en": "Romanterra bridge",
+      "latitude": 45.818893,
+      "longitude": 10.46805,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136342799"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q3908148",
+      "name_it": "Ponte di Rosano",
+      "name_en": "",
+      "latitude": 43.770628,
+      "longitude": 11.423678,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908148"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q112138973",
+      "name_it": "Ponte di S. Giorgio",
+      "name_en": "",
+      "latitude": 45.161304,
+      "longitude": 10.803193,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138973"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q112138825",
+      "name_it": "Ponte di S. Rocco (ruderi)",
+      "name_en": "",
+      "latitude": 46.035969,
+      "longitude": 10.345963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138825"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q112143495",
+      "name_it": "Ponte di S. Vittore",
+      "name_en": "",
+      "latitude": 45.606731,
+      "longitude": 9.560806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143495"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q16591382",
+      "name_it": "Ponte di Sacco",
+      "name_en": "",
+      "latitude": 40.389722,
+      "longitude": 15.364933,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591382"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q112142604",
+      "name_it": "Ponte di Salerano",
+      "name_en": "",
+      "latitude": 45.296483,
+      "longitude": 9.389015,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142604"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q107475976",
+      "name_it": "Ponte di Saliceto",
+      "name_en": "Ponte di Saliceto",
+      "latitude": 44.363313,
+      "longitude": 9.888526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107475976"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q28003379",
+      "name_it": "ponte di San Donato",
+      "name_en": "ponte di San Donato",
+      "latitude": 44.160195,
+      "longitude": 11.792091,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003379"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q71827338",
+      "name_it": "Ponte di San Francesco",
+      "name_en": "Ponte di San Francesco",
+      "latitude": 45.228169,
+      "longitude": 11.652085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71827338"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q107456047",
+      "name_it": "Ponte di San Francesco di Sotto",
+      "name_en": "Ponte del Casotto",
+      "latitude": 44.37469,
+      "longitude": 9.88359,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107456047"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q3908149",
+      "name_it": "ponte di San Gerardino",
+      "name_en": "San Gerardino Bridge",
+      "latitude": 45.58553,
+      "longitude": 9.278716,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908149"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q123513673",
+      "name_it": "Ponte di San Giacomo",
+      "name_en": "Ponte di San Giacomo",
+      "latitude": 44.31258,
+      "longitude": 8.48547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123513673"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q3908150",
+      "name_it": "Ponte di San Giorgio",
+      "name_en": "bridge of san giorgio",
+      "latitude": 45.1613,
+      "longitude": 10.8035,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908150"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q98456104",
+      "name_it": "Ponte di San Giorgio",
+      "name_en": "Ponte di San Giorgio",
+      "latitude": 44.823318,
+      "longitude": 11.628634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98456104"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q3908151",
+      "name_it": "ponte di San Giovanni Nepomuceno",
+      "name_en": "John of Nepomuk bridge",
+      "latitude": 43.552821,
+      "longitude": 10.309639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908151"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q28003434",
+      "name_it": "ponte di San Martino",
+      "name_en": "Ponte San Martino",
+      "latitude": 44.135508,
+      "longitude": 12.237644,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003434"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q114956925",
+      "name_it": "Ponte di San Martino",
+      "name_en": "Ponte di San Martino",
+      "latitude": 43.890843,
+      "longitude": 7.972615,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956925"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q114958533",
+      "name_it": "Ponte di San Martino",
+      "name_en": "Ponte di San Martino",
+      "latitude": 44.322263,
+      "longitude": 8.465506,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114958533"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q115676310",
+      "name_it": "Ponte di San Paolo",
+      "name_en": "Ponte San Paolo",
+      "latitude": 45.54582,
+      "longitude": 11.547117,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115676310"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q28003385",
+      "name_it": "ponte di San Rocco",
+      "name_en": "Ponte San Rocco (Vimercate)",
+      "latitude": 45.61257,
+      "longitude": 9.37538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003385"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q13101122",
+      "name_it": "ponte di San Rocco",
+      "name_en": "",
+      "latitude": 45.61257,
+      "longitude": 9.37538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13101122"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q114977006",
+      "name_it": "Ponte di Sant'Agata",
+      "name_en": "Ponte di Sant'Agata",
+      "latitude": 44.408053,
+      "longitude": 8.950743,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114977006"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q107262213",
+      "name_it": "Ponte di Sant'Andrea",
+      "name_en": "Ponte di Sant'Andrea",
+      "latitude": 45.776405,
+      "longitude": 12.836496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107262213"
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q110205899",
+      "name_it": "Ponte di Sant'Ansano",
+      "name_en": "Ponte di Sant'Ansano",
+      "latitude": 43.91018,
+      "longitude": 10.52779,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110205899"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q56635994",
+      "name_it": "ponte di Sant'Antuono",
+      "name_en": "Ponte di Sant'Antuono",
+      "latitude": 40.47474,
+      "longitude": 15.85056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56635994"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q3908153",
+      "name_it": "Ponte di Santa Barbara",
+      "name_en": "",
+      "latitude": 41.12536,
+      "longitude": 14.77578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908153"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q137669451",
+      "name_it": "ponte di Serravalle Scrivia",
+      "name_en": "Serravalle Scrivia bridge",
+      "latitude": 44.720159,
+      "longitude": 8.86076,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137669451"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q66930371",
+      "name_it": "ponte di Sessanto",
+      "name_en": "Ponte di Sessanto",
+      "latitude": 43.994868,
+      "longitude": 11.139005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66930371"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q55289870",
+      "name_it": "ponte di Sesto Calende",
+      "name_en": "Sesto Calende bridge",
+      "latitude": 45.722623,
+      "longitude": 8.62725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55289870"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q112140423",
+      "name_it": "Ponte di sovrappasso sul Naviglio Pavese",
+      "name_en": "",
+      "latitude": 45.317261,
+      "longitude": 9.107108,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140423"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q106073883",
+      "name_it": "",
+      "name_en": "Ponte di Strettara",
+      "latitude": 44.258827,
+      "longitude": 10.711844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106073883"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q136471570",
+      "name_it": "Ponte di Strolech'",
+      "name_en": "Ponte di Strolech'",
+      "latitude": 46.047233,
+      "longitude": 9.115807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136471570"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q121896784",
+      "name_it": "ponte di Valenza",
+      "name_en": "Valenza Bridge",
+      "latitude": 45.05079,
+      "longitude": 8.63156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121896784"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q73390730",
+      "name_it": "ponte di Vaprio d’Adda",
+      "name_en": "Vaprio d’Adda Bridge",
+      "latitude": 45.577136,
+      "longitude": 9.534938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73390730"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q136344016",
+      "name_it": "ponte di Vermezzo",
+      "name_en": "Vermezzo bridge",
+      "latitude": 45.402514,
+      "longitude": 8.972759,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136344016"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q114966031",
+      "name_it": "Ponte di Verzemma",
+      "name_en": "Ponte di Verzemma",
+      "latitude": 44.373626,
+      "longitude": 9.152097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114966031"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q131005386",
+      "name_it": "ponte di Via Postumia",
+      "name_en": "Via Postumia Bridge",
+      "latitude": 44.61573,
+      "longitude": 8.94456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131005386"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q66855768",
+      "name_it": "Ponte di Vigo",
+      "name_en": "Vigo bridge",
+      "latitude": 45.22318,
+      "longitude": 12.28107,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66855768"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q66826942",
+      "name_it": "Ponte di Villa Prati",
+      "name_en": "",
+      "latitude": 44.2645,
+      "longitude": 12.0031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66826942"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q28003383",
+      "name_it": "ponte di Vizzano",
+      "name_en": "Vizzano Bridge",
+      "latitude": 44.416168,
+      "longitude": 11.271799,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003383"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q3908159",
+      "name_it": "Ponte di Zan",
+      "name_en": "Zan Bridge",
+      "latitude": 44.6182,
+      "longitude": 9.0096,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908159"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q131522055",
+      "name_it": "Ponte di Échallod",
+      "name_en": "Échallod Bridge",
+      "latitude": 45.635614,
+      "longitude": 7.717487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131522055"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q30337777",
+      "name_it": "ponte Diana",
+      "name_en": "Ponte Diana",
+      "latitude": 40.756214,
+      "longitude": 9.077282,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30337777"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q3907963",
+      "name_it": "ponte Diga Chievo",
+      "name_en": "Chievo Dam with bridge",
+      "latitude": 45.46033,
+      "longitude": 10.94518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907963"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q28003394",
+      "name_it": "ponte duecentesco sul torrente Lys",
+      "name_en": "thirteenth-century bridge over the Lys stream",
+      "latitude": 45.648214,
+      "longitude": 7.859383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003394"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q106084132",
+      "name_it": "",
+      "name_en": "Ponte Enza",
+      "latitude": 44.769977,
+      "longitude": 10.426786,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106084132"
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q61465728",
+      "name_it": "Ponte Europa",
+      "name_en": "Ponte Europa",
+      "latitude": 43.897222,
+      "longitude": 10.689278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61465728"
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q30327681",
+      "name_it": "ponte Ezzu",
+      "name_en": "Pont'Ezzu",
+      "latitude": 40.528597,
+      "longitude": 8.87646,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30327681"
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q3907965",
+      "name_it": "Ponte Fabio Massimo",
+      "name_en": "Ponte Fabio Massimo",
+      "latitude": 41.2764,
+      "longitude": 14.4828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907965"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q135842145",
+      "name_it": "",
+      "name_en": "Ponte ferroviario (Lecco)",
+      "latitude": 45.84585,
+      "longitude": 9.395413,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135842145"
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q55109185",
+      "name_it": "ponte ferroviario di Casalmaggiore",
+      "name_en": "Casalmaggiore railway bridge",
+      "latitude": 44.977436,
+      "longitude": 10.416563,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55109185"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q139301019",
+      "name_it": "ponte ferroviario di Lambrinia",
+      "name_en": "Lambrinia railway bridge",
+      "latitude": 45.164797,
+      "longitude": 9.531883,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q139301019"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q3908169",
+      "name_it": "ponte ferroviario di Peschiera del Garda",
+      "name_en": "Peschiera del Garda railway bridge",
+      "latitude": 45.435909,
+      "longitude": 10.698666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908169"
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q3908171",
+      "name_it": "ponte ferroviario di Piacenza",
+      "name_en": "Piacenza railway bridge",
+      "latitude": 45.062086,
+      "longitude": 9.706818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908171"
+    },
+    {
+      "id": 326,
+      "wikidata_id": "Q3908147",
+      "name_it": "ponte ferroviario di Ronciglione",
+      "name_en": "Ronciglione railway bridge",
+      "latitude": 42.284699,
+      "longitude": 12.222269,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908147"
+    },
+    {
+      "id": 327,
+      "wikidata_id": "Q104650277",
+      "name_it": "ponte ferroviario sul Naviglio Grande",
+      "name_en": "railway bridge over the Naviglio Grande",
+      "latitude": 45.447829,
+      "longitude": 9.156201,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104650277"
+    },
+    {
+      "id": 328,
+      "wikidata_id": "Q112140480",
+      "name_it": "ponte ferroviario sul Naviglio Grande",
+      "name_en": "railway bridge over the Naviglio Grande",
+      "latitude": 45.403501,
+      "longitude": 8.933379,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140480"
+    },
+    {
+      "id": 329,
+      "wikidata_id": "Q3907967",
+      "name_it": "ponte Filippo Maria Visconti",
+      "name_en": "Ponte Filippo Maria Visconti",
+      "latitude": 44.28206,
+      "longitude": 8.442211,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907967"
+    },
+    {
+      "id": 330,
+      "wikidata_id": "Q30889842",
+      "name_it": "Ponte Flaiano",
+      "name_en": "Ponte Flaiano",
+      "latitude": 42.461703,
+      "longitude": 14.208186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30889842"
+    },
+    {
+      "id": 331,
+      "wikidata_id": "Q3907968",
+      "name_it": "Ponte Flaminio",
+      "name_en": "Ponte Flaminio (Rome)",
+      "latitude": 41.936309,
+      "longitude": 12.471575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907968"
+    },
+    {
+      "id": 332,
+      "wikidata_id": "Q87442481",
+      "name_it": "Ponte Forbato",
+      "name_en": "Ponte Forbato",
+      "latitude": 45.885792,
+      "longitude": 11.045734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87442481"
+    },
+    {
+      "id": 333,
+      "wikidata_id": "Q112141480",
+      "name_it": "Ponte fortificato",
+      "name_en": "",
+      "latitude": 45.760209,
+      "longitude": 9.600434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141480"
+    },
+    {
+      "id": 334,
+      "wikidata_id": "Q112138794",
+      "name_it": "Ponte fortificato (ruderi)",
+      "name_en": "",
+      "latitude": 45.612089,
+      "longitude": 9.522821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138794"
+    },
+    {
+      "id": 335,
+      "wikidata_id": "Q57841982",
+      "name_it": "ponte Frassu",
+      "name_en": "ponte Frassu",
+      "latitude": 40.722539,
+      "longitude": 9.034812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57841982"
+    },
+    {
+      "id": 336,
+      "wikidata_id": "Q2100416",
+      "name_it": "ponte Garibaldi",
+      "name_en": "Garibaldi Bridge",
+      "latitude": 41.891111,
+      "longitude": 12.474444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2100416"
+    },
+    {
+      "id": 337,
+      "wikidata_id": "Q3907973",
+      "name_it": "ponte Garibaldi",
+      "name_en": "Garibaldi Bridge",
+      "latitude": 45.446919,
+      "longitude": 10.994189,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907973"
+    },
+    {
+      "id": 338,
+      "wikidata_id": "Q125554254",
+      "name_it": "Ponte Garibaldi",
+      "name_en": "Garibaldi Bridge",
+      "latitude": 43.715166,
+      "longitude": 13.213864,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125554254"
+    },
+    {
+      "id": 339,
+      "wikidata_id": "Q106412859",
+      "name_it": "ponte Garolo",
+      "name_en": "",
+      "latitude": 44.333349,
+      "longitude": 9.701568,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106412859"
+    },
+    {
+      "id": 340,
+      "wikidata_id": "Q3192658",
+      "name_it": "ponte Giacomo Matteotti",
+      "name_en": "Ponte Giacomo Matteotti",
+      "latitude": 41.914444,
+      "longitude": 12.470833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3192658"
+    },
+    {
+      "id": 341,
+      "wikidata_id": "Q3907975",
+      "name_it": "Ponte Giorgini",
+      "name_en": "Ponte Giorgini",
+      "latitude": 42.762896,
+      "longitude": 10.88494,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907975"
+    },
+    {
+      "id": 342,
+      "wikidata_id": "Q114300029",
+      "name_it": "",
+      "name_en": "Ponte Giorgio Washington",
+      "latitude": 45.076068,
+      "longitude": 7.717756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114300029"
+    },
+    {
+      "id": 343,
+      "wikidata_id": "Q3397702",
+      "name_it": "Ponte Giovanni da Verrazzano",
+      "name_en": "Ponte Giovanni da Verrazzano",
+      "latitude": 43.765,
+      "longitude": 11.2818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397702"
+    },
+    {
+      "id": 344,
+      "wikidata_id": "Q30329075",
+      "name_it": "ponte Gippelli",
+      "name_en": "Ponte Gippelli (bridge)",
+      "latitude": 40.487634,
+      "longitude": 8.810751,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30329075"
+    },
+    {
+      "id": 345,
+      "wikidata_id": "Q3907976",
+      "name_it": "Ponte Giulio",
+      "name_en": "",
+      "latitude": 46.134482,
+      "longitude": 12.688588,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907976"
+    },
+    {
+      "id": 346,
+      "wikidata_id": "Q3907978",
+      "name_it": "Ponte Giuseppe Mazzini",
+      "name_en": "Ponte Giuseppe Mazzini",
+      "latitude": 41.896111,
+      "longitude": 12.465833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907978"
+    },
+    {
+      "id": 347,
+      "wikidata_id": "Q106084150",
+      "name_it": "ponte Giuseppe Verdi",
+      "name_en": "Ponte Verdi",
+      "latitude": 44.80545,
+      "longitude": 10.32453,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106084150"
+    },
+    {
+      "id": 348,
+      "wikidata_id": "Q844241",
+      "name_it": "Ponte Gobbo",
+      "name_en": "Ponte Gobbo",
+      "latitude": 44.767248,
+      "longitude": 9.390767,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q844241"
+    },
+    {
+      "id": 349,
+      "wikidata_id": "Q3397550",
+      "name_it": "Ponte Gregoriano",
+      "name_en": "Ponte Gregoriano",
+      "latitude": 41.9656,
+      "longitude": 12.8,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397550"
+    },
+    {
+      "id": 350,
+      "wikidata_id": "Q3907980",
+      "name_it": "ponte Guglielmo Marconi",
+      "name_en": "Guglielmo Marconi Bridge",
+      "latitude": 41.86,
+      "longitude": 12.470556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907980"
+    },
+    {
+      "id": 351,
+      "wikidata_id": "Q104650262",
+      "name_it": "ponte Guido Crepax",
+      "name_en": "Guido Crepax Bridge",
+      "latitude": 45.448183,
+      "longitude": 9.157821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104650262"
+    },
+    {
+      "id": 352,
+      "wikidata_id": "Q112142898",
+      "name_it": "Ponte in pietra sul Naviglio",
+      "name_en": "",
+      "latitude": 45.542234,
+      "longitude": 8.722566,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142898"
+    },
+    {
+      "id": 353,
+      "wikidata_id": "Q3908173",
+      "name_it": "Ponte in pietra sulla fiumara Rosmarino",
+      "name_en": "Ponte in pietra sulla fiumara Rosmarino",
+      "latitude": 38.0164,
+      "longitude": 14.7019,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908173"
+    },
+    {
+      "id": 354,
+      "wikidata_id": "Q67647614",
+      "name_it": "Ponte Isabella",
+      "name_en": "Ponte Isabella",
+      "latitude": 45.045005,
+      "longitude": 7.684887,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67647614"
+    },
+    {
+      "id": 355,
+      "wikidata_id": "Q24940066",
+      "name_it": "Ponte John Fitzgerald Kennedy",
+      "name_en": "Ponte John Fitzgerald Kennedy",
+      "latitude": 45.848906,
+      "longitude": 9.387551,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24940066"
+    },
+    {
+      "id": 356,
+      "wikidata_id": "Q113997344",
+      "name_it": "Ponte Karlovac",
+      "name_en": "",
+      "latitude": 44.914812,
+      "longitude": 8.60171,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113997344"
+    },
+    {
+      "id": 357,
+      "wikidata_id": "Q66311668",
+      "name_it": "ponte Lama Monachile",
+      "name_en": "Ponte Borbonico di Lama Monachile",
+      "latitude": 40.995566,
+      "longitude": 17.218075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311668"
+    },
+    {
+      "id": 358,
+      "wikidata_id": "Q47200270",
+      "name_it": "Ponte Leonardo",
+      "name_en": "Leonardo Bridge",
+      "latitude": 43.525903,
+      "longitude": 11.592261,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47200270"
+    },
+    {
+      "id": 359,
+      "wikidata_id": "Q3396620",
+      "name_it": "Ponte Leproso",
+      "name_en": "Ponte Leproso",
+      "latitude": 41.131394,
+      "longitude": 14.765439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3396620"
+    },
+    {
+      "id": 360,
+      "wikidata_id": "Q37629926",
+      "name_it": "Ponte Lizata",
+      "name_en": "Ponte Lizata",
+      "latitude": 46.30809,
+      "longitude": 11.64514,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37629926"
+    },
+    {
+      "id": 361,
+      "wikidata_id": "Q3396627",
+      "name_it": "Ponte Lucano",
+      "name_en": "Ponte Lucano",
+      "latitude": 41.95487,
+      "longitude": 12.76183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3396627"
+    },
+    {
+      "id": 362,
+      "wikidata_id": "Q55162589",
+      "name_it": "ponte Lupo Acqua Rossa",
+      "name_en": "Ponte Lupo",
+      "latitude": 41.893597,
+      "longitude": 12.814653,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55162589"
+    },
+    {
+      "id": 363,
+      "wikidata_id": "Q108558624",
+      "name_it": "ponte Macchiascandona",
+      "name_en": "",
+      "latitude": 42.804819,
+      "longitude": 11.002452,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108558624"
+    },
+    {
+      "id": 364,
+      "wikidata_id": "Q3907987",
+      "name_it": "Ponte Maggiore",
+      "name_en": "Ponte Maggiore",
+      "latitude": 42.85402,
+      "longitude": 13.58561,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907987"
+    },
+    {
+      "id": 365,
+      "wikidata_id": "Q66567796",
+      "name_it": "Ponte Maldini",
+      "name_en": "Ponte Maldini",
+      "latitude": 46.02931,
+      "longitude": 9.18709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66567796"
+    },
+    {
+      "id": 366,
+      "wikidata_id": "Q28003389",
+      "name_it": "Ponte Mallio",
+      "name_en": "Ponte Mallio",
+      "latitude": 43.55102,
+      "longitude": 12.650983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003389"
+    },
+    {
+      "id": 367,
+      "wikidata_id": "Q3907989",
+      "name_it": "Ponte Maria Cristina",
+      "name_en": "Maria Cristina Bridge",
+      "latitude": 41.203,
+      "longitude": 14.5709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907989"
+    },
+    {
+      "id": 368,
+      "wikidata_id": "Q3907990",
+      "name_it": "Ponte Maria Teresa",
+      "name_en": "Maria Teresa Bridge",
+      "latitude": 45.05811,
+      "longitude": 7.6918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3907990"
+    },
+    {
+      "id": 369,
+      "wikidata_id": "Q136681121",
+      "name_it": "ponte Martiri delle Foibe",
+      "name_en": "Martiri delle Foibe Bridge",
+      "latitude": 44.371875,
+      "longitude": 9.103628,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136681121"
+    },
+    {
+      "id": 370,
+      "wikidata_id": "Q108732013",
+      "name_it": "ponte Massa",
+      "name_en": "Ponte Massa",
+      "latitude": 42.780833,
+      "longitude": 11.098056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108732013"
+    },
+    {
+      "id": 371,
+      "wikidata_id": "Q97596255",
+      "name_it": "Ponte mediceo",
+      "name_en": "Ponte mediceo",
+      "latitude": 43.588694,
+      "longitude": 10.468,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97596255"
+    },
+    {
+      "id": 372,
+      "wikidata_id": "Q66371112",
+      "name_it": "Ponte mediceo di Cappiano",
+      "name_en": "Ponte Mediceo",
+      "latitude": 43.744333,
+      "longitude": 10.77,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66371112"
+    },
+    {
+      "id": 373,
+      "wikidata_id": "Q28003443",
+      "name_it": "ponte medievale",
+      "name_en": "Londa medieval bridge",
+      "latitude": 43.860611,
+      "longitude": 11.564667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003443"
+    },
+    {
+      "id": 374,
+      "wikidata_id": "Q30177029",
+      "name_it": "ponte medievale",
+      "name_en": "Ponte Medioevale sul torrente Gottero",
+      "latitude": 44.29071,
+      "longitude": 9.67372,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30177029"
+    },
+    {
+      "id": 375,
+      "wikidata_id": "Q66311667",
+      "name_it": "ponte medievale",
+      "name_en": "Ponte Vecchio in Polignano a Mare",
+      "latitude": 40.995451,
+      "longitude": 17.217709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311667"
+    },
+    {
+      "id": 376,
+      "wikidata_id": "Q71834738",
+      "name_it": "ponte medievale",
+      "name_en": "Ponte medievale",
+      "latitude": 44.055668,
+      "longitude": 7.980319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q71834738"
+    },
+    {
+      "id": 377,
+      "wikidata_id": "Q107740847",
+      "name_it": "ponte medievale",
+      "name_en": "medieval bridge",
+      "latitude": 43.482477,
+      "longitude": 11.619747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107740847"
+    },
+    {
+      "id": 378,
+      "wikidata_id": "Q114957743",
+      "name_it": "Ponte medievale",
+      "name_en": "Ponte medievale",
+      "latitude": 44.232274,
+      "longitude": 9.715213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114957743"
+    },
+    {
+      "id": 379,
+      "wikidata_id": "Q66827897",
+      "name_it": "Ponte medievale",
+      "name_en": "",
+      "latitude": 45.63693,
+      "longitude": 8.3775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66827897"
+    },
+    {
+      "id": 380,
+      "wikidata_id": "Q108554083",
+      "name_it": "ponte medievale",
+      "name_en": "",
+      "latitude": 44.03188,
+      "longitude": 8.0948,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108554083"
+    },
+    {
+      "id": 381,
+      "wikidata_id": "Q3908175",
+      "name_it": "ponte medievale di Campo Ligure",
+      "name_en": "Ponte San Michele",
+      "latitude": 44.537577,
+      "longitude": 8.698136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908175"
+    },
+    {
+      "id": 382,
+      "wikidata_id": "Q29714419",
+      "name_it": "ponte medievale di Cortenova",
+      "name_en": "Medieval bridge of Cortenova",
+      "latitude": 46.00038,
+      "longitude": 9.38437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29714419"
+    },
+    {
+      "id": 383,
+      "wikidata_id": "Q111578291",
+      "name_it": "ponte medievale di Ronco Scrivia",
+      "name_en": "Ronco Scrivia medieval bridge",
+      "latitude": 44.614708,
+      "longitude": 8.950989,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111578291"
+    },
+    {
+      "id": 384,
+      "wikidata_id": "Q72184608",
+      "name_it": "Ponte Medievale sul Calore",
+      "name_en": "Ponte Medievale sul Calore",
+      "latitude": 40.341622,
+      "longitude": 15.380133,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q72184608"
+    },
+    {
+      "id": 385,
+      "wikidata_id": "Q55139684",
+      "name_it": "ponte medievale sul Nervia",
+      "name_en": "medieval bridge on the Nervia",
+      "latitude": 43.851394,
+      "longitude": 7.624132,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55139684"
+    },
+    {
+      "id": 386,
+      "wikidata_id": "Q106082702",
+      "name_it": "Ponte medievale sul Rio Becco",
+      "name_en": "Ponte medievale sul Rio Becco",
+      "latitude": 44.247588,
+      "longitude": 10.682533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082702"
+    },
+    {
+      "id": 387,
+      "wikidata_id": "Q28003424",
+      "name_it": "ponte medioevale",
+      "name_en": "Ponte medioevale",
+      "latitude": 44.338532,
+      "longitude": 8.509098,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003424"
+    },
+    {
+      "id": 388,
+      "wikidata_id": "Q114961430",
+      "name_it": "Ponte medioevale sul torrente Orba",
+      "name_en": "Ponte medioevale sul torrente Orba",
+      "latitude": 44.526314,
+      "longitude": 8.608152,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114961430"
+    },
+    {
+      "id": 389,
+      "wikidata_id": "Q28003391",
+      "name_it": "ponte Mercatale",
+      "name_en": "Ponte Mercatale",
+      "latitude": 43.880897,
+      "longitude": 11.102331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003391"
+    },
+    {
+      "id": 390,
+      "wikidata_id": "Q16591312",
+      "name_it": "Ponte Minucio",
+      "name_en": "",
+      "latitude": 42.381781,
+      "longitude": 12.444822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591312"
+    },
+    {
+      "id": 391,
+      "wikidata_id": "Q123333458",
+      "name_it": "Ponte monumentale",
+      "name_en": "Ponte monumentale",
+      "latitude": 44.40592,
+      "longitude": 8.939432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123333458"
+    },
+    {
+      "id": 392,
+      "wikidata_id": "Q118499641",
+      "name_it": "Ponte Motta",
+      "name_en": "",
+      "latitude": 44.8213,
+      "longitude": 10.9946,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118499641"
+    },
+    {
+      "id": 393,
+      "wikidata_id": "Q108673978",
+      "name_it": "Ponte Mussolini",
+      "name_en": "Mussolini bridge",
+      "latitude": 40.145,
+      "longitude": 16.1339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108673978"
+    },
+    {
+      "id": 394,
+      "wikidata_id": "Q108558577",
+      "name_it": "ponte Mussolini",
+      "name_en": "",
+      "latitude": 42.734382,
+      "longitude": 11.129484,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108558577"
+    },
+    {
+      "id": 395,
+      "wikidata_id": "Q28003411",
+      "name_it": "ponte muto",
+      "name_en": "Ponte Muto",
+      "latitude": 44.20545,
+      "longitude": 8.3672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003411"
+    },
+    {
+      "id": 396,
+      "wikidata_id": "Q136680990",
+      "name_it": "ponte napoleonico",
+      "name_en": "Napoleonic Bridge",
+      "latitude": 44.37305,
+      "longitude": 9.104866,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136680990"
+    },
+    {
+      "id": 397,
+      "wikidata_id": "Q96384350",
+      "name_it": "Ponte napoleonico",
+      "name_en": "Napoleon's bridge",
+      "latitude": 43.663752,
+      "longitude": 10.640966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96384350"
+    },
+    {
+      "id": 398,
+      "wikidata_id": "Q118541528",
+      "name_it": "",
+      "name_en": "Ponte napoleonico di Crevola",
+      "latitude": 46.151866,
+      "longitude": 8.300839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118541528"
+    },
+    {
+      "id": 399,
+      "wikidata_id": "Q102397142",
+      "name_it": "ponte nascosto",
+      "name_en": "Ponte nascosto",
+      "latitude": 42.34752,
+      "longitude": 13.253021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q102397142"
+    },
+    {
+      "id": 400,
+      "wikidata_id": "Q28003376",
+      "name_it": "ponte Nuovo",
+      "name_en": "Ponte Nuovo",
+      "latitude": 43.967035,
+      "longitude": 11.761302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003376"
+    },
+    {
+      "id": 401,
+      "wikidata_id": "Q56248055",
+      "name_it": "Ponte Nuovo",
+      "name_en": "Ponte Nuovo (Vanvitelli)",
+      "latitude": 41.07538,
+      "longitude": 14.56066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56248055"
+    },
+    {
+      "id": 402,
+      "wikidata_id": "Q104090662",
+      "name_it": "ponte Nuovo",
+      "name_en": "Ponte Nuovo",
+      "latitude": 45.587154,
+      "longitude": 9.278461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104090662"
+    },
+    {
+      "id": 403,
+      "wikidata_id": "Q104635170",
+      "name_it": "Ponte Nuovo",
+      "name_en": "Ponte Nuovo",
+      "latitude": 45.464692,
+      "longitude": 7.872291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104635170"
+    },
+    {
+      "id": 404,
+      "wikidata_id": "Q106083867",
+      "name_it": "",
+      "name_en": "Ponte Nuovo",
+      "latitude": 43.955333,
+      "longitude": 12.195702,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083867"
+    },
+    {
+      "id": 405,
+      "wikidata_id": "Q107449230",
+      "name_it": "Ponte Nuovo",
+      "name_en": "Ponte dei Quattro Santi",
+      "latitude": 44.376575,
+      "longitude": 9.884518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107449230"
+    },
+    {
+      "id": 406,
+      "wikidata_id": "Q108732002",
+      "name_it": "ponte Nuovo",
+      "name_en": "Ponte Nuovo",
+      "latitude": 42.783056,
+      "longitude": 11.060556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108732002"
+    },
+    {
+      "id": 407,
+      "wikidata_id": "Q112139962",
+      "name_it": "Ponte Nuovo",
+      "name_en": "",
+      "latitude": 45.46034,
+      "longitude": 8.847839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139962"
+    },
+    {
+      "id": 408,
+      "wikidata_id": "Q106083868",
+      "name_it": "",
+      "name_en": "Ponte nuovo per Paderno",
+      "latitude": 43.9577,
+      "longitude": 12.197316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083868"
+    },
+    {
+      "id": 409,
+      "wikidata_id": "Q3908005",
+      "name_it": "Ponte Nuovo sull'Arno",
+      "name_en": "",
+      "latitude": 43.772821,
+      "longitude": 11.096143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908005"
+    },
+    {
+      "id": 410,
+      "wikidata_id": "Q107610759",
+      "name_it": "",
+      "name_en": "Ponte pedonale di Cervarolo",
+      "latitude": 45.83753,
+      "longitude": 8.25822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107610759"
+    },
+    {
+      "id": 411,
+      "wikidata_id": "Q112139716",
+      "name_it": "Ponte pedonale Piazza Cadorna",
+      "name_en": "",
+      "latitude": 45.155397,
+      "longitude": 9.700837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139716"
+    },
+    {
+      "id": 412,
+      "wikidata_id": "Q112137808",
+      "name_it": "Ponte pedonale sul Naviglio Grande",
+      "name_en": "",
+      "latitude": 45.437475,
+      "longitude": 8.889829,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137808"
+    },
+    {
+      "id": 413,
+      "wikidata_id": "Q112140079",
+      "name_it": "Ponte pedonale sul Villoresi",
+      "name_en": "",
+      "latitude": 45.55297,
+      "longitude": 8.785992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140079"
+    },
+    {
+      "id": 414,
+      "wikidata_id": "Q112139099",
+      "name_it": "Ponte Pedonale via Roma",
+      "name_en": "",
+      "latitude": 45.407254,
+      "longitude": 9.035816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139099"
+    },
+    {
+      "id": 415,
+      "wikidata_id": "Q106082378",
+      "name_it": "Ponte per la Fonte Sulfurea Chiardovo",
+      "name_en": "Ponte per la Fonte Sulfurea Chiardovo",
+      "latitude": 43.831156,
+      "longitude": 11.952975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082378"
+    },
+    {
+      "id": 416,
+      "wikidata_id": "Q112141281",
+      "name_it": "Ponte Piazza Marconi",
+      "name_en": "",
+      "latitude": 45.412926,
+      "longitude": 9.379313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141281"
+    },
+    {
+      "id": 417,
+      "wikidata_id": "Q107454570",
+      "name_it": "Ponte Pompeo Spagnoli",
+      "name_en": "Ponte Pompeo Spagnoli",
+      "latitude": 44.38021,
+      "longitude": 9.88319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107454570"
+    },
+    {
+      "id": 418,
+      "wikidata_id": "Q117447591",
+      "name_it": "Ponte Pusterla",
+      "name_en": "",
+      "latitude": 45.5508,
+      "longitude": 11.54461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117447591"
+    },
+    {
+      "id": 419,
+      "wikidata_id": "Q57326950",
+      "name_it": "Ponte Raspi",
+      "name_en": "Ponte Raspi o Sansoni",
+      "latitude": 45.438841,
+      "longitude": 12.33267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57326950"
+    },
+    {
+      "id": 420,
+      "wikidata_id": "Q3908017",
+      "name_it": "Ponte Regina Margherita",
+      "name_en": "Regina Margherita Bridge",
+      "latitude": 45.0682,
+      "longitude": 7.7083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908017"
+    },
+    {
+      "id": 421,
+      "wikidata_id": "Q104636519",
+      "name_it": "ponte Richard Ginori",
+      "name_en": "Ponte Richard Ginori",
+      "latitude": 45.445806,
+      "longitude": 9.146529,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104636519"
+    },
+    {
+      "id": 422,
+      "wikidata_id": "Q28003442",
+      "name_it": "ponte romanico",
+      "name_en": "Ponte romanico",
+      "latitude": 44.645924,
+      "longitude": 8.323283,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003442"
+    },
+    {
+      "id": 423,
+      "wikidata_id": "Q106082190",
+      "name_it": "",
+      "name_en": "Ponte romanico",
+      "latitude": 43.9488,
+      "longitude": 12.27942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082190"
+    },
+    {
+      "id": 424,
+      "wikidata_id": "Q106082437",
+      "name_it": "Ponte romanico",
+      "name_en": "Ponte romanico",
+      "latitude": 43.885674,
+      "longitude": 11.835361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082437"
+    },
+    {
+      "id": 425,
+      "wikidata_id": "Q113451442",
+      "name_it": "Ponte romanico",
+      "name_en": "Ponte romanico",
+      "latitude": 44.274242,
+      "longitude": 9.405144,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113451442"
+    },
+    {
+      "id": 426,
+      "wikidata_id": "Q114956532",
+      "name_it": "Ponte romanico",
+      "name_en": "Romanesque bridge",
+      "latitude": 43.863974,
+      "longitude": 7.854216,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956532"
+    },
+    {
+      "id": 427,
+      "wikidata_id": "Q114956562",
+      "name_it": "Ponte romanico",
+      "name_en": "Ponte romanico",
+      "latitude": 43.976489,
+      "longitude": 7.969634,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956562"
+    },
+    {
+      "id": 428,
+      "wikidata_id": "Q134436693",
+      "name_it": "ponte romanico",
+      "name_en": "Ponte romanico",
+      "latitude": 43.966884,
+      "longitude": 8.138501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134436693"
+    },
+    {
+      "id": 429,
+      "wikidata_id": "Q112143332",
+      "name_it": "Ponte romanico",
+      "name_en": "",
+      "latitude": 45.697319,
+      "longitude": 10.188454,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143332"
+    },
+    {
+      "id": 430,
+      "wikidata_id": "Q113012545",
+      "name_it": "ponte romanico",
+      "name_en": "",
+      "latitude": 44.62053,
+      "longitude": 8.8444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113012545"
+    },
+    {
+      "id": 431,
+      "wikidata_id": "Q28003444",
+      "name_it": "ponte romanico a Serravalle",
+      "name_en": "Ponte Romanico a Serravalle",
+      "latitude": 43.77575,
+      "longitude": 11.84178,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003444"
+    },
+    {
+      "id": 432,
+      "wikidata_id": "Q107443705",
+      "name_it": "Ponte romanico di Groppodalosio",
+      "name_en": "bridge of Groppodalosio",
+      "latitude": 44.421418,
+      "longitude": 9.941151,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107443705"
+    },
+    {
+      "id": 433,
+      "wikidata_id": "Q28003435",
+      "name_it": "ponte romano",
+      "name_en": "Ancient Roman bridge",
+      "latitude": 43.842947,
+      "longitude": 12.056503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003435"
+    },
+    {
+      "id": 434,
+      "wikidata_id": "Q34603260",
+      "name_it": "ponte romano",
+      "name_en": "roman bridge in Castelmezzano",
+      "latitude": 40.53039,
+      "longitude": 16.04674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q34603260"
+    },
+    {
+      "id": 435,
+      "wikidata_id": "Q55188945",
+      "name_it": "ponte romano",
+      "name_en": "Roman bridge",
+      "latitude": 39.132823,
+      "longitude": 16.274468,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55188945"
+    },
+    {
+      "id": 436,
+      "wikidata_id": "Q55831892",
+      "name_it": "ponte romano",
+      "name_en": "Roman bridge",
+      "latitude": 43.675411,
+      "longitude": 12.646728,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55831892"
+    },
+    {
+      "id": 437,
+      "wikidata_id": "Q84704670",
+      "name_it": "ponte romano",
+      "name_en": "ponte romano",
+      "latitude": 45.96159,
+      "longitude": 8.50088,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q84704670"
+    },
+    {
+      "id": 438,
+      "wikidata_id": "Q106082527",
+      "name_it": "",
+      "name_en": "Ponte Romano",
+      "latitude": 44.524929,
+      "longitude": 10.0077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082527"
+    },
+    {
+      "id": 439,
+      "wikidata_id": "Q106082944",
+      "name_it": "Ponte Romano",
+      "name_en": "Ponte Romano",
+      "latitude": 44.482208,
+      "longitude": 10.074844,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082944"
+    },
+    {
+      "id": 440,
+      "wikidata_id": "Q114962579",
+      "name_it": "Ponte romano",
+      "name_en": "Ponte romano",
+      "latitude": 44.378184,
+      "longitude": 9.06825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114962579"
+    },
+    {
+      "id": 441,
+      "wikidata_id": "Q134444067",
+      "name_it": "Ponte Romano",
+      "name_en": "Ponte Romano",
+      "latitude": 42.319137,
+      "longitude": 13.586102,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134444067"
+    },
+    {
+      "id": 442,
+      "wikidata_id": "Q112142590",
+      "name_it": "Ponte Romano",
+      "name_en": "",
+      "latitude": 45.746121,
+      "longitude": 9.382421,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142590"
+    },
+    {
+      "id": 443,
+      "wikidata_id": "Q112140757",
+      "name_it": "Ponte romano (resti)",
+      "name_en": "roman bridge",
+      "latitude": 44.996198,
+      "longitude": 9.02559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140757"
+    },
+    {
+      "id": 444,
+      "wikidata_id": "Q112137155",
+      "name_it": "Ponte romano (resti)",
+      "name_en": "",
+      "latitude": 45.802644,
+      "longitude": 9.41358,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137155"
+    },
+    {
+      "id": 445,
+      "wikidata_id": "Q107741264",
+      "name_it": "ponte romano a Pogi",
+      "name_en": "Roman bridge in Pogi",
+      "latitude": 43.466064,
+      "longitude": 11.614772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107741264"
+    },
+    {
+      "id": 446,
+      "wikidata_id": "Q28003409",
+      "name_it": "ponte romano dell'Acqua",
+      "name_en": "Ponte dell'Acqua",
+      "latitude": 44.21137,
+      "longitude": 8.36756,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003409"
+    },
+    {
+      "id": 447,
+      "wikidata_id": "Q107327449",
+      "name_it": "ponte romano di Bucine",
+      "name_en": "ponte romano di Bucine",
+      "latitude": 43.482539,
+      "longitude": 11.619741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107327449"
+    },
+    {
+      "id": 448,
+      "wikidata_id": "Q124409763",
+      "name_it": "Ponte romano di Montemiletto",
+      "name_en": "Ponte romano e medievale",
+      "latitude": 41.005761,
+      "longitude": 14.946881,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124409763"
+    },
+    {
+      "id": 449,
+      "wikidata_id": "Q60839461",
+      "name_it": "Ponte romano di Palazzolo sull'Oglio",
+      "name_en": "",
+      "latitude": 45.598067,
+      "longitude": 9.881758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60839461"
+    },
+    {
+      "id": 450,
+      "wikidata_id": "Q3908182",
+      "name_it": "Ponte romano di Pietralunga",
+      "name_en": "Ponte romano di Pietralunga",
+      "latitude": 37.575152,
+      "longitude": 14.864535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908182"
+    },
+    {
+      "id": 451,
+      "wikidata_id": "Q3908183",
+      "name_it": "Ponte romano di Rieti",
+      "name_en": "Ponte romano di Rieti",
+      "latitude": 42.399786,
+      "longitude": 12.860907,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908183"
+    },
+    {
+      "id": 452,
+      "wikidata_id": "Q18288898",
+      "name_it": "Ponte romano di Saint-Vincent",
+      "name_en": "Roman bridge of Saint-Vincent",
+      "latitude": 45.74309,
+      "longitude": 7.65598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18288898"
+    },
+    {
+      "id": 453,
+      "wikidata_id": "Q106082571",
+      "name_it": "Ponte romano sul Rubicone",
+      "name_en": "Ponte romano sul Rubicone",
+      "latitude": 44.092584,
+      "longitude": 12.395774,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082571"
+    },
+    {
+      "id": 454,
+      "wikidata_id": "Q55138899",
+      "name_it": "ponte romano sul torrente Scirca",
+      "name_en": "Ponte dei Pietroni",
+      "latitude": 43.35038,
+      "longitude": 12.72306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55138899"
+    },
+    {
+      "id": 455,
+      "wikidata_id": "Q3908018",
+      "name_it": "Ponte Rosello",
+      "name_en": "Ponte Rosello",
+      "latitude": 40.731331,
+      "longitude": 8.561053,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908018"
+    },
+    {
+      "id": 456,
+      "wikidata_id": "Q3397704",
+      "name_it": "Ponte Rosso",
+      "name_en": "Ponte Rosso",
+      "latitude": 43.7862,
+      "longitude": 11.2623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397704"
+    },
+    {
+      "id": 457,
+      "wikidata_id": "Q3908021",
+      "name_it": "Ponte Rosso",
+      "name_en": "",
+      "latitude": 44.99018,
+      "longitude": 9.01772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908021"
+    },
+    {
+      "id": 458,
+      "wikidata_id": "Q125567985",
+      "name_it": "",
+      "name_en": "Ponte Rosso, Trieste",
+      "latitude": 45.652615,
+      "longitude": 13.772197,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125567985"
+    },
+    {
+      "id": 459,
+      "wikidata_id": "Q112137256",
+      "name_it": "Ponte Sacca sullo Zara",
+      "name_en": "",
+      "latitude": 45.028635,
+      "longitude": 10.83516,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137256"
+    },
+    {
+      "id": 460,
+      "wikidata_id": "Q56604154",
+      "name_it": "ponte San Antonio",
+      "name_en": "Ponte San Antonio",
+      "latitude": 45.443278,
+      "longitude": 12.331583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604154"
+    },
+    {
+      "id": 461,
+      "wikidata_id": "Q60839296",
+      "name_it": "Ponte San Francesco di Paola",
+      "name_en": "San Francesco di Paola Bridge",
+      "latitude": 39.298194,
+      "longitude": 16.260694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60839296"
+    },
+    {
+      "id": 462,
+      "wikidata_id": "Q106082495",
+      "name_it": "Ponte San Giacomo sul rio Pondo",
+      "name_en": "Ponte San Giacomo sul rio Pondo",
+      "latitude": 43.94609,
+      "longitude": 11.912816,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082495"
+    },
+    {
+      "id": 463,
+      "wikidata_id": "Q122975665",
+      "name_it": "Ponte San Giovanni delle Navi",
+      "name_en": "Ponte San Giovanni delle Navi",
+      "latitude": 45.40548,
+      "longitude": 11.86821,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122975665"
+    },
+    {
+      "id": 464,
+      "wikidata_id": "Q28003415",
+      "name_it": "Ponte San Leonardo",
+      "name_en": "San Leonardo bridge",
+      "latitude": 37.990783,
+      "longitude": 13.68132,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003415"
+    },
+    {
+      "id": 465,
+      "wikidata_id": "Q99762481",
+      "name_it": "ponte San Leopoldo",
+      "name_en": "Ponte San Leopoldo",
+      "latitude": 42.749139,
+      "longitude": 10.978,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99762481"
+    },
+    {
+      "id": 466,
+      "wikidata_id": "Q108732024",
+      "name_it": "ponte San Martino",
+      "name_en": "Ponte San Martino",
+      "latitude": 42.764722,
+      "longitude": 11.142222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108732024"
+    },
+    {
+      "id": 467,
+      "wikidata_id": "Q636691",
+      "name_it": "ponte San Michele",
+      "name_en": "Ponte San Michele",
+      "latitude": 45.682683,
+      "longitude": 9.452656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q636691"
+    },
+    {
+      "id": 468,
+      "wikidata_id": "Q112143583",
+      "name_it": "Ponte San Nicola",
+      "name_en": "Ponte San Nicola",
+      "latitude": 45.835874,
+      "longitude": 9.663865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143583"
+    },
+    {
+      "id": 469,
+      "wikidata_id": "Q16591318",
+      "name_it": "Ponte Sanguinario",
+      "name_en": "Ponte Sanguinario",
+      "latitude": 42.740567,
+      "longitude": 12.737721,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591318"
+    },
+    {
+      "id": 470,
+      "wikidata_id": "Q130383664",
+      "name_it": "Ponte Sant'Agostino",
+      "name_en": "Ponte Sant'Agostino",
+      "latitude": 45.40324,
+      "longitude": 11.86836,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130383664"
+    },
+    {
+      "id": 471,
+      "wikidata_id": "Q106084080",
+      "name_it": "Ponte Sant'Ambrogio",
+      "name_en": "Ponte di Sant'Ambrogio",
+      "latitude": 44.62272,
+      "longitude": 10.997013,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106084080"
+    },
+    {
+      "id": 472,
+      "wikidata_id": "Q56604125",
+      "name_it": "ponte Sant'Antonio",
+      "name_en": "Ponte Sant'Antonio",
+      "latitude": 45.437667,
+      "longitude": 12.337806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56604125"
+    },
+    {
+      "id": 473,
+      "wikidata_id": "Q114956477",
+      "name_it": "Ponte Santa Lucia",
+      "name_en": "Ponte Santa Lucia",
+      "latitude": 43.914179,
+      "longitude": 7.847656,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114956477"
+    },
+    {
+      "id": 474,
+      "wikidata_id": "Q107494042",
+      "name_it": "Ponte Santoro",
+      "name_en": "Ponte Santoro",
+      "latitude": 43.570655,
+      "longitude": 10.4745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107494042"
+    },
+    {
+      "id": 475,
+      "wikidata_id": "Q112139226",
+      "name_it": "Ponte seicentesco sul fiume Olona",
+      "name_en": "",
+      "latitude": 45.232567,
+      "longitude": 9.227072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139226"
+    },
+    {
+      "id": 476,
+      "wikidata_id": "Q106083044",
+      "name_it": "",
+      "name_en": "Ponte Settecentesco sul torrente Rio",
+      "latitude": 43.859353,
+      "longitude": 11.976637,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083044"
+    },
+    {
+      "id": 477,
+      "wikidata_id": "Q16538658",
+      "name_it": "Ponte Settimia Spizzichino",
+      "name_en": "Ponte Settimia Spizzichino",
+      "latitude": 41.8673,
+      "longitude": 12.48305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16538658"
+    },
+    {
+      "id": 478,
+      "wikidata_id": "Q28003412",
+      "name_it": "Ponte Sordo",
+      "name_en": "Ponte Sordo",
+      "latitude": 44.20479,
+      "longitude": 8.36685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003412"
+    },
+    {
+      "id": 479,
+      "wikidata_id": "Q73014764",
+      "name_it": "Ponte Strada Romana delle Gallie",
+      "name_en": "Ponte Strada Romana delle Gallie",
+      "latitude": 45.721989,
+      "longitude": 7.671594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73014764"
+    },
+    {
+      "id": 480,
+      "wikidata_id": "Q107611398",
+      "name_it": "",
+      "name_en": "Ponte stradale di Cervarolo",
+      "latitude": 45.83842,
+      "longitude": 8.25761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107611398"
+    },
+    {
+      "id": 481,
+      "wikidata_id": "Q3908136",
+      "name_it": "ponte stradale di Mostizzolo",
+      "name_en": "Mostizzolo road bridge",
+      "latitude": 46.39315,
+      "longitude": 11.01319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908136"
+    },
+    {
+      "id": 482,
+      "wikidata_id": "Q29646686",
+      "name_it": "ponte strallato di Porto Marghera",
+      "name_en": "Port of Venice Bridge",
+      "latitude": 45.472783,
+      "longitude": 12.237328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29646686"
+    },
+    {
+      "id": 483,
+      "wikidata_id": "Q17651437",
+      "name_it": "ponte sul Basento",
+      "name_en": "Bridge over the Basento river",
+      "latitude": 40.6278,
+      "longitude": 15.8058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17651437"
+    },
+    {
+      "id": 484,
+      "wikidata_id": "Q112137904",
+      "name_it": "Ponte sul Brembo",
+      "name_en": "",
+      "latitude": 45.785436,
+      "longitude": 9.628636,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137904"
+    },
+    {
+      "id": 485,
+      "wikidata_id": "Q86595148",
+      "name_it": "Ponte sul Brenta di Vigonovo",
+      "name_en": "",
+      "latitude": 45.392917,
+      "longitude": 12.009143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86595148"
+    },
+    {
+      "id": 486,
+      "wikidata_id": "Q112139008",
+      "name_it": "Ponte sul canale Muzza",
+      "name_en": "",
+      "latitude": 45.524135,
+      "longitude": 9.523085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139008"
+    },
+    {
+      "id": 487,
+      "wikidata_id": "Q112140673",
+      "name_it": "Ponte sul Canale Villoresi",
+      "name_en": "",
+      "latitude": 45.572511,
+      "longitude": 9.082288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140673"
+    },
+    {
+      "id": 488,
+      "wikidata_id": "Q28003436",
+      "name_it": "ponte sul Chiese",
+      "name_en": "",
+      "latitude": 45.22057,
+      "longitude": 10.40766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003436"
+    },
+    {
+      "id": 489,
+      "wikidata_id": "Q112139101",
+      "name_it": "Ponte sul fiume Brembo",
+      "name_en": "",
+      "latitude": 45.7873,
+      "longitude": 9.628307,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139101"
+    },
+    {
+      "id": 490,
+      "wikidata_id": "Q131546529",
+      "name_it": "Ponte sul fiume Pecora",
+      "name_en": "Bridge on the Pecora River",
+      "latitude": 42.91535,
+      "longitude": 10.816056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131546529"
+    },
+    {
+      "id": 491,
+      "wikidata_id": "Q112142955",
+      "name_it": "Ponte sul fiume Ticino",
+      "name_en": "",
+      "latitude": 45.450847,
+      "longitude": 8.804597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142955"
+    },
+    {
+      "id": 492,
+      "wikidata_id": "Q112138487",
+      "name_it": "Ponte sul Lambro",
+      "name_en": "Bridge on the Lambro river",
+      "latitude": 45.61512,
+      "longitude": 9.297963,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138487"
+    },
+    {
+      "id": 493,
+      "wikidata_id": "Q106081897",
+      "name_it": "",
+      "name_en": "Ponte sul Limentra",
+      "latitude": 44.204104,
+      "longitude": 11.057777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081897"
+    },
+    {
+      "id": 494,
+      "wikidata_id": "Q106083130",
+      "name_it": "",
+      "name_en": "Ponte sul Limentra",
+      "latitude": 44.135268,
+      "longitude": 11.040443,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083130"
+    },
+    {
+      "id": 495,
+      "wikidata_id": "Q24065402",
+      "name_it": "ponte sul Monticano",
+      "name_en": "Ponte sul Monticano",
+      "latitude": 45.78347,
+      "longitude": 12.49437,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24065402"
+    },
+    {
+      "id": 496,
+      "wikidata_id": "Q112140218",
+      "name_it": "Ponte sul Naviglio",
+      "name_en": "",
+      "latitude": 45.466851,
+      "longitude": 8.830037,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140218"
+    },
+    {
+      "id": 497,
+      "wikidata_id": "Q56580056",
+      "name_it": "ponte sul naviglio grande",
+      "name_en": "Ponte sul Naviglio",
+      "latitude": 45.478319,
+      "longitude": 8.818581,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56580056"
+    },
+    {
+      "id": 498,
+      "wikidata_id": "Q107336169",
+      "name_it": "Ponte sul Naviglio Grande",
+      "name_en": "Castelletto di Cuggiono bridge",
+      "latitude": 45.4943,
+      "longitude": 8.7926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107336169"
+    },
+    {
+      "id": 499,
+      "wikidata_id": "Q112140780",
+      "name_it": "Ponte sul Naviglio Grande",
+      "name_en": "Ponte sul Naviglio Grande",
+      "latitude": 45.426051,
+      "longitude": 8.909898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140780"
+    },
+    {
+      "id": 500,
+      "wikidata_id": "Q112137570",
+      "name_it": "Ponte sul Naviglio Grande",
+      "name_en": "",
+      "latitude": 45.447124,
+      "longitude": 9.877417,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137570"
+    },
+    {
+      "id": 501,
+      "wikidata_id": "Q112142137",
+      "name_it": "Ponte sul Naviglio Grande",
+      "name_en": "",
+      "latitude": 45.439151,
+      "longitude": 8.886642,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142137"
+    },
+    {
+      "id": 502,
+      "wikidata_id": "Q112137442",
+      "name_it": "Ponte sul Naviglio Martesana",
+      "name_en": "",
+      "latitude": 45.543678,
+      "longitude": 9.523451,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137442"
+    },
+    {
+      "id": 503,
+      "wikidata_id": "Q106084105",
+      "name_it": "",
+      "name_en": "Ponte sul Nure di Cantoniera",
+      "latitude": 44.677686,
+      "longitude": 9.567524,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106084105"
+    },
+    {
+      "id": 504,
+      "wikidata_id": "Q106083283",
+      "name_it": "Ponte sul Reno",
+      "name_en": "Ponte sul Reno",
+      "latitude": 44.477841,
+      "longitude": 11.279008,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083283"
+    },
+    {
+      "id": 505,
+      "wikidata_id": "Q106082566",
+      "name_it": "Ponte sul Reno di Biagioni",
+      "name_en": "Ponte sul Reno di Biagioni",
+      "latitude": 44.085313,
+      "longitude": 10.948266,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082566"
+    },
+    {
+      "id": 506,
+      "wikidata_id": "Q28003445",
+      "name_it": "ponte sul Rio Cavallo",
+      "name_en": "Ponte sul Rio Cavallo",
+      "latitude": 45.93201,
+      "longitude": 11.093484,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003445"
+    },
+    {
+      "id": 507,
+      "wikidata_id": "Q116683473",
+      "name_it": "Ponte sul Rio Foresto",
+      "name_en": "Ponte sul Rio Foresto",
+      "latitude": 44.481673,
+      "longitude": 8.488639,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116683473"
+    },
+    {
+      "id": 508,
+      "wikidata_id": "Q106082605",
+      "name_it": "Ponte sul Rio Merlandoni",
+      "name_en": "Ponte sul Rio Merlandoni",
+      "latitude": 44.148383,
+      "longitude": 10.958885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082605"
+    },
+    {
+      "id": 509,
+      "wikidata_id": "Q106082493",
+      "name_it": "Ponte sul Rio Sasso",
+      "name_en": "Ponte sul Rio Sasso",
+      "latitude": 43.943889,
+      "longitude": 11.904838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082493"
+    },
+    {
+      "id": 510,
+      "wikidata_id": "Q106080140",
+      "name_it": "",
+      "name_en": "Ponte sul Rio Scabbie",
+      "latitude": 44.595063,
+      "longitude": 9.420746,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080140"
+    },
+    {
+      "id": 511,
+      "wikidata_id": "Q106081683",
+      "name_it": "",
+      "name_en": "Ponte sul Rio Scorticato",
+      "latitude": 44.12772,
+      "longitude": 10.897049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106081683"
+    },
+    {
+      "id": 512,
+      "wikidata_id": "Q97772942",
+      "name_it": "Ponte sul Serchio",
+      "name_en": "Ponte sul Serchio",
+      "latitude": 44.063889,
+      "longitude": 10.446167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97772942"
+    },
+    {
+      "id": 513,
+      "wikidata_id": "Q112139064",
+      "name_it": "Ponte sul Seveso",
+      "name_en": "",
+      "latitude": 45.62452,
+      "longitude": 9.146302,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112139064"
+    },
+    {
+      "id": 514,
+      "wikidata_id": "Q28003408",
+      "name_it": "ponte sul Sillaro",
+      "name_en": "",
+      "latitude": 44.3944,
+      "longitude": 11.6152,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003408"
+    },
+    {
+      "id": 515,
+      "wikidata_id": "Q3908188",
+      "name_it": "ponte sul Taro",
+      "name_en": "Taro Bridge",
+      "latitude": 44.822697,
+      "longitude": 10.224042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908188"
+    },
+    {
+      "id": 516,
+      "wikidata_id": "Q3908189",
+      "name_it": "ponte sul Tesina",
+      "name_en": "Ponte sul Tesina",
+      "latitude": 45.5212,
+      "longitude": 11.6137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908189"
+    },
+    {
+      "id": 517,
+      "wikidata_id": "Q114100677",
+      "name_it": "Ponte sul torrente Nervi",
+      "name_en": "Ponte sul torrente Nervi",
+      "latitude": 44.384544,
+      "longitude": 9.033397,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114100677"
+    },
+    {
+      "id": 518,
+      "wikidata_id": "Q106084103",
+      "name_it": "",
+      "name_en": "Ponte sul Torrente Nure in località Molino del Nano",
+      "latitude": 44.662183,
+      "longitude": 9.546351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106084103"
+    },
+    {
+      "id": 519,
+      "wikidata_id": "Q106079150",
+      "name_it": "",
+      "name_en": "Ponte sul Torrente Trebbia",
+      "latitude": 45.055761,
+      "longitude": 9.633474,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106079150"
+    },
+    {
+      "id": 520,
+      "wikidata_id": "Q106082613",
+      "name_it": "Ponte sul Tramazzo di piazza Don Minzoni",
+      "name_en": "Ponte sul Tramazzo di piazza Don Minzoni",
+      "latitude": 44.156462,
+      "longitude": 11.793657,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082613"
+    },
+    {
+      "id": 521,
+      "wikidata_id": "Q112137160",
+      "name_it": "Ponte sull'Adda",
+      "name_en": "",
+      "latitude": 45.802721,
+      "longitude": 9.41438,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112137160"
+    },
+    {
+      "id": 522,
+      "wikidata_id": "Q67218430",
+      "name_it": "ponte sull'arno di Lugnano",
+      "name_en": "Lugnano bridge",
+      "latitude": 43.68325,
+      "longitude": 10.545861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q67218430"
+    },
+    {
+      "id": 523,
+      "wikidata_id": "Q3908192",
+      "name_it": "Ponte sull'Oglio",
+      "name_en": "",
+      "latitude": 45.145151,
+      "longitude": 10.445817,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908192"
+    },
+    {
+      "id": 524,
+      "wikidata_id": "Q124654734",
+      "name_it": "Ponte sull'Orba",
+      "name_en": "Ponte sull'Orba",
+      "latitude": 44.486244,
+      "longitude": 8.589725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124654734"
+    },
+    {
+      "id": 525,
+      "wikidata_id": "Q106083887",
+      "name_it": "",
+      "name_en": "Ponte sull'Uso",
+      "latitude": 44.066513,
+      "longitude": 12.437619,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083887"
+    },
+    {
+      "id": 526,
+      "wikidata_id": "Q108625998",
+      "name_it": "ponte sulla Magra a Pieve di Salicedo",
+      "name_en": "",
+      "latitude": 44.358054,
+      "longitude": 9.897033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108625998"
+    },
+    {
+      "id": 527,
+      "wikidata_id": "Q112138025",
+      "name_it": "Ponte sulla Martesana",
+      "name_en": "",
+      "latitude": 45.530249,
+      "longitude": 9.408735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112138025"
+    },
+    {
+      "id": 528,
+      "wikidata_id": "Q112141909",
+      "name_it": "Ponte sulla Martesana",
+      "name_en": "",
+      "latitude": 45.52484,
+      "longitude": 9.387865,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141909"
+    },
+    {
+      "id": 529,
+      "wikidata_id": "Q60451751",
+      "name_it": "ponte sulla Muzza",
+      "name_en": "Muzza Bridge",
+      "latitude": 45.318339,
+      "longitude": 9.44326,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60451751"
+    },
+    {
+      "id": 530,
+      "wikidata_id": "Q112142628",
+      "name_it": "Ponte sulla via Vittorio Veneto",
+      "name_en": "",
+      "latitude": 45.647733,
+      "longitude": 9.138156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112142628"
+    },
+    {
+      "id": 531,
+      "wikidata_id": "Q107339636",
+      "name_it": "ponte sull’Addetta",
+      "name_en": "Addetta Bridge",
+      "latitude": 45.39158,
+      "longitude": 9.35185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107339636"
+    },
+    {
+      "id": 532,
+      "wikidata_id": "Q56248010",
+      "name_it": "Ponte Taglione",
+      "name_en": "Ponte Taglione",
+      "latitude": 41.067737,
+      "longitude": 14.476673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56248010"
+    },
+    {
+      "id": 533,
+      "wikidata_id": "Q3908033",
+      "name_it": "Ponte Tazio",
+      "name_en": "Ponte Tazio",
+      "latitude": 41.934984,
+      "longitude": 12.533067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908033"
+    },
+    {
+      "id": 534,
+      "wikidata_id": "Q3908034",
+      "name_it": "Ponte Testaccio",
+      "name_en": "Ponte Testaccio",
+      "latitude": 41.8754,
+      "longitude": 12.47046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908034"
+    },
+    {
+      "id": 535,
+      "wikidata_id": "Q3908035",
+      "name_it": "Ponte Tor Boacciana",
+      "name_en": "Ponte della Scafa",
+      "latitude": 41.753962,
+      "longitude": 12.278134,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908035"
+    },
+    {
+      "id": 536,
+      "wikidata_id": "Q114965216",
+      "name_it": "Ponte tra Nascio e Cassagna",
+      "name_en": "Ponte tra Nascio e Cassagna",
+      "latitude": 44.339544,
+      "longitude": 9.464082,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114965216"
+    },
+    {
+      "id": 537,
+      "wikidata_id": "Q125604139",
+      "name_it": "ponte tranviario di Mostizzolo",
+      "name_en": "Mostizzolo tramway bridge",
+      "latitude": 46.39324,
+      "longitude": 11.0128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125604139"
+    },
+    {
+      "id": 538,
+      "wikidata_id": "Q104603303",
+      "name_it": "ponte tranviario di Via Filippo Palizzi",
+      "name_en": "Via Filippo Palizzi tram bridge",
+      "latitude": 45.50546,
+      "longitude": 9.140072,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104603303"
+    },
+    {
+      "id": 539,
+      "wikidata_id": "Q122781233",
+      "name_it": "Ponte Trieste",
+      "name_en": "Ponte Trieste",
+      "latitude": 44.040145,
+      "longitude": 10.138931,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122781233"
+    },
+    {
+      "id": 540,
+      "wikidata_id": "Q3908037",
+      "name_it": "Ponte Tufillo",
+      "name_en": "",
+      "latitude": 42.857337,
+      "longitude": 13.579882,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908037"
+    },
+    {
+      "id": 541,
+      "wikidata_id": "Q98564444",
+      "name_it": "ponte Tura",
+      "name_en": "Ponte Tura",
+      "latitude": 42.764444,
+      "longitude": 11.165611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98564444"
+    },
+    {
+      "id": 542,
+      "wikidata_id": "Q112143516",
+      "name_it": "Ponte Umberto",
+      "name_en": "Ponte Umberto",
+      "latitude": 45.840585,
+      "longitude": 9.66665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143516"
+    },
+    {
+      "id": 543,
+      "wikidata_id": "Q2785646",
+      "name_it": "ponte Umberto I",
+      "name_en": "Ponte Umberto I",
+      "latitude": 41.9025,
+      "longitude": 12.471389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2785646"
+    },
+    {
+      "id": 544,
+      "wikidata_id": "Q3908038",
+      "name_it": "Ponte Umberto I",
+      "name_en": "Ponte Umberto I",
+      "latitude": 45.05811,
+      "longitude": 7.6918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908038"
+    },
+    {
+      "id": 545,
+      "wikidata_id": "Q16591322",
+      "name_it": "Ponte Unità d'Italia",
+      "name_en": "",
+      "latitude": 45.45721,
+      "longitude": 10.96665,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16591322"
+    },
+    {
+      "id": 546,
+      "wikidata_id": "Q3908039",
+      "name_it": "ponte Valentino",
+      "name_en": "",
+      "latitude": 41.145644,
+      "longitude": 14.830439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908039"
+    },
+    {
+      "id": 547,
+      "wikidata_id": "Q3908044",
+      "name_it": "Ponte Vanvitelli",
+      "name_en": "Bridge Vanvitelli",
+      "latitude": 41.133908,
+      "longitude": 14.773539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908044"
+    },
+    {
+      "id": 548,
+      "wikidata_id": "Q3908046",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte vecchio",
+      "latitude": 36.923054,
+      "longitude": 14.729012,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908046"
+    },
+    {
+      "id": 549,
+      "wikidata_id": "Q3397710",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio, Cesena",
+      "latitude": 44.133936,
+      "longitude": 12.233755,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3397710"
+    },
+    {
+      "id": 550,
+      "wikidata_id": "Q28003374",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 43.946946,
+      "longitude": 11.909277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003374"
+    },
+    {
+      "id": 551,
+      "wikidata_id": "Q28003393",
+      "name_it": "ponte vecchio",
+      "name_en": "ponte vecchio",
+      "latitude": 45.689981,
+      "longitude": 7.185232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003393"
+    },
+    {
+      "id": 552,
+      "wikidata_id": "Q28003440",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte in pietra",
+      "latitude": 45.633155,
+      "longitude": 7.843672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003440"
+    },
+    {
+      "id": 553,
+      "wikidata_id": "Q28003448",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 46.133904,
+      "longitude": 12.220002,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28003448"
+    },
+    {
+      "id": 554,
+      "wikidata_id": "Q32817086",
+      "name_it": "Ponte vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 40.294869,
+      "longitude": 8.503643,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32817086"
+    },
+    {
+      "id": 555,
+      "wikidata_id": "Q56527027",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Old bridge",
+      "latitude": 40.700366,
+      "longitude": 16.023137,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56527027"
+    },
+    {
+      "id": 556,
+      "wikidata_id": "Q56611677",
+      "name_it": "ponte vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 45.40726,
+      "longitude": 9.03578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56611677"
+    },
+    {
+      "id": 557,
+      "wikidata_id": "Q66753822",
+      "name_it": "Ponte vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 43.890888,
+      "longitude": 11.526414,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66753822"
+    },
+    {
+      "id": 558,
+      "wikidata_id": "Q112192698",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 43.91069,
+      "longitude": 12.90266,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112192698"
+    },
+    {
+      "id": 559,
+      "wikidata_id": "Q114961672",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 44.571183,
+      "longitude": 8.949149,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114961672"
+    },
+    {
+      "id": 560,
+      "wikidata_id": "Q114962746",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 44.346404,
+      "longitude": 9.341633,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114962746"
+    },
+    {
+      "id": 561,
+      "wikidata_id": "Q121670211",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 44.696723,
+      "longitude": 8.966363,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121670211"
+    },
+    {
+      "id": 562,
+      "wikidata_id": "Q131433276",
+      "name_it": "Ponte Vecchio",
+      "name_en": "Ponte Vecchio",
+      "latitude": 43.890775,
+      "longitude": 7.599556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131433276"
+    },
+    {
+      "id": 563,
+      "wikidata_id": "Q108348736",
+      "name_it": "Ponte vecchio",
+      "name_en": "",
+      "latitude": 45.641344,
+      "longitude": 10.608824,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108348736"
+    },
+    {
+      "id": 564,
+      "wikidata_id": "Q112141132",
+      "name_it": "Ponte Vecchio",
+      "name_en": "",
+      "latitude": 45.45228,
+      "longitude": 8.860057,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141132"
+    },
+    {
+      "id": 565,
+      "wikidata_id": "Q112141331",
+      "name_it": "Ponte Vecchio",
+      "name_en": "",
+      "latitude": 45.874382,
+      "longitude": 9.654058,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141331"
+    },
+    {
+      "id": 566,
+      "wikidata_id": "Q99238655",
+      "name_it": "ponte vecchio di Panchià",
+      "name_en": "old bridge of Panchià",
+      "latitude": 46.282639,
+      "longitude": 11.545278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99238655"
+    },
+    {
+      "id": 567,
+      "wikidata_id": "Q106083017",
+      "name_it": "",
+      "name_en": "Ponte Vecchio Medievale",
+      "latitude": 43.790634,
+      "longitude": 12.156232,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106083017"
+    },
+    {
+      "id": 568,
+      "wikidata_id": "Q106080273",
+      "name_it": "",
+      "name_en": "Ponte Vecchio sul Panaro",
+      "latitude": 44.669912,
+      "longitude": 10.995275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106080273"
+    },
+    {
+      "id": 569,
+      "wikidata_id": "Q66818233",
+      "name_it": "Ponte via Cesare Battisti",
+      "name_en": "Ponte Via Cesare Battisti",
+      "latitude": 43.890415,
+      "longitude": 11.525334,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66818233"
+    },
+    {
+      "id": 570,
+      "wikidata_id": "Q112141804",
+      "name_it": "Ponte viale Vittorio Veneto",
+      "name_en": "",
+      "latitude": 45.521823,
+      "longitude": 9.369348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112141804"
+    },
+    {
+      "id": 571,
+      "wikidata_id": "Q2103742",
+      "name_it": "Ponte visconteo",
+      "name_en": "Ponte visconteo",
+      "latitude": 45.354924,
+      "longitude": 10.725161,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2103742"
+    },
+    {
+      "id": 572,
+      "wikidata_id": "Q3908055",
+      "name_it": "Ponte Vittorio Emanuele I",
+      "name_en": "Ponte Vittorio Emanuele I",
+      "latitude": 45.0635,
+      "longitude": 7.6984,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3908055"
+    },
+    {
+      "id": 573,
+      "wikidata_id": "Q117400564",
+      "name_it": "Ponte Vittorio Emanuele III",
+      "name_en": "Vittorio Emanuele III bridge",
+      "latitude": 45.802536,
+      "longitude": 9.413992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117400564"
+    },
+    {
+      "id": 574,
+      "wikidata_id": "Q107444880",
+      "name_it": "Ponte Zambeccari",
+      "name_en": "Ponte Zambeccari",
+      "latitude": 44.376277,
+      "longitude": 9.882747,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107444880"
+    },
+    {
+      "id": 575,
+      "wikidata_id": "Q107619844",
+      "name_it": "Pontelungo",
+      "name_en": "Pontelungo",
+      "latitude": 44.056105,
+      "longitude": 8.212951,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107619844"
+    },
+    {
+      "id": 576,
+      "wikidata_id": "Q117836330",
+      "name_it": "Pontesel",
+      "name_en": "",
+      "latitude": 45.766695,
+      "longitude": 10.726068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117836330"
+    },
+    {
+      "id": 577,
+      "wikidata_id": "Q112140519",
+      "name_it": "Pontesella",
+      "name_en": "",
+      "latitude": 45.220035,
+      "longitude": 10.757834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112140519"
+    },
+    {
+      "id": 578,
+      "wikidata_id": "Q81824147",
+      "name_it": "ponti della ferrovia",
+      "name_en": "Ponti della ferrovia",
+      "latitude": 45.52108,
+      "longitude": 8.73111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81824147"
+    },
+    {
+      "id": 579,
+      "wikidata_id": "Q26236791",
+      "name_it": "Ponti Mannu",
+      "name_en": "Ponti Mannu",
+      "latitude": 39.058419,
+      "longitude": 8.469781,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26236791"
+    },
+    {
+      "id": 580,
+      "wikidata_id": "Q112143049",
+      "name_it": "Ponti sul Canale Villoresi",
+      "name_en": "",
+      "latitude": 45.552596,
+      "longitude": 8.770727,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112143049"
+    },
+    {
+      "id": 581,
+      "wikidata_id": "Q126919296",
+      "name_it": "",
+      "name_en": "Pontino",
+      "latitude": 43.55611,
+      "longitude": 10.31177,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126919296"
+    },
+    {
+      "id": 582,
+      "wikidata_id": "Q56751408",
+      "name_it": "",
+      "name_en": "Private bridge of the Garden of Eden, Venice",
+      "latitude": 45.424211,
+      "longitude": 12.333524,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56751408"
+    },
+    {
+      "id": 583,
+      "wikidata_id": "Q56258763",
+      "name_it": "Quarto ponte romano della Val Quazzola",
+      "name_en": "",
+      "latitude": 44.318377,
+      "longitude": 8.383009,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258763"
+    },
+    {
+      "id": 584,
+      "wikidata_id": "Q55422396",
+      "name_it": "",
+      "name_en": "railway bridge in Borgoforte",
+      "latitude": 45.053011,
+      "longitude": 10.751925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55422396"
+    },
+    {
+      "id": 585,
+      "wikidata_id": "Q106082428",
+      "name_it": "",
+      "name_en": "Resti del ponte vecchio",
+      "latitude": 43.957436,
+      "longitude": 12.197293,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082428"
+    },
+    {
+      "id": 586,
+      "wikidata_id": "Q107455622",
+      "name_it": "resti del vecchio ponte",
+      "name_en": "",
+      "latitude": 44.380497,
+      "longitude": 9.883159,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107455622"
+    },
+    {
+      "id": 587,
+      "wikidata_id": "Q120184141",
+      "name_it": "",
+      "name_en": "Romito di Laterina bridge",
+      "latitude": 43.499444,
+      "longitude": 11.678056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120184141"
+    },
+    {
+      "id": 588,
+      "wikidata_id": "Q55398020",
+      "name_it": "",
+      "name_en": "San Benedetto Po road bridge",
+      "latitude": 45.073248,
+      "longitude": 10.933392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55398020"
+    },
+    {
+      "id": 589,
+      "wikidata_id": "Q56258831",
+      "name_it": "Secondo ponte romano della Val Quazzola",
+      "name_en": "",
+      "latitude": 44.30377,
+      "longitude": 8.41094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258831"
+    },
+    {
+      "id": 590,
+      "wikidata_id": "Q35973120",
+      "name_it": "sostegni e ponti lungo il canale Navile",
+      "name_en": "",
+      "latitude": 44.53904,
+      "longitude": 11.34576,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q35973120"
+    },
+    {
+      "id": 591,
+      "wikidata_id": "Q106082533",
+      "name_it": "",
+      "name_en": "Sostegno Grassi e Ponte della Bionda",
+      "latitude": 44.537692,
+      "longitude": 11.345618,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106082533"
+    },
+    {
+      "id": 592,
+      "wikidata_id": "Q130583306",
+      "name_it": "",
+      "name_en": "Sottopasso Sesia",
+      "latitude": 45.460325,
+      "longitude": 8.401068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130583306"
+    },
+    {
+      "id": 593,
+      "wikidata_id": "Q63292776",
+      "name_it": "",
+      "name_en": "Talferbrücke",
+      "latitude": 46.500254,
+      "longitude": 11.346834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q63292776"
+    },
+    {
+      "id": 594,
+      "wikidata_id": "Q56258898",
+      "name_it": "Terzo ponte romano della Val Quazzola",
+      "name_en": "",
+      "latitude": 44.315453,
+      "longitude": 8.388853,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56258898"
+    },
+    {
+      "id": 595,
+      "wikidata_id": "Q140249881",
+      "name_it": "",
+      "name_en": "Theaterbrücke Meran",
+      "latitude": 46.669839,
+      "longitude": 11.159441,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140249881"
+    },
+    {
+      "id": 596,
+      "wikidata_id": "Q140235236",
+      "name_it": "",
+      "name_en": "Thermenbrücke Meran, Lenoirsteg",
+      "latitude": 46.669968,
+      "longitude": 11.161578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q140235236"
+    },
+    {
+      "id": 597,
+      "wikidata_id": "Q135842118",
+      "name_it": "",
+      "name_en": "Varenna railway bridge",
+      "latitude": 46.014618,
+      "longitude": 9.286146,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135842118"
+    },
+    {
+      "id": 598,
+      "wikidata_id": "Q137653328",
+      "name_it": "vecchio ponte di Isola del Cantone",
+      "name_en": "Isola del Cantone old bridge",
+      "latitude": 44.645107,
+      "longitude": 8.957661,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137653328"
+    },
+    {
+      "id": 599,
+      "wikidata_id": "Q125563732",
+      "name_it": "vecchio ponte ferroviario di Calolziocorte",
+      "name_en": "Calolziocorte old railway bridge",
+      "latitude": 45.788181,
+      "longitude": 9.431831,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125563732"
+    },
+    {
+      "id": 600,
+      "wikidata_id": "Q110584368",
+      "name_it": "Viadotto Alessandro Manzoni",
+      "name_en": "Alessandro Manzoni Viaduct",
+      "latitude": 45.83886,
+      "longitude": 9.3996,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110584368"
+    },
+    {
+      "id": 601,
+      "wikidata_id": "Q55215363",
+      "name_it": "viadotto Cerusa",
+      "name_en": "Cerusa viaduct",
+      "latitude": 44.42831,
+      "longitude": 8.742177,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55215363"
+    },
+    {
+      "id": 602,
+      "wikidata_id": "Q55992553",
+      "name_it": "viadotto dell'Adda",
+      "name_en": "Adda viaduct",
+      "latitude": 45.60496,
+      "longitude": 9.528537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55992553"
+    },
+    {
+      "id": 603,
+      "wikidata_id": "Q48804602",
+      "name_it": "viadotto dell'Angitola",
+      "name_en": "Angitola Viaduct",
+      "latitude": 38.77053,
+      "longitude": 16.21712,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48804602"
+    },
+    {
+      "id": 604,
+      "wikidata_id": "Q108055580",
+      "name_it": "viadotto di Granara",
+      "name_en": "Granara Viaduct",
+      "latitude": 44.44954,
+      "longitude": 8.8191,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108055580"
+    },
+    {
+      "id": 605,
+      "wikidata_id": "Q15228912",
+      "name_it": "viadotto Italia",
+      "name_en": "Italia Viaduct",
+      "latitude": 39.939167,
+      "longitude": 15.959167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15228912"
+    },
+    {
+      "id": 606,
+      "wikidata_id": "Q122739900",
+      "name_it": "viadotto Leira",
+      "name_en": "Leira Viaduct",
+      "latitude": 44.431578,
+      "longitude": 8.750792,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122739900"
+    },
+    {
+      "id": 607,
+      "wikidata_id": "Q117088199",
+      "name_it": "",
+      "name_en": "Viadotto Mebo",
+      "latitude": 46.474492,
+      "longitude": 11.319148,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117088199"
+    },
+    {
+      "id": 608,
+      "wikidata_id": "Q107708051",
+      "name_it": "viadotto Rondine",
+      "name_en": "Rondine Bridge",
+      "latitude": 43.50468,
+      "longitude": 11.76105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107708051"
+    },
+    {
+      "id": 609,
+      "wikidata_id": "Q117088193",
+      "name_it": "Viadotto Roverto nord",
+      "name_en": "Viadotto Roverto nord",
+      "latitude": 45.916596,
+      "longitude": 11.039277,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117088193"
+    },
+    {
+      "id": 610,
+      "wikidata_id": "Q135410510",
+      "name_it": "viadotto San Marco",
+      "name_en": "San Marco Viaduct",
+      "latitude": 40.71116,
+      "longitude": 14.49773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135410510"
+    },
+    {
+      "id": 611,
+      "wikidata_id": "Q4010900",
+      "name_it": "Viadotto Sente",
+      "name_en": "Sente Longo",
+      "latitude": 41.841584,
+      "longitude": 14.434168,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4010900"
+    },
+    {
+      "id": 612,
+      "wikidata_id": "Q109046409",
+      "name_it": "viadotto Tusa",
+      "name_en": "Tusa Viaduct",
+      "latitude": 37.99806,
+      "longitude": 14.271044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109046409"
+    }
+  ],
+  "meta": {
+    "title": "Ponti in Italia - Download gratuito",
+    "description": "Elenco dei ponti in Italia con coordinate, da Wikidata. — sourced from Wikidata (P31 direct, P17=Q38 Italy, with coordinates). Contiene 612 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Ponti in Italia | ListBase",
+    "seo_description": "Scarica Ponti in Italia — 612 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 612 record / 7 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

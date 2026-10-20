@@ -1,0 +1,1199 @@
+{
+  "id": "it-brescia-banche",
+  "name": "Banche a Brescia — codici SWIFT/BIC",
+  "title": "Banche a Brescia — codici SWIFT/BIC",
+  "description": "SWIFT/BIC codes for banks and financial institutions in Brescia, Italy",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9,
+      "bank": "24-7 FINANCE",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "FNEEIT21"
+    },
+    {
+      "id": 70,
+      "bank": "AGROBRESCIANO SPV SRL",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "AGVRIT21"
+    },
+    {
+      "id": 509,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BRESCIA",
+      "branch": "(AG. 2)",
+      "swift_code": "ANTBIT21506"
+    },
+    {
+      "id": 510,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BRESCIA",
+      "branch": "(AG. NO 163)",
+      "swift_code": "ANTBIT21163"
+    },
+    {
+      "id": 511,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BRESCIA",
+      "branch": "(AG. NO 170 AG BRESCIA 1)",
+      "swift_code": "ANTBIT21170"
+    },
+    {
+      "id": 512,
+      "bank": "BANCA ANTONVENETA SPA",
+      "city": "BRESCIA",
+      "branch": "(AGENZIA 3)",
+      "swift_code": "ANTBIT21616"
+    },
+    {
+      "id": 1512,
+      "bank": "BANCA CARIGE S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(AGENZIA 1 - BRESCIA)",
+      "swift_code": "CRGEITG1541"
+    },
+    {
+      "id": 2527,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA GARIBALDI)",
+      "swift_code": "ICRAITR1FZM"
+    },
+    {
+      "id": 2528,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA SAN POLO)",
+      "swift_code": "ICRAITR1FZH"
+    },
+    {
+      "id": 2529,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA VOLTA)",
+      "swift_code": "ICRAITR1FZG"
+    },
+    {
+      "id": 2530,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI DELLO)",
+      "swift_code": "ICRAITR1FZL"
+    },
+    {
+      "id": 2531,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI VIADANA DI CALVISANO)",
+      "swift_code": "ICRAITR1FZI"
+    },
+    {
+      "id": 2532,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI VOLONGO)",
+      "swift_code": "ICRAITR1FZN"
+    },
+    {
+      "id": 2533,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGRO BRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1FZ1"
+    },
+    {
+      "id": 2546,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGROBRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA S.EUFEMIA)",
+      "swift_code": "ICRAITR1FZP"
+    },
+    {
+      "id": 2547,
+      "bank": "BANCA DI CREDITO COOPERATIVO AGROBRESCIANO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA-TRIUMPLINA)",
+      "swift_code": "ICRAITR1FZO"
+    },
+    {
+      "id": 2586,
+      "bank": "BANCA DI CREDITO COOPERATIVO COLLI MORENICI DEL GARDA SCRL",
+      "city": "BRESCIA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR1IS1"
+    },
+    {
+      "id": 2765,
+      "bank": "BANCA DI CREDITO COOPERATIVO DI BRESCIA - SOCIETA'COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CCRTIT2TH00"
+    },
+    {
+      "id": 3609,
+      "bank": "BANCA D'ITALIA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA)",
+      "swift_code": "BITAITR1131"
+    },
+    {
+      "id": 4188,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 11)",
+      "swift_code": "PASCITM1244"
+    },
+    {
+      "id": 4189,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 12)",
+      "swift_code": "PASCITM1030"
+    },
+    {
+      "id": 4190,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 14)",
+      "swift_code": "PASCITM1BSE"
+    },
+    {
+      "id": 4191,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 16)",
+      "swift_code": "PASCITM1616"
+    },
+    {
+      "id": 4192,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 8)",
+      "swift_code": "PASCITM1112"
+    },
+    {
+      "id": 4193,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG.10)",
+      "swift_code": "PASCITM1113"
+    },
+    {
+      "id": 4194,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG.7)",
+      "swift_code": "PASCITM1BSC"
+    },
+    {
+      "id": 4195,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG.9)",
+      "swift_code": "PASCITM1111"
+    },
+    {
+      "id": 4196,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "PASCITM1BS1"
+    },
+    {
+      "id": 4197,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "PASCITM1BS2"
+    },
+    {
+      "id": 4198,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "PASCITM1BS3"
+    },
+    {
+      "id": 4199,
+      "bank": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "PASCITMMBRE"
+    },
+    {
+      "id": 6602,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(AGENZIA 1)",
+      "swift_code": "BNLIITR11GZ"
+    },
+    {
+      "id": 6603,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(AGENZIA 2)",
+      "swift_code": "BNLIITR11HZ"
+    },
+    {
+      "id": 6604,
+      "bank": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BNLIITRRBSX"
+    },
+    {
+      "id": 7646,
+      "bank": "BANCA POPOLARE DI BARI",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA)",
+      "swift_code": "BPBAIT21125"
+    },
+    {
+      "id": 8039,
+      "bank": "BANCA POPOLARE DI MILANO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BPMIITM1150"
+    },
+    {
+      "id": 8617,
+      "bank": "BANCA POPOLARE DI PUGLIA E BASILICATA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA)",
+      "swift_code": "BPDMIT31214"
+    },
+    {
+      "id": 8742,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BRESCIA",
+      "branch": "(AG. 1 - VIA CROCIFISSA DI ROSA)",
+      "swift_code": "POSOIT2105F"
+    },
+    {
+      "id": 8743,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BRESCIA",
+      "branch": "(AG. 2 - VIA BENEDETTO CROCE)",
+      "swift_code": "POSOIT2105G"
+    },
+    {
+      "id": 8744,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BRESCIA",
+      "branch": "(AG. 4 BRESCIA - VIA FRATELLI UGONI, 2)",
+      "swift_code": "POSOIT2113H"
+    },
+    {
+      "id": 8745,
+      "bank": "BANCA POPOLARE DI SONDRIO",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "POSOIT2102G"
+    },
+    {
+      "id": 9146,
+      "bank": "BANCA POPOLARE DI VICENZA",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.1)",
+      "swift_code": "BPVIIT21835"
+    },
+    {
+      "id": 9147,
+      "bank": "BANCA POPOLARE DI VICENZA",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.2)",
+      "swift_code": "BPVIIT21838"
+    },
+    {
+      "id": 9471,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA-VIA CORSICA)",
+      "swift_code": "BCVAIT2VCOR"
+    },
+    {
+      "id": 9472,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA-VIA MILANO)",
+      "swift_code": "BCVAIT2VBRM"
+    },
+    {
+      "id": 9473,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "(CITY BRANCH - S.POLO)",
+      "swift_code": "BCVAIT2VSPO"
+    },
+    {
+      "id": 9474,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "(CITY BRANCH VIA TRENTO)",
+      "swift_code": "BCVAIT2VBRT"
+    },
+    {
+      "id": 9475,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "(CITY BRANCH-VIA CHIUSURE)",
+      "swift_code": "BCVAIT2VBRC"
+    },
+    {
+      "id": 9476,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BCVAIT2V065"
+    },
+    {
+      "id": 9477,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BCVAIT2V066"
+    },
+    {
+      "id": 9478,
+      "bank": "BANCA VALSABBINA S.C.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BCVAIT2VBRE"
+    },
+    {
+      "id": 9857,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 1)",
+      "swift_code": "BAPPIT21AG8"
+    },
+    {
+      "id": 9858,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 10)",
+      "swift_code": "BAPPIT21AK8"
+    },
+    {
+      "id": 9859,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 11)",
+      "swift_code": "BAPPIT21AV6"
+    },
+    {
+      "id": 9860,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 2)",
+      "swift_code": "BAPPIT21AL4"
+    },
+    {
+      "id": 9861,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 3)",
+      "swift_code": "BAPPIT21AK0"
+    },
+    {
+      "id": 9862,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 4)",
+      "swift_code": "BAPPIT21AX3"
+    },
+    {
+      "id": 9863,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 5)",
+      "swift_code": "BAPPIT21AN7"
+    },
+    {
+      "id": 9864,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 6)",
+      "swift_code": "BAPPIT21AK1"
+    },
+    {
+      "id": 9865,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 7)",
+      "swift_code": "BAPPIT21AQ3"
+    },
+    {
+      "id": 9866,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 8)",
+      "swift_code": "BAPPIT21AQ7"
+    },
+    {
+      "id": 9867,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 9)",
+      "swift_code": "BAPPIT21AQ8"
+    },
+    {
+      "id": 9868,
+      "bank": "BANCO BPM SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "BAPPIT21AF0"
+    },
+    {
+      "id": 11478,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 4 VIALE PIAVE)",
+      "swift_code": "CREBIT22343"
+    },
+    {
+      "id": 11479,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA PALESTRO)",
+      "swift_code": "CREBIT22435"
+    },
+    {
+      "id": 11480,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA- VIA ORZINUOVI)",
+      "swift_code": "CREBIT22330"
+    },
+    {
+      "id": 11481,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA-SPALTO S.MARCO)",
+      "swift_code": "CREBIT22331"
+    },
+    {
+      "id": 11482,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA-VIA A. MORO)",
+      "swift_code": "CREBIT22338"
+    },
+    {
+      "id": 11483,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(S. AGATA)",
+      "swift_code": "CREBIT21247"
+    },
+    {
+      "id": 11484,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(TRIUMPLINA BRANCH)",
+      "swift_code": "CREBIT22068"
+    },
+    {
+      "id": 11485,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(VIA CORSICA)",
+      "swift_code": "CREBIT21094"
+    },
+    {
+      "id": 11486,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(VIA DELLA CHIESA)",
+      "swift_code": "CREBIT21248"
+    },
+    {
+      "id": 11487,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(VIA LA MALFA)",
+      "swift_code": "CREBIT22243"
+    },
+    {
+      "id": 11488,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(VIA MILANO DUE)",
+      "swift_code": "CREBIT21249"
+    },
+    {
+      "id": 11489,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "(VIA MILANO)",
+      "swift_code": "CREBIT21154"
+    },
+    {
+      "id": 11490,
+      "bank": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CREBIT22BSX"
+    },
+    {
+      "id": 11682,
+      "bank": "BANCO DI DESIO E DELLA BRIANZA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 90)",
+      "swift_code": "BDBDITA1090"
+    },
+    {
+      "id": 12670,
+      "bank": "CAMOZZI INDUSTRIES SPA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CMDSIT21"
+    },
+    {
+      "id": 12682,
+      "bank": "CAPITALGEST SGR SPA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CPGTIT21"
+    },
+    {
+      "id": 13091,
+      "bank": "CASSA DI RISPARMIO DI ASTI SPA (HEAD OFFICE)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "CASRITA1149"
+    },
+    {
+      "id": 13127,
+      "bank": "CASSA DI RISPARMIO DI BOLZANO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(SEDE DI BRESCIA)",
+      "swift_code": "CRBZIT2B156"
+    },
+    {
+      "id": 13792,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA' COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE)",
+      "swift_code": "ICRAITR19G1"
+    },
+    {
+      "id": 13817,
+      "bank": "CASSA PADANA BANCA DI CREDITO COOPERATIVO SOCIETA'COOPERATIVA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "ICRAITR19FB"
+    },
+    {
+      "id": 14058,
+      "bank": "CEMBRE",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CEMRIT21"
+    },
+    {
+      "id": 15318,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG. 2)",
+      "swift_code": "BACRIT21224"
+    },
+    {
+      "id": 15319,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA AG.3)",
+      "swift_code": "BACRIT21212"
+    },
+    {
+      "id": 15320,
+      "bank": "CREDITO EMILIANO S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BACRIT21135"
+    },
+    {
+      "id": 15834,
+      "bank": "CREDITO LOMBARDO VENETO SPA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "CRLVIT21"
+    },
+    {
+      "id": 16204,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(SPORTELLO A DI BRESCIA)",
+      "swift_code": "DEUTITM1450"
+    },
+    {
+      "id": 16205,
+      "bank": "DEUTSCHE BANK S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(SPORTELLO DI BRESCIA)",
+      "swift_code": "DEUTITM1786"
+    },
+    {
+      "id": 16836,
+      "bank": "FINMATICA SPA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "FNMTIT21"
+    },
+    {
+      "id": 16857,
+      "bank": "FONDERIE CERVATI SRL",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "FOVSIT21"
+    },
+    {
+      "id": 17019,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA CENTRO)",
+      "swift_code": "HAABIT2U027"
+    },
+    {
+      "id": 17020,
+      "bank": "HYPO ALPE-ADRIA BANK S.P.A.",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "HAABIT2U003"
+    },
+    {
+      "id": 17218,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE IMPRESE BRESCIA)",
+      "swift_code": "BCITITMME61"
+    },
+    {
+      "id": 17219,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "BRESCIA",
+      "branch": "(TRIUMPLINA BRANCH - VIA TRIUMPLINA 227)",
+      "swift_code": "BCITITMM081"
+    },
+    {
+      "id": 17760,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.4)",
+      "swift_code": "BPVIIT21842"
+    },
+    {
+      "id": 17761,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.5)",
+      "swift_code": "BPVIIT21843"
+    },
+    {
+      "id": 17762,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.6)",
+      "swift_code": "BPVIIT22837"
+    },
+    {
+      "id": 17763,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "(BRANCH N.7)",
+      "swift_code": "BPVIIT21850"
+    },
+    {
+      "id": 17764,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "(UFFICIO ESTERO TERRITORIALE)",
+      "swift_code": "BPVIIT22A11"
+    },
+    {
+      "id": 17765,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "BPVIIT21619"
+    },
+    {
+      "id": 18164,
+      "bank": "INTESA SANPAOLO SPA (FORMERLY VENETO BANCA)",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA)",
+      "swift_code": "VEBHIT21322"
+    },
+    {
+      "id": 18616,
+      "bank": "LOMBARDA LEASE FINANCE 4 S.R.L.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "LLFSIT21"
+    },
+    {
+      "id": 18967,
+      "bank": "PROVINCIA DI BRESCIA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "POBCIT21"
+    },
+    {
+      "id": 19389,
+      "bank": "SCREEN SERVICE BROADCASTING TECHNOL",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "SSRTIT21"
+    },
+    {
+      "id": 19728,
+      "bank": "UBI BANCA PRIVATE INVESTMENT S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "UBPIIT21"
+    },
+    {
+      "id": 21442,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA DI VALLE CAMONICA   SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 1)",
+      "swift_code": "BVCAIT21041"
+    },
+    {
+      "id": 21443,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA DI VALLE CAMONICA   SPA)",
+      "city": "BRESCIA",
+      "branch": "(FILIALE DI BRESCIA)",
+      "swift_code": "BVCAIT21421"
+    },
+    {
+      "id": 21838,
+      "bank": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA SEDE)",
+      "swift_code": "BEPOIT21820"
+    },
+    {
+      "id": 22264,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA - VIA TRIESTE, 8)",
+      "swift_code": "BCABIT21010"
+    },
+    {
+      "id": 22265,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 10)",
+      "swift_code": "BCABIT21043"
+    },
+    {
+      "id": 22266,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 12)",
+      "swift_code": "BCABIT21046"
+    },
+    {
+      "id": 22267,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 13)",
+      "swift_code": "BCABIT21047"
+    },
+    {
+      "id": 22268,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 14)",
+      "swift_code": "BCABIT21048"
+    },
+    {
+      "id": 22269,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 17)",
+      "swift_code": "BCABIT21054"
+    },
+    {
+      "id": 22270,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 2)",
+      "swift_code": "BCABIT21032"
+    },
+    {
+      "id": 22271,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 21)",
+      "swift_code": "BCABIT21030"
+    },
+    {
+      "id": 22272,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 22)",
+      "swift_code": "BCABIT21040"
+    },
+    {
+      "id": 22273,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 23)",
+      "swift_code": "BCABIT21050"
+    },
+    {
+      "id": 22274,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 24)",
+      "swift_code": "BCABIT21060"
+    },
+    {
+      "id": 22275,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 25)",
+      "swift_code": "BCABIT21070"
+    },
+    {
+      "id": 22276,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 26)",
+      "swift_code": "BCABIT21080"
+    },
+    {
+      "id": 22277,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 27)",
+      "swift_code": "BCABIT21090"
+    },
+    {
+      "id": 22278,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 28)",
+      "swift_code": "BCABIT21025"
+    },
+    {
+      "id": 22279,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 29)",
+      "swift_code": "BCABIT21035"
+    },
+    {
+      "id": 22280,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 3)",
+      "swift_code": "BCABIT21033"
+    },
+    {
+      "id": 22281,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 30)",
+      "swift_code": "BCABIT21045"
+    },
+    {
+      "id": 22282,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 31)",
+      "swift_code": "BCABIT21097"
+    },
+    {
+      "id": 22283,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 33 - ASM)",
+      "swift_code": "BCABIT21055"
+    },
+    {
+      "id": 22284,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 4)",
+      "swift_code": "BCABIT21034"
+    },
+    {
+      "id": 22285,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 5)",
+      "swift_code": "BCABIT21052"
+    },
+    {
+      "id": 22286,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 6)",
+      "swift_code": "BCABIT21036"
+    },
+    {
+      "id": 22287,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 7)",
+      "swift_code": "BCABIT21037"
+    },
+    {
+      "id": 22288,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 8)",
+      "swift_code": "BCABIT21038"
+    },
+    {
+      "id": 22289,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA 9)",
+      "swift_code": "BCABIT21039"
+    },
+    {
+      "id": 22290,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "BCABIT21061"
+    },
+    {
+      "id": 22291,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA)",
+      "swift_code": "BCABIT21084"
+    },
+    {
+      "id": 22292,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(FIL. BRESCIA 43)",
+      "swift_code": "BCABIT21213"
+    },
+    {
+      "id": 22293,
+      "bank": "UBI BANCA SPA (FORMERLY BANCO DI BRESCIA SPA)",
+      "city": "BRESCIA",
+      "branch": "(SECURITIES DEPARTMENT)",
+      "swift_code": "BCABIT21031"
+    },
+    {
+      "id": 22531,
+      "bank": "UBI FINANCE 3 S.R.L.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "ULFRIT21"
+    },
+    {
+      "id": 22533,
+      "bank": "UBI LEASING SPA",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "UBLEIT21"
+    },
+    {
+      "id": 22536,
+      "bank": "UBI SISTEMI E SERVIZI S.P.A.",
+      "city": "BRESCIA",
+      "branch": "",
+      "swift_code": "UBISIT21"
+    },
+    {
+      "id": 22943,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA BATTISTI)",
+      "swift_code": "UNCRITM1091"
+    },
+    {
+      "id": 22944,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA BREDA)",
+      "swift_code": "UNCRITM1Z01"
+    },
+    {
+      "id": 22945,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA CASTELLINI)",
+      "swift_code": "UNCRITM1038"
+    },
+    {
+      "id": 22946,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA CHIESA)",
+      "swift_code": "UNCRITM1084"
+    },
+    {
+      "id": 22947,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA CORSO PALESTRO)",
+      "swift_code": "UNCRITM1090"
+    },
+    {
+      "id": 22948,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA DA VINCI)",
+      "swift_code": "UNCRITM1H30"
+    },
+    {
+      "id": 22949,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA EST)",
+      "swift_code": "UNCRITM1BSY"
+    },
+    {
+      "id": 22950,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA INDIPENDENZA)",
+      "swift_code": "UNCRITM1062"
+    },
+    {
+      "id": 22951,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA ORZINUOVI A)",
+      "swift_code": "UNCRITM1034"
+    },
+    {
+      "id": 22952,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA OVEST)",
+      "swift_code": "UNCRITM1BST"
+    },
+    {
+      "id": 22953,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA PALESTRO)",
+      "swift_code": "UNCRITM132Y"
+    },
+    {
+      "id": 22954,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA TRIUMPLINA C)",
+      "swift_code": "UNCRITM1086"
+    },
+    {
+      "id": 22955,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA VALCAMONICA)",
+      "swift_code": "UNCRITM1H61"
+    },
+    {
+      "id": 22956,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA VIA CEFALONIA)",
+      "swift_code": "UNCRITM1N60"
+    },
+    {
+      "id": 22957,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA VIA CREMONA)",
+      "swift_code": "UNCRITM1039"
+    },
+    {
+      "id": 22958,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA VITTORIO VENETO)",
+      "swift_code": "UNCRITM109A"
+    },
+    {
+      "id": 22959,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(ESTERO MERCI BRESCIA)",
+      "swift_code": "UNCRITMMBSE"
+    },
+    {
+      "id": 22960,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(FILIALE OPERATIVA LOMBARDIA EST)",
+      "swift_code": "UNCRITMMOLE"
+    },
+    {
+      "id": 22961,
+      "bank": "UNICREDIT SPA",
+      "city": "BRESCIA",
+      "branch": "(LOMBARDIA EST LARGE CORPORATE)",
+      "swift_code": "UNCRITM1BSG"
+    },
+    {
+      "id": 25924,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA BRANCH)",
+      "swift_code": "BAECIT21056"
+    },
+    {
+      "id": 25925,
+      "bank": "UNIPOL BANCA SPA",
+      "city": "BRESCIA",
+      "branch": "(BRESCIA XX SETTEMBRE BRANCH)",
+      "swift_code": "BAECIT21174"
+    }
+  ],
+  "meta": {
+    "title": "Banche a Brescia — codici SWIFT/BIC - Download gratuito",
+    "description": "SWIFT/BIC codes for banks and financial institutions in Brescia, Italy Contiene 164 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Banche a Brescia — codici SWIFT/BIC | ListBase",
+    "seo_description": "Scarica Banche a Brescia — codici SWIFT/BIC — 164 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 164 record / 5 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: open data"
+    ]
+  }
+}

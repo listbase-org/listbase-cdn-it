@@ -1,0 +1,115 @@
+{
+  "id": "it-friuli-venezia-giulia-province",
+  "name": "Province della Friuli-Venezia Giulia (Provinces of Friuli-Venezia Giulia)",
+  "title": "Province della Friuli-Venezia Giulia (Provinces of Friuli-Venezia Giulia)",
+  "description": "Elenco delle 4 unità provinciali della regione Friuli-Venezia Giulia, con sigla automobilistica e flag città metropolitana. List of 4 provincial-tier units in the Friuli-Venezia Giulia region with 2-letter sigla and metropolitan-city flag.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "citta_metropolitana",
+      "label": "Citta Metropolitana",
+      "type": "boolean"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_comuni",
+      "label": "Num Comuni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31,
+      "nome": "Gorizia",
+      "slug": "gorizia",
+      "sigla": "GO",
+      "citta_metropolitana": false,
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia",
+      "num_comuni": 25
+    },
+    {
+      "id": 93,
+      "nome": "Pordenone",
+      "slug": "pordenone",
+      "sigla": "PN",
+      "citta_metropolitana": false,
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia",
+      "num_comuni": 50
+    },
+    {
+      "id": 32,
+      "nome": "Trieste",
+      "slug": "trieste",
+      "sigla": "TS",
+      "citta_metropolitana": false,
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia",
+      "num_comuni": 6
+    },
+    {
+      "id": 30,
+      "nome": "Udine",
+      "slug": "udine",
+      "sigla": "UD",
+      "citta_metropolitana": false,
+      "regione_id": 6,
+      "regione_nome": "Friuli-Venezia Giulia",
+      "regione_slug": "friuli-venezia-giulia",
+      "num_comuni": 134
+    }
+  ],
+  "meta": {
+    "title": "Province della Friuli-Venezia Giulia (Provinces of Friuli-Venezia Giulia) - Download gratuito",
+    "description": "Elenco delle 4 unità provinciali della regione Friuli-Venezia Giulia, con sigla automobilistica e flag città metropolitana. List of 4 provincial-tier units in the Friuli-Venezia Giulia region with 2-letter sigla and metropolitan-city flag. Contiene 4 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Province della Friuli-Venezia Giulia (Provinces of Friuli-Venezia Giulia) | ListBase",
+    "seo_description": "Scarica Province della Friuli-Venezia Giulia (Provinces of Friuli-Venezia Giulia) — 4 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 4 record / 9 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

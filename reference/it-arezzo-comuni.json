@@ -1,0 +1,508 @@
+{
+  "id": "it-arezzo-comuni",
+  "name": "Comuni della provincia di Arezzo",
+  "title": "Comuni della provincia di Arezzo",
+  "description": "Elenco dei 36 comuni della provincia di Arezzo (sigla AR), regione Toscana. List of 36 comuni in the province of Arezzo (AR), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 51001,
+      "nome": "Anghiari",
+      "slug": "anghiari",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51002,
+      "nome": "Arezzo",
+      "slug": "arezzo",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51003,
+      "nome": "Badia Tedalda",
+      "slug": "badia-tedalda",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51004,
+      "nome": "Bibbiena",
+      "slug": "bibbiena",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51005,
+      "nome": "Bucine",
+      "slug": "bucine",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51006,
+      "nome": "Capolona",
+      "slug": "capolona",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51007,
+      "nome": "Caprese Michelangelo",
+      "slug": "caprese-michelangelo",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51008,
+      "nome": "Castel Focognano",
+      "slug": "castel-focognano",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51010,
+      "nome": "Castel San Niccolò",
+      "slug": "castel-san-niccolo",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51040,
+      "nome": "Castelfranco Piandiscò",
+      "slug": "castelfranco-piandisco",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51011,
+      "nome": "Castiglion Fibocchi",
+      "slug": "castiglion-fibocchi",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51012,
+      "nome": "Castiglion Fiorentino",
+      "slug": "castiglion-fiorentino",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51013,
+      "nome": "Cavriglia",
+      "slug": "cavriglia",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51014,
+      "nome": "Chitignano",
+      "slug": "chitignano",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51015,
+      "nome": "Chiusi della Verna",
+      "slug": "chiusi-della-verna",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51016,
+      "nome": "Civitella in Val di Chiana",
+      "slug": "civitella-in-val-di-chiana",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51017,
+      "nome": "Cortona",
+      "slug": "cortona",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51018,
+      "nome": "Foiano della Chiana",
+      "slug": "foiano-della-chiana",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51042,
+      "nome": "Laterina Pergine Valdarno",
+      "slug": "laterina-pergine-valdarno",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51020,
+      "nome": "Loro Ciuffenna",
+      "slug": "loro-ciuffenna",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51021,
+      "nome": "Lucignano",
+      "slug": "lucignano",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51022,
+      "nome": "Marciano della Chiana",
+      "slug": "marciano-della-chiana",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51025,
+      "nome": "Monte San Savino",
+      "slug": "monte-san-savino",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51023,
+      "nome": "Montemignaio",
+      "slug": "montemignaio",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51024,
+      "nome": "Monterchi",
+      "slug": "monterchi",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51026,
+      "nome": "Montevarchi",
+      "slug": "montevarchi",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51027,
+      "nome": "Ortignano Raggiolo",
+      "slug": "ortignano-raggiolo",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51030,
+      "nome": "Pieve Santo Stefano",
+      "slug": "pieve-santo-stefano",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51031,
+      "nome": "Poppi",
+      "slug": "poppi",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51041,
+      "nome": "Pratovecchio Stia",
+      "slug": "pratovecchio-stia",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51033,
+      "nome": "San Giovanni Valdarno",
+      "slug": "san-giovanni-valdarno",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51034,
+      "nome": "Sansepolcro",
+      "slug": "sansepolcro",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51035,
+      "nome": "Sestino",
+      "slug": "sestino",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51037,
+      "nome": "Subbiano",
+      "slug": "subbiano",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51038,
+      "nome": "Talla",
+      "slug": "talla",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 51039,
+      "nome": "Terranuova Bracciolini",
+      "slug": "terranuova-bracciolini",
+      "provincia_id": 51,
+      "provincia_nome": "Arezzo",
+      "provincia_sigla": "AR",
+      "provincia_slug": "arezzo",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Arezzo - Download gratuito",
+    "description": "Elenco dei 36 comuni della provincia di Arezzo (sigla AR), regione Toscana. List of 36 comuni in the province of Arezzo (AR), Toscana region. Contiene 36 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Arezzo | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Arezzo — 36 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 36 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}

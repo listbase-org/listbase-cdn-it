@@ -1,0 +1,472 @@
+{
+  "id": "it-lucca-comuni",
+  "name": "Comuni della provincia di Lucca",
+  "title": "Comuni della provincia di Lucca",
+  "description": "Elenco dei 33 comuni della provincia di Lucca (sigla LU), regione Toscana. List of 33 comuni in the province of Lucca (LU), Toscana region.",
+  "category": "reference",
+  "source": "https://github.com/alessioforti/italia-json",
+  "source_url": "https://github.com/alessioforti/italia-json",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "provincia_id",
+      "label": "Provincia Id",
+      "type": "number"
+    },
+    {
+      "key": "provincia_nome",
+      "label": "Provincia Nome",
+      "type": "string"
+    },
+    {
+      "key": "provincia_sigla",
+      "label": "Provincia Sigla",
+      "type": "string"
+    },
+    {
+      "key": "provincia_slug",
+      "label": "Provincia Slug",
+      "type": "string"
+    },
+    {
+      "key": "regione_id",
+      "label": "Regione Id",
+      "type": "number"
+    },
+    {
+      "key": "regione_nome",
+      "label": "Regione Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione_slug",
+      "label": "Regione Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 46001,
+      "nome": "Altopascio",
+      "slug": "altopascio",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46002,
+      "nome": "Bagni di Lucca",
+      "slug": "bagni-di-lucca",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46003,
+      "nome": "Barga",
+      "slug": "barga",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46004,
+      "nome": "Borgo a Mozzano",
+      "slug": "borgo-a-mozzano",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46005,
+      "nome": "Camaiore",
+      "slug": "camaiore",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46006,
+      "nome": "Camporgiano",
+      "slug": "camporgiano",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46007,
+      "nome": "Capannori",
+      "slug": "capannori",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46008,
+      "nome": "Careggine",
+      "slug": "careggine",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46009,
+      "nome": "Castelnuovo di Garfagnana",
+      "slug": "castelnuovo-di-garfagnana",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46010,
+      "nome": "Castiglione di Garfagnana",
+      "slug": "castiglione-di-garfagnana",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46011,
+      "nome": "Coreglia Antelminelli",
+      "slug": "coreglia-antelminelli",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46036,
+      "nome": "Fabbriche di Vergemoli",
+      "slug": "fabbriche-di-vergemoli",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46013,
+      "nome": "Forte dei Marmi",
+      "slug": "forte-dei-marmi",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46014,
+      "nome": "Fosciandora",
+      "slug": "fosciandora",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46015,
+      "nome": "Gallicano",
+      "slug": "gallicano",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46017,
+      "nome": "Lucca",
+      "slug": "lucca",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46018,
+      "nome": "Massarosa",
+      "slug": "massarosa",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46019,
+      "nome": "Minucciano",
+      "slug": "minucciano",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46020,
+      "nome": "Molazzana",
+      "slug": "molazzana",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46021,
+      "nome": "Montecarlo",
+      "slug": "montecarlo",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46022,
+      "nome": "Pescaglia",
+      "slug": "pescaglia",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46023,
+      "nome": "Piazza al Serchio",
+      "slug": "piazza-al-serchio",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46024,
+      "nome": "Pietrasanta",
+      "slug": "pietrasanta",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46025,
+      "nome": "Pieve Fosciana",
+      "slug": "pieve-fosciana",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46026,
+      "nome": "Porcari",
+      "slug": "porcari",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46027,
+      "nome": "San Romano in Garfagnana",
+      "slug": "san-romano-in-garfagnana",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46028,
+      "nome": "Seravezza",
+      "slug": "seravezza",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46037,
+      "nome": "Sillano Giuncugnano",
+      "slug": "sillano-giuncugnano",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46030,
+      "nome": "Stazzema",
+      "slug": "stazzema",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46031,
+      "nome": "Vagli Sotto",
+      "slug": "vagli-sotto",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46033,
+      "nome": "Viareggio",
+      "slug": "viareggio",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46034,
+      "nome": "Villa Basilica",
+      "slug": "villa-basilica",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    },
+    {
+      "id": 46035,
+      "nome": "Villa Collemandina",
+      "slug": "villa-collemandina",
+      "provincia_id": 46,
+      "provincia_nome": "Lucca",
+      "provincia_sigla": "LU",
+      "provincia_slug": "lucca",
+      "regione_id": 9,
+      "regione_nome": "Toscana",
+      "regione_slug": "toscana"
+    }
+  ],
+  "meta": {
+    "title": "Comuni della provincia di Lucca - Download gratuito",
+    "description": "Elenco dei 33 comuni della provincia di Lucca (sigla LU), regione Toscana. List of 33 comuni in the province of Lucca (LU), Toscana region. Contiene 33 record. Scarica in formato Excel, CSV, PDF.",
+    "seo_title": "Comuni della provincia di Lucca | ListBase",
+    "seo_description": "Scarica Comuni della provincia di Lucca — 33 record. Disponibile in formato Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Contiene 33 record / 10 campi",
+      "Download gratuito in formato Excel, CSV e PDF",
+      "Fonte dati: https://github.com/alessioforti/italia-json"
+    ]
+  }
+}
