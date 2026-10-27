@@ -1,0 +1,280 @@
+{
+  "id": "it-bevande-spiritose-ig",
+  "name": "Bevande spiritose IG italiane",
+  "title": "Bevande spiritose IG italiane",
+  "description": "Bevande spiritose italiane a Indicazione Geografica (grappa, brandy, liquori).",
+  "category": "food",
+  "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "settore",
+      "label": "Settore",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Brandy italiano",
+      "categoria": "I.G.",
+      "settore": "5. Brandy / Weinbrand",
+      "regione": "Italia"
+    },
+    {
+      "denominazione": "Grappa",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Italia"
+    },
+    {
+      "denominazione": "Grappa di Barolo",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Piemonte"
+    },
+    {
+      "denominazione": "Grappa piemontese / Grappa del Piemonte",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Piemonte"
+    },
+    {
+      "denominazione": "Grappa lombarda / Grappa di Lombardia",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Lombardia"
+    },
+    {
+      "denominazione": "Grappa trentina / Grappa del Trentino",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Grappa friulana / Grappa del Friuli",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "denominazione": "Grappa veneta / Grappa del Veneto",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Veneto"
+    },
+    {
+      "denominazione": "Südtiroler Grappa / Grappa dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Grappa siciliana / Grappa di Sicilia",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Sicilia"
+    },
+    {
+      "denominazione": "Grappa di Marsala",
+      "categoria": "I.G.",
+      "settore": "6. Acquavite di vinaccia",
+      "regione": "Sicilia"
+    },
+    {
+      "denominazione": "Südtiroler Williams / Williams dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Aprikot / Aprikot dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Marille / Albicocca dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Kirsch / Ciliegia dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Zwetschgeler / Prugna dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Obstler / Obstler dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Gravensteiner / Gravensteiner dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Südtiroler Golden Delicious / Golden Delicious dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Williams friulano / Williams del Friuli",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "denominazione": "Sliwovitz del Veneto",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Veneto"
+    },
+    {
+      "denominazione": "Sliwovitz del Friuli-Venezia Giulia",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "denominazione": "Sliwovitz del Trentino-Alto Adige",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento, Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Distillato di mele trentino / Distillato di mele del Trentino",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Williams trentino / Williams del Trentino",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Sliwovitz trentino / Sliwovitz del Trentino",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Aprikot trentino / Aprikot del Trentino",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Kirsch friulano / Kirschwasser Friulano",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "denominazione": "Kirsch trentino / Kirschwasser Trentino",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Kirsch veneto / Kirschwasser Veneto",
+      "categoria": "I.G.",
+      "settore": "9. Acquavite di frutta",
+      "regione": "Veneto"
+    },
+    {
+      "denominazione": "Südtiroler Enzian / Genziana dell'Alto Adige",
+      "categoria": "I.G.",
+      "settore": "18. Genziana",
+      "regione": "Prov. Aut. Bolzano"
+    },
+    {
+      "denominazione": "Genziana trentina / Genziana del Trentino",
+      "categoria": "I.G.",
+      "settore": "18. Genziana",
+      "regione": "Prov. Aut. Trento"
+    },
+    {
+      "denominazione": "Mirto di Sardegna",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Sardegna"
+    },
+    {
+      "denominazione": "Liquore di limone di Sorrento",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Campania"
+    },
+    {
+      "denominazione": "Liquore di limone della Costa d'Amalfi",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Campania"
+    },
+    {
+      "denominazione": "Genepì del Piemonte",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Piemonte"
+    },
+    {
+      "denominazione": "Genepì della Valle d'Aosta",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "denominazione": "Genepì delle Alpi / Génépi des Alpes",
+      "categoria": "I.G.",
+      "settore": "32. Liquore",
+      "regione": "Italia/Francia"
+    },
+    {
+      "denominazione": "Nocino di Modena",
+      "categoria": "I.G.",
+      "settore": "40. Nocino",
+      "regione": "Emilia-Romagna"
+    }
+  ],
+  "meta": {
+    "title": "Bevande spiritose IG italiane - Free Download",
+    "description": "Bevande spiritose italiane a Indicazione Geografica (grappa, brandy, liquori). Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bevande spiritose IG italiane | ListBase",
+    "seo_description": "Download Bevande spiritose IG italiane — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani"
+    ]
+  }
+}

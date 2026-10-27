@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:11:51.979Z",
-  "total_datasets": 444,
-  "total_records": 135180,
+  "generated": "2026-10-27T02:11:54.739Z",
+  "total_datasets": 445,
+  "total_records": 135219,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -250,6 +250,31 @@
         "xlsx": {
           "name": "it-centrali-nucleari_IT.xlsx",
           "size": 7284
+        }
+      }
+    },
+    {
+      "id": "it-bevande-spiritose-ig",
+      "name": "Bevande spiritose IG italiane",
+      "category": "food",
+      "record_count": 39,
+      "columns": [
+        "denominazione",
+        "categoria",
+        "settore",
+        "regione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+      "updated": "2026-10",
+      "size": 8464,
+      "files": {
+        "csv": {
+          "name": "it-bevande-spiritose-ig_IT.csv",
+          "size": 3423
+        },
+        "xlsx": {
+          "name": "it-bevande-spiritose-ig_IT.xlsx",
+          "size": 8094
         }
       }
     },
