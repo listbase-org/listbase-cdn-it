@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:48.128Z",
-  "total_datasets": 465,
-  "total_records": 137254,
+  "generated": "2026-10-27T02:12:50.746Z",
+  "total_datasets": 466,
+  "total_records": 137275,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -258,6 +258,38 @@
         "xlsx": {
           "name": "it-pil-pro-capite-regioni_IT.xlsx",
           "size": 8138
+        }
+      }
+    },
+    {
+      "id": "it-pil-regionale",
+      "name": "PIL delle regioni italiane (serie storica)",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "territorio",
+        "anno_2015",
+        "anno_2016",
+        "anno_2017",
+        "anno_2018",
+        "anno_2019",
+        "anno_2020",
+        "anno_2021",
+        "anno_2022",
+        "anno_2023",
+        "anno_2024"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+      "updated": "2026-10",
+      "size": 8619,
+      "files": {
+        "csv": {
+          "name": "it-pil-regionale_IT.csv",
+          "size": 2138
+        },
+        "xlsx": {
+          "name": "it-pil-regionale_IT.xlsx",
+          "size": 8415
         }
       }
     },

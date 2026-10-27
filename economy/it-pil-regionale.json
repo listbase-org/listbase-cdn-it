@@ -1,0 +1,354 @@
+{
+  "id": "it-pil-regionale",
+  "name": "PIL delle regioni italiane (serie storica)",
+  "title": "PIL delle regioni italiane (serie storica)",
+  "description": "PIL nominale delle regioni italiane per anno (milioni di euro).",
+  "category": "economy",
+  "source": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "territorio",
+      "label": "Territorio",
+      "type": "string"
+    },
+    {
+      "key": "anno_2015",
+      "label": "Anno 2015",
+      "type": "number"
+    },
+    {
+      "key": "anno_2016",
+      "label": "Anno 2016",
+      "type": "number"
+    },
+    {
+      "key": "anno_2017",
+      "label": "Anno 2017",
+      "type": "number"
+    },
+    {
+      "key": "anno_2018",
+      "label": "Anno 2018",
+      "type": "number"
+    },
+    {
+      "key": "anno_2019",
+      "label": "Anno 2019",
+      "type": "number"
+    },
+    {
+      "key": "anno_2020",
+      "label": "Anno 2020",
+      "type": "number"
+    },
+    {
+      "key": "anno_2021",
+      "label": "Anno 2021",
+      "type": "number"
+    },
+    {
+      "key": "anno_2022",
+      "label": "Anno 2022",
+      "type": "number"
+    },
+    {
+      "key": "anno_2023",
+      "label": "Anno 2023",
+      "type": "number"
+    },
+    {
+      "key": "anno_2024",
+      "label": "Anno 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "territorio": "Italia",
+      "anno_2015": 1663278,
+      "anno_2016": 1704857,
+      "anno_2017": 1744493,
+      "anno_2018": 1777744,
+      "anno_2019": 1804067,
+      "anno_2020": 1670012,
+      "anno_2021": 1842507,
+      "anno_2022": 1998073,
+      "anno_2023": 2142602,
+      "anno_2024": 2199619
+    },
+    {
+      "territorio": "Lombardia",
+      "anno_2015": 369755,
+      "anno_2016": 380390,
+      "anno_2017": 390313,
+      "anno_2018": 400746,
+      "anno_2019": 405033,
+      "anno_2020": 380036,
+      "anno_2021": 424242,
+      "anno_2022": 457792,
+      "anno_2023": 491162,
+      "anno_2024": 505153
+    },
+    {
+      "territorio": "Lazio",
+      "anno_2015": 189573,
+      "anno_2016": 197785,
+      "anno_2017": 200416,
+      "anno_2018": 203327,
+      "anno_2019": 206615,
+      "anno_2020": 190932,
+      "anno_2021": 204610,
+      "anno_2022": 227486,
+      "anno_2023": 241298,
+      "anno_2024": 246569
+    },
+    {
+      "territorio": "Veneto",
+      "anno_2015": 151988,
+      "anno_2016": 157063,
+      "anno_2017": 161183,
+      "anno_2018": 164509,
+      "anno_2019": 167493,
+      "anno_2020": 153519,
+      "anno_2021": 170032,
+      "anno_2022": 184035,
+      "anno_2023": 197293,
+      "anno_2024": 201373
+    },
+    {
+      "territorio": "Emilia-Romagna",
+      "anno_2015": 149023,
+      "anno_2016": 153783,
+      "anno_2017": 158008,
+      "anno_2018": 161559,
+      "anno_2019": 162949,
+      "anno_2020": 152164,
+      "anno_2021": 169037,
+      "anno_2022": 180561,
+      "anno_2023": 194492,
+      "anno_2024": 198591
+    },
+    {
+      "territorio": "Piemonte",
+      "anno_2015": 124970,
+      "anno_2016": 128292,
+      "anno_2017": 132625,
+      "anno_2018": 135217,
+      "anno_2019": 135774,
+      "anno_2020": 124757,
+      "anno_2021": 137615,
+      "anno_2022": 146820,
+      "anno_2023": 159173,
+      "anno_2024": 164224
+    },
+    {
+      "territorio": "Toscana",
+      "anno_2015": 110108,
+      "anno_2016": 112596,
+      "anno_2017": 115005,
+      "anno_2018": 117669,
+      "anno_2019": 122266,
+      "anno_2020": 108109,
+      "anno_2021": 119580,
+      "anno_2022": 130563,
+      "anno_2023": 139659,
+      "anno_2024": 143664
+    },
+    {
+      "territorio": "Campania",
+      "anno_2015": 103441,
+      "anno_2016": 105261,
+      "anno_2017": 107435,
+      "anno_2018": 108541,
+      "anno_2019": 110821,
+      "anno_2020": 102473,
+      "anno_2021": 111970,
+      "anno_2022": 122401,
+      "anno_2023": 132902,
+      "anno_2024": 137267
+    },
+    {
+      "territorio": "Sicilia",
+      "anno_2015": 85496,
+      "anno_2016": 86061,
+      "anno_2017": 87772,
+      "anno_2018": 87857,
+      "anno_2019": 88972,
+      "anno_2020": 83568,
+      "anno_2021": 92205,
+      "anno_2022": 102407,
+      "anno_2023": 106885,
+      "anno_2024": 111704
+    },
+    {
+      "territorio": "Puglia",
+      "anno_2015": 71883,
+      "anno_2016": 73193,
+      "anno_2017": 74210,
+      "anno_2018": 75458,
+      "anno_2019": 76393,
+      "anno_2020": 71841,
+      "anno_2021": 79570,
+      "anno_2022": 86407,
+      "anno_2023": 92163,
+      "anno_2024": 94489
+    },
+    {
+      "territorio": "Trentino Alto Adige",
+      "anno_2015": 41927,
+      "anno_2016": 42797,
+      "anno_2017": 44053,
+      "anno_2018": 45850,
+      "anno_2019": 47198,
+      "anno_2020": 44161,
+      "anno_2021": 48039,
+      "anno_2022": 53582,
+      "anno_2023": 58445,
+      "anno_2024": 59254
+    },
+    {
+      "territorio": "Liguria",
+      "anno_2015": 46792,
+      "anno_2016": 47673,
+      "anno_2017": 48676,
+      "anno_2018": 48776,
+      "anno_2019": 49542,
+      "anno_2020": 44960,
+      "anno_2021": 49384,
+      "anno_2022": 53042,
+      "anno_2023": 58081,
+      "anno_2024": 58636
+    },
+    {
+      "territorio": "Marche",
+      "anno_2015": 39556,
+      "anno_2016": 40309,
+      "anno_2017": 41187,
+      "anno_2018": 41839,
+      "anno_2019": 42573,
+      "anno_2020": 39249,
+      "anno_2021": 43193,
+      "anno_2022": 46395,
+      "anno_2023": 49447,
+      "anno_2024": 50595
+    },
+    {
+      "territorio": "Friuli-Venezia Giulia",
+      "anno_2015": 35845,
+      "anno_2016": 36302,
+      "anno_2017": 37054,
+      "anno_2018": 38063,
+      "anno_2019": 38985,
+      "anno_2020": 36405,
+      "anno_2021": 40457,
+      "anno_2022": 42682,
+      "anno_2023": 45064,
+      "anno_2024": 46572
+    },
+    {
+      "territorio": "Sardegna",
+      "anno_2015": 33510,
+      "anno_2016": 33144,
+      "anno_2017": 33774,
+      "anno_2018": 34282,
+      "anno_2019": 35000,
+      "anno_2020": 32336,
+      "anno_2021": 35702,
+      "anno_2022": 38871,
+      "anno_2023": 41799,
+      "anno_2024": 43438
+    },
+    {
+      "territorio": "Abruzzo",
+      "anno_2015": 31791,
+      "anno_2016": 31926,
+      "anno_2017": 32733,
+      "anno_2018": 32799,
+      "anno_2019": 33030,
+      "anno_2020": 30550,
+      "anno_2021": 33615,
+      "anno_2022": 36445,
+      "anno_2023": 39557,
+      "anno_2024": 40756
+    },
+    {
+      "territorio": "Calabria",
+      "anno_2015": 32245,
+      "anno_2016": 32785,
+      "anno_2017": 33455,
+      "anno_2018": 33216,
+      "anno_2019": 33490,
+      "anno_2020": 31143,
+      "anno_2021": 34067,
+      "anno_2022": 36404,
+      "anno_2023": 38936,
+      "anno_2024": 39858
+    },
+    {
+      "territorio": "Umbria",
+      "anno_2015": 21426,
+      "anno_2016": 21531,
+      "anno_2017": 22035,
+      "anno_2018": 22672,
+      "anno_2019": 22827,
+      "anno_2020": 20979,
+      "anno_2021": 23012,
+      "anno_2022": 24725,
+      "anno_2023": 26874,
+      "anno_2024": 27672
+    },
+    {
+      "territorio": "Basilicata",
+      "anno_2015": 11981,
+      "anno_2016": 11972,
+      "anno_2017": 12071,
+      "anno_2018": 12645,
+      "anno_2019": 12473,
+      "anno_2020": 11304,
+      "anno_2021": 12958,
+      "anno_2022": 13989,
+      "anno_2023": 14841,
+      "anno_2024": 15106
+    },
+    {
+      "territorio": "Molise",
+      "anno_2015": 6243,
+      "anno_2016": 6336,
+      "anno_2017": 6487,
+      "anno_2018": 6605,
+      "anno_2019": 6737,
+      "anno_2020": 6237,
+      "anno_2021": 6841,
+      "anno_2022": 7288,
+      "anno_2023": 7874,
+      "anno_2024": 7991
+    },
+    {
+      "territorio": "Valle d'Aosta",
+      "anno_2015": 4649,
+      "anno_2016": 4599,
+      "anno_2017": 4769,
+      "anno_2018": 4807,
+      "anno_2019": 4848,
+      "anno_2020": 4437,
+      "anno_2021": 4783,
+      "anno_2022": 5396,
+      "anno_2023": 5796,
+      "anno_2024": 5858
+    }
+  ],
+  "meta": {
+    "title": "PIL delle regioni italiane (serie storica) - Free Download",
+    "description": "PIL nominale delle regioni italiane per anno (milioni di euro). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "PIL delle regioni italiane (serie storica) | ListBase",
+    "seo_description": "Download PIL delle regioni italiane (serie storica) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani"
+    ]
+  }
+}
