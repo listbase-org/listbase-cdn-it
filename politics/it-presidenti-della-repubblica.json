@@ -1,0 +1,216 @@
+{
+  "id": "it-presidenti-della-repubblica",
+  "name": "Presidenti della Repubblica Italiana",
+  "title": "Presidenti della Repubblica Italiana",
+  "description": "Elenco dei Presidenti della Repubblica Italiana con mandato, elezione e partito di provenienza.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "scrutini",
+      "label": "Scrutini",
+      "type": "number"
+    },
+    {
+      "key": "data_elezione",
+      "label": "Data Elezione",
+      "type": "string"
+    },
+    {
+      "key": "percentuale",
+      "label": "Percentuale",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": "1º",
+      "nome": "Enrico De Nicola (1877-1959)",
+      "inizio": "1º luglio 1946 (Capo provvisorio dello Stato) 1º gennaio 1948 (Presidente della Repubblica)",
+      "fine": "12 maggio 1948",
+      "scrutini": 1,
+      "data_elezione": "1º luglio 1946",
+      "percentuale": "69,1% (396 voti su 556)",
+      "partito": "Partito Liberale Italiano"
+    },
+    {
+      "n": "1º",
+      "nome": "Enrico De Nicola (1877-1959)",
+      "inizio": "1º luglio 1946 (Capo provvisorio dello Stato) 1º gennaio 1948 (Presidente della Repubblica)",
+      "fine": "12 maggio 1948",
+      "scrutini": 1,
+      "data_elezione": "26 giugno 1947",
+      "percentuale": "72,8% (405 voti su 556)",
+      "partito": "Partito Liberale Italiano"
+    },
+    {
+      "n": "2º",
+      "nome": "Luigi Einaudi (1874-1961)",
+      "inizio": "12 maggio 1948",
+      "fine": "11 maggio 1955",
+      "scrutini": 4,
+      "data_elezione": "11 maggio 1948",
+      "percentuale": "57,6% (518 voti su 900)",
+      "partito": "Partito Liberale Italiano"
+    },
+    {
+      "n": "3º",
+      "nome": "Giovanni Gronchi (1887-1978)",
+      "inizio": "11 maggio 1955",
+      "fine": "11 maggio 1962",
+      "scrutini": 4,
+      "data_elezione": "29 aprile 1955",
+      "percentuale": "78,1% (658 voti su 843)",
+      "partito": "Democrazia Cristiana"
+    },
+    {
+      "n": "4º",
+      "nome": "Antonio Segni (1891-1972)",
+      "inizio": "11 maggio 1962",
+      "fine": "6 dicembre 1964",
+      "scrutini": 9,
+      "data_elezione": "6 maggio 1962",
+      "percentuale": "51,9% (443 voti su 854)",
+      "partito": "Democrazia Cristiana"
+    },
+    {
+      "n": "5º",
+      "nome": "Giuseppe Saragat (1898-1988)",
+      "inizio": "29 dicembre 1964",
+      "fine": "29 dicembre 1971",
+      "scrutini": 21,
+      "data_elezione": "28 dicembre 1964",
+      "percentuale": "67,1% (646 voti su 963)",
+      "partito": "Partito Socialista Democratico Italiano"
+    },
+    {
+      "n": "6º",
+      "nome": "Giovanni Leone (1908-2001)",
+      "inizio": "29 dicembre 1971",
+      "fine": "15 giugno 1978",
+      "scrutini": 23,
+      "data_elezione": "24 dicembre 1971",
+      "percentuale": "51,4% (518 voti su 1008)",
+      "partito": "Democrazia Cristiana"
+    },
+    {
+      "n": "7º",
+      "nome": "Sandro Pertini (1896-1990)",
+      "inizio": "9 luglio 1978",
+      "fine": "29 giugno 1985",
+      "scrutini": 16,
+      "data_elezione": "8 luglio 1978",
+      "percentuale": "82,3% (832 voti su 1011)",
+      "partito": "Partito Socialista Italiano"
+    },
+    {
+      "n": "8º",
+      "nome": "Francesco Cossiga (1928-2010)",
+      "inizio": "3 luglio 1985",
+      "fine": "28 aprile 1992",
+      "scrutini": 1,
+      "data_elezione": "24 giugno 1985",
+      "percentuale": "74,3% (752 voti su 1011)",
+      "partito": "Democrazia Cristiana"
+    },
+    {
+      "n": "9º",
+      "nome": "Oscar Luigi Scalfaro (1918-2012)",
+      "inizio": "28 maggio 1992",
+      "fine": "15 maggio 1999",
+      "scrutini": 16,
+      "data_elezione": "25 maggio 1992",
+      "percentuale": "66,5% (672 voti su 1011)",
+      "partito": "Democrazia Cristiana"
+    },
+    {
+      "n": "10º",
+      "nome": "Carlo Azeglio Ciampi (1920-2016)",
+      "inizio": "18 maggio 1999",
+      "fine": "15 maggio 2006",
+      "scrutini": 1,
+      "data_elezione": "13 maggio 1999",
+      "percentuale": "70,0% (707 voti su 1010)",
+      "partito": "Indipendente"
+    },
+    {
+      "n": "11º",
+      "nome": "Giorgio Napolitano (1925-2023)",
+      "inizio": "15 maggio 2006",
+      "fine": "22 aprile 2013",
+      "scrutini": 4,
+      "data_elezione": "10 maggio 2006",
+      "percentuale": "53,8% (543 voti su 1009)",
+      "partito": "Democratici di Sinistra"
+    },
+    {
+      "n": "11º",
+      "nome": "Giorgio Napolitano (1925-2023)",
+      "inizio": "22 aprile 2013",
+      "fine": "14 gennaio 2015",
+      "scrutini": 6,
+      "data_elezione": "20 aprile 2013",
+      "percentuale": "73,2% (738 voti su 1007)",
+      "partito": "Indipendente"
+    },
+    {
+      "n": "12º",
+      "nome": "Sergio Mattarella (1941)",
+      "inizio": "3 febbraio 2015",
+      "fine": "3 febbraio 2022",
+      "scrutini": 4,
+      "data_elezione": "31 gennaio 2015",
+      "percentuale": "65,9% (665 voti su 1009)",
+      "partito": "Indipendente"
+    },
+    {
+      "n": "12º",
+      "nome": "Sergio Mattarella (1941)",
+      "inizio": "3 febbraio 2022",
+      "fine": "in carica",
+      "scrutini": 8,
+      "data_elezione": "29 gennaio 2022",
+      "percentuale": "75,2% (759 voti su 1009)",
+      "partito": "Indipendente"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti della Repubblica Italiana - Free Download",
+    "description": "Elenco dei Presidenti della Repubblica Italiana con mandato, elezione e partito di provenienza. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti della Repubblica Italiana | ListBase",
+    "seo_description": "Download Presidenti della Repubblica Italiana — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_della_Repubblica_Italiana"
+    ]
+  }
+}

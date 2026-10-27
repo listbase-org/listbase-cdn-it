@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:03.970Z",
-  "total_datasets": 471,
-  "total_records": 137804,
+  "generated": "2026-10-27T02:13:06.503Z",
+  "total_datasets": 472,
+  "total_records": 137819,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -1349,6 +1349,35 @@
         "xlsx": {
           "name": "it-presidenti-del-senato_IT.xlsx",
           "size": 10265
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-della-repubblica",
+      "name": "Presidenti della Repubblica Italiana",
+      "category": "politics",
+      "record_count": 15,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "scrutini",
+        "data_elezione",
+        "percentuale",
+        "partito"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 6494,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-della-repubblica_IT.csv",
+          "size": 2387
+        },
+        "xlsx": {
+          "name": "it-presidenti-della-repubblica_IT.xlsx",
+          "size": 8084
         }
       }
     },
