@@ -1,0 +1,2473 @@
+{
+  "id": "it-papi",
+  "name": "Lista dei papi",
+  "title": "Lista dei papi",
+  "description": "Elenco cronologico dei papi della Chiesa cattolica con pontificato, luogo di nascita e sepoltura.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Lista_dei_papi",
+  "source_url": "https://it.wikipedia.org/wiki/Lista_dei_papi",
+  "updated": "2026-10",
+  "record_count": 268,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "number"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "nome_secolare",
+      "label": "Nome Secolare",
+      "type": "string"
+    },
+    {
+      "key": "luogo_nascita",
+      "label": "Luogo Nascita",
+      "type": "string"
+    },
+    {
+      "key": "sepoltura",
+      "label": "Sepoltura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "San Pietro",
+      "inizio": 33,
+      "fine": "29 giugno 67",
+      "nome_secolare": "Simone (Šim'ôn)",
+      "luogo_nascita": "Betsaida , Giudea , Impero romano",
+      "sepoltura": "Grotte Vaticane ( Tomba di Pietro )"
+    },
+    {
+      "n": 2,
+      "nome": "San Lino",
+      "inizio": 67,
+      "fine": "23 settembre 76",
+      "nome_secolare": "",
+      "luogo_nascita": "Volterra , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 3,
+      "nome": "San Cleto",
+      "inizio": 76,
+      "fine": 92,
+      "nome_secolare": "",
+      "luogo_nascita": "Atene , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 4,
+      "nome": "San Clemente I",
+      "inizio": 92,
+      "fine": "97 (morto nel 101)",
+      "nome_secolare": "Clemente romano",
+      "luogo_nascita": "Roma , Impero romano",
+      "sepoltura": "Basilica di San Clemente al Laterano"
+    },
+    {
+      "n": 5,
+      "nome": "Sant' Evaristo",
+      "inizio": 97,
+      "fine": "27 ottobre 105",
+      "nome_secolare": "",
+      "luogo_nascita": "Betlemme , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 6,
+      "nome": "Sant' Alessandro I",
+      "inizio": 105,
+      "fine": "3 maggio 115",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 7,
+      "nome": "San Sisto I",
+      "inizio": 115,
+      "fine": "3 aprile 125",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Inizialmente nella necropoli vaticana; dieci secoli dopo nella cattedrale di Alife (ora solo reliquie); oggi nella cattedrale di Savona"
+    },
+    {
+      "n": 8,
+      "nome": "San Telesforo",
+      "inizio": 125,
+      "fine": "5 gennaio 136",
+      "nome_secolare": "",
+      "luogo_nascita": "Terranova da Sibari ( Italia ), Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 9,
+      "nome": "Sant' Igino",
+      "inizio": 136,
+      "fine": "11 gennaio 140",
+      "nome_secolare": "",
+      "luogo_nascita": "Atene , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 10,
+      "nome": "San Pio I",
+      "inizio": 140,
+      "fine": "11 luglio 155",
+      "nome_secolare": "",
+      "luogo_nascita": "Aquileia , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 11,
+      "nome": "Sant' Aniceto",
+      "inizio": 155,
+      "fine": "20 aprile 166",
+      "nome_secolare": "",
+      "luogo_nascita": "Emesa ( Siria ), Impero romano",
+      "sepoltura": "Palazzo Altemps"
+    },
+    {
+      "n": 12,
+      "nome": "San Sotero",
+      "inizio": 166,
+      "fine": "22 aprile 175",
+      "nome_secolare": "",
+      "luogo_nascita": "Fondi ( Italia ), Impero romano",
+      "sepoltura": "Basilica di San Sisto Vecchio"
+    },
+    {
+      "n": 13,
+      "nome": "Sant' Eleuterio",
+      "inizio": 175,
+      "fine": "24 maggio 189",
+      "nome_secolare": "",
+      "luogo_nascita": "Nicopoli ( Epiro ), Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 14,
+      "nome": "San Vittore I",
+      "inizio": 189,
+      "fine": "28 luglio 199",
+      "nome_secolare": "",
+      "luogo_nascita": "Africa Proconsolare , Impero romano",
+      "sepoltura": "Necropoli vaticana"
+    },
+    {
+      "n": 15,
+      "nome": "San Zefirino",
+      "inizio": 199,
+      "fine": "20 dicembre 217",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 16,
+      "nome": "San Callisto I",
+      "inizio": 218,
+      "fine": "circa nel 222",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Impero romano",
+      "sepoltura": "Catacomba di Calepodio . Ora in Santa Maria in Trastevere"
+    },
+    {
+      "n": 17,
+      "nome": "Sant' Urbano I",
+      "inizio": 222,
+      "fine": "circa nel 230",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 18,
+      "nome": "San Ponziano",
+      "inizio": "21 agosto 230",
+      "fine": "28 settembre 235 (morto il 19 novembre 235)",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 19,
+      "nome": "Sant' Antero",
+      "inizio": "21 novembre 235",
+      "fine": "3 gennaio 236",
+      "nome_secolare": "",
+      "luogo_nascita": "Petelia , ( Bruzio ), Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie nelle chiese di San Sisto Vecchio e San Silvestro in Capite"
+    },
+    {
+      "n": 20,
+      "nome": "San Fabiano",
+      "inizio": "10 gennaio 236",
+      "fine": "20 gennaio 250",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Ora nella Basilica di San Sebastiano fuori le mura e nella chiesa di San Sebastiano di Cuneo."
+    },
+    {
+      "n": 21,
+      "nome": "San Cornelio",
+      "inizio": "6 marzo 251",
+      "fine": "giugno 253",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie nella chiesa dei Santi Celso e Giuliano e a Compiègne (disperse con la Rivoluzione francese )"
+    },
+    {
+      "n": 22,
+      "nome": "San Lucio I",
+      "inizio": "25 giugno 253",
+      "fine": "5 marzo 254",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie nella Basilica di Santa Prassede e nella Cattedrale di Copenaghen"
+    },
+    {
+      "n": 23,
+      "nome": "Santo Stefano I",
+      "inizio": "12 marzo 254",
+      "fine": "2 agosto 257",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie in San Silvestro in Capite , nella chiesa di Santo Stefano dei Cavalieri e nella Cattedrale di Santo Stefano (Lesina)"
+    },
+    {
+      "n": 24,
+      "nome": "San Sisto II",
+      "inizio": "30 agosto 257",
+      "fine": "6 agosto 258",
+      "nome_secolare": "",
+      "luogo_nascita": "Atene , Grecia , Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 25,
+      "nome": "San Dionisio",
+      "inizio": "22 luglio 259",
+      "fine": "26 dicembre 268",
+      "nome_secolare": "",
+      "luogo_nascita": "Terranova da Sibari ( Italia ), Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 26,
+      "nome": "San Felice I",
+      "inizio": "5 gennaio 269",
+      "fine": "30 dicembre 274",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di San Callisto"
+    },
+    {
+      "n": 27,
+      "nome": "Sant' Eutichiano",
+      "inizio": "4 gennaio 275",
+      "fine": "7 dicembre 283",
+      "nome_secolare": "",
+      "luogo_nascita": "Luni , Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie nella Cattedrale di Sarzana"
+    },
+    {
+      "n": 28,
+      "nome": "San Caio",
+      "inizio": "17 dicembre 283",
+      "fine": "22 aprile 296",
+      "nome_secolare": "",
+      "luogo_nascita": "Salona ( Dalmazia ), Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie nella cappella di Palazzo Barberini"
+    },
+    {
+      "n": 29,
+      "nome": "San Marcellino",
+      "inizio": "30 giugno 296",
+      "fine": "25 ottobre 304",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di Priscilla"
+    },
+    {
+      "n": 30,
+      "nome": "San Marcello I",
+      "inizio": "27 maggio 308",
+      "fine": "16 gennaio 309",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Impero romano",
+      "sepoltura": "Catacombe di Priscilla Reliquie in San Marcello al Corso"
+    },
+    {
+      "n": 31,
+      "nome": "Sant' Eusebio",
+      "inizio": "18 aprile 309",
+      "fine": "17 agosto 309",
+      "nome_secolare": "",
+      "luogo_nascita": "Sardegna , Impero romano",
+      "sepoltura": "Catacombe di San Callisto . Reliquie in San Sebastiano fuori le mura e San Lorenzo in Panisperna"
+    },
+    {
+      "n": 32,
+      "nome": "San Milziade",
+      "inizio": "2 luglio 311",
+      "fine": "11 gennaio 314",
+      "nome_secolare": "",
+      "luogo_nascita": "Africa Proconsolare , Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie in San Silvestro in Capite"
+    },
+    {
+      "n": 33,
+      "nome": "San Silvestro I",
+      "inizio": "31 gennaio 314",
+      "fine": "31 dicembre 335",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di Priscilla. Reliquie in San Silvestro in Capite e nell' Abbazia di Nonantola ( MO )"
+    },
+    {
+      "n": 34,
+      "nome": "San Marco",
+      "inizio": "18 gennaio 336",
+      "fine": "7 ottobre 336",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacomba di Balbina . Reliquie in San Marco al Campidoglio"
+    },
+    {
+      "n": 35,
+      "nome": "San Giulio I",
+      "inizio": "6 febbraio 337",
+      "fine": "12 aprile 352",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacomba di Calepodio . Reliquie in Santa Maria in Trastevere"
+    },
+    {
+      "n": 36,
+      "nome": "Liberio ( Santo per la Chiesa ortodossa )",
+      "inizio": "17 maggio 352",
+      "fine": "24 settembre 366",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di Priscilla"
+    },
+    {
+      "n": 37,
+      "nome": "San Damaso I",
+      "inizio": "1º ottobre 366",
+      "fine": "11 dicembre 384",
+      "nome_secolare": "",
+      "luogo_nascita": "Egitania , Lusitania ( Portogallo ) oppure Roma ma di origini spagnole, Impero romano",
+      "sepoltura": "Catacombe di San Callisto. Reliquie in San Lorenzo in Damaso e in Basilica di San Pietro"
+    },
+    {
+      "n": 38,
+      "nome": "San Siricio",
+      "inizio": "15 dicembre 384",
+      "fine": "26 novembre 399",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacombe di Priscilla"
+    },
+    {
+      "n": 39,
+      "nome": "Sant' Anastasio I",
+      "inizio": "27 novembre 399",
+      "fine": "19 dicembre 401",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano",
+      "sepoltura": "Catacomba di Ponziano"
+    },
+    {
+      "n": 40,
+      "nome": "Sant' Innocenzo I",
+      "inizio": "22 dicembre 401",
+      "fine": "12 marzo 417",
+      "nome_secolare": "",
+      "luogo_nascita": "Albano , Impero romano",
+      "sepoltura": "Catacomba di Ponziano"
+    },
+    {
+      "n": 41,
+      "nome": "San Zosimo",
+      "inizio": "18 marzo 417",
+      "fine": "26 dicembre 418",
+      "nome_secolare": "",
+      "luogo_nascita": "Mesoraca (Crotone), Impero romano",
+      "sepoltura": "Basilica di San Lorenzo fuori le mura"
+    },
+    {
+      "n": 42,
+      "nome": "San Bonifacio I",
+      "inizio": "28 dicembre 418",
+      "fine": "4 settembre 422",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Impero romano",
+      "sepoltura": "Catacombe di Santa Felicita"
+    },
+    {
+      "n": 43,
+      "nome": "San Celestino I",
+      "inizio": "10 settembre 422",
+      "fine": "27 luglio 432",
+      "nome_secolare": "",
+      "luogo_nascita": "Campania , Impero romano",
+      "sepoltura": "Catacombe di Priscilla . Reliquie nella Basilica di Santa Prassede"
+    },
+    {
+      "n": 44,
+      "nome": "San Sisto III",
+      "inizio": "31 luglio 432",
+      "fine": "19 agosto 440",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma Impero romano",
+      "sepoltura": "Basilica di San Lorenzo fuori le mura"
+    },
+    {
+      "n": 45,
+      "nome": "San Leone I , Magno",
+      "inizio": "29 settembre 440",
+      "fine": "10 novembre 461",
+      "nome_secolare": "",
+      "luogo_nascita": "Toscana , Impero romano",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 46,
+      "nome": "Sant' Ilario",
+      "inizio": "19 novembre 461",
+      "fine": "29 febbraio 468",
+      "nome_secolare": "",
+      "luogo_nascita": "Sardegna , Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Lorenzo fuori le mura"
+    },
+    {
+      "n": 47,
+      "nome": "San Simplicio",
+      "inizio": "3 marzo 468",
+      "fine": "10 marzo 483",
+      "nome_secolare": "",
+      "luogo_nascita": "Tivoli , Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 48,
+      "nome": "San Felice III",
+      "inizio": "13 marzo 483",
+      "fine": "25 febbraio 492",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Paolo fuori le mura"
+    },
+    {
+      "n": 49,
+      "nome": "San Gelasio I",
+      "inizio": "1º marzo 492",
+      "fine": "21 novembre 496",
+      "nome_secolare": "",
+      "luogo_nascita": "Cabilia ( Africa romana ), Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 50,
+      "nome": "Anastasio II",
+      "inizio": "24 novembre 496",
+      "fine": "19 novembre 498",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 51,
+      "nome": "San Simmaco",
+      "inizio": "22 novembre 498",
+      "fine": "19 luglio 514",
+      "nome_secolare": "",
+      "luogo_nascita": "Sardegna, Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 52,
+      "nome": "Sant' Ormisda",
+      "inizio": "20 luglio 514",
+      "fine": "6 agosto 523",
+      "nome_secolare": "",
+      "luogo_nascita": "Frosinone , Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 53,
+      "nome": "San Giovanni I",
+      "inizio": "13 agosto 523",
+      "fine": "18 maggio 526",
+      "nome_secolare": "",
+      "luogo_nascita": "Siena , Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 54,
+      "nome": "San Felice IV",
+      "inizio": "12 luglio 526",
+      "fine": "20 settembre 530",
+      "nome_secolare": "",
+      "luogo_nascita": "Sannio , Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 55,
+      "nome": "Bonifacio II",
+      "inizio": "20 settembre 530",
+      "fine": "17 ottobre 532",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma (di origini ostrogote ), Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 56,
+      "nome": "Giovanni II",
+      "inizio": "2 gennaio 533",
+      "fine": "8 maggio 535",
+      "nome_secolare": "Mercurius (Mercurio di Proietto)",
+      "luogo_nascita": "Roma, Impero romano d'Occidente",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 57,
+      "nome": "Sant' Agapito I",
+      "inizio": "13 maggio 535",
+      "fine": "22 aprile 536",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Regno di Odoacre",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 58,
+      "nome": "San Silverio",
+      "inizio": "8 giugno 536",
+      "fine": "11 marzo (11 novembre) 537 (morto il 2 dicembre 537)",
+      "nome_secolare": "",
+      "luogo_nascita": "Frosinone, Regno di Odoacre",
+      "sepoltura": "Isola di Palmarola , Ponza"
+    },
+    {
+      "n": 59,
+      "nome": "Vigilio",
+      "inizio": "29 marzo 537",
+      "fine": "7 giugno 555",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Regno ostrogoto",
+      "sepoltura": "Basilica di San Silvestro . Ora nella Basilica di San Pietro"
+    },
+    {
+      "n": 60,
+      "nome": "Pelagio I",
+      "inizio": "16 aprile 556",
+      "fine": "4 marzo 561",
+      "nome_secolare": "Pelagio Vicariani",
+      "luogo_nascita": "Roma, Regno ostrogoto",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 61,
+      "nome": "Giovanni III",
+      "inizio": "17 luglio 561",
+      "fine": "13 luglio 574",
+      "nome_secolare": "Catelinus (Catelino)",
+      "luogo_nascita": "Roma, Regno ostrogoto",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 62,
+      "nome": "Benedetto I",
+      "inizio": "2 giugno 575",
+      "fine": "30 luglio 579",
+      "nome_secolare": "Benedetto Bonosio",
+      "luogo_nascita": "Roma, Regno ostrogoto",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 63,
+      "nome": "Pelagio II",
+      "inizio": "26 novembre 579",
+      "fine": "30 luglio 590",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Regno ostrogoto",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 64,
+      "nome": "San Gregorio I , Magno",
+      "inizio": "3 settembre 590",
+      "fine": "12 marzo 604",
+      "nome_secolare": "Gregorio",
+      "luogo_nascita": "Roma, Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 65,
+      "nome": "Sabiniano",
+      "inizio": "marzo 604",
+      "fine": "22 febbraio 606",
+      "nome_secolare": "",
+      "luogo_nascita": "Blera (Viterbo), Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 66,
+      "nome": "Bonifacio III",
+      "inizio": "17 febbraio 607",
+      "fine": "10 novembre 607",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 67,
+      "nome": "San Bonifacio IV",
+      "inizio": "25 agosto 608",
+      "fine": "8 maggio 615",
+      "nome_secolare": "",
+      "luogo_nascita": "Marsica , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 68,
+      "nome": "Sant' Adeodato I",
+      "inizio": "19 ottobre 615",
+      "fine": "8 novembre 618",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero bizantino",
+      "sepoltura": "Basilica di San Pietro. Ora nella Chiesa di San Bartolomeo a Valnogaredo, Cinto Euganeo"
+    },
+    {
+      "n": 69,
+      "nome": "Bonifacio V",
+      "inizio": "23 dicembre 619",
+      "fine": "23 ottobre 625",
+      "nome_secolare": "",
+      "luogo_nascita": "Napoli , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 70,
+      "nome": "Onorio I",
+      "inizio": "27 ottobre 625",
+      "fine": "12 ottobre 638",
+      "nome_secolare": "",
+      "luogo_nascita": "Ceprano , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 71,
+      "nome": "Severino",
+      "inizio": "ottobre 638",
+      "fine": "2 agosto 640",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 72,
+      "nome": "Giovanni IV",
+      "inizio": "24 dicembre 640",
+      "fine": "12 ottobre 642",
+      "nome_secolare": "",
+      "luogo_nascita": "Dalmazia , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 73,
+      "nome": "Teodoro I",
+      "inizio": "24 novembre 642",
+      "fine": "14 maggio 649",
+      "nome_secolare": "",
+      "luogo_nascita": "Gerusalemme , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 74,
+      "nome": "San Martino I",
+      "inizio": "5 luglio 649",
+      "fine": "16 settembre 655",
+      "nome_secolare": "",
+      "luogo_nascita": "Todi , Impero bizantino",
+      "sepoltura": "Basilica di Santa Maria ad Blachernas a Cherson . Ora nella Basilica dei Santi Silvestro e Martino ai Monti"
+    },
+    {
+      "n": 75,
+      "nome": "Sant' Eugenio I",
+      "inizio": "10 agosto 655",
+      "fine": "2 giugno 657",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 76,
+      "nome": "San Vitaliano",
+      "inizio": "30 luglio 657",
+      "fine": "27 gennaio 672",
+      "nome_secolare": "",
+      "luogo_nascita": "Segni , Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 77,
+      "nome": "Adeodato II",
+      "inizio": "11 aprile 672",
+      "fine": "16 giugno 676",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 78,
+      "nome": "Dono",
+      "inizio": "2 novembre 676",
+      "fine": "11 aprile 678",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 79,
+      "nome": "Sant' Agatone",
+      "inizio": "27 giugno 678",
+      "fine": "10 gennaio 681",
+      "nome_secolare": "",
+      "luogo_nascita": "Palermo , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 80,
+      "nome": "San Leone II",
+      "inizio": "17 agosto 682",
+      "fine": "3 luglio 683",
+      "nome_secolare": "",
+      "luogo_nascita": "Sicilia , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 81,
+      "nome": "San Benedetto II",
+      "inizio": "26 giugno 684",
+      "fine": "8 maggio 685",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 82,
+      "nome": "Giovanni V",
+      "inizio": "23 luglio 685",
+      "fine": "2 agosto 686",
+      "nome_secolare": "",
+      "luogo_nascita": "Siria , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 83,
+      "nome": "Conone",
+      "inizio": "21 ottobre 686",
+      "fine": "21 settembre 687",
+      "nome_secolare": "",
+      "luogo_nascita": "Tracia , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 84,
+      "nome": "San Sergio I",
+      "inizio": "15 dicembre 687",
+      "fine": "8 settembre 701",
+      "nome_secolare": "",
+      "luogo_nascita": "Palermo, Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 85,
+      "nome": "Giovanni VI",
+      "inizio": "30 ottobre 701",
+      "fine": "11 gennaio 705",
+      "nome_secolare": "",
+      "luogo_nascita": "Efeso ( Asia minore ), Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 86,
+      "nome": "Giovanni VII",
+      "inizio": "1º marzo 705",
+      "fine": "18 ottobre 707",
+      "nome_secolare": "",
+      "luogo_nascita": "Rossano ( Calabria ), Impero bizantino",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 87,
+      "nome": "Sisinnio",
+      "inizio": "15 gennaio 708",
+      "fine": "4 febbraio 708",
+      "nome_secolare": "",
+      "luogo_nascita": "Siria , Califfato dei Rashidun",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 88,
+      "nome": "Costantino",
+      "inizio": "25 marzo 708",
+      "fine": "9 aprile 715",
+      "nome_secolare": "",
+      "luogo_nascita": "Siria, Califfato omayyade",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 89,
+      "nome": "San Gregorio II",
+      "inizio": "19 maggio 715",
+      "fine": "11 febbraio 731",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 90,
+      "nome": "San Gregorio III",
+      "inizio": "18 marzo 731",
+      "fine": "28 novembre 741",
+      "nome_secolare": "",
+      "luogo_nascita": "Siria, Califfato omayyade",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 91,
+      "nome": "San Zaccaria",
+      "inizio": "3 dicembre 741",
+      "fine": "15 marzo 752",
+      "nome_secolare": "",
+      "luogo_nascita": "Santa Severina ( Calabria ), Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": "-",
+      "nome": "Stefano (II)",
+      "inizio": "22 marzo 752",
+      "fine": "26 marzo 752 non consacrato",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 92,
+      "nome": "Stefano II (III)",
+      "inizio": "26 marzo 752",
+      "fine": "26 aprile 757",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 93,
+      "nome": "San Paolo I",
+      "inizio": "29 maggio 757",
+      "fine": "28 giugno 767",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 94,
+      "nome": "Stefano III (IV)",
+      "inizio": "7 agosto 768",
+      "fine": "24 gennaio 772",
+      "nome_secolare": "",
+      "luogo_nascita": "Siracusa , Impero bizantino",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 95,
+      "nome": "Adriano I",
+      "inizio": "9 febbraio 772",
+      "fine": "25 dicembre 795",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 96,
+      "nome": "San Leone III",
+      "inizio": "27 dicembre 795",
+      "fine": "12 giugno 816",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Ducato romano ( formalmente Impero bizantino)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 97,
+      "nome": "Stefano IV (V)",
+      "inizio": "22 giugno 816",
+      "fine": "24 gennaio 817",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 98,
+      "nome": "San Pasquale I",
+      "inizio": "25 gennaio 817",
+      "fine": "11 febbraio 824",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 99,
+      "nome": "Eugenio II",
+      "inizio": "8 maggio 824",
+      "fine": "27 agosto 827",
+      "nome_secolare": "Eugenio Savelli",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 100,
+      "nome": "Valentino",
+      "inizio": "agosto 827",
+      "fine": "settembre 827",
+      "nome_secolare": "Valentino Leoni",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 101,
+      "nome": "Gregorio IV",
+      "inizio": "dicembre 827",
+      "fine": "25 gennaio 844",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 102,
+      "nome": "Sergio II",
+      "inizio": "25 gennaio 844",
+      "fine": "7 gennaio 847",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 103,
+      "nome": "San Leone IV",
+      "inizio": "10 aprile 847",
+      "fine": "17 luglio 855",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 104,
+      "nome": "Benedetto III",
+      "inizio": "29 settembre 855",
+      "fine": "7 aprile 858",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 105,
+      "nome": "San Niccolò I",
+      "inizio": "24 aprile 858",
+      "fine": "13 novembre 867",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 106,
+      "nome": "Adriano II",
+      "inizio": "14 dicembre 867",
+      "fine": "14 dicembre 872",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 107,
+      "nome": "Giovanni VIII",
+      "inizio": "14 dicembre 872",
+      "fine": "16 dicembre 882",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 108,
+      "nome": "Marino I",
+      "inizio": "16 dicembre 882",
+      "fine": "15 maggio 884",
+      "nome_secolare": "",
+      "luogo_nascita": "Gallese , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 109,
+      "nome": "Sant' Adriano III",
+      "inizio": "15 maggio 884",
+      "fine": "settembre 885",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Abbazia di Nonantola"
+    },
+    {
+      "n": 110,
+      "nome": "Stefano V (VI)",
+      "inizio": "settembre 885",
+      "fine": "14 settembre 891",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 111,
+      "nome": "Formoso",
+      "inizio": "6 ottobre 891",
+      "fine": "4 aprile 896",
+      "nome_secolare": "",
+      "luogo_nascita": "Ostia , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 112,
+      "nome": "Bonifacio VI",
+      "inizio": "11 aprile 896",
+      "fine": "26 aprile 896",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 113,
+      "nome": "Stefano VI (VII)",
+      "inizio": "22 maggio 896",
+      "fine": "14 agosto 897 (morto nell'ottobre 897)",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 114,
+      "nome": "Romano",
+      "inizio": "agosto 897",
+      "fine": "novembre 897 (morto dopo la deposizione)",
+      "nome_secolare": "",
+      "luogo_nascita": "Gallese, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 115,
+      "nome": "Teodoro II",
+      "inizio": "dicembre 897",
+      "fine": "dicembre 897",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 116,
+      "nome": "Giovanni IX",
+      "inizio": "gennaio 898",
+      "fine": "gennaio 900",
+      "nome_secolare": "",
+      "luogo_nascita": "Tivoli , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 117,
+      "nome": "Benedetto IV",
+      "inizio": "gennaio 900",
+      "fine": "luglio 903",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 118,
+      "nome": "Leone V",
+      "inizio": "luglio 903",
+      "fine": "settembre 903 (morto dopo la deposizione)",
+      "nome_secolare": "",
+      "luogo_nascita": "Ardea , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 119,
+      "nome": "Sergio III",
+      "inizio": "29 gennaio 904",
+      "fine": "14 aprile 911",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 120,
+      "nome": "Anastasio III",
+      "inizio": "aprile 911",
+      "fine": "giugno 913",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 121,
+      "nome": "Lando",
+      "inizio": "agosto 913",
+      "fine": "marzo 914",
+      "nome_secolare": "",
+      "luogo_nascita": "Sabina , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 122,
+      "nome": "Giovanni X",
+      "inizio": "marzo 914",
+      "fine": "maggio 928 (morto dopo la deposizione)",
+      "nome_secolare": "",
+      "luogo_nascita": "Tossignano , Regno d'Italia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 123,
+      "nome": "Leone VI",
+      "inizio": "maggio 928",
+      "fine": "gennaio 929",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 124,
+      "nome": "Stefano VII (VIII)",
+      "inizio": "gennaio 929",
+      "fine": "febbraio 931",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 125,
+      "nome": "Giovanni XI",
+      "inizio": "marzo 931",
+      "fine": "dicembre 935",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 126,
+      "nome": "Leone VII",
+      "inizio": "3 gennaio 936",
+      "fine": "13 luglio 939",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 127,
+      "nome": "Stefano VIII (IX)",
+      "inizio": "14 luglio 939",
+      "fine": "ottobre 942",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 128,
+      "nome": "Marino II",
+      "inizio": "30 ottobre 942",
+      "fine": "maggio 946",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 129,
+      "nome": "Agapito II",
+      "inizio": "10 maggio 946",
+      "fine": "dicembre 955",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 130,
+      "nome": "Giovanni XII",
+      "inizio": "16 dicembre 955 26 febbraio 964",
+      "fine": "6 dicembre 963 14 maggio 964",
+      "nome_secolare": "Ottaviano dei conti di Tuscolo",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 131,
+      "nome": "Leone VIII",
+      "inizio": "6 dicembre 963 23 giugno 964",
+      "fine": "26 febbraio 964 1º marzo 965",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 132,
+      "nome": "Benedetto V",
+      "inizio": "22 maggio 964",
+      "fine": "23 giugno 964 (morto il 4 luglio 966)",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 133,
+      "nome": "Giovanni XIII",
+      "inizio": "1º ottobre 965",
+      "fine": "6 settembre 972",
+      "nome_secolare": "Giovanni dei Crescenzi",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Paolo fuori le mura"
+    },
+    {
+      "n": 134,
+      "nome": "Benedetto VI",
+      "inizio": "19 gennaio 973",
+      "fine": "giugno 974",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 135,
+      "nome": "Benedetto VII",
+      "inizio": "ottobre 974",
+      "fine": "10 luglio 983",
+      "nome_secolare": "",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di Santa Croce in Gerusalemme"
+    },
+    {
+      "n": 136,
+      "nome": "Giovanni XIV",
+      "inizio": "dicembre 983",
+      "fine": "20 agosto 984",
+      "nome_secolare": "Pietro Canepanova",
+      "luogo_nascita": "Pavia , Regno d'Italia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 137,
+      "nome": "Giovanni XV",
+      "inizio": "agosto 985",
+      "fine": "marzo 996",
+      "nome_secolare": "Giovanni di Gallina Alba",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 138,
+      "nome": "Gregorio V",
+      "inizio": "3 maggio 996",
+      "fine": "18 febbraio 999",
+      "nome_secolare": "Bruno von Kärnten (di Carinzia)",
+      "luogo_nascita": "Ducato di Baviera ( SRI )",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 139,
+      "nome": "Silvestro II",
+      "inizio": "2 aprile 999",
+      "fine": "12 maggio 1003",
+      "nome_secolare": "Gerbert d'Aurillac",
+      "luogo_nascita": "Belliac ( Alvernia ), Regno di Francia",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 140,
+      "nome": "Giovanni XVII",
+      "inizio": "16 maggio 1003",
+      "fine": "6 novembre 1003",
+      "nome_secolare": "Giovanni Sicco",
+      "luogo_nascita": "Rapagnano , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 141,
+      "nome": "Giovanni XVIII",
+      "inizio": "25 dicembre 1003",
+      "fine": "18 luglio 1009",
+      "nome_secolare": "Giovanni Fasano o Carminati",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 142,
+      "nome": "Sergio IV",
+      "inizio": "31 luglio 1009",
+      "fine": "12 maggio 1012",
+      "nome_secolare": "Pietro Boccapecora o Boccadiporco",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 143,
+      "nome": "Benedetto VIII",
+      "inizio": "18 maggio 1012",
+      "fine": "9 aprile 1024",
+      "nome_secolare": "Teofilatto II dei conti di Tuscolo",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 144,
+      "nome": "Giovanni XIX",
+      "inizio": "maggio 1024",
+      "fine": "ottobre 1032",
+      "nome_secolare": "Romano dei conti di Tuscolo",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 145,
+      "nome": "Benedetto IX",
+      "inizio": "ottobre 1032",
+      "fine": "settembre 1044",
+      "nome_secolare": "Teofilatto III dei conti di Tuscolo",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Abbazia territoriale di Santa Maria di Grottaferrata"
+    },
+    {
+      "n": 146,
+      "nome": "Silvestro III",
+      "inizio": "13 gennaio 1045",
+      "fine": "10 marzo 1045 (morto nel 1062)",
+      "nome_secolare": "Giovanni dei Crescenzi Ottaviani",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 147,
+      "nome": "Benedetto IX",
+      "inizio": "10 marzo 1045",
+      "fine": "1º maggio 1045",
+      "nome_secolare": "Teofilatto III dei conti di Tuscolo",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Abbazia territoriale di Santa Maria di Grottaferrata"
+    },
+    {
+      "n": 148,
+      "nome": "Gregorio VI",
+      "inizio": "5 maggio 1045",
+      "fine": "20 dicembre 1046 (morto tra ottobre e dicembre 1047)",
+      "nome_secolare": "Giovanni Graziano Pierleoni",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 149,
+      "nome": "Clemente II",
+      "inizio": "24 dicembre 1046",
+      "fine": "9 ottobre 1047",
+      "nome_secolare": "Suidger von Morsleben-Hornburg",
+      "luogo_nascita": "Hornburg , Ducato di Sassonia ( SRI )",
+      "sepoltura": "Duomo di Bamberga"
+    },
+    {
+      "n": 150,
+      "nome": "Benedetto IX",
+      "inizio": "8 novembre 1047",
+      "fine": "17 luglio 1048 (morto tra il 18 settembre 1055 e il 9 gennaio 1056)",
+      "nome_secolare": "Teofilatto III dei conti di Tuscolo",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Abbazia territoriale di Santa Maria di Grottaferrata"
+    },
+    {
+      "n": 151,
+      "nome": "Damaso II",
+      "inizio": "17 luglio 1048",
+      "fine": "9 agosto 1048",
+      "nome_secolare": "Poppo von Brixen, Poppo von Bayern o Poppone de' Curagnoni di Bressanone",
+      "luogo_nascita": "Pildenau, Ducato di Baviera (SRI)",
+      "sepoltura": "Basilica di San Lorenzo fuori le mura"
+    },
+    {
+      "n": 152,
+      "nome": "San Leone IX",
+      "inizio": "12 febbraio 1049",
+      "fine": "19 aprile 1054",
+      "nome_secolare": "Bruno von Egisheim-Dagsburg",
+      "luogo_nascita": "Eguisheim ( Alsazia ), Ducato di Svevia (SRI)",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 153,
+      "nome": "Vittore II",
+      "inizio": "13 aprile 1055",
+      "fine": "28 luglio 1057",
+      "nome_secolare": "Gebhard II von Calw-Dollnstein-Hirschberg",
+      "luogo_nascita": "Ducato di Svevia (?) (SRI)",
+      "sepoltura": "Basilica Ursiana , Ravenna"
+    },
+    {
+      "n": 154,
+      "nome": "Stefano IX (X)",
+      "inizio": "2 agosto 1057",
+      "fine": "29 marzo 1058",
+      "nome_secolare": "Frederic Gozzelon de Lorraine (in tedesco Friedrich Gozzelon von Lothringen) o Federico Gozzelon dei duchi di Lorena",
+      "luogo_nascita": "Ducato di Lorena (SRI)",
+      "sepoltura": "Chiesa di Santa Reparata , Firenze"
+    },
+    {
+      "n": 155,
+      "nome": "Niccolò II",
+      "inizio": "6 dicembre 1058",
+      "fine": "27 luglio 1061",
+      "nome_secolare": "Gerard de Bourgogne o Gerardo di Borgogna",
+      "luogo_nascita": "Chevron , Contea di Savoia (SRI)",
+      "sepoltura": "Chiesa di Santa Reparata, Firenze"
+    },
+    {
+      "n": 156,
+      "nome": "Alessandro II",
+      "inizio": "1º ottobre 1061",
+      "fine": "21 aprile 1073",
+      "nome_secolare": "Anselmo da Baggio",
+      "luogo_nascita": "Baggio (oggi Milano ), Sacro Romano Impero",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 157,
+      "nome": "San Gregorio VII",
+      "inizio": "22 aprile 1073",
+      "fine": "25 maggio 1085",
+      "nome_secolare": "Ildebrando di Soana",
+      "luogo_nascita": "Sovana ( Grosseto ), Margraviato di Toscana (SRI)",
+      "sepoltura": "Cattedrale di Salerno"
+    },
+    {
+      "n": 158,
+      "nome": "Beato Vittore III",
+      "inizio": "24 maggio 1086",
+      "fine": "16 settembre 1087",
+      "nome_secolare": "Dauferio Epifani Del Zotto (detto Desiderio da Montecassino)",
+      "luogo_nascita": "Benevento , Principato di Benevento",
+      "sepoltura": "Abbazia di Montecassino"
+    },
+    {
+      "n": 159,
+      "nome": "Beato Urbano II",
+      "inizio": "12 marzo 1088",
+      "fine": "29 luglio 1099",
+      "nome_secolare": "Odon o Eudes (Ottone) de Lagery o de Châtillon",
+      "luogo_nascita": "Lagery, Châtillon-sur-Marne , Contea di Champagne ( Francia )",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 160,
+      "nome": "Pasquale II",
+      "inizio": "13 agosto 1099",
+      "fine": "21 gennaio 1118",
+      "nome_secolare": "Rainerio Raineri di Bleda",
+      "luogo_nascita": "Bleda , Margraviato di Toscana (SRI)",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 161,
+      "nome": "Gelasio II",
+      "inizio": "24 gennaio 1118",
+      "fine": "29 gennaio 1119",
+      "nome_secolare": "Giovanni dei Caetani Coniuolo, Giovanni Caetani o Giovanni di Gaeta",
+      "luogo_nascita": "Gaeta , Ducato di Gaeta",
+      "sepoltura": "Abbazia di Cluny"
+    },
+    {
+      "n": 162,
+      "nome": "Callisto II",
+      "inizio": "2 febbraio 1119",
+      "fine": "13 dicembre 1124",
+      "nome_secolare": "Gui de Bourgogne o Guido dei conti di Borgogna",
+      "luogo_nascita": "Quingey , Franca Contea di Borgogna ( SRI )",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 163,
+      "nome": "Onorio II",
+      "inizio": "15 dicembre 1124",
+      "fine": "13 febbraio 1130",
+      "nome_secolare": "Lamberto Scannabecchi da Fiagnano",
+      "luogo_nascita": "Fiagnano , Romagna ( de facto Sacro Romano Impero )",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 164,
+      "nome": "Innocenzo II",
+      "inizio": "14 febbraio 1130",
+      "fine": "24 settembre 1143",
+      "nome_secolare": "Gregorio Papareschi",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria in Trastevere"
+    },
+    {
+      "n": 165,
+      "nome": "Celestino II",
+      "inizio": "26 settembre 1143",
+      "fine": "8 marzo 1144",
+      "nome_secolare": "Guido Guelfuccio de Castello",
+      "luogo_nascita": "Città di Castello , Sacro Romano Impero",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 166,
+      "nome": "Lucio II",
+      "inizio": "12 marzo 1144",
+      "fine": "15 febbraio 1145",
+      "nome_secolare": "Gherardo Caccianemici dall'Orso",
+      "luogo_nascita": "Bologna , Sacro Romano Impero",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 167,
+      "nome": "Beato Eugenio III",
+      "inizio": "15 febbraio 1145",
+      "fine": "8 luglio 1153",
+      "nome_secolare": "Pietro Bernardo dei Paganelli",
+      "luogo_nascita": "Montemagno , Repubblica di Pisa",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 168,
+      "nome": "Anastasio IV",
+      "inizio": "9 luglio 1153",
+      "fine": "3 dicembre 1154",
+      "nome_secolare": "Corrado della Suburra",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 169,
+      "nome": "Adriano IV",
+      "inizio": "4 dicembre 1154",
+      "fine": "1º settembre 1159",
+      "nome_secolare": "Nicholas Breakspear",
+      "luogo_nascita": "Abbots Langley , Regno d'Inghilterra",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 170,
+      "nome": "Alessandro III",
+      "inizio": "7 settembre 1159",
+      "fine": "30 agosto 1181",
+      "nome_secolare": "Rolando Bandinelli",
+      "luogo_nascita": "Siena , Repubblica di Siena (SRI)",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 171,
+      "nome": "Lucio III",
+      "inizio": "1º settembre 1181",
+      "fine": "25 novembre 1185",
+      "nome_secolare": "Ubaldo Allucingoli",
+      "luogo_nascita": "Lucca , Margraviato di Toscana (SRI)",
+      "sepoltura": "Duomo di Verona"
+    },
+    {
+      "n": 172,
+      "nome": "Urbano III",
+      "inizio": "25 novembre 1185",
+      "fine": "20 ottobre 1187",
+      "nome_secolare": "Uberto Crivelli",
+      "luogo_nascita": "Cuggiono , Sacro Romano Impero",
+      "sepoltura": "Cattedrale di San Giorgio , Ferrara"
+    },
+    {
+      "n": 173,
+      "nome": "Gregorio VIII",
+      "inizio": "21 ottobre 1187",
+      "fine": "17 dicembre 1187",
+      "nome_secolare": "Alberto di Morra",
+      "luogo_nascita": "Benevento , Stato Pontificio",
+      "sepoltura": "Duomo di Pisa"
+    },
+    {
+      "n": 174,
+      "nome": "Clemente III",
+      "inizio": "19 dicembre 1187",
+      "fine": "25 marzo 1191",
+      "nome_secolare": "Paolo Scolari",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 175,
+      "nome": "Celestino III",
+      "inizio": "10 aprile 1191",
+      "fine": "8 gennaio 1198",
+      "nome_secolare": "Giacinto Bobone Orsini",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 176,
+      "nome": "Innocenzo III",
+      "inizio": "8 gennaio 1198",
+      "fine": "16 luglio 1216",
+      "nome_secolare": "Lotario dei conti di Segni",
+      "luogo_nascita": "Gavignano , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 177,
+      "nome": "Onorio III",
+      "inizio": "18 luglio 1216",
+      "fine": "18 marzo 1227",
+      "nome_secolare": "Cencio Savelli",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 178,
+      "nome": "Gregorio IX",
+      "inizio": "19 marzo 1227",
+      "fine": "22 agosto 1241",
+      "nome_secolare": "Ugolino di Anagni (indicato anche come dei conti di Segni )",
+      "luogo_nascita": "Anagni , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 179,
+      "nome": "Celestino IV",
+      "inizio": "25 ottobre 1241",
+      "fine": "10 novembre 1241",
+      "nome_secolare": "Goffredo Castiglioni Castiglione",
+      "luogo_nascita": "Milano , Sacro Romano Impero",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 180,
+      "nome": "Innocenzo IV",
+      "inizio": "25 giugno 1243",
+      "fine": "7 dicembre 1254",
+      "nome_secolare": "Sinibaldo Fieschi dei conti di Lavagna",
+      "luogo_nascita": "Manarola , Repubblica di Genova",
+      "sepoltura": "Duomo di Napoli"
+    },
+    {
+      "n": 181,
+      "nome": "Alessandro IV",
+      "inizio": "12 dicembre 1254",
+      "fine": "25 maggio 1261",
+      "nome_secolare": "Rinaldo dei signori di Jenne (indicato anche come dei conti di Segni )",
+      "luogo_nascita": "Jenne , Stato Pontificio",
+      "sepoltura": "Cattedrale di San Lorenzo , Viterbo"
+    },
+    {
+      "n": 182,
+      "nome": "Urbano IV",
+      "inizio": "29 agosto 1261",
+      "fine": "2 ottobre 1264",
+      "nome_secolare": "Jacques Pantaleon",
+      "luogo_nascita": "Troyes , Contea di Champagne ( Francia )",
+      "sepoltura": "Cattedrale di San Lorenzo , Perugia"
+    },
+    {
+      "n": 183,
+      "nome": "Clemente IV",
+      "inizio": "5 febbraio 1265",
+      "fine": "29 novembre 1268",
+      "nome_secolare": "Gui Foucois o Guy Le Gros Foulquois o Foulques (italianizzato in Guido il Grosso Fulcodi)",
+      "luogo_nascita": "Saint-Gilles-du-Gard , Contea di Tolosa ( Francia )",
+      "sepoltura": "Basilica di San Francesco alla Rocca , Viterbo"
+    },
+    {
+      "n": 184,
+      "nome": "Beato Gregorio X",
+      "inizio": "1º settembre 1271",
+      "fine": "10 gennaio 1276",
+      "nome_secolare": "Tedaldo (o Tebaldo o Teobaldo) Visconti",
+      "luogo_nascita": "Piacenza , Sacro Romano Impero",
+      "sepoltura": "Cattedrale di San Donato , Arezzo"
+    },
+    {
+      "n": 185,
+      "nome": "Beato Innocenzo V",
+      "inizio": "21 gennaio 1276",
+      "fine": "22 giugno 1276",
+      "nome_secolare": "Pierre de Tarentaise (italianizzato in Pietro di Tarantasia)",
+      "luogo_nascita": "Champagny , Contea di Savoia ( SRI )",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 186,
+      "nome": "Adriano V",
+      "inizio": "11 luglio 1276",
+      "fine": "18 agosto 1276",
+      "nome_secolare": "Ottobono Fieschi dei conti di Lavagna",
+      "luogo_nascita": "Genova , Repubblica di Genova",
+      "sepoltura": "Basilica di San Francesco alla Rocca, Viterbo"
+    },
+    {
+      "n": 187,
+      "nome": "Giovanni XXI",
+      "inizio": "16 settembre 1276",
+      "fine": "20 maggio 1277",
+      "nome_secolare": "Pedro Julião o Pedro Julião Rebolo (detto Petrus Iuliani o Pietro di Giuliano o Pietro Ispano o Pedro Hispano o Petrus Hispanus)",
+      "luogo_nascita": "Lisbona , Regno del Portogallo",
+      "sepoltura": "Cattedrale di San Lorenzo, Viterbo"
+    },
+    {
+      "n": 188,
+      "nome": "Niccolò III",
+      "inizio": "25 novembre 1277",
+      "fine": "22 agosto 1280",
+      "nome_secolare": "Giovanni Gaetano Orsini",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 189,
+      "nome": "Martino IV",
+      "inizio": "22 febbraio 1281",
+      "fine": "29 marzo 1285",
+      "nome_secolare": "Simon de Brion",
+      "luogo_nascita": "Montpensier , Regno di Francia",
+      "sepoltura": "Cattedrale di San Lorenzo, Perugia"
+    },
+    {
+      "n": 190,
+      "nome": "Onorio IV",
+      "inizio": "2 aprile 1285",
+      "fine": "3 aprile 1287",
+      "nome_secolare": "Giacomo Savelli",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria in Aracoeli"
+    },
+    {
+      "n": 191,
+      "nome": "Niccolò IV",
+      "inizio": "15 febbraio 1288",
+      "fine": "4 aprile 1292",
+      "nome_secolare": "Girolamo Masci",
+      "luogo_nascita": "Ascoli Piceno , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 192,
+      "nome": "San Celestino V",
+      "inizio": "5 luglio 1294",
+      "fine": "13 dicembre 1294 (morto il 19 maggio 1296)",
+      "nome_secolare": "Pietro Angelerio (o Angeleri), detto Pietro da Morrone e venerato come Pietro Celestino",
+      "luogo_nascita": "Molise , Regno di Sicilia",
+      "sepoltura": "Basilica di Santa Maria di Collemaggio , L'Aquila"
+    },
+    {
+      "n": 193,
+      "nome": "Bonifacio VIII",
+      "inizio": "24 dicembre 1294",
+      "fine": "11 ottobre 1303",
+      "nome_secolare": "Benedetto Caetani",
+      "luogo_nascita": "Anagni , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 194,
+      "nome": "Beato Benedetto XI",
+      "inizio": "22 ottobre 1303",
+      "fine": "7 luglio 1304",
+      "nome_secolare": "Niccolò (o Nicolò) di Boccassio, o di Boccassino o Boccassini",
+      "luogo_nascita": "Treviso , Sacro Romano Impero",
+      "sepoltura": "Basilica di San Domenico , Perugia"
+    },
+    {
+      "n": 195,
+      "nome": "Clemente V",
+      "inizio": "5 giugno 1305",
+      "fine": "20 aprile 1314",
+      "nome_secolare": "Bertrand de Got, de Goth o de Gouth",
+      "luogo_nascita": "Villandraut , Regno di Francia",
+      "sepoltura": "Chiesa di Notre-Dame, Uzeste"
+    },
+    {
+      "n": 196,
+      "nome": "Giovanni XXII",
+      "inizio": "7 agosto 1316",
+      "fine": "4 dicembre 1334",
+      "nome_secolare": "Jacques-Arnaud Duèze o d'Euse",
+      "luogo_nascita": "Cahors , Regno di Francia",
+      "sepoltura": "Cattedrale di Avignone"
+    },
+    {
+      "n": 197,
+      "nome": "Benedetto XII",
+      "inizio": "20 dicembre 1334",
+      "fine": "25 aprile 1342",
+      "nome_secolare": "Jacques Fornièr",
+      "luogo_nascita": "Saverdun , Contea di Foix ( Francia )",
+      "sepoltura": "Cattedrale di Avignone"
+    },
+    {
+      "n": 198,
+      "nome": "Clemente VI",
+      "inizio": "7 maggio 1342",
+      "fine": "6 dicembre 1352",
+      "nome_secolare": "Pierre Roger",
+      "luogo_nascita": "Rosiers-d'Égletons , Regno di Francia",
+      "sepoltura": "Abbazia di La Chaise-Dieu"
+    },
+    {
+      "n": 199,
+      "nome": "Innocenzo VI",
+      "inizio": "18 dicembre 1352",
+      "fine": "12 settembre 1362",
+      "nome_secolare": "Étienne Aubert",
+      "luogo_nascita": "Beyssac , Regno di Francia",
+      "sepoltura": "Certosa di Notre-Dame-du-val-de-Bénédiction, Villeneuve-lès-Avignon"
+    },
+    {
+      "n": 200,
+      "nome": "Beato Urbano V",
+      "inizio": "28 settembre 1362",
+      "fine": "19 dicembre 1370",
+      "nome_secolare": "Guillaume de Grimoard",
+      "luogo_nascita": "Le Pont-de-Montvert , Regno di Francia",
+      "sepoltura": "Abbazia di San Vittore , Marsiglia"
+    },
+    {
+      "n": 201,
+      "nome": "Gregorio XI",
+      "inizio": "30 dicembre 1370",
+      "fine": "26 marzo 1378",
+      "nome_secolare": "Pierre Roger de Beaufort",
+      "luogo_nascita": "Rosiers-d'Égletons , Regno di Francia",
+      "sepoltura": "Basilica di Santa Francesca Romana"
+    },
+    {
+      "n": 202,
+      "nome": "Urbano VI",
+      "inizio": "8 aprile 1378",
+      "fine": "15 ottobre 1389",
+      "nome_secolare": "Bartolomeo Prignano",
+      "luogo_nascita": "Itri , Regno di Napoli",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 203,
+      "nome": "Bonifacio IX",
+      "inizio": "2 novembre 1389",
+      "fine": "1º ottobre 1404",
+      "nome_secolare": "Pietro Tomacelli",
+      "luogo_nascita": "Casarano , Regno di Napoli",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 204,
+      "nome": "Innocenzo VII",
+      "inizio": "17 ottobre 1404",
+      "fine": "6 novembre 1406",
+      "nome_secolare": "Cosimo de' Migliorati",
+      "luogo_nascita": "Sulmona , Regno di Napoli",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 205,
+      "nome": "Gregorio XII",
+      "inizio": "30 novembre 1406",
+      "fine": "4 luglio 1415 (morto il 18 ottobre 1417)",
+      "nome_secolare": "Angelo Correr",
+      "luogo_nascita": "Venezia , Repubblica di Venezia",
+      "sepoltura": "Concattedrale di San Flaviano , Recanati"
+    },
+    {
+      "n": 206,
+      "nome": "Martino V",
+      "inizio": "11 novembre 1417",
+      "fine": "20 febbraio 1431",
+      "nome_secolare": "Oddone (o Ottone) Colonna",
+      "luogo_nascita": "Genazzano , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 207,
+      "nome": "Eugenio IV",
+      "inizio": "3 marzo 1431",
+      "fine": "23 febbraio 1447",
+      "nome_secolare": "Gabriele Condulmer",
+      "luogo_nascita": "Venezia, Repubblica di Venezia",
+      "sepoltura": "San Salvatore in Lauro"
+    },
+    {
+      "n": 208,
+      "nome": "Niccolò V",
+      "inizio": "6 marzo 1447",
+      "fine": "24 marzo 1455",
+      "nome_secolare": "Tommaso Parentucelli",
+      "luogo_nascita": "Sarzana , Repubblica di Genova",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 209,
+      "nome": "Callisto III",
+      "inizio": "8 aprile 1455",
+      "fine": "6 agosto 1458",
+      "nome_secolare": "Alfons de Borja y Cabanilles (italianizzato Alfonso de Borgia )",
+      "luogo_nascita": "Torre de Canals , Regno di Valencia",
+      "sepoltura": "Chiesa di Santa Maria in Monserrato degli Spagnoli"
+    },
+    {
+      "n": 210,
+      "nome": "Pio II",
+      "inizio": "19 agosto 1458",
+      "fine": "14 agosto 1464",
+      "nome_secolare": "Enea Silvio Bartolomeo Piccolomini",
+      "luogo_nascita": "Corsignano , Repubblica di Siena",
+      "sepoltura": "Basilica di Sant'Andrea della Valle"
+    },
+    {
+      "n": 211,
+      "nome": "Paolo II",
+      "inizio": "30 agosto 1464",
+      "fine": "26 luglio 1471",
+      "nome_secolare": "Pietro Barbo",
+      "luogo_nascita": "Venezia, Repubblica di Venezia",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 212,
+      "nome": "Sisto IV",
+      "inizio": "9 agosto 1471",
+      "fine": "12 agosto 1484",
+      "nome_secolare": "Francesco Della Rovere",
+      "luogo_nascita": "Celle Ligure , Repubblica di Genova",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 213,
+      "nome": "Innocenzo VIII",
+      "inizio": "29 agosto 1484",
+      "fine": "25 luglio 1492",
+      "nome_secolare": "Giovanni Battista Cybo",
+      "luogo_nascita": "Genova , Repubblica di Genova",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 214,
+      "nome": "Alessandro VI",
+      "inizio": "11 agosto 1492",
+      "fine": "18 agosto 1503",
+      "nome_secolare": "Roderic Llançol de Borja (italianizzato Rodrigo Borgia )",
+      "luogo_nascita": "Xàtiva, Regno di Valencia",
+      "sepoltura": "Chiesa di Santa Maria in Monserrato degli Spagnoli"
+    },
+    {
+      "n": 215,
+      "nome": "Pio III",
+      "inizio": "22 settembre 1503",
+      "fine": "18 ottobre 1503",
+      "nome_secolare": "Francesco Nanni Todeschini Piccolomini",
+      "luogo_nascita": "Sarteano , Repubblica di Siena",
+      "sepoltura": "Basilica di Sant'Andrea della Valle"
+    },
+    {
+      "n": 216,
+      "nome": "Giulio II",
+      "inizio": "1º novembre 1503",
+      "fine": "21 febbraio 1513",
+      "nome_secolare": "Giuliano Della Rovere",
+      "luogo_nascita": "Albisola , Repubblica di Genova",
+      "sepoltura": "Cenotafio nella Basilica di San Pietro in Vincoli - sepolto nella Basilica di San Pietro"
+    },
+    {
+      "n": 217,
+      "nome": "Leone X",
+      "inizio": "9 marzo 1513",
+      "fine": "1º dicembre 1521",
+      "nome_secolare": "Giovanni di Lorenzo de' Medici",
+      "luogo_nascita": "Firenze , Repubblica fiorentina",
+      "sepoltura": "Santa Maria sopra Minerva"
+    },
+    {
+      "n": 218,
+      "nome": "Adriano VI",
+      "inizio": "9 gennaio 1522",
+      "fine": "14 settembre 1523",
+      "nome_secolare": "Adriaan Florenszoon (originariamente Floriszoon) Boeyens d'Edel",
+      "luogo_nascita": "Utrecht , Principato vescovile di Utrecht , Sacro Romano Impero",
+      "sepoltura": "Santa Maria dell'Anima"
+    },
+    {
+      "n": 219,
+      "nome": "Clemente VII",
+      "inizio": "19 novembre 1523",
+      "fine": "25 settembre 1534",
+      "nome_secolare": "Giulio Zanobi di Giuliano de' Medici",
+      "luogo_nascita": "Firenze, Repubblica fiorentina",
+      "sepoltura": "Santa Maria sopra Minerva"
+    },
+    {
+      "n": 220,
+      "nome": "Paolo III",
+      "inizio": "13 ottobre 1534",
+      "fine": "10 novembre 1549",
+      "nome_secolare": "Alessandro Farnese",
+      "luogo_nascita": "Canino , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 221,
+      "nome": "Giulio III",
+      "inizio": "7 febbraio 1550",
+      "fine": "23 marzo 1555",
+      "nome_secolare": "Giovanni Maria Ciocchi Del Monte",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 222,
+      "nome": "Marcello II",
+      "inizio": "9 aprile 1555",
+      "fine": "1º maggio 1555",
+      "nome_secolare": "Marcello Cervini degli Spannocchi",
+      "luogo_nascita": "Montefano , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 223,
+      "nome": "Paolo IV",
+      "inizio": "23 maggio 1555",
+      "fine": "18 agosto 1559",
+      "nome_secolare": "Gian Pietro Carafa",
+      "luogo_nascita": "Capriglia Irpina , Regno di Napoli",
+      "sepoltura": "Santa Maria sopra Minerva"
+    },
+    {
+      "n": 224,
+      "nome": "Pio IV",
+      "inizio": "25 dicembre 1559",
+      "fine": "9 dicembre 1565",
+      "nome_secolare": "Giovanni Angelo dei Medici di Marignano",
+      "luogo_nascita": "Milano , Ducato di Milano",
+      "sepoltura": "Basilica di Santa Maria degli Angeli e dei Martiri"
+    },
+    {
+      "n": 225,
+      "nome": "San Pio V",
+      "inizio": "7 gennaio 1566",
+      "fine": "1º maggio 1572",
+      "nome_secolare": "Antonio Michele Ghislieri",
+      "luogo_nascita": "Bosco , Ducato di Milano",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 226,
+      "nome": "Gregorio XIII",
+      "inizio": "13 maggio 1572",
+      "fine": "10 aprile 1585",
+      "nome_secolare": "Ugo Boncompagni",
+      "luogo_nascita": "Bologna , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 227,
+      "nome": "Sisto V",
+      "inizio": "24 aprile 1585",
+      "fine": "27 agosto 1590",
+      "nome_secolare": "Felice di Peretto da Montalto o Felice Peretti",
+      "luogo_nascita": "Grottammare , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 228,
+      "nome": "Urbano VII",
+      "inizio": "15 settembre 1590",
+      "fine": "27 settembre 1590",
+      "nome_secolare": "Giovanni Battista Castagna",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Santa Maria Sopra Minerva"
+    },
+    {
+      "n": 229,
+      "nome": "Gregorio XIV",
+      "inizio": "5 dicembre 1590",
+      "fine": "16 ottobre 1591",
+      "nome_secolare": "Niccolò Sfondrati",
+      "luogo_nascita": "Somma Lombardo , Ducato di Milano",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 230,
+      "nome": "Innocenzo IX",
+      "inizio": "29 ottobre 1591",
+      "fine": "30 dicembre 1591",
+      "nome_secolare": "Giovanni Antonio Facchinetti de Nuce",
+      "luogo_nascita": "Bologna, Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 231,
+      "nome": "Clemente VIII",
+      "inizio": "30 gennaio 1592",
+      "fine": "3 marzo 1605",
+      "nome_secolare": "Ippolito Aldobrandini",
+      "luogo_nascita": "Fano , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 232,
+      "nome": "Leone XI",
+      "inizio": "1 aprile 1605",
+      "fine": "27 aprile 1605",
+      "nome_secolare": "Alessandro di Ottaviano dei Medici di Ottajano",
+      "luogo_nascita": "Firenze , Ducato di Firenze",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 233,
+      "nome": "Paolo V",
+      "inizio": "16 maggio 1605",
+      "fine": "28 gennaio 1621",
+      "nome_secolare": "Camillo Borghese",
+      "luogo_nascita": "Roma , Stato Pontificio",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 234,
+      "nome": "Gregorio XV",
+      "inizio": "9 febbraio 1621",
+      "fine": "8 luglio 1623",
+      "nome_secolare": "Alessandro Ludovisi",
+      "luogo_nascita": "Bologna , Stato Pontificio",
+      "sepoltura": "Sant'Ignazio di Loyola in Campo Marzio"
+    },
+    {
+      "n": 235,
+      "nome": "Urbano VIII",
+      "inizio": "6 agosto 1623",
+      "fine": "29 luglio 1644",
+      "nome_secolare": "Maffeo Vincenzo Barberini",
+      "luogo_nascita": "Firenze, Granducato di Toscana",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 236,
+      "nome": "Innocenzo X",
+      "inizio": "15 settembre 1644",
+      "fine": "7 gennaio 1655",
+      "nome_secolare": "Giovanni Battista Pamphili",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Sant'Agnese in Agone"
+    },
+    {
+      "n": 237,
+      "nome": "Alessandro VII",
+      "inizio": "7 aprile 1655",
+      "fine": "22 maggio 1667",
+      "nome_secolare": "Fabio Chigi",
+      "luogo_nascita": "Siena , Granducato di Toscana",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 238,
+      "nome": "Clemente IX",
+      "inizio": "20 giugno 1667",
+      "fine": "9 dicembre 1669",
+      "nome_secolare": "Giulio Rospigliosi",
+      "luogo_nascita": "Pistoia , Granducato di Toscana",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 239,
+      "nome": "Clemente X",
+      "inizio": "29 aprile 1670",
+      "fine": "22 luglio 1676",
+      "nome_secolare": "Emilio Bonaventura Altieri",
+      "luogo_nascita": "Roma, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 240,
+      "nome": "Beato Innocenzo XI",
+      "inizio": "21 settembre 1676",
+      "fine": "12 agosto 1689",
+      "nome_secolare": "Benedetto Odescalchi",
+      "luogo_nascita": "Como , Ducato di Milano",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 241,
+      "nome": "Alessandro VIII",
+      "inizio": "6 ottobre 1689",
+      "fine": "1º febbraio 1691",
+      "nome_secolare": "Pietro Vito Ottoboni",
+      "luogo_nascita": "Venezia , Repubblica di Venezia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 242,
+      "nome": "Innocenzo XII",
+      "inizio": "12 luglio 1691",
+      "fine": "27 settembre 1700",
+      "nome_secolare": "Antonio Pignatelli di Spinazzola",
+      "luogo_nascita": "Spinazzola , Regno di Napoli",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 243,
+      "nome": "Clemente XI",
+      "inizio": "23 novembre 1700",
+      "fine": "19 marzo 1721",
+      "nome_secolare": "Giovanni Francesco Albani",
+      "luogo_nascita": "Urbino , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 244,
+      "nome": "Innocenzo XIII",
+      "inizio": "8 maggio 1721",
+      "fine": "7 marzo 1724",
+      "nome_secolare": "Michelangelo Conti",
+      "luogo_nascita": "Poli , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 245,
+      "nome": "Benedetto XIII Servo di Dio",
+      "inizio": "29 maggio 1724",
+      "fine": "23 febbraio 1730",
+      "nome_secolare": "Pietro Francesco Orsini",
+      "luogo_nascita": "Gravina in Puglia , Regno di Napoli",
+      "sepoltura": "Santa Maria sopra Minerva"
+    },
+    {
+      "n": 246,
+      "nome": "Clemente XII",
+      "inizio": "12 luglio 1730",
+      "fine": "6 febbraio 1740",
+      "nome_secolare": "Lorenzo Corsini",
+      "luogo_nascita": "Firenze , Granducato di Toscana",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 247,
+      "nome": "Benedetto XIV",
+      "inizio": "17 agosto 1740",
+      "fine": "3 maggio 1758",
+      "nome_secolare": "Prospero Lorenzo Lambertini",
+      "luogo_nascita": "Bologna , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 248,
+      "nome": "Clemente XIII",
+      "inizio": "6 luglio 1758",
+      "fine": "2 febbraio 1769",
+      "nome_secolare": "Carlo della Torre di Rezzonico",
+      "luogo_nascita": "Venezia , Repubblica di Venezia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 249,
+      "nome": "Clemente XIV",
+      "inizio": "19 maggio 1769",
+      "fine": "22 settembre 1774",
+      "nome_secolare": "Giovanni Vincenzo Antonio Ganganelli",
+      "luogo_nascita": "Santarcangelo di Romagna , Stato Pontificio",
+      "sepoltura": "Basilica dei Santi XII Apostoli"
+    },
+    {
+      "n": 250,
+      "nome": "Pio VI",
+      "inizio": "15 febbraio 1775",
+      "fine": "29 agosto 1799",
+      "nome_secolare": "Giovanni Angelo Braschi",
+      "luogo_nascita": "Cesena , Stato Pontificio",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 251,
+      "nome": "Pio VII Servo di Dio",
+      "inizio": "14 marzo 1800",
+      "fine": "20 agosto 1823",
+      "nome_secolare": "Barnaba Niccolò Chiaramonti",
+      "luogo_nascita": "Cesena, Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 252,
+      "nome": "Leone XII",
+      "inizio": "28 settembre 1823",
+      "fine": "10 febbraio 1829",
+      "nome_secolare": "Annibale Clemente della Genga",
+      "luogo_nascita": "Genga , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 253,
+      "nome": "Pio VIII",
+      "inizio": "31 marzo 1829",
+      "fine": "30 novembre 1830",
+      "nome_secolare": "Francesco Saverio Castiglioni",
+      "luogo_nascita": "Cingoli , Stato Pontificio",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 254,
+      "nome": "Gregorio XVI",
+      "inizio": "2 febbraio 1831",
+      "fine": "1º giugno 1846",
+      "nome_secolare": "Bartolomeo Alberto Cappellari",
+      "luogo_nascita": "Belluno , Repubblica di Venezia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 255,
+      "nome": "Beato Pio IX",
+      "inizio": "16 giugno 1846",
+      "fine": "7 febbraio 1878",
+      "nome_secolare": "Giovanni Maria Mastai Ferretti",
+      "luogo_nascita": "Senigallia , Stato Pontificio",
+      "sepoltura": "Basilica di San Lorenzo fuori le mura"
+    },
+    {
+      "n": 256,
+      "nome": "Leone XIII",
+      "inizio": "20 febbraio 1878",
+      "fine": "20 luglio 1903",
+      "nome_secolare": "Vincenzo Gioacchino Pecci",
+      "luogo_nascita": "Carpineto Romano , Stato Pontificio",
+      "sepoltura": "Basilica di San Giovanni in Laterano"
+    },
+    {
+      "n": 257,
+      "nome": "San Pio X",
+      "inizio": "4 agosto 1903",
+      "fine": "20 agosto 1914",
+      "nome_secolare": "Giuseppe Melchiorre Sarto",
+      "luogo_nascita": "Riese , Regno Lombardo-Veneto",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 258,
+      "nome": "Benedetto XV",
+      "inizio": "3 settembre 1914",
+      "fine": "22 gennaio 1922",
+      "nome_secolare": "Giacomo della Chiesa",
+      "luogo_nascita": "Genova , Regno di Sardegna",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 259,
+      "nome": "Pio XI",
+      "inizio": "6 febbraio 1922",
+      "fine": "10 febbraio 1939",
+      "nome_secolare": "Achille Ratti",
+      "luogo_nascita": "Desio , Regno Lombardo-Veneto",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 260,
+      "nome": "Pio XII Venerabile",
+      "inizio": "2 marzo 1939",
+      "fine": "9 ottobre 1958",
+      "nome_secolare": "Eugenio Pacelli",
+      "luogo_nascita": "Roma , Regno d'Italia",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 261,
+      "nome": "San Giovanni XXIII",
+      "inizio": "28 ottobre 1958",
+      "fine": "3 giugno 1963",
+      "nome_secolare": "Angelo Giuseppe Roncalli",
+      "luogo_nascita": "Sotto il Monte , Regno d'Italia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 262,
+      "nome": "San Paolo VI",
+      "inizio": "21 giugno 1963",
+      "fine": "6 agosto 1978",
+      "nome_secolare": "Giovanni Battista Montini",
+      "luogo_nascita": "Concesio , Regno d'Italia",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 263,
+      "nome": "Beato Giovanni Paolo I",
+      "inizio": "26 agosto 1978",
+      "fine": "28 settembre 1978",
+      "nome_secolare": "Albino Luciani",
+      "luogo_nascita": "Forno di Canale , Regno d'Italia",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 264,
+      "nome": "San Giovanni Paolo II",
+      "inizio": "16 ottobre 1978",
+      "fine": "2 aprile 2005",
+      "nome_secolare": "Karol Wojtyła",
+      "luogo_nascita": "Wadowice , Polonia",
+      "sepoltura": "Basilica di San Pietro"
+    },
+    {
+      "n": 265,
+      "nome": "Benedetto XVI",
+      "inizio": "19 aprile 2005",
+      "fine": "28 febbraio 2013 ( morto il 31 dicembre 2022 )",
+      "nome_secolare": "Joseph Ratzinger",
+      "luogo_nascita": "Marktl , Germania",
+      "sepoltura": "Grotte Vaticane"
+    },
+    {
+      "n": 266,
+      "nome": "Francesco",
+      "inizio": "13 marzo 2013",
+      "fine": "21 aprile 2025",
+      "nome_secolare": "Jorge Mario Bergoglio",
+      "luogo_nascita": "Buenos Aires , Argentina",
+      "sepoltura": "Basilica di Santa Maria Maggiore"
+    },
+    {
+      "n": 267,
+      "nome": "Leone XIV",
+      "inizio": "8 maggio 2025",
+      "fine": "in carica",
+      "nome_secolare": "Robert Francis Prevost",
+      "luogo_nascita": "Chicago , Stati Uniti d'America",
+      "sepoltura": ""
+    }
+  ],
+  "meta": {
+    "title": "Lista dei papi - Free Download",
+    "description": "Elenco cronologico dei papi della Chiesa cattolica con pontificato, luogo di nascita e sepoltura. Contains 268 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lista dei papi | ListBase",
+    "seo_description": "Download Lista dei papi — 268 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 268 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lista_dei_papi"
+    ]
+  }
+}

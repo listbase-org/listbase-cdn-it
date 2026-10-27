@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:40.428Z",
-  "total_datasets": 462,
-  "total_records": 136945,
+  "generated": "2026-10-27T02:12:43.002Z",
+  "total_datasets": 463,
+  "total_records": 137213,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -913,6 +913,34 @@
         "xlsx": {
           "name": "it-dogi-di-venezia_IT.xlsx",
           "size": 17323
+        }
+      }
+    },
+    {
+      "id": "it-papi",
+      "name": "Lista dei papi",
+      "category": "history",
+      "record_count": 268,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "nome_secolare",
+        "luogo_nascita",
+        "sepoltura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lista_dei_papi",
+      "updated": "2026-10",
+      "size": 75575,
+      "files": {
+        "csv": {
+          "name": "it-papi_IT.csv",
+          "size": 37331
+        },
+        "xlsx": {
+          "name": "it-papi_IT.xlsx",
+          "size": 25264
         }
       }
     },
