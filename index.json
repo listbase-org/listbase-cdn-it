@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:00.025Z",
-  "total_datasets": 447,
-  "total_records": 135458,
+  "generated": "2026-10-27T02:12:02.726Z",
+  "total_datasets": 448,
+  "total_records": 135595,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "reference",
       "dataset_count": 381
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -14081,6 +14085,32 @@
         "xlsx": {
           "name": "it-viterbo-unlocode_IT.xlsx",
           "size": 10831
+        }
+      }
+    },
+    {
+      "id": "it-comuni-piu-popolosi",
+      "name": "Comuni d'Italia per popolazione",
+      "category": "society",
+      "record_count": 137,
+      "columns": [
+        "posizione",
+        "comune",
+        "regione",
+        "provincia",
+        "abitanti"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Comuni_d'Italia_per_popolazione",
+      "updated": "2026-10",
+      "size": 21879,
+      "files": {
+        "csv": {
+          "name": "it-comuni-piu-popolosi_IT.csv",
+          "size": 6357
+        },
+        "xlsx": {
+          "name": "it-comuni-piu-popolosi_IT.xlsx",
+          "size": 11523
         }
       }
     },

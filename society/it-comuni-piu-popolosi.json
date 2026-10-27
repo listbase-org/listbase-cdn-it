@@ -1,0 +1,1010 @@
+{
+  "id": "it-comuni-piu-popolosi",
+  "name": "Comuni d'Italia per popolazione",
+  "title": "Comuni d'Italia per popolazione",
+  "description": "Classifica dei comuni italiani più popolosi con regione, provincia e numero di abitanti.",
+  "category": "society",
+  "source": "https://it.wikipedia.org/wiki/Comuni_d'Italia_per_popolazione",
+  "source_url": "https://it.wikipedia.org/wiki/Comuni_d'Italia_per_popolazione",
+  "updated": "2026-10",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "abitanti",
+      "label": "Abitanti",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "comune": "Roma",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 2744528
+    },
+    {
+      "posizione": 2,
+      "comune": "Milano",
+      "regione": "Lombardia",
+      "provincia": "Milano",
+      "abitanti": 1363713
+    },
+    {
+      "posizione": 3,
+      "comune": "Napoli",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 903998
+    },
+    {
+      "posizione": 4,
+      "comune": "Torino",
+      "regione": "Piemonte",
+      "provincia": "Torino",
+      "abitanti": 855948
+    },
+    {
+      "posizione": 5,
+      "comune": "Palermo",
+      "regione": "Sicilia",
+      "provincia": "Palermo",
+      "abitanti": 625765
+    },
+    {
+      "posizione": 6,
+      "comune": "Genova",
+      "regione": "Liguria",
+      "provincia": "Genova",
+      "abitanti": 566569
+    },
+    {
+      "posizione": 7,
+      "comune": "Bologna",
+      "regione": "Emilia-Romagna",
+      "provincia": "Bologna",
+      "abitanti": 391724
+    },
+    {
+      "posizione": 8,
+      "comune": "Firenze",
+      "regione": "Toscana",
+      "provincia": "Firenze",
+      "abitanti": 361574
+    },
+    {
+      "posizione": 9,
+      "comune": "Bari",
+      "regione": "Puglia",
+      "provincia": "Bari",
+      "abitanti": 316175
+    },
+    {
+      "posizione": 10,
+      "comune": "Catania",
+      "regione": "Sicilia",
+      "provincia": "Catania",
+      "abitanti": 296855
+    },
+    {
+      "posizione": 11,
+      "comune": "Verona",
+      "regione": "Veneto",
+      "provincia": "Verona",
+      "abitanti": 255313
+    },
+    {
+      "posizione": 12,
+      "comune": "Venezia",
+      "regione": "Veneto",
+      "provincia": "Venezia",
+      "abitanti": 249434
+    },
+    {
+      "posizione": 13,
+      "comune": "Messina",
+      "regione": "Sicilia",
+      "provincia": "Messina",
+      "abitanti": 216324
+    },
+    {
+      "posizione": 14,
+      "comune": "Padova",
+      "regione": "Veneto",
+      "provincia": "Padova",
+      "abitanti": 208360
+    },
+    {
+      "posizione": 15,
+      "comune": "Brescia",
+      "regione": "Lombardia",
+      "provincia": "Brescia",
+      "abitanti": 201622
+    },
+    {
+      "posizione": 16,
+      "comune": "Parma",
+      "regione": "Emilia-Romagna",
+      "provincia": "Parma",
+      "abitanti": 199705
+    },
+    {
+      "posizione": 17,
+      "comune": "Prato",
+      "regione": "Toscana",
+      "provincia": "Prato",
+      "abitanti": 198777
+    },
+    {
+      "posizione": 18,
+      "comune": "Trieste",
+      "regione": "Friuli-Venezia Giulia",
+      "provincia": "Trieste",
+      "abitanti": 198552
+    },
+    {
+      "posizione": 19,
+      "comune": "Taranto",
+      "regione": "Puglia",
+      "provincia": "Taranto",
+      "abitanti": 184840
+    },
+    {
+      "posizione": 20,
+      "comune": "Modena",
+      "regione": "Emilia-Romagna",
+      "provincia": "Modena",
+      "abitanti": 184445
+    },
+    {
+      "posizione": 21,
+      "comune": "Reggio Emilia",
+      "regione": "Emilia-Romagna",
+      "provincia": "Reggio Emilia",
+      "abitanti": 172917
+    },
+    {
+      "posizione": 22,
+      "comune": "Reggio Calabria",
+      "regione": "Calabria",
+      "provincia": "Reggio Calabria",
+      "abitanti": 167755
+    },
+    {
+      "posizione": 23,
+      "comune": "Perugia",
+      "regione": "Umbria",
+      "provincia": "Perugia",
+      "abitanti": 162346
+    },
+    {
+      "posizione": 24,
+      "comune": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "provincia": "Ravenna",
+      "abitanti": 156437
+    },
+    {
+      "posizione": 25,
+      "comune": "Livorno",
+      "regione": "Toscana",
+      "provincia": "Livorno",
+      "abitanti": 152277
+    },
+    {
+      "posizione": 26,
+      "comune": "Rimini",
+      "regione": "Emilia-Romagna",
+      "provincia": "Rimini",
+      "abitanti": 150781
+    },
+    {
+      "posizione": 27,
+      "comune": "Cagliari",
+      "regione": "Sardegna",
+      "provincia": "Cagliari",
+      "abitanti": 145901
+    },
+    {
+      "posizione": 28,
+      "comune": "Foggia",
+      "regione": "Puglia",
+      "provincia": "Foggia",
+      "abitanti": 145077
+    },
+    {
+      "posizione": 29,
+      "comune": "Ferrara",
+      "regione": "Emilia-Romagna",
+      "provincia": "Ferrara",
+      "abitanti": 128947
+    },
+    {
+      "posizione": 30,
+      "comune": "Latina",
+      "regione": "Lazio",
+      "provincia": "Latina",
+      "abitanti": 127441
+    },
+    {
+      "posizione": 31,
+      "comune": "Giugliano in Campania",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 125126
+    },
+    {
+      "posizione": 32,
+      "comune": "Salerno",
+      "regione": "Campania",
+      "provincia": "Salerno",
+      "abitanti": 125041
+    },
+    {
+      "posizione": 33,
+      "comune": "Monza",
+      "regione": "Lombardia",
+      "provincia": "Monza e Brianza",
+      "abitanti": 123844
+    },
+    {
+      "posizione": 34,
+      "comune": "Bergamo",
+      "regione": "Lombardia",
+      "provincia": "Bergamo",
+      "abitanti": 120744
+    },
+    {
+      "posizione": 35,
+      "comune": "Sassari",
+      "regione": "Sardegna",
+      "provincia": "Sassari",
+      "abitanti": 120185
+    },
+    {
+      "posizione": 36,
+      "comune": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "provincia": "Trento",
+      "abitanti": 119453
+    },
+    {
+      "posizione": 37,
+      "comune": "Pescara",
+      "regione": "Abruzzo",
+      "provincia": "Pescara",
+      "abitanti": 118440
+    },
+    {
+      "posizione": 38,
+      "comune": "Forlì",
+      "regione": "Emilia-Romagna",
+      "provincia": "Forlì-Cesena",
+      "abitanti": 118152
+    },
+    {
+      "posizione": 39,
+      "comune": "Siracusa",
+      "regione": "Sicilia",
+      "provincia": "Siracusa",
+      "abitanti": 115435
+    },
+    {
+      "posizione": 40,
+      "comune": "Vicenza",
+      "regione": "Veneto",
+      "provincia": "Vicenza",
+      "abitanti": 110789
+    },
+    {
+      "posizione": 41,
+      "comune": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "provincia": "Bolzano",
+      "abitanti": 107030
+    },
+    {
+      "posizione": 42,
+      "comune": "Terni",
+      "regione": "Umbria",
+      "provincia": "Terni",
+      "abitanti": 106223
+    },
+    {
+      "posizione": 43,
+      "comune": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "provincia": "Piacenza",
+      "abitanti": 103799
+    },
+    {
+      "posizione": 44,
+      "comune": "Novara",
+      "regione": "Piemonte",
+      "provincia": "Novara",
+      "abitanti": 103425
+    },
+    {
+      "posizione": 45,
+      "comune": "Ancona",
+      "regione": "Marche",
+      "provincia": "Ancona",
+      "abitanti": 100306
+    },
+    {
+      "posizione": 46,
+      "comune": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "provincia": "Udine",
+      "abitanti": 98640
+    },
+    {
+      "posizione": 47,
+      "comune": "Arezzo",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "abitanti": 96487
+    },
+    {
+      "posizione": 48,
+      "comune": "Andria",
+      "regione": "Puglia",
+      "provincia": "Barletta-Andria-Trani",
+      "abitanti": 96481
+    },
+    {
+      "posizione": 49,
+      "comune": "Cesena",
+      "regione": "Emilia-Romagna",
+      "provincia": "Forlì-Cesena",
+      "abitanti": 95603
+    },
+    {
+      "posizione": 50,
+      "comune": "Pesaro",
+      "regione": "Marche",
+      "provincia": "Pesaro",
+      "abitanti": 95254
+    },
+    {
+      "posizione": 51,
+      "comune": "Lecce",
+      "regione": "Puglia",
+      "provincia": "Lecce",
+      "abitanti": 94406
+    },
+    {
+      "posizione": 52,
+      "comune": "Alessandria",
+      "regione": "Piemonte",
+      "provincia": "Alessandria",
+      "abitanti": 93548
+    },
+    {
+      "posizione": 53,
+      "comune": "La Spezia",
+      "regione": "Liguria",
+      "provincia": "La Spezia",
+      "abitanti": 92646
+    },
+    {
+      "posizione": 54,
+      "comune": "Barletta",
+      "regione": "Puglia",
+      "provincia": "Barletta-Andria-Trani",
+      "abitanti": 91978
+    },
+    {
+      "posizione": 55,
+      "comune": "Pisa",
+      "regione": "Toscana",
+      "provincia": "Pisa",
+      "abitanti": 90269
+    },
+    {
+      "posizione": 56,
+      "comune": "Guidonia Montecelio",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 89643
+    },
+    {
+      "posizione": 57,
+      "comune": "Pistoia",
+      "regione": "Toscana",
+      "provincia": "Pistoia",
+      "abitanti": 89041
+    },
+    {
+      "posizione": 58,
+      "comune": "Lucca",
+      "regione": "Toscana",
+      "provincia": "Lucca",
+      "abitanti": 88432
+    },
+    {
+      "posizione": 59,
+      "comune": "Treviso",
+      "regione": "Veneto",
+      "provincia": "Treviso",
+      "abitanti": 86076
+    },
+    {
+      "posizione": 60,
+      "comune": "Busto Arsizio",
+      "regione": "Lombardia",
+      "provincia": "Varese",
+      "abitanti": 84618
+    },
+    {
+      "posizione": 61,
+      "comune": "Fiumicino",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 83456
+    },
+    {
+      "posizione": 62,
+      "comune": "Como",
+      "regione": "Lombardia",
+      "provincia": "Como",
+      "abitanti": 83027
+    },
+    {
+      "posizione": 63,
+      "comune": "Catanzaro",
+      "regione": "Calabria",
+      "provincia": "Catanzaro",
+      "abitanti": 82627
+    },
+    {
+      "posizione": 64,
+      "comune": "Grosseto",
+      "regione": "Toscana",
+      "provincia": "Grosseto",
+      "abitanti": 81308
+    },
+    {
+      "posizione": 65,
+      "comune": "Brindisi",
+      "regione": "Puglia",
+      "provincia": "Brindisi",
+      "abitanti": 81074
+    },
+    {
+      "posizione": 66,
+      "comune": "Marsala",
+      "regione": "Sicilia",
+      "provincia": "Trapani",
+      "abitanti": 79420
+    },
+    {
+      "posizione": 67,
+      "comune": "Varese",
+      "regione": "Lombardia",
+      "provincia": "Varese",
+      "abitanti": 79134
+    },
+    {
+      "posizione": 68,
+      "comune": "Sesto San Giovanni",
+      "regione": "Lombardia",
+      "provincia": "Milano",
+      "abitanti": 78860
+    },
+    {
+      "posizione": 69,
+      "comune": "Torre del Greco",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 78714
+    },
+    {
+      "posizione": 70,
+      "comune": "Cinisello Balsamo",
+      "regione": "Lombardia",
+      "provincia": "Milano",
+      "abitanti": 75185
+    },
+    {
+      "posizione": 71,
+      "comune": "Aprilia",
+      "regione": "Lazio",
+      "provincia": "Latina",
+      "abitanti": 74676
+    },
+    {
+      "posizione": 72,
+      "comune": "Pozzuoli",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 74496
+    },
+    {
+      "posizione": 73,
+      "comune": "Corigliano-Rossano",
+      "regione": "Calabria",
+      "provincia": "Cosenza",
+      "abitanti": 74375
+    },
+    {
+      "posizione": 74,
+      "comune": "Carpi",
+      "regione": "Emilia-Romagna",
+      "provincia": "Modena",
+      "abitanti": 74121
+    },
+    {
+      "posizione": 75,
+      "comune": "Ragusa",
+      "regione": "Sicilia",
+      "provincia": "Ragusa",
+      "abitanti": 74094
+    },
+    {
+      "posizione": 76,
+      "comune": "Asti",
+      "regione": "Piemonte",
+      "provincia": "Asti",
+      "abitanti": 73639
+    },
+    {
+      "posizione": 77,
+      "comune": "Casoria",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 73224
+    },
+    {
+      "posizione": 78,
+      "comune": "Caserta",
+      "regione": "Campania",
+      "provincia": "Caserta",
+      "abitanti": 72781
+    },
+    {
+      "posizione": 79,
+      "comune": "Pavia",
+      "regione": "Lombardia",
+      "provincia": "Pavia",
+      "abitanti": 71813
+    },
+    {
+      "posizione": 80,
+      "comune": "Cremona",
+      "regione": "Lombardia",
+      "provincia": "Cremona",
+      "abitanti": 71128
+    },
+    {
+      "posizione": 81,
+      "comune": "L'Aquila",
+      "regione": "Abruzzo",
+      "provincia": "L'Aquila",
+      "abitanti": 70840
+    },
+    {
+      "posizione": 82,
+      "comune": "Altamura",
+      "regione": "Puglia",
+      "provincia": "Bari",
+      "abitanti": 70379
+    },
+    {
+      "posizione": 83,
+      "comune": "Gela",
+      "regione": "Sicilia",
+      "provincia": "Caltanissetta",
+      "abitanti": 70071
+    },
+    {
+      "posizione": 84,
+      "comune": "Imola",
+      "regione": "Emilia-Romagna",
+      "provincia": "Bologna",
+      "abitanti": 69786
+    },
+    {
+      "posizione": 85,
+      "comune": "Quartu Sant'Elena",
+      "regione": "Sardegna",
+      "provincia": "Cagliari",
+      "abitanti": 67818
+    },
+    {
+      "posizione": 86,
+      "comune": "Lamezia Terme",
+      "regione": "Calabria",
+      "provincia": "Catanzaro",
+      "abitanti": 66995
+    },
+    {
+      "posizione": 87,
+      "comune": "Viterbo",
+      "regione": "Lazio",
+      "provincia": "Viterbo",
+      "abitanti": 66737
+    },
+    {
+      "posizione": 88,
+      "comune": "Vittoria",
+      "regione": "Sicilia",
+      "provincia": "Ragusa",
+      "abitanti": 66478
+    },
+    {
+      "posizione": 89,
+      "comune": "Massa",
+      "regione": "Toscana",
+      "provincia": "Massa-Carrara",
+      "abitanti": 65526
+    },
+    {
+      "posizione": 90,
+      "comune": "Pomezia",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 65059
+    },
+    {
+      "posizione": 91,
+      "comune": "Vigevano",
+      "regione": "Lombardia",
+      "provincia": "Pavia",
+      "abitanti": 63605
+    },
+    {
+      "posizione": 92,
+      "comune": "Cosenza",
+      "regione": "Calabria",
+      "provincia": "Cosenza",
+      "abitanti": 63393
+    },
+    {
+      "posizione": 93,
+      "comune": "Potenza",
+      "regione": "Basilicata",
+      "provincia": "Potenza",
+      "abitanti": 63305
+    },
+    {
+      "posizione": 94,
+      "comune": "Castellammare di Stabia",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 61932
+    },
+    {
+      "posizione": 95,
+      "comune": "Olbia",
+      "regione": "Sardegna",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "abitanti": 61775
+    },
+    {
+      "posizione": 96,
+      "comune": "Afragola",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 61520
+    },
+    {
+      "posizione": 97,
+      "comune": "Legnano",
+      "regione": "Lombardia",
+      "provincia": "Milano",
+      "abitanti": 61003
+    },
+    {
+      "posizione": 98,
+      "comune": "Viareggio",
+      "regione": "Toscana",
+      "provincia": "Lucca",
+      "abitanti": 60619
+    },
+    {
+      "posizione": 99,
+      "comune": "Anzio",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 60021
+    },
+    {
+      "posizione": 100,
+      "comune": "Fano",
+      "regione": "Marche",
+      "provincia": "Pesaro e Urbino",
+      "abitanti": 59815
+    },
+    {
+      "posizione": 101,
+      "comune": "Carrara",
+      "regione": "Toscana",
+      "provincia": "Massa-Carrara",
+      "abitanti": 59724
+    },
+    {
+      "posizione": 102,
+      "comune": "Matera",
+      "regione": "Basilicata",
+      "provincia": "Matera",
+      "abitanti": 59315
+    },
+    {
+      "posizione": 103,
+      "comune": "Faenza",
+      "regione": "Emilia-Romagna",
+      "provincia": "Ravenna",
+      "abitanti": 58747
+    },
+    {
+      "posizione": 104,
+      "comune": "Acerra",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 58610
+    },
+    {
+      "posizione": 105,
+      "comune": "Savona",
+      "regione": "Liguria",
+      "provincia": "Savona",
+      "abitanti": 58425
+    },
+    {
+      "posizione": 106,
+      "comune": "Crotone",
+      "regione": "Calabria",
+      "provincia": "Crotone",
+      "abitanti": 58091
+    },
+    {
+      "posizione": 107,
+      "comune": "Caltanissetta",
+      "regione": "Sicilia",
+      "provincia": "Caltanissetta",
+      "abitanti": 57861
+    },
+    {
+      "posizione": 108,
+      "comune": "Marano di Napoli",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 57632
+    },
+    {
+      "posizione": 109,
+      "comune": "Molfetta",
+      "regione": "Puglia",
+      "provincia": "Bari",
+      "abitanti": 56995
+    },
+    {
+      "posizione": 110,
+      "comune": "Cerignola",
+      "regione": "Puglia",
+      "provincia": "Foggia",
+      "abitanti": 56685
+    },
+    {
+      "posizione": 111,
+      "comune": "Cuneo",
+      "regione": "Piemonte",
+      "provincia": "Cuneo",
+      "abitanti": 55825
+    },
+    {
+      "posizione": 112,
+      "comune": "Moncalieri",
+      "regione": "Piemonte",
+      "provincia": "Torino",
+      "abitanti": 55523
+    },
+    {
+      "posizione": 113,
+      "comune": "Tivoli",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 55284
+    },
+    {
+      "posizione": 114,
+      "comune": "Foligno",
+      "regione": "Umbria",
+      "provincia": "Perugia",
+      "abitanti": 55276
+    },
+    {
+      "posizione": 115,
+      "comune": "Benevento",
+      "regione": "Campania",
+      "provincia": "Benevento",
+      "abitanti": 55230
+    },
+    {
+      "posizione": 116,
+      "comune": "Agrigento",
+      "regione": "Sicilia",
+      "provincia": "Agrigento",
+      "abitanti": 55056
+    },
+    {
+      "posizione": 117,
+      "comune": "Trapani",
+      "regione": "Sicilia",
+      "provincia": "Trapani",
+      "abitanti": 54610
+    },
+    {
+      "posizione": 118,
+      "comune": "Trani",
+      "regione": "Puglia",
+      "provincia": "Barletta-Andria-Trani",
+      "abitanti": 54722
+    },
+    {
+      "posizione": 119,
+      "comune": "Montesilvano",
+      "regione": "Abruzzo",
+      "provincia": "Pescara",
+      "abitanti": 54610
+    },
+    {
+      "posizione": 120,
+      "comune": "Modica",
+      "regione": "Sicilia",
+      "provincia": "Ragusa",
+      "abitanti": 53606
+    },
+    {
+      "posizione": 121,
+      "comune": "Sanremo",
+      "regione": "Liguria",
+      "provincia": "Imperia",
+      "abitanti": 53209
+    },
+    {
+      "posizione": 122,
+      "comune": "Bisceglie",
+      "regione": "Puglia",
+      "provincia": "Barletta-Andria-Trani",
+      "abitanti": 53184
+    },
+    {
+      "posizione": 123,
+      "comune": "Siena",
+      "regione": "Toscana",
+      "provincia": "Siena",
+      "abitanti": 53170
+    },
+    {
+      "posizione": 124,
+      "comune": "Bagheria",
+      "regione": "Sicilia",
+      "provincia": "Palermo",
+      "abitanti": 53107
+    },
+    {
+      "posizione": 125,
+      "comune": "Gallarate",
+      "regione": "Lombardia",
+      "provincia": "Varese",
+      "abitanti": 53091
+    },
+    {
+      "posizione": 126,
+      "comune": "Velletri",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 53009
+    },
+    {
+      "posizione": 127,
+      "comune": "Manfredonia",
+      "regione": "Puglia",
+      "provincia": "Foggia",
+      "abitanti": 52957
+    },
+    {
+      "posizione": 128,
+      "comune": "Bitonto",
+      "regione": "Puglia",
+      "provincia": "Bari",
+      "abitanti": 52805
+    },
+    {
+      "posizione": 129,
+      "comune": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "provincia": "Pordenone",
+      "abitanti": 52802
+    },
+    {
+      "posizione": 130,
+      "comune": "Avellino",
+      "regione": "Campania",
+      "provincia": "Avellino",
+      "abitanti": 51783
+    },
+    {
+      "posizione": 131,
+      "comune": "Ardea",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 51458
+    },
+    {
+      "posizione": 132,
+      "comune": "Teramo",
+      "regione": "Abruzzo",
+      "provincia": "Teramo",
+      "abitanti": 51386
+    },
+    {
+      "posizione": 133,
+      "comune": "Civitavecchia",
+      "regione": "Lazio",
+      "provincia": "Roma",
+      "abitanti": 51254
+    },
+    {
+      "posizione": 134,
+      "comune": "Portici",
+      "regione": "Campania",
+      "provincia": "Napoli",
+      "abitanti": 51152
+    },
+    {
+      "posizione": 135,
+      "comune": "Rho",
+      "regione": "Lombardia",
+      "provincia": "Milano",
+      "abitanti": 51065
+    },
+    {
+      "posizione": 136,
+      "comune": "Acireale",
+      "regione": "Sicilia",
+      "provincia": "Catania",
+      "abitanti": 50512
+    },
+    {
+      "posizione": 137,
+      "comune": "Mantova",
+      "regione": "Lombardia",
+      "provincia": "Mantova",
+      "abitanti": 50374
+    }
+  ],
+  "meta": {
+    "title": "Comuni d'Italia per popolazione - Free Download",
+    "description": "Classifica dei comuni italiani più popolosi con regione, provincia e numero di abitanti. Contains 137 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Comuni d'Italia per popolazione | ListBase",
+    "seo_description": "Download Comuni d'Italia per popolazione — 137 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 137 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Comuni_d'Italia_per_popolazione"
+    ]
+  }
+}
