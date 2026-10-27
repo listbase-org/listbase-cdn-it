@@ -1,0 +1,624 @@
+{
+  "id": "it-ministri-della-salute",
+  "name": "Ministri della salute della Repubblica Italiana",
+  "title": "Ministri della salute della Repubblica Italiana",
+  "description": "Alti commissari per l'igiene e la sanità e ministri della sanità/salute della Repubblica Italiana.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Ministri_della_salute_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_della_salute_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Nicola Perrotti (1897-1970)",
+      "partito": "Partito Socialista di Unità Proletaria",
+      "governo": "De Gasperi II",
+      "inizio": "14 luglio 1946",
+      "fine": "2 febbraio 1947",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Nicola Perrotti (1897-1970)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "De Gasperi III",
+      "inizio": "2 febbraio 1947",
+      "fine": "1º giugno 1947",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Nicola Perrotti (1897-1970)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "De Gasperi IV",
+      "inizio": "1º giugno 1947",
+      "fine": "24 maggio 1948",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Nicola Perrotti (1897-1970)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "De Gasperi V",
+      "inizio": "24 maggio 1948",
+      "fine": "1º giugno 1948",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Mario Cotellessa (1897-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi V",
+      "inizio": "1º giugno 1948",
+      "fine": "28 gennaio 1950",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Mario Cotellessa (1897-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI",
+      "inizio": "28 gennaio 1950",
+      "fine": "26 luglio 1951",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Mario Cotellessa (1897-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII",
+      "inizio": "26 luglio 1951",
+      "fine": "16 luglio 1953",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Tiziano Tessitori (1895-1973)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII",
+      "inizio": "16 luglio 1953",
+      "fine": "17 agosto 1953",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Tiziano Tessitori (1895-1973)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella",
+      "inizio": "17 agosto 1953",
+      "fine": "19 gennaio 1954",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Tiziano Tessitori (1895-1973)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I",
+      "inizio": "19 gennaio 1954",
+      "fine": "10 febbraio 1954",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Tiziano Tessitori (1895-1973)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Scelba",
+      "inizio": "10 febbraio 1954",
+      "fine": "6 luglio 1955",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Tiziano Tessitori (1895-1973)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni I",
+      "inizio": "6 luglio 1955",
+      "fine": "20 maggio 1957",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Angelo Giacomo Mott (1902-1963)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli",
+      "inizio": "20 maggio 1957",
+      "fine": "2 luglio 1958",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Vincenzo Monaldi (1899-1969)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani II",
+      "inizio": "14 agosto 1958",
+      "fine": "16 febbraio 1959",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Camillo Giardina (1907-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II",
+      "inizio": "16 febbraio 1959",
+      "fine": "26 marzo 1960",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Camillo Giardina (1907-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni",
+      "inizio": "26 marzo 1960",
+      "fine": "27 luglio 1960",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Camillo Giardina (1907-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III",
+      "inizio": "27 luglio 1960",
+      "fine": "22 febbraio 1962",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Angelo Raffaele Jervolino (1890-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV",
+      "inizio": "22 febbraio 1962",
+      "fine": "22 giugno 1963",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Angelo Raffaele Jervolino (1890-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I",
+      "inizio": "22 giugno 1963",
+      "fine": "5 dicembre 1963",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Giacomo Mancini (1916-2002)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Moro I",
+      "inizio": "5 dicembre 1963",
+      "fine": "23 luglio 1964",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Luigi Mariotti (1912-2004)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Moro II",
+      "inizio": "23 luglio 1964",
+      "fine": "24 febbraio 1966",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Luigi Mariotti (1912-2004)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Moro III",
+      "inizio": "24 febbraio 1966",
+      "fine": "25 giugno 1968",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Ennio Zelioli-Lanzini (1899-1976)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II",
+      "inizio": "25 giugno 1968",
+      "fine": "13 dicembre 1968",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Camillo Ripamonti (1919-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I",
+      "inizio": "13 dicembre 1968",
+      "fine": "6 agosto 1969",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Camillo Ripamonti (1919-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II",
+      "inizio": "6 agosto 1969",
+      "fine": "28 marzo 1970",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Luigi Mariotti (1912-2004)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Rumor III",
+      "inizio": "28 marzo 1970",
+      "fine": "6 agosto 1970",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Luigi Mariotti (1912-2004)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Colombo",
+      "inizio": "6 agosto 1970",
+      "fine": "18 febbraio 1972",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Athos Valsecchi (1919-1985)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I",
+      "inizio": "18 febbraio 1972",
+      "fine": "26 giugno 1972",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Remo Gaspari (1921-2011)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II",
+      "inizio": "26 giugno 1972",
+      "fine": "8 luglio 1973",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor IV",
+      "inizio": "8 luglio 1973",
+      "fine": "15 marzo 1974",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Vittorino Colombo (1925-1996)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor V",
+      "inizio": "15 marzo 1974",
+      "fine": "23 novembre 1974",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Antonino Pietro Gullotti (1922-1989)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro IV",
+      "inizio": "23 novembre 1974",
+      "fine": "12 febbraio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Luciano Dal Falco (1925-1992)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V",
+      "inizio": "12 febbraio 1976",
+      "fine": "30 luglio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Luciano Dal Falco (1925-1992)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III",
+      "inizio": "30 luglio 1976",
+      "fine": "13 marzo 1978",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Tina Anselmi (1927-2016)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV",
+      "inizio": "13 marzo 1978",
+      "fine": "21 marzo 1979",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Tina Anselmi (1927-2016)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti V",
+      "inizio": "21 marzo 1979",
+      "fine": "5 agosto 1979",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Renato Altissimo (1940-2015)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Cossiga I",
+      "inizio": "5 agosto 1979",
+      "fine": "4 aprile 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Aldo Aniasi (1921-2005)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Cossiga II",
+      "inizio": "4 aprile 1980",
+      "fine": "18 ottobre 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Aldo Aniasi (1921-2005)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Forlani",
+      "inizio": "18 ottobre 1980",
+      "fine": "28 giugno 1981",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Renato Altissimo (1940-2015)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Spadolini I",
+      "inizio": "28 giugno 1981",
+      "fine": "23 agosto 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Renato Altissimo (1940-2015)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Spadolini II",
+      "inizio": "23 agosto 1982",
+      "fine": "1º dicembre 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Renato Altissimo (1940-2015)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Fanfani V",
+      "inizio": "1º dicembre 1982",
+      "fine": "4 agosto 1983",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Costante Degan (1930-1988)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi I",
+      "inizio": "4 agosto 1983",
+      "fine": "1º agosto 1986",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Carlo Donat-Cattin (1919-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi II",
+      "inizio": "1º agosto 1986",
+      "fine": "18 aprile 1987",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Carlo Donat-Cattin (1919-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI",
+      "inizio": "18 aprile 1987",
+      "fine": "29 luglio 1987",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Carlo Donat-Cattin (1919-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Goria",
+      "inizio": "29 luglio 1987",
+      "fine": "13 aprile 1988",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Carlo Donat-Cattin (1919-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Mita",
+      "inizio": "13 aprile 1988",
+      "fine": "23 luglio 1989",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Francesco De Lorenzo (1938)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Andreotti VI",
+      "inizio": "23 luglio 1989",
+      "fine": "13 aprile 1991",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Francesco De Lorenzo (1938)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Andreotti VII",
+      "inizio": "13 aprile 1991",
+      "fine": "28 giugno 1992",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Francesco De Lorenzo (1938)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Amato I",
+      "inizio": "28 giugno 1992",
+      "fine": "21 febbraio 1993",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Raffaele Costa (1936-2026)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Amato I",
+      "inizio": "21 febbraio 1993",
+      "fine": "29 aprile 1993",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Mariapia Garavaglia (1947)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Ciampi",
+      "inizio": "29 aprile 1993",
+      "fine": "11 maggio 1994",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Raffaele Costa (1936-2026)",
+      "partito": "Unione di Centro",
+      "governo": "Berlusconi I",
+      "inizio": "11 maggio 1994",
+      "fine": "17 gennaio 1995",
+      "legislatura": "XII"
+    },
+    {
+      "nome": "Elio Guzzanti (1920-2014)",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio": "17 gennaio 1995",
+      "fine": "18 maggio 1996",
+      "legislatura": "XII"
+    },
+    {
+      "nome": "Rosy Bindi (1951)",
+      "partito": "Partito Popolare Italiano",
+      "governo": "Prodi I",
+      "inizio": "18 maggio 1996",
+      "fine": "21 ottobre 1998",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Rosy Bindi (1951)",
+      "partito": "Partito Popolare Italiano",
+      "governo": "D'Alema I",
+      "inizio": "21 ottobre 1998",
+      "fine": "22 dicembre 1999",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Rosy Bindi (1951)",
+      "partito": "Partito Popolare Italiano",
+      "governo": "D'Alema II",
+      "inizio": "22 dicembre 1999",
+      "fine": "26 aprile 2000",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Umberto Veronesi (1925-2016)",
+      "partito": "Indipendente",
+      "governo": "Amato II",
+      "inizio": "26 aprile 2000",
+      "fine": "11 giugno 2001",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Girolamo Sirchia (1933)",
+      "partito": "Indipendente",
+      "governo": "Berlusconi II",
+      "inizio": "11 giugno 2001",
+      "fine": "23 aprile 2005",
+      "legislatura": "XIV"
+    },
+    {
+      "nome": "Francesco Storace (1959)",
+      "partito": "Alleanza Nazionale",
+      "governo": "Berlusconi III",
+      "inizio": "23 aprile 2005",
+      "fine": "11 marzo 2006",
+      "legislatura": "XIV"
+    },
+    {
+      "nome": "Livia Turco (1955)",
+      "partito": "Democratici di Sinistra Partito Democratico",
+      "governo": "Prodi II",
+      "inizio": "17 maggio 2006",
+      "fine": "8 maggio 2008",
+      "legislatura": "XV"
+    },
+    {
+      "nome": "Maurizio Sacconi (1950)",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio": "8 maggio 2008",
+      "fine": "13 dicembre 2009",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Ferruccio Fazio (1944)",
+      "partito": "Indipendente",
+      "governo": "Berlusconi IV",
+      "inizio": "13 dicembre 2009",
+      "fine": "16 novembre 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Renato Balduzzi (1955)",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio": "16 novembre 2011",
+      "fine": "28 aprile 2013",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Beatrice Lorenzin (1971)",
+      "partito": "Il Popolo della Libertà Nuovo Centrodestra Alternativa Popolare",
+      "governo": "Letta",
+      "inizio": "28 aprile 2013",
+      "fine": "22 febbraio 2014",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Beatrice Lorenzin (1971)",
+      "partito": "Il Popolo della Libertà Nuovo Centrodestra Alternativa Popolare",
+      "governo": "Renzi",
+      "inizio": "22 febbraio 2014",
+      "fine": "12 dicembre 2016",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Beatrice Lorenzin (1971)",
+      "partito": "Il Popolo della Libertà Nuovo Centrodestra Alternativa Popolare",
+      "governo": "Gentiloni",
+      "inizio": "12 dicembre 2016",
+      "fine": "1º giugno 2018",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Giulia Grillo (1975)",
+      "partito": "Movimento 5 Stelle",
+      "governo": "Conte I",
+      "inizio": "1º giugno 2018",
+      "fine": "5 settembre 2019",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Roberto Speranza (1979)",
+      "partito": "Articolo Uno",
+      "governo": "Conte II",
+      "inizio": "5 settembre 2019",
+      "fine": "13 febbraio 2021",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Roberto Speranza (1979)",
+      "partito": "Articolo Uno",
+      "governo": "Draghi",
+      "inizio": "13 febbraio 2021",
+      "fine": "22 ottobre 2022",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Orazio Schillaci (1966)",
+      "partito": "Indipendente",
+      "governo": "Meloni",
+      "inizio": "22 ottobre 2022",
+      "fine": "in carica",
+      "legislatura": "XIX"
+    }
+  ],
+  "meta": {
+    "title": "Ministri della salute della Repubblica Italiana - Free Download",
+    "description": "Alti commissari per l'igiene e la sanità e ministri della sanità/salute della Repubblica Italiana. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri della salute della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri della salute della Repubblica Italiana — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_della_salute_della_Repubblica_Italiana"
+    ]
+  }
+}

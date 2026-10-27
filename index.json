@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:35.244Z",
-  "total_datasets": 460,
-  "total_records": 136838,
+  "generated": "2026-10-27T02:12:37.768Z",
+  "total_datasets": 461,
+  "total_records": 136909,
   "categories": [
     {
       "id": "culture",
@@ -35,6 +35,10 @@
     {
       "id": "geography",
       "dataset_count": 10
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -828,6 +832,33 @@
         "xlsx": {
           "name": "it-vulcani_IT.xlsx",
           "size": 7819
+        }
+      }
+    },
+    {
+      "id": "it-ministri-della-salute",
+      "name": "Ministri della salute della Repubblica Italiana",
+      "category": "health",
+      "record_count": 71,
+      "columns": [
+        "nome",
+        "partito",
+        "governo",
+        "inizio",
+        "fine",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_della_salute_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 17806,
+      "files": {
+        "csv": {
+          "name": "it-ministri-della-salute_IT.csv",
+          "size": 7735
+        },
+        "xlsx": {
+          "name": "it-ministri-della-salute_IT.xlsx",
+          "size": 10227
         }
       }
     },
