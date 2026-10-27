@@ -1,0 +1,247 @@
+{
+  "id": "it-lingue-d-italia",
+  "name": "Lingue d'Italia",
+  "title": "Lingue d'Italia",
+  "description": "Lingue e dialetti parlati in Italia con numero di parlanti, regioni e riconoscimento ufficiale.",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Lingue_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Lingue_d'Italia",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "lingua",
+      "label": "Lingua",
+      "type": "string"
+    },
+    {
+      "key": "popolazione",
+      "label": "Popolazione",
+      "type": "number"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "riconoscimento",
+      "label": "Riconoscimento",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lingua": "Dialetti italiani mediani",
+      "popolazione": 3000000,
+      "regione": "Lazio (escluso l'estremo sud-est), Marche (zona sud occidentale della provincia di Pesaro e Urbino , provincia di Ancona - esclusi il circondario di Senigallia e l' isola linguistica gallica del Conero , provincia di Macerata , provincia di Fermo ), Umbria , escluso l'Altotevere settentrionale, Abruzzo (estremo ovest)",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Dialetti italiani meridionali",
+      "popolazione": "5700000 - 7500000",
+      "regione": "Lazio meridionale, Campania , Marche (provincia di Ascoli Piceno), Abruzzo (escluso l'estremo ovest), Molise , Basilicata , Calabria settentrionale, Puglia settentrionale e centrale",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Dialetti italiani meridionali estremi",
+      "popolazione": 4700000,
+      "regione": "Sicilia , Calabria centro-meridionale e Salento . Vocalismi in Cilento",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Veneto",
+      "popolazione": 3800000,
+      "regione": "Veneto , Trentino centrale e orientale, Friuli-Venezia Giulia , Piana di Bolzano e Bassa Atesina in Alto Adige",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 3600000,
+      "regione": "Lombardia , Piemonte orientale, Trentino occidentale, Canton Ticino , Canton Grigioni",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 700000,
+      "regione": "Piemonte , bassa Valle d'Aosta , alta Liguria",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 500000,
+      "regione": "Liguria , basso Piemonte , aree appenniniche dell' Oltrepò Pavese , del Piacentino , del Parmense e dell'Oltrepò Pavese, isole del Sulcis in Sardegna",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 1500000,
+      "regione": "Emilia , bassa provincia di Mantova , Oltrepò pavese , Veneto meridionale , Appennino toscano , Lunigiana , Liguria orientale",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 1100000,
+      "regione": "Romagna , Romagna toscana",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 400000,
+      "regione": "Marche ( provincia di Pesaro e Urbino - esclusa la zona sud occidentale, circondario di Senigallia , isola linguistica gallica del Conero )",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": "?",
+      "regione": "alcuni comuni della Basilicata",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Gallo-italico",
+      "popolazione": 60000,
+      "regione": "alcuni comuni della Sicilia",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Sardo",
+      "popolazione": 1576000,
+      "regione": "Sardegna",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Gallurese",
+      "popolazione": 100000,
+      "regione": "Sardegna in Gallura",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Sassarese",
+      "popolazione": 100000,
+      "regione": "Sardegna nella città metropolitana di Sassari",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Friulano",
+      "popolazione": "550000 - 600000",
+      "regione": "Friuli-Venezia Giulia (60%) e Veneto nell'ex Mandamento di Portogruaro",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Dialetti toscani",
+      "popolazione": 3000000,
+      "regione": "Toscana (esclusa la Lunigiana e la Romagna Toscana )",
+      "riconoscimento": "No",
+      "note": ""
+    },
+    {
+      "lingua": "Tedesco , Bavarese , Sudtirolese , Cimbro e Mocheno",
+      "popolazione": 345000,
+      "regione": "Alto Adige (69,15%), Friuli-Venezia Giulia , Trentino , Valle d'Aosta , Veneto",
+      "riconoscimento": "Sì (con carattere di co-ufficialità nella Provincia autonoma di Bolzano )",
+      "note": ""
+    },
+    {
+      "lingua": "Arbëresh",
+      "popolazione": 100000,
+      "regione": "alcuni comuni della Calabria , Sicilia , Molise , Basilicata , Puglia , Campania e Abruzzo",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Francese",
+      "popolazione": 100000,
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "Sì (con carattere di co-ufficialità)",
+      "note": ""
+    },
+    {
+      "lingua": "Francoprovenzale",
+      "popolazione": 70000,
+      "regione": "Piemonte a Coazze , in Val Cenischia , nelle Valli di Lanzo , in alta Valle Orco e Val Soana ; Valle d'Aosta ; Puglia in Val Maggiore (a Faeto e Celle di San Vito )",
+      "riconoscimento": "",
+      "note": ""
+    },
+    {
+      "lingua": "Occitano",
+      "popolazione": 100000,
+      "regione": "Piemonte nelle valli di Cuneo e Torino ; Calabria a Guardia Piemontese",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Sloveno",
+      "popolazione": 100000,
+      "regione": "Friuli-Venezia Giulia : lo Sloveno è diffuso insieme all'Italiano in tutti e sei i comuni della provincia di Trieste , in otto comuni su venticinque della Provincia di Gorizia , in diciotto comuni su 134 della Provincia di Udine",
+      "riconoscimento": "Sì (con carattere di co-ufficialità)",
+      "note": ""
+    },
+    {
+      "lingua": "Catalano algherese",
+      "popolazione": 44000,
+      "regione": "Sardegna ad Alghero",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Greco-italiota",
+      "popolazione": 20000,
+      "regione": "Calabria alcuni comuni della città metropolitana di Reggio , Puglia nella Grecia salentina e in Sicilia a Messina",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Ladino",
+      "popolazione": 31000,
+      "regione": "Trentino-Alto Adige a Bolzano (4,19%), a Trento (1,69%), Veneto a Belluno (10%)",
+      "riconoscimento": "Sì (con carattere di co-ufficialità)",
+      "note": ""
+    },
+    {
+      "lingua": "Walser",
+      "popolazione": 3400,
+      "regione": "alcuni comuni della Valle d'Aosta e del Piemonte",
+      "riconoscimento": "Sì",
+      "note": ""
+    },
+    {
+      "lingua": "Croato molisano",
+      "popolazione": 1000,
+      "regione": "Molise nei comuni di Acquaviva Collecroce (Kruč), Montemitro (Mundimitar) e San Felice del Molise (Filič)",
+      "riconoscimento": "Sì",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Lingue d'Italia - Free Download",
+    "description": "Lingue e dialetti parlati in Italia con numero di parlanti, regioni e riconoscimento ufficiale. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lingue d'Italia | ListBase",
+    "seo_description": "Download Lingue d'Italia — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lingue_d'Italia"
+    ]
+  }
+}

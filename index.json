@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:27.508Z",
-  "total_datasets": 457,
-  "total_records": 136715,
+  "generated": "2026-10-27T02:12:30.104Z",
+  "total_datasets": 458,
+  "total_records": 136743,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -906,6 +906,32 @@
         "xlsx": {
           "name": "it-lingue_IT.xlsx",
           "size": 22977
+        }
+      }
+    },
+    {
+      "id": "it-lingue-d-italia",
+      "name": "Lingue d'Italia",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "lingua",
+        "popolazione",
+        "regione",
+        "riconoscimento",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lingue_d'Italia",
+      "updated": "2026-10",
+      "size": 8256,
+      "files": {
+        "csv": {
+          "name": "it-lingue-d-italia_IT.csv",
+          "size": 3826
+        },
+        "xlsx": {
+          "name": "it-lingue-d-italia_IT.xlsx",
+          "size": 8748
         }
       }
     },
