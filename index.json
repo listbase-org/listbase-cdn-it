@@ -1,12 +1,16 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:05.289Z",
-  "total_datasets": 449,
-  "total_records": 135661,
+  "generated": "2026-10-27T02:12:07.798Z",
+  "total_datasets": 450,
+  "total_records": 135716,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 2
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -125,6 +129,37 @@
         "xlsx": {
           "name": "it-patrimonio-mondiale-unesco_IT.xlsx",
           "size": 24377
+        }
+      }
+    },
+    {
+      "id": "it-dati-macroeconomici",
+      "name": "Dati macroeconomici italiani (serie storica)",
+      "category": "economy",
+      "record_count": 55,
+      "columns": [
+        "anno",
+        "debito_milioni_euro",
+        "pil_miliardi_euro",
+        "debito_pil",
+        "deficit_pil",
+        "inflazione",
+        "pil_reale",
+        "disoccupazione",
+        "spesa_interessi",
+        "governo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+      "updated": "2026-10",
+      "size": 18291,
+      "files": {
+        "csv": {
+          "name": "it-dati-macroeconomici_IT.csv",
+          "size": 3936
+        },
+        "xlsx": {
+          "name": "it-dati-macroeconomici_IT.xlsx",
+          "size": 9932
         }
       }
     },
