@@ -1,0 +1,198 @@
+{
+  "id": "it-maggiori-aziende-fatturato-2022",
+  "name": "Maggiori aziende italiane per fatturato (2022)",
+  "title": "Maggiori aziende italiane per fatturato (2022)",
+  "description": "Classifica delle maggiori aziende italiane per fatturato nel 2022, con sede e settore.",
+  "category": "economy",
+  "source": "https://it.wikipedia.org/wiki/Maggiori_aziende_italiane_per_fatturato",
+  "source_url": "https://it.wikipedia.org/wiki/Maggiori_aziende_italiane_per_fatturato",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "azienda",
+      "label": "Azienda",
+      "type": "string"
+    },
+    {
+      "key": "fatturato_miliardi_euro",
+      "label": "Fatturato Miliardi Euro",
+      "type": "number"
+    },
+    {
+      "key": "sede",
+      "label": "Sede",
+      "type": "string"
+    },
+    {
+      "key": "settore",
+      "label": "Settore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "azienda": "Enel",
+      "fatturato_miliardi_euro": 140.5,
+      "sede": "Roma",
+      "settore": "Energia"
+    },
+    {
+      "posizione": 2,
+      "azienda": "Eni",
+      "fatturato_miliardi_euro": 132.2,
+      "sede": "Roma",
+      "settore": "Energia"
+    },
+    {
+      "posizione": 3,
+      "azienda": "Generali",
+      "fatturato_miliardi_euro": 81.5,
+      "sede": "Trieste",
+      "settore": "Assicurazioni"
+    },
+    {
+      "posizione": 4,
+      "azienda": "Edison",
+      "fatturato_miliardi_euro": 30.3,
+      "sede": "Milano",
+      "settore": "Energia"
+    },
+    {
+      "posizione": 5,
+      "azienda": "A2A",
+      "fatturato_miliardi_euro": 23.1,
+      "sede": "Brescia",
+      "settore": "Multiservizi"
+    },
+    {
+      "posizione": 6,
+      "azienda": "Intesa Sanpaolo",
+      "fatturato_miliardi_euro": 21.4,
+      "sede": "Torino",
+      "settore": "Servizi finanziari"
+    },
+    {
+      "posizione": 7,
+      "azienda": "UniCredit",
+      "fatturato_miliardi_euro": 20.3,
+      "sede": "Milano",
+      "settore": "Servizi finanziari"
+    },
+    {
+      "posizione": 8,
+      "azienda": "Hera",
+      "fatturato_miliardi_euro": 20.08,
+      "sede": "Bologna",
+      "settore": "Multiservizi"
+    },
+    {
+      "posizione": 9,
+      "azienda": "Conad",
+      "fatturato_miliardi_euro": 18.4,
+      "sede": "Bologna",
+      "settore": "Grande distribuzione organizzata"
+    },
+    {
+      "posizione": 10,
+      "azienda": "GSE",
+      "fatturato_miliardi_euro": 18.2,
+      "sede": "Roma",
+      "settore": "Energia"
+    },
+    {
+      "posizione": 11,
+      "azienda": "Leonardo",
+      "fatturato_miliardi_euro": 17.3,
+      "sede": "Roma",
+      "settore": "Difesa"
+    },
+    {
+      "posizione": 12,
+      "azienda": "Prysmian",
+      "fatturato_miliardi_euro": 16.06,
+      "sede": "Milano",
+      "settore": "Manifatturiero"
+    },
+    {
+      "posizione": 13,
+      "azienda": "Kuwait Petroleum Italia",
+      "fatturato_miliardi_euro": 15.9,
+      "sede": "Roma",
+      "settore": "Petrolio"
+    },
+    {
+      "posizione": 14,
+      "azienda": "Saras",
+      "fatturato_miliardi_euro": 15.8,
+      "sede": "Cagliari",
+      "settore": "Petrolio"
+    },
+    {
+      "posizione": 15,
+      "azienda": "TIM",
+      "fatturato_miliardi_euro": 15.7,
+      "sede": "Roma",
+      "settore": "Telecomunicazioni"
+    },
+    {
+      "posizione": 16,
+      "azienda": "Unipol",
+      "fatturato_miliardi_euro": 14.9,
+      "sede": "Bologna",
+      "settore": "Assicurazioni"
+    },
+    {
+      "posizione": 17,
+      "azienda": "Esso",
+      "fatturato_miliardi_euro": 14.5,
+      "sede": "Roma",
+      "settore": "Petrolio"
+    },
+    {
+      "posizione": 18,
+      "azienda": "Coop",
+      "fatturato_miliardi_euro": "Non ancora disponibile - 14,3 (2021)",
+      "sede": "Bologna",
+      "settore": "Grande distribuzione organizzata"
+    },
+    {
+      "posizione": 19,
+      "azienda": "Ferrovie dello Stato",
+      "fatturato_miliardi_euro": 13.7,
+      "sede": "Roma",
+      "settore": "Trasporto"
+    },
+    {
+      "posizione": 20,
+      "azienda": "Poste Italiane",
+      "fatturato_miliardi_euro": 11.8,
+      "sede": "Roma",
+      "settore": "Servizio postale"
+    },
+    {
+      "posizione": 21,
+      "azienda": "Saipem",
+      "fatturato_miliardi_euro": 9.98,
+      "sede": "Milano",
+      "settore": "Energia"
+    }
+  ],
+  "meta": {
+    "title": "Maggiori aziende italiane per fatturato (2022) - Free Download",
+    "description": "Classifica delle maggiori aziende italiane per fatturato nel 2022, con sede e settore. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maggiori aziende italiane per fatturato (2022) | ListBase",
+    "seo_description": "Download Maggiori aziende italiane per fatturato (2022) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Maggiori_aziende_italiane_per_fatturato"
+    ]
+  }
+}

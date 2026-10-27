@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:30.104Z",
-  "total_datasets": 458,
-  "total_records": 136743,
+  "generated": "2026-10-27T02:12:32.641Z",
+  "total_datasets": 459,
+  "total_records": 136764,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -168,6 +168,32 @@
         "xlsx": {
           "name": "it-dati-macroeconomici_IT.xlsx",
           "size": 9932
+        }
+      }
+    },
+    {
+      "id": "it-maggiori-aziende-fatturato-2022",
+      "name": "Maggiori aziende italiane per fatturato (2022)",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "posizione",
+        "azienda",
+        "fatturato_miliardi_euro",
+        "sede",
+        "settore"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Maggiori_aziende_italiane_per_fatturato",
+      "updated": "2026-10",
+      "size": 5118,
+      "files": {
+        "csv": {
+          "name": "it-maggiori-aziende-fatturato-2022_IT.csv",
+          "size": 1083
+        },
+        "xlsx": {
+          "name": "it-maggiori-aziende-fatturato-2022_IT.xlsx",
+          "size": 7622
         }
       }
     },
