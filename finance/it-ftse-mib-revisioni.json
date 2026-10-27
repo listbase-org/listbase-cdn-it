@@ -1,0 +1,406 @@
+{
+  "id": "it-ftse-mib-revisioni",
+  "name": "FTSE MIB — revisioni della composizione",
+  "title": "FTSE MIB — revisioni della composizione",
+  "description": "Cronologia delle società escluse e ammesse nell'indice FTSE MIB.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/FTSE_MIB",
+  "source_url": "https://it.wikipedia.org/wiki/FTSE_MIB",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "escluse",
+      "label": "Escluse",
+      "type": "string"
+    },
+    {
+      "key": "ammesse",
+      "label": "Ammesse",
+      "type": "string"
+    },
+    {
+      "key": "motivo",
+      "label": "Motivo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "1.10.2009",
+      "escluse": "Alleanza Assicurazioni",
+      "ammesse": "Exor",
+      "motivo": "Alleanza Assicurazioni revocata dal listino dopo l'incorporazione di Generali e la successiva fusione con Toro Assicurazioni che diede vita ad Alleanza Toro"
+    },
+    {
+      "data": "22.3.2010",
+      "escluse": "Mondadori Editore",
+      "ammesse": "Azimut Holding #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "20.12.2010",
+      "escluse": "CIR - Compagnie Industriali Riunite",
+      "ammesse": "DiaSorin",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "20.12.2010",
+      "escluse": "Geox",
+      "ammesse": "Enel Green Power",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "20.12.2010",
+      "escluse": "Unipol Gruppo Finanziario",
+      "ammesse": "Tod's",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "3.1.2011",
+      "escluse": "Italcementi",
+      "ammesse": "Fiat Industrial",
+      "motivo": "Spin off di Fiat delle attività relative ai veicoli industriali, per l'edilizia e per l'agricoltura e dei motori marini da cui nasce Fiat Industrial. Esce Italcementi che aveva il peso minore del paniere."
+    },
+    {
+      "data": "19.9.2011",
+      "escluse": "Ansaldo STS",
+      "ammesse": "Banca Popolare dell'Emilia-Romagna (ridenominata nel 2016 BPER Banca)",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "28.9.2011",
+      "escluse": "Bulgari",
+      "ammesse": "Ansaldo STS",
+      "motivo": "Bulgari revocata dopo il successo dell'OPA lanciata da LVMH"
+    },
+    {
+      "data": "19.12.2011",
+      "escluse": "Fondiaria Sai",
+      "ammesse": "Salvatore Ferragamo",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "17.4.2013",
+      "escluse": "Impregilo",
+      "ammesse": "Fondiaria Sai",
+      "motivo": "Impregilo esce dall'indice, per il flottante inferiore al 10% dopo l'OPA di Salini con cui successivamente si fonde, diventando Salini Impregilo, ridenominata nel 2020 Webuild"
+    },
+    {
+      "data": "29.9.2013",
+      "escluse": "Fiat Industrial",
+      "ammesse": "CNH Industrial N.V.",
+      "motivo": "Fusione tra CNH Global N.V. e Fiat Industrial da cui nasce CNH Industrial N.V."
+    },
+    {
+      "data": "1.10.2013",
+      "escluse": "",
+      "ammesse": "World Duty Free",
+      "motivo": "Spin off di Autogrill delle attività travel retail & duty free. Per la prima volta, nella sua storia, l'indice comprende 41 società"
+    },
+    {
+      "data": "23.12.2013",
+      "escluse": "DiaSorin",
+      "ammesse": "YOOX GROUP",
+      "motivo": "Revisione ordinaria trimestrale. Il paniere torna con 40 società"
+    },
+    {
+      "data": "23.12.2013",
+      "escluse": "Parmalat",
+      "ammesse": "YOOX GROUP",
+      "motivo": "Revisione ordinaria trimestrale. Il paniere torna con 40 società"
+    },
+    {
+      "data": "6.1.2014",
+      "escluse": "Fondiaria Sai",
+      "ammesse": "UnipolSai",
+      "motivo": "Fondiaria Sai incorpora Milano Assicurazioni, Unipol Assicurazioni e Premafin e viene ridenominata UnipolSai"
+    },
+    {
+      "data": "24.3.2014",
+      "escluse": "Ansaldo STS",
+      "ammesse": "Moncler #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "12.10.2014",
+      "escluse": "FIAT",
+      "ammesse": "Fiat Chrysler Automobiles N.V.",
+      "motivo": "FIAT si fonde in Fiat Investments N.V. che viene ridenominata Fiat Chrysler Automobiles N.V."
+    },
+    {
+      "data": "7.4.2015",
+      "escluse": "GTECH",
+      "ammesse": "Ansaldo STS",
+      "motivo": "GTECH (dal 2013 nuova denominazione di Lottomatica) viene revocata dopo essersi fusa con IGT Inc. ed aver assunto la denominazione International Game Technology, PLC"
+    },
+    {
+      "data": "21.9.2015",
+      "escluse": "Autogrill",
+      "ammesse": "Unipol Gruppo Finanziario (ridenoninata nel 2016 Unipol #)",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "5.10.2015",
+      "escluse": "YOOX GROUP",
+      "ammesse": "Yoox Net-A-Porter Group",
+      "motivo": "YOOX GROUP si fonde con THE NET-A-PORTER GROUP diventando Yoox Net-A-Porter Group"
+    },
+    {
+      "data": "15.10.2015",
+      "escluse": "World Duty Free",
+      "ammesse": "Italcementi",
+      "motivo": "World Duty Free revocata dopo l'OPA di Dufry Financial Services BV, del gruppo Dufry AG"
+    },
+    {
+      "data": "2.11.2015",
+      "escluse": "Pirelli & C.",
+      "ammesse": "Anima Holding",
+      "motivo": "Pirelli & C. revocata dopo l'OPA di Marco Polo Industrial Holding S.p.A., controllata da ChemChina"
+    },
+    {
+      "data": "21.12.2015",
+      "escluse": "Ansaldo STS",
+      "ammesse": "Poste Italiane #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "30.12.2015",
+      "escluse": "Mediolanum",
+      "ammesse": "Banca Mediolanum",
+      "motivo": "Mediolanum si fonde in Banca Mediolanum"
+    },
+    {
+      "data": "4.1.2016",
+      "escluse": "",
+      "ammesse": "Ferrari N.V. #",
+      "motivo": "Spin off da FCA. Per la 2ª volta il listino comprende 41 società"
+    },
+    {
+      "data": "21.3.2016",
+      "escluse": "Tod's",
+      "ammesse": "",
+      "motivo": "Revisione ordinaria trimestrale. Il paniere torna con 40 società"
+    },
+    {
+      "data": "1.4.2016",
+      "escluse": "Enel Green Power",
+      "ammesse": "FinecoBank #",
+      "motivo": "Enel Green Power revocata dopo la scissione parziale non proporzionale in Enel"
+    },
+    {
+      "data": "20.6.2016",
+      "escluse": "Anima Holding",
+      "ammesse": "Recordati #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "7.10.2016",
+      "escluse": "Italcementi",
+      "ammesse": "Brembo",
+      "motivo": "Italcementi revocata dopo l'OPA di HeidelbergCement France del gruppo HeidelbergCement AG"
+    },
+    {
+      "data": "7.11.2016",
+      "escluse": "",
+      "ammesse": "Italgas #",
+      "motivo": "Scissione parziale proporzionale di Snam della partecipazione detenuta in Italgas Reti. Per la 3ª volta il listino comprende 41 società"
+    },
+    {
+      "data": "12.12.2016",
+      "escluse": "Exor",
+      "ammesse": "Exor N.V.",
+      "motivo": "Exor si fonde con Exor Holding N.V. ridenominata Exor N.V."
+    },
+    {
+      "data": "19.12.2016",
+      "escluse": "Brembo",
+      "ammesse": "",
+      "motivo": "Revisione ordinaria trimestrale. Il paniere torna con 40 società"
+    },
+    {
+      "data": "2.1.2017",
+      "escluse": "Banca Popolare di Milano",
+      "ammesse": "Banco BPM #",
+      "motivo": "Banca Popolare di Milano e Banco Popolare si fondono dando vita al Banco BPM"
+    },
+    {
+      "data": "2.1.2017",
+      "escluse": "Banco Popolare",
+      "ammesse": "Brembo",
+      "motivo": "Banca Popolare di Milano e Banco Popolare si fondono dando vita al Banco BPM"
+    },
+    {
+      "data": "20.3.2017",
+      "escluse": "Banca Monte dei Paschi di Siena",
+      "ammesse": "Banca Generali",
+      "motivo": "Revisione ordinaria trimestrale: MPS esce dall'indice per il protrarsi della sospensione decisa il 22/12/2016"
+    },
+    {
+      "data": "18.12.2017",
+      "escluse": "Banca Mediolanum",
+      "ammesse": "Pirelli & C.",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "15.5.2018",
+      "escluse": "Yoox Net-A-Porter Group",
+      "ammesse": "Banca Mediolanum",
+      "motivo": "Yoox Net-A-Porter Group esce dall'índice essendo rimasta con un flottante inferiore al 10%, al termine dell'OPA di Compagnie financière Richemont che ha raggiunto il 94,999% del capitale sociale"
+    },
+    {
+      "data": "4.12.2018",
+      "escluse": "Luxottica",
+      "ammesse": "DiaSorin",
+      "motivo": "Luxottica esce dall'indice essendo rimasta con un flottante inferiore al 10%, al termine dell'OPS di EssilorLuxottica che ha raggiunto il 97,542% del capitale sociale"
+    },
+    {
+      "data": "27.12.2018",
+      "escluse": "Banca Mediolanum",
+      "ammesse": "Amplifon #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "27.12.2018",
+      "escluse": "Mediaset",
+      "ammesse": "Juventus Football Club",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "18.3.2019",
+      "escluse": "Brembo",
+      "ammesse": "Hera #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "24.6.2019",
+      "escluse": "Banca Generali",
+      "ammesse": "Nexi #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "23.12.2019",
+      "escluse": "UnipolSai",
+      "ammesse": "Banca Generali",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "23.3.2020",
+      "escluse": "Juventus Football Club",
+      "ammesse": "Banca Mediolanum #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "22.6.2020",
+      "escluse": "BPER Banca",
+      "ammesse": "Interpump Group",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "22.6.2020",
+      "escluse": "Salvatore Ferragamo",
+      "ammesse": "Inwit #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "5.8.2020",
+      "escluse": "UBI Banca",
+      "ammesse": "BPER Banca #",
+      "motivo": "UBI Banca esce dall'indice, dove era presente ininterrottamente sin dalla nascita dello stesso, avvenuta il 1º giugno 2009, essendo rimasta con un flottante inferiore al 10%, al termine dell'OPAS di Intesa Sanpaolo che ha raggiunto il 91,0149% del capitale sociale"
+    },
+    {
+      "data": "18.1.2021",
+      "escluse": "Fiat Chrysler Automobiles N.V.",
+      "ammesse": "Stellantis N.V. #",
+      "motivo": "Gruppo PSA e FCA si fondono dando vita a Stellantis N.V."
+    },
+    {
+      "data": "3.1.2022",
+      "escluse": "",
+      "ammesse": "Iveco Group N.V. #",
+      "motivo": "Spin off da CNH Industrial. Per la 4ª volta il listino comprende 41 società"
+    },
+    {
+      "data": "21.3.2022",
+      "escluse": "Buzzi Unicem",
+      "ammesse": "",
+      "motivo": "Revisione ordinaria trimestrale. Il paniere torna con 40 società. Buzzi Unicem esce dall'indice, dove era presente ininterrottamente sin dalla nascita dello stesso, il 1º giugno 2009."
+    },
+    {
+      "data": "19.9.2022",
+      "escluse": "Exor N.V.",
+      "ammesse": "Buzzi Unicem",
+      "motivo": "Revisione ordinaria trimestrale. Exor N.V. esce dall'indice dopo aver trasferito la quotazione ad Amsterdam"
+    },
+    {
+      "data": "29.11.2022",
+      "escluse": "Atlantia",
+      "ammesse": "ERG",
+      "motivo": "Atlantia esce dall'indice dopo che l'OPA di Schema Alfa ha superato il 90% delle adesioni"
+    },
+    {
+      "data": "20.3.2023",
+      "escluse": "Buzzi Unicem",
+      "ammesse": "Banca Monte dei Paschi di Siena #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "18.12.2023",
+      "escluse": "CNH Industrial N.V.",
+      "ammesse": "Brunello Cucinelli #",
+      "motivo": "Revisione ordinaria trimestrale. CNH Industrial aveva avviato la revoca volontaria della quotazione su Euronext Milan"
+    },
+    {
+      "data": "18.3.2024",
+      "escluse": "Banca Generali",
+      "ammesse": "Banca Popolare di Sondrio",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "23.12.2024",
+      "escluse": "ERG",
+      "ammesse": "Buzzi #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "22.9.2025",
+      "escluse": "Pirelli & C.",
+      "ammesse": "Lottomatica Group #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "22.12.2025",
+      "escluse": "Interpump Group",
+      "ammesse": "Fincantieri #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "23.3.2026",
+      "escluse": "Banca Popolare di Sondrio",
+      "ammesse": "Avio #",
+      "motivo": "Revisione ordinaria trimestrale"
+    },
+    {
+      "data": "21.9.2026",
+      "escluse": "DiaSorin",
+      "ammesse": "Technoprobe #",
+      "motivo": "Revisione ordinaria trimestrale"
+    }
+  ],
+  "meta": {
+    "title": "FTSE MIB — revisioni della composizione - Free Download",
+    "description": "Cronologia delle società escluse e ammesse nell'indice FTSE MIB. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "FTSE MIB — revisioni della composizione | ListBase",
+    "seo_description": "Download FTSE MIB — revisioni della composizione — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/FTSE_MIB"
+    ]
+  }
+}

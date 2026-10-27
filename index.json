@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:22.250Z",
-  "total_datasets": 455,
-  "total_records": 136615,
+  "generated": "2026-10-27T02:12:24.757Z",
+  "total_datasets": 456,
+  "total_records": 136675,
   "categories": [
     {
       "id": "culture",
@@ -23,6 +23,10 @@
     {
       "id": "environment",
       "dataset_count": 2
+    },
+    {
+      "id": "finance",
+      "dataset_count": 1
     },
     {
       "id": "food",
@@ -347,6 +351,31 @@
         "xlsx": {
           "name": "it-centrali-nucleari_IT.xlsx",
           "size": 7284
+        }
+      }
+    },
+    {
+      "id": "it-ftse-mib-revisioni",
+      "name": "FTSE MIB — revisioni della composizione",
+      "category": "finance",
+      "record_count": 60,
+      "columns": [
+        "data",
+        "escluse",
+        "ammesse",
+        "motivo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/FTSE_MIB",
+      "updated": "2026-10",
+      "size": 13577,
+      "files": {
+        "csv": {
+          "name": "it-ftse-mib-revisioni_IT.csv",
+          "size": 7385
+        },
+        "xlsx": {
+          "name": "it-ftse-mib-revisioni_IT.xlsx",
+          "size": 10123
         }
       }
     },
