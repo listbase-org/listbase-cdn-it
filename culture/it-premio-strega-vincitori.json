@@ -1,0 +1,611 @@
+{
+  "id": "it-premio-strega-vincitori",
+  "name": "Premio Strega — vincitori",
+  "title": "Premio Strega — vincitori",
+  "description": "Albo d'oro del Premio Strega: autori, opere vincitrici e case editrici dal 1947.",
+  "category": "culture",
+  "source": "https://it.wikipedia.org/wiki/Premio_Strega",
+  "source_url": "https://it.wikipedia.org/wiki/Premio_Strega",
+  "updated": "2026-10",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "edizione",
+      "label": "Edizione",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "autore",
+      "label": "Autore",
+      "type": "string"
+    },
+    {
+      "key": "opera",
+      "label": "Opera",
+      "type": "string"
+    },
+    {
+      "key": "casa_editrice",
+      "label": "Casa Editrice",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edizione": "I",
+      "anno": 1947,
+      "autore": "Ennio Flaiano",
+      "opera": "Tempo di uccidere",
+      "casa_editrice": "Longanesi"
+    },
+    {
+      "edizione": "II",
+      "anno": 1948,
+      "autore": "Vincenzo Cardarelli",
+      "opera": "Villa Tarantola",
+      "casa_editrice": "Edizioni della Meridiana"
+    },
+    {
+      "edizione": "III",
+      "anno": 1949,
+      "autore": "Giovanni Battista Angioletti",
+      "opera": "La memoria",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "IV",
+      "anno": 1950,
+      "autore": "Cesare Pavese",
+      "opera": "La bella estate",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "V",
+      "anno": 1951,
+      "autore": "Corrado Alvaro",
+      "opera": "Quasi una vita",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "VI",
+      "anno": 1952,
+      "autore": "Alberto Moravia",
+      "opera": "I racconti 1927-1951",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "VII",
+      "anno": 1953,
+      "autore": "Massimo Bontempelli",
+      "opera": "L'amante fedele",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "VIII",
+      "anno": 1954,
+      "autore": "Mario Soldati",
+      "opera": "Le lettere da Capri",
+      "casa_editrice": "Garzanti"
+    },
+    {
+      "edizione": "IX",
+      "anno": 1955,
+      "autore": "Giovanni Comisso",
+      "opera": "Un gatto attraversa la strada",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "X",
+      "anno": 1956,
+      "autore": "Giorgio Bassani",
+      "opera": "Cinque storie ferraresi",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XI",
+      "anno": 1957,
+      "autore": "Elsa Morante",
+      "opera": "L'isola di Arturo",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XII",
+      "anno": 1958,
+      "autore": "Dino Buzzati",
+      "opera": "Sessanta racconti",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XIII",
+      "anno": 1959,
+      "autore": "Giuseppe Tomasi di Lampedusa",
+      "opera": "Il Gattopardo",
+      "casa_editrice": "Feltrinelli"
+    },
+    {
+      "edizione": "XIV",
+      "anno": 1960,
+      "autore": "Carlo Cassola",
+      "opera": "La ragazza di Bube",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XV",
+      "anno": 1961,
+      "autore": "Raffaele La Capria",
+      "opera": "Ferito a morte",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "XVI",
+      "anno": 1962,
+      "autore": "Mario Tobino",
+      "opera": "Il clandestino",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XVII",
+      "anno": 1963,
+      "autore": "Natalia Ginzburg",
+      "opera": "Lessico famigliare",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XVIII",
+      "anno": 1964,
+      "autore": "Giovanni Arpino",
+      "opera": "L'ombra delle colline",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XIX",
+      "anno": 1965,
+      "autore": "Paolo Volponi",
+      "opera": "La macchina mondiale",
+      "casa_editrice": "Garzanti"
+    },
+    {
+      "edizione": "XX",
+      "anno": 1966,
+      "autore": "Michele Prisco",
+      "opera": "Una spirale di nebbia",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXI",
+      "anno": 1967,
+      "autore": "Anna Maria Ortese",
+      "opera": "Poveri e semplici",
+      "casa_editrice": "Vallecchi"
+    },
+    {
+      "edizione": "XXII",
+      "anno": 1968,
+      "autore": "Alberto Bevilacqua",
+      "opera": "L'occhio del gatto",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXIII",
+      "anno": 1969,
+      "autore": "Lalla Romano",
+      "opera": "Le parole tra noi leggere",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XXIV",
+      "anno": 1970,
+      "autore": "Guido Piovene",
+      "opera": "Le stelle fredde",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XXV",
+      "anno": 1971,
+      "autore": "Raffaello Brignetti",
+      "opera": "La spiaggia d'oro",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXVI",
+      "anno": 1972,
+      "autore": "Giuseppe Dessì",
+      "opera": "Paese d'ombre",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XXVII",
+      "anno": 1973,
+      "autore": "Manlio Cancogni",
+      "opera": "Allegri, gioventù",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXVIII",
+      "anno": 1974,
+      "autore": "Guglielmo Petroni",
+      "opera": "La morte del fiume",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XXIX",
+      "anno": 1975,
+      "autore": "Tommaso Landolfi",
+      "opera": "A caso",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXX",
+      "anno": 1976,
+      "autore": "Fausta Cialente",
+      "opera": "Le quattro ragazze Wieselberger",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XXXI",
+      "anno": 1977,
+      "autore": "Fulvio Tomizza",
+      "opera": "La miglior vita",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXXII",
+      "anno": 1978,
+      "autore": "Ferdinando Camon",
+      "opera": "Un altare per la madre",
+      "casa_editrice": "Garzanti"
+    },
+    {
+      "edizione": "XXXIII",
+      "anno": 1979,
+      "autore": "Primo Levi",
+      "opera": "La chiave a stella",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XXXIV",
+      "anno": 1980,
+      "autore": "Vittorio Gorresio",
+      "opera": "La vita ingenua",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "XXXV",
+      "anno": 1981,
+      "autore": "Umberto Eco",
+      "opera": "Il nome della rosa",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "XXXVI",
+      "anno": 1982,
+      "autore": "Goffredo Parise",
+      "opera": "Sillabario n. 2",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XXXVII",
+      "anno": 1983,
+      "autore": "Mario Pomilio",
+      "opera": "Il Natale del 1833",
+      "casa_editrice": "Rusconi"
+    },
+    {
+      "edizione": "XXXVIII",
+      "anno": 1984,
+      "autore": "Pietro Citati",
+      "opera": "Tolstoj",
+      "casa_editrice": "Longanesi"
+    },
+    {
+      "edizione": "XXXIX",
+      "anno": 1985,
+      "autore": "Carlo Sgorlon",
+      "opera": "L'armata dei fiumi perduti",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XL",
+      "anno": 1986,
+      "autore": "Maria Bellonci",
+      "opera": "Rinascimento privato",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XLI",
+      "anno": 1987,
+      "autore": "Stanislao Nievo",
+      "opera": "Le isole del paradiso",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XLII",
+      "anno": 1988,
+      "autore": "Gesualdo Bufalino",
+      "opera": "Le menzogne della notte",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "XLIII",
+      "anno": 1989,
+      "autore": "Giuseppe Pontiggia",
+      "opera": "La grande sera",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XLIV",
+      "anno": 1990,
+      "autore": "Sebastiano Vassalli",
+      "opera": "La chimera",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XLV",
+      "anno": 1991,
+      "autore": "Paolo Volponi",
+      "opera": "La strada per Roma",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "XLVI",
+      "anno": 1992,
+      "autore": "Vincenzo Consolo",
+      "opera": "Nottetempo, casa per casa",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "XLVII",
+      "anno": 1993,
+      "autore": "Domenico Rea",
+      "opera": "Ninfa plebea",
+      "casa_editrice": "Leonardo"
+    },
+    {
+      "edizione": "XLVIII",
+      "anno": 1994,
+      "autore": "Giorgio Montefoschi",
+      "opera": "La casa del padre",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "XLIX",
+      "anno": 1995,
+      "autore": "Mariateresa Di Lascia",
+      "opera": "Passaggio in ombra",
+      "casa_editrice": "Feltrinelli"
+    },
+    {
+      "edizione": "L",
+      "anno": 1996,
+      "autore": "Alessandro Barbero",
+      "opera": "Bella vita e guerre altrui di Mr. Pyle, gentiluomo",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LI",
+      "anno": 1997,
+      "autore": "Claudio Magris",
+      "opera": "Microcosmi",
+      "casa_editrice": "Garzanti"
+    },
+    {
+      "edizione": "LII",
+      "anno": 1998,
+      "autore": "Enzo Siciliano",
+      "opera": "I bei momenti",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LIII",
+      "anno": 1999,
+      "autore": "Dacia Maraini",
+      "opera": "Buio",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "LIV",
+      "anno": 2000,
+      "autore": "Ernesto Ferrero",
+      "opera": "N.",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LV",
+      "anno": 2001,
+      "autore": "Domenico Starnone",
+      "opera": "Via Gemito",
+      "casa_editrice": "Feltrinelli"
+    },
+    {
+      "edizione": "LVI",
+      "anno": 2002,
+      "autore": "Margaret Mazzantini",
+      "opera": "Non ti muovere",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LVII",
+      "anno": 2003,
+      "autore": "Melania Mazzucco",
+      "opera": "Vita",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "LVIII",
+      "anno": 2004,
+      "autore": "Ugo Riccarelli",
+      "opera": "Il dolore perfetto",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LIX",
+      "anno": 2005,
+      "autore": "Maurizio Maggiani",
+      "opera": "Il viaggiatore notturno",
+      "casa_editrice": "Feltrinelli"
+    },
+    {
+      "edizione": "LX",
+      "anno": 2006,
+      "autore": "Sandro Veronesi",
+      "opera": "Caos calmo",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "LXI",
+      "anno": 2007,
+      "autore": "Niccolò Ammaniti",
+      "opera": "Come Dio comanda",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LXII",
+      "anno": 2008,
+      "autore": "Paolo Giordano",
+      "opera": "La solitudine dei numeri primi",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LXIII",
+      "anno": 2009,
+      "autore": "Tiziano Scarpa",
+      "opera": "Stabat Mater",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXIV",
+      "anno": 2010,
+      "autore": "Antonio Pennacchi",
+      "opera": "Canale Mussolini",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LXV",
+      "anno": 2011,
+      "autore": "Edoardo Nesi",
+      "opera": "Storia della mia gente",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "LXVI",
+      "anno": 2012,
+      "autore": "Alessandro Piperno",
+      "opera": "Inseparabili: il fuoco amico dei ricordi",
+      "casa_editrice": "Mondadori"
+    },
+    {
+      "edizione": "LXVII",
+      "anno": 2013,
+      "autore": "Walter Siti",
+      "opera": "Resistere non serve a niente",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "LXVIII",
+      "anno": 2014,
+      "autore": "Francesco Piccolo",
+      "opera": "Il desiderio di essere come tutti",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXIX",
+      "anno": 2015,
+      "autore": "Nicola Lagioia",
+      "opera": "La ferocia",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXX",
+      "anno": 2016,
+      "autore": "Edoardo Albinati",
+      "opera": "La scuola cattolica",
+      "casa_editrice": "Rizzoli"
+    },
+    {
+      "edizione": "LXXI",
+      "anno": 2017,
+      "autore": "Paolo Cognetti",
+      "opera": "Le otto montagne",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXXII",
+      "anno": 2018,
+      "autore": "Helena Janeczek",
+      "opera": "La ragazza con la Leica",
+      "casa_editrice": "Guanda"
+    },
+    {
+      "edizione": "LXXIII",
+      "anno": 2019,
+      "autore": "Antonio Scurati",
+      "opera": "M. Il figlio del secolo",
+      "casa_editrice": "Bompiani"
+    },
+    {
+      "edizione": "LXXIV",
+      "anno": 2020,
+      "autore": "Sandro Veronesi",
+      "opera": "Il colibrì",
+      "casa_editrice": "La nave di Teseo"
+    },
+    {
+      "edizione": "LXXV",
+      "anno": 2021,
+      "autore": "Emanuele Trevi",
+      "opera": "Due vite",
+      "casa_editrice": "Neri Pozza"
+    },
+    {
+      "edizione": "LXXVI",
+      "anno": 2022,
+      "autore": "Mario Desiati",
+      "opera": "Spatriati",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXXVII",
+      "anno": 2023,
+      "autore": "Ada D'Adamo",
+      "opera": "Come d'aria",
+      "casa_editrice": "Elliot"
+    },
+    {
+      "edizione": "LXXVIII",
+      "anno": 2024,
+      "autore": "Donatella Di Pietrantonio",
+      "opera": "L'età fragile",
+      "casa_editrice": "Einaudi"
+    },
+    {
+      "edizione": "LXXIX",
+      "anno": 2025,
+      "autore": "Andrea Bajani",
+      "opera": "L'anniversario",
+      "casa_editrice": "Feltrinelli"
+    },
+    {
+      "edizione": "LXXX",
+      "anno": 2026,
+      "autore": "Michele Mari",
+      "opera": "I convitati di pietra",
+      "casa_editrice": "Einaudi"
+    }
+  ],
+  "meta": {
+    "title": "Premio Strega — vincitori - Free Download",
+    "description": "Albo d'oro del Premio Strega: autori, opere vincitrici e case editrici dal 1947. Contains 80 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premio Strega — vincitori | ListBase",
+    "seo_description": "Download Premio Strega — vincitori — 80 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 80 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Premio_Strega"
+    ]
+  }
+}

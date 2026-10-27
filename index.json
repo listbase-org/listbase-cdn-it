@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:53.314Z",
-  "total_datasets": 467,
-  "total_records": 137507,
+  "generated": "2026-10-27T02:12:55.946Z",
+  "total_datasets": 468,
+  "total_records": 137587,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "economy",
@@ -171,6 +171,32 @@
         "xlsx": {
           "name": "it-patrimonio-mondiale-unesco_IT.xlsx",
           "size": 24377
+        }
+      }
+    },
+    {
+      "id": "it-premio-strega-vincitori",
+      "name": "Premio Strega — vincitori",
+      "category": "culture",
+      "record_count": 80,
+      "columns": [
+        "edizione",
+        "anno",
+        "autore",
+        "opera",
+        "casa_editrice"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Premio_Strega",
+      "updated": "2026-10",
+      "size": 14709,
+      "files": {
+        "csv": {
+          "name": "it-premio-strega-vincitori_IT.csv",
+          "size": 5176
+        },
+        "xlsx": {
+          "name": "it-premio-strega-vincitori_IT.xlsx",
+          "size": 10816
         }
       }
     },
