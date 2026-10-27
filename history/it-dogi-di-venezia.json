@@ -1,0 +1,905 @@
+{
+  "id": "it-dogi-di-venezia",
+  "name": "Dogi della Repubblica di Venezia",
+  "title": "Dogi della Repubblica di Venezia",
+  "description": "Elenco cronologico dei dogi della Repubblica di Venezia dal 697 al 1797.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Venezia",
+  "source_url": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Venezia",
+  "updated": "2026-10",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "number"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "Paoluccio Anafesto (... – 717)",
+      "inizio": 697,
+      "fine": 717,
+      "note": "Il cognome Anafesto è di tarda attribuzione. Definì con Liutprando, re longobardo, i confini di Eraclea. Fu il primo duca bizantino della Venezia. Svariati storici e genealogisti hanno messo in dubbio la storicità di Paulicio."
+    },
+    {
+      "n": 2,
+      "nome": "Marcello Tegalliano (... – 726)",
+      "inizio": 717,
+      "fine": 726,
+      "note": "Il cognome Tegalliano è di tarda attribuzione. Prese le parti del patriarca di Grado contro quello di Eraclea nella questione del culto delle immagini. Primo tentativo per rendersi indipendente da Bisanzio."
+    },
+    {
+      "n": 3,
+      "nome": "Orso Ipato (... – 737)",
+      "inizio": 726,
+      "fine": "737 (assassinato)",
+      "note": "Perì per mano dei bizantini."
+    },
+    {
+      "n": 4,
+      "nome": "Orso Diodato Ipato (... – 755)",
+      "inizio": 742,
+      "fine": "755 (deposto)",
+      "note": "Già magister militum nel 740. Spostò la sede del governo da Eraclea filo-bizantina a Malamocco in laguna. Primo doge di una Venetia indipendente, libera di eleggere il proprio doge."
+    },
+    {
+      "n": 5,
+      "nome": "Galla Gaulo (... – 756)",
+      "inizio": 755,
+      "fine": "756 (deposto)",
+      "note": ""
+    },
+    {
+      "n": 6,
+      "nome": "Domenico Monegario (... – 764)",
+      "inizio": 756,
+      "fine": "764 (deposto)",
+      "note": ""
+    },
+    {
+      "n": 7,
+      "nome": "Maurizio Galbaio (IV decennio dell'VIII sec. – 797)",
+      "inizio": 764,
+      "fine": 797,
+      "note": ""
+    },
+    {
+      "n": 8,
+      "nome": "Giovanni Galbaio (metà dell'VIII sec. – 804)",
+      "inizio": 797,
+      "fine": "804 (deposto)",
+      "note": "Figlio di Maurizio Galbaio"
+    },
+    {
+      "n": 9,
+      "nome": "Obelerio Antenoreo (... – 829 ca.)",
+      "inizio": 804,
+      "fine": "810 (deposto)",
+      "note": "Il cognome Antenoreo è di tarda attribuzione."
+    },
+    {
+      "n": 10,
+      "nome": "Agnello Partecipazio (... – 827)",
+      "inizio": 811,
+      "fine": 827,
+      "note": "1º doge appartenente alla famiglia dei Partecipazi / Particiaci Agnello, con associato il figlio Giovanni, trasferisce la sede del governo lagunare da Malamocco a Rialto, dove ha inizio la costruzione di un nuovo palazzo ducale. È finita la Venezia bizantina, nasce quella ducale."
+    },
+    {
+      "n": 11,
+      "nome": "Giustiniano Partecipazio (... – 829)",
+      "inizio": 827,
+      "fine": 829,
+      "note": "Figlio di Agnello Partecipazio; 2º doge appartenente alla famiglia dei Partecipazi / Particiaci Durante il suo dogado ci fu la traslazione del corpo di San Marco da Alessandria d'Egitto. Il corpo dell'evangelista fu deposto nella chiesa di San Teodoro in attesa della costruzione di una nuova chiesa a lui dedicata."
+    },
+    {
+      "n": 12,
+      "nome": "Giovanni I Partecipazio (... – 836 ca.)",
+      "inizio": 829,
+      "fine": "836 (deposto)",
+      "note": "Figlio di Agnello Partecipazio; 3º doge appartenente alla famiglia dei Partecipazi / Particiaci"
+    },
+    {
+      "n": 13,
+      "nome": "Pietro Tradonico (... – 864)",
+      "inizio": 836,
+      "fine": "13 settembre 864 (assassinato)",
+      "note": ""
+    },
+    {
+      "n": 14,
+      "nome": "Orso I Partecipazio (... – 881)",
+      "inizio": 864,
+      "fine": 881,
+      "note": "4º doge appartenente alla famiglia dei Partecipazi / Particiaci"
+    },
+    {
+      "n": 15,
+      "nome": "Giovanni II Partecipazio (... – 887)",
+      "inizio": 881,
+      "fine": "887 (abdica)",
+      "note": "Figlio di Orso I Partecipazio; 5º doge appartenente alla famiglia dei Partecipazi / Particiaci"
+    },
+    {
+      "n": 16,
+      "nome": "Pietro I Candiano (842 – 887)",
+      "inizio": "aprile 887",
+      "fine": "18 settembre 887 (caduto in battaglia)",
+      "note": "1º doge appartenente alla famiglia dei Candiano"
+    },
+    {
+      "n": 17,
+      "nome": "Pietro Tribuno (... – 911)",
+      "inizio": 887,
+      "fine": 912,
+      "note": ""
+    },
+    {
+      "n": 18,
+      "nome": "Orso II Partecipazio (... – ...)",
+      "inizio": 912,
+      "fine": "932 (abdica)",
+      "note": "6º doge appartenente alla famiglia dei Partecipazi / Particiaci Si ritirò nel monastero di San Felice di Ammiana. È venerato come beato dalla chiesa veneziana."
+    },
+    {
+      "n": 19,
+      "nome": "Pietro II Candiano (... – 939)",
+      "inizio": 932,
+      "fine": 939,
+      "note": "Figlio di Pietro I Candiano; 2º doge appartenente alla famiglia dei Candiano"
+    },
+    {
+      "n": 20,
+      "nome": "Pietro Partecipazio (... – 942)",
+      "inizio": 939,
+      "fine": 942,
+      "note": "Figlio di Orso II Partecipazio; 7º doge appartenente alla famiglia dei Partecipazi / Particiaci"
+    },
+    {
+      "n": 21,
+      "nome": "Pietro III Candiano (... – 959)",
+      "inizio": 942,
+      "fine": "959 (deposto)",
+      "note": "Figlio di Pietro II Candiano; 3º doge appartenente alla famiglia dei Candiano"
+    },
+    {
+      "n": 22,
+      "nome": "Pietro IV Candiano (... – 976)",
+      "inizio": 959,
+      "fine": "976 (trucidato in una rivolta)",
+      "note": "Figlio di Pietro III Candiano; 4º doge appartenente alla famiglia dei Candiano"
+    },
+    {
+      "n": 23,
+      "nome": "Pietro I Orseolo (928 – 987)",
+      "inizio": 976,
+      "fine": "1º settembre 978 (ritirato a vita monastica)",
+      "note": "1º doge appartenente alla famiglia degli Orseolo Nel 1731 fu proclamato santo dalla Chiesa cattolica Fece erigere vicino al campanile di San Marco un ospizio per ospitare i pellegrini."
+    },
+    {
+      "n": 24,
+      "nome": "Vitale Candiano (... – ...)",
+      "inizio": 978,
+      "fine": "979 (abdica)",
+      "note": "Figlio di Pietro IV Candiano; 5º doge appartenente alla famiglia dei Candiano Per problemi di salute decise di abdicare e ritirarsi nel monastero di Sant'Ilario."
+    },
+    {
+      "n": 25,
+      "nome": "Tribuno Memmo (... – 991)",
+      "inizio": 979,
+      "fine": "991 (abdica)",
+      "note": "1º doge appartenente alla famiglia dei Memmo Fece diventare la Basilica di San Marco la cappella privata del doge, libera dall'asservimento alla Chiesa. Fu costretto ad abdicare e a farsi monaco."
+    },
+    {
+      "n": 26,
+      "nome": "Pietro II Orseolo (961 – 1009)",
+      "inizio": 991,
+      "fine": 1009,
+      "note": "Figlio di Pietro I Orseolo; 2º doge appartenente alla famiglia degli Orseolo Sottomise la Dalmazia e diede inizio al dominio veneziano sull'Adriatico."
+    },
+    {
+      "n": 27,
+      "nome": "Ottone Orseolo (993 – 1032)",
+      "inizio": 1009,
+      "fine": "1026 (deposto)",
+      "note": "Figlio di Pietro II Orseolo; 3º doge appartenente alla famiglia degli Orseolo"
+    },
+    {
+      "n": 28,
+      "nome": "Pietro Centranico (Barbolano) (... – dopo il 1032)",
+      "inizio": 1026,
+      "fine": "1030 (deposto)",
+      "note": "Fu esiliato a Costantinopoli, dove morì monaco."
+    },
+    {
+      "n": "—",
+      "nome": "Orso Orseolo (988 – 1049)",
+      "inizio": 1030,
+      "fine": 1032,
+      "note": "Figlio di Pietro II Orseolo; patriarca di Grado ; reggente ducale per conto del fratello Ottone Orseolo. Governò per quattordici mesi impegnandosi a restaurare le chiese del suo patriarcato."
+    },
+    {
+      "n": "—",
+      "nome": "Domenico Orseolo (... – dopo il 1036)",
+      "inizio": 1032,
+      "fine": "1032 (deposto)",
+      "note": "Nominato doge dal patriarca Orso, ma rigettato dall'assemblea popolare. Fu esiliato a Ravenna dove morì."
+    },
+    {
+      "n": 29,
+      "nome": "Domenico Flabanico (... – 1041)",
+      "inizio": 1032,
+      "fine": 1043,
+      "note": ""
+    },
+    {
+      "n": 30,
+      "nome": "Domenico I Contarini (... – 1071)",
+      "inizio": 1043,
+      "fine": 1071,
+      "note": "1º doge appartenente alla famiglia Contarini Tra il 1050 e il 1071 ricostruì la Basilica di San Marco ed eresse il monastero e la chiesa di San Nicolò del Lido dove fu sepolto."
+    },
+    {
+      "n": 31,
+      "nome": "Domenico Silvo (... – 1087)",
+      "inizio": 1071,
+      "fine": "1084 (deposto)",
+      "note": ""
+    },
+    {
+      "n": 32,
+      "nome": "Vitale Falier (... – 1096)",
+      "inizio": 1084,
+      "fine": 1096,
+      "note": "1º doge appartenente alla famiglia Falier"
+    },
+    {
+      "n": 33,
+      "nome": "Vitale I Michiel (... – 1102)",
+      "inizio": 1096,
+      "fine": 1102,
+      "note": "1º doge appartenente alla famiglia Michiel"
+    },
+    {
+      "n": 34,
+      "nome": "Ordelaffo Falier (1070 – 1117)",
+      "inizio": 1102,
+      "fine": "1117 (caduto in battaglia)",
+      "note": "2º doge appartenente alla famiglia Falier Nel 1117 un terremoto distrusse e sommerse Malamocco. Il doge morì nel 1118 a Zara in combattimento contro gli ungheresi."
+    },
+    {
+      "n": 35,
+      "nome": "Domenico Michiel (... – 1130 ca.)",
+      "inizio": 1117,
+      "fine": "1130 (abdica)",
+      "note": "2º doge appartenente alla famiglia Michiel"
+    },
+    {
+      "n": 36,
+      "nome": "Pietro Polani (1098 – 1148)",
+      "inizio": 1130,
+      "fine": 1148,
+      "note": "Il suo dogado è ricordato per l'istituzione di un Consiglio di Savi che aveva il compito di affiancare il doge nell'esercizio del potere."
+    },
+    {
+      "n": 37,
+      "nome": "Domenico Morosini (... – 1156)",
+      "inizio": 1148,
+      "fine": "febbraio 1156",
+      "note": "1º doge appartenente alla famiglia Morosini"
+    },
+    {
+      "n": 38,
+      "nome": "Vitale II Michiel (... – 1172)",
+      "inizio": 1156,
+      "fine": "1172 (assassinato)",
+      "note": "3º doge appartenente alla famiglia Michiel"
+    },
+    {
+      "n": 39,
+      "nome": "Sebastiano Ziani (1102 ca. – 1178)",
+      "inizio": "29 settembre 1172",
+      "fine": "28 maggio 1178",
+      "note": "1º doge appartenente alla famiglia Ziani Fu il doge della pace, della mediazione tra papa Alessandro III e Federico Barbarossa. Nel 1177, dopo quattro mesi di trattative il Barbarossa fu accolto dal papa nell'atrio della Basilica e questo portò ala \"pace di Venezia. Il papa donò al doge un anello in segno della supremazia in Adriatico: da questo fatto nacque la cerimonia dello \"sposalizio del mare\""
+    },
+    {
+      "n": 40,
+      "nome": "Orio Mastropiero (... – 1192 ca.)",
+      "inizio": "17 aprile 1178",
+      "fine": "1192 (abdica)",
+      "note": "Nel 1181 venne varata la promissione al maleficio il primo codice penale che sanciva pene molto severe per i danni ai beni dei cittadini. Si ritirò nel monastero di Santa Croce ove poco tempo dopo morì."
+    },
+    {
+      "n": 41,
+      "nome": "Enrico Dandolo (1107 ca. – 1205)",
+      "inizio": "21 giugno 1192",
+      "fine": "1º giugno 1205",
+      "note": "1º doge appartenente alla famiglia Dandolo È il doge della IV crociata. Conquistò Zara e Costantinopoli che fu depredata dei quattro cavalli di bronzo dorato e di molte reliquie che confluirono nel tesoro di San Marco."
+    },
+    {
+      "n": 42,
+      "nome": "Pietro Ziani (... – 1229)",
+      "inizio": "5 agosto 1205",
+      "fine": "26 febbraio 1229 (abdica)",
+      "note": "Figlio di Sebastiano Ziani; 2º doge appartenente alla famiglia Ziani"
+    },
+    {
+      "n": 43,
+      "nome": "Jacopo Tiepolo (... – 1249)",
+      "inizio": "6 marzo 1229",
+      "fine": "2 maggio 1249 (abdica)",
+      "note": "1º doge appartenente alla famiglia Tiepolo Il suo dogado è ricordato per la creazione del Consiglio dei Pregadi (il Senato) e per il Capitulare navium , il codice di diritto marittimo."
+    },
+    {
+      "n": 44,
+      "nome": "Marino Morosini (1181 – 1253)",
+      "inizio": "13 giugno 1249",
+      "fine": "1º gennaio 1253",
+      "note": "2º doge appartenente alla famiglia Morosini Venne istituita la magistratura dei Signori di notte , una sorta di polizia notturna che vigilava contro i criminali."
+    },
+    {
+      "n": 45,
+      "nome": "Ranieri Zeno (... – 1268)",
+      "inizio": "8 gennaio 1253",
+      "fine": "7 luglio 1268",
+      "note": ""
+    },
+    {
+      "n": 46,
+      "nome": "Lorenzo Tiepolo (... – 1275)",
+      "inizio": "23 luglio 1268",
+      "fine": "15 agosto 1275",
+      "note": "Figlio di Jacopo Tiepolo; 2º doge appartenente alla famiglia Tiepolo Venne creata la figura del Cancellier grande . La promissione ducale venne corretta con un limite ai poteri del doge e il divieto di ricevere feudi o prestiti da stati stranieri e di sposarsi con donne straniere."
+    },
+    {
+      "n": 47,
+      "nome": "Jacopo Contarini (1193 ca. – 1280)",
+      "inizio": "6 settembre 1275",
+      "fine": "6 marzo 1280 (abdica)",
+      "note": "2º doge appartenente alla famiglia Contarini"
+    },
+    {
+      "n": 48,
+      "nome": "Giovanni Dandolo (... – 1289)",
+      "inizio": "31 marzo 1280",
+      "fine": "2 novembre 1289",
+      "note": "2º doge appartenente alla famiglia Dandolo Nel 1284 fu coniata la più celebre delle monete veneziane, il ducato d'oro, che, a partire dal XVI secolo prenderà il nome di zecchino in quanto prodotto nella Zecca di stato."
+    },
+    {
+      "n": 49,
+      "nome": "Pietro Gradenigo (1251 – 1311)",
+      "inizio": "25 novembre 1289",
+      "fine": "13 agosto 1311",
+      "note": "1º doge appartenente alla famiglia Gradenigo Durante il suo dogado con la \"serrata\" del Maggior Consiglio avvenuta nel 1297 ci fu la trasformazione della Repubblica in uno Stato aristocratico. Nel 1310 venne istituito il Consiglio dei Dieci per vigilare e reprimere qualunque minaccia alla sicurezza dello stato."
+    },
+    {
+      "n": 50,
+      "nome": "Marino Zorzi (1231 ca. – 1312)",
+      "inizio": "23 agosto 1311",
+      "fine": "3 luglio 1312",
+      "note": "dopo la sua morte, in sua memoria la famiglia prese il cognome Zazzera o Zazzara e cambiò anche lo scudo della famiglia"
+    },
+    {
+      "n": 51,
+      "nome": "Giovanni Soranzo (1240 – 1328)",
+      "inizio": "13 luglio 1312",
+      "fine": "31 dicembre 1328",
+      "note": ""
+    },
+    {
+      "n": 52,
+      "nome": "Francesco Dandolo (1258 ca. – 1339)",
+      "inizio": "4 gennaio 1329",
+      "fine": "31 ottobre 1339",
+      "note": "3º doge appartenente alla famiglia Dandolo"
+    },
+    {
+      "n": 53,
+      "nome": "Bartolomeo Gradenigo (1260 – 1342)",
+      "inizio": "7 novembre 1339",
+      "fine": "28 dicembre 1342",
+      "note": "2º doge appartenente alla famiglia Gradenigo"
+    },
+    {
+      "n": 54,
+      "nome": "Andrea Dandolo (1306 – 1354)",
+      "inizio": "4 gennaio 1343",
+      "fine": "7 settembre 1354",
+      "note": "4º doge appartenente alla famiglia Dandolo Letterato, amico di Francesco Petrarca che lo ricorda come \"giusto, incorruttibile, pieno di zelo e di amore per la patria e insieme erudito, di rara eloquenza, saggio, affidabile, umano\". Scrisse due cronache che rimangono importanti per quanto concerne le origini di Venezia nonostante certe inesattezze storiche. Durante il suo dogado Venezia fu colpita da un terremoto e dalla peste nera che ridusse la popolazione di tre quarti dei suoi abitanti."
+    },
+    {
+      "n": 55,
+      "nome": "Marino Falier (1274 – 1355)",
+      "inizio": "16 settembre 1354",
+      "fine": "17 aprile 1355 (giustiziato per tradimento)",
+      "note": "3º doge appartenente alla famiglia Falier Fu condannato a morte per avere cospirato contro la Repubblica. Nella serie dei ritratti dei dogi della sala del Maggior Consiglio in Palazzo Ducale c'è un drappo nero con la scritta: HIC EST LOCUS MARINI FALETRO DECAPITATI PRO CRIMINIBVS"
+    },
+    {
+      "n": 56,
+      "nome": "Giovanni Gradenigo (1279 ca. – 1356)",
+      "inizio": "21 aprile 1355",
+      "fine": "8 agosto 1356",
+      "note": "3º doge appartenente alla famiglia Gradenigo"
+    },
+    {
+      "n": 57,
+      "nome": "Giovanni Dolfin (1303 ca. – 1361)",
+      "inizio": "13 agosto 1356",
+      "fine": "12 luglio 1361",
+      "note": ""
+    },
+    {
+      "n": 58,
+      "nome": "Lorenzo Celsi (1310 ca. – 1365)",
+      "inizio": "16 luglio 1361",
+      "fine": "18 luglio 1365",
+      "note": ""
+    },
+    {
+      "n": 59,
+      "nome": "Marco Corner (1285 – 1368)",
+      "inizio": "21 luglio 1365",
+      "fine": "13 gennaio 1368",
+      "note": "1º doge appartenente alla famiglia Corner A lui si deve la costruzione della facciata gotica del Palazzo Ducale."
+    },
+    {
+      "n": 60,
+      "nome": "Andrea Contarini (1300/1302 – 1382)",
+      "inizio": "20 gennaio 1368",
+      "fine": "5 giugno 1382",
+      "note": "3º doge appartenente alla famiglia Contarini Durante il suo dogado ci fu la sanguinosa guerra di Chioggia. Venezia corse un grave pericolo ma riuscì a resistere. La pace di Torino del 1381 impose dure condizioni ma Venezia fu salva. Nel 1380 venne istituito il Collegio dei Savi per limitare i poteri del doge; costituiva il consiglio dei ministri della Repubblica."
+    },
+    {
+      "n": 61,
+      "nome": "Michele Morosini (1308 – 1382)",
+      "inizio": "10 giugno 1382",
+      "fine": "16 ottobre 1382",
+      "note": "3º doge appartenente alla famiglia Morosini Morì di peste dopo appena quattro mesi di dogado."
+    },
+    {
+      "n": 62,
+      "nome": "Antonio Venier (1330 ca. – 1400)",
+      "inizio": "21 ottobre 1382",
+      "fine": "23 novembre 1400",
+      "note": "1º doge appartenente alla famiglia Venier Ricostruì Chioggia, devastata dalla guerra e lastricò il pavimento di Piazza San Marco. Estese i domini in Levante con Nauplia, Argo in Morea, Scutari, Durazzo e riconquistò Corfù. Riacquistò Treviso, Conegliano e Ceneda."
+    },
+    {
+      "n": 63,
+      "nome": "Michele Steno (1331 – 1413)",
+      "inizio": "1º dicembre 1400",
+      "fine": "26 dicembre 1413",
+      "note": "Soprannominato dux stellifer , accrebbe di molto i domini di terraferma con Padova, Verona, Vicenza, i Sette Comuni dell'altipiano di Asiago, Feltre, Belluno e Cividale. Riconquistò Zara e alcune zone della Dalmazia."
+    },
+    {
+      "n": 64,
+      "nome": "Tommaso Mocenigo (1343 – 1423)",
+      "inizio": "7 gennaio 1414",
+      "fine": "4 aprile 1423",
+      "note": "1º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 65,
+      "nome": "Francesco Foscari (1373 – 1457)",
+      "inizio": "15 aprile 1423",
+      "fine": "25 ottobre 1457 (abdica)",
+      "note": "Dal 1424 iniziò i lavori per la ristrutturazione del Palazzo Ducale. La pace di Lodi del 1454 fissò i confini dello \"stato di terra\" dall'Isonzo all'Adda e dalle Alpi al Po, comprendendo così Veneto, Friuli, Cadore, Brescia e Bergamo. A 84 anni fu costretto ad abdicare dopo 34 anni di dogado."
+    },
+    {
+      "n": 66,
+      "nome": "Pasquale Malipiero (1392 ca. – 1462)",
+      "inizio": "30 ottobre 1457",
+      "fine": "7 maggio 1462",
+      "note": ""
+    },
+    {
+      "n": 67,
+      "nome": "Cristoforo Moro (1390 – 1471)",
+      "inizio": "12 maggio 1462",
+      "fine": "9 novembre 1471",
+      "note": ""
+    },
+    {
+      "n": 68,
+      "nome": "Nicolò Tron (1399 – 1473)",
+      "inizio": "25 novembre 1471",
+      "fine": "28 luglio 1473",
+      "note": "Fece una riforma fiscale per risanare un enorme crac finanziario."
+    },
+    {
+      "n": 69,
+      "nome": "Nicolò Marcello (1397 – 1474)",
+      "inizio": "13 agosto 1473",
+      "fine": "1º dicembre 1474",
+      "note": ""
+    },
+    {
+      "n": 70,
+      "nome": "Pietro Mocenigo (1406 – 1476)",
+      "inizio": "14 dicembre 1474",
+      "fine": "23 febbraio 1476",
+      "note": "2º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 71,
+      "nome": "Andrea Vendramin (1393 – 1478)",
+      "inizio": "5 marzo 1476",
+      "fine": "5 maggio 1478",
+      "note": ""
+    },
+    {
+      "n": 72,
+      "nome": "Giovanni Mocenigo (1409 – 1485)",
+      "inizio": "18 maggio 1478",
+      "fine": "14 settembre 1485",
+      "note": "Fratello di Pietro Mocenigo; 3º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 73,
+      "nome": "Marco Barbarigo (1413 – 1486)",
+      "inizio": "19 novembre 1485",
+      "fine": "14 agosto 1486",
+      "note": "1º doge appartenente alla famiglia Barbarigo"
+    },
+    {
+      "n": 74,
+      "nome": "Agostino Barbarigo (1419 – 1501)",
+      "inizio": "30 agosto 1486",
+      "fine": "20 settembre 1501",
+      "note": "Fratello di Marco Barbarigo; 2º doge appartenente alla famiglia Barbarigo"
+    },
+    {
+      "n": 75,
+      "nome": "Leonardo Loredan (1436 – 1521)",
+      "inizio": "2 ottobre 1501",
+      "fine": "21 giugno 1521",
+      "note": "1º doge appartenente alla famiglia Loredan Resistette all'intera Europa coalizzata nella Lega di Cambrai e dopo la sconfitta di Agnadello nel 1509 la Repubblica perse quasi tutti i possessi di terraferma."
+    },
+    {
+      "n": 76,
+      "nome": "Antonio Grimani (1434 – 1523)",
+      "inizio": "6 luglio 1521",
+      "fine": "7 maggio 1523",
+      "note": "1º doge appartenente alla famiglia Grimani Divenuto doge a ottantasette anni fece costruire le Procuratie Nove e ricostruire la punta del campanile abbattuta da un terremoto. Durante il suo dogado furono coniate le prime oselle , monete d'oro o d'argento che il doge regalava ai membri del Maggior Consiglio."
+    },
+    {
+      "n": 77,
+      "nome": "Andrea Gritti (1455 – 1538)",
+      "inizio": "20 maggio 1523",
+      "fine": "28 dicembre 1538",
+      "note": ""
+    },
+    {
+      "n": 78,
+      "nome": "Pietro Lando (1462 – 1545)",
+      "inizio": "19 gennaio 1539",
+      "fine": "9 novembre 1545",
+      "note": "Contribuì all'abbellimento della città. Sansovino lavorò alla Loggetta ai piedi del campanile di San Marco, alla Libreria e alla Zecca."
+    },
+    {
+      "n": 79,
+      "nome": "Francesco Donà (1468 – 1553)",
+      "inizio": "24 novembre 1545",
+      "fine": "23 maggio 1553",
+      "note": "1º doge appartenente alla famiglia Donà"
+    },
+    {
+      "n": 80,
+      "nome": "Marcantonio Trevisan (1475 ca. – 1554)",
+      "inizio": "4 luglio 1553",
+      "fine": "31 maggio 1554",
+      "note": ""
+    },
+    {
+      "n": 81,
+      "nome": "Francesco Venier (1489 – 1556)",
+      "inizio": "11 giugno 1554",
+      "fine": "2 giugno 1556",
+      "note": "2º doge appartenente alla famiglia Venier"
+    },
+    {
+      "n": 82,
+      "nome": "Lorenzo Priuli (1489 – 1559)",
+      "inizio": "14 giugno 1556",
+      "fine": "17 agosto 1559",
+      "note": "1º doge appartenente alla famiglia Priuli"
+    },
+    {
+      "n": 83,
+      "nome": "Girolamo Priuli (1486 – 1567)",
+      "inizio": "1º settembre 1559",
+      "fine": "4 novembre 1567",
+      "note": "Fratello di Lorenzo Priuli; 2º doge appartenente alla famiglia Priuli"
+    },
+    {
+      "n": 84,
+      "nome": "Pietro Loredan (1482 – 1570)",
+      "inizio": "26 novembre 1567",
+      "fine": "3 maggio 1570",
+      "note": "2º doge appartenente alla famiglia Loredan"
+    },
+    {
+      "n": 85,
+      "nome": "Alvise I Mocenigo (1507 – 1577)",
+      "inizio": "15 maggio 1570",
+      "fine": "4 giugno 1577",
+      "note": "4º doge appartenente alla famiglia Mocenigo Nel 1574 un terribile incendio devastò il Palazzo Ducale. Nel 1575 una pestilenza uccise cinquantamila persone."
+    },
+    {
+      "n": 86,
+      "nome": "Sebastiano Venier (1496 ca. – 1578)",
+      "inizio": "11 giugno 1577",
+      "fine": "3 marzo 1578",
+      "note": "3º doge appartenente alla famiglia Venier Il 20 dicembre 1577 un devastante incendio rovinò la Sala dello Scrutinio e quella del Maggior Consiglio distruggendo molte opere d'arte."
+    },
+    {
+      "n": 87,
+      "nome": "Nicolò Da Ponte (1491 – 1585)",
+      "inizio": "11 marzo 1578",
+      "fine": "30 luglio 1585",
+      "note": ""
+    },
+    {
+      "n": 88,
+      "nome": "Pasquale Cicogna (1509 – 1595)",
+      "inizio": "18 agosto 1585",
+      "fine": "2 aprile 1595",
+      "note": "Promosse importanti opere pubbliche, tra cui la fortezza militare di Palmanova, il rifacimento della basilica di San Pietro di Castello e la costruzione in pietra del Ponte di Rialto."
+    },
+    {
+      "n": 89,
+      "nome": "Marino Grimani (1532 – 1605)",
+      "inizio": "26 aprile 1595",
+      "fine": "25 dicembre 1605",
+      "note": "2º doge appartenente alla famiglia Grimani"
+    },
+    {
+      "n": 90,
+      "nome": "Leonardo Donà (1536 – 1612)",
+      "inizio": "10 gennaio 1606",
+      "fine": "16 luglio 1612",
+      "note": "2º doge appartenente alla famiglia Donà Alla richiesta del papa Paolo V di abrogare le leggi antiecclesiastiche emanate ai tempi del Grimani e di estradare due preti incarcerati in territorio veneto, il Senato, ispirato da Paolo Sarpi diffuse il Protesto con il quale il monito del papa veniva considerato nullo."
+    },
+    {
+      "n": 91,
+      "nome": "Marcantonio Memmo (1536 – 1615)",
+      "inizio": "24 luglio 1612",
+      "fine": "31 ottobre 1615",
+      "note": ""
+    },
+    {
+      "n": 92,
+      "nome": "Giovanni Bembo (1543 – 1618)",
+      "inizio": "2 dicembre 1615",
+      "fine": "16 marzo 1618",
+      "note": ""
+    },
+    {
+      "n": 93,
+      "nome": "Nicolò Donà (1540 – 1618)",
+      "inizio": "4 aprile 1618",
+      "fine": "9 maggio 1618",
+      "note": "3º doge appartenente alla famiglia Donà"
+    },
+    {
+      "n": 94,
+      "nome": "Antonio Priuli (1548 – 1623)",
+      "inizio": "17 maggio 1618",
+      "fine": "12 agosto 1623",
+      "note": "3º doge appartenente alla famiglia Priuli"
+    },
+    {
+      "n": 95,
+      "nome": "Francesco Contarini (1556 – 1624)",
+      "inizio": "8 settembre 1623",
+      "fine": "6 dicembre 1624",
+      "note": "4º doge appartenente alla famiglia Contarini"
+    },
+    {
+      "n": 96,
+      "nome": "Giovanni I Corner (1551 – 1629)",
+      "inizio": "4 gennaio 1625",
+      "fine": "23 dicembre 1629",
+      "note": "2º doge appartenente alla famiglia Corner"
+    },
+    {
+      "n": 97,
+      "nome": "Nicolò Contarini (1553 – 1631)",
+      "inizio": "18 gennaio 1630",
+      "fine": "2 aprile 1631",
+      "note": "5º doge appartenente alla famiglia Contarini Il doge fece erigere la basilica della Salute per ringraziare la Vergine della guarigione della città dalla peste e promise di andare ogni anni in processione a questo tempio."
+    },
+    {
+      "n": 98,
+      "nome": "Francesco Erizzo (1566 – 1646)",
+      "inizio": "10 aprile 1631",
+      "fine": "3 gennaio 1646",
+      "note": ""
+    },
+    {
+      "n": 99,
+      "nome": "Francesco Molin (1575 – 1655)",
+      "inizio": "20 gennaio 1646",
+      "fine": "27 febbraio 1655",
+      "note": "Poiché le casse dello stato si svuotavano a causa della guerra, la Repubblica decise di riaprire le porte del patriziato: fu possibile quindi richiedere il titolo nobiliare presentando una supplica al Senato e al Maggior Consiglio previo pagamento di centomila ducati."
+    },
+    {
+      "n": 100,
+      "nome": "Carlo Contarini (1580 – 1656)",
+      "inizio": "27 marzo 1655",
+      "fine": "1º maggio 1656",
+      "note": "6º doge appartenente alla famiglia Contarini"
+    },
+    {
+      "n": 101,
+      "nome": "Francesco Corner (1585 – 1656)",
+      "inizio": "17 maggio 1656",
+      "fine": "5 giugno 1656",
+      "note": "3º doge appartenente alla famiglia Corner"
+    },
+    {
+      "n": 102,
+      "nome": "Bertuccio Valier (1596 – 1658)",
+      "inizio": "15 giugno 1656",
+      "fine": "29 marzo 1658",
+      "note": "1º doge appartenente alla famiglia Valier"
+    },
+    {
+      "n": 103,
+      "nome": "Giovanni Pesaro (1589 – 1659)",
+      "inizio": "8 aprile 1658",
+      "fine": "30 settembre 1659",
+      "note": ""
+    },
+    {
+      "n": 104,
+      "nome": "Domenico II Contarini (1585 – 1675)",
+      "inizio": "16 ottobre 1659",
+      "fine": "26 gennaio 1675",
+      "note": "7º doge appartenente alla famiglia Contarini"
+    },
+    {
+      "n": 105,
+      "nome": "Nicolò Sagredo (1606 – 1676)",
+      "inizio": "6 febbraio 1675",
+      "fine": "14 agosto 1676",
+      "note": "1º doge appartenente alla famiglia Sagredo"
+    },
+    {
+      "n": 106,
+      "nome": "Alvise Contarini (1601 – 1684)",
+      "inizio": "26 agosto 1676",
+      "fine": "15 gennaio 1684",
+      "note": "8º doge appartenente alla famiglia Contarini"
+    },
+    {
+      "n": 107,
+      "nome": "Marcantonio Giustinian (1619 – 1688)",
+      "inizio": "26 gennaio 1684",
+      "fine": "23 marzo 1688",
+      "note": ""
+    },
+    {
+      "n": 108,
+      "nome": "Francesco Morosini il Peloponnesiaco (1619 – 1694)",
+      "inizio": "3 aprile 1688",
+      "fine": "6 gennaio 1694",
+      "note": "4º doge appartenente alla famiglia Morosini Conquistò la Morea e l'impresa gli valse l'appellativo di Peloponnesiaco . Fece bombardare Il Partenone di Atene dove i turchi avevano collocato una polveriera; l'esplosione provocò gravi danni all'antico tempio."
+    },
+    {
+      "n": 109,
+      "nome": "Silvestro Valier (1630 – 1700)",
+      "inizio": "25 febbraio 1694",
+      "fine": "7 luglio 1700",
+      "note": "Figlio di Bertuccio Valier; 2º doge appartenente alla famiglia Valier"
+    },
+    {
+      "n": 110,
+      "nome": "Alvise II Mocenigo (1628 – 1709)",
+      "inizio": "17 luglio 1700",
+      "fine": "6 maggio 1709",
+      "note": "5º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 111,
+      "nome": "Giovanni II Corner (1647 – 1722)",
+      "inizio": "22 maggio 1709",
+      "fine": "12 agosto 1722",
+      "note": "4º doge appartenente alla famiglia Corner"
+    },
+    {
+      "n": 112,
+      "nome": "Alvise III Sebastiano Mocenigo (1662 – 1732)",
+      "inizio": "24 agosto 1722",
+      "fine": "21 maggio 1732",
+      "note": "6º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 113,
+      "nome": "Carlo Ruzzini (1653 – 1735)",
+      "inizio": "2 giugno 1732",
+      "fine": "5 gennaio 1735",
+      "note": ""
+    },
+    {
+      "n": 114,
+      "nome": "Alvise Pisani (1664 – 1741)",
+      "inizio": "17 gennaio 1735",
+      "fine": "17 giugno 1741",
+      "note": ""
+    },
+    {
+      "n": 115,
+      "nome": "Pietro Grimani (1677 – 1752)",
+      "inizio": "30 giugno 1741",
+      "fine": "7 marzo 1752",
+      "note": "3º doge appartenente alla famiglia Grimani"
+    },
+    {
+      "n": 116,
+      "nome": "Francesco Loredan (1685 – 1762)",
+      "inizio": "18 marzo 1752",
+      "fine": "19 maggio 1762",
+      "note": "3º doge appartenente alla famiglia Loredan"
+    },
+    {
+      "n": 117,
+      "nome": "Marco Foscarini (1696 – 1763)",
+      "inizio": "31 maggio 1762",
+      "fine": "31 marzo 1763",
+      "note": ""
+    },
+    {
+      "n": 118,
+      "nome": "Alvise IV Giovanni Mocenigo (1701 – 1778)",
+      "inizio": "19 aprile 1763",
+      "fine": "31 dicembre 1778",
+      "note": "7º doge appartenente alla famiglia Mocenigo"
+    },
+    {
+      "n": 119,
+      "nome": "Paolo Renier (1710 – 1789)",
+      "inizio": "14 gennaio 1779",
+      "fine": "13 febbraio 1789",
+      "note": "Durante il suo dogado, per difendere gli argini della laguna dall'erosione del mare furono costruite le dighe in pietra d'Istria chiamate murazzi ."
+    },
+    {
+      "n": 120,
+      "nome": "Lodovico Manin (1725 – 1802)",
+      "inizio": "9 maggio 1789",
+      "fine": "12 maggio 1797 (costretto ad abdicare)",
+      "note": "Il 12 maggio 1797 il Maggior Consiglio si radunò per l'ultima volta e il doge, di fronte a soli seicento membri, abdicò rinunciando a diventare il capo della municipalità provvisoria. Con lui finì la millenaria storia di una Venezia indipendente."
+    }
+  ],
+  "meta": {
+    "title": "Dogi della Repubblica di Venezia - Free Download",
+    "description": "Elenco cronologico dei dogi della Repubblica di Venezia dal 697 al 1797. Contains 122 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dogi della Repubblica di Venezia | ListBase",
+    "seo_description": "Download Dogi della Repubblica di Venezia — 122 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 122 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Venezia"
+    ]
+  }
+}

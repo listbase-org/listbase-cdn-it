@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:07.798Z",
-  "total_datasets": 450,
-  "total_records": 135716,
+  "generated": "2026-10-27T02:12:10.848Z",
+  "total_datasets": 451,
+  "total_records": 135838,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -691,6 +691,32 @@
         "xlsx": {
           "name": "it-capi-di-governo-regno-d-italia_IT.xlsx",
           "size": 10808
+        }
+      }
+    },
+    {
+      "id": "it-dogi-di-venezia",
+      "name": "Dogi della Repubblica di Venezia",
+      "category": "history",
+      "record_count": 122,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Venezia",
+      "updated": "2026-10",
+      "size": 33281,
+      "files": {
+        "csv": {
+          "name": "it-dogi-di-venezia_IT.csv",
+          "size": 21641
+        },
+        "xlsx": {
+          "name": "it-dogi-di-venezia_IT.xlsx",
+          "size": 17323
         }
       }
     },
