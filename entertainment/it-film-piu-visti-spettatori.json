@@ -1,0 +1,346 @@
+{
+  "id": "it-film-piu-visti-spettatori",
+  "name": "Film più visti in Italia per spettatori",
+  "title": "Film più visti in Italia per spettatori",
+  "description": "Classifica dei film con il maggior numero di spettatori nella storia del cinema in Italia.",
+  "category": "entertainment",
+  "source": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "spettatori",
+      "label": "Spettatori",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "film": "Il dottor Živago",
+      "anno": 1965,
+      "spettatori": 22900000
+    },
+    {
+      "posizione": 2,
+      "film": "Il padrino",
+      "anno": 1972,
+      "spettatori": 21827533
+    },
+    {
+      "posizione": 3,
+      "film": "I dieci comandamenti",
+      "anno": 1956,
+      "spettatori": 16800000
+    },
+    {
+      "posizione": 4,
+      "film": "Agente 007 - Missione Goldfinger",
+      "anno": 1964,
+      "spettatori": 15800000
+    },
+    {
+      "posizione": 5,
+      "film": "Guerra e pace",
+      "anno": 1956,
+      "spettatori": 15707723
+    },
+    {
+      "posizione": 6,
+      "film": "Ultimo tango a Parigi",
+      "anno": 1972,
+      "spettatori": 15623773
+    },
+    {
+      "posizione": 7,
+      "film": "Ben-Hur",
+      "anno": 1959,
+      "spettatori": 15400000
+    },
+    {
+      "posizione": 8,
+      "film": "Per un pugno di dollari",
+      "anno": 1964,
+      "spettatori": 14797275
+    },
+    {
+      "posizione": 9,
+      "film": "...continuavano a chiamarlo Trinità",
+      "anno": 1971,
+      "spettatori": 14554172
+    },
+    {
+      "posizione": 10,
+      "film": "Per qualche dollaro in più",
+      "anno": 1965,
+      "spettatori": 14543161
+    },
+    {
+      "posizione": 11,
+      "film": "Agente 007 - Thunderball (Operazione tuono)",
+      "anno": 1965,
+      "spettatori": 14100000
+    },
+    {
+      "posizione": 12,
+      "film": "Titanic",
+      "anno": 1997,
+      "spettatori": 13883668
+    },
+    {
+      "posizione": 13,
+      "film": "La dolce vita",
+      "anno": 1960,
+      "spettatori": 13617148
+    },
+    {
+      "posizione": 14,
+      "film": "Don Camillo",
+      "anno": 1952,
+      "spettatori": 13215653
+    },
+    {
+      "posizione": 15,
+      "film": "Ulisse",
+      "anno": 1954,
+      "spettatori": 13170322
+    },
+    {
+      "posizione": 16,
+      "film": "Il Gattopardo",
+      "anno": 1963,
+      "spettatori": 12850375
+    },
+    {
+      "posizione": 17,
+      "film": "L'amore è una cosa meravigliosa",
+      "anno": 1955,
+      "spettatori": 12600000
+    },
+    {
+      "posizione": 18,
+      "film": "La donna più bella del mondo",
+      "anno": 1955,
+      "spettatori": 12592231
+    },
+    {
+      "posizione": 19,
+      "film": "Malizia",
+      "anno": 1973,
+      "spettatori": 11756327
+    },
+    {
+      "posizione": 20,
+      "film": "Marcellino pane e vino",
+      "anno": 1955,
+      "spettatori": 11559217
+    },
+    {
+      "posizione": 21,
+      "film": "Il buono, il brutto, il cattivo",
+      "anno": 1966,
+      "spettatori": 11364221
+    },
+    {
+      "posizione": 22,
+      "film": "Il giorno più lungo",
+      "anno": 1962,
+      "spettatori": 11300000
+    },
+    {
+      "posizione": 23,
+      "film": "...altrimenti ci arrabbiamo!",
+      "anno": 1974,
+      "spettatori": 11246906
+    },
+    {
+      "posizione": 24,
+      "film": "La Bibbia",
+      "anno": 1966,
+      "spettatori": 11245980
+    },
+    {
+      "posizione": 25,
+      "film": "Il Decameron",
+      "anno": 1971,
+      "spettatori": 11167557
+    },
+    {
+      "posizione": 26,
+      "film": "La tempesta",
+      "anno": 1958,
+      "spettatori": 11121071
+    },
+    {
+      "posizione": 27,
+      "film": "Cleopatra",
+      "anno": 1963,
+      "spettatori": 10945000
+    },
+    {
+      "posizione": 28,
+      "film": "La grande guerra",
+      "anno": 1959,
+      "spettatori": 10783742
+    },
+    {
+      "posizione": 29,
+      "film": "Pane, amore e fantasia",
+      "anno": 1953,
+      "spettatori": 10632926
+    },
+    {
+      "posizione": 30,
+      "film": "E.T. l'extra-terrestre",
+      "anno": 1982,
+      "spettatori": 10585298
+    },
+    {
+      "posizione": 31,
+      "film": "Serafino",
+      "anno": 1968,
+      "spettatori": 10529941
+    },
+    {
+      "posizione": 32,
+      "film": "Amici miei",
+      "anno": 1975,
+      "spettatori": 10467254
+    },
+    {
+      "posizione": 33,
+      "film": "Da qui all'eternità",
+      "anno": 1953,
+      "spettatori": 10450000
+    },
+    {
+      "posizione": 34,
+      "film": "Pane, amore e gelosia",
+      "anno": 1954,
+      "spettatori": 10429417
+    },
+    {
+      "posizione": 35,
+      "film": "Novecento",
+      "anno": 1976,
+      "spettatori": 10359326
+    },
+    {
+      "posizione": 36,
+      "film": "Spartacus",
+      "anno": 1960,
+      "spettatori": 10300000
+    },
+    {
+      "posizione": 37,
+      "film": "La vita è bella",
+      "anno": 1997,
+      "spettatori": 10244735
+    },
+    {
+      "posizione": 38,
+      "film": "Rocco e i suoi fratelli",
+      "anno": 1960,
+      "spettatori": 10220365
+    },
+    {
+      "posizione": 39,
+      "film": "Matrimonio all'italiana",
+      "anno": 1964,
+      "spettatori": 10180536
+    },
+    {
+      "posizione": 40,
+      "film": "...più forte ragazzi!",
+      "anno": 1972,
+      "spettatori": 10085447
+    },
+    {
+      "posizione": 41,
+      "film": "El Cid",
+      "anno": 1961,
+      "spettatori": 10064092
+    },
+    {
+      "posizione": 42,
+      "film": "I quattro dell'Ave Maria",
+      "anno": 1968,
+      "spettatori": 9966497
+    },
+    {
+      "posizione": 43,
+      "film": "Il medico della mutua",
+      "anno": 1968,
+      "spettatori": 9907701
+    },
+    {
+      "posizione": 44,
+      "film": "Nell'anno del Signore",
+      "anno": 1969,
+      "spettatori": 9901145
+    },
+    {
+      "posizione": 45,
+      "film": "Per grazia ricevuta",
+      "anno": 1971,
+      "spettatori": 9590432
+    },
+    {
+      "posizione": 46,
+      "film": "Buen camino",
+      "anno": 2025,
+      "spettatori": 9567442
+    },
+    {
+      "posizione": 47,
+      "film": "Dio perdona... io no!",
+      "anno": 1967,
+      "spettatori": 9424694
+    },
+    {
+      "posizione": 48,
+      "film": "King Kong",
+      "anno": 1976,
+      "spettatori": 9400000
+    },
+    {
+      "posizione": 49,
+      "film": "Quo vado?",
+      "anno": 2016,
+      "spettatori": 9368154
+    },
+    {
+      "posizione": 50,
+      "film": "Ieri, oggi, domani",
+      "anno": 1963,
+      "spettatori": 9344037
+    }
+  ],
+  "meta": {
+    "title": "Film più visti in Italia per spettatori - Free Download",
+    "description": "Classifica dei film con il maggior numero di spettatori nella storia del cinema in Italia. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Film più visti in Italia per spettatori | ListBase",
+    "seo_description": "Download Film più visti in Italia per spettatori — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia"
+    ]
+  }
+}

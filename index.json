@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:17.060Z",
-  "total_datasets": 453,
-  "total_records": 135915,
+  "generated": "2026-10-27T02:12:19.653Z",
+  "total_datasets": 454,
+  "total_records": 135965,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -218,6 +218,31 @@
         "xlsx": {
           "name": "it-film-maggiori-incassi_IT.xlsx",
           "size": 8654
+        }
+      }
+    },
+    {
+      "id": "it-film-piu-visti-spettatori",
+      "name": "Film più visti in Italia per spettatori",
+      "category": "entertainment",
+      "record_count": 50,
+      "columns": [
+        "posizione",
+        "film",
+        "anno",
+        "spettatori"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
+      "updated": "2026-10",
+      "size": 7596,
+      "files": {
+        "csv": {
+          "name": "it-film-piu-visti-spettatori_IT.csv",
+          "size": 2212
+        },
+        "xlsx": {
+          "name": "it-film-piu-visti-spettatori_IT.xlsx",
+          "size": 8608
         }
       }
     },
