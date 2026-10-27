@@ -1,0 +1,808 @@
+{
+  "id": "it-capi-di-governo-regno-d-italia",
+  "name": "Capi di governo del Regno d'Italia (1861–1946)",
+  "title": "Capi di governo del Regno d'Italia (1861–1946)",
+  "description": "Presidenti del Consiglio e capi del governo del Regno d'Italia, con mandato, orientamento politico e legislatura.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Capi_di_governo_del_Regno_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Capi_di_governo_del_Regno_d'Italia",
+  "updated": "2026-10",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "orientamento",
+      "label": "Orientamento",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "Camillo Benso, conte di Cavour (1810-1861)",
+      "inizio": "23 marzo 1861",
+      "fine": "6 giugno 1861",
+      "orientamento": "Destra storica",
+      "governo": "Cavour IV",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 2,
+      "nome": "Bettino Ricasoli (1809-1880)",
+      "inizio": "12 giugno 1861",
+      "fine": "3 marzo 1862",
+      "orientamento": "Destra storica",
+      "governo": "Ricasoli I",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 3,
+      "nome": "Urbano Rattazzi (1808-1873)",
+      "inizio": "3 marzo 1862",
+      "fine": "8 dicembre 1862",
+      "orientamento": "Sinistra storica",
+      "governo": "Rattazzi I",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 4,
+      "nome": "Luigi Carlo Farini (1812-1866)",
+      "inizio": "8 dicembre 1862",
+      "fine": "24 marzo 1863",
+      "orientamento": "Destra storica",
+      "governo": "Farini",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 5,
+      "nome": "Marco Minghetti (1818-1886)",
+      "inizio": "24 marzo 1863",
+      "fine": "28 settembre 1864",
+      "orientamento": "Destra storica",
+      "governo": "Minghetti I",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 6,
+      "nome": "Alfonso La Marmora (1804-1878)",
+      "inizio": "28 settembre 1864",
+      "fine": "31 dicembre 1865",
+      "orientamento": "Destra storica",
+      "governo": "La Marmora II",
+      "legislatura": "VIII ( 1861 )"
+    },
+    {
+      "n": 6,
+      "nome": "Alfonso La Marmora (1804-1878)",
+      "inizio": "31 dicembre 1865",
+      "fine": "20 giugno 1866",
+      "orientamento": "Destra storica",
+      "governo": "La Marmora III",
+      "legislatura": "IX ( 1865 )"
+    },
+    {
+      "n": "(2)",
+      "nome": "Bettino Ricasoli (1809-1880)",
+      "inizio": "20 giugno 1866",
+      "fine": "10 aprile 1867",
+      "orientamento": "Destra storica",
+      "governo": "Ricasoli II",
+      "legislatura": "IX ( 1865 )"
+    },
+    {
+      "n": "(3)",
+      "nome": "Urbano Rattazzi (1808-1873)",
+      "inizio": "10 aprile 1867",
+      "fine": "27 ottobre 1867",
+      "orientamento": "Sinistra storica",
+      "governo": "Rattazzi II",
+      "legislatura": "X ( 1867 )"
+    },
+    {
+      "n": 7,
+      "nome": "Luigi Federico Menabrea (1809-1896)",
+      "inizio": "27 ottobre 1867",
+      "fine": "5 gennaio 1868",
+      "orientamento": "Destra storica",
+      "governo": "Menabrea I",
+      "legislatura": "X ( 1867 )"
+    },
+    {
+      "n": 7,
+      "nome": "Luigi Federico Menabrea (1809-1896)",
+      "inizio": "5 gennaio 1868",
+      "fine": "13 maggio 1869",
+      "orientamento": "Destra storica",
+      "governo": "Menabrea II",
+      "legislatura": "X ( 1867 )"
+    },
+    {
+      "n": 7,
+      "nome": "Luigi Federico Menabrea (1809-1896)",
+      "inizio": "13 maggio 1869",
+      "fine": "14 dicembre 1869",
+      "orientamento": "Destra storica",
+      "governo": "Menabrea III",
+      "legislatura": "X ( 1867 )"
+    },
+    {
+      "n": 8,
+      "nome": "Giovanni Lanza (1810-1882)",
+      "inizio": "14 dicembre 1869",
+      "fine": "10 luglio 1873",
+      "orientamento": "Destra storica",
+      "governo": "Lanza",
+      "legislatura": "X ( 1867 )"
+    },
+    {
+      "n": 8,
+      "nome": "Giovanni Lanza (1810-1882)",
+      "inizio": "14 dicembre 1869",
+      "fine": "10 luglio 1873",
+      "orientamento": "Destra storica",
+      "governo": "Lanza",
+      "legislatura": "XI ( 1870 )"
+    },
+    {
+      "n": "(5)",
+      "nome": "Marco Minghetti (1818-1886)",
+      "inizio": "10 luglio 1873",
+      "fine": "25 marzo 1876",
+      "orientamento": "Destra storica",
+      "governo": "Minghetti II",
+      "legislatura": "XI ( 1870 )"
+    },
+    {
+      "n": "(5)",
+      "nome": "Marco Minghetti (1818-1886)",
+      "inizio": "10 luglio 1873",
+      "fine": "25 marzo 1876",
+      "orientamento": "Destra storica",
+      "governo": "Minghetti II",
+      "legislatura": "XII ( 1874 )"
+    },
+    {
+      "n": 9,
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "25 marzo 1876",
+      "fine": "25 dicembre 1877",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis I",
+      "legislatura": "XII ( 1874 )"
+    },
+    {
+      "n": 9,
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "25 marzo 1876",
+      "fine": "25 dicembre 1877",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis I",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": 9,
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "25 dicembre 1877",
+      "fine": "24 marzo 1878",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis II",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": 10,
+      "nome": "Benedetto Cairoli (1825-1889)",
+      "inizio": "24 marzo 1878",
+      "fine": "19 dicembre 1878",
+      "orientamento": "Sinistra storica",
+      "governo": "Cairoli I",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "19 dicembre 1878",
+      "fine": "14 luglio 1879",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis III",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": "(10)",
+      "nome": "Benedetto Cairoli (1825-1889)",
+      "inizio": "14 luglio 1879",
+      "fine": "25 novembre 1879",
+      "orientamento": "Sinistra storica",
+      "governo": "Cairoli II",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": "(10)",
+      "nome": "Benedetto Cairoli (1825-1889)",
+      "inizio": "25 novembre 1879",
+      "fine": "29 maggio 1881",
+      "orientamento": "Sinistra storica",
+      "governo": "Cairoli III",
+      "legislatura": "XIII ( 1876 )"
+    },
+    {
+      "n": "(10)",
+      "nome": "Benedetto Cairoli (1825-1889)",
+      "inizio": "25 novembre 1879",
+      "fine": "29 maggio 1881",
+      "orientamento": "Sinistra storica",
+      "governo": "Cairoli III",
+      "legislatura": "XIV ( 1880 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "29 maggio 1881",
+      "fine": "25 maggio 1883",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis IV",
+      "legislatura": "XIV ( 1880 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "29 maggio 1881",
+      "fine": "25 maggio 1883",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis IV",
+      "legislatura": "XV ( 1882 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "25 maggio 1883",
+      "fine": "30 marzo 1884",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis V",
+      "legislatura": "XV ( 1882 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "30 marzo 1884",
+      "fine": "29 giugno 1885",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis VI",
+      "legislatura": "XV ( 1882 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "29 giugno 1885",
+      "fine": "4 aprile 1887",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis VII",
+      "legislatura": "XV ( 1882 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "29 giugno 1885",
+      "fine": "4 aprile 1887",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis VII",
+      "legislatura": "XVI ( 1886 )"
+    },
+    {
+      "n": "(9)",
+      "nome": "Agostino Depretis (1813-1887)",
+      "inizio": "4 aprile 1887",
+      "fine": "29 luglio 1887",
+      "orientamento": "Sinistra storica",
+      "governo": "Depretis VIII",
+      "legislatura": "XVI ( 1886 )"
+    },
+    {
+      "n": 11,
+      "nome": "Francesco Crispi (1818-1901)",
+      "inizio": "29 luglio 1887",
+      "fine": "9 marzo 1889",
+      "orientamento": "Sinistra storica",
+      "governo": "Crispi I",
+      "legislatura": "XVI ( 1886 )"
+    },
+    {
+      "n": 11,
+      "nome": "Francesco Crispi (1818-1901)",
+      "inizio": "9 marzo 1889",
+      "fine": "6 febbraio 1891",
+      "orientamento": "Sinistra storica",
+      "governo": "Crispi II",
+      "legislatura": "XVI ( 1886 )"
+    },
+    {
+      "n": 12,
+      "nome": "Antonio Starabba di Rudinì (1839-1908)",
+      "inizio": "6 febbraio 1891",
+      "fine": "15 maggio 1892",
+      "orientamento": "Destra storica",
+      "governo": "Di Rudinì I",
+      "legislatura": "XVII ( 1890 )"
+    },
+    {
+      "n": 13,
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "15 maggio 1892",
+      "fine": "15 dicembre 1893",
+      "orientamento": "Sinistra storica",
+      "governo": "Giolitti I",
+      "legislatura": "XVIII ( 1892 )"
+    },
+    {
+      "n": "(11)",
+      "nome": "Francesco Crispi (1818-1901)",
+      "inizio": "15 dicembre 1893",
+      "fine": "14 giugno 1894",
+      "orientamento": "Sinistra storica",
+      "governo": "Crispi III",
+      "legislatura": "XVIII ( 1892 )"
+    },
+    {
+      "n": "(11)",
+      "nome": "Francesco Crispi (1818-1901)",
+      "inizio": "14 giugno 1894",
+      "fine": "10 marzo 1896",
+      "orientamento": "Sinistra storica",
+      "governo": "Crispi IV",
+      "legislatura": "XVIII ( 1892 )"
+    },
+    {
+      "n": "(11)",
+      "nome": "Francesco Crispi (1818-1901)",
+      "inizio": "14 giugno 1894",
+      "fine": "10 marzo 1896",
+      "orientamento": "Sinistra storica",
+      "governo": "Crispi IV",
+      "legislatura": "XIX ( 1895 )"
+    },
+    {
+      "n": "(12)",
+      "nome": "Antonio Starabba di Rudinì (1839-1908)",
+      "inizio": "10 marzo 1896",
+      "fine": "11 luglio 1896",
+      "orientamento": "Destra storica",
+      "governo": "Di Rudinì II",
+      "legislatura": "XIX ( 1895 )"
+    },
+    {
+      "n": "(12)",
+      "nome": "Antonio Starabba di Rudinì (1839-1908)",
+      "inizio": "11 luglio 1896",
+      "fine": "14 dicembre 1897",
+      "orientamento": "Destra storica",
+      "governo": "Di Rudinì III",
+      "legislatura": "XIX ( 1895 )"
+    },
+    {
+      "n": "(12)",
+      "nome": "Antonio Starabba di Rudinì (1839-1908)",
+      "inizio": "14 dicembre 1897",
+      "fine": "1º giugno 1898",
+      "orientamento": "Destra storica",
+      "governo": "Di Rudinì IV",
+      "legislatura": "XX ( 1897 )"
+    },
+    {
+      "n": "(12)",
+      "nome": "Antonio Starabba di Rudinì (1839-1908)",
+      "inizio": "1º giugno 1898",
+      "fine": "29 giugno 1898",
+      "orientamento": "Destra storica",
+      "governo": "Di Rudinì V",
+      "legislatura": "XX ( 1897 )"
+    },
+    {
+      "n": 14,
+      "nome": "Luigi Pelloux (1839-1924)",
+      "inizio": "29 giugno 1898",
+      "fine": "14 maggio 1899",
+      "orientamento": "Militare",
+      "governo": "Pelloux I",
+      "legislatura": "XX ( 1897 )"
+    },
+    {
+      "n": 14,
+      "nome": "Luigi Pelloux (1839-1924)",
+      "inizio": "14 maggio 1899",
+      "fine": "24 giugno 1900",
+      "orientamento": "Militare",
+      "governo": "Pelloux II",
+      "legislatura": "XX ( 1897 )"
+    },
+    {
+      "n": 15,
+      "nome": "Giuseppe Saracco (1821-1907)",
+      "inizio": "24 giugno 1900",
+      "fine": "15 febbraio 1901",
+      "orientamento": "Sinistra storica",
+      "governo": "Saracco",
+      "legislatura": "XXI ( 1900 )"
+    },
+    {
+      "n": 16,
+      "nome": "Giuseppe Zanardelli (1826-1903)",
+      "inizio": "15 febbraio 1901",
+      "fine": "3 novembre 1903",
+      "orientamento": "Sinistra storica",
+      "governo": "Zanardelli",
+      "legislatura": "XXI ( 1900 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "3 novembre 1903",
+      "fine": "16 marzo 1905",
+      "orientamento": "Sinistra storica",
+      "governo": "Giolitti II",
+      "legislatura": "XXI ( 1900 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "3 novembre 1903",
+      "fine": "16 marzo 1905",
+      "orientamento": "Sinistra storica",
+      "governo": "Giolitti II",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": 17,
+      "nome": "Tommaso Tittoni (1855-1931)",
+      "inizio": "16 marzo 1905",
+      "fine": "28 marzo 1905",
+      "orientamento": "Destra storica",
+      "governo": "Tittoni",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": 18,
+      "nome": "Alessandro Fortis (1841-1909)",
+      "inizio": "28 marzo 1905",
+      "fine": "24 dicembre 1905",
+      "orientamento": "Sinistra storica",
+      "governo": "Fortis I",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": 18,
+      "nome": "Alessandro Fortis (1841-1909)",
+      "inizio": "24 dicembre 1905",
+      "fine": "8 febbraio 1906",
+      "orientamento": "Sinistra storica",
+      "governo": "Fortis II",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": 19,
+      "nome": "Sidney Sonnino (1847-1922)",
+      "inizio": "8 febbraio 1906",
+      "fine": "29 maggio 1906",
+      "orientamento": "Destra storica",
+      "governo": "Sonnino I",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "29 maggio 1906",
+      "fine": "11 dicembre 1909",
+      "orientamento": "Sinistra storica",
+      "governo": "Giolitti III",
+      "legislatura": "XXII ( 1904 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "29 maggio 1906",
+      "fine": "11 dicembre 1909",
+      "orientamento": "Sinistra storica",
+      "governo": "Giolitti III",
+      "legislatura": "XXIII ( 1909 )"
+    },
+    {
+      "n": "(19)",
+      "nome": "Sidney Sonnino (1847-1922)",
+      "inizio": "11 dicembre 1909",
+      "fine": "31 marzo 1910",
+      "orientamento": "Destra storica",
+      "governo": "Sonnino II",
+      "legislatura": "XXIII ( 1909 )"
+    },
+    {
+      "n": 20,
+      "nome": "Luigi Luzzatti (1841-1927)",
+      "inizio": "31 marzo 1910",
+      "fine": "29 marzo 1911",
+      "orientamento": "Destra storica",
+      "governo": "Luzzatti",
+      "legislatura": "XXIII ( 1909 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "29 marzo 1911",
+      "fine": "21 marzo 1914",
+      "orientamento": "Liberale",
+      "governo": "Giolitti IV",
+      "legislatura": "XXIII ( 1909 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "29 marzo 1911",
+      "fine": "21 marzo 1914",
+      "orientamento": "Liberale",
+      "governo": "Giolitti IV",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 21,
+      "nome": "Antonio Salandra (1853-1931)",
+      "inizio": "21 marzo 1914",
+      "fine": "5 novembre 1914",
+      "orientamento": "Liberale",
+      "governo": "Salandra I",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 21,
+      "nome": "Antonio Salandra (1853-1931)",
+      "inizio": "5 novembre 1914",
+      "fine": "18 giugno 1916",
+      "orientamento": "Liberale",
+      "governo": "Salandra II",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 22,
+      "nome": "Paolo Boselli (1838-1932)",
+      "inizio": "18 giugno 1916",
+      "fine": "30 ottobre 1917",
+      "orientamento": "Liberale",
+      "governo": "Boselli",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 23,
+      "nome": "Vittorio Emanuele Orlando (1860-1952)",
+      "inizio": "30 ottobre 1917",
+      "fine": "23 giugno 1919",
+      "orientamento": "Liberale",
+      "governo": "Orlando",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 24,
+      "nome": "Francesco Saverio Nitti (1868-1953)",
+      "inizio": "23 giugno 1919",
+      "fine": "21 maggio 1920",
+      "orientamento": "Partito Radicale Italiano",
+      "governo": "Nitti I",
+      "legislatura": "XXIV ( 1913 )"
+    },
+    {
+      "n": 24,
+      "nome": "Francesco Saverio Nitti (1868-1953)",
+      "inizio": "23 giugno 1919",
+      "fine": "21 maggio 1920",
+      "orientamento": "Partito Radicale Italiano",
+      "governo": "Nitti I",
+      "legislatura": "XXV ( 1919 )"
+    },
+    {
+      "n": 24,
+      "nome": "Francesco Saverio Nitti (1868-1953)",
+      "inizio": "21 maggio 1920",
+      "fine": "15 giugno 1920",
+      "orientamento": "Partito Radicale Italiano",
+      "governo": "Nitti II",
+      "legislatura": "XXV ( 1919 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "15 giugno 1920",
+      "fine": "4 luglio 1921",
+      "orientamento": "Liberale",
+      "governo": "Giolitti V",
+      "legislatura": "XXV ( 1919 )"
+    },
+    {
+      "n": "(13)",
+      "nome": "Giovanni Giolitti (1842-1928)",
+      "inizio": "15 giugno 1920",
+      "fine": "4 luglio 1921",
+      "orientamento": "Liberale",
+      "governo": "Giolitti V",
+      "legislatura": "XXVI ( 1921 )"
+    },
+    {
+      "n": 25,
+      "nome": "Ivanoe Bonomi (1873-1951)",
+      "inizio": "4 luglio 1921",
+      "fine": "26 febbraio 1922",
+      "orientamento": "Partito Socialista Riformista Italiano",
+      "governo": "Bonomi I",
+      "legislatura": "XXVI ( 1921 )"
+    },
+    {
+      "n": 26,
+      "nome": "Luigi Facta (1861-1930)",
+      "inizio": "26 febbraio 1922",
+      "fine": "1º agosto 1922",
+      "orientamento": "Partito Liberale Italiano",
+      "governo": "Facta I",
+      "legislatura": "XXVI ( 1921 )"
+    },
+    {
+      "n": 26,
+      "nome": "Luigi Facta (1861-1930)",
+      "inizio": "1º agosto 1922",
+      "fine": "31 ottobre 1922",
+      "orientamento": "Partito Liberale Italiano",
+      "governo": "Facta II",
+      "legislatura": "XXVI ( 1921 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "31 ottobre 1922",
+      "fine": "13 gennaio 1926",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Mussolini",
+      "legislatura": "XXVI ( 1921 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "31 ottobre 1922",
+      "fine": "13 gennaio 1926",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Mussolini",
+      "legislatura": "XXVII ( 1924 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "13 gennaio 1926",
+      "fine": "25 luglio 1943",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Benito Mussolini (1883-1945)",
+      "legislatura": "XXVII ( 1924 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "13 gennaio 1926",
+      "fine": "25 luglio 1943",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Benito Mussolini (1883-1945)",
+      "legislatura": "XXVIII ( 1929 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "13 gennaio 1926",
+      "fine": "25 luglio 1943",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Benito Mussolini (1883-1945)",
+      "legislatura": "XXIX ( 1934 )"
+    },
+    {
+      "n": 27,
+      "nome": "Benito Mussolini (1883-1945)",
+      "inizio": "13 gennaio 1926",
+      "fine": "25 luglio 1943",
+      "orientamento": "Partito Nazionale Fascista",
+      "governo": "Benito Mussolini (1883-1945)",
+      "legislatura": "XXX ( 1939 )"
+    },
+    {
+      "n": 28,
+      "nome": "Pietro Badoglio (1871-1956)",
+      "inizio": "25 luglio 1943",
+      "fine": "24 aprile 1944",
+      "orientamento": "Militare",
+      "governo": "Pietro Badoglio (1871-1956)",
+      "legislatura": "Camera soppressa"
+    },
+    {
+      "n": 28,
+      "nome": "Pietro Badoglio (1871-1956)",
+      "inizio": "24 aprile 1944",
+      "fine": "3 giugno 1944",
+      "orientamento": "Militare",
+      "governo": "Pietro Badoglio (1871-1956)",
+      "legislatura": "Camera soppressa"
+    },
+    {
+      "n": 28,
+      "nome": "Pietro Badoglio (1871-1956)",
+      "inizio": "3 giugno 1944",
+      "fine": "18 giugno 1944",
+      "orientamento": "Militare",
+      "governo": "Badoglio II",
+      "legislatura": "Camera soppressa"
+    },
+    {
+      "n": "(25)",
+      "nome": "Ivanoe Bonomi (1873-1951)",
+      "inizio": "18 giugno 1944",
+      "fine": "10 dicembre 1944",
+      "orientamento": "Partito Democratico del Lavoro",
+      "governo": "Bonomi II",
+      "legislatura": "Camera soppressa"
+    },
+    {
+      "n": "(25)",
+      "nome": "Ivanoe Bonomi (1873-1951)",
+      "inizio": "10 dicembre 1944",
+      "fine": "19 giugno 1945",
+      "orientamento": "Partito Democratico del Lavoro",
+      "governo": "Bonomi III",
+      "legislatura": "Camera soppressa"
+    },
+    {
+      "n": 29,
+      "nome": "Ferruccio Parri (1890-1981)",
+      "inizio": "19 giugno 1945",
+      "fine": "10 dicembre 1945",
+      "orientamento": "Partito d'Azione",
+      "governo": "Parri",
+      "legislatura": "Consulta Nazionale (Camera provvisoria)"
+    },
+    {
+      "n": 30,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "10 dicembre 1945",
+      "fine": "14 luglio 1946",
+      "orientamento": "Democrazia Cristiana",
+      "governo": "De Gasperi I",
+      "legislatura": "Consulta Nazionale (Camera provvisoria)"
+    }
+  ],
+  "meta": {
+    "title": "Capi di governo del Regno d'Italia (1861–1946) - Free Download",
+    "description": "Presidenti del Consiglio e capi del governo del Regno d'Italia, con mandato, orientamento politico e legislatura. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Capi di governo del Regno d'Italia (1861–1946) | ListBase",
+    "seo_description": "Download Capi di governo del Regno d'Italia (1861–1946) — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Capi_di_governo_del_Regno_d'Italia"
+    ]
+  }
+}

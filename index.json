@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:11:57.301Z",
-  "total_datasets": 446,
-  "total_records": 135375,
+  "generated": "2026-10-27T02:12:00.025Z",
+  "total_datasets": 447,
+  "total_records": 135458,
   "categories": [
     {
       "id": "culture",
@@ -27,6 +27,10 @@
     {
       "id": "geography",
       "dataset_count": 10
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -620,6 +624,34 @@
         "xlsx": {
           "name": "it-vulcani_IT.xlsx",
           "size": 7819
+        }
+      }
+    },
+    {
+      "id": "it-capi-di-governo-regno-d-italia",
+      "name": "Capi di governo del Regno d'Italia (1861–1946)",
+      "category": "history",
+      "record_count": 83,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "orientamento",
+        "governo",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Capi_di_governo_del_Regno_d'Italia",
+      "updated": "2026-10",
+      "size": 23053,
+      "files": {
+        "csv": {
+          "name": "it-capi-di-governo-regno-d-italia_IT.csv",
+          "size": 10190
+        },
+        "xlsx": {
+          "name": "it-capi-di-governo-regno-d-italia_IT.xlsx",
+          "size": 10808
         }
       }
     },
