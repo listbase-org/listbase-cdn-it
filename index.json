@@ -1,9 +1,13 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:06.503Z",
-  "total_datasets": 472,
-  "total_records": 137819,
+  "generated": "2026-10-27T02:13:09.150Z",
+  "total_datasets": 473,
+  "total_records": 138150,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 4
@@ -86,6 +90,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "it-prodotti-dop-igp",
+      "name": "Prodotti agroalimentari DOP, IGP e STG italiani",
+      "category": "agriculture",
+      "record_count": 331,
+      "columns": [
+        "denominazione",
+        "categoria",
+        "tipologia",
+        "regolamento",
+        "regione",
+        "province"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+      "updated": "2026-10",
+      "size": 91927,
+      "files": {
+        "csv": {
+          "name": "it-prodotti-dop-igp_IT.csv",
+          "size": 45491
+        },
+        "xlsx": {
+          "name": "it-prodotti-dop-igp_IT.xlsx",
+          "size": 24810
+        }
+      }
+    },
     {
       "id": "it-musei",
       "name": "Musei in Italia (Museums in Italy)",

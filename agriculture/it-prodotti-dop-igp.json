@@ -1,0 +1,2704 @@
+{
+  "id": "it-prodotti-dop-igp",
+  "name": "Prodotti agroalimentari DOP, IGP e STG italiani",
+  "title": "Prodotti agroalimentari DOP, IGP e STG italiani",
+  "description": "Elenco dei prodotti agroalimentari italiani a denominazione DOP, IGP e STG con tipologia e regione.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "updated": "2026-10",
+  "record_count": 331,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    },
+    {
+      "key": "tipologia",
+      "label": "Tipologia",
+      "type": "string"
+    },
+    {
+      "key": "regolamento",
+      "label": "Regolamento",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Abbacchio romano",
+      "categoria": "I.G.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. CE n. 507 del 15.06.09",
+      "regione": "Lazio",
+      "province": "Roma, Frosinone, Viterbo, Latina, Rieti"
+    },
+    {
+      "denominazione": "Acciughe sotto sale del Mar Ligure",
+      "categoria": "I.G.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. CE n. 776 del 04.08.08",
+      "regione": "Liguria",
+      "province": "Genova, Imperia, Savona, La Spezia"
+    },
+    {
+      "denominazione": "Aceto balsamico di Modena",
+      "categoria": "I.G.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 583 del 03.07.09",
+      "regione": "Emilia-Romagna",
+      "province": "Modena, Reggio Emilia"
+    },
+    {
+      "denominazione": "Aceto balsamico tradizionale di Modena",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 813 del 17.04.00",
+      "regione": "Emilia-Romagna",
+      "province": "Modena"
+    },
+    {
+      "denominazione": "Aceto balsamico tradizionale di Reggio Emilia",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 813 del 17.04.00",
+      "regione": "Emilia-Romagna",
+      "province": "Reggio Emilia"
+    },
+    {
+      "denominazione": "Aglio bianco polesano",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1175 del 30.11.09",
+      "regione": "Veneto",
+      "province": "Rovigo"
+    },
+    {
+      "denominazione": "Aglio di Voghiera",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 442 del 21.05.10",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara"
+    },
+    {
+      "denominazione": "Agnello del Centro Italia",
+      "categoria": "I.G.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. UE n. 475 del 15.05.13",
+      "regione": "Abruzzo, Lazio, Marche, Toscana, Umbria, Emilia-Romagna",
+      "province": "Pescara, Chieti, Teramo, L'Aquila, Frosinone, Latina, Rieti, Roma, Viterbo, Ancona, Ascoli Piceno, Fermo, Macerata, Pesaro e Urbino, Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Prato, Siena, Perugia, Terni, Bologna, Rimini, Forlì-Cesena, Ravenna, Modena, Reggio Emilia, Parma"
+    },
+    {
+      "denominazione": "Agnello di Sardegna",
+      "categoria": "I.G.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. CE n. 138 del 24.01.01",
+      "regione": "Sardegna",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Alto Crotonese",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1257 del 15.07.03",
+      "regione": "Calabria",
+      "province": "Crotone"
+    },
+    {
+      "denominazione": "Amatriciana Tradizionale",
+      "categoria": "S.T.G.",
+      "tipologia": "Piatti pronti",
+      "regolamento": "Reg. UE n. 395 del 06.03.2020",
+      "regione": "",
+      "province": ""
+    },
+    {
+      "denominazione": "Amarene brusche di Modena",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1028 del 29.10.09",
+      "regione": "Emilia-Romagna",
+      "province": "Modena, Bologna"
+    },
+    {
+      "denominazione": "Anguria Reggiana",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1959 del 07.11.16",
+      "regione": "Emilia-Romagna",
+      "province": "Reggio Emilia"
+    },
+    {
+      "denominazione": "Aprutino Pescarese",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Abruzzo",
+      "province": "Pescara"
+    },
+    {
+      "denominazione": "Arancia del Gargano",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1017 del 30.08.07",
+      "regione": "Puglia",
+      "province": "Foggia"
+    },
+    {
+      "denominazione": "Arancia di Ribera",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 95 del 03.02.11",
+      "regione": "Sicilia",
+      "province": "Agrigento, Palermo"
+    },
+    {
+      "denominazione": "Arancia rossa di Sicilia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Sicilia",
+      "province": "Catania, Siracusa, Enna"
+    },
+    {
+      "denominazione": "Asiago",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 1200 del 15.10.07",
+      "regione": "Prov. Aut. di Trento, Veneto",
+      "province": "Trento, Vicenza, Padova, Treviso"
+    },
+    {
+      "denominazione": "Asparago bianco di Bassano",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1050 del 12.09.07",
+      "regione": "Veneto",
+      "province": "Vicenza"
+    },
+    {
+      "denominazione": "Asparago bianco di Cimadolmo",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 245 del 08.02.02",
+      "regione": "Veneto",
+      "province": "Treviso"
+    },
+    {
+      "denominazione": "Asparago di Badoere",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 923 del 14.10.10",
+      "regione": "Veneto",
+      "province": "Padova, Treviso, Venezia"
+    },
+    {
+      "denominazione": "Asparago bianco di Cantello",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 82 del 19.01.16",
+      "regione": "Lombardia",
+      "province": "Varese"
+    },
+    {
+      "denominazione": "Asparago verde di Altedo",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 492 del 18.03.03",
+      "regione": "Emilia-Romagna",
+      "province": "Bologna, Ferrara"
+    },
+    {
+      "denominazione": "Asparago verde di Canino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 2023/2483 del 06.11.23",
+      "regione": "Lazio",
+      "province": "Canino, Cellere, Montalto di Castro, Tarquinia, Tuscania, Tessennano, Arlena di Castro"
+    },
+    {
+      "denominazione": "Basilico genovese",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1623 del 04.10.05 Reg. UE n. 611 del 12.07.10",
+      "regione": "Liguria",
+      "province": "La Spezia, Genova, Imperia, Savona"
+    },
+    {
+      "denominazione": "Bergamotto di Reggio Calabria - Olio essenziale",
+      "categoria": "D.O.P.",
+      "tipologia": "Olio essenziale",
+      "regolamento": "Reg. CE n. 509 del 15.03.01",
+      "regione": "Calabria",
+      "province": "Reggio Calabria"
+    },
+    {
+      "denominazione": "Bitto",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 1138 del 25.11.09",
+      "regione": "Lombardia",
+      "province": "Sondrio, Bergamo"
+    },
+    {
+      "denominazione": "Bra",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Piemonte",
+      "province": "Cuneo, Torino"
+    },
+    {
+      "denominazione": "Bresaola della Valtellina",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Lombardia",
+      "province": "Sondrio"
+    },
+    {
+      "denominazione": "Brisighella",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Emilia-Romagna",
+      "province": "Ravenna, Forlì"
+    },
+    {
+      "denominazione": "Brovada",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1119 del 31.10.11",
+      "regione": "Friuli Venezia Giulia",
+      "province": "Trieste, Udine, Pordenone, Gorizia"
+    },
+    {
+      "denominazione": "Bruzio",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Calabria",
+      "province": "Cosenza"
+    },
+    {
+      "denominazione": "Burrata di Andria",
+      "categoria": "I.G.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 2103 del 21.11.16",
+      "regione": "Puglia",
+      "province": "Bari, Barletta-Andria-Trani, Brindisi, Foggia, Taranto, Lecce"
+    },
+    {
+      "denominazione": "Caciocavallo silano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 1204 del 04.07.03",
+      "regione": "Calabria, Campania, Molise, Puglia, Basilicata",
+      "province": "Catanzaro, Cosenza, Avellino, Benevento, Caserta, Napoli, Salerno, Isernia, Campobasso, Foggia, Bari, Taranto, Brindisi, Matera, Potenza"
+    },
+    {
+      "denominazione": "Caciottone di Norcia",
+      "categoria": "I.G.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 2117 del 26.07.24",
+      "regione": "Umbria",
+      "province": "Perugia"
+    },
+    {
+      "denominazione": "Canestrato di Moliterno",
+      "categoria": "I.G.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 441 del 21.05.10",
+      "regione": "Basilicata",
+      "province": "Potenza e Matera"
+    },
+    {
+      "denominazione": "Canestrato Pugliese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Puglia",
+      "province": "Foggia, Bari"
+    },
+    {
+      "denominazione": "Canino",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Lazio",
+      "province": "Viterbo"
+    },
+    {
+      "denominazione": "Cantuccini o Cantucci Toscani",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 81 del 19.01.16",
+      "regione": "Toscana",
+      "province": "Grosseto, Massa-Carrara, Arezzo, Siena, Firenze, Pistoia, Pisa, Livorno, Lucca, Prato"
+    },
+    {
+      "denominazione": "Capocollo di Calabria",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia"
+    },
+    {
+      "denominazione": "Cappellacci di zucca ferraresi",
+      "categoria": "I.G.P.",
+      "tipologia": "Pasta alimentare",
+      "regolamento": "Reg. UE n. 164 del 28.01.16",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara"
+    },
+    {
+      "denominazione": "Cappero delle Isole Eolie",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 624 del 30.04.20",
+      "regione": "Sicilia",
+      "province": "Isole di Lipari, Vulcano, Filicudi, Alicudi, Panarea, Stromboli, Santa Marina Salina, Malfa e Leni nell’Isola di Salina"
+    },
+    {
+      "denominazione": "Cappero di Pantelleria",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. UE n. 880 del 06.10.10",
+      "regione": "Sicilia",
+      "province": "Trapani"
+    },
+    {
+      "denominazione": "Carciofo Brindisino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1120 del 31.10.11",
+      "regione": "Puglia",
+      "province": "Brindisi"
+    },
+    {
+      "denominazione": "Carciofo di Paestum",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 465 del 12.03.04",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Carciofo romanesco del Lazio",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2066 del 21.11.02",
+      "regione": "Lazio",
+      "province": "Viterbo, Roma, Latina"
+    },
+    {
+      "denominazione": "Carciofo spinoso di Sardegna",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 94 del 03.02.11",
+      "regione": "Sardegna",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Carne Salada del Trentino",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1993 del 25.9.2025",
+      "regione": "Trentino Alto Adige",
+      "province": "Provincia di Trento"
+    },
+    {
+      "denominazione": "Carota dell'altopiano del Fucino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 148 del 15.02.07",
+      "regione": "Abruzzo",
+      "province": "L'Aquila"
+    },
+    {
+      "denominazione": "Carota novella di Ispica",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1214 del 17.12.10",
+      "regione": "Sicilia",
+      "province": "Ragusa, Siracusa, Catania, Caltanissetta"
+    },
+    {
+      "denominazione": "Cartoceto",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1897 del 29.10.04",
+      "regione": "Marche",
+      "province": "Pesaro e Urbino"
+    },
+    {
+      "denominazione": "Casatella trevigiana",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 487 del 02.06.08",
+      "regione": "Veneto",
+      "province": "Treviso"
+    },
+    {
+      "denominazione": "Casciotta d'Urbino",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Marche, Emilia-Romagna",
+      "province": "Pesaro e Urbino, Rimini"
+    },
+    {
+      "denominazione": "Castagna Cuneo",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1050 del 12.09.07",
+      "regione": "Piemonte",
+      "province": "Cuneo"
+    },
+    {
+      "denominazione": "Castagna del Monte Amiata",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1904 del 07.09.00 Reg. UE n. 1108 del 30.11.10",
+      "regione": "Toscana",
+      "province": "Grosseto, Siena"
+    },
+    {
+      "denominazione": "Castagna di Montella",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Campania",
+      "province": "Avellino"
+    },
+    {
+      "denominazione": "Castagna di Roccamonfina",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 2126 del 31.11.22",
+      "regione": "Campania",
+      "province": "Caianello, Conca della Campania, Galluccio, Marzano Appio, Roccamonfina, Sessa Aurunca, Teano, Tora e Piccilli"
+    },
+    {
+      "denominazione": "Castagna di Vallerano",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 286 del 07.04.09",
+      "regione": "Lazio",
+      "province": "Viterbo"
+    },
+    {
+      "denominazione": "Castelmagno",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Piemonte",
+      "province": "Cuneo"
+    },
+    {
+      "denominazione": "Cavolfiore della Piana del Sele",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE 1151/2012 del 21.11.12",
+      "regione": "Campania",
+      "province": "-"
+    },
+    {
+      "denominazione": "Cedro di Santa Maria del Cedro",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE 1UE 2023/971 del 10.05.23",
+      "regione": "Calabria",
+      "province": "Aieta, Belvedere Marittimo, Bonifati, Buonvicino, Cetraro, Diamante, Grisolia, Maierà, Orsomarso, Papasidero, Praia a Mare, Sangineto, San Nicola Arcella, Santa Domenica Talao, Santa Maria del Cedro, Scalea, Tortora, Verbicaro"
+    },
+    {
+      "denominazione": "Chianti Classico",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2446 del 06.11.00 Reg. UE n. 216 del 01.03.11 Reg. UE n. 267 del 18.03.13",
+      "regione": "Toscana",
+      "province": "Siena, Firenze"
+    },
+    {
+      "denominazione": "Ciauscolo",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 729 del 10.08.09",
+      "regione": "Marche",
+      "province": "Ancona, Macerata, Ascoli Piceno"
+    },
+    {
+      "denominazione": "Cilento",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Ciliegia di Bracigliano",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 184 del 23.01.2023",
+      "regione": "Campania",
+      "province": "Provincia di Salerno: Baronissi, Bracigliano, Calvanico, Castel San Giorgio, Cava de' Tirreni, Fisciano, Mercato San Severino, Pellezzano, Roccapiemonte, Siano; Provincia di Avellino: Contrada, Forino, Montoro, Moschiano"
+    },
+    {
+      "denominazione": "Ciliegia di Lari",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE 2023/1671 del 24.08.2023",
+      "regione": "Toscana",
+      "province": "Casciana Terme – Lari, Terricciola, Crespina-Lorenzana"
+    },
+    {
+      "denominazione": "Ciliegia dell'Etna",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1363 del 19.12.11",
+      "regione": "Sicilia",
+      "province": "Catania"
+    },
+    {
+      "denominazione": "Ciliegia di Marostica",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 245 del 08.02.02",
+      "regione": "Veneto",
+      "province": "Vicenza"
+    },
+    {
+      "denominazione": "Ciliegia di Vignola",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1032 del 26.10.12",
+      "regione": "Emilia-Romagna",
+      "province": "Modena, Bologna"
+    },
+    {
+      "denominazione": "Cinta senese",
+      "categoria": "D.O.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. UE n. 217 del 13.03.12 Reg. UE n. 412 del 12.03.20",
+      "regione": "Toscana",
+      "province": "Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Prato, Siena"
+    },
+    {
+      "denominazione": "Cioccolato di Modica",
+      "categoria": "I.G.P.",
+      "tipologia": "Cioccolato e prodotti derivati",
+      "regolamento": "Reg. UE n. 1529 del 08.10.18",
+      "regione": "Sicilia",
+      "province": "Ragusa"
+    },
+    {
+      "denominazione": "Cipolla bianca di Margherita",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1865 del 07.10.15",
+      "regione": "Puglia",
+      "province": "Barletta-Andra-Trani, Foggia"
+    },
+    {
+      "denominazione": "Cipolla rossa di Tropea Calabria",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 284 del 27.03.08",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Vibo Valentia"
+    },
+    {
+      "denominazione": "Cipollotto nocerino",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 656 del 10.07.08",
+      "regione": "Campania",
+      "province": "Salerno, Napoli"
+    },
+    {
+      "denominazione": "Clementine del golfo di Taranto",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1665 del 22.09.03",
+      "regione": "Puglia",
+      "province": "Taranto"
+    },
+    {
+      "denominazione": "Clementine di Calabria",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Calabria",
+      "province": "Reggio Calabria, Catanzaro, Cosenza, Vibo Valentia, Crotone"
+    },
+    {
+      "denominazione": "Colatura di alici di Cetara",
+      "categoria": "D.O.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. UE n. 1529 del 14.10.20",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Collina di Brindisi",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Puglia",
+      "province": "Brindisi"
+    },
+    {
+      "denominazione": "Colline di Romagna",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1491 del 25.08.03",
+      "regione": "Emilia-Romagna",
+      "province": "Forlì-Cesena, Rimini"
+    },
+    {
+      "denominazione": "Colline Pontine",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 259 del 25.03.10",
+      "regione": "Lazio",
+      "province": "Latina"
+    },
+    {
+      "denominazione": "Colline Salernitane",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Colline Teatine",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Abruzzo",
+      "province": "Chieti"
+    },
+    {
+      "denominazione": "Coppa di Parma",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 1118 del 31.10.11",
+      "regione": "Emilia-Romagna, Lombardia",
+      "province": "Parma, Modena, Reggio Emilia, Mantova, Pavia, Lodi, Milano, Cremona"
+    },
+    {
+      "denominazione": "Coppa piacentina",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Emilia-Romagna",
+      "province": "Piacenza"
+    },
+    {
+      "denominazione": "Coppia ferrarese",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara"
+    },
+    {
+      "denominazione": "Cotechino Modena",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 590 del 18.03.99",
+      "regione": "Emilia-Romagna, Lombardia, Veneto,",
+      "province": "Modena, Ferrara, Ravenna, Rimini, Forlì-Cesena, Bologna, Reggio Emilia, Parma, Piacenza, Cremona, Lodi, Pavia, Milano, Varese, Como, Lecco, Bergamo, Brescia, Mantova, Verona, Rovigo"
+    },
+    {
+      "denominazione": "Cozza di Scardovari",
+      "categoria": "D.O.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. UE n. 1200 del 25.11.13",
+      "regione": "Veneto,",
+      "province": "Rovigo"
+    },
+    {
+      "denominazione": "Crudo di Cuneo",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 1239 del 15.12.09",
+      "regione": "Piemonte",
+      "province": "Cuneo, Asti, Torino"
+    },
+    {
+      "denominazione": "Culatello di Zibello",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Emilia-Romagna",
+      "province": "Parma"
+    },
+    {
+      "denominazione": "Culurgionis d'Ogliastra",
+      "categoria": "I.G.P.",
+      "tipologia": "Pasta alimentare",
+      "regolamento": "Reg. UE n. 1729 del 22.09.16",
+      "regione": "Sardegna",
+      "province": "Ogliastra, Cagliari"
+    },
+    {
+      "denominazione": "Dauno",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Puglia",
+      "province": "Foggia"
+    },
+    {
+      "denominazione": "Fagioli bianchi di Rotonda",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 240 dell'11.03.11",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Fagiolo cannellino di Atina",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 699 del 04.08.10",
+      "regione": "Lazio",
+      "province": "Frosinone"
+    },
+    {
+      "denominazione": "Fagiolo Cuneo",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 483 del 18.05.11",
+      "regione": "Piemonte",
+      "province": "Cuneo"
+    },
+    {
+      "denominazione": "Fagiolo di Lamon della Vallata Bellunese",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Veneto",
+      "province": "Belluno"
+    },
+    {
+      "denominazione": "Fagiolo di Sarconi",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Fagiolo di Sorana",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1018 del 13.06.02",
+      "regione": "Toscana",
+      "province": "Sorana, Pescia (PT)"
+    },
+    {
+      "denominazione": "Farina di castagne della Lunigiana",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 374 dell'11.04.11",
+      "regione": "Toscana",
+      "province": "Massa Carrara"
+    },
+    {
+      "denominazione": "Farina di Neccio della Garfagnana",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 465 del 12.03.04",
+      "regione": "Toscana",
+      "province": "Lucca"
+    },
+    {
+      "denominazione": "Farro della Garfagnana",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Toscana",
+      "province": "Lucca"
+    },
+    {
+      "denominazione": "Farro di Monteleone di Spoleto",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 623 del 15.07.10",
+      "regione": "Umbria",
+      "province": "Perugia"
+    },
+    {
+      "denominazione": "Fichi di Cosenza",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 596 del 07.06.11",
+      "regione": "Calabria",
+      "province": "Cosenza"
+    },
+    {
+      "denominazione": "Fico bianco del Cilento",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 417 del 10.03.06",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Ficodindia dell'Etna",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1491 del 25.08.03",
+      "regione": "Sicilia",
+      "province": "Catania"
+    },
+    {
+      "denominazione": "Ficodindia di San Cono",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 225 del 06.03.13",
+      "regione": "Sicilia",
+      "province": "Catania, Enna, Caltanissetta"
+    },
+    {
+      "denominazione": "Finocchiona",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 629 del 22.04.15",
+      "regione": "Toscana",
+      "province": "Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa-Carrara, Pisa, Pistoia, Prato e Siena"
+    },
+    {
+      "denominazione": "Finocchio di Isola Capo Rizzuto",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 2022/1416 del 16.08.22",
+      "regione": "Calabria",
+      "province": "Provincia di Catanzaro: Botricello e Belcastro; Provincia di Crotone: Mesoraca, Cutro, Isola di Capo Rizzuto, Crotone, Rocca di Neto e Strongoli"
+    },
+    {
+      "denominazione": "Fiore sardo",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Sardegna",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Focaccia di Recco col formaggio",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 39 del 13.01.15",
+      "regione": "Liguria",
+      "province": "Genova"
+    },
+    {
+      "denominazione": "Fontina",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96; Reg. UE n. 93 del 03.02.11",
+      "regione": "Valle d'Aosta",
+      "province": "Aosta"
+    },
+    {
+      "denominazione": "Formaggella del Luinese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 375 dell'11.04.11",
+      "regione": "Lombardia",
+      "province": "Varese"
+    },
+    {
+      "denominazione": "Formaggio di fossa di Sogliano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1183 del 30.11.09",
+      "regione": "Emilia-Romagna, Marche",
+      "province": "Forlì-Cesena, Rimini, Ravenna, Bologna, Pesaro e Urbino, Ancona, Macerata, Ascoli Piceno"
+    },
+    {
+      "denominazione": "Formai de Mut dell'Alta Valle Brembana",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Lombardia",
+      "province": "Bergamo"
+    },
+    {
+      "denominazione": "Fragola della Basilicata",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE 2239 del 29 ottobre 2025 G",
+      "regione": "Basilicata",
+      "province": "Bernalda, Montalbano Jonico, Montescaglioso, Nova Siri, Pisticci, Policoro, Rotondella, Scanzano Jonico, Tursi"
+    },
+    {
+      "denominazione": "Fungo di Borgotaro",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Emilia-Romagna, Toscana",
+      "province": "Parma, Massa Carrara"
+    },
+    {
+      "denominazione": "Garda",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Lombardia, Veneto, Prov. Aut. di Trento",
+      "province": "Brescia, Verona, Mantova, Trento"
+    },
+    {
+      "denominazione": "Gorgonzola",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 104 del 03.02.09",
+      "regione": "Piemonte, Lombardia",
+      "province": "Alessandria, Bergamo, Brescia, Como, Cremona, Cuneo, Milano, Novara, Pavia, Vercelli"
+    },
+    {
+      "denominazione": "Grana Padano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Emilia-Romagna, Lombardia, Piemonte, Prov. Aut. di Trento, Veneto",
+      "province": "Alessandria, Asti, Cuneo, Novara, Torino, Vercelli, Bergamo, Brescia, Como, Cremona, Mantova, Milano, Lodi, Pavia, Sondrio, Varese, Padova, Trento, Rovigo, Treviso, Venezia, Verona, Vicenza, Bologna, Ferrara, Forlì, Piacenza, Ravenna"
+    },
+    {
+      "denominazione": "Insalata di Lusia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1137 del 25.11.09",
+      "regione": "Veneto",
+      "province": "Rovigo e Padova"
+    },
+    {
+      "denominazione": "Irpinia - Colline dell'Ufita",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 203 del 10.03.10",
+      "regione": "Campania",
+      "province": "Avellino"
+    },
+    {
+      "denominazione": "Kiwi Latina",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1486 del 20.08.04",
+      "regione": "Lazio",
+      "province": "Latina, Roma"
+    },
+    {
+      "denominazione": "La Bella della Daunia",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1904 del 07.09.00 Reg. CE n. 1067 del 06.11.09",
+      "regione": "Puglia",
+      "province": "Foggia"
+    },
+    {
+      "denominazione": "Laghi Lombardi",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Lombardia",
+      "province": "Brescia, Bergamo, Como, Lecco"
+    },
+    {
+      "denominazione": "Lametia",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2107 del 04.10.99",
+      "regione": "Calabria",
+      "province": "Catanzaro"
+    },
+    {
+      "denominazione": "Lardo di Colonnata",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1856 del 26.10.04",
+      "regione": "Toscana",
+      "province": "Massa Carrara"
+    },
+    {
+      "denominazione": "Lenticchia di Altamura",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 2362 del 05.12.17",
+      "regione": "Puglia, Basilicata",
+      "province": "Bari, Barletta-Andria-Trani, Matera. Potenza"
+    },
+    {
+      "denominazione": "Lenticchia di Castelluccio di Norcia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Umbria, Marche",
+      "province": "Perugia, Macerata"
+    },
+    {
+      "denominazione": "Lenticchia di Onano",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg UE 2022/897 2.06 22",
+      "regione": "Lazio",
+      "province": "Acquapendente, Gradoli, Grotte di Castro, Latera, Onano e San Lorenzo Nuovo"
+    },
+    {
+      "denominazione": "Limone Costa d'Amalfi",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1356 del 04.07.01",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Limone dell'Etna",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1533 del 22.10.20",
+      "regione": "Sicilia",
+      "province": "Catania"
+    },
+    {
+      "denominazione": "Limone di Rocca Imperiale",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 149 del 20.02.12",
+      "regione": "Calabria",
+      "province": "Cosenza"
+    },
+    {
+      "denominazione": "Limone di Siracusa",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 96 del 03.02.11",
+      "regione": "Sicilia",
+      "province": "Siracusa"
+    },
+    {
+      "denominazione": "Limone di Sorrento",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2446 del 06.11.00 Reg. UE n. 14 del 10.01.11",
+      "regione": "Campania",
+      "province": "Napoli"
+    },
+    {
+      "denominazione": "Limone femminello del Gargano",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 148 del 15.02.07",
+      "regione": "Puglia",
+      "province": "Foggia"
+    },
+    {
+      "denominazione": "Limone interdonato di Messina",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1081 dell'11.11.09",
+      "regione": "Sicilia",
+      "province": "Messina"
+    },
+    {
+      "denominazione": "Liquirizia di Calabria",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'Allegato I",
+      "regolamento": "Reg. UE n. 1072 del 20.10.11",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia"
+    },
+    {
+      "denominazione": "Lucanica di Picerno",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 1615 del 22.10.10",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Lucca",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1845 del 22.10.04",
+      "regione": "Toscana",
+      "province": "Lucca, Massa Carrara"
+    },
+    {
+      "denominazione": "Maccheroncini di Campofilone",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1130 del 07.11.13",
+      "regione": "Marche",
+      "province": "Fermo"
+    },
+    {
+      "denominazione": "Marche",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 702 del 04.04.17",
+      "regione": "Marche",
+      "province": "Ancona, Ascoli Piceno, Fermo, Macerata, Pesaro e Urbino"
+    },
+    {
+      "denominazione": "Marrone del Mugello",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Toscana",
+      "province": "Firenze"
+    },
+    {
+      "denominazione": "Marrone della Valle di Susa",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 987 del 03.11.10",
+      "regione": "Piemonte",
+      "province": "Torino"
+    },
+    {
+      "denominazione": "Marrone di Caprese Michelangelo",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1237 dell'11.12.09",
+      "regione": "Toscana",
+      "province": "Arezzo"
+    },
+    {
+      "denominazione": "Marrone di Castel del Rio",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Emilia-Romagna",
+      "province": "Bologna"
+    },
+    {
+      "denominazione": "Marrone di Combai",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1180 del 30.11.09",
+      "regione": "Veneto",
+      "province": "Treviso"
+    },
+    {
+      "denominazione": "Marrone di Roccadaspide",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 284 del 27.03.08",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Marrone di San Zeno",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1979 dell'11.11.03",
+      "regione": "Veneto",
+      "province": "Verona"
+    },
+    {
+      "denominazione": "Marrone di Serino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1234 del 12.09.18",
+      "regione": "Campania",
+      "province": "Avellino, Salerno"
+    },
+    {
+      "denominazione": "Marroni del Monfenera",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1132 del 24.11.09",
+      "regione": "Veneto",
+      "province": "Treviso"
+    },
+    {
+      "denominazione": "Mela Alto Adige o Südtiroler Apfel",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1855 del 14.11.05",
+      "regione": "Prov. Aut. di Bolzano",
+      "province": "Bolzano"
+    },
+    {
+      "denominazione": "Mela di Valtellina",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 171 del 01.03.10",
+      "regione": "Lombardia",
+      "province": "Sondrio"
+    },
+    {
+      "denominazione": "Mela rossa Cuneo",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 223 del 06.03.13",
+      "regione": "Piemonte",
+      "province": "Cuneo, Torino"
+    },
+    {
+      "denominazione": "Mela Val di Non",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1665 del 22.09.03 Reg. UE n. 778 del 02.09.10",
+      "regione": "Prov. Aut. di Trento",
+      "province": "Trento"
+    },
+    {
+      "denominazione": "Melannurca Campana",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 417 del 10.03.06",
+      "regione": "Campania",
+      "province": "Avellino, Benevento, Caserta, Napoli e Salerno"
+    },
+    {
+      "denominazione": "Melanzana rossa di Rotonda",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 624 del 15.07.10",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Mele del Trentino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 890 del 23.06.20",
+      "regione": "Prov. Aut. di Trento",
+      "province": "Trento"
+    },
+    {
+      "denominazione": "Melone mantovano",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1109 del 05.11.13",
+      "regione": "Lombardia, Emilia-Romagna",
+      "province": "Mantova, Cremona, Modena, Bologna, Ferrara"
+    },
+    {
+      "denominazione": "Miele della Lunigiana",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti di origine animale",
+      "regolamento": "Reg. CE n. 1845 del 22.10.04",
+      "regione": "Toscana",
+      "province": "Massa Carrara"
+    },
+    {
+      "denominazione": "Miele delle Dolomiti Bellunesi",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti di origine animale",
+      "regolamento": "Reg. UE n. 241 dell'11.03.11",
+      "regione": "Veneto",
+      "province": "Belluno"
+    },
+    {
+      "denominazione": "Miele Varesino",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti di origine animale",
+      "regolamento": "Reg. UE n. 328 del 26.03.14",
+      "regione": "Lombardia",
+      "province": "Varese"
+    },
+    {
+      "denominazione": "Molise",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1257 del 15.07.03",
+      "regione": "Molise",
+      "province": "Campobasso, Isernia"
+    },
+    {
+      "denominazione": "Montasio",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. UE n. 355 dell'8.04.11",
+      "regione": "Friuli Venezia Giulia, Veneto",
+      "province": "Gorizia, Pordenone, Trieste, Udine , Belluno, Treviso, Padova, Venezia"
+    },
+    {
+      "denominazione": "Monte Etna",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1491 del 25.08.03",
+      "regione": "Sicilia",
+      "province": "Catania, Enna, Messina"
+    },
+    {
+      "denominazione": "Monte Veronese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Veneto",
+      "province": "Verona"
+    },
+    {
+      "denominazione": "Monti Iblei",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97 Reg. CE n. 828 del 14.05.03 Reg. UE n. 307 del 14.04.10",
+      "regione": "Sicilia",
+      "province": "Siracusa, Ragusa, Catania"
+    },
+    {
+      "denominazione": "Mortadella Bologna",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1549 del 17.07.98",
+      "regione": "Emilia-Romagna, Piemonte, Lombardia, Veneto, Marche, Lazio, Prov. Aut. di Trento, Toscana",
+      "province": "Modena, Parma, Piacenza, Ravenna, Reggio Emilia, Alessandria, Asti, Cuneo, Novara, Torino, Vercelli, Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio, Varese, Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza, Ancona, Ascoli Piceno, Macerata, Pesaro e Urbino, Roma, Frosinone, Viterbo, Latina, Rieti, Trento, Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa Carrara, Pisa, Pistoia, Siena, Ferrara, Forlì - Cesena"
+    },
+    {
+      "denominazione": "Mortadella di Prato",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 162 del 28.01.16",
+      "regione": "Toscana",
+      "province": "Prato, Pistoia"
+    },
+    {
+      "denominazione": "Mozzarella",
+      "categoria": "S.T.G.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 2527 del 25.11.98",
+      "regione": "tutte",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Mozzarella di bufala campana",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 103 del 04.02.08",
+      "regione": "Campania, Lazio, Molise, Puglia",
+      "province": "Benevento, Caserta, Napoli, Salerno, Frosinone, Latina, Roma, Foggia, Isernia"
+    },
+    {
+      "denominazione": "Mozzarella di Gioia del Colle",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE 2020/2018 DEL 09,12,2020",
+      "regione": "Puglia, Basilicata",
+      "province": "Bari, Taranto, Matera"
+    },
+    {
+      "denominazione": "Murazzano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Piemonte",
+      "province": "Cuneo"
+    },
+    {
+      "denominazione": "Nocciola del Piemonte o Nocciola Piemonte",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 464 del 12.03.04",
+      "regione": "Piemonte",
+      "province": "Alessandria, Asti, Cuneo. Novara, Torino, Vercelli"
+    },
+    {
+      "denominazione": "Nocciola di Giffoni",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97 Reg. CE n. 1257 del 21.08.06",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Nocciola romana",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 667 del 22.07.09",
+      "regione": "Lazio",
+      "province": "Viterbo, Roma"
+    },
+    {
+      "denominazione": "Nocellara del Belice",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Sicilia",
+      "province": "Trapani"
+    },
+    {
+      "denominazione": "Nostrano Valtrompia",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 629 del 06.07.12",
+      "regione": "Lombardia",
+      "province": "Brescia"
+    },
+    {
+      "denominazione": "Olio Campania",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n 023/666 del 16.03.23",
+      "regione": "Campania",
+      "province": ""
+    },
+    {
+      "denominazione": "Olio di Calabria",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 2301 del 08.12.16",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Vibo Valentia, Reggio Calabria"
+    },
+    {
+      "denominazione": "Olio di Puglia",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE 2021/1261",
+      "regione": "Puglia",
+      "province": "Bari, Barletta-Andria-Trani, Brindisi, Foggia, Lecce, Taranto"
+    },
+    {
+      "denominazione": "Olio di Roma",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE 2021/1261",
+      "regione": "Lazio",
+      "province": ""
+    },
+    {
+      "denominazione": "Oliva Ascolana del Piceno",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1855 del 14.11.05",
+      "regione": "Marche, Abruzzo",
+      "province": "Ascoli, Teramo"
+    },
+    {
+      "denominazione": "Olive Taggiasche Liguri",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. (UE) 2025/1995 del 25.09.2025",
+      "regione": "Liguria",
+      "province": ""
+    },
+    {
+      "denominazione": "Olio Lucano",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1389 del 28.09.20",
+      "regione": "Basilicata",
+      "province": "Potenza, Matera"
+    },
+    {
+      "denominazione": "Oliva di Gaeta",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 2252 del 01.12.16",
+      "regione": "Lazio, Campania",
+      "province": "Latina, Frosinone, Roma, Caserta"
+    },
+    {
+      "denominazione": "Ossolano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1788 del 22.09.17",
+      "regione": "Piemonte",
+      "province": "Verbania Cusio Ossola"
+    },
+    {
+      "denominazione": "Pagnotta del Dittaino",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 516 del 17.06.09",
+      "regione": "Sicilia",
+      "province": "Enna, Catania"
+    },
+    {
+      "denominazione": "Pampapato di Ferrara o Pampepato di Ferrara",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg.UE n. 2015 del 24.11.15",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara"
+    },
+    {
+      "denominazione": "Pampapato di Terni o Pampepato di Terni",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 1538 del 16.10.20",
+      "regione": "Umbria",
+      "province": "Terni"
+    },
+    {
+      "denominazione": "Pancetta di Calabria",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia"
+    },
+    {
+      "denominazione": "Pancetta piacentina",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 1170 del 10.12.10",
+      "regione": "Emilia-Romagna",
+      "province": "Piacenza"
+    },
+    {
+      "denominazione": "Pane casareccio di Genzano",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Lazio",
+      "province": "Roma"
+    },
+    {
+      "denominazione": "Pane di Altamura",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 1291 del 18.07.03",
+      "regione": "Puglia",
+      "province": "Bari"
+    },
+    {
+      "denominazione": "Pane di Matera",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 160 del 21.02.08",
+      "regione": "Basilicata",
+      "province": "Matera"
+    },
+    {
+      "denominazione": "Pane toscano",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. CE n. 303 del 01.03.16",
+      "regione": "Toscana",
+      "province": "Grosseto, Massa-Carrara, Arezzo, Siena, Firenze, Pistoia, Pisa, Livorno, Lucca, Prato"
+    },
+    {
+      "denominazione": "Panforte di Siena",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 466 del 07.05.13",
+      "regione": "Toscana",
+      "province": "Siena"
+    },
+    {
+      "denominazione": "Parmigiano Reggiano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 1571 del 06.09.03 Reg. UE n. 794 del 08.08.11",
+      "regione": "Emilia-Romagna, Lombardia",
+      "province": "Parma, Reggio Emilia, Modena, Bologna, Mantova"
+    },
+    {
+      "denominazione": "Pasta di Gragnano",
+      "categoria": "I.G.P.",
+      "tipologia": "Paste alimentari",
+      "regolamento": "Reg. UE n. 969 del 02.10.13",
+      "regione": "Campania",
+      "province": "Napoli"
+    },
+    {
+      "denominazione": "Patata dell'Alto Viterbese",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 159 del 13.02.14",
+      "regione": "Lazio",
+      "province": "Viterbo"
+    },
+    {
+      "denominazione": "Patata della Sila",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 898 dell'8.10.10",
+      "regione": "Calabria",
+      "province": "Cosenza, Catanzaro"
+    },
+    {
+      "denominazione": "Patata del Fucino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 656 del 18.04.16",
+      "regione": "Abruzzo",
+      "province": "L'Aquila"
+    },
+    {
+      "denominazione": "Patata di Bologna",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 228 del 18.03.10",
+      "regione": "Emilia-Romagna",
+      "province": "Bologna"
+    },
+    {
+      "denominazione": "Patata novella di Galatina",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1577 del 09.09.15",
+      "regione": "Puglia",
+      "province": "Lecce"
+    },
+    {
+      "denominazione": "Patata rossa di Colfiorito",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 624 del 14.04.15",
+      "regione": "Umbria e Marche",
+      "province": "Perugia, Macerata"
+    },
+    {
+      "denominazione": "Pecorino Crotonese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1262 del 18.11.14",
+      "regione": "Calabria",
+      "province": "Crotone"
+    },
+    {
+      "denominazione": "Pecorino delle Balze Volterrane",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 271 del 17.02.15",
+      "regione": "Toscana",
+      "province": "Pisa"
+    },
+    {
+      "denominazione": "Pecorino del Monte Poro",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 974 del 06.07.20",
+      "regione": "Calabria",
+      "province": "Vibo Valentia"
+    },
+    {
+      "denominazione": "Pecorino di Filiano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1485 del 14.12.07",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Pecorino di Picinisco",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE 1161 del 07.11.13",
+      "regione": "Lazio",
+      "province": "Frosinone"
+    },
+    {
+      "denominazione": "Pecorino romano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 1030 del 29.10.09",
+      "regione": "Toscana, Lazio, Sardegna",
+      "province": "Frosinone, Grosseto, Latina, Roma, Viterbo, Cagliari, Nuoro, Sassari"
+    },
+    {
+      "denominazione": "Pecorino sardo",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 215 del 01.03.11",
+      "regione": "Sardegna",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Pecorino siciliano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Sicilia",
+      "province": "Agrigento, Caltanissetta, Catania, Enna, Messina, Palermo, Ragusa, Siracusa, Trapani"
+    },
+    {
+      "denominazione": "Pecorino toscano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 306 del 14.04.10",
+      "regione": "Toscana, Umbria, Lazio",
+      "province": "Arezzo, Firenze, Grosseto, Siena, Livorno, Lucca, Massa Carrara, Pistoia, Pisa, Viterbo, Terni"
+    },
+    {
+      "denominazione": "Penisola sorrentina",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97",
+      "regione": "Campania",
+      "province": "Napoli"
+    },
+    {
+      "denominazione": "Peperone di Pontecorvo",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1021 del 12.11.10",
+      "regione": "Lazio",
+      "province": "Frosinone"
+    },
+    {
+      "denominazione": "Peperone di Senise",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Basilicata",
+      "province": "Potenza, Matera"
+    },
+    {
+      "denominazione": "Pera dell'Emilia Romagna",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 134 del 20.01.98 Reg. CE n. 515 del 17.06.09",
+      "regione": "Emilia-Romagna",
+      "province": "Reggio Emilia, Modena, Ferrara, Bologna, Ravenna"
+    },
+    {
+      "denominazione": "Pera mantovana",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Lombardia",
+      "province": "Mantova"
+    },
+    {
+      "denominazione": "Pescabivona",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 962 del 29.08.14",
+      "regione": "Sicilia",
+      "province": "Agrigento, Palermo"
+    },
+    {
+      "denominazione": "Pesca di Leonforte",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 622 del 15.07.10",
+      "regione": "Sicilia",
+      "province": "Enna"
+    },
+    {
+      "denominazione": "Pesca di Verona",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 30 del 14.01.10",
+      "regione": "Veneto",
+      "province": "Verona"
+    },
+    {
+      "denominazione": "Pesca di Delia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 134 del 20.01.98 Reg. UE n. 701 del 04.08.10",
+      "regione": "Sicilia",
+      "province": "Caltanissetta, Agrigento"
+    },
+    {
+      "denominazione": "Pesca e Nettarina di Romagna",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 790 del 10.05.21",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara, Bologna, Forlì - Cesena, Ravenna"
+    },
+    {
+      "denominazione": "Piacentinu Ennese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 132 del 14.02.11",
+      "regione": "Sicilia",
+      "province": "Enna"
+    },
+    {
+      "denominazione": "Piadina romagnola o Piada romagnola",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 1174 del 24.10.14",
+      "regione": "Emilia-Romagna",
+      "province": "Rimini, Forlì, Cesena, Ravenna e Bologna"
+    },
+    {
+      "denominazione": "Piave",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 443 del 21.05.10",
+      "regione": "Veneto",
+      "province": "Belluno"
+    },
+    {
+      "denominazione": "Pistacchio di Raffadali",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 474 del 15.03.2021",
+      "regione": "Sicilia",
+      "province": "Agrigento, Caltanissetta"
+    },
+    {
+      "denominazione": "Pistacchio verde di Bronte",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 21 del 12.01.10",
+      "regione": "Sicilia",
+      "province": "Catania"
+    },
+    {
+      "denominazione": "Pitina",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 930 del 19.06.18",
+      "regione": "Friuli Venezia Giulia",
+      "province": "Pordedone"
+    },
+    {
+      "denominazione": "Pizza napoletana",
+      "categoria": "S.T.G.",
+      "tipologia": "",
+      "regolamento": "Reg. UE n. 97 del 04.02.10",
+      "regione": "tutte",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Pizzoccheri della Valtellina",
+      "categoria": "I.G.P.",
+      "tipologia": "Pasta alimentare",
+      "regolamento": "Reg. UE n. 1730 del 22.09.16",
+      "regione": "Lombardia",
+      "province": "Sondrio"
+    },
+    {
+      "denominazione": "Pomodorino del piennolo del Vesuvio",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1238 dell'11.12.09",
+      "regione": "Campania",
+      "province": "Napoli"
+    },
+    {
+      "denominazione": "Pomodoro di Pachino",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 617 del 04.04.03",
+      "regione": "Sicilia",
+      "province": "Ragusa, Siracusa"
+    },
+    {
+      "denominazione": "Pomodoro di San Marzano dell'agro sarnese-nocerino",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Campania",
+      "province": "Salerno, Avellino, Napoli"
+    },
+    {
+      "denominazione": "Porchetta di Ariccia",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 567 del 14.06.11",
+      "regione": "Lazio",
+      "province": "Roma"
+    },
+    {
+      "denominazione": "Pretuziano delle Colline Teramane",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1491 del 25.08.03",
+      "regione": "Abruzzo",
+      "province": "Teramo"
+    },
+    {
+      "denominazione": "Prosciutto Amatriciano",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 731 del 22.07.11",
+      "regione": "Lazio",
+      "province": "Rieti"
+    },
+    {
+      "denominazione": "Prosciutto di Carpegna",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 308 del 14.04.10",
+      "regione": "Marche",
+      "province": "Pesaro e Urbino"
+    },
+    {
+      "denominazione": "Prosciutto di Modena",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Emilia-Romagna",
+      "province": "Modena, Bologna, Reggio Emilia"
+    },
+    {
+      "denominazione": "Prosciutto di Norcia",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1065 del 12.06.97 Reg. CE n. 1082 dell'11.11.09",
+      "regione": "Umbria",
+      "province": "Perugia"
+    },
+    {
+      "denominazione": "Prosciutto di Parma",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96 Reg. CE n. 102 del 04.02.08 Reg. UE n. 148 del 23.02.10",
+      "regione": "Emilia-Romagna",
+      "province": "Parma"
+    },
+    {
+      "denominazione": "Prosciutto di San Daniele",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Friuli Venezia Giulia",
+      "province": "Udine"
+    },
+    {
+      "denominazione": "Prosciutto di Sauris",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 320 del 19.04.10",
+      "regione": "Friuli Venezia Giulia",
+      "province": "Udine"
+    },
+    {
+      "denominazione": "Prosciutto toscano",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 777 del 02.09.10",
+      "regione": "Toscana",
+      "province": "Arezzo, Firenze, Grosseto, Siena, Livorno, Lucca, Massa Carrara, Pistoia, Pisa"
+    },
+    {
+      "denominazione": "Prosciutto Veneto Berico-Euganeo",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Veneto",
+      "province": "Vicenza, Verona, Padova"
+    },
+    {
+      "denominazione": "Provola dei Nebrodi",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1319 del 22.09.20",
+      "regione": "Sicilia",
+      "province": "Catania, Enna e Messina"
+    },
+    {
+      "denominazione": "Provolone del Monaco",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 121 del 09.02.10",
+      "regione": "Campania",
+      "province": "Napoli"
+    },
+    {
+      "denominazione": "Provolone Valpadana",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Prov. Aut. di Trento, Lombardia, Veneto, Emilia-Romagna",
+      "province": "Cremona, Brescia, Verona, Vicenza, Rovigo, Padova, Piacenza, Bergamo, Mantova, Milano, Trento"
+    },
+    {
+      "denominazione": "Puzzone di Moena/Spretz Tzaorì",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1162 del 07.11.13",
+      "regione": "Prov. Aut. di Trento, Prov. Aut. di Bolzano",
+      "province": "Trento, Bolzano"
+    },
+    {
+      "denominazione": "Quartirolo Lombardo",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Lombardia",
+      "province": "Brescia, Bergamo, Como, Cremona, Milano, Pavia, Varese"
+    },
+    {
+      "denominazione": "Radicchio di Chioggia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1025 del 17.10.08",
+      "regione": "Veneto",
+      "province": "Venezia, Padova, Rovigo"
+    },
+    {
+      "denominazione": "Radicchio di Verona",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 98 del 02.02.09",
+      "regione": "Veneto",
+      "province": "Verona, Vicenza, Padova"
+    },
+    {
+      "denominazione": "Radicchio rosso di Treviso",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 784 del 05.08.08",
+      "regione": "Veneto",
+      "province": "Treviso, Padova, Venezia"
+    },
+    {
+      "denominazione": "Radicchio Variegato di Castelfranco",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 784 del 05.08.08",
+      "regione": "Veneto",
+      "province": "Treviso, Padova, Venezia"
+    },
+    {
+      "denominazione": "Ragusano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Sicilia",
+      "province": "Ragusa, Siracusa"
+    },
+    {
+      "denominazione": "Raschera",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Piemonte",
+      "province": "Cuneo"
+    },
+    {
+      "denominazione": "Ricciarelli di Siena",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 229 del 18.03.10",
+      "regione": "Toscana",
+      "province": "Siena"
+    },
+    {
+      "denominazione": "Ricotta di bufala campana",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti di origine animale",
+      "regolamento": "Reg. UE n. 634 del 19.07.10",
+      "regione": "Campania, Lazio, Molise, Puglia",
+      "province": "Benevento, Caserta, Napoli, Salerno, Frosinone, Latina, Roma, Foggia, Isernia"
+    },
+    {
+      "denominazione": "Ricotta romana",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti di origine animale",
+      "regolamento": "Reg. CE n. 737 del 13.05.05 Reg. UE n. 1192 del 16.12.10",
+      "regione": "Lazio",
+      "province": "Roma, Frosinone, Viterbo, Latina, Rieti"
+    },
+    {
+      "denominazione": "Riso del Delta del Po",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1078 del 10.11.09",
+      "regione": "Veneto, Emilia-Romagna",
+      "province": "Rovigo, Ferrara"
+    },
+    {
+      "denominazione": "Riso di Baraggia Biellese e Vercellese",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 982 del 21.08.07",
+      "regione": "Piemonte",
+      "province": "Biella, Vercelli"
+    },
+    {
+      "denominazione": "Riso Vialone Nano Veronese",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 205 del 16.03.09 Rettifica",
+      "regione": "Veneto",
+      "province": "Verona"
+    },
+    {
+      "denominazione": "Riviera Ligure",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 123 del 23.01.97",
+      "regione": "Liguria",
+      "province": "Imperia, Savona, Genova, La Spezia"
+    },
+    {
+      "denominazione": "Robiola di Roccaverano",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 217 del 01.03.11",
+      "regione": "Piemonte",
+      "province": "Asti, Alessandria"
+    },
+    {
+      "denominazione": "Rucola della Piana del Sele",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 1767 del 20.11.20",
+      "regione": "Campania",
+      "province": "Salerno"
+    },
+    {
+      "denominazione": "Sabina",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. CE n. 510 del 16.06.09",
+      "regione": "Lazio",
+      "province": "Rieti, Roma"
+    },
+    {
+      "denominazione": "Salama da sugo",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 1173 del 24.10.14",
+      "regione": "Emilia-Romagna",
+      "province": "Ferrara"
+    },
+    {
+      "denominazione": "Salame Brianza",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Lombardia",
+      "province": "Brescia, Bergamo, Como, Cremona, Milano, Pavia, Varese"
+    },
+    {
+      "denominazione": "Salame Cremona",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1362 del 23.11.07",
+      "regione": "Lombardia, Emilia-Romagna, Piemonte, Veneto",
+      "province": "Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Mantova, Milano, Monza e della Brianza, Pavia, Sondrio, Varese, Bologna, Ferrara, Forlì-Cesena, Modena, Parma, Piacenza, Ravenna, Reggio Emilia, Rimini, Alessandria, Asti, Biella, Cuneo, Novara, Torino, Verbano Cusio e Ossola, Vercelli, Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza"
+    },
+    {
+      "denominazione": "Salame di Varzi",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Lombardia",
+      "province": "Pavia"
+    },
+    {
+      "denominazione": "Salame d'oca di Mortara",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1165 del 24.06.04",
+      "regione": "Lombardia",
+      "province": "Pavia"
+    },
+    {
+      "denominazione": "Salame Felino",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 186 del 05.03.13",
+      "regione": "Emilia-Romagna",
+      "province": "Parma"
+    },
+    {
+      "denominazione": "Salame Piacentino",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96; Reg. UE n. 92 del 03.02.11",
+      "regione": "Emilia-Romagna",
+      "province": "Piacenza"
+    },
+    {
+      "denominazione": "Salame Piemonte",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. UE n. 1161 del 02.07.15",
+      "regione": "Piemonte",
+      "province": "Alessandria, Asti, Biella, Cuneo, Novara, Torino, Verbano-Cusio-Ossola, Vercelli"
+    },
+    {
+      "denominazione": "Salame Sant'Angelo di Brolo",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 944 del 25.09.08",
+      "regione": "Sicilia",
+      "province": "Messina"
+    },
+    {
+      "denominazione": "Salamini italiani alla cacciatora",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1778 del 07.09.01",
+      "regione": "Abruzzo, Emilia-Romagna, Friuli Venezia Giulia, Lazio, Lombardia, Marche, Piemonte, Toscana, Umbria, Molise, Veneto",
+      "province": "L'Aquila, Chieti, Pescara, Teramo, Bologna, Ferrara, Forlì, Modena, Parma, Piacenza, Ravenna, Reggio Emilia, Gorizia, Pordenone, Trieste, Udine , Roma, Frosinone, Rieti, Latina, Viterbo, Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Sondrio, Varese, Ancona, Ascoli Piceno, Macerata, Pesaro e Urbino, Alessandria, Asti, Cuneo, Novara, Torino, Vercelli, Arezzo, Siena, Firenze, Pisa, Pistoia, Grosseto, Livorno, Lucca, Massa Carrara, Perugia, Terni, Campobasso, Isernia, Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza"
+    },
+    {
+      "denominazione": "Sale marino di Trapani",
+      "categoria": "I.G.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. UE n. 1175 del 07.12.12",
+      "regione": "Sicilia",
+      "province": "Trapani"
+    },
+    {
+      "denominazione": "Salmerino del Trentino",
+      "categoria": "I.G.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. UE n. 474 del 07.05.13",
+      "regione": "Prov. Aut. di Trento, Lombardia",
+      "province": "Trento, Brescia"
+    },
+    {
+      "denominazione": "Salsiccia di Calabria",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia"
+    },
+    {
+      "denominazione": "Salva Cremasco",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1377 del 20.12.11",
+      "regione": "Lombardia",
+      "province": "Bergamo, Brescia, Cremona, Lecco, Lodi, Milano"
+    },
+    {
+      "denominazione": "Sardegna",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 148 del 15.02.07",
+      "regione": "Sardegna",
+      "province": "tutte"
+    },
+    {
+      "denominazione": "Scalogno di Romagna",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Emilia-Romagna",
+      "province": "Ravenna, Forlì-Cesena, Bologna"
+    },
+    {
+      "denominazione": "Sebadas/Seadas/Sabadas/Seattas/Savadas/Sevadas di Sardegna",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria, confetteria o biscotteria e Pasta alimentare",
+      "regolamento": "Reg. UE 2023/1426 del 03.07.23",
+      "regione": "Sardegna",
+      "province": ""
+    },
+    {
+      "denominazione": "Sedano bianco di Sperlonga",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 222 del 17.03.10",
+      "regione": "Lazio",
+      "province": "Latina"
+    },
+    {
+      "denominazione": "Seggiano",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 1297 del 09.12.11",
+      "regione": "Toscana",
+      "province": "Grosseto"
+    },
+    {
+      "denominazione": "Sicilia",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 1662 del 12.09.16",
+      "regione": "Sicilia",
+      "province": "Agrigento, Caltanissetta, Catania, Enna, Messina, Palermo, Ragusa, Siracusa, Trapani"
+    },
+    {
+      "denominazione": "Silter",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 1724 del 23.09.15",
+      "regione": "Lombardia",
+      "province": "Brescia"
+    },
+    {
+      "denominazione": "Soppressata di Calabria",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Calabria",
+      "province": "Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia"
+    },
+    {
+      "denominazione": "Sopressa Vicentina",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 492 del 18.03.03 Reg. UE n. 588 del 05.07.10",
+      "regione": "Veneto",
+      "province": "Vicenza"
+    },
+    {
+      "denominazione": "Speck Alto Adige o Südtiroler Markenspeck o Südtiroler Speck",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Prov. Aut. di Bolzano",
+      "province": "Bolzano"
+    },
+    {
+      "denominazione": "Spressa delle Giudicarie",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 2275 del 22.12.03 Reg. UE n. 480 del 01.06.10",
+      "regione": "Prov. Aut. di Trento",
+      "province": "Trento"
+    },
+    {
+      "denominazione": "Squacquerone di Romagna",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 679 del 24.07.12",
+      "regione": "Emilia-Romagna",
+      "province": "Ravenna, Forlì-Cesena, Rimini, Bologna, Ferrara"
+    },
+    {
+      "denominazione": "Stelvio",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 148 del 15.02.07",
+      "regione": "Prov. Aut. di Bolzano",
+      "province": "Bolzano"
+    },
+    {
+      "denominazione": "Strachitunt",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 244 del 07.03.14",
+      "regione": "Lombardia",
+      "province": "Bergamo"
+    },
+    {
+      "denominazione": "Südtiroler Schüttelbrot o Schüttelbrot Alto Adige",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 1084 del 17.07.20",
+      "regione": "Prov. Aut. di Bolzano",
+      "province": "Bolzano"
+    },
+    {
+      "denominazione": "Susina di Dro",
+      "categoria": "D.O.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 188 del 07.03.12",
+      "regione": "Prov. Aut. di Trento",
+      "province": "Trento"
+    },
+    {
+      "denominazione": "Taleggio",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Lombardia, Veneto, Piemonte",
+      "province": "Bergamo, Brescia, Como, Cremona, Milano, Pavia, Treviso, Novara"
+    },
+    {
+      "denominazione": "Tergeste",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1845 del 22.10.04",
+      "regione": "Friuli Venezia Giulia",
+      "province": "Trieste"
+    },
+    {
+      "denominazione": "Terra d'Otranto",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 644 del 20.03.98",
+      "regione": "Puglia",
+      "province": "Taranto, Brindisi, Lecce"
+    },
+    {
+      "denominazione": "Terra di Bari",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Puglia",
+      "province": "Bari"
+    },
+    {
+      "denominazione": "Terre Aurunche",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 1361 del 19.12.11",
+      "regione": "Campania",
+      "province": "Caserta"
+    },
+    {
+      "denominazione": "Terre di Siena",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2446 del 06.11.00",
+      "regione": "Toscana",
+      "province": "Siena"
+    },
+    {
+      "denominazione": "Terre Tarentine",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1898 del 29.10.04",
+      "regione": "Puglia",
+      "province": "Taranto"
+    },
+    {
+      "denominazione": "Tinca Gobba Dorata del Pianalto di Poirino",
+      "categoria": "D.O.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. CE n. 160 del 21.02.08",
+      "regione": "Piemonte",
+      "province": "Torino, Asti, Cuneo"
+    },
+    {
+      "denominazione": "Toma Piemontese",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1107 del 12.06.96",
+      "regione": "Piemonte",
+      "province": "Novara, Vercelli, Biella, Torino, Cuneo, Alessandria, Asti"
+    },
+    {
+      "denominazione": "Torrone di Bagnara",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti di panetteria, pasticceria",
+      "regolamento": "Reg. UE n. 882 del 31.07.14",
+      "regione": "Calabria",
+      "province": "Reggio Calabria"
+    },
+    {
+      "denominazione": "Toscano",
+      "categoria": "I.G.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 644 del 20.03.98",
+      "regione": "Toscana",
+      "province": "Grosseto, Massa Carrara, Arezzo, Siena, Firenze, Pistoia, Pisa, Livorno, Prato, Lucca"
+    },
+    {
+      "denominazione": "Trota del Trentino",
+      "categoria": "I.G.P.",
+      "tipologia": "Pesci, molluschi, crostacei freschi",
+      "regolamento": "Reg. CE n. 910 del 16.09.13",
+      "regione": "Prov. Aut. di Trento, Lombardia",
+      "province": "Trento, Brescia"
+    },
+    {
+      "denominazione": "Tuscia",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1623 del 04.10.05",
+      "regione": "Lazio",
+      "province": "Viterbo"
+    },
+    {
+      "denominazione": "Umbria",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Umbria",
+      "province": "Perugia, Terni"
+    },
+    {
+      "denominazione": "Uva da tavola di Canicattì",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Sicilia",
+      "province": "Agrigento, Caltanissetta"
+    },
+    {
+      "denominazione": "Uva da tavola di Mazzarrone",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. CE n. 617 del 04.04.03",
+      "regione": "Sicilia",
+      "province": "Catania, Ragusa"
+    },
+    {
+      "denominazione": "Uva di Puglia",
+      "categoria": "I.G.P.",
+      "tipologia": "Ortofrutticoli e cereali",
+      "regolamento": "Reg. UE n. 680 del 24.07.12",
+      "regione": "Puglia",
+      "province": "Bari, Barletta-Andria-Trani, Brindisi, Foggia, Taranto, Lecce"
+    },
+    {
+      "denominazione": "Val di Mazara",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 138 del 24.01.01",
+      "regione": "Sicilia",
+      "province": "Palermo, Agrigento"
+    },
+    {
+      "denominazione": "Valdemone",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 205 del 04.02.05",
+      "regione": "Sicilia",
+      "province": "Messina"
+    },
+    {
+      "denominazione": "Valle d'Aosta Fromadzo",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Valle d'Aosta",
+      "province": "Aosta"
+    },
+    {
+      "denominazione": "Valle d'Aosta Jambon de Bosses",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Valle d'Aosta",
+      "province": "Aosta"
+    },
+    {
+      "denominazione": "Valle d'Aosta Lard d'Arnad/Vallée d'Aoste Lard d'Arnad",
+      "categoria": "D.O.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96 Reg. UE n. 416 del 26.04.11",
+      "regione": "Valle d'Aosta",
+      "province": "Aosta"
+    },
+    {
+      "denominazione": "Valle del Belice",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 1486 del 20.08.04",
+      "regione": "Sicilia",
+      "province": "Trapani"
+    },
+    {
+      "denominazione": "Valli Trapanesi",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2325 del 24.11.97",
+      "regione": "Sicilia",
+      "province": "Trapani"
+    },
+    {
+      "denominazione": "Valtellina Casera",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. CE n. 1263 del 01.07.96",
+      "regione": "Lombardia",
+      "province": "Sondrio"
+    },
+    {
+      "denominazione": "Vastedda della Valle del Belice",
+      "categoria": "D.O.P.",
+      "tipologia": "Formaggi",
+      "regolamento": "Reg. UE n. 971 del 28.10.10",
+      "regione": "Sicilia",
+      "province": "Agrigento, Trapani, Palermo"
+    },
+    {
+      "denominazione": "Veneto Valpolicella - Veneto Euganei e Berici - Veneto del Grappa",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. CE n. 2036 del 17.10.01",
+      "regione": "Veneto",
+      "province": "Verona, Padova, Vicenza, Treviso"
+    },
+    {
+      "denominazione": "Vermut di Torino / Vermouth di Torino",
+      "categoria": "I.G.P.",
+      "tipologia": "Vini aromatizzati",
+      "regolamento": "Reg. CE n.1601/91 del 10.06.1991 Reg.UE n. 251/2014 del 26.02.2014",
+      "regione": "Piemonte",
+      "province": ""
+    },
+    {
+      "denominazione": "Vincisgrassi alla maceratese",
+      "categoria": "S.T.G.",
+      "tipologia": "Piatti pronti",
+      "regolamento": "Reg. UE 2022/509 24.03.22",
+      "regione": "",
+      "province": ""
+    },
+    {
+      "denominazione": "Vitellone bianco dell'Appennino Centrale",
+      "categoria": "I.G.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. CE n. 134 del 20.01.98",
+      "regione": "Emilia-Romagna, Toscana, Marche, Abruzzo, Molise, Campania, Lazio, Umbria",
+      "province": "Bologna, Ravenna, Forlì - Cesena, Rimini, Pesaro e Urbino Ancona, Macerata, Ascoli Piceno, Teramo, Pescara, Chieti, L'Aquila, Campobasso, Isernia, Benevento, Avellino, Frosinone, Rieti, Viterbo, Terni, Perugia, Grosseto, Siena, Arezzo, Firenze, Livorno, Pisa"
+    },
+    {
+      "denominazione": "Vitelloni piemontesi della coscia",
+      "categoria": "I.G.P.",
+      "tipologia": "Carni fresche (e frattaglie)",
+      "regolamento": "Reg. UE n. 703 del 05.04.17",
+      "regione": "Piemonte, Liguria",
+      "province": "Alessandria, Asti, Biella, Cuneo, Torino, Novara, Vercelli, Savona, Imperia"
+    },
+    {
+      "denominazione": "Vulture",
+      "categoria": "D.O.P.",
+      "tipologia": "Oli e grassi",
+      "regolamento": "Reg. UE n. 21 dell'11.01.12",
+      "regione": "Basilicata",
+      "province": "Potenza"
+    },
+    {
+      "denominazione": "Zafferano dell'Aquila",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 205 del 04.02.05",
+      "regione": "Abruzzo",
+      "province": "l'Aquila"
+    },
+    {
+      "denominazione": "Zafferano di San Gimignano",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 205 del 04.02.05",
+      "regione": "Toscana",
+      "province": "Siena"
+    },
+    {
+      "denominazione": "Zafferano di Sardegna",
+      "categoria": "D.O.P.",
+      "tipologia": "Altri prodotti dell'allegato I del trattato",
+      "regolamento": "Reg. CE n. 98 del 02.02.09",
+      "regione": "Sardegna",
+      "province": "Sud Sardegna"
+    },
+    {
+      "denominazione": "Zampone Modena",
+      "categoria": "I.G.P.",
+      "tipologia": "Prodotti a base di carne",
+      "regolamento": "Reg. CE n. 590 del 18.03.99",
+      "regione": "Emilia-Romagna, Lombardia, Veneto,",
+      "province": "Modena, Ferrara, Ravenna, Rimini, Forlì, Bologna, Reggio Emilia, Parma, Piacenza, Cremona, Lodi, Pavia, Milano, Varese, Como, Lecco, Bergamo, Brescia, Mantova, Verona, Rovigo"
+    }
+  ],
+  "meta": {
+    "title": "Prodotti agroalimentari DOP, IGP e STG italiani - Free Download",
+    "description": "Elenco dei prodotti agroalimentari italiani a denominazione DOP, IGP e STG con tipologia e regione. Contains 331 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prodotti agroalimentari DOP, IGP e STG italiani | ListBase",
+    "seo_description": "Download Prodotti agroalimentari DOP, IGP e STG italiani — 331 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 331 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani"
+    ]
+  }
+}
