@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:11:54.739Z",
-  "total_datasets": 445,
-  "total_records": 135219,
+  "generated": "2026-10-27T02:11:57.301Z",
+  "total_datasets": 446,
+  "total_records": 135375,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -699,6 +699,34 @@
         "xlsx": {
           "name": "it-album-piu-venduti-anni-2020_IT.xlsx",
           "size": 8573
+        }
+      }
+    },
+    {
+      "id": "it-brani-numero-uno-fimi-2023-2025",
+      "name": "Brani musicali al numero uno in Italia (2023–2025)",
+      "category": "music",
+      "record_count": 156,
+      "columns": [
+        "anno",
+        "settimana",
+        "inizio",
+        "fine",
+        "brano",
+        "artista",
+        "settimane_al_n1"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Brani_musicali_al_numero_uno_in_Italia_(2024)",
+      "updated": "2026-10",
+      "size": 34633,
+      "files": {
+        "csv": {
+          "name": "it-brani-numero-uno-fimi-2023-2025_IT.csv",
+          "size": 12041
+        },
+        "xlsx": {
+          "name": "it-brani-numero-uno-fimi-2023-2025_IT.xlsx",
+          "size": 13534
         }
       }
     },

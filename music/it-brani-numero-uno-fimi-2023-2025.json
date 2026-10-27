@@ -1,0 +1,1465 @@
+{
+  "id": "it-brani-numero-uno-fimi-2023-2025",
+  "name": "Brani musicali al numero uno in Italia (2023–2025)",
+  "title": "Brani musicali al numero uno in Italia (2023–2025)",
+  "description": "Singoli al primo posto della classifica settimanale FIMI in Italia dal 2023 al 2025.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Brani_musicali_al_numero_uno_in_Italia_(2024)",
+  "source_url": "https://it.wikipedia.org/wiki/Brani_musicali_al_numero_uno_in_Italia_(2024)",
+  "updated": "2026-10",
+  "record_count": 156,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "settimana",
+      "label": "Settimana",
+      "type": "number"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "brano",
+      "label": "Brano",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "settimane_al_n1",
+      "label": "Settimane Al N1",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 2023,
+      "settimana": 1,
+      "inizio": "30 dicembre",
+      "fine": "5 gennaio",
+      "brano": "Quevedo: Bzrp Music Sessions Vol. 52",
+      "artista": "Bizarrap e Quevedo",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 2,
+      "inizio": "6 gennaio",
+      "fine": "12 gennaio",
+      "brano": "X caso",
+      "artista": "Geolier feat. Sfera Ebbasta",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 3,
+      "inizio": "13 gennaio",
+      "fine": "19 gennaio",
+      "brano": "Cookies n' Cream",
+      "artista": "Guè feat. Anna e Sfera Ebbasta",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 4,
+      "inizio": "20 gennaio",
+      "fine": "26 gennaio",
+      "brano": "Shakira: Bzrp Music Sessions Vol. 53",
+      "artista": "Bizarrap e Shakira",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 5,
+      "inizio": "27 gennaio",
+      "fine": "2 febbraio",
+      "brano": "Guasto d'amore",
+      "artista": "Bresh e Shune",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 6,
+      "inizio": "3 febbraio",
+      "fine": "9 febbraio",
+      "brano": "Due vite",
+      "artista": "Marco Mengoni",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 7,
+      "inizio": "10 febbraio",
+      "fine": "16 febbraio",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 8,
+      "inizio": "17 febbraio",
+      "fine": "23 febbraio",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 9,
+      "inizio": "24 febbraio",
+      "fine": "2 marzo",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 10,
+      "inizio": "3 marzo",
+      "fine": "9 marzo",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 11,
+      "inizio": "10 marzo",
+      "fine": "16 marzo",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 12,
+      "inizio": "17 marzo",
+      "fine": "23 marzo",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 13,
+      "inizio": "24 marzo",
+      "fine": "30 marzo",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 14,
+      "inizio": "31 marzo",
+      "fine": "6 aprile",
+      "brano": "Cenere",
+      "artista": "Lazza",
+      "settimane_al_n1": 8
+    },
+    {
+      "anno": 2023,
+      "settimana": 15,
+      "inizio": "7 aprile",
+      "fine": "13 aprile",
+      "brano": "Il male che mi fai",
+      "artista": "Geolier feat. Marracash",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 16,
+      "inizio": "14 aprile",
+      "fine": "20 aprile",
+      "brano": "Un briciolo di allegria",
+      "artista": "Blanco e Mina",
+      "settimane_al_n1": 5
+    },
+    {
+      "anno": 2023,
+      "settimana": 17,
+      "inizio": "21 aprile",
+      "fine": "27 aprile",
+      "brano": "Un briciolo di allegria",
+      "artista": "Blanco e Mina",
+      "settimane_al_n1": 5
+    },
+    {
+      "anno": 2023,
+      "settimana": 18,
+      "inizio": "28 aprile",
+      "fine": "4 maggio",
+      "brano": "Un briciolo di allegria",
+      "artista": "Blanco e Mina",
+      "settimane_al_n1": 5
+    },
+    {
+      "anno": 2023,
+      "settimana": 19,
+      "inizio": "5 maggio",
+      "fine": "11 maggio",
+      "brano": "Un briciolo di allegria",
+      "artista": "Blanco e Mina",
+      "settimane_al_n1": 5
+    },
+    {
+      "anno": 2023,
+      "settimana": 20,
+      "inizio": "12 maggio",
+      "fine": "18 maggio",
+      "brano": "Un briciolo di allegria",
+      "artista": "Blanco e Mina",
+      "settimane_al_n1": 5
+    },
+    {
+      "anno": 2023,
+      "settimana": 21,
+      "inizio": "19 maggio",
+      "fine": "25 maggio",
+      "brano": "On Fire (Paid in Full)",
+      "artista": "Emis Killa e Sfera Ebbasta",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 22,
+      "inizio": "26 maggio",
+      "fine": "1 giugno",
+      "brano": "Mon Amour",
+      "artista": "Annalisa",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 23,
+      "inizio": "2 giugno",
+      "fine": "8 giugno",
+      "brano": "Hoe",
+      "artista": "Tedua feat. Sfera Ebbasta",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2023,
+      "settimana": 24,
+      "inizio": "9 giugno",
+      "fine": "15 giugno",
+      "brano": "Hoe",
+      "artista": "Tedua feat. Sfera Ebbasta",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2023,
+      "settimana": 25,
+      "inizio": "16 giugno",
+      "fine": "22 giugno",
+      "brano": "Hoe",
+      "artista": "Tedua feat. Sfera Ebbasta",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2023,
+      "settimana": 26,
+      "inizio": "23 giugno",
+      "fine": "29 giugno",
+      "brano": "Bon ton",
+      "artista": "Drillionaire feat. Lazza, Blanco, Sfera Ebbasta e Michelangelo",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2023,
+      "settimana": 27,
+      "inizio": "30 giugno",
+      "fine": "6 luglio",
+      "brano": "Bon ton",
+      "artista": "Drillionaire feat. Lazza, Blanco, Sfera Ebbasta e Michelangelo",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2023,
+      "settimana": 28,
+      "inizio": "7 luglio",
+      "fine": "13 luglio",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 29,
+      "inizio": "14 luglio",
+      "fine": "20 luglio",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 30,
+      "inizio": "21 luglio",
+      "fine": "27 luglio",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 31,
+      "inizio": "28 luglio",
+      "fine": "3 agosto",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 32,
+      "inizio": "4 agosto",
+      "fine": "10 agosto",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 33,
+      "inizio": "11 agosto",
+      "fine": "17 agosto",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 34,
+      "inizio": "18 agosto",
+      "fine": "24 agosto",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 35,
+      "inizio": "25 agosto",
+      "fine": "31 agosto",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 36,
+      "inizio": "1 settembre",
+      "fine": "7 settembre",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 37,
+      "inizio": "8 settembre",
+      "fine": "14 settembre",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 38,
+      "inizio": "15 settembre",
+      "fine": "21 settembre",
+      "brano": "Syrup",
+      "artista": "Shiva",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 39,
+      "inizio": "22 settembre",
+      "fine": "28 settembre",
+      "brano": "Italodisco",
+      "artista": "The Kolors",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2023,
+      "settimana": 40,
+      "inizio": "29 settembre",
+      "fine": "5 ottobre",
+      "brano": "Nightmares",
+      "artista": "Bresh e Pinguini Tattici Nucleari",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 41,
+      "inizio": "6 ottobre",
+      "fine": "12 ottobre",
+      "brano": "Cadillac",
+      "artista": "Boro , Artie 5ive e Andry the Hitmaker",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2023,
+      "settimana": 42,
+      "inizio": "13 ottobre",
+      "fine": "19 ottobre",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva, Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2023,
+      "settimana": 43,
+      "inizio": "20 ottobre",
+      "fine": "26 ottobre",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva, Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2023,
+      "settimana": 44,
+      "inizio": "27 ottobre",
+      "fine": "2 novembre",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva, Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2023,
+      "settimana": 45,
+      "inizio": "3 novembre",
+      "fine": "9 novembre",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva, Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2023,
+      "settimana": 46,
+      "inizio": "10 novembre",
+      "fine": "16 novembre",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva, Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2023,
+      "settimana": 47,
+      "inizio": "17 novembre",
+      "fine": "23 novembre",
+      "brano": "15 piani",
+      "artista": "Sfera Ebbasta feat. Marracash",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2023,
+      "settimana": 48,
+      "inizio": "24 novembre",
+      "fine": "30 novembre",
+      "brano": "15 piani",
+      "artista": "Sfera Ebbasta feat. Marracash",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2023,
+      "settimana": 49,
+      "inizio": "1 dicembre",
+      "fine": "7 dicembre",
+      "brano": "Moneylove",
+      "artista": "Massimo Pericolo feat. Emis Killa",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2023,
+      "settimana": 50,
+      "inizio": "8 dicembre",
+      "fine": "14 dicembre",
+      "brano": "Moneylove",
+      "artista": "Massimo Pericolo feat. Emis Killa",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2023,
+      "settimana": 51,
+      "inizio": "15 dicembre",
+      "fine": "21 dicembre",
+      "brano": "Moneylove",
+      "artista": "Massimo Pericolo feat. Emis Killa",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2023,
+      "settimana": 52,
+      "inizio": "22 dicembre",
+      "fine": "28 dicembre",
+      "brano": "All I Want for Christmas Is You",
+      "artista": "Mariah Carey",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2024,
+      "settimana": 1,
+      "inizio": "29 dicembre",
+      "fine": "4 gennaio",
+      "brano": "Moneylove",
+      "artista": "Massimo Pericolo feat. Emis Killa",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2024,
+      "settimana": 2,
+      "inizio": "5 gennaio",
+      "fine": "11 gennaio",
+      "brano": "Everyday",
+      "artista": "Takagi & Ketra feat. Shiva , Anna e Geolier",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 3,
+      "inizio": "12 gennaio",
+      "fine": "18 gennaio",
+      "brano": "Nato per questo",
+      "artista": "Club Dogo feat. Marracash",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2024,
+      "settimana": 4,
+      "inizio": "19 gennaio",
+      "fine": "25 gennaio",
+      "brano": "Nato per questo",
+      "artista": "Club Dogo feat. Marracash",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2024,
+      "settimana": 5,
+      "inizio": "26 gennaio",
+      "fine": "1º febbraio",
+      "brano": "Moon",
+      "artista": "Ava feat. Capo Plaza e Tony Boy",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 6,
+      "inizio": "2 febbraio",
+      "fine": "8 febbraio",
+      "brano": "I p' me, tu p' te",
+      "artista": "Geolier",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 7,
+      "inizio": "9 febbraio",
+      "fine": "15 febbraio",
+      "brano": "Tuta gold",
+      "artista": "Mahmood",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 8,
+      "inizio": "16 febbraio",
+      "fine": "22 febbraio",
+      "brano": "Tuta gold",
+      "artista": "Mahmood",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 9,
+      "inizio": "23 febbraio",
+      "fine": "29 febbraio",
+      "brano": "Tuta gold",
+      "artista": "Mahmood",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 10,
+      "inizio": "1º marzo",
+      "fine": "7 marzo",
+      "brano": "100 messaggi",
+      "artista": "Lazza",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 11,
+      "inizio": "8 marzo",
+      "fine": "14 marzo",
+      "brano": "100 messaggi",
+      "artista": "Lazza",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 12,
+      "inizio": "15 marzo",
+      "fine": "21 marzo",
+      "brano": "100 messaggi",
+      "artista": "Lazza",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 13,
+      "inizio": "22 marzo",
+      "fine": "28 marzo",
+      "brano": "L'ultima poesia",
+      "artista": "Geolier e Ultimo",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 14,
+      "inizio": "29 marzo",
+      "fine": "4 aprile",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 15,
+      "inizio": "5 aprile",
+      "fine": "11 aprile",
+      "brano": "L'ultima poesia",
+      "artista": "Geolier e Ultimo",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 16,
+      "inizio": "12 aprile",
+      "fine": "18 aprile",
+      "brano": "L'ultima poesia",
+      "artista": "Geolier e Ultimo",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 17,
+      "inizio": "19 aprile",
+      "fine": "25 aprile",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 18,
+      "inizio": "26 aprile",
+      "fine": "2 maggio",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 19,
+      "inizio": "3 maggio",
+      "fine": "9 maggio",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 20,
+      "inizio": "10 maggio",
+      "fine": "16 maggio",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 21,
+      "inizio": "17 maggio",
+      "fine": "23 maggio",
+      "brano": "Come un tuono",
+      "artista": "Rose Villain feat. Guè",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2024,
+      "settimana": 22,
+      "inizio": "24 maggio",
+      "fine": "30 maggio",
+      "brano": "Beatrice",
+      "artista": "Tedua feat. Annalisa",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 23,
+      "inizio": "31 maggio",
+      "fine": "6 giugno",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 24,
+      "inizio": "7 giugno",
+      "fine": "13 giugno",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 25,
+      "inizio": "14 giugno",
+      "fine": "20 giugno",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 26,
+      "inizio": "21 giugno",
+      "fine": "27 giugno",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 27,
+      "inizio": "28 giugno",
+      "fine": "4 luglio",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 28,
+      "inizio": "5 luglio",
+      "fine": "11 luglio",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 29,
+      "inizio": "12 luglio",
+      "fine": "18 luglio",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 30,
+      "inizio": "19 luglio",
+      "fine": "25 luglio",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 31,
+      "inizio": "26 luglio",
+      "fine": "1 agosto",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 32,
+      "inizio": "2 agosto",
+      "fine": "8 agosto",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 33,
+      "inizio": "9 agosto",
+      "fine": "15 agosto",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 34,
+      "inizio": "16 agosto",
+      "fine": "22 agosto",
+      "brano": "Sesso e samba",
+      "artista": "Tony Effe e Gaia",
+      "settimane_al_n1": 12
+    },
+    {
+      "anno": 2024,
+      "settimana": 35,
+      "inizio": "23 agosto",
+      "fine": "29 agosto",
+      "brano": "30°C",
+      "artista": "Anna",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2024,
+      "settimana": 36,
+      "inizio": "30 agosto",
+      "fine": "5 settembre",
+      "brano": "30°C",
+      "artista": "Anna",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2024,
+      "settimana": 37,
+      "inizio": "6 settembre",
+      "fine": "12 settembre",
+      "brano": "Gotham",
+      "artista": "Shiva feat. Kid Yugi",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 38,
+      "inizio": "13 settembre",
+      "fine": "19 settembre",
+      "brano": "Zeri in più (Locura)",
+      "artista": "Lazza feat. Laura Pausini",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 39,
+      "inizio": "20 settembre",
+      "fine": "26 settembre",
+      "brano": "Fentanyl",
+      "artista": "Lazza feat. Sfera Ebbasta",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 40,
+      "inizio": "27 settembre",
+      "fine": "3 ottobre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 41,
+      "inizio": "4 ottobre",
+      "fine": "10 ottobre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 42,
+      "inizio": "11 ottobre",
+      "fine": "17 ottobre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 43,
+      "inizio": "18 ottobre",
+      "fine": "24 ottobre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 44,
+      "inizio": "25 ottobre",
+      "fine": "31 ottobre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 45,
+      "inizio": "1 novembre",
+      "fine": "7 novembre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 46,
+      "inizio": "8 novembre",
+      "fine": "14 novembre",
+      "brano": "Per due come noi",
+      "artista": "Olly , Angelina Mango e Jvli",
+      "settimane_al_n1": 7
+    },
+    {
+      "anno": 2024,
+      "settimana": 47,
+      "inizio": "15 novembre",
+      "fine": "21 novembre",
+      "brano": "Islanda",
+      "artista": "Pinguini Tattici Nucleari",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 48,
+      "inizio": "22 novembre",
+      "fine": "28 novembre",
+      "brano": "Islanda",
+      "artista": "Pinguini Tattici Nucleari",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 49,
+      "inizio": "29 novembre",
+      "fine": "5 dicembre",
+      "brano": "Ora che non ho più te",
+      "artista": "Cesare Cremonini",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 50,
+      "inizio": "6 dicembre",
+      "fine": "12 dicembre",
+      "brano": "Islanda",
+      "artista": "Pinguini Tattici Nucleari",
+      "settimane_al_n1": 3
+    },
+    {
+      "anno": 2024,
+      "settimana": 51,
+      "inizio": "13 dicembre",
+      "fine": "19 dicembre",
+      "brano": "Gli sbandati hanno perso",
+      "artista": "Marracash",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2024,
+      "settimana": 52,
+      "inizio": "20 dicembre",
+      "fine": "26 dicembre",
+      "brano": "All I Want for Christmas Is You",
+      "artista": "Mariah Carey",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 1,
+      "inizio": "27 dicembre",
+      "fine": "2 gennaio",
+      "brano": "Il filo rosso",
+      "artista": "Alfa",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 2,
+      "inizio": "3 gennaio",
+      "fine": "9 gennaio",
+      "brano": "Ayahuasca",
+      "artista": "Simba La Rue feat. Tony Boy",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 3,
+      "inizio": "10 gennaio",
+      "fine": "16 gennaio",
+      "brano": "Oh mamma mia",
+      "artista": "Guè feat. Rose Villain",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 4,
+      "inizio": "17 gennaio",
+      "fine": "23 gennaio",
+      "brano": "DTMF",
+      "artista": "Bad Bunny",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 5,
+      "inizio": "24 gennaio",
+      "fine": "30 gennaio",
+      "brano": "DTMF",
+      "artista": "Bad Bunny",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 6,
+      "inizio": "31 gennaio",
+      "fine": "6 febbraio",
+      "brano": "DTMF",
+      "artista": "Bad Bunny",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 7,
+      "inizio": "7 febbraio",
+      "fine": "13 febbraio",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 8,
+      "inizio": "14 febbraio",
+      "fine": "20 febbraio",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 9,
+      "inizio": "21 febbraio",
+      "fine": "27 febbraio",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 10,
+      "inizio": "28 febbraio",
+      "fine": "6 marzo",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 11,
+      "inizio": "7 marzo",
+      "fine": "13 marzo",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 12,
+      "inizio": "14 marzo",
+      "fine": "20 marzo",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 13,
+      "inizio": "21 marzo",
+      "fine": "27 marzo",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 14,
+      "inizio": "28 marzo",
+      "fine": "3 aprile",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 15,
+      "inizio": "4 aprile",
+      "fine": "10 aprile",
+      "brano": "Balorda nostalgia",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 16,
+      "inizio": "11 aprile",
+      "fine": "17 aprile",
+      "brano": "Neon",
+      "artista": "Sfera Ebbasta e Shiva",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 17,
+      "inizio": "18 aprile",
+      "fine": "24 aprile",
+      "brano": "Neon",
+      "artista": "Sfera Ebbasta e Shiva",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 18,
+      "inizio": "25 aprile",
+      "fine": "1º maggio",
+      "brano": "Neon",
+      "artista": "Sfera Ebbasta e Shiva",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 19,
+      "inizio": "2 maggio",
+      "fine": "8 maggio",
+      "brano": "Neon",
+      "artista": "Sfera Ebbasta e Shiva",
+      "settimane_al_n1": 4
+    },
+    {
+      "anno": 2025,
+      "settimana": 20,
+      "inizio": "9 maggio",
+      "fine": "15 maggio",
+      "brano": "Piangere a 90",
+      "artista": "Blanco",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2025,
+      "settimana": 21,
+      "inizio": "16 maggio",
+      "fine": "22 maggio",
+      "brano": "Ginevra",
+      "artista": "Luchè feat. Geolier",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 22,
+      "inizio": "23 maggio",
+      "fine": "29 maggio",
+      "brano": "Piangere a 90",
+      "artista": "Blanco",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2025,
+      "settimana": 23,
+      "inizio": "30 maggio",
+      "fine": "5 giugno",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 24,
+      "inizio": "6 giugno",
+      "fine": "12 giugno",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 25,
+      "inizio": "13 giugno",
+      "fine": "19 giugno",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 26,
+      "inizio": "20 giugno",
+      "fine": "26 giugno",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 27,
+      "inizio": "27 giugno",
+      "fine": "3 luglio",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 28,
+      "inizio": "4 luglio",
+      "fine": "10 luglio",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 29,
+      "inizio": "11 luglio",
+      "fine": "17 luglio",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 30,
+      "inizio": "18 luglio",
+      "fine": "24 luglio",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 31,
+      "inizio": "25 luglio",
+      "fine": "31 luglio",
+      "brano": "Désolée",
+      "artista": "Anna",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 32,
+      "inizio": "1º agosto",
+      "fine": "7 agosto",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 33,
+      "inizio": "8 agosto",
+      "fine": "14 agosto",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 34,
+      "inizio": "15 agosto",
+      "fine": "21 agosto",
+      "brano": "A me mi piace",
+      "artista": "Alfa feat. Manu Chao",
+      "settimane_al_n1": 6
+    },
+    {
+      "anno": 2025,
+      "settimana": 35,
+      "inizio": "22 agosto",
+      "fine": "28 agosto",
+      "brano": "Kriminal",
+      "artista": "Baby Gang , El Alfa e Omega feat. Roberto Ferrante",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 36,
+      "inizio": "29 agosto",
+      "fine": "4 settembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 37,
+      "inizio": "5 settembre",
+      "fine": "11 settembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 38,
+      "inizio": "12 settembre",
+      "fine": "18 settembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 39,
+      "inizio": "19 settembre",
+      "fine": "25 settembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 40,
+      "inizio": "26 settembre",
+      "fine": "2 ottobre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 41,
+      "inizio": "3 ottobre",
+      "fine": "9 ottobre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 42,
+      "inizio": "10 ottobre",
+      "fine": "16 ottobre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 43,
+      "inizio": "17 ottobre",
+      "fine": "23 ottobre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 44,
+      "inizio": "24 ottobre",
+      "fine": "30 ottobre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 45,
+      "inizio": "31 ottobre",
+      "fine": "6 novembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 46,
+      "inizio": "7 novembre",
+      "fine": "13 novembre",
+      "brano": "Fotografia",
+      "artista": "Geolier",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2025,
+      "settimana": 47,
+      "inizio": "14 novembre",
+      "fine": "20 novembre",
+      "brano": "Fotografia",
+      "artista": "Geolier",
+      "settimane_al_n1": 2
+    },
+    {
+      "anno": 2025,
+      "settimana": 48,
+      "inizio": "21 novembre",
+      "fine": "27 novembre",
+      "brano": "Questa domenica",
+      "artista": "Olly e Juli",
+      "settimane_al_n1": 11
+    },
+    {
+      "anno": 2025,
+      "settimana": 49,
+      "inizio": "27 novembre",
+      "fine": "4 dicembre",
+      "brano": "Take 6",
+      "artista": "Shiva",
+      "settimane_al_n1": 1
+    },
+    {
+      "anno": 2025,
+      "settimana": 50,
+      "inizio": "5 dicembre",
+      "fine": "11 dicembre",
+      "brano": "All I Want for Christmas Is You",
+      "artista": "Mariah Carey",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 51,
+      "inizio": "12 dicembre",
+      "fine": "18 dicembre",
+      "brano": "All I Want for Christmas Is You",
+      "artista": "Mariah Carey",
+      "settimane_al_n1": 9
+    },
+    {
+      "anno": 2025,
+      "settimana": 52,
+      "inizio": "19 dicembre",
+      "fine": "25 dicembre",
+      "brano": "Last Christmas",
+      "artista": "Wham!",
+      "settimane_al_n1": 1
+    }
+  ],
+  "meta": {
+    "title": "Brani musicali al numero uno in Italia (2023–2025) - Free Download",
+    "description": "Singoli al primo posto della classifica settimanale FIMI in Italia dal 2023 al 2025. Contains 156 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Brani musicali al numero uno in Italia (2023–2025) | ListBase",
+    "seo_description": "Download Brani musicali al numero uno in Italia (2023–2025) — 156 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 156 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Brani_musicali_al_numero_uno_in_Italia_(2024)"
+    ]
+  }
+}
