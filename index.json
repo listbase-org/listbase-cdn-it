@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:16.668Z",
-  "total_datasets": 476,
-  "total_records": 138234,
+  "generated": "2026-10-27T02:13:19.480Z",
+  "total_datasets": 477,
+  "total_records": 138246,
   "categories": [
     {
       "id": "agriculture",
@@ -67,6 +67,10 @@
     {
       "id": "reference",
       "dataset_count": 381
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -14783,6 +14787,34 @@
         "xlsx": {
           "name": "it-viterbo-unlocode_IT.xlsx",
           "size": 10831
+        }
+      }
+    },
+    {
+      "id": "it-terremoti-storici",
+      "name": "Principali terremoti in Italia",
+      "category": "science",
+      "record_count": 12,
+      "columns": [
+        "data",
+        "ora",
+        "area_epicentrale",
+        "coordinate",
+        "magnitudo",
+        "intensita_mcs",
+        "voce"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Terremoti_in_Italia",
+      "updated": "2026-10",
+      "size": 5316,
+      "files": {
+        "csv": {
+          "name": "it-terremoti-storici_IT.csv",
+          "size": 1871
+        },
+        "xlsx": {
+          "name": "it-terremoti-storici_IT.xlsx",
+          "size": 7904
         }
       }
     },

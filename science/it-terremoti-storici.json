@@ -1,0 +1,169 @@
+{
+  "id": "it-terremoti-storici",
+  "name": "Principali terremoti in Italia",
+  "title": "Principali terremoti in Italia",
+  "description": "Principali terremoti storici in Italia con data, area epicentrale, magnitudo e intensità MCS.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Terremoti_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Terremoti_in_Italia",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "ora",
+      "label": "Ora",
+      "type": "string"
+    },
+    {
+      "key": "area_epicentrale",
+      "label": "Area Epicentrale",
+      "type": "string"
+    },
+    {
+      "key": "coordinate",
+      "label": "Coordinate",
+      "type": "string"
+    },
+    {
+      "key": "magnitudo",
+      "label": "Magnitudo",
+      "type": "string"
+    },
+    {
+      "key": "intensita_mcs",
+      "label": "Intensita Mcs",
+      "type": "string"
+    },
+    {
+      "key": "voce",
+      "label": "Voce",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "11 gennaio 1693",
+      "ora": "13:20 - 13:40",
+      "area_epicentrale": "Costa Siracusana - Golfo di Catania (al largo di Catania e Augusta, mar Ionio meridionale)",
+      "coordinate": "37°22′48″N 15°09′00″E",
+      "magnitudo": "7,5~7,7(stimata)",
+      "intensita_mcs": "11 - 12",
+      "voce": "Terremoto del Val di Noto del 1693"
+    },
+    {
+      "data": "28 dicembre 1908",
+      "ora": "04:20",
+      "area_epicentrale": "Stretto di Messina ( Calabria - Sicilia )",
+      "coordinate": "38°08′45.6″N 15°41′13.2″E",
+      "magnitudo": "7,5",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Calabria meridionale-Messina del 1908"
+    },
+    {
+      "data": "5 dicembre 1456",
+      "ora": "03:00",
+      "area_epicentrale": "Appennino centro-meridionale ( Campania )",
+      "coordinate": "41°18′07.2″N 14°42′39.6″E",
+      "magnitudo": "7,3",
+      "intensita_mcs": "11",
+      "voce": "Terremoto dell'Italia centro-meridionale del 1456"
+    },
+    {
+      "data": "16 dicembre 1857",
+      "ora": "21:17",
+      "area_epicentrale": "Basilicata",
+      "coordinate": "40°21′07.2″N 15°50′31.2″E",
+      "magnitudo": "7,1",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Basilicata del 1857"
+    },
+    {
+      "data": "5 febbraio 1783",
+      "ora": "12",
+      "area_epicentrale": "Calabria meridionale",
+      "coordinate": "38°17′49.2″N 15°58′12″E",
+      "magnitudo": "7,1",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Calabria meridionale del 1783"
+    },
+    {
+      "data": "27 marzo 1638",
+      "ora": "05:15",
+      "area_epicentrale": "Calabria centrale",
+      "coordinate": "39°02′52.8″N 16°17′20.4″E",
+      "magnitudo": "7,1",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Calabria del 27 marzo 1638"
+    },
+    {
+      "data": "5 giugno 1688",
+      "ora": "15:30",
+      "area_epicentrale": "Sannio ( Campania )",
+      "coordinate": "41°16′58.8″N 14°33′39.6″E",
+      "magnitudo": "7,1",
+      "intensita_mcs": "11",
+      "voce": "Terremoto del Sannio del 1688"
+    },
+    {
+      "data": "13 gennaio 1915",
+      "ora": "07:52",
+      "area_epicentrale": "Avezzano , Marsica ( Abruzzo )",
+      "coordinate": "42°00′50.4″N 13°31′48″E",
+      "magnitudo": "7,0",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Marsica del 1915"
+    },
+    {
+      "data": "28 marzo 1783",
+      "ora": "15:55",
+      "area_epicentrale": "Calabria centrale",
+      "coordinate": "38°47′06″N 16°27′50.4″E",
+      "magnitudo": "7,0",
+      "intensita_mcs": "11",
+      "voce": "Terremoto della Calabria meridionale del 1783"
+    },
+    {
+      "data": "8 settembre 1905",
+      "ora": "01:43",
+      "area_epicentrale": "Calabria centrale",
+      "coordinate": "38°48′39.6″N 16°00′00″E",
+      "magnitudo": "6,95",
+      "intensita_mcs": "10-11",
+      "voce": "Terremoto della Calabria del 1905"
+    },
+    {
+      "data": "14 gennaio 1703",
+      "ora": "18",
+      "area_epicentrale": "Norcino , Reatino e Aquilano",
+      "coordinate": "42°42′28.8″N 13°04′15.6″E",
+      "magnitudo": "6,92",
+      "intensita_mcs": "11",
+      "voce": "Terremoto dell'Aquila del 1703"
+    },
+    {
+      "data": "3 novembre 1706",
+      "ora": "13",
+      "area_epicentrale": "Maiella ( Abruzzo )",
+      "coordinate": "42°04′33.6″N 14°04′48″E",
+      "magnitudo": "6,84",
+      "intensita_mcs": "10-11",
+      "voce": "Terremoto della Maiella del 1706"
+    }
+  ],
+  "meta": {
+    "title": "Principali terremoti in Italia - Free Download",
+    "description": "Principali terremoti storici in Italia con data, area epicentrale, magnitudo e intensità MCS. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Principali terremoti in Italia | ListBase",
+    "seo_description": "Download Principali terremoti in Italia — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Terremoti_in_Italia"
+    ]
+  }
+}
