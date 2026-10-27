@@ -1,0 +1,367 @@
+{
+  "id": "it-regioni-indice-sviluppo-umano",
+  "name": "Regioni italiane per indice di sviluppo umano",
+  "title": "Regioni italiane per indice di sviluppo umano",
+  "description": "Indice di sviluppo umano (ISU) delle regioni e province autonome italiane, serie 1990–2023.",
+  "category": "society",
+  "source": "https://it.wikipedia.org/wiki/Regioni_italiane_per_indice_di_sviluppo_umano",
+  "source_url": "https://it.wikipedia.org/wiki/Regioni_italiane_per_indice_di_sviluppo_umano",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "isu_1990",
+      "label": "Isu 1990",
+      "type": "number"
+    },
+    {
+      "key": "isu_1995",
+      "label": "Isu 1995",
+      "type": "number"
+    },
+    {
+      "key": "isu_2000",
+      "label": "Isu 2000",
+      "type": "number"
+    },
+    {
+      "key": "isu_2005",
+      "label": "Isu 2005",
+      "type": "number"
+    },
+    {
+      "key": "isu_2010",
+      "label": "Isu 2010",
+      "type": "number"
+    },
+    {
+      "key": "isu_2019",
+      "label": "Isu 2019",
+      "type": "number"
+    },
+    {
+      "key": "isu_2022",
+      "label": "Isu 2022",
+      "type": "number"
+    },
+    {
+      "key": "isu_2023",
+      "label": "Isu 2023",
+      "type": "number"
+    },
+    {
+      "key": "paese_simile",
+      "label": "Paese Simile",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "regione": "Trento",
+      "isu_1990": 0.859,
+      "isu_1995": 0.819,
+      "isu_2000": 0.85,
+      "isu_2005": 0.88,
+      "isu_2010": 0.897,
+      "isu_2019": 0.92,
+      "isu_2022": 0.934,
+      "isu_2023": 0.944,
+      "paese_simile": "Regno Unito"
+    },
+    {
+      "posizione": 2,
+      "regione": "Emilia-Romagna",
+      "isu_1990": 0.878,
+      "isu_1995": 0.826,
+      "isu_2000": 0.856,
+      "isu_2005": 0.881,
+      "isu_2010": 0.896,
+      "isu_2019": 0.921,
+      "isu_2022": 0.935,
+      "isu_2023": 0.943,
+      "paese_simile": "Regno Unito"
+    },
+    {
+      "posizione": 3,
+      "regione": "Lazio",
+      "isu_1990": 0.86,
+      "isu_1995": 0.821,
+      "isu_2000": 0.851,
+      "isu_2005": 0.883,
+      "isu_2010": 0.895,
+      "isu_2019": 0.914,
+      "isu_2022": 0.929,
+      "isu_2023": 0.938,
+      "paese_simile": "Stati Uniti d'America"
+    },
+    {
+      "posizione": 4,
+      "regione": "Lombardia",
+      "isu_1990": 0.847,
+      "isu_1995": 0.815,
+      "isu_2000": 0.845,
+      "isu_2005": 0.872,
+      "isu_2010": 0.889,
+      "isu_2019": 0.912,
+      "isu_2022": 0.927,
+      "isu_2023": 0.936,
+      "paese_simile": "Corea del Sud"
+    },
+    {
+      "posizione": 5,
+      "regione": "Toscana",
+      "isu_1990": 0.847,
+      "isu_1995": 0.811,
+      "isu_2000": 0.841,
+      "isu_2005": 0.869,
+      "isu_2010": 0.884,
+      "isu_2019": 0.907,
+      "isu_2022": 0.921,
+      "isu_2023": 0.93,
+      "paese_simile": "Austria"
+    },
+    {
+      "posizione": 6,
+      "regione": "Bolzano",
+      "isu_1990": 0.838,
+      "isu_1995": 0.797,
+      "isu_2000": 0.827,
+      "isu_2005": 0.851,
+      "isu_2010": 0.872,
+      "isu_2019": 0.91,
+      "isu_2022": 0.925,
+      "isu_2023": 0.926,
+      "paese_simile": "Giappone"
+    },
+    {
+      "posizione": 6,
+      "regione": "Friuli-Venezia Giulia",
+      "isu_1990": 0.841,
+      "isu_1995": 0.805,
+      "isu_2000": 0.835,
+      "isu_2005": 0.864,
+      "isu_2010": 0.879,
+      "isu_2019": 0.903,
+      "isu_2022": 0.918,
+      "isu_2023": 0.938,
+      "paese_simile": "Stati Uniti d'America"
+    },
+    {
+      "posizione": 8,
+      "regione": "Marche",
+      "isu_1990": 0.863,
+      "isu_1995": 0.811,
+      "isu_2000": 0.841,
+      "isu_2005": 0.866,
+      "isu_2010": 0.879,
+      "isu_2019": 0.901,
+      "isu_2022": 0.915,
+      "isu_2023": 0.923,
+      "paese_simile": "Malta"
+    },
+    {
+      "posizione": 8,
+      "regione": "Veneto",
+      "isu_1990": 0.84,
+      "isu_1995": 0.805,
+      "isu_2000": 0.835,
+      "isu_2005": 0.863,
+      "isu_2010": 0.877,
+      "isu_2019": 0.9,
+      "isu_2022": 0.914,
+      "isu_2023": 0.922,
+      "paese_simile": "Lussemburgo"
+    },
+    {
+      "posizione": 10,
+      "regione": "Liguria",
+      "isu_1990": 0.839,
+      "isu_1995": 0.807,
+      "isu_2000": 0.837,
+      "isu_2005": 0.866,
+      "isu_2010": 0.881,
+      "isu_2019": 0.898,
+      "isu_2022": 0.913,
+      "isu_2023": 0.921,
+      "paese_simile": "Francia"
+    },
+    {
+      "posizione": 11,
+      "regione": "Piemonte",
+      "isu_1990": 0.837,
+      "isu_1995": 0.803,
+      "isu_2000": 0.833,
+      "isu_2005": 0.86,
+      "isu_2010": 0.875,
+      "isu_2019": 0.898,
+      "isu_2022": 0.912,
+      "isu_2023": 0.92,
+      "paese_simile": "Francia"
+    },
+    {
+      "posizione": 12,
+      "regione": "Umbria",
+      "isu_1990": 0.844,
+      "isu_1995": 0.807,
+      "isu_2000": 0.837,
+      "isu_2005": 0.862,
+      "isu_2010": 0.877,
+      "isu_2019": 0.897,
+      "isu_2022": 0.908,
+      "isu_2023": 0.917,
+      "paese_simile": "Spagna"
+    },
+    {
+      "posizione": 13,
+      "regione": "Abruzzo",
+      "isu_1990": 0.839,
+      "isu_1995": 0.799,
+      "isu_2000": 0.828,
+      "isu_2005": 0.861,
+      "isu_2010": 0.873,
+      "isu_2019": 0.889,
+      "isu_2022": 0.901,
+      "isu_2023": 0.909,
+      "paese_simile": "Grecia"
+    },
+    {
+      "posizione": 13,
+      "regione": "Valle d'Aosta",
+      "isu_1990": 0.83,
+      "isu_1995": 0.791,
+      "isu_2000": 0.821,
+      "isu_2005": 0.845,
+      "isu_2010": 0.863,
+      "isu_2019": 0.887,
+      "isu_2022": 0.899,
+      "isu_2023": 0.908,
+      "paese_simile": "Grecia"
+    },
+    {
+      "posizione": 15,
+      "regione": "Molise",
+      "isu_1990": 0.825,
+      "isu_1995": 0.781,
+      "isu_2000": 0.81,
+      "isu_2005": 0.84,
+      "isu_2010": 0.853,
+      "isu_2019": 0.872,
+      "isu_2022": 0.885,
+      "isu_2023": 0.894,
+      "paese_simile": "Lituania"
+    },
+    {
+      "posizione": 16,
+      "regione": "Basilicata",
+      "isu_1990": 0.809,
+      "isu_1995": 0.767,
+      "isu_2000": 0.796,
+      "isu_2005": 0.824,
+      "isu_2010": 0.84,
+      "isu_2019": 0.862,
+      "isu_2022": 0.88,
+      "isu_2023": 0.888,
+      "paese_simile": "Lettonia"
+    },
+    {
+      "posizione": 17,
+      "regione": "Sardegna",
+      "isu_1990": 0.812,
+      "isu_1995": 0.779,
+      "isu_2000": 0.808,
+      "isu_2005": 0.832,
+      "isu_2010": 0.849,
+      "isu_2019": 0.868,
+      "isu_2022": 0.879,
+      "isu_2023": 0.887,
+      "paese_simile": "Qatar"
+    },
+    {
+      "posizione": 18,
+      "regione": "Puglia",
+      "isu_1990": 0.805,
+      "isu_1995": 0.77,
+      "isu_2000": 0.799,
+      "isu_2005": 0.822,
+      "isu_2010": 0.835,
+      "isu_2019": 0.854,
+      "isu_2022": 0.869,
+      "isu_2023": 0.878,
+      "paese_simile": "Cile"
+    },
+    {
+      "posizione": 19,
+      "regione": "Campania",
+      "isu_1990": 0.802,
+      "isu_1995": 0.769,
+      "isu_2000": 0.797,
+      "isu_2005": 0.822,
+      "isu_2010": 0.836,
+      "isu_2019": 0.854,
+      "isu_2022": 0.868,
+      "isu_2023": 0.876,
+      "paese_simile": "Cile"
+    },
+    {
+      "posizione": 20,
+      "regione": "Calabria",
+      "isu_1990": 0.804,
+      "isu_1995": 0.769,
+      "isu_2000": 0.797,
+      "isu_2005": 0.822,
+      "isu_2010": 0.836,
+      "isu_2019": 0.845,
+      "isu_2022": 0.859,
+      "isu_2023": 0.867,
+      "paese_simile": "Argentina"
+    },
+    {
+      "posizione": 21,
+      "regione": "Sicilia",
+      "isu_1990": 0.801,
+      "isu_1995": 0.768,
+      "isu_2000": 0.797,
+      "isu_2005": 0.821,
+      "isu_2010": 0.834,
+      "isu_2019": 0.845,
+      "isu_2022": 0.859,
+      "isu_2023": 0.868,
+      "paese_simile": "Ungheria"
+    },
+    {
+      "posizione": "",
+      "regione": "Italia",
+      "isu_1990": 833,
+      "isu_1995": 0.799,
+      "isu_2000": 0.829,
+      "isu_2005": 0.856,
+      "isu_2010": 0.871,
+      "isu_2019": 0.892,
+      "isu_2022": 0.915,
+      "isu_2023": 0.951,
+      "paese_simile": "San Marino"
+    }
+  ],
+  "meta": {
+    "title": "Regioni italiane per indice di sviluppo umano - Free Download",
+    "description": "Indice di sviluppo umano (ISU) delle regioni e province autonome italiane, serie 1990–2023. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Regioni italiane per indice di sviluppo umano | ListBase",
+    "seo_description": "Download Regioni italiane per indice di sviluppo umano — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Regioni_italiane_per_indice_di_sviluppo_umano"
+    ]
+  }
+}

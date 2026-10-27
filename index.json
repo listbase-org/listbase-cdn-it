@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:11.681Z",
-  "total_datasets": 474,
-  "total_records": 138170,
+  "generated": "2026-10-27T02:13:14.183Z",
+  "total_datasets": 475,
+  "total_records": 138192,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -14783,6 +14783,38 @@
         "xlsx": {
           "name": "it-comuni-piu-popolosi_IT.xlsx",
           "size": 11523
+        }
+      }
+    },
+    {
+      "id": "it-regioni-indice-sviluppo-umano",
+      "name": "Regioni italiane per indice di sviluppo umano",
+      "category": "society",
+      "record_count": 22,
+      "columns": [
+        "posizione",
+        "regione",
+        "isu_1990",
+        "isu_1995",
+        "isu_2000",
+        "isu_2005",
+        "isu_2010",
+        "isu_2019",
+        "isu_2022",
+        "isu_2023",
+        "paese_simile"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Regioni_italiane_per_indice_di_sviluppo_umano",
+      "updated": "2026-10",
+      "size": 8822,
+      "files": {
+        "csv": {
+          "name": "it-regioni-indice-sviluppo-umano_IT.csv",
+          "size": 2124
+        },
+        "xlsx": {
+          "name": "it-regioni-indice-sviluppo-umano_IT.xlsx",
+          "size": 8284
         }
       }
     },
