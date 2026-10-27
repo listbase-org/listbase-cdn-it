@@ -1,0 +1,442 @@
+{
+  "id": "it-conservatori-di-musica",
+  "name": "Conservatori di musica in Italia",
+  "title": "Conservatori di musica in Italia",
+  "description": "Elenco dei conservatori statali di musica in Italia con città, anno di nascita e intitolazione.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Conservatori_di_musica_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Conservatori_di_musica_in_Italia",
+  "updated": "2026-10",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "citta",
+      "label": "Citta",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "fondazione",
+      "label": "Fondazione",
+      "type": "number"
+    },
+    {
+      "key": "intitolazione",
+      "label": "Intitolazione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "citta": "Adria",
+      "nome": "Conservatorio Statale Antonio Buzzolla",
+      "fondazione": 1877,
+      "intitolazione": "Dedicato ad Antonio Buzzolla"
+    },
+    {
+      "citta": "Alessandria",
+      "nome": "Conservatorio Antonio Vivaldi",
+      "fondazione": 1858,
+      "intitolazione": "Dedicato ad Antonio Vivaldi"
+    },
+    {
+      "citta": "Avellino",
+      "nome": "Conservatorio Domenico Cimarosa",
+      "fondazione": 1973,
+      "intitolazione": "Dedicato a Domenico Cimarosa"
+    },
+    {
+      "citta": "Bari",
+      "nome": "Conservatorio Niccolò Piccinni",
+      "fondazione": 1925,
+      "intitolazione": "Dedicato a Niccolò Piccinni"
+    },
+    {
+      "citta": "Benevento",
+      "nome": "Conservatorio Nicola Sala",
+      "fondazione": 1988,
+      "intitolazione": "Dedicato a Nicola Sala"
+    },
+    {
+      "citta": "Bologna",
+      "nome": "Conservatorio Giovanni Battista Martini",
+      "fondazione": 1804,
+      "intitolazione": "Dedicato a Giovanni Battista Martini"
+    },
+    {
+      "citta": "Bolzano",
+      "nome": "Conservatorio Claudio Monteverdi",
+      "fondazione": 1927,
+      "intitolazione": "Dedicato a Claudio Monteverdi"
+    },
+    {
+      "citta": "Brescia",
+      "nome": "Conservatorio Luca Marenzio",
+      "fondazione": 1864,
+      "intitolazione": "Dedicato a Luca Marenzio"
+    },
+    {
+      "citta": "Cagliari",
+      "nome": "Conservatorio Giovanni da Palestrina",
+      "fondazione": 1939,
+      "intitolazione": "Dedicato a Giovanni Pierluigi da Palestrina"
+    },
+    {
+      "citta": "Caltanissetta",
+      "nome": "Conservatorio Vincenzo Bellini",
+      "fondazione": 1979,
+      "intitolazione": "Dedicato a Vincenzo Bellini"
+    },
+    {
+      "citta": "Campobasso",
+      "nome": "Conservatorio Lorenzo Perosi",
+      "fondazione": 1971,
+      "intitolazione": "Dedicato a Don Lorenzo Perosi"
+    },
+    {
+      "citta": "Castelfranco Veneto",
+      "nome": "Conservatorio Agostino Steffani",
+      "fondazione": 1969,
+      "intitolazione": "Dedicato ad Agostino Steffani"
+    },
+    {
+      "citta": "Catania",
+      "nome": "Conservatorio Vincenzo Bellini",
+      "fondazione": 1951,
+      "intitolazione": "Dedicato a Vincenzo Bellini"
+    },
+    {
+      "citta": "Cesena - Rimini",
+      "nome": "Conservatorio Maderna – Lettimi",
+      "fondazione": 2024,
+      "intitolazione": "Dedicato a Bruno Maderna e Giovanni Lettimi"
+    },
+    {
+      "citta": "Como",
+      "nome": "Conservatorio Giuseppe Verdi",
+      "fondazione": 1996,
+      "intitolazione": "Dedicato a Giuseppe Verdi"
+    },
+    {
+      "citta": "Cremona",
+      "nome": "Conservatorio Claudio Monteverdi - ISSM di Cremona",
+      "fondazione": "",
+      "intitolazione": "Dedicato a Claudio Monteverdi"
+    },
+    {
+      "citta": "Cosenza",
+      "nome": "Conservatorio Stanislao Giacomantonio",
+      "fondazione": 1970,
+      "intitolazione": "Dedicato a Stanislao Giacomantonio"
+    },
+    {
+      "citta": "Cuneo",
+      "nome": "Conservatorio Giorgio Federico Ghedini",
+      "fondazione": 1864,
+      "intitolazione": "Dedicato a Giorgio Federico Ghedini"
+    },
+    {
+      "citta": "Fermo",
+      "nome": "Conservatorio Giovanni Battista Pergolesi",
+      "fondazione": 1998,
+      "intitolazione": "Dedicato a Giovanni Battista Pergolesi"
+    },
+    {
+      "citta": "Ferrara",
+      "nome": "Conservatorio Girolamo Frescobaldi",
+      "fondazione": 1870,
+      "intitolazione": "Dedicato a Girolamo Frescobaldi"
+    },
+    {
+      "citta": "Firenze",
+      "nome": "Conservatorio Luigi Cherubini",
+      "fondazione": 1849,
+      "intitolazione": "Dedicato a Luigi Cherubini"
+    },
+    {
+      "citta": "Foggia",
+      "nome": "Conservatorio Umberto Giordano",
+      "fondazione": 1914,
+      "intitolazione": "Dedicato a Umberto Giordano"
+    },
+    {
+      "citta": "Frosinone",
+      "nome": "Conservatorio Licinio Refice",
+      "fondazione": 1972,
+      "intitolazione": "Dedicato a Licinio Refice"
+    },
+    {
+      "citta": "Genova",
+      "nome": "Conservatorio Niccolò Paganini",
+      "fondazione": 1829,
+      "intitolazione": "Dedicato a Niccolò Paganini"
+    },
+    {
+      "citta": "L'Aquila",
+      "nome": "Conservatorio Alfredo Casella",
+      "fondazione": 1968,
+      "intitolazione": "Dedicato a Alfredo Casella"
+    },
+    {
+      "citta": "La Spezia",
+      "nome": "Conservatorio Giacomo Puccini",
+      "fondazione": 1992,
+      "intitolazione": "Dedicato a Giacomo Puccini"
+    },
+    {
+      "citta": "Latina",
+      "nome": "Conservatorio Ottorino Respighi",
+      "fondazione": 1988,
+      "intitolazione": "Dedicato a Ottorino Respighi"
+    },
+    {
+      "citta": "Lecce",
+      "nome": "Conservatorio Tito Schipa",
+      "fondazione": 1933,
+      "intitolazione": "Dedicato a Tito Schipa , il quale ha contribuito largamente alla sua fondazione"
+    },
+    {
+      "citta": "Lucca",
+      "nome": "Conservatorio Luigi Boccherini",
+      "fondazione": 1842,
+      "intitolazione": "Dedicato a Luigi Boccherini"
+    },
+    {
+      "citta": "Mantova",
+      "nome": "Conservatorio Lucio Campiani",
+      "fondazione": 1777,
+      "intitolazione": "Dedicato a Lucio Campiani"
+    },
+    {
+      "citta": "Matera",
+      "nome": "Conservatorio Egidio Romualdo Duni",
+      "fondazione": 1965,
+      "intitolazione": "Dedicato a Egidio Romualdo Duni"
+    },
+    {
+      "citta": "Messina",
+      "nome": "Conservatorio Arcangelo Corelli",
+      "fondazione": 1938,
+      "intitolazione": "Dedicato a Arcangelo Corelli"
+    },
+    {
+      "citta": "Milano",
+      "nome": "Conservatorio Giuseppe Verdi",
+      "fondazione": 1808,
+      "intitolazione": "Dedicato a Giuseppe Verdi"
+    },
+    {
+      "citta": "Monopoli",
+      "nome": "Conservatorio Nino Rota",
+      "fondazione": 2000,
+      "intitolazione": "Dedicato a Nino Rota"
+    },
+    {
+      "citta": "Napoli",
+      "nome": "Conservatorio di San Pietro a Majella",
+      "fondazione": 1808,
+      "intitolazione": "Prende nome dalla Chiesa di San Pietro a Majella a cui è annesso"
+    },
+    {
+      "citta": "Novara",
+      "nome": "Conservatorio Guido Cantelli",
+      "fondazione": 1996,
+      "intitolazione": "Dedicato a Guido Cantelli"
+    },
+    {
+      "citta": "Padova",
+      "nome": "Conservatorio Cesare Pollini",
+      "fondazione": 1878,
+      "intitolazione": "Dedicato a Cesare Pollini"
+    },
+    {
+      "citta": "Palermo",
+      "nome": "Conservatorio Alessandro Scarlatti",
+      "fondazione": 1617,
+      "intitolazione": "Dedicato a Alessandro Scarlatti già Vincenzo Bellini"
+    },
+    {
+      "citta": "Parma",
+      "nome": "Conservatorio Arrigo Boito",
+      "fondazione": 1825,
+      "intitolazione": "Dedicato ad Arrigo Boito"
+    },
+    {
+      "citta": "Pavia",
+      "nome": "Conservatorio Franco Vittadini",
+      "fondazione": 1867,
+      "intitolazione": "Dedicato a Franco Vittadini"
+    },
+    {
+      "citta": "Perugia",
+      "nome": "Conservatorio Francesco Morlacchi",
+      "fondazione": 1788,
+      "intitolazione": "Dedicato a Francesco Morlacchi"
+    },
+    {
+      "citta": "Pesaro",
+      "nome": "Conservatorio Gioachino Rossini",
+      "fondazione": 1882,
+      "intitolazione": "Dedicato a Gioachino Rossini"
+    },
+    {
+      "citta": "Pescara",
+      "nome": "Conservatorio Luisa D'Annunzio",
+      "fondazione": 1935,
+      "intitolazione": "Dedicato a Luisa de Benedictis, madre di Gabriele D'Annunzio"
+    },
+    {
+      "citta": "Piacenza",
+      "nome": "Conservatorio Giuseppe Nicolini",
+      "fondazione": 1839,
+      "intitolazione": "Dedicato a Giuseppe Nicolini"
+    },
+    {
+      "citta": "Potenza",
+      "nome": "Conservatorio Carlo Gesualdo da Venosa",
+      "fondazione": 1971,
+      "intitolazione": "Dedicato a Gesualdo da Venosa"
+    },
+    {
+      "citta": "Ravenna",
+      "nome": "Istituto superiore di studi musicali Giuseppe Verdi",
+      "fondazione": 2022,
+      "intitolazione": "Dedicato a Giuseppe Verdi"
+    },
+    {
+      "citta": "Reggio Calabria",
+      "nome": "Conservatorio Francesco Cilea",
+      "fondazione": 1927,
+      "intitolazione": "Dedicato a Francesco Cilea"
+    },
+    {
+      "citta": "Reggio Emilia",
+      "nome": "Conservatorio Achille Peri",
+      "fondazione": 1972,
+      "intitolazione": "Dedicato a Achille Peri"
+    },
+    {
+      "citta": "Ribera",
+      "nome": "Conservatorio Arturo Toscanini",
+      "fondazione": 2022,
+      "intitolazione": "Dedicato a Arturo Toscanini"
+    },
+    {
+      "citta": "Roma",
+      "nome": "Conservatorio Santa Cecilia",
+      "fondazione": 1875,
+      "intitolazione": "Dedicato a Santa Cecilia"
+    },
+    {
+      "citta": "Rovigo",
+      "nome": "Conservatorio Francesco Venezze",
+      "fondazione": 1970,
+      "intitolazione": "Prende il nome dall'edificio che lo ospita, Palazzo Venezze"
+    },
+    {
+      "citta": "Salerno",
+      "nome": "Conservatorio Giuseppe Martucci",
+      "fondazione": 1980,
+      "intitolazione": "Dedicato a Giuseppe Martucci"
+    },
+    {
+      "citta": "Sassari",
+      "nome": "Conservatorio Luigi Canepa",
+      "fondazione": 1860,
+      "intitolazione": "Dedicato a Luigi Canepa"
+    },
+    {
+      "citta": "Siena",
+      "nome": "Conservatorio Rinaldo Franci",
+      "fondazione": 1834,
+      "intitolazione": "Dedicato a Rinaldo Franci"
+    },
+    {
+      "citta": "Taranto",
+      "nome": "Conservatorio Giovanni Paisiello",
+      "fondazione": 1927,
+      "intitolazione": "Dedicato a Giovanni Paisiello"
+    },
+    {
+      "citta": "Teramo",
+      "nome": "Conservatorio Statale Gaetano Braga",
+      "fondazione": 1895,
+      "intitolazione": "Dedicato a Gaetano Braga"
+    },
+    {
+      "citta": "Terni",
+      "nome": "Conservatorio Giulio Briccialdi",
+      "fondazione": 1974,
+      "intitolazione": "Dedicato a Giulio Briccialdi"
+    },
+    {
+      "citta": "Trapani",
+      "nome": "Conservatorio Antonio Scontrino",
+      "fondazione": 1978,
+      "intitolazione": "Dedicato a Antonio Scontrino"
+    },
+    {
+      "citta": "Trento",
+      "nome": "Conservatorio Francesco Antonio Bonporti",
+      "fondazione": 1980,
+      "intitolazione": "Dedicato a Francesco Antonio Bonporti"
+    },
+    {
+      "citta": "Trieste",
+      "nome": "Conservatorio Giuseppe Tartini",
+      "fondazione": 1903,
+      "intitolazione": "Dedicato a Giuseppe Tartini"
+    },
+    {
+      "citta": "Torino",
+      "nome": "Conservatorio Giuseppe Verdi",
+      "fondazione": 1866,
+      "intitolazione": "Dedicato a Giuseppe Verdi"
+    },
+    {
+      "citta": "Udine",
+      "nome": "Conservatorio Jacopo Tomadini",
+      "fondazione": 1826,
+      "intitolazione": "Dedicato a Jacopo Tomadini"
+    },
+    {
+      "citta": "Venezia",
+      "nome": "Conservatorio Benedetto Marcello",
+      "fondazione": 1867,
+      "intitolazione": "Dedicato a Benedetto Marcello"
+    },
+    {
+      "citta": "Verona",
+      "nome": "Conservatorio Evaristo Felice Dall'Abaco",
+      "fondazione": 1927,
+      "intitolazione": "Dedicato a Evaristo Felice Dall'Abaco"
+    },
+    {
+      "citta": "Vibo Valentia",
+      "nome": "Conservatorio Fausto Torrefranca",
+      "fondazione": 1970,
+      "intitolazione": "Dedicato a Fausto Torrefranca"
+    },
+    {
+      "citta": "Vicenza",
+      "nome": "Conservatorio Arrigo Pedrollo",
+      "fondazione": 1979,
+      "intitolazione": "Dedicato a Arrigo Pedrollo"
+    }
+  ],
+  "meta": {
+    "title": "Conservatori di musica in Italia - Free Download",
+    "description": "Elenco dei conservatori statali di musica in Italia con città, anno di nascita e intitolazione. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Conservatori di musica in Italia | ListBase",
+    "seo_description": "Download Conservatori di musica in Italia — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Conservatori_di_musica_in_Italia"
+    ]
+  }
+}
