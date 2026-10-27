@@ -1,0 +1,191 @@
+{
+  "id": "it-province-prodotti-dop-igp",
+  "name": "Province italiane con più prodotti DOP e IGP",
+  "title": "Province italiane con più prodotti DOP e IGP",
+  "description": "Classifica delle province italiane per numero di prodotti agroalimentari DOP e IGP.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "prodotti",
+      "label": "Prodotti",
+      "type": "string"
+    },
+    {
+      "key": "totale",
+      "label": "Totale",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "provincia": "Bologna",
+      "area": "Nord-est",
+      "prodotti": "Agnello del Centro Italia, Amarene Brusche di Modena, Asparago verde di Altedo, Ciliegia di Vignola, Cotechino Modena, Formaggio di Fossa di Sogliano, Grana Padano, Marrone di Castel del Rio, Melone Mantovano, Mortadella Bologna, Parmigiano Reggiano, Patata di Bologna, Pera dell'Emilia Romagna, Pesca e Nettarina di Romagna, Prosciutto di Modena, Salame Cremona, Salamini italiani alla cacciatora, Scalogno di Romagna, Squacquerone di Romagna, Vitellone bianco dell'Appennino Centrale, Zampone Modena",
+      "totale": 21
+    },
+    {
+      "posizione": 2,
+      "provincia": "Brescia",
+      "area": "Nord-ovest",
+      "prodotti": "Cotechino Modena, Garda, Gorgonzola, Grana Padano, Laghi Lombardi, Mortadella Bologna, Nostrano Valtrompia, Provolone Valpadana, Quartirolo Lombardo, Salame Brianza, Salame Cremona, Salamini italiani alla cacciatora, Salmerino del Trentino, Salva Cremasco, Silter, Taleggio, Trote del Trentino, Zampone Modena",
+      "totale": 18
+    },
+    {
+      "posizione": 3,
+      "provincia": "Ferrara",
+      "area": "Nord-est",
+      "prodotti": "Aglio di Voghiera, Asparago verde di Altedo, Cappellacci di zucca ferraresi, Coppia Ferrarese, Cotechino Modena, Grana Padano, Melone Mantovano, Mortadella Bologna, Pampapato/Pampepato di Ferrara, Pera dell'Emilia Romagna, Pesca e Nettarina di Romagna, Riso del Delta del Po, Salama da sugo, Salame Cremona, Salamini italiani alla cacciatora, Squacquerone di Romagna, Zampone Modena",
+      "totale": 17
+    },
+    {
+      "posizione": 4,
+      "provincia": "Cuneo",
+      "area": "Nord-ovest",
+      "prodotti": "Bra, Castagna Cuneo, Castelmagno, Crudo di Cuneo, Fagiolo Cuneo, Gorgonzola, Grana Padano, Mela Rossa Cuneo, Mortadella Bologna, Murazzano, Raschera, Salame Cremona, Salame Piemonte, Salamini italiani alla cacciatora, Tinca Gobba Dorata del Pianalto di Poirino, Toma Piemontese, Vitelloni Piemontesi della coscia",
+      "totale": 17
+    },
+    {
+      "posizione": 5,
+      "provincia": "Bergamo",
+      "area": "Nord-ovest",
+      "prodotti": "Bitto, Cotechino Modena, Formai de Mut dell'Alta Valle Brembana, Gorgonzola, Grana Padano, Laghi Lombardi, Mortadella Bologna, Provolone Valpadana, Quartirolo Lombardo, Salame Brianza, Salame Cremona, Salamini italiani alla cacciatora, Salva Cremasco, Strachitunt, Taleggio, Zampone Modena",
+      "totale": 16
+    },
+    {
+      "posizione": 6,
+      "provincia": "Roma",
+      "area": "Centro",
+      "prodotti": "Abbacchio Romano, Agnello del Centro Italia, Carciofo Romanesco del Lazio, Kiwi Latina, Mortadella Bologna, Mozzarella di Bufala Campana, Nocciola Romana, Oliva di Gaeta, Pane casareccio di Genzano, Pecorino Romano, Porchetta di Ariccia, Ricotta di Bufala Campana, Ricotta Romana, Sabina, Salamini italiani alla cacciatora",
+      "totale": 15
+    },
+    {
+      "posizione": 7,
+      "provincia": "Siena",
+      "area": "Centro",
+      "prodotti": "Agnello del Centro Italia, Cantuccini/Cantucci Toscani, Castagna del Monte Amiata, Chianti Classico, Mortadella Bologna, Pane Toscano, Panforte di Siena, Pecorino Toscano, Prosciutto Toscano, Ricciarelli di Siena, Salamini italiani alla cacciatora, Terre di Siena, Olio Toscano, Vitellone bianco dell'Appennino Centrale, Zafferano di San Gimignano",
+      "totale": 15
+    },
+    {
+      "posizione": 8,
+      "provincia": "Treviso",
+      "area": "Nord-est",
+      "prodotti": "Asiago, Asparago Bianco di Cimadolmo, Asparago di Badoere, Casatella Trevigiana, Grana Padano, Marrone di Combai, Marroni del Monfenera, Montasio, Mortadella Bologna, Radicchio Rosso di Treviso, Radicchio Variegato di Castelfranco, Salame Cremona, Salamini italiani alla cacciatora, Taleggio, Veneto Valpolicella - Veneto Euganei e Berici - Veneto del Grappa",
+      "totale": 15
+    },
+    {
+      "posizione": 9,
+      "provincia": "Salerno",
+      "area": "Sud",
+      "prodotti": "Caciocavallo Silano, Carciofo di Paestum, Cilento, Cipollotto Nocerino, Colatura di alici di Cetara, Colline Salernitane, Fico Bianco del Cilento, Limone Costa dAmalfi, Marrone di Roccadaspide, Marrone di Serino/Castagna di Serino, Mozzarella di Bufala Campana, Nocciola di Giffoni, Pomodoro S. Marzano dellAgro Sarnese-Nocerino, Ricotta di Bufala Camapna, Rucola della Piana del Sele",
+      "totale": 15
+    },
+    {
+      "posizione": 10,
+      "provincia": "Verona",
+      "area": "Nord-est",
+      "prodotti": "Cotechino Modena, Garda, Grana Padano, Marrone di San Zeno, Monte Veronese, Mortadella Bologna, Pesca di Verona, Prosciutto Veneto Berico-Euganeo, Provolone Valpadana, Radicchio di Verona, Riso Nano Vialone Veronese, Salame Cremona, Salamini italiani alla cacciatora, Veneto Valpolicella - Veneto Euganei e Berici - Veneto del Grappa, Zampone Modena",
+      "totale": 15
+    },
+    {
+      "posizione": 11,
+      "provincia": "Viterbo",
+      "area": "Centro",
+      "prodotti": "Abbacchio Romano, Agnello del Centro Italia, Canino, Carciofo Romanesco del Lazio, Castagna di Vallerano, Mortadella Bologna, Nocciola Romana, Patata dellAlto Viterbese, Pecorino Romano, Pecorino Toscano, Ricotta Romana, Salamini italiani alla cacciatora, Tuscia, Vitellone bianco dell'Appennino Centrale",
+      "totale": 14
+    },
+    {
+      "posizione": 12,
+      "provincia": "Modena",
+      "area": "Nord-est",
+      "prodotti": "Aceto Balsamico di Modena, Aceto balsamico tradizionale di Modena, Agnello del Centro Italia, Amarene Brusche di Modena, Ciliegia di Vignola, Coppa di Parma, Cotechino Modena, Melone Mantovano, Mortadella Bologna, Parmigiano Reggiano, Pera dellEmilia Romagna, Prosciutto di Modena, Salamini italiani alla cacciatora, Zampone Modena",
+      "totale": 14
+    },
+    {
+      "posizione": 13,
+      "provincia": "Grosseto",
+      "area": "Centro",
+      "prodotti": "Agnello del Centro Italia, Cantuccini/Cantucci Toscani, Castagna del Monte Amiata, Cinta Senese, Finocchiona, Mortadella Bologna, Pane Toscano, Pecorino Romano, Pecorino Toscano, Prosciutto Toscano, Salamini italiani alla cacciatora, Olio Seggiano, Olio Toscano, Vitellone bianco dell'Appennino Centrale",
+      "totale": 14
+    },
+    {
+      "posizione": 14,
+      "provincia": "Ravenna",
+      "area": "Nord-est",
+      "prodotti": "Agnello del Centro Italia, Brisighella, Cotechino Modena, Formaggio di Fossa di Sogliano, Grana Padano, Mortadella Bologna, Pera dell'Emilia Romagna, Pesca e Nettarina di Romagna, Piadina Romagnola/Piada Romagnola, Salame Cremona, Salamini italiani alla cacciatora, Scalogno di Romagna, Squacquerone di Romagna, Vitellone bianco dell'Appennino Centrale, Zampone Modena",
+      "totale": 14
+    },
+    {
+      "posizione": 15,
+      "provincia": "Catania",
+      "area": "Sud",
+      "prodotti": "Arancia Rossa di Sicilia, Carota Novella di Ispica, Ciliegia dellEtna, Fico d'india dell'Etna, Fico d'india di San Cono, Limone dellEtna, Monte Etna, Monti Iblei, Pagnotta del Dittaino, Pecorino Siciliano, Pistacchio Verde di Bronte, Provola dei Nebrodi, Sicilia, Uva da tavola di Mazzarrone",
+      "totale": 14
+    },
+    {
+      "posizione": 16,
+      "provincia": "Padova",
+      "area": "Nord-est",
+      "prodotti": "Asiago, Asparago di Badoere, Grana Padano, Insalata di Lusia, Montasio, Mortadella Bologna, Prosciutto Veneto Berico-Euganeo, Provolone Valpadana, Radicchio di Chioggia, Radicchio di Verona, Radicchio Rosso di Treviso, Radicchio Variegato di Castelfranco, Salame Cremona, Salamini italiani alla cacciatora, Veneto Valpolicella - Veneto Euganei e Berici - Veneto del Grappa",
+      "totale": 14
+    },
+    {
+      "posizione": 17,
+      "provincia": "Cremona",
+      "area": "Nord-ovest",
+      "prodotti": "Coppa di Parma, Cotechino Modena, Gorgonzola, Grana Padano, Melone Mantovano, Mortadella Bologna, Provolone Valpadana, Quartirolo Lombardo, Salame Brianza, Salame Cremona, Salamini italiani alla cacciatora, Salva Cremasco, Taleggio, Zampone Modena",
+      "totale": 14
+    },
+    {
+      "posizione": 18,
+      "provincia": "Frosinone",
+      "area": "Centro",
+      "prodotti": "Abbacchio Romano, Agnello del Centro Italia, Fagiolo Cannellino di Atina, Mortadella Bologna, Mozzarella di Bufala Campana, Oliva di Gaeta, Pecorino di Picinisco, Pecorino Romano, Peperone di Pontecorvo, Ricotta di Bufala Camapna, Ricotta Romana, Salamini italiani alla cacciatora, Vitellone bianco dell'Appennino Centrale",
+      "totale": 13
+    },
+    {
+      "posizione": 19,
+      "provincia": "Latina",
+      "area": "Centro",
+      "prodotti": "Abbacchio Romano, Agnello del Centro Italia, Carciofo Romanesco del Lazio, Colline Pontine, Kiwi Latina, Mortadella Bologna, Mozzarella di Bufala Campana, Oliva di Gaeta, Pecorino Romano, Ricotta di Bufala Campana, Ricotta Romana, Salamini italiani alla cacciatora, Sedano Bianco di Sperlonga",
+      "totale": 13
+    },
+    {
+      "posizione": 20,
+      "provincia": "Firenze",
+      "area": "Centro",
+      "prodotti": "Agnello del Centro Italia, Cantuccini/Cantucci Toscani, Chianti Classico, Cinta Senese, Finocchiona, Marrone del Mugello, Mortadella Bologna, Pane Toscano, Pecorino Toscano, Prosciutto Toscano, Salamini italiani alla cacciatora, Olio Toscano, Vitellone bianco dell'Appennino Centrale",
+      "totale": 13
+    }
+  ],
+  "meta": {
+    "title": "Province italiane con più prodotti DOP e IGP - Free Download",
+    "description": "Classifica delle province italiane per numero di prodotti agroalimentari DOP e IGP. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Province italiane con più prodotti DOP e IGP | ListBase",
+    "seo_description": "Download Province italiane con più prodotti DOP e IGP — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani"
+    ]
+  }
+}

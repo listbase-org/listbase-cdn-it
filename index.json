@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:09.150Z",
-  "total_datasets": 473,
-  "total_records": 138150,
+  "generated": "2026-10-27T02:13:11.681Z",
+  "total_datasets": 474,
+  "total_records": 138170,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -114,6 +114,32 @@
         "xlsx": {
           "name": "it-prodotti-dop-igp_IT.xlsx",
           "size": 24810
+        }
+      }
+    },
+    {
+      "id": "it-province-prodotti-dop-igp",
+      "name": "Province italiane con più prodotti DOP e IGP",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "posizione",
+        "provincia",
+        "area",
+        "prodotti",
+        "totale"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Prodotti_DOP,_IGP,_STG_e_IG_italiani",
+      "updated": "2026-10",
+      "size": 10970,
+      "files": {
+        "csv": {
+          "name": "it-province-prodotti-dop-igp_IT.csv",
+          "size": 7366
+        },
+        "xlsx": {
+          "name": "it-province-prodotti-dop-igp_IT.xlsx",
+          "size": 9003
         }
       }
     },
