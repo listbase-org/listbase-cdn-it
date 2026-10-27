@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:32.641Z",
-  "total_datasets": 459,
-  "total_records": 136764,
+  "generated": "2026-10-27T02:12:35.244Z",
+  "total_datasets": 460,
+  "total_records": 136838,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "language",
       "dataset_count": 3
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "music",
@@ -958,6 +962,33 @@
         "xlsx": {
           "name": "it-lingue-d-italia_IT.xlsx",
           "size": 8748
+        }
+      }
+    },
+    {
+      "id": "it-ministri-della-giustizia",
+      "name": "Ministri della giustizia della Repubblica Italiana",
+      "category": "law",
+      "record_count": 74,
+      "columns": [
+        "nome",
+        "partito",
+        "governo",
+        "inizio",
+        "fine",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_della_giustizia_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 18227,
+      "files": {
+        "csv": {
+          "name": "it-ministri-della-giustizia_IT.csv",
+          "size": 7765
+        },
+        "xlsx": {
+          "name": "it-ministri-della-giustizia_IT.xlsx",
+          "size": 10308
         }
       }
     },

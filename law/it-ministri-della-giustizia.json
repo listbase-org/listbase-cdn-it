@@ -1,0 +1,648 @@
+{
+  "id": "it-ministri-della-giustizia",
+  "name": "Ministri della giustizia della Repubblica Italiana",
+  "title": "Ministri della giustizia della Repubblica Italiana",
+  "description": "Elenco dei ministri di grazia e giustizia e della giustizia della Repubblica Italiana con governo e mandato.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Ministri_della_giustizia_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_della_giustizia_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Fausto Gullo (1887-1974)",
+      "partito": "Partito Comunista Italiano",
+      "governo": "De Gasperi II",
+      "inizio": "14 luglio 1946",
+      "fine": "2 febbraio 1947",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Fausto Gullo (1887-1974)",
+      "partito": "Partito Comunista Italiano",
+      "governo": "De Gasperi III",
+      "inizio": "2 febbraio 1947",
+      "fine": "1º giugno 1947",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Giuseppe Grassi (1883-1950)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "De Gasperi IV",
+      "inizio": "1º giugno 1947",
+      "fine": "24 maggio 1948",
+      "legislatura": "AC"
+    },
+    {
+      "nome": "Giuseppe Grassi (1883-1950)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "De Gasperi V",
+      "inizio": "24 maggio 1948",
+      "fine": "25 gennaio 1950",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Attilio Piccioni (1892-1976)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI",
+      "inizio": "28 gennaio 1950",
+      "fine": "26 luglio 1951",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Adone Zoli (1887-1960)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII",
+      "inizio": "26 luglio 1951",
+      "fine": "16 luglio 1953",
+      "legislatura": "I"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII",
+      "inizio": "16 luglio 1953",
+      "fine": "17 agosto 1953",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Antonio Azara (1883-1967)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella",
+      "inizio": "17 agosto 1953",
+      "fine": "19 gennaio 1954",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Michele De Pietro (1884-1967)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I",
+      "inizio": "19 gennaio 1954",
+      "fine": "10 febbraio 1954",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Michele De Pietro (1884-1967)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Scelba",
+      "inizio": "10 febbraio 1954",
+      "fine": "6 luglio 1955",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Aldo Moro (1916-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni I",
+      "inizio": "6 luglio 1955",
+      "fine": "20 maggio 1957",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli",
+      "inizio": "20 maggio 1957",
+      "fine": "2 luglio 1958",
+      "legislatura": "II"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani II",
+      "inizio": "2 luglio 1958",
+      "fine": "16 febbraio 1959",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II",
+      "inizio": "16 febbraio 1959",
+      "fine": "26 marzo 1960",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni",
+      "inizio": "26 marzo 1960",
+      "fine": "27 luglio 1960",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III",
+      "inizio": "27 luglio 1960",
+      "fine": "22 febbraio 1962",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Giacinto Bosco (1905-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV",
+      "inizio": "22 febbraio 1962",
+      "fine": "22 giugno 1963",
+      "legislatura": "III"
+    },
+    {
+      "nome": "Giacinto Bosco (1905-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I",
+      "inizio": "22 giugno 1963",
+      "fine": "5 dicembre 1963",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Moro I",
+      "inizio": "5 dicembre 1963",
+      "fine": "23 luglio 1964",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Moro II",
+      "inizio": "23 luglio 1964",
+      "fine": "24 febbraio 1966",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Moro III",
+      "inizio": "24 febbraio 1966",
+      "fine": "25 giugno 1968",
+      "legislatura": "IV"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II",
+      "inizio": "25 giugno 1968",
+      "fine": "13 dicembre 1968",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Silvio Gava (1901-1999)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I",
+      "inizio": "13 dicembre 1968",
+      "fine": "6 agosto 1969",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Silvio Gava (1901-1999)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II",
+      "inizio": "6 agosto 1969",
+      "fine": "28 marzo 1970",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Rumor III",
+      "inizio": "28 marzo 1970",
+      "fine": "6 agosto 1970",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Colombo",
+      "inizio": "6 agosto 1970",
+      "fine": "6 marzo 1971",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I",
+      "inizio": "18 febbraio 1972",
+      "fine": "26 giugno 1972",
+      "legislatura": "V"
+    },
+    {
+      "nome": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II",
+      "inizio": "26 giugno 1972",
+      "fine": "8 luglio 1973",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Mario Zagari (1913-1996)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Rumor IV",
+      "inizio": "8 luglio 1973",
+      "fine": "15 marzo 1974",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Mario Zagari (1913-1996)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Rumor V",
+      "inizio": "15 marzo 1974",
+      "fine": "23 novembre 1974",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Oronzo Reale (1902-1988)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Moro IV",
+      "inizio": "23 novembre 1974",
+      "fine": "12 febbraio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Francesco Paolo Bonifacio (1923-1989)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V",
+      "inizio": "12 febbraio 1976",
+      "fine": "30 luglio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "nome": "Francesco Paolo Bonifacio (1923-1989)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III",
+      "inizio": "30 luglio 1976",
+      "fine": "13 marzo 1978",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Francesco Paolo Bonifacio (1923-1989)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV",
+      "inizio": "13 marzo 1978",
+      "fine": "21 marzo 1979",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Tommaso Morlino (1925-1983)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti V",
+      "inizio": "21 marzo 1979",
+      "fine": "5 agosto 1979",
+      "legislatura": "VII"
+    },
+    {
+      "nome": "Tommaso Morlino (1925-1983)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga I",
+      "inizio": "5 agosto 1979",
+      "fine": "4 aprile 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Tommaso Morlino (1925-1983)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga II",
+      "inizio": "4 aprile 1980",
+      "fine": "18 ottobre 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Adolfo Sarti (1928-1992)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Forlani",
+      "inizio": "18 ottobre 1980",
+      "fine": "23 maggio 1981",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Clelio Darida (1927-2017)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Forlani",
+      "inizio": "23 maggio 1981",
+      "fine": "28 giugno 1981",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Clelio Darida (1927-2017)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini I",
+      "inizio": "28 giugno 1981",
+      "fine": "23 agosto 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Clelio Darida (1927-2017)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini II",
+      "inizio": "23 agosto 1982",
+      "fine": "1º dicembre 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Clelio Darida (1927-2017)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani V",
+      "inizio": "1º dicembre 1982",
+      "fine": "4 agosto 1983",
+      "legislatura": "VIII"
+    },
+    {
+      "nome": "Mino Martinazzoli (1931-2011)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi I",
+      "inizio": "4 agosto 1983",
+      "fine": "1º agosto 1986",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Virginio Rognoni (1924-2022)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi II",
+      "inizio": "1º agosto 1986",
+      "fine": "18 aprile 1987",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Virginio Rognoni (1924-2022)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI",
+      "inizio": "18 aprile 1987",
+      "fine": "29 luglio 1987",
+      "legislatura": "IX"
+    },
+    {
+      "nome": "Giuliano Vassalli (1915-2009)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Goria",
+      "inizio": "29 luglio 1987",
+      "fine": "13 aprile 1988",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Giuliano Vassalli (1915-2009)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "De Mita",
+      "inizio": "13 aprile 1988",
+      "fine": "23 luglio 1989",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Giuliano Vassalli (1915-2009)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VI",
+      "inizio": "23 luglio 1989",
+      "fine": "2 febbraio 1991",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Claudio Martelli (1943)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VI",
+      "inizio": "2 febbraio 1991",
+      "fine": "13 aprile 1991",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Claudio Martelli (1943)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VII",
+      "inizio": "13 aprile 1991",
+      "fine": "28 giugno 1992",
+      "legislatura": "X"
+    },
+    {
+      "nome": "Claudio Martelli (1943)",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Amato I",
+      "inizio": "28 giugno 1992",
+      "fine": "10 febbraio 1993",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Giovanni Conso (1922-2015)",
+      "partito": "Indipendente",
+      "governo": "Amato I",
+      "inizio": "12 febbraio 1993",
+      "fine": "29 aprile 1993",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Giovanni Conso (1922-2015)",
+      "partito": "Indipendente",
+      "governo": "Ciampi",
+      "inizio": "29 aprile 1993",
+      "fine": "11 maggio 1994",
+      "legislatura": "XI"
+    },
+    {
+      "nome": "Alfredo Biondi (1928-2020)",
+      "partito": "Unione di Centro",
+      "governo": "Berlusconi I",
+      "inizio": "11 maggio 1994",
+      "fine": "17 gennaio 1995",
+      "legislatura": "XII"
+    },
+    {
+      "nome": "Filippo Mancuso (1922-2011)",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio": "17 gennaio 1995",
+      "fine": "19 ottobre 1995",
+      "legislatura": "XII"
+    },
+    {
+      "nome": "Vincenzo Caianiello (1932-2002)",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio": "16 febbraio 1996",
+      "fine": "18 maggio 1996",
+      "legislatura": "XII"
+    },
+    {
+      "nome": "Giovanni Maria Flick (1940)",
+      "partito": "Indipendente",
+      "governo": "Prodi I",
+      "inizio": "18 maggio 1996",
+      "fine": "21 ottobre 1998",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Oliviero Diliberto (1956)",
+      "partito": "Partito dei Comunisti Italiani",
+      "governo": "D'Alema I",
+      "inizio": "21 ottobre 1998",
+      "fine": "22 dicembre 1999",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Oliviero Diliberto (1956)",
+      "partito": "Partito dei Comunisti Italiani",
+      "governo": "D'Alema II",
+      "inizio": "22 dicembre 1999",
+      "fine": "26 aprile 2000",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Piero Fassino (1949)",
+      "partito": "Democratici di Sinistra",
+      "governo": "Amato II",
+      "inizio": "26 aprile 2000",
+      "fine": "11 giugno 2001",
+      "legislatura": "XIII"
+    },
+    {
+      "nome": "Roberto Castelli (1946)",
+      "partito": "Lega Nord",
+      "governo": "Berlusconi II",
+      "inizio": "11 giugno 2001",
+      "fine": "23 aprile 2005",
+      "legislatura": "XIV"
+    },
+    {
+      "nome": "Roberto Castelli (1946)",
+      "partito": "Lega Nord",
+      "governo": "Berlusconi III",
+      "inizio": "23 aprile 2005",
+      "fine": "17 maggio 2006",
+      "legislatura": "XIV"
+    },
+    {
+      "nome": "Clemente Mastella (1947)",
+      "partito": "Popolari UDEUR",
+      "governo": "Prodi II",
+      "inizio": "17 maggio 2006",
+      "fine": "17 gennaio 2008",
+      "legislatura": "XV"
+    },
+    {
+      "nome": "Luigi Scotti (1932)",
+      "partito": "Indipendente",
+      "governo": "Prodi II",
+      "inizio": "7 febbraio 2008",
+      "fine": "8 maggio 2008",
+      "legislatura": "XV"
+    },
+    {
+      "nome": "Angelino Alfano (1970)",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio": "8 maggio 2008",
+      "fine": "27 luglio 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Nitto Palma (1950)",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio": "27 luglio 2011",
+      "fine": "16 novembre 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Paola Severino (1948)",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio": "16 novembre 2011",
+      "fine": "28 aprile 2013",
+      "legislatura": "XVI"
+    },
+    {
+      "nome": "Annamaria Cancellieri (1943)",
+      "partito": "Indipendente",
+      "governo": "Letta",
+      "inizio": "28 aprile 2013",
+      "fine": "22 febbraio 2014",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Andrea Orlando (1969)",
+      "partito": "Partito Democratico",
+      "governo": "Renzi",
+      "inizio": "22 febbraio 2014",
+      "fine": "12 dicembre 2016",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Andrea Orlando (1969)",
+      "partito": "Partito Democratico",
+      "governo": "Gentiloni",
+      "inizio": "12 dicembre 2016",
+      "fine": "1º giugno 2018",
+      "legislatura": "XVII"
+    },
+    {
+      "nome": "Alfonso Bonafede (1976)",
+      "partito": "Movimento 5 Stelle",
+      "governo": "Conte I",
+      "inizio": "1º giugno 2018",
+      "fine": "5 settembre 2019",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Alfonso Bonafede (1976)",
+      "partito": "Movimento 5 Stelle",
+      "governo": "Conte II",
+      "inizio": "5 settembre 2019",
+      "fine": "13 febbraio 2021",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Marta Cartabia (1963)",
+      "partito": "Indipendente",
+      "governo": "Draghi",
+      "inizio": "13 febbraio 2021",
+      "fine": "22 ottobre 2022",
+      "legislatura": "XVIII"
+    },
+    {
+      "nome": "Carlo Nordio (1947)",
+      "partito": "Fratelli d'Italia",
+      "governo": "Meloni",
+      "inizio": "22 ottobre 2022",
+      "fine": "in carica",
+      "legislatura": "XIX"
+    }
+  ],
+  "meta": {
+    "title": "Ministri della giustizia della Repubblica Italiana - Free Download",
+    "description": "Elenco dei ministri di grazia e giustizia e della giustizia della Repubblica Italiana con governo e mandato. Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri della giustizia della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri della giustizia della Repubblica Italiana — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_della_giustizia_della_Repubblica_Italiana"
+    ]
+  }
+}
