@@ -1,0 +1,346 @@
+{
+  "id": "it-film-maggiori-incassi",
+  "name": "Film con maggiori incassi in Italia",
+  "title": "Film con maggiori incassi in Italia",
+  "description": "Classifica dei film con i maggiori incassi al botteghino in Italia (euro).",
+  "category": "entertainment",
+  "source": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "incasso_euro",
+      "label": "Incasso Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "film": "Buen camino",
+      "anno": 2025,
+      "incasso_euro": 76594154
+    },
+    {
+      "posizione": 2,
+      "film": "Avatar",
+      "anno": 2009,
+      "incasso_euro": 68679702
+    },
+    {
+      "posizione": 3,
+      "film": "Quo vado?",
+      "anno": 2016,
+      "incasso_euro": 65365676
+    },
+    {
+      "posizione": 4,
+      "film": "Odissea",
+      "anno": 2026,
+      "incasso_euro": 58860549
+    },
+    {
+      "posizione": 5,
+      "film": "Sole a catinelle",
+      "anno": 2013,
+      "incasso_euro": 51948550
+    },
+    {
+      "posizione": 6,
+      "film": "Titanic",
+      "anno": 1997,
+      "incasso_euro": 51890733
+    },
+    {
+      "posizione": 7,
+      "film": "Inside Out 2",
+      "anno": 2024,
+      "incasso_euro": 46530579
+    },
+    {
+      "posizione": 8,
+      "film": "Tolo tolo",
+      "anno": 2020,
+      "incasso_euro": 46208356
+    },
+    {
+      "posizione": 9,
+      "film": "Avatar - La via dell'acqua",
+      "anno": 2022,
+      "incasso_euro": 45048670
+    },
+    {
+      "posizione": 10,
+      "film": "Che bella giornata",
+      "anno": 2011,
+      "incasso_euro": 43475840
+    },
+    {
+      "posizione": 11,
+      "film": "Spider-Man: Brand New Day",
+      "anno": 2026,
+      "incasso_euro": 38602804
+    },
+    {
+      "posizione": 12,
+      "film": "Il re leone",
+      "anno": 2019,
+      "incasso_euro": 37514561
+    },
+    {
+      "posizione": 13,
+      "film": "C'è ancora domani",
+      "anno": 2023,
+      "incasso_euro": 36914292
+    },
+    {
+      "posizione": 14,
+      "film": "Avengers: Endgame",
+      "anno": 2019,
+      "incasso_euro": 33849321
+    },
+    {
+      "posizione": 15,
+      "film": "Il diavolo veste Prada 2",
+      "anno": 2026,
+      "incasso_euro": 32221548
+    },
+    {
+      "posizione": 16,
+      "film": "Barbie",
+      "anno": 2023,
+      "incasso_euro": 32169505
+    },
+    {
+      "posizione": 17,
+      "film": "La vita è bella",
+      "anno": 1997,
+      "incasso_euro": 31231984
+    },
+    {
+      "posizione": 18,
+      "film": "Alice in Wonderland",
+      "anno": 2010,
+      "incasso_euro": 30402596
+    },
+    {
+      "posizione": 19,
+      "film": "Benvenuti al Sud",
+      "anno": 2010,
+      "incasso_euro": 29873491
+    },
+    {
+      "posizione": 20,
+      "film": "L'era glaciale 3 - L'alba dei dinosauri",
+      "anno": 2009,
+      "incasso_euro": 29705584
+    },
+    {
+      "posizione": 21,
+      "film": "Joker",
+      "anno": 2019,
+      "incasso_euro": 29672122
+    },
+    {
+      "posizione": 22,
+      "film": "Bohemian Rhapsody",
+      "anno": 2018,
+      "incasso_euro": 29079056
+    },
+    {
+      "posizione": 23,
+      "film": "Harry Potter e la pietra filosofale",
+      "anno": 2001,
+      "incasso_euro": 28812691
+    },
+    {
+      "posizione": 24,
+      "film": "Il codice da Vinci",
+      "anno": 2006,
+      "incasso_euro": 28690407
+    },
+    {
+      "posizione": 25,
+      "film": "Oppenheimer",
+      "anno": 2023,
+      "incasso_euro": 28578941
+    },
+    {
+      "posizione": 26,
+      "film": "Chiedimi se sono felice",
+      "anno": 2000,
+      "incasso_euro": 28458894
+    },
+    {
+      "posizione": 27,
+      "film": "Natale sul Nilo",
+      "anno": 2002,
+      "incasso_euro": 28296128
+    },
+    {
+      "posizione": 28,
+      "film": "Il ciclone",
+      "anno": 1996,
+      "incasso_euro": 28085461
+    },
+    {
+      "posizione": 29,
+      "film": "Benvenuti al Nord",
+      "anno": 2012,
+      "incasso_euro": 27194040
+    },
+    {
+      "posizione": 30,
+      "film": "Pinocchio",
+      "anno": 2002,
+      "incasso_euro": 26197231
+    },
+    {
+      "posizione": 31,
+      "film": "Fuochi d'artificio",
+      "anno": 1997,
+      "incasso_euro": 25878172
+    },
+    {
+      "posizione": 32,
+      "film": "Michael",
+      "anno": 2026,
+      "incasso_euro": 25842671
+    },
+    {
+      "posizione": 33,
+      "film": "Avatar - Fuoco e cenere",
+      "anno": 2025,
+      "incasso_euro": 25806388
+    },
+    {
+      "posizione": 34,
+      "film": "Star Wars - Il risveglio della Forza",
+      "anno": 2015,
+      "incasso_euro": 25558574
+    },
+    {
+      "posizione": 35,
+      "film": "Inside Out",
+      "anno": 2015,
+      "incasso_euro": 25407157
+    },
+    {
+      "posizione": 36,
+      "film": "Madagascar 2",
+      "anno": 2008,
+      "incasso_euro": 25091565
+    },
+    {
+      "posizione": 37,
+      "film": "Spider-Man: No Way Home",
+      "anno": 2021,
+      "incasso_euro": 25047985
+    },
+    {
+      "posizione": 38,
+      "film": "Il paradiso all'improvviso",
+      "anno": 2003,
+      "incasso_euro": 24954192
+    },
+    {
+      "posizione": 39,
+      "film": "Natale a Rio",
+      "anno": 2008,
+      "incasso_euro": 24678792
+    },
+    {
+      "posizione": 40,
+      "film": "Il Signore degli Anelli - Il ritorno del re",
+      "anno": 2003,
+      "incasso_euro": 23775898
+    },
+    {
+      "posizione": 41,
+      "film": "Natale a New York",
+      "anno": 2006,
+      "incasso_euro": 23559371
+    },
+    {
+      "posizione": 42,
+      "film": "Minions",
+      "anno": 2015,
+      "incasso_euro": 23477837
+    },
+    {
+      "posizione": 43,
+      "film": "Natale in crociera",
+      "anno": 2007,
+      "incasso_euro": 23461775
+    },
+    {
+      "posizione": 44,
+      "film": "Il Signore degli Anelli - La Compagnia dell'Anello",
+      "anno": 2001,
+      "incasso_euro": 22795167
+    },
+    {
+      "posizione": 45,
+      "film": "Così è la vita",
+      "anno": 1998,
+      "incasso_euro": 22522708
+    },
+    {
+      "posizione": 46,
+      "film": "Lilo & Stitch",
+      "anno": 2025,
+      "incasso_euro": 22397334
+    },
+    {
+      "posizione": 47,
+      "film": "Harry Potter e i Doni della Morte - Parte 2",
+      "anno": 2011,
+      "incasso_euro": 22306475
+    },
+    {
+      "posizione": 48,
+      "film": "La leggenda di Al, John e Jack",
+      "anno": 2002,
+      "incasso_euro": 22262559
+    },
+    {
+      "posizione": 49,
+      "film": "Mufasa - Il re leone",
+      "anno": 2024,
+      "incasso_euro": 22247250
+    },
+    {
+      "posizione": 50,
+      "film": "Madagascar 3 - Ricercati in Europa",
+      "anno": 2012,
+      "incasso_euro": 21912434
+    }
+  ],
+  "meta": {
+    "title": "Film con maggiori incassi in Italia - Free Download",
+    "description": "Classifica dei film con i maggiori incassi al botteghino in Italia (euro). Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Film con maggiori incassi in Italia | ListBase",
+    "seo_description": "Download Film con maggiori incassi in Italia — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_in_Italia"
+    ]
+  }
+}
