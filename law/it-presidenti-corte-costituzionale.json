@@ -1,0 +1,646 @@
+{
+  "id": "it-presidenti-corte-costituzionale",
+  "name": "Presidenti della Corte costituzionale",
+  "title": "Presidenti della Corte costituzionale",
+  "description": "Elenco dei presidenti della Corte costituzionale della Repubblica Italiana dal 1956.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_della_Corte_costituzionale_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_della_Corte_costituzionale_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "durata",
+      "label": "Durata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "Enrico De Nicola",
+      "inizio": "23 gennaio 1956",
+      "fine": "26 marzo 1957",
+      "durata": "1 anno, 2 mesi e 3 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Gaetano Azzariti",
+      "inizio": "27 marzo 1957",
+      "fine": "5 aprile 1957",
+      "durata": ""
+    },
+    {
+      "n": 2,
+      "nome": "Gaetano Azzariti",
+      "inizio": "6 aprile 1957",
+      "fine": "5 gennaio 1961",
+      "durata": "3 anni, 8 mesi e 30 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giuseppe Cappi",
+      "inizio": "6 gennaio 1961",
+      "fine": "3 marzo 1961",
+      "durata": ""
+    },
+    {
+      "n": 3,
+      "nome": "Giuseppe Cappi",
+      "inizio": "4 marzo 1961",
+      "fine": "20 ottobre 1962",
+      "durata": "1 anno, 7 mesi e 16 giorni"
+    },
+    {
+      "n": 4,
+      "nome": "Gaspare Ambrosini",
+      "inizio": "20 ottobre 1962",
+      "fine": "15 dicembre 1967",
+      "durata": "5 anni, 1 mese e 25 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Biagio Petrocelli",
+      "inizio": "16 dicembre 1967",
+      "fine": "15 gennaio 1968",
+      "durata": ""
+    },
+    {
+      "n": 5,
+      "nome": "Aldo Mazzini Sandulli",
+      "inizio": "16 gennaio 1968",
+      "fine": "4 aprile 1969",
+      "durata": "1 anno, 2 mesi e 19 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giuseppe Branca",
+      "inizio": "5 aprile 1969",
+      "fine": "9 maggio 1969",
+      "durata": ""
+    },
+    {
+      "n": 6,
+      "nome": "Giuseppe Branca",
+      "inizio": "10 maggio 1969",
+      "fine": "9 luglio 1971",
+      "durata": "2 anni, 1 mese e 29 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Michele Fragali",
+      "inizio": "10 luglio 1971",
+      "fine": "21 novembre 1971",
+      "durata": ""
+    },
+    {
+      "n": 7,
+      "nome": "Giuseppe Chiarelli",
+      "inizio": "22 novembre 1971",
+      "fine": "16 febbraio 1973",
+      "durata": "1 anno, 2 mesi e 25 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giuseppe Verzì",
+      "inizio": "17 febbraio 1973",
+      "fine": "22 febbraio 1973",
+      "durata": ""
+    },
+    {
+      "n": 8,
+      "nome": "Francesco Paolo Bonifacio",
+      "inizio": "23 febbraio 1973",
+      "fine": "25 ottobre 1975",
+      "durata": "2 anni, 8 mesi e 2 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Luigi Oggioni",
+      "inizio": "26 ottobre 1975",
+      "fine": "17 dicembre 1975",
+      "durata": ""
+    },
+    {
+      "n": 9,
+      "nome": "Paolo Rossi",
+      "inizio": "18 dicembre 1975",
+      "fine": "9 maggio 1978",
+      "durata": "2 anni, 4 mesi e 21 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Luigi Oggioni",
+      "inizio": "10 maggio 1978",
+      "fine": "29 settembre 1978",
+      "durata": ""
+    },
+    {
+      "n": "-",
+      "nome": "Leonetto Amadei",
+      "inizio": "30 settembre 1978",
+      "fine": "4 marzo 1979",
+      "durata": ""
+    },
+    {
+      "n": 10,
+      "nome": "Leonetto Amadei",
+      "inizio": "5 marzo 1979",
+      "fine": "28 giugno 1981",
+      "durata": "2 anni, 3 mesi e 23 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giulio Gionfrida",
+      "inizio": "29 giugno 1981",
+      "fine": "20 settembre 1981",
+      "durata": ""
+    },
+    {
+      "n": 11,
+      "nome": "Leopoldo Elia",
+      "inizio": "21 settembre 1981",
+      "fine": "7 maggio 1985",
+      "durata": "3 anni, 7 mesi e 16 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Guglielmo Roehrssen",
+      "inizio": "8 maggio 1985",
+      "fine": "2 luglio 1985",
+      "durata": ""
+    },
+    {
+      "n": 12,
+      "nome": "Livio Paladin",
+      "inizio": "3 luglio 1985",
+      "fine": "1º luglio 1986",
+      "durata": "11 mesi e 28 giorni"
+    },
+    {
+      "n": 13,
+      "nome": "Antonio La Pergola",
+      "inizio": "2 luglio 1986",
+      "fine": "14 giugno 1987",
+      "durata": "11 mesi e 12 giorni"
+    },
+    {
+      "n": 14,
+      "nome": "Francesco Saja",
+      "inizio": "15 giugno 1987",
+      "fine": "22 ottobre 1990",
+      "durata": "3 anni, 4 mesi e 7 giorni"
+    },
+    {
+      "n": 15,
+      "nome": "Giovanni Conso",
+      "inizio": "23 ottobre 1990",
+      "fine": "3 febbraio 1991",
+      "durata": "3 mesi e 11 giorni"
+    },
+    {
+      "n": 16,
+      "nome": "Ettore Gallo",
+      "inizio": "4 febbraio 1991",
+      "fine": "14 luglio 1991",
+      "durata": "5 mesi e 10 giorni"
+    },
+    {
+      "n": 17,
+      "nome": "Aldo Corasaniti",
+      "inizio": "15 luglio 1991",
+      "fine": "14 novembre 1992",
+      "durata": "1 anno, 3 mesi e 30 giorni"
+    },
+    {
+      "n": 18,
+      "nome": "Francesco Paolo Casavola",
+      "inizio": "15 novembre 1992",
+      "fine": "25 febbraio 1995",
+      "durata": "2 anni, 3 mesi e 10 giorni"
+    },
+    {
+      "n": 19,
+      "nome": "Antonio Baldassarre",
+      "inizio": "26 febbraio 1995",
+      "fine": "8 settembre 1995",
+      "durata": "6 mesi e 13 giorni"
+    },
+    {
+      "n": 20,
+      "nome": "Vincenzo Caianiello",
+      "inizio": "9 settembre 1995",
+      "fine": "23 ottobre 1995",
+      "durata": "1 mese e 14 giorni"
+    },
+    {
+      "n": 21,
+      "nome": "Mauro Ferri",
+      "inizio": "24 ottobre 1995",
+      "fine": "3 novembre 1996",
+      "durata": "1 anno e 10 giorni"
+    },
+    {
+      "n": 22,
+      "nome": "Renato Granata",
+      "inizio": "4 novembre 1996",
+      "fine": "4 novembre 1999",
+      "durata": "3 anni"
+    },
+    {
+      "n": "-",
+      "nome": "Renato Granata",
+      "inizio": "5 novembre 1999",
+      "fine": "7 novembre 1999",
+      "durata": ""
+    },
+    {
+      "n": "-",
+      "nome": "Giuliano Vassalli",
+      "inizio": "8 novembre 1999",
+      "fine": "10 novembre 1999",
+      "durata": ""
+    },
+    {
+      "n": 23,
+      "nome": "Giuliano Vassalli",
+      "inizio": "11 novembre 1999",
+      "fine": "13 febbraio 2000",
+      "durata": "3 mesi e 2 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Francesco Guizzi",
+      "inizio": "14 febbraio 2000",
+      "fine": "22 febbraio 2000",
+      "durata": ""
+    },
+    {
+      "n": 24,
+      "nome": "Cesare Mirabelli",
+      "inizio": "23 febbraio 2000",
+      "fine": "21 novembre 2000",
+      "durata": "8 mesi e 29 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Fernando Santosuosso",
+      "inizio": "22 novembre 2000",
+      "fine": "4 gennaio 2001",
+      "durata": ""
+    },
+    {
+      "n": 25,
+      "nome": "Cesare Ruperto",
+      "inizio": "5 gennaio 2001",
+      "fine": "2 dicembre 2002",
+      "durata": "1 anno, 10 mesi e 27 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Riccardo Chieppa",
+      "inizio": "3 dicembre 2002",
+      "fine": "4 dicembre 2002",
+      "durata": ""
+    },
+    {
+      "n": 26,
+      "nome": "Riccardo Chieppa",
+      "inizio": "5 dicembre 2002",
+      "fine": "23 gennaio 2004",
+      "durata": "1 anno, 1 mese e 18 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Gustavo Zagrebelsky",
+      "inizio": "24 gennaio 2004",
+      "fine": "27 gennaio 2004",
+      "durata": ""
+    },
+    {
+      "n": 27,
+      "nome": "Gustavo Zagrebelsky",
+      "inizio": "28 gennaio 2004",
+      "fine": "13 settembre 2004",
+      "durata": "7 mesi e 16 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Valerio Onida",
+      "inizio": "14 settembre 2004",
+      "fine": "21 settembre 2004",
+      "durata": ""
+    },
+    {
+      "n": 28,
+      "nome": "Valerio Onida",
+      "inizio": "22 settembre 2004",
+      "fine": "30 gennaio 2005",
+      "durata": "4 mesi e 8 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Fernanda Contri",
+      "inizio": "31 gennaio 2005",
+      "fine": "9 marzo 2005",
+      "durata": ""
+    },
+    {
+      "n": 29,
+      "nome": "Piero Alberto Capotosti",
+      "inizio": "10 marzo 2005",
+      "fine": "6 novembre 2005",
+      "durata": "7 mesi e 27 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Annibale Marini",
+      "inizio": "7 novembre 2005",
+      "fine": "9 novembre 2005",
+      "durata": ""
+    },
+    {
+      "n": 30,
+      "nome": "Annibale Marini",
+      "inizio": "10 novembre 2005",
+      "fine": "9 luglio 2006",
+      "durata": "7 mesi e 29 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Franco Bile",
+      "inizio": "10 luglio 2006",
+      "fine": "10 luglio 2006",
+      "durata": ""
+    },
+    {
+      "n": 31,
+      "nome": "Franco Bile",
+      "inizio": "11 luglio 2006",
+      "fine": "8 novembre 2008",
+      "durata": "2 anni, 3 mesi e 28 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giovanni Maria Flick",
+      "inizio": "9 novembre 2008",
+      "fine": "13 novembre 2008",
+      "durata": ""
+    },
+    {
+      "n": 32,
+      "nome": "Giovanni Maria Flick",
+      "inizio": "14 novembre 2008",
+      "fine": "18 febbraio 2009",
+      "durata": "3 mesi e 4 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Francesco Amirante",
+      "inizio": "19 febbraio 2009",
+      "fine": "24 febbraio 2009",
+      "durata": ""
+    },
+    {
+      "n": 33,
+      "nome": "Francesco Amirante",
+      "inizio": "25 febbraio 2009",
+      "fine": "7 dicembre 2010",
+      "durata": "1 anno, 9 mesi e 12 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Ugo De Siervo",
+      "inizio": "8 dicembre 2010",
+      "fine": "9 dicembre 2010",
+      "durata": ""
+    },
+    {
+      "n": 34,
+      "nome": "Ugo De Siervo",
+      "inizio": "10 dicembre 2010",
+      "fine": "29 aprile 2011",
+      "durata": "4 mesi e 19 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Paolo Maddalena",
+      "inizio": "30 aprile 2011",
+      "fine": "5 giugno 2011",
+      "durata": ""
+    },
+    {
+      "n": 35,
+      "nome": "Alfonso Quaranta",
+      "inizio": "6 giugno 2011",
+      "fine": "27 gennaio 2013",
+      "durata": "1 anno, 7 mesi e 21 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Franco Gallo",
+      "inizio": "28 gennaio 2013",
+      "fine": "28 gennaio 2013",
+      "durata": ""
+    },
+    {
+      "n": 36,
+      "nome": "Franco Gallo",
+      "inizio": "29 gennaio 2013",
+      "fine": "16 settembre 2013",
+      "durata": "7 mesi e 18 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Luigi Mazzella",
+      "inizio": "17 settembre 2013",
+      "fine": "18 settembre 2013",
+      "durata": ""
+    },
+    {
+      "n": 37,
+      "nome": "Gaetano Silvestri",
+      "inizio": "19 settembre 2013",
+      "fine": "28 giugno 2014",
+      "durata": "9 mesi e 9 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Sabino Cassese",
+      "inizio": "29 giugno 2014",
+      "fine": "29 luglio 2014",
+      "durata": ""
+    },
+    {
+      "n": 38,
+      "nome": "Giuseppe Tesauro",
+      "inizio": "30 luglio 2014",
+      "fine": "9 novembre 2014",
+      "durata": "3 mesi e 10 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Paolo Maria Napolitano",
+      "inizio": "10 novembre 2014",
+      "fine": "11 novembre 2014",
+      "durata": ""
+    },
+    {
+      "n": 39,
+      "nome": "Alessandro Criscuolo",
+      "inizio": "12 novembre 2014",
+      "fine": "24 febbraio 2016",
+      "durata": "1 anno, 3 mesi e 12 giorni"
+    },
+    {
+      "n": 40,
+      "nome": "Paolo Grossi",
+      "inizio": "24 febbraio 2016",
+      "fine": "23 febbraio 2018",
+      "durata": "1 anno, 11 mesi e 29 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giorgio Lattanzi",
+      "inizio": "24 febbraio 2018",
+      "fine": "7 marzo 2018",
+      "durata": ""
+    },
+    {
+      "n": 41,
+      "nome": "Giorgio Lattanzi",
+      "inizio": "8 marzo 2018",
+      "fine": "9 dicembre 2019",
+      "durata": "1 anno, 9 mesi e 1 giorno"
+    },
+    {
+      "n": "-",
+      "nome": "Aldo Carosi",
+      "inizio": "10 dicembre 2019",
+      "fine": "10 dicembre 2019",
+      "durata": ""
+    },
+    {
+      "n": 42,
+      "nome": "Marta Cartabia",
+      "inizio": "11 dicembre 2019",
+      "fine": "13 settembre 2020",
+      "durata": "9 mesi e 2 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Mario Rosario Morelli",
+      "inizio": "14 settembre 2020",
+      "fine": "15 settembre 2020",
+      "durata": ""
+    },
+    {
+      "n": 43,
+      "nome": "Mario Rosario Morelli",
+      "inizio": "16 settembre 2020",
+      "fine": "12 dicembre 2020",
+      "durata": "2 mesi e 26 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giancarlo Coraggio",
+      "inizio": "13 dicembre 2020",
+      "fine": "17 dicembre 2020",
+      "durata": ""
+    },
+    {
+      "n": 44,
+      "nome": "Giancarlo Coraggio",
+      "inizio": "18 dicembre 2020",
+      "fine": "28 gennaio 2022",
+      "durata": "1 anno, 1 mese e 10 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giuliano Amato",
+      "inizio": "29 gennaio 2022",
+      "fine": "29 gennaio 2022",
+      "durata": ""
+    },
+    {
+      "n": 45,
+      "nome": "Giuliano Amato",
+      "inizio": "29 gennaio 2022",
+      "fine": "18 settembre 2022",
+      "durata": "7 mesi e 20 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Silvana Sciarra",
+      "inizio": "19 settembre 2022",
+      "fine": "20 settembre 2022",
+      "durata": ""
+    },
+    {
+      "n": 46,
+      "nome": "Silvana Sciarra",
+      "inizio": "20 settembre 2022",
+      "fine": "11 novembre 2023",
+      "durata": "1 anno, 1 mese e 22 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Augusto Barbera",
+      "inizio": "12 novembre 2023",
+      "fine": "12 dicembre 2023",
+      "durata": ""
+    },
+    {
+      "n": 47,
+      "nome": "Augusto Barbera",
+      "inizio": "12 dicembre 2023",
+      "fine": "21 dicembre 2024",
+      "durata": "1 anno e 9 giorni"
+    },
+    {
+      "n": "-",
+      "nome": "Giovanni Amoroso",
+      "inizio": "22 dicembre 2024",
+      "fine": "21 gennaio 2025",
+      "durata": ""
+    },
+    {
+      "n": 48,
+      "nome": "Giovanni Amoroso",
+      "inizio": "21 gennaio 2025",
+      "fine": "in carica",
+      "durata": "1 anno, 9 mesi e 6 giorni"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti della Corte costituzionale - Free Download",
+    "description": "Elenco dei presidenti della Corte costituzionale della Repubblica Italiana dal 1956. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti della Corte costituzionale | ListBase",
+    "seo_description": "Download Presidenti della Corte costituzionale — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_della_Corte_costituzionale_della_Repubblica_Italiana"
+    ]
+  }
+}

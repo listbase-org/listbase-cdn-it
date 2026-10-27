@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:55.946Z",
-  "total_datasets": 468,
-  "total_records": 137587,
+  "generated": "2026-10-27T02:12:58.499Z",
+  "total_datasets": 469,
+  "total_records": 137672,
   "categories": [
     {
       "id": "culture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -1162,6 +1162,32 @@
         "xlsx": {
           "name": "it-ministri-della-giustizia_IT.xlsx",
           "size": 10308
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-corte-costituzionale",
+      "name": "Presidenti della Corte costituzionale",
+      "category": "law",
+      "record_count": 85,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "durata"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_della_Corte_costituzionale_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 15422,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-corte-costituzionale_IT.csv",
+          "size": 6388
+        },
+        "xlsx": {
+          "name": "it-presidenti-corte-costituzionale_IT.xlsx",
+          "size": 10417
         }
       }
     },
