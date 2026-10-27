@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:50.746Z",
-  "total_datasets": 466,
-  "total_records": 137275,
+  "generated": "2026-10-27T02:12:53.314Z",
+  "total_datasets": 467,
+  "total_records": 137507,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -15240,6 +15240,33 @@
         "xlsx": {
           "name": "it-operatori-telefonia-mobile_IT.xlsx",
           "size": 9173
+        }
+      }
+    },
+    {
+      "id": "it-prefissi-telefonici",
+      "name": "Prefissi telefonici italiani",
+      "category": "tech",
+      "record_count": 232,
+      "columns": [
+        "prefisso",
+        "compartimento",
+        "distretto",
+        "altre_citta",
+        "aree_locali",
+        "provincia"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Prefissi_telefonici_italiani",
+      "updated": "2026-10",
+      "size": 53036,
+      "files": {
+        "csv": {
+          "name": "it-prefissi-telefonici_IT.csv",
+          "size": 19166
+        },
+        "xlsx": {
+          "name": "it-prefissi-telefonici_IT.xlsx",
+          "size": 20314
         }
       }
     },

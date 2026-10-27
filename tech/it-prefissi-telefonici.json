@@ -1,0 +1,1912 @@
+{
+  "id": "it-prefissi-telefonici",
+  "name": "Prefissi telefonici italiani",
+  "title": "Prefissi telefonici italiani",
+  "description": "Prefissi telefonici geografici italiani con distretto, compartimento, aree locali e provincia.",
+  "category": "tech",
+  "source": "https://it.wikipedia.org/wiki/Prefissi_telefonici_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Prefissi_telefonici_italiani",
+  "updated": "2026-10",
+  "record_count": 232,
+  "columns": [
+    {
+      "key": "prefisso",
+      "label": "Prefisso",
+      "type": "number"
+    },
+    {
+      "key": "compartimento",
+      "label": "Compartimento",
+      "type": "string"
+    },
+    {
+      "key": "distretto",
+      "label": "Distretto",
+      "type": "string"
+    },
+    {
+      "key": "altre_citta",
+      "label": "Altre Citta",
+      "type": "string"
+    },
+    {
+      "key": "aree_locali",
+      "label": "Aree Locali",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "prefisso": "010",
+      "compartimento": "Genova",
+      "distretto": "Genova",
+      "altre_citta": "",
+      "aree_locali": "Arenzano , Busalla , Genova",
+      "provincia": "GE, AL"
+    },
+    {
+      "prefisso": "011",
+      "compartimento": "Torino",
+      "distretto": "Torino",
+      "altre_citta": "Moncalieri (TO), Rivoli (TO)",
+      "aree_locali": "Avigliana , Carmagnola , Caselle Torinese , Chieri , Chivasso , Cirié , Gassino Torinese , None , Orbassano , Rivoli, Torino, Vinovo , Volpiano",
+      "provincia": "TO, AT, CN"
+    },
+    {
+      "prefisso": "0121",
+      "compartimento": "Torino",
+      "distretto": "Pinerolo (TO)",
+      "altre_citta": "",
+      "aree_locali": "Pinerolo",
+      "provincia": "TO"
+    },
+    {
+      "prefisso": "0122",
+      "compartimento": "Torino",
+      "distretto": "Susa (TO)",
+      "altre_citta": "",
+      "aree_locali": "Susa",
+      "provincia": "TO"
+    },
+    {
+      "prefisso": "0123",
+      "compartimento": "Torino",
+      "distretto": "Lanzo Torinese (TO)",
+      "altre_citta": "",
+      "aree_locali": "Lanzo Torinese",
+      "provincia": "TO"
+    },
+    {
+      "prefisso": "0124",
+      "compartimento": "Torino",
+      "distretto": "Rivarolo Canavese (TO)",
+      "altre_citta": "",
+      "aree_locali": "Rivarolo Canavese",
+      "provincia": "TO"
+    },
+    {
+      "prefisso": "0125",
+      "compartimento": "Torino",
+      "distretto": "Ivrea (TO)",
+      "altre_citta": "",
+      "aree_locali": "Ivrea, Pont-Saint-Martin",
+      "provincia": "TO, AO"
+    },
+    {
+      "prefisso": "0131",
+      "compartimento": "Torino",
+      "distretto": "Alessandria",
+      "altre_citta": "",
+      "aree_locali": "Alessandria, Tortona",
+      "provincia": "AL"
+    },
+    {
+      "prefisso": "0141",
+      "compartimento": "Torino",
+      "distretto": "Asti",
+      "altre_citta": "",
+      "aree_locali": "Asti, Canelli , Montechiaro d'Asti , Nizza Monferrato , Villafranca d'Asti",
+      "provincia": "AT, AL, CN"
+    },
+    {
+      "prefisso": "0142",
+      "compartimento": "Torino",
+      "distretto": "Casale Monferrato (AL)",
+      "altre_citta": "",
+      "aree_locali": "Casale Monferrato",
+      "provincia": "AL"
+    },
+    {
+      "prefisso": "0143",
+      "compartimento": "Torino",
+      "distretto": "Novi Ligure (AL)",
+      "altre_citta": "",
+      "aree_locali": "Novi Ligure, Ovada",
+      "provincia": "AL"
+    },
+    {
+      "prefisso": "0144",
+      "compartimento": "Torino",
+      "distretto": "Acqui Terme (AL)",
+      "altre_citta": "",
+      "aree_locali": "Acqui Terme",
+      "provincia": "AL, AT"
+    },
+    {
+      "prefisso": "015",
+      "compartimento": "Torino",
+      "distretto": "Biella",
+      "altre_citta": "",
+      "aree_locali": "Biella, Valle Mosso",
+      "provincia": "BI, VC"
+    },
+    {
+      "prefisso": "0161",
+      "compartimento": "Torino",
+      "distretto": "Vercelli",
+      "altre_citta": "",
+      "aree_locali": "Cigliano , Santhià , Vercelli",
+      "provincia": "VC, BI, NO, TO"
+    },
+    {
+      "prefisso": "0163",
+      "compartimento": "Torino",
+      "distretto": "Borgosesia (VC)",
+      "altre_citta": "",
+      "aree_locali": "Borgosesia, Gattinara , Varallo",
+      "provincia": "VC, BI, NO, VB"
+    },
+    {
+      "prefisso": "0165",
+      "compartimento": "Torino",
+      "distretto": "Aosta",
+      "altre_citta": "",
+      "aree_locali": "Aosta, Courmayeur , Quart , Villeneuve",
+      "provincia": "AO"
+    },
+    {
+      "prefisso": "0166",
+      "compartimento": "Torino",
+      "distretto": "Saint-Vincent (AO)",
+      "altre_citta": "",
+      "aree_locali": "Saint-Vincent",
+      "provincia": "AO"
+    },
+    {
+      "prefisso": "0171",
+      "compartimento": "Torino",
+      "distretto": "Cuneo",
+      "altre_citta": "",
+      "aree_locali": "Busca , Cuneo, Limone Piemonte",
+      "provincia": "CN"
+    },
+    {
+      "prefisso": "0172",
+      "compartimento": "Torino",
+      "distretto": "Savigliano (CN)",
+      "altre_citta": "",
+      "aree_locali": "Bra , Fossano , Racconigi , Savigliano",
+      "provincia": "CN"
+    },
+    {
+      "prefisso": "0173",
+      "compartimento": "Torino",
+      "distretto": "Alba (CN)",
+      "altre_citta": "",
+      "aree_locali": "Alba",
+      "provincia": "CN"
+    },
+    {
+      "prefisso": "0174",
+      "compartimento": "Torino",
+      "distretto": "Mondovì (CN)",
+      "altre_citta": "",
+      "aree_locali": "Ceva , Mondovì",
+      "provincia": "CN"
+    },
+    {
+      "prefisso": "0175",
+      "compartimento": "Torino",
+      "distretto": "Saluzzo (CN)",
+      "altre_citta": "",
+      "aree_locali": "Barge , Saluzzo",
+      "provincia": "CN"
+    },
+    {
+      "prefisso": "0182",
+      "compartimento": "Genova",
+      "distretto": "Albenga (SV)",
+      "altre_citta": "",
+      "aree_locali": "Alassio , Albenga, Ceriale",
+      "provincia": "SV"
+    },
+    {
+      "prefisso": "0183",
+      "compartimento": "Genova",
+      "distretto": "Imperia",
+      "altre_citta": "",
+      "aree_locali": "Imperia",
+      "provincia": "IM"
+    },
+    {
+      "prefisso": "0184",
+      "compartimento": "Genova",
+      "distretto": "Sanremo (IM)",
+      "altre_citta": "",
+      "aree_locali": "Sanremo, Taggia , Ventimiglia",
+      "provincia": "IM"
+    },
+    {
+      "prefisso": "0185",
+      "compartimento": "Genova",
+      "distretto": "Rapallo (GE)",
+      "altre_citta": "",
+      "aree_locali": "Chiavari , Rapallo , Recco",
+      "provincia": "GE"
+    },
+    {
+      "prefisso": "0187",
+      "compartimento": "Genova",
+      "distretto": "La Spezia",
+      "altre_citta": "",
+      "aree_locali": "Aulla , La Spezia, Levanto , Sarzana",
+      "provincia": "SP, MS"
+    },
+    {
+      "prefisso": "019",
+      "compartimento": "Genova",
+      "distretto": "Savona",
+      "altre_citta": "",
+      "aree_locali": "Carcare , Finale Ligure , Savona, Varazze",
+      "provincia": "SV, AL"
+    },
+    {
+      "prefisso": "02",
+      "compartimento": "Milano",
+      "distretto": "Milano",
+      "altre_citta": "Sesto San Giovanni (MI), Cinisello Balsamo (MI), Rho (MI)",
+      "aree_locali": "Abbiategrasso , Binasco , Cernusco sul Naviglio , Gorgonzola , Locate di Triulzi , Magenta , Melegnano , Milano, Paullo , Rho, Saronno , Sedriano , Senago , Trezzo sull'Adda",
+      "provincia": "MI, BG, CO, LO, MB, PV, VA"
+    },
+    {
+      "prefisso": "030",
+      "compartimento": "Milano",
+      "distretto": "Brescia",
+      "altre_citta": "",
+      "aree_locali": "Brescia, Chiari , Desenzano del Garda , Gottolengo , Iseo , Leno , Montichiari , Palazzolo sull'Oglio , Rovato , Sarezzo , Verolanuova",
+      "provincia": "BS"
+    },
+    {
+      "prefisso": "031",
+      "compartimento": "Milano",
+      "distretto": "Como",
+      "altre_citta": "",
+      "aree_locali": "Appiano Gentile , Asso , Cantù , Como, Erba , Mariano Comense , Molteno , Solbiate , Carugo",
+      "provincia": "CO, LC"
+    },
+    {
+      "prefisso": "0321",
+      "compartimento": "Milano",
+      "distretto": "Novara",
+      "altre_citta": "",
+      "aree_locali": "Novara, Oleggio , Trecate",
+      "provincia": "NO"
+    },
+    {
+      "prefisso": "0322",
+      "compartimento": "Milano",
+      "distretto": "Arona (NO)",
+      "altre_citta": "",
+      "aree_locali": "Arona, Borgomanero",
+      "provincia": "NO, VB"
+    },
+    {
+      "prefisso": "0323",
+      "compartimento": "Milano",
+      "distretto": "Baveno (VB)",
+      "altre_citta": "Verbania",
+      "aree_locali": "Baveno, Verbania",
+      "provincia": "VB, NO"
+    },
+    {
+      "prefisso": "0324",
+      "compartimento": "Milano",
+      "distretto": "Domodossola (VB)",
+      "altre_citta": "",
+      "aree_locali": "Domodossola",
+      "provincia": "VB"
+    },
+    {
+      "prefisso": "0331",
+      "compartimento": "Milano",
+      "distretto": "Busto Arsizio (VA)",
+      "altre_citta": "Gallarate (VA), Legnano (MI)",
+      "aree_locali": "Busto Arsizio, Gallarate, Legnano",
+      "provincia": "VA, CO, MI, NO"
+    },
+    {
+      "prefisso": "0332",
+      "compartimento": "Milano",
+      "distretto": "Varese",
+      "altre_citta": "",
+      "aree_locali": "Besozzo , Cunardo , Laveno-Mombello , Luino , Varese",
+      "provincia": "VA"
+    },
+    {
+      "prefisso": "0341",
+      "compartimento": "Milano",
+      "distretto": "Lecco",
+      "altre_citta": "",
+      "aree_locali": "Barzio , Bellano , Calolziocorte , Lecco",
+      "provincia": "LC"
+    },
+    {
+      "prefisso": "0342",
+      "compartimento": "Milano",
+      "distretto": "Sondrio",
+      "altre_citta": "",
+      "aree_locali": "Morbegno , Sondrio, Tirano",
+      "provincia": "SO"
+    },
+    {
+      "prefisso": "0343",
+      "compartimento": "Milano",
+      "distretto": "Chiavenna (SO)",
+      "altre_citta": "",
+      "aree_locali": "Chiavenna",
+      "provincia": "SO"
+    },
+    {
+      "prefisso": "0344",
+      "compartimento": "Milano",
+      "distretto": "Menaggio (CO)",
+      "altre_citta": "",
+      "aree_locali": "Menaggio",
+      "provincia": "CO"
+    },
+    {
+      "prefisso": "0345",
+      "compartimento": "Milano",
+      "distretto": "San Pellegrino Terme (BG)",
+      "altre_citta": "",
+      "aree_locali": "San Pellegrino Terme",
+      "provincia": "BG"
+    },
+    {
+      "prefisso": "0346",
+      "compartimento": "Milano",
+      "distretto": "Clusone (BG)",
+      "altre_citta": "",
+      "aree_locali": "Clusone",
+      "provincia": "BG"
+    },
+    {
+      "prefisso": "035",
+      "compartimento": "Milano",
+      "distretto": "Bergamo",
+      "altre_citta": "",
+      "aree_locali": "Albino , Bergamo, Bonate Sotto , Cisano Bergamasco , Fiorano al Serio , Grumello del Monte , Lovere , Sarnico , Verdellino",
+      "provincia": "BG, BS, LC"
+    },
+    {
+      "prefisso": "0362",
+      "compartimento": "Milano",
+      "distretto": "Seregno (MB)",
+      "altre_citta": "",
+      "aree_locali": "Carate Brianza , Cesano Maderno , Seregno, Giussano",
+      "provincia": "MB"
+    },
+    {
+      "prefisso": "0363",
+      "compartimento": "Milano",
+      "distretto": "Treviglio (BG)",
+      "altre_citta": "",
+      "aree_locali": "Romano di Lombardia , Treviglio",
+      "provincia": "BG, CR, MI"
+    },
+    {
+      "prefisso": "0364",
+      "compartimento": "Milano",
+      "distretto": "Breno (BS)",
+      "altre_citta": "",
+      "aree_locali": "Breno, Darfo Boario Terme , Edolo",
+      "provincia": "BS"
+    },
+    {
+      "prefisso": "0365",
+      "compartimento": "Milano",
+      "distretto": "Salò (BS)",
+      "altre_citta": "",
+      "aree_locali": "Salò, Vestone",
+      "provincia": "BS"
+    },
+    {
+      "prefisso": "0371",
+      "compartimento": "Milano",
+      "distretto": "Lodi",
+      "altre_citta": "",
+      "aree_locali": "Lodi",
+      "provincia": "LO, MI"
+    },
+    {
+      "prefisso": "0372",
+      "compartimento": "Milano",
+      "distretto": "Cremona",
+      "altre_citta": "",
+      "aree_locali": "Cremona, Vescovato",
+      "provincia": "CR"
+    },
+    {
+      "prefisso": "0373",
+      "compartimento": "Milano",
+      "distretto": "Crema (CR)",
+      "altre_citta": "",
+      "aree_locali": "Crema",
+      "provincia": "CR"
+    },
+    {
+      "prefisso": "0374",
+      "compartimento": "Milano",
+      "distretto": "Soresina (CR)",
+      "altre_citta": "",
+      "aree_locali": "Soresina",
+      "provincia": "CR"
+    },
+    {
+      "prefisso": "0375",
+      "compartimento": "Milano",
+      "distretto": "Casalmaggiore (CR)",
+      "altre_citta": "",
+      "aree_locali": "Casalmaggiore",
+      "provincia": "CR, MN"
+    },
+    {
+      "prefisso": "0376",
+      "compartimento": "Milano",
+      "distretto": "Mantova",
+      "altre_citta": "",
+      "aree_locali": "Asola , Bozzolo , Guidizzolo , Mantova, Suzzara Casalmoro",
+      "provincia": "MN, CR"
+    },
+    {
+      "prefisso": "0377",
+      "compartimento": "Milano",
+      "distretto": "Codogno (LO)",
+      "altre_citta": "",
+      "aree_locali": "Codogno",
+      "provincia": "LO"
+    },
+    {
+      "prefisso": "0381",
+      "compartimento": "Milano",
+      "distretto": "Vigevano (PV)",
+      "altre_citta": "",
+      "aree_locali": "Vigevano",
+      "provincia": "PV"
+    },
+    {
+      "prefisso": "0382",
+      "compartimento": "Milano",
+      "distretto": "Pavia",
+      "altre_citta": "",
+      "aree_locali": "Garlasco , Pavia, Santa Cristina e Bissone",
+      "provincia": "PV"
+    },
+    {
+      "prefisso": "0383",
+      "compartimento": "Milano",
+      "distretto": "Voghera (PV)",
+      "altre_citta": "",
+      "aree_locali": "Casteggio , Varzi , Voghera",
+      "provincia": "PV"
+    },
+    {
+      "prefisso": "0384",
+      "compartimento": "Milano",
+      "distretto": "Mortara (PV)",
+      "altre_citta": "",
+      "aree_locali": "Mede , Mortara",
+      "provincia": "PV"
+    },
+    {
+      "prefisso": "0385",
+      "compartimento": "Milano",
+      "distretto": "Stradella (PV)",
+      "altre_citta": "",
+      "aree_locali": "Stradella",
+      "provincia": "PV"
+    },
+    {
+      "prefisso": "0386",
+      "compartimento": "Milano",
+      "distretto": "Ostiglia (MN)",
+      "altre_citta": "",
+      "aree_locali": "Ostiglia",
+      "provincia": "MN"
+    },
+    {
+      "prefisso": "039",
+      "compartimento": "Milano",
+      "distretto": "Monza",
+      "altre_citta": "",
+      "aree_locali": "Merate , Monza, Vimercate",
+      "provincia": "MB, LC"
+    },
+    {
+      "prefisso": "040",
+      "compartimento": "Trieste",
+      "distretto": "Trieste",
+      "altre_citta": "",
+      "aree_locali": "Trieste",
+      "provincia": "TS"
+    },
+    {
+      "prefisso": "041",
+      "compartimento": "Venezia",
+      "distretto": "Venezia",
+      "altre_citta": "Chioggia (VE)",
+      "aree_locali": "Chioggia, Dolo , Mirano , Mogliano Veneto , Noale , Scorzè, Spinea, Venezia",
+      "provincia": "VE, TV"
+    },
+    {
+      "prefisso": "0421",
+      "compartimento": "Venezia",
+      "distretto": "San Donà di Piave (VE)",
+      "altre_citta": "",
+      "aree_locali": "Jesolo , Portogruaro , San Donà di Piave",
+      "provincia": "VE, TV"
+    },
+    {
+      "prefisso": "0422",
+      "compartimento": "Venezia",
+      "distretto": "Treviso",
+      "altre_citta": "",
+      "aree_locali": "Oderzo , Roncade , Treviso",
+      "provincia": "VE, TV"
+    },
+    {
+      "prefisso": "0423",
+      "compartimento": "Venezia",
+      "distretto": "Montebelluna (TV)",
+      "altre_citta": "",
+      "aree_locali": "Castelfranco Veneto , Montebelluna",
+      "provincia": "TV"
+    },
+    {
+      "prefisso": "0424",
+      "compartimento": "Venezia",
+      "distretto": "Bassano del Grappa (VI)",
+      "altre_citta": "",
+      "aree_locali": "Asiago , Bassano del Grappa, Marostica",
+      "provincia": "VI"
+    },
+    {
+      "prefisso": "0425",
+      "compartimento": "Venezia",
+      "distretto": "Rovigo",
+      "altre_citta": "",
+      "aree_locali": "Badia Polesine , Lendinara , Rovigo",
+      "provincia": "RO, PD"
+    },
+    {
+      "prefisso": "0426",
+      "compartimento": "Venezia",
+      "distretto": "Adria (RO)",
+      "altre_citta": "",
+      "aree_locali": "Adria, Porto Viro",
+      "provincia": "RO, VE"
+    },
+    {
+      "prefisso": "0427",
+      "compartimento": "Venezia",
+      "distretto": "Spilimbergo (PN)",
+      "altre_citta": "",
+      "aree_locali": "Spilimbergo",
+      "provincia": "PN, UD"
+    },
+    {
+      "prefisso": "0428",
+      "compartimento": "Venezia",
+      "distretto": "Tarvisio (UD)",
+      "altre_citta": "",
+      "aree_locali": "Tarvisio",
+      "provincia": "UD"
+    },
+    {
+      "prefisso": "0429",
+      "compartimento": "Venezia",
+      "distretto": "Este (PD)",
+      "altre_citta": "",
+      "aree_locali": "Este, Monselice , Montagnana",
+      "provincia": "PD"
+    },
+    {
+      "prefisso": "0431",
+      "compartimento": "Venezia",
+      "distretto": "Cervignano del Friuli (UD)",
+      "altre_citta": "",
+      "aree_locali": "Cervignano del Friuli, Latisana , Lignano Sabbiadoro , San Michele al Tagliamento (VE)",
+      "provincia": "UD, GO, VE"
+    },
+    {
+      "prefisso": "0432",
+      "compartimento": "Venezia",
+      "distretto": "Udine",
+      "altre_citta": "",
+      "aree_locali": "Cividale del Friuli , Codroipo , Gemona del Friuli , Palmanova , Udine",
+      "provincia": "UD, PN"
+    },
+    {
+      "prefisso": "0433",
+      "compartimento": "Venezia",
+      "distretto": "Tolmezzo (UD)",
+      "altre_citta": "",
+      "aree_locali": "Comeglians , Tolmezzo",
+      "provincia": "UD"
+    },
+    {
+      "prefisso": "0434",
+      "compartimento": "Venezia",
+      "distretto": "Pordenone",
+      "altre_citta": "",
+      "aree_locali": "Pordenone, Prata di Pordenone , Sacile , San Vito al Tagliamento",
+      "provincia": "PN, TV"
+    },
+    {
+      "prefisso": "0435",
+      "compartimento": "Venezia",
+      "distretto": "Pieve di Cadore (BL)",
+      "altre_citta": "",
+      "aree_locali": "Pieve di Cadore",
+      "provincia": "BL, UD"
+    },
+    {
+      "prefisso": "0436",
+      "compartimento": "Venezia",
+      "distretto": "Cortina d'Ampezzo (BL)",
+      "altre_citta": "",
+      "aree_locali": "Cortina d'Ampezzo",
+      "provincia": "BL"
+    },
+    {
+      "prefisso": "0437",
+      "compartimento": "Venezia",
+      "distretto": "Belluno",
+      "altre_citta": "",
+      "aree_locali": "Agordo , Belluno, Sedico",
+      "provincia": "BL"
+    },
+    {
+      "prefisso": "0438",
+      "compartimento": "Venezia",
+      "distretto": "Conegliano (TV)",
+      "altre_citta": "",
+      "aree_locali": "Conegliano, Pieve di Soligo , Vittorio Veneto",
+      "provincia": "TV"
+    },
+    {
+      "prefisso": "0439",
+      "compartimento": "Venezia",
+      "distretto": "Feltre (BL)",
+      "altre_citta": "",
+      "aree_locali": "Feltre, Fiera di Primiero",
+      "provincia": "BL, TN"
+    },
+    {
+      "prefisso": "0442",
+      "compartimento": "Verona",
+      "distretto": "Legnago (VR)",
+      "altre_citta": "",
+      "aree_locali": "Cerea , Legnago",
+      "provincia": "VR"
+    },
+    {
+      "prefisso": "0444",
+      "compartimento": "Verona",
+      "distretto": "Vicenza",
+      "altre_citta": "",
+      "aree_locali": "Arzignano , Montecchio Maggiore , Sossano , Vicenza",
+      "provincia": "VI"
+    },
+    {
+      "prefisso": "0445",
+      "compartimento": "Verona",
+      "distretto": "Schio (VI)",
+      "altre_citta": "",
+      "aree_locali": "Schio, Thiene , Valdagno",
+      "provincia": "VI"
+    },
+    {
+      "prefisso": "045",
+      "compartimento": "Verona",
+      "distretto": "Verona",
+      "altre_citta": "",
+      "aree_locali": "Bovolone , Bussolengo , Costermano sul Garda , Isola della Scala , Peschiera del Garda , San Bonifacio , San Pietro in Cariano , Tregnago , Verona, Villafranca di Verona",
+      "provincia": "VR"
+    },
+    {
+      "prefisso": "0461",
+      "compartimento": "Verona",
+      "distretto": "Trento",
+      "altre_citta": "",
+      "aree_locali": "Mezzolombardo , Pergine Valsugana , Trento",
+      "provincia": "TN"
+    },
+    {
+      "prefisso": "0462",
+      "compartimento": "Verona",
+      "distretto": "Cavalese (TN)",
+      "altre_citta": "",
+      "aree_locali": "Cavalese",
+      "provincia": "TN"
+    },
+    {
+      "prefisso": "0463",
+      "compartimento": "Verona",
+      "distretto": "Cles (TN)",
+      "altre_citta": "",
+      "aree_locali": "Cles",
+      "provincia": "TN, BZ"
+    },
+    {
+      "prefisso": "0464",
+      "compartimento": "Verona",
+      "distretto": "Rovereto (TN)",
+      "altre_citta": "",
+      "aree_locali": "Riva del Garda , Rovereto",
+      "provincia": "TN"
+    },
+    {
+      "prefisso": "0465",
+      "compartimento": "Verona",
+      "distretto": "Tione di Trento (TN)",
+      "altre_citta": "",
+      "aree_locali": "Tione di Trento",
+      "provincia": "TN"
+    },
+    {
+      "prefisso": "0471",
+      "compartimento": "Bolzano",
+      "distretto": "Bolzano",
+      "altre_citta": "",
+      "aree_locali": "Bolzano, Egna , Ortisei",
+      "provincia": "BZ"
+    },
+    {
+      "prefisso": "0472",
+      "compartimento": "Bolzano",
+      "distretto": "Bressanone (BZ)",
+      "altre_citta": "",
+      "aree_locali": "Bressanone",
+      "provincia": "BZ"
+    },
+    {
+      "prefisso": "0473",
+      "compartimento": "Bolzano",
+      "distretto": "Merano (BZ)",
+      "altre_citta": "",
+      "aree_locali": "Merano, Silandro",
+      "provincia": "BZ"
+    },
+    {
+      "prefisso": "0474",
+      "compartimento": "Bolzano",
+      "distretto": "Brunico (BZ)",
+      "altre_citta": "",
+      "aree_locali": "Brunico",
+      "provincia": "BZ"
+    },
+    {
+      "prefisso": "0481",
+      "compartimento": "Trieste",
+      "distretto": "Gorizia",
+      "altre_citta": "",
+      "aree_locali": "Gorizia, Monfalcone",
+      "provincia": "GO"
+    },
+    {
+      "prefisso": "049",
+      "compartimento": "Venezia",
+      "distretto": "Padova",
+      "altre_citta": "",
+      "aree_locali": "Camposampiero , Cittadella , Conselve , Padova, Piove di Sacco , Teolo",
+      "provincia": "PD, VE"
+    },
+    {
+      "prefisso": "050",
+      "compartimento": "Pisa",
+      "distretto": "Pisa",
+      "altre_citta": "",
+      "aree_locali": "Cascina , Pisa",
+      "provincia": "PI"
+    },
+    {
+      "prefisso": "051",
+      "compartimento": "Bologna",
+      "distretto": "Bologna",
+      "altre_citta": "",
+      "aree_locali": "Bazzano , Bologna, Budrio , Castel San Pietro Terme , Cento , Malalbergo , San Giorgio di Piano , San Giovanni in Persiceto , Sasso Marconi",
+      "provincia": "BO, FE"
+    },
+    {
+      "prefisso": "0521",
+      "compartimento": "Bologna",
+      "distretto": "Parma",
+      "altre_citta": "",
+      "aree_locali": "Collecchio , Langhirano , Parma, San Secondo Parmense",
+      "provincia": "PR"
+    },
+    {
+      "prefisso": "0522",
+      "compartimento": "Bologna",
+      "distretto": "Reggio Emilia",
+      "altre_citta": "",
+      "aree_locali": "Castelnovo ne' Monti , Guastalla , Reggio Emilia",
+      "provincia": "RE"
+    },
+    {
+      "prefisso": "0523",
+      "compartimento": "Bologna",
+      "distretto": "Piacenza",
+      "altre_citta": "",
+      "aree_locali": "Bettola , Castel San Giovanni , Fiorenzuola d'Arda , Monticelli d'Ongina , Piacenza",
+      "provincia": "PC"
+    },
+    {
+      "prefisso": "0524",
+      "compartimento": "Bologna",
+      "distretto": "Fidenza (PR)",
+      "altre_citta": "",
+      "aree_locali": "Fidenza",
+      "provincia": "PR"
+    },
+    {
+      "prefisso": "0525",
+      "compartimento": "Bologna",
+      "distretto": "Fornovo di Taro (PR)",
+      "altre_citta": "",
+      "aree_locali": "Borgo Val di Taro , Fornovo di Taro",
+      "provincia": "PR"
+    },
+    {
+      "prefisso": "0532",
+      "compartimento": "Bologna",
+      "distretto": "Ferrara",
+      "altre_citta": "",
+      "aree_locali": "Argenta , Bondeno , Copparo , Ferrara",
+      "provincia": "FE"
+    },
+    {
+      "prefisso": "0533",
+      "compartimento": "Bologna",
+      "distretto": "Comacchio (FE)",
+      "altre_citta": "",
+      "aree_locali": "Comacchio",
+      "provincia": "FE"
+    },
+    {
+      "prefisso": "0534",
+      "compartimento": "Bologna",
+      "distretto": "Alto Reno Terme (BO)",
+      "altre_citta": "",
+      "aree_locali": "Porretta Terme",
+      "provincia": "BO"
+    },
+    {
+      "prefisso": "0535",
+      "compartimento": "Bologna",
+      "distretto": "Mirandola (MO)",
+      "altre_citta": "",
+      "aree_locali": "Mirandola",
+      "provincia": "MO"
+    },
+    {
+      "prefisso": "0536",
+      "compartimento": "Bologna",
+      "distretto": "Sassuolo (MO)",
+      "altre_citta": "",
+      "aree_locali": "Maranello , Pievepelago , Sassuolo",
+      "provincia": "MO, RE"
+    },
+    {
+      "prefisso": "0541",
+      "compartimento": "Bologna",
+      "distretto": "Rimini",
+      "altre_citta": "",
+      "aree_locali": "Cattolica , Rimini, Savignano sul Rubicone",
+      "provincia": "RN, FC, PU"
+    },
+    {
+      "prefisso": "0542",
+      "compartimento": "Bologna",
+      "distretto": "Imola (BO)",
+      "altre_citta": "",
+      "aree_locali": "Imola",
+      "provincia": "BO"
+    },
+    {
+      "prefisso": "0543",
+      "compartimento": "Bologna",
+      "distretto": "Forlì",
+      "altre_citta": "",
+      "aree_locali": "Forlì",
+      "provincia": "FC"
+    },
+    {
+      "prefisso": "0544",
+      "compartimento": "Bologna",
+      "distretto": "Ravenna",
+      "altre_citta": "",
+      "aree_locali": "Cervia , Ravenna",
+      "provincia": "RA"
+    },
+    {
+      "prefisso": "0545",
+      "compartimento": "Bologna",
+      "distretto": "Lugo (RA)",
+      "altre_citta": "",
+      "aree_locali": "Bagnacavallo , Lugo",
+      "provincia": "RA"
+    },
+    {
+      "prefisso": "0546",
+      "compartimento": "Bologna",
+      "distretto": "Faenza (RA)",
+      "altre_citta": "",
+      "aree_locali": "Faenza",
+      "provincia": "RA, FC"
+    },
+    {
+      "prefisso": "0547",
+      "compartimento": "Bologna",
+      "distretto": "Cesena",
+      "altre_citta": "",
+      "aree_locali": "Cesena, Cesenatico",
+      "provincia": "FC"
+    },
+    {
+      "prefisso": "0549",
+      "compartimento": "Bologna",
+      "distretto": "Repubblica di San Marino",
+      "altre_citta": "San Marino (SM)",
+      "aree_locali": "Repubblica di San Marino",
+      "provincia": "SM"
+    },
+    {
+      "prefisso": "055",
+      "compartimento": "Firenze",
+      "distretto": "Firenze",
+      "altre_citta": "",
+      "aree_locali": "Borgo San Lorenzo , Firenze, Pontassieve , San Giovanni Valdarno , Signa",
+      "provincia": "FI, AR, PO"
+    },
+    {
+      "prefisso": "0564",
+      "compartimento": "Pisa",
+      "distretto": "Grosseto",
+      "altre_citta": "",
+      "aree_locali": "Arcidosso , Grosseto, Orbetello , Roccastrada",
+      "provincia": "GR"
+    },
+    {
+      "prefisso": "0565",
+      "compartimento": "Pisa",
+      "distretto": "Piombino (LI)",
+      "altre_citta": "",
+      "aree_locali": "Piombino, Portoferraio",
+      "provincia": "LI, PI"
+    },
+    {
+      "prefisso": "0566",
+      "compartimento": "Pisa",
+      "distretto": "Follonica (GR)",
+      "altre_citta": "",
+      "aree_locali": "Follonica",
+      "provincia": "GR"
+    },
+    {
+      "prefisso": "0571",
+      "compartimento": "Firenze",
+      "distretto": "Empoli (FI)",
+      "altre_citta": "",
+      "aree_locali": "Empoli, San Miniato",
+      "provincia": "FI, PI"
+    },
+    {
+      "prefisso": "0572",
+      "compartimento": "Firenze",
+      "distretto": "Montecatini Terme (PT)",
+      "altre_citta": "",
+      "aree_locali": "Montecatini Terme",
+      "provincia": "PT, LU"
+    },
+    {
+      "prefisso": "0573",
+      "compartimento": "Firenze",
+      "distretto": "Pistoia",
+      "altre_citta": "",
+      "aree_locali": "Pistoia",
+      "provincia": "PT"
+    },
+    {
+      "prefisso": "0574",
+      "compartimento": "Firenze",
+      "distretto": "Prato",
+      "altre_citta": "",
+      "aree_locali": "Prato",
+      "provincia": "PO, PT"
+    },
+    {
+      "prefisso": "0575",
+      "compartimento": "Firenze",
+      "distretto": "Arezzo",
+      "altre_citta": "",
+      "aree_locali": "Arezzo, Cortona , Sansepolcro",
+      "provincia": "AR"
+    },
+    {
+      "prefisso": "0577",
+      "compartimento": "Firenze",
+      "distretto": "Siena",
+      "altre_citta": "",
+      "aree_locali": "Abbadia San Salvatore , Poggibonsi , Siena, Sinalunga",
+      "provincia": "SI"
+    },
+    {
+      "prefisso": "0578",
+      "compartimento": "Firenze",
+      "distretto": "Chianciano Terme (SI)",
+      "altre_citta": "",
+      "aree_locali": "Chianciano Terme, Chiusi",
+      "provincia": "SI, PG"
+    },
+    {
+      "prefisso": "0583",
+      "compartimento": "Pisa",
+      "distretto": "Lucca",
+      "altre_citta": "",
+      "aree_locali": "Altopascio , Barga , Castelnuovo di Garfagnana , Lucca",
+      "provincia": "LU"
+    },
+    {
+      "prefisso": "0584",
+      "compartimento": "Pisa",
+      "distretto": "Viareggio (LU)",
+      "altre_citta": "",
+      "aree_locali": "Pietrasanta , Viareggio",
+      "provincia": "LU"
+    },
+    {
+      "prefisso": "0585",
+      "compartimento": "Pisa",
+      "distretto": "Massa",
+      "altre_citta": "Carrara",
+      "aree_locali": "Massa",
+      "provincia": "MS"
+    },
+    {
+      "prefisso": "0586",
+      "compartimento": "Pisa",
+      "distretto": "Livorno",
+      "altre_citta": "",
+      "aree_locali": "Cecina , Livorno, Rosignano Marittimo",
+      "provincia": "LI, PI"
+    },
+    {
+      "prefisso": "0587",
+      "compartimento": "Pisa",
+      "distretto": "Pontedera (PI)",
+      "altre_citta": "",
+      "aree_locali": "Pontedera",
+      "provincia": "PI"
+    },
+    {
+      "prefisso": "0588",
+      "compartimento": "Pisa",
+      "distretto": "Volterra (PI)",
+      "altre_citta": "",
+      "aree_locali": "Volterra",
+      "provincia": "PI"
+    },
+    {
+      "prefisso": "059",
+      "compartimento": "Bologna",
+      "distretto": "Modena",
+      "altre_citta": "Carpi (MO)",
+      "aree_locali": "Carpi, Castelfranco Emilia , Modena, Vignola",
+      "provincia": "MO"
+    },
+    {
+      "prefisso": "06",
+      "compartimento": "Roma",
+      "distretto": "Roma",
+      "altre_citta": "Città del Vaticano (CV), Fiumicino (RM), Pomezia (RM), Velletri (RM)",
+      "aree_locali": "Albano Laziale , Anzio , Bracciano , Castelnuovo di Porto , Colleferro , Frascati , Ladispoli , Monterotondo , Palestrina , Pomezia, Roma, Velletri",
+      "provincia": "RM, LT, VT, CV"
+    },
+    {
+      "prefisso": "070",
+      "compartimento": "Cagliari",
+      "distretto": "Cagliari",
+      "altre_citta": "Quartu Sant'Elena (CA)",
+      "aree_locali": "Cagliari, Decimomannu , Sanluri, Senorbì",
+      "provincia": "CA, SU"
+    },
+    {
+      "prefisso": "071",
+      "compartimento": "Ancona",
+      "distretto": "Ancona",
+      "altre_citta": "",
+      "aree_locali": "Ancona, Loreto , Osimo , Senigallia",
+      "provincia": "AN, MC"
+    },
+    {
+      "prefisso": "0721",
+      "compartimento": "Ancona",
+      "distretto": "Pesaro",
+      "altre_citta": "Fano (PU)",
+      "aree_locali": "Cagli , Fano, Mondolfo , Pesaro",
+      "provincia": "PU"
+    },
+    {
+      "prefisso": "0722",
+      "compartimento": "Ancona",
+      "distretto": "Urbino",
+      "altre_citta": "",
+      "aree_locali": "Urbino",
+      "provincia": "PU"
+    },
+    {
+      "prefisso": "0731",
+      "compartimento": "Ancona",
+      "distretto": "Jesi (AN)",
+      "altre_citta": "",
+      "aree_locali": "Jesi",
+      "provincia": "AN"
+    },
+    {
+      "prefisso": "0732",
+      "compartimento": "Ancona",
+      "distretto": "Fabriano (AN)",
+      "altre_citta": "",
+      "aree_locali": "Fabriano",
+      "provincia": "AN"
+    },
+    {
+      "prefisso": "0733",
+      "compartimento": "Ancona",
+      "distretto": "Macerata",
+      "altre_citta": "",
+      "aree_locali": "Civitanova Marche , Macerata, Tolentino",
+      "provincia": "MC"
+    },
+    {
+      "prefisso": "0734",
+      "compartimento": "Ancona",
+      "distretto": "Fermo",
+      "altre_citta": "",
+      "aree_locali": "Fermo, Sant'Elpidio a Mare",
+      "provincia": "FM, AP"
+    },
+    {
+      "prefisso": "0735",
+      "compartimento": "Ancona",
+      "distretto": "San Benedetto del Tronto (AP)",
+      "altre_citta": "",
+      "aree_locali": "San Benedetto del Tronto",
+      "provincia": "AP"
+    },
+    {
+      "prefisso": "0736",
+      "compartimento": "Ancona",
+      "distretto": "Ascoli Piceno",
+      "altre_citta": "",
+      "aree_locali": "Ascoli Piceno, Castel di Lama",
+      "provincia": "AP, FM"
+    },
+    {
+      "prefisso": "0737",
+      "compartimento": "Ancona",
+      "distretto": "Camerino (MC)",
+      "altre_citta": "",
+      "aree_locali": "Camerino (Italia)",
+      "provincia": "MC"
+    },
+    {
+      "prefisso": "0742",
+      "compartimento": "Perugia",
+      "distretto": "Foligno (PG)",
+      "altre_citta": "",
+      "aree_locali": "Foligno",
+      "provincia": "PG"
+    },
+    {
+      "prefisso": "0743",
+      "compartimento": "Perugia",
+      "distretto": "Spoleto (PG)",
+      "altre_citta": "",
+      "aree_locali": "Spoleto",
+      "provincia": "PG"
+    },
+    {
+      "prefisso": "0744",
+      "compartimento": "Perugia",
+      "distretto": "Terni",
+      "altre_citta": "",
+      "aree_locali": "Amelia , Narni , Terni",
+      "provincia": "TR, RI"
+    },
+    {
+      "prefisso": "0746",
+      "compartimento": "Roma",
+      "distretto": "Rieti",
+      "altre_citta": "",
+      "aree_locali": "Amatrice , Borgorose , Rieti",
+      "provincia": "RI"
+    },
+    {
+      "prefisso": "075",
+      "compartimento": "Perugia",
+      "distretto": "Perugia",
+      "altre_citta": "",
+      "aree_locali": "Assisi , Città di Castello , Gubbio , Magione , Marsciano , Perugia, Todi",
+      "provincia": "PG, TR"
+    },
+    {
+      "prefisso": "0761",
+      "compartimento": "Roma",
+      "distretto": "Viterbo",
+      "altre_citta": "",
+      "aree_locali": "Civita Castellana , Montefiascone , Ronciglione , Soriano nel Cimino , Valentano , Viterbo",
+      "provincia": "VT, RM"
+    },
+    {
+      "prefisso": "0763",
+      "compartimento": "Perugia",
+      "distretto": "Orvieto (TR)",
+      "altre_citta": "",
+      "aree_locali": "Orvieto",
+      "provincia": "TR, VT"
+    },
+    {
+      "prefisso": "0765",
+      "compartimento": "Roma",
+      "distretto": "Poggio Mirteto (RI)",
+      "altre_citta": "",
+      "aree_locali": "Poggio Mirteto, Poggio Moiano",
+      "provincia": "RI, RM"
+    },
+    {
+      "prefisso": "0766",
+      "compartimento": "Roma",
+      "distretto": "Civitavecchia (RM)",
+      "altre_citta": "",
+      "aree_locali": "Civitavecchia, Tarquinia",
+      "provincia": "RM, VT"
+    },
+    {
+      "prefisso": "0771",
+      "compartimento": "Roma",
+      "distretto": "Formia (LT)",
+      "altre_citta": "",
+      "aree_locali": "Fondi , Formia, Minturno",
+      "provincia": "LT"
+    },
+    {
+      "prefisso": "0773",
+      "compartimento": "Roma",
+      "distretto": "Latina",
+      "altre_citta": "",
+      "aree_locali": "Latina, Priverno , Sabaudia , Terracina",
+      "provincia": "LT"
+    },
+    {
+      "prefisso": "0774",
+      "compartimento": "Roma",
+      "distretto": "Tivoli (RM)",
+      "altre_citta": "Guidonia Montecelio (RM)",
+      "aree_locali": "Subiaco , Tivoli",
+      "provincia": "RM"
+    },
+    {
+      "prefisso": "0775",
+      "compartimento": "Roma",
+      "distretto": "Frosinone",
+      "altre_citta": "",
+      "aree_locali": "Ceccano , Fiuggi , Frosinone",
+      "provincia": "FR"
+    },
+    {
+      "prefisso": "0776",
+      "compartimento": "Roma",
+      "distretto": "Cassino (FR)",
+      "altre_citta": "",
+      "aree_locali": "Atina , Cassino, Pontecorvo , Sora",
+      "provincia": "FR"
+    },
+    {
+      "prefisso": "0781",
+      "compartimento": "Cagliari",
+      "distretto": "Iglesias (SU)",
+      "altre_citta": "Carbonia",
+      "aree_locali": "Carbonia, Iglesias, Narcao",
+      "provincia": "SU"
+    },
+    {
+      "prefisso": "0782",
+      "compartimento": "Cagliari",
+      "distretto": "Lanusei (NU)",
+      "altre_citta": "",
+      "aree_locali": "Lanusei",
+      "provincia": "NU, SU, OR"
+    },
+    {
+      "prefisso": "0783",
+      "compartimento": "Cagliari",
+      "distretto": "Oristano",
+      "altre_citta": "",
+      "aree_locali": "Oristano, Terralba , Masullas",
+      "provincia": "OR, SU"
+    },
+    {
+      "prefisso": "0784",
+      "compartimento": "Cagliari",
+      "distretto": "Nuoro",
+      "altre_citta": "",
+      "aree_locali": "Nuoro, Siniscola , Sorgono",
+      "provincia": "NU, SS"
+    },
+    {
+      "prefisso": "0785",
+      "compartimento": "Cagliari",
+      "distretto": "Macomer (NU)",
+      "altre_citta": "",
+      "aree_locali": "Macomer",
+      "provincia": "NU, OR"
+    },
+    {
+      "prefisso": "0789",
+      "compartimento": "Cagliari",
+      "distretto": "Olbia (SS)",
+      "altre_citta": "",
+      "aree_locali": "Olbia, Palau",
+      "provincia": "SS"
+    },
+    {
+      "prefisso": "079",
+      "compartimento": "Cagliari",
+      "distretto": "Sassari",
+      "altre_citta": "Alghero , Porto Torres (SS)",
+      "aree_locali": "Alghero, Ozieri , Sassari, Tempio Pausania , Thiesi",
+      "provincia": "SS, NU"
+    },
+    {
+      "prefisso": "080",
+      "compartimento": "Bari",
+      "distretto": "Bari",
+      "altre_citta": "Altamura (BA), Molfetta (BA), Bitonto (BA), Bisceglie (BT)",
+      "aree_locali": "Acquaviva delle Fonti , Alberobello , Altamura , Bari , Bitetto , Bitonto , Casamassima , Fasano , Gioia del Colle , Martina Franca , Molfetta , Monopoli , Palo del Colle , Putignano , Rutigliano , Ruvo di Puglia , Triggiano",
+      "provincia": "BA , BR , BT , TA"
+    },
+    {
+      "prefisso": "081",
+      "compartimento": "Napoli",
+      "distretto": "Napoli",
+      "altre_citta": "Afragola (NA), Aversa (CE), Casoria (NA), Castellammare di Stabia (NA), Giugliano in Campania (NA), Pozzuoli (NA), Torre del Greco (NA), Marano di Napoli (NA), Portici (NA), Ercolano (NA), Acerra (NA), Scafati (SA), Casalnuovo di Napoli (NA)",
+      "aree_locali": "Afragola, Aversa, Capri , Casal di Principe , Castellammare di Stabia, Crispano , Caivano , Frattamaggiore, Giugliano in Campania, Ischia , Napoli, Nocera Inferiore , Nola , Ottaviano , Pomigliano d'Arco , Pozzuoli, Sant'Anastasia , San Giuseppe Vesuviano , Sorrento , Torre Annunziata , Torre del Greco",
+      "provincia": "NA, AV, CE, SA"
+    },
+    {
+      "prefisso": "0823",
+      "compartimento": "Napoli",
+      "distretto": "Caserta",
+      "altre_citta": "",
+      "aree_locali": "Caserta, Piedimonte Matese , Santa Maria Capua Vetere , Sessa Aurunca , Teano",
+      "provincia": "CE, BN"
+    },
+    {
+      "prefisso": "0824",
+      "compartimento": "Napoli",
+      "distretto": "Benevento",
+      "altre_citta": "",
+      "aree_locali": "Benevento, Cerreto Sannita , Foiano di Val Fortore , Telese Terme",
+      "provincia": "BN, AV"
+    },
+    {
+      "prefisso": "0825",
+      "compartimento": "Napoli",
+      "distretto": "Avellino",
+      "altre_citta": "",
+      "aree_locali": "Ariano Irpino , Avellino, Prata di Principato Ultra , Solofra",
+      "provincia": "AV"
+    },
+    {
+      "prefisso": "0827",
+      "compartimento": "Napoli",
+      "distretto": "Sant'Angelo dei Lombardi (AV)",
+      "altre_citta": "",
+      "aree_locali": "Montella , Sant'Angelo dei Lombardi, Vallata",
+      "provincia": "AV"
+    },
+    {
+      "prefisso": "0828",
+      "compartimento": "Napoli",
+      "distretto": "Battipaglia (SA)",
+      "altre_citta": "",
+      "aree_locali": "Battipaglia, Capaccio Paestum , Contursi Terme",
+      "provincia": "SA"
+    },
+    {
+      "prefisso": "0831",
+      "compartimento": "Bari",
+      "distretto": "Brindisi",
+      "altre_citta": "",
+      "aree_locali": "Brindisi, Francavilla Fontana , Mesagne , Ostuni , San Pietro Vernotico , San Vito dei Normanni",
+      "provincia": "BR"
+    },
+    {
+      "prefisso": "0832",
+      "compartimento": "Bari",
+      "distretto": "Lecce",
+      "altre_citta": "",
+      "aree_locali": "Campi Salentina , Lecce, Vernole",
+      "provincia": "LE"
+    },
+    {
+      "prefisso": "0833",
+      "compartimento": "Bari",
+      "distretto": "Gallipoli (LE)",
+      "altre_citta": "",
+      "aree_locali": "Alessano , Gallipoli, Nardò , Parabita",
+      "provincia": "LE"
+    },
+    {
+      "prefisso": "0835",
+      "compartimento": "Bari",
+      "distretto": "Matera",
+      "altre_citta": "",
+      "aree_locali": "Ferrandina , Grassano , Matera, Pisticci , Scanzano Jonico",
+      "provincia": "MT"
+    },
+    {
+      "prefisso": "0836",
+      "compartimento": "Bari",
+      "distretto": "Maglie (LE)",
+      "altre_citta": "",
+      "aree_locali": "Galatina , Maglie, Poggiardo",
+      "provincia": "LE"
+    },
+    {
+      "prefisso": "085",
+      "compartimento": "Pescara",
+      "distretto": "Pescara",
+      "altre_citta": "",
+      "aree_locali": "Giulianova , Penne , Pescara, Scafa , Silvi , Torre de' Passeri",
+      "provincia": "PE, TE, CH"
+    },
+    {
+      "prefisso": "0861",
+      "compartimento": "Pescara",
+      "distretto": "Teramo",
+      "altre_citta": "",
+      "aree_locali": "Alba Adriatica , Bisenti , Nereto , Teramo",
+      "provincia": "TE"
+    },
+    {
+      "prefisso": "0862",
+      "compartimento": "Pescara",
+      "distretto": "L'Aquila",
+      "altre_citta": "",
+      "aree_locali": "L'Aquila, San Demetrio ne' Vestini",
+      "provincia": "AQ"
+    },
+    {
+      "prefisso": "0863",
+      "compartimento": "Pescara",
+      "distretto": "Avezzano (AQ)",
+      "altre_citta": "",
+      "aree_locali": "Avezzano, Pescina , Tagliacozzo",
+      "provincia": "AQ"
+    },
+    {
+      "prefisso": "0864",
+      "compartimento": "Pescara",
+      "distretto": "Sulmona (AQ)",
+      "altre_citta": "",
+      "aree_locali": "Roccaraso , Sulmona",
+      "provincia": "AQ"
+    },
+    {
+      "prefisso": "0865",
+      "compartimento": "Pescara",
+      "distretto": "Isernia",
+      "altre_citta": "",
+      "aree_locali": "Agnone , Isernia, Venafro",
+      "provincia": "IS"
+    },
+    {
+      "prefisso": "0871",
+      "compartimento": "Pescara",
+      "distretto": "Chieti",
+      "altre_citta": "",
+      "aree_locali": "Chieti, Guardiagrele",
+      "provincia": "CH"
+    },
+    {
+      "prefisso": "0872",
+      "compartimento": "Pescara",
+      "distretto": "Lanciano (CH)",
+      "altre_citta": "",
+      "aree_locali": "Atessa , Lanciano",
+      "provincia": "CH"
+    },
+    {
+      "prefisso": "0873",
+      "compartimento": "Pescara",
+      "distretto": "Vasto (CH)",
+      "altre_citta": "",
+      "aree_locali": "Casalbordino , Vasto",
+      "provincia": "CH"
+    },
+    {
+      "prefisso": "0874",
+      "compartimento": "Pescara",
+      "distretto": "Campobasso",
+      "altre_citta": "",
+      "aree_locali": "Bojano , Campobasso, Larino , Trivento",
+      "provincia": "CB, IS"
+    },
+    {
+      "prefisso": "0875",
+      "compartimento": "Pescara",
+      "distretto": "Termoli (CB)",
+      "altre_citta": "",
+      "aree_locali": "Termoli",
+      "provincia": "CB"
+    },
+    {
+      "prefisso": "0881",
+      "compartimento": "Bari",
+      "distretto": "Foggia",
+      "altre_citta": "",
+      "aree_locali": "Bovino , Foggia, Lucera , Motta Montecorvino",
+      "provincia": "FG"
+    },
+    {
+      "prefisso": "0882",
+      "compartimento": "Bari",
+      "distretto": "San Severo (FG)",
+      "altre_citta": "",
+      "aree_locali": "San Marco in Lamis , San Severo, San Nicandro Garganico",
+      "provincia": "FG"
+    },
+    {
+      "prefisso": "0883",
+      "compartimento": "Bari",
+      "distretto": "Andria",
+      "altre_citta": "Barletta , Trani",
+      "aree_locali": "Andria, Canosa di Puglia , Trinitapoli",
+      "provincia": "BT"
+    },
+    {
+      "prefisso": "0884",
+      "compartimento": "Bari",
+      "distretto": "Manfredonia (FG)",
+      "altre_citta": "",
+      "aree_locali": "Manfredonia, Vico del Gargano",
+      "provincia": "FG"
+    },
+    {
+      "prefisso": "0885",
+      "compartimento": "Bari",
+      "distretto": "Cerignola (FG)",
+      "altre_citta": "",
+      "aree_locali": "Ascoli Satriano , Candela , Carapelle , Cerignola, Ordona , Orta Nova , Rocchetta Sant'Antonio , Stornara , Stornarella",
+      "provincia": "FG"
+    },
+    {
+      "prefisso": "089",
+      "compartimento": "Napoli",
+      "distretto": "Salerno",
+      "altre_citta": "Cava de' Tirreni (SA)",
+      "aree_locali": "Amalfi , Baronissi , Salerno",
+      "provincia": "SA"
+    },
+    {
+      "prefisso": "090",
+      "compartimento": "Catania",
+      "distretto": "Messina",
+      "altre_citta": "",
+      "aree_locali": "Barcellona Pozzo di Gotto , Messina, Milazzo , Spadafora",
+      "provincia": "ME"
+    },
+    {
+      "prefisso": "091",
+      "compartimento": "Palermo",
+      "distretto": "Palermo",
+      "altre_citta": "",
+      "aree_locali": "Bagheria , Carini , Lercara Friddi , Misilmeri , Palermo, Partinico , Termini Imerese , Villafrati",
+      "provincia": "PA"
+    },
+    {
+      "prefisso": "0921",
+      "compartimento": "Palermo",
+      "distretto": "Cefalù (PA)",
+      "altre_citta": "",
+      "aree_locali": "Cefalù, Petralia Sottana , Santo Stefano di Camastra",
+      "provincia": "PA, ME"
+    },
+    {
+      "prefisso": "0922",
+      "compartimento": "Palermo",
+      "distretto": "Agrigento",
+      "altre_citta": "",
+      "aree_locali": "Agrigento, Alessandria della Rocca , Canicattì , Casteltermini , Licata , Palma di Montechiaro",
+      "provincia": "AG, CL"
+    },
+    {
+      "prefisso": "0923",
+      "compartimento": "Palermo",
+      "distretto": "Trapani",
+      "altre_citta": "Marsala (TP), Mazara del Vallo (TP)",
+      "aree_locali": "Marsala, Mazara del Vallo, Trapani",
+      "provincia": "TP"
+    },
+    {
+      "prefisso": "0924",
+      "compartimento": "Palermo",
+      "distretto": "Alcamo (TP)",
+      "altre_citta": "",
+      "aree_locali": "Alcamo, Castelvetrano , Salemi",
+      "provincia": "TP, PA"
+    },
+    {
+      "prefisso": "0925",
+      "compartimento": "Palermo",
+      "distretto": "Sciacca (AG)",
+      "altre_citta": "",
+      "aree_locali": "Menfi , Sciacca",
+      "provincia": "AG"
+    },
+    {
+      "prefisso": "0931",
+      "compartimento": "Catania",
+      "distretto": "Siracusa",
+      "altre_citta": "",
+      "aree_locali": "Augusta , Avola , Floridia , Palazzolo Acreide , Siracusa",
+      "provincia": "SR"
+    },
+    {
+      "prefisso": "0932",
+      "compartimento": "Catania",
+      "distretto": "Ragusa",
+      "altre_citta": "Modica (RG), Vittoria (RG)",
+      "aree_locali": "Comiso , Modica, Pozzallo , Ragusa, Scicli , Vittoria",
+      "provincia": "RG"
+    },
+    {
+      "prefisso": "0933",
+      "compartimento": "Catania",
+      "distretto": "Caltagirone (CT)",
+      "altre_citta": "Gela (CL)",
+      "aree_locali": "Caltagirone, Gela, Grammichele",
+      "provincia": "CT, CL"
+    },
+    {
+      "prefisso": "0934",
+      "compartimento": "Catania",
+      "distretto": "Caltanissetta",
+      "altre_citta": "",
+      "aree_locali": "Barrafranca , Caltanissetta, Mussomeli , Pietraperzia",
+      "provincia": "CL, EN"
+    },
+    {
+      "prefisso": "0935",
+      "compartimento": "Catania",
+      "distretto": "Enna",
+      "altre_citta": "",
+      "aree_locali": "Enna, Leonforte , Piazza Armerina , Regalbuto",
+      "provincia": "EN, ME"
+    },
+    {
+      "prefisso": "0941",
+      "compartimento": "Catania",
+      "distretto": "Patti (ME)",
+      "altre_citta": "",
+      "aree_locali": "Capo d'Orlando , Furnari , Patti, Sant'Agata di Militello",
+      "provincia": "ME"
+    },
+    {
+      "prefisso": "0942",
+      "compartimento": "Catania",
+      "distretto": "Taormina (ME)",
+      "altre_citta": "",
+      "aree_locali": "Taormina",
+      "provincia": "ME, CT"
+    },
+    {
+      "prefisso": "095",
+      "compartimento": "Catania",
+      "distretto": "Catania",
+      "altre_citta": "Acireale (CT)",
+      "aree_locali": "Acireale, Adrano , Bronte , Catania, Giarre , Lentini , Nicolosi , Palagonia , Paternò",
+      "provincia": "CT, ME, SR"
+    },
+    {
+      "prefisso": "0961",
+      "compartimento": "Catanzaro",
+      "distretto": "Catanzaro",
+      "altre_citta": "",
+      "aree_locali": "Catanzaro, Cropani , Tiriolo",
+      "provincia": "CZ"
+    },
+    {
+      "prefisso": "0962",
+      "compartimento": "Catanzaro",
+      "distretto": "Crotone",
+      "altre_citta": "",
+      "aree_locali": "Cirò Marina , Crotone, Petilia Policastro",
+      "provincia": "KR"
+    },
+    {
+      "prefisso": "0963",
+      "compartimento": "Catanzaro",
+      "distretto": "Vibo Valentia",
+      "altre_citta": "",
+      "aree_locali": "Soriano Calabro , Tropea , Vibo Valentia",
+      "provincia": "VV"
+    },
+    {
+      "prefisso": "0964",
+      "compartimento": "Catanzaro",
+      "distretto": "Locri (RC)",
+      "altre_citta": "",
+      "aree_locali": "Bianco , Gioiosa Ionica , Locri",
+      "provincia": "RC"
+    },
+    {
+      "prefisso": "0965",
+      "compartimento": "Catanzaro",
+      "distretto": "Reggio Calabria",
+      "altre_citta": "",
+      "aree_locali": "Melito di Porto Salvo , Reggio Calabria",
+      "provincia": "RC"
+    },
+    {
+      "prefisso": "0966",
+      "compartimento": "Catanzaro",
+      "distretto": "Palmi (RC)",
+      "altre_citta": "",
+      "aree_locali": "Palmi, Polistena , Taurianova",
+      "provincia": "RC, VV"
+    },
+    {
+      "prefisso": "0967",
+      "compartimento": "Catanzaro",
+      "distretto": "Soverato (CZ)",
+      "altre_citta": "",
+      "aree_locali": "Soverato, Badolato , Chiaravalle Centrale",
+      "provincia": "CZ"
+    },
+    {
+      "prefisso": "0968",
+      "compartimento": "Catanzaro",
+      "distretto": "Lamezia Terme (CZ)",
+      "altre_citta": "",
+      "aree_locali": "Lamezia Terme, Maida , Nocera Terinese",
+      "provincia": "CZ, CS, VV"
+    },
+    {
+      "prefisso": "0971",
+      "compartimento": "Potenza",
+      "distretto": "Potenza",
+      "altre_citta": "",
+      "aree_locali": "Avigliano , Laurenzana , Potenza",
+      "provincia": "PZ"
+    },
+    {
+      "prefisso": "0972",
+      "compartimento": "Potenza",
+      "distretto": "Melfi (PZ)",
+      "altre_citta": "",
+      "aree_locali": "Melfi, Venosa",
+      "provincia": "PZ"
+    },
+    {
+      "prefisso": "0973",
+      "compartimento": "Potenza",
+      "distretto": "Lagonegro (PZ)",
+      "altre_citta": "",
+      "aree_locali": "Chiaromonte , Lagonegro, Sapri , Lauria",
+      "provincia": "PZ, SA"
+    },
+    {
+      "prefisso": "0974",
+      "compartimento": "Potenza",
+      "distretto": "Vallo della Lucania (SA)",
+      "altre_citta": "",
+      "aree_locali": "Roccagloriosa , Torchiara , Vallo della Lucania",
+      "provincia": "SA"
+    },
+    {
+      "prefisso": "0975",
+      "compartimento": "Potenza",
+      "distretto": "Sala Consilina (SA)",
+      "altre_citta": "",
+      "aree_locali": "Polla , Sala Consilina, Viggiano",
+      "provincia": "SA, PZ"
+    },
+    {
+      "prefisso": "0976",
+      "compartimento": "Potenza",
+      "distretto": "Muro Lucano (PZ)",
+      "altre_citta": "",
+      "aree_locali": "Muro Lucano",
+      "provincia": "PZ"
+    },
+    {
+      "prefisso": "0981",
+      "compartimento": "Catanzaro",
+      "distretto": "Castrovillari (CS)",
+      "altre_citta": "",
+      "aree_locali": "Cassano all'Ionio , Castrovillari, Trebisacce",
+      "provincia": "CS"
+    },
+    {
+      "prefisso": "0982",
+      "compartimento": "Catanzaro",
+      "distretto": "Paola (CS)",
+      "altre_citta": "",
+      "aree_locali": "Paola",
+      "provincia": "CS"
+    },
+    {
+      "prefisso": "0983",
+      "compartimento": "Catanzaro",
+      "distretto": "Rossano (CS)",
+      "altre_citta": "",
+      "aree_locali": "Cariati , Corigliano Calabro , Rossano",
+      "provincia": "CS"
+    },
+    {
+      "prefisso": "0984",
+      "compartimento": "Catanzaro",
+      "distretto": "Cosenza",
+      "altre_citta": "",
+      "aree_locali": "Bisignano , Cosenza , San Giovanni in Fiore , San Marco Argentano , Mendicino",
+      "provincia": "CS, KR"
+    },
+    {
+      "prefisso": "0985",
+      "compartimento": "Catanzaro",
+      "distretto": "Scalea (CS)",
+      "altre_citta": "",
+      "aree_locali": "Scalea",
+      "provincia": "CS"
+    },
+    {
+      "prefisso": "099",
+      "compartimento": "Bari",
+      "distretto": "Taranto",
+      "altre_citta": "",
+      "aree_locali": "Fragagnano , Ginosa , Grottaglie , Manduria , Massafra , Taranto",
+      "provincia": "TA"
+    }
+  ],
+  "meta": {
+    "title": "Prefissi telefonici italiani - Free Download",
+    "description": "Prefissi telefonici geografici italiani con distretto, compartimento, aree locali e provincia. Contains 232 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prefissi telefonici italiani | ListBase",
+    "seo_description": "Download Prefissi telefonici italiani — 232 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 232 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Prefissi_telefonici_italiani"
+    ]
+  }
+}
