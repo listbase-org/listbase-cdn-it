@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-20T04:00:12.948Z",
-  "total_datasets": 443,
-  "total_records": 135120,
+  "generated": "2026-10-27T02:11:51.979Z",
+  "total_datasets": 444,
+  "total_records": 135180,
   "categories": [
     {
       "id": "culture",
@@ -31,6 +31,10 @@
     {
       "id": "language",
       "dataset_count": 2
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -645,6 +649,31 @@
         "xlsx": {
           "name": "it-lingue_IT.xlsx",
           "size": 22977
+        }
+      }
+    },
+    {
+      "id": "it-album-piu-venduti-anni-2020",
+      "name": "Album più venduti in Italia negli anni 2020",
+      "category": "music",
+      "record_count": 60,
+      "columns": [
+        "anno",
+        "posizione",
+        "album",
+        "artista"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Album_più_venduti_in_Italia_negli_anni_2020",
+      "updated": "2026-10",
+      "size": 8608,
+      "files": {
+        "csv": {
+          "name": "it-album-piu-venduti-anni-2020_IT.csv",
+          "size": 2425
+        },
+        "xlsx": {
+          "name": "it-album-piu-venduti-anni-2020_IT.xlsx",
+          "size": 8573
         }
       }
     },

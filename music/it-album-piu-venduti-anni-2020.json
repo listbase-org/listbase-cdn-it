@@ -1,0 +1,406 @@
+{
+  "id": "it-album-piu-venduti-anni-2020",
+  "name": "Album più venduti in Italia negli anni 2020",
+  "title": "Album più venduti in Italia negli anni 2020",
+  "description": "Top 10 annuali degli album più venduti in Italia (classifica FIMI) dal 2020 al 2025.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Album_più_venduti_in_Italia_negli_anni_2020",
+  "source_url": "https://it.wikipedia.org/wiki/Album_più_venduti_in_Italia_negli_anni_2020",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 2020,
+      "posizione": 1,
+      "album": "Persona",
+      "artista": "Marracash"
+    },
+    {
+      "anno": 2020,
+      "posizione": 2,
+      "album": "Famoso",
+      "artista": "Sfera Ebbasta"
+    },
+    {
+      "anno": 2020,
+      "posizione": 3,
+      "album": "23 6451",
+      "artista": "Thasup"
+    },
+    {
+      "anno": 2020,
+      "posizione": 4,
+      "album": "DNA",
+      "artista": "Ghali"
+    },
+    {
+      "anno": 2020,
+      "posizione": 5,
+      "album": "Mr. Fini",
+      "artista": "Guè"
+    },
+    {
+      "anno": 2020,
+      "posizione": 6,
+      "album": "Gemelli",
+      "artista": "Ernia"
+    },
+    {
+      "anno": 2020,
+      "posizione": 7,
+      "album": "Accetto miracoli",
+      "artista": "Tiziano Ferro"
+    },
+    {
+      "anno": 2020,
+      "posizione": 8,
+      "album": "Fuori dall'hype",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "anno": 2020,
+      "posizione": 9,
+      "album": "Il Fantadisco dei Me contro Te",
+      "artista": "Me contro Te"
+    },
+    {
+      "anno": 2020,
+      "posizione": 10,
+      "album": "Vita vera mixtape: aspettando la Divina Commedia",
+      "artista": "Tedua"
+    },
+    {
+      "anno": 2021,
+      "posizione": 1,
+      "album": "Taxi Driver",
+      "artista": "Rkomi"
+    },
+    {
+      "anno": 2021,
+      "posizione": 2,
+      "album": "Sangiovanni",
+      "artista": "Sangiovanni"
+    },
+    {
+      "anno": 2021,
+      "posizione": 3,
+      "album": "Teatro d'ira - Vol. I",
+      "artista": "Måneskin"
+    },
+    {
+      "anno": 2021,
+      "posizione": 4,
+      "album": "Blu Celeste",
+      "artista": "Blanco"
+    },
+    {
+      "anno": 2021,
+      "posizione": 5,
+      "album": "Madame",
+      "artista": "Madame"
+    },
+    {
+      "anno": 2021,
+      "posizione": 6,
+      "album": "Plaza",
+      "artista": "Capo Plaza"
+    },
+    {
+      "anno": 2021,
+      "posizione": 7,
+      "album": "Noi, loro, gli altri",
+      "artista": "Marracash"
+    },
+    {
+      "anno": 2021,
+      "posizione": 8,
+      "album": "Ahia!",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "anno": 2021,
+      "posizione": 9,
+      "album": "Famoso",
+      "artista": "Sfera Ebbasta"
+    },
+    {
+      "anno": 2021,
+      "posizione": 10,
+      "album": "Flop",
+      "artista": "Salmo"
+    },
+    {
+      "anno": 2022,
+      "posizione": 1,
+      "album": "Sirio",
+      "artista": "Lazza"
+    },
+    {
+      "anno": 2022,
+      "posizione": 2,
+      "album": "Taxi Driver",
+      "artista": "Rkomi"
+    },
+    {
+      "anno": 2022,
+      "posizione": 3,
+      "album": "Blu Celeste",
+      "artista": "Blanco"
+    },
+    {
+      "anno": 2022,
+      "posizione": 4,
+      "album": "Noi, loro, gli altri",
+      "artista": "Marracash"
+    },
+    {
+      "anno": 2022,
+      "posizione": 5,
+      "album": "Il giorno in cui ho smesso di pensare",
+      "artista": "Irama"
+    },
+    {
+      "anno": 2022,
+      "posizione": 6,
+      "album": "C@ra++ere s?ec!@le",
+      "artista": "thasup"
+    },
+    {
+      "anno": 2022,
+      "posizione": 7,
+      "album": "Salvatore",
+      "artista": "Paky"
+    },
+    {
+      "anno": 2022,
+      "posizione": 8,
+      "album": "Materia (Pelle)",
+      "artista": "Marco Mengoni"
+    },
+    {
+      "anno": 2022,
+      "posizione": 9,
+      "album": "Caos",
+      "artista": "Fabri Fibra"
+    },
+    {
+      "anno": 2022,
+      "posizione": 10,
+      "album": "X2",
+      "artista": "Sick Luke"
+    },
+    {
+      "anno": 2023,
+      "posizione": 1,
+      "album": "Il coraggio dei bambini",
+      "artista": "Geolier"
+    },
+    {
+      "anno": 2023,
+      "posizione": 2,
+      "album": "Sirio",
+      "artista": "Lazza"
+    },
+    {
+      "anno": 2023,
+      "posizione": 3,
+      "album": "La Divina Commedia",
+      "artista": "Tedua"
+    },
+    {
+      "anno": 2023,
+      "posizione": 4,
+      "album": "Fake News",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "anno": 2023,
+      "posizione": 5,
+      "album": "Materia (Prisma)",
+      "artista": "Marco Mengoni"
+    },
+    {
+      "anno": 2023,
+      "posizione": 6,
+      "album": "X2VR",
+      "artista": "Sfera Ebbasta"
+    },
+    {
+      "anno": 2023,
+      "posizione": 7,
+      "album": "Milano Demons",
+      "artista": "Shiva"
+    },
+    {
+      "anno": 2023,
+      "posizione": 8,
+      "album": "Rave, eclissi",
+      "artista": "Tananai"
+    },
+    {
+      "anno": 2023,
+      "posizione": 9,
+      "album": "Madreperla",
+      "artista": "Guè"
+    },
+    {
+      "anno": 2023,
+      "posizione": 10,
+      "album": "Alba",
+      "artista": "Ultimo"
+    },
+    {
+      "anno": 2024,
+      "posizione": 1,
+      "album": "Icon",
+      "artista": "Tony Effe"
+    },
+    {
+      "anno": 2024,
+      "posizione": 2,
+      "album": "Dio lo sa - Atto II",
+      "artista": "Geolier"
+    },
+    {
+      "anno": 2024,
+      "posizione": 3,
+      "album": "Vera Baddie",
+      "artista": "Anna"
+    },
+    {
+      "anno": 2024,
+      "posizione": 4,
+      "album": "Tutti i nomi del diavolo",
+      "artista": "Kid Yugi"
+    },
+    {
+      "anno": 2024,
+      "posizione": 5,
+      "album": "La Divina Commedia (Deluxe)",
+      "artista": "Tedua"
+    },
+    {
+      "anno": 2024,
+      "posizione": 6,
+      "album": "Locura",
+      "artista": "Lazza"
+    },
+    {
+      "anno": 2024,
+      "posizione": 7,
+      "album": "X2VR",
+      "artista": "Sfera Ebbasta"
+    },
+    {
+      "anno": 2024,
+      "posizione": 8,
+      "album": "Ferite (Deluxe Edition)",
+      "artista": "Capo Plaza"
+    },
+    {
+      "anno": 2024,
+      "posizione": 9,
+      "album": "E poi siamo finiti nel vortice",
+      "artista": "Annalisa"
+    },
+    {
+      "anno": 2024,
+      "posizione": 10,
+      "album": "Club Dogo",
+      "artista": "Club Dogo"
+    },
+    {
+      "anno": 2025,
+      "posizione": 1,
+      "album": "Tutta vita (sempre)",
+      "artista": "Olly"
+    },
+    {
+      "anno": 2025,
+      "posizione": 2,
+      "album": "Santana Money Gang",
+      "artista": "Sfera Ebbasta & Shiva"
+    },
+    {
+      "anno": 2025,
+      "posizione": 3,
+      "album": "Dio lo sa - Atto II",
+      "artista": "Geolier"
+    },
+    {
+      "anno": 2025,
+      "posizione": 4,
+      "album": "Debí tirar más fotos",
+      "artista": "Bad Bunny"
+    },
+    {
+      "anno": 2025,
+      "posizione": 5,
+      "album": "Locura",
+      "artista": "Lazza"
+    },
+    {
+      "anno": 2025,
+      "posizione": 6,
+      "album": "È finita la pace",
+      "artista": "Marracash"
+    },
+    {
+      "anno": 2025,
+      "posizione": 7,
+      "album": "Hello World",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "anno": 2025,
+      "posizione": 8,
+      "album": "La bellavita",
+      "artista": "Artie 5ive"
+    },
+    {
+      "anno": 2025,
+      "posizione": 9,
+      "album": "Tropico del Capricorno",
+      "artista": "Guè"
+    },
+    {
+      "anno": 2025,
+      "posizione": 10,
+      "album": "Tutti i nomi del diavolo",
+      "artista": "Kid Yugi"
+    }
+  ],
+  "meta": {
+    "title": "Album più venduti in Italia negli anni 2020 - Free Download",
+    "description": "Top 10 annuali degli album più venduti in Italia (classifica FIMI) dal 2020 al 2025. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Album più venduti in Italia negli anni 2020 | ListBase",
+    "seo_description": "Download Album più venduti in Italia negli anni 2020 — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Album_più_venduti_in_Italia_negli_anni_2020"
+    ]
+  }
+}
