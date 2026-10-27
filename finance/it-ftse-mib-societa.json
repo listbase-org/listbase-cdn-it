@@ -1,0 +1,376 @@
+{
+  "id": "it-ftse-mib-societa",
+  "name": "Società del FTSE MIB",
+  "title": "Società del FTSE MIB",
+  "description": "Composizione dell'indice FTSE MIB di Borsa Italiana: società, codice, ISIN, settore e capitalizzazione.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/FTSE_MIB",
+  "source_url": "https://it.wikipedia.org/wiki/FTSE_MIB",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "societa",
+      "label": "Societa",
+      "type": "string"
+    },
+    {
+      "key": "codice",
+      "label": "Codice",
+      "type": "string"
+    },
+    {
+      "key": "isin",
+      "label": "Isin",
+      "type": "string"
+    },
+    {
+      "key": "settore",
+      "label": "Settore",
+      "type": "string"
+    },
+    {
+      "key": "nel_ftse_mib_dal",
+      "label": "Nel Ftse Mib Dal",
+      "type": "string"
+    },
+    {
+      "key": "capitalizzazione",
+      "label": "Capitalizzazione",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "societa": "A2A",
+      "codice": "A2A",
+      "isin": "IT0001233417",
+      "settore": "Servizi pubblici",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 7089.8
+    },
+    {
+      "societa": "Amplifon",
+      "codice": "AMP",
+      "isin": "IT0004056880",
+      "settore": "Salute",
+      "nel_ftse_mib_dal": "27 dicembre 2018",
+      "capitalizzazione": 3287.4
+    },
+    {
+      "societa": "Avio",
+      "codice": "AVIO",
+      "isin": "IT0005119810",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "23 marzo 2026",
+      "capitalizzazione": 1373.7
+    },
+    {
+      "societa": "Azimut",
+      "codice": "AZM",
+      "isin": "IT0003261697",
+      "settore": "Servizi finanziari",
+      "nel_ftse_mib_dal": "22 marzo 2010",
+      "capitalizzazione": 5572.6
+    },
+    {
+      "societa": "Banca Mediolanum",
+      "codice": "BMED",
+      "isin": "IT0004776628",
+      "settore": "Servizi finanziari",
+      "nel_ftse_mib_dal": "23 marzo 2020",
+      "capitalizzazione": 17869.2
+    },
+    {
+      "societa": "Banca Monte dei Paschi di Siena",
+      "codice": "BMPS",
+      "isin": "IT0005508921",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "20 marzo 2023",
+      "capitalizzazione": 35707.5
+    },
+    {
+      "societa": "Banco BPM",
+      "codice": "BAMI",
+      "isin": "IT0005218380",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "2 gennaio 2017",
+      "capitalizzazione": 24121.7
+    },
+    {
+      "societa": "BPER Banca",
+      "codice": "BPE",
+      "isin": "IT0000066123",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "5 agosto 2020",
+      "capitalizzazione": 29752.4
+    },
+    {
+      "societa": "Brunello Cucinelli",
+      "codice": "BC",
+      "isin": "IT0004764699",
+      "settore": "Prodotti e servizi per consumatori",
+      "nel_ftse_mib_dal": "18 dicembre 2023",
+      "capitalizzazione": 5523
+    },
+    {
+      "societa": "Buzzi",
+      "codice": "BZU",
+      "isin": "IT0001347308",
+      "settore": "Edilizia e materiali",
+      "nel_ftse_mib_dal": "23 dicembre 2024",
+      "capitalizzazione": 6624.5
+    },
+    {
+      "societa": "Campari",
+      "codice": "CPR",
+      "isin": "NL0015435975",
+      "settore": "Alimentari e tabacco",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 7545.2
+    },
+    {
+      "societa": "Enel",
+      "codice": "ENEL",
+      "isin": "IT0003128367",
+      "settore": "Servizi pubblici",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 88927.9
+    },
+    {
+      "societa": "Eni",
+      "codice": "ENI",
+      "isin": "IT0003132476",
+      "settore": "Energia",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 72732.1
+    },
+    {
+      "societa": "Ferrari",
+      "codice": "RACE",
+      "isin": "NL0011585146",
+      "settore": "Automobili e componentistica",
+      "nel_ftse_mib_dal": "4 gennaio 2016",
+      "capitalizzazione": 61409.4
+    },
+    {
+      "societa": "Fincantieri",
+      "codice": "FCT",
+      "isin": "IT0005599938",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "22 dicembre 2025",
+      "capitalizzazione": 4348
+    },
+    {
+      "societa": "FinecoBank",
+      "codice": "FBK",
+      "isin": "IT0000072170",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "1º aprile 2016",
+      "capitalizzazione": 13541.1
+    },
+    {
+      "societa": "Generali",
+      "codice": "G",
+      "isin": "IT0000062072",
+      "settore": "Assicurazioni",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 65604.9
+    },
+    {
+      "societa": "Hera",
+      "codice": "HER",
+      "isin": "IT0001250932",
+      "settore": "Servizi pubblici",
+      "nel_ftse_mib_dal": "18 marzo 2019",
+      "capitalizzazione": 5270
+    },
+    {
+      "societa": "Intesa Sanpaolo",
+      "codice": "ISP",
+      "isin": "IT0000072618",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 117500
+    },
+    {
+      "societa": "Inwit",
+      "codice": "INW",
+      "isin": "IT0005090300",
+      "settore": "Telecomunicazioni",
+      "nel_ftse_mib_dal": "22 giugno 2020",
+      "capitalizzazione": 5821.7
+    },
+    {
+      "societa": "Italgas",
+      "codice": "IG",
+      "isin": "IT0005211237",
+      "settore": "Servizi pubblici",
+      "nel_ftse_mib_dal": "7 novembre 2016",
+      "capitalizzazione": 8555.9
+    },
+    {
+      "societa": "Iveco Group",
+      "codice": "IVG",
+      "isin": "NL0015000LU4",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "3 gennaio 2022",
+      "capitalizzazione": 3875.7
+    },
+    {
+      "societa": "Leonardo",
+      "codice": "LDO",
+      "isin": "IT0003856405",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 28329.4
+    },
+    {
+      "societa": "Lottomatica Group",
+      "codice": "LTMC",
+      "isin": "IT0005541336",
+      "settore": "Viaggi e tempo libero",
+      "nel_ftse_mib_dal": "22 settembre 2025",
+      "capitalizzazione": 6424.1
+    },
+    {
+      "societa": "Mediobanca",
+      "codice": "MB",
+      "isin": "IT0000062957",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 23276.1
+    },
+    {
+      "societa": "Moncler",
+      "codice": "MONC",
+      "isin": "IT0004965148",
+      "settore": "Prodotti e servizi per consumatori",
+      "nel_ftse_mib_dal": "27 marzo 2014",
+      "capitalizzazione": 12267.3
+    },
+    {
+      "societa": "Nexi",
+      "codice": "NEXI",
+      "isin": "IT0005366767",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "24 giugno 2019",
+      "capitalizzazione": 4898.7
+    },
+    {
+      "societa": "Poste Italiane",
+      "codice": "PST",
+      "isin": "IT0003796171",
+      "settore": "Servizi finanziari",
+      "nel_ftse_mib_dal": "21 dicembre 2015",
+      "capitalizzazione": 38585.6
+    },
+    {
+      "societa": "Prysmian",
+      "codice": "PRY",
+      "isin": "IT0004176001",
+      "settore": "Prodotti e servizi industriali",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 38298.8
+    },
+    {
+      "societa": "Recordati",
+      "codice": "REC",
+      "isin": "IT0003828271",
+      "settore": "Salute",
+      "nel_ftse_mib_dal": "20 giugno 2016",
+      "capitalizzazione": 11010.4
+    },
+    {
+      "societa": "Saipem",
+      "codice": "SPM",
+      "isin": "IT0005495657",
+      "settore": "Energia",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 8689
+    },
+    {
+      "societa": "Snam",
+      "codice": "SRG",
+      "isin": "IT0003153415",
+      "settore": "Energia",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 18787.2
+    },
+    {
+      "societa": "Stellantis",
+      "codice": "STLAM",
+      "isin": "NL00150001Q9",
+      "settore": "Automobili e componentistica",
+      "nel_ftse_mib_dal": "18 gennaio 2021",
+      "capitalizzazione": 11315.8
+    },
+    {
+      "societa": "STMicroelectronics",
+      "codice": "STMMI",
+      "isin": "NL0000226223",
+      "settore": "Tecnologia",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 42702.7
+    },
+    {
+      "societa": "Technoprobe",
+      "codice": "TPRO",
+      "isin": "IT0005482333",
+      "settore": "Tecnologia",
+      "nel_ftse_mib_dal": "21 settembre 2026",
+      "capitalizzazione": 21570.7
+    },
+    {
+      "societa": "Telecom Italia",
+      "codice": "TIT",
+      "isin": "IT0005712671",
+      "settore": "Telecomunicazioni",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 14262.4
+    },
+    {
+      "societa": "Tenaris",
+      "codice": "TEN",
+      "isin": "LU2598331598",
+      "settore": "Energia",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 26103.1
+    },
+    {
+      "societa": "Terna",
+      "codice": "TRN",
+      "isin": "IT0003242622",
+      "settore": "Servizi pubblici",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 18475.8
+    },
+    {
+      "societa": "UniCredit",
+      "codice": "UCG",
+      "isin": "IT0005239360",
+      "settore": "Banche",
+      "nel_ftse_mib_dal": "1º giugno 2009",
+      "capitalizzazione": 125009.3
+    },
+    {
+      "societa": "Unipol",
+      "codice": "UNI",
+      "isin": "IT0004810054",
+      "settore": "Assicurazioni",
+      "nel_ftse_mib_dal": "21 settembre 2015",
+      "capitalizzazione": 19257
+    }
+  ],
+  "meta": {
+    "title": "Società del FTSE MIB - Free Download",
+    "description": "Composizione dell'indice FTSE MIB di Borsa Italiana: società, codice, ISIN, settore e capitalizzazione. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Società del FTSE MIB | ListBase",
+    "seo_description": "Download Società del FTSE MIB — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/FTSE_MIB"
+    ]
+  }
+}
