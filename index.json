@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:37.768Z",
-  "total_datasets": 461,
-  "total_records": 136909,
+  "generated": "2026-10-27T02:12:40.428Z",
+  "total_datasets": 462,
+  "total_records": 136945,
   "categories": [
     {
       "id": "culture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -15096,6 +15096,34 @@
         "xlsx": {
           "name": "it-gorizia-comuni_IT.xlsx",
           "size": 8197
+        }
+      }
+    },
+    {
+      "id": "it-operatori-telefonia-mobile",
+      "name": "Operatori di telefonia mobile in Italia",
+      "category": "tech",
+      "record_count": 36,
+      "columns": [
+        "operatore",
+        "gruppo",
+        "rete",
+        "tipo",
+        "avvio",
+        "mnc",
+        "prefissi"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Operatori_di_telefonia_mobile_in_Italia",
+      "updated": "2026-10",
+      "size": 10383,
+      "files": {
+        "csv": {
+          "name": "it-operatori-telefonia-mobile_IT.csv",
+          "size": 4019
+        },
+        "xlsx": {
+          "name": "it-operatori-telefonia-mobile_IT.xlsx",
+          "size": 9173
         }
       }
     },

@@ -1,0 +1,385 @@
+{
+  "id": "it-operatori-telefonia-mobile",
+  "name": "Operatori di telefonia mobile in Italia",
+  "title": "Operatori di telefonia mobile in Italia",
+  "description": "Operatori mobili attivi in Italia (MNO e MVNO) con gruppo, rete di appoggio, MNC e prefissi.",
+  "category": "tech",
+  "source": "https://it.wikipedia.org/wiki/Operatori_di_telefonia_mobile_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Operatori_di_telefonia_mobile_in_Italia",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "operatore",
+      "label": "Operatore",
+      "type": "string"
+    },
+    {
+      "key": "gruppo",
+      "label": "Gruppo",
+      "type": "string"
+    },
+    {
+      "key": "rete",
+      "label": "Rete",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "avvio",
+      "label": "Avvio",
+      "type": "string"
+    },
+    {
+      "key": "mnc",
+      "label": "Mnc",
+      "type": "number"
+    },
+    {
+      "key": "prefissi",
+      "label": "Prefissi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "operatore": "Fastweb",
+      "gruppo": "Fastweb + Vodafone",
+      "rete": "",
+      "tipo": "",
+      "avvio": "8 settembre 2008",
+      "mnc": "08",
+      "prefissi": "373-(0-1-2-3-4-5-6-7), 375-(1-5-6-7-8-9),"
+    },
+    {
+      "operatore": "Iliad Italia",
+      "gruppo": "Iliad",
+      "rete": "",
+      "tipo": "",
+      "avvio": "29 maggio 2018",
+      "mnc": "50",
+      "prefissi": "351-(3-4-5-6-7-8-9), 352-(0-2-3)"
+    },
+    {
+      "operatore": "Rete Ferroviaria Italiana",
+      "gruppo": "Ferrovie dello Stato Italiane",
+      "rete": "",
+      "tipo": "",
+      "avvio": "25 ottobre 2004",
+      "mnc": "30",
+      "prefissi": "313"
+    },
+    {
+      "operatore": "TIM",
+      "gruppo": "Gruppo TIM",
+      "rete": "",
+      "tipo": "",
+      "avvio": "1º aprile 1995",
+      "mnc": "01",
+      "prefissi": "330, 331, 333, 334, 335, 336, 337, 338, 339, 360, 366, 368"
+    },
+    {
+      "operatore": "Vodafone Italia",
+      "gruppo": "Fastweb + Vodafone",
+      "rete": "",
+      "tipo": "",
+      "avvio": "7 dicembre 1995",
+      "mnc": "10",
+      "prefissi": "340, 342, 344, 345, 346, 347, 348, 349"
+    },
+    {
+      "operatore": "Wind Tre",
+      "gruppo": "CK Hutchison Holdings",
+      "rete": "",
+      "tipo": "",
+      "avvio": "31 dicembre 2016",
+      "mnc": "88 e 99",
+      "prefissi": "320, 324, 327, 328, 329, 380, 388, 389, 391, 392, 393"
+    },
+    {
+      "operatore": "1Mobile",
+      "gruppo": "Compagnia Italia Mobile",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ESP MVNO",
+      "avvio": "7 giugno 2007",
+      "mnc": "10",
+      "prefissi": "377-3, 377-5"
+    },
+    {
+      "operatore": "Alpsim",
+      "gruppo": "Alpsim",
+      "rete": "Wind Tre",
+      "tipo": "ATR MVNO",
+      "avvio": "3 ottobre 2021",
+      "mnc": "",
+      "prefissi": ""
+    },
+    {
+      "operatore": "Apposto Mobile",
+      "gruppo": "Apposto",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ATR MVNO",
+      "avvio": "9 dicembre 2024",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "BT Mobile",
+      "gruppo": "BT",
+      "rete": "Vodafone (2007-2014) TIM (dal 2014)",
+      "tipo": "ESP MVNO (2007-2014) Full MVNO (dal 2014)",
+      "avvio": "4 dicembre 2007",
+      "mnc": "34",
+      "prefissi": "371-0, 377-7"
+    },
+    {
+      "operatore": "CMLink",
+      "gruppo": "China Mobile",
+      "rete": "Wind Tre",
+      "tipo": "ESP MVNO",
+      "avvio": "5 marzo 2021",
+      "mnc": "",
+      "prefissi": "324"
+    },
+    {
+      "operatore": "CoopVoce",
+      "gruppo": "Coop",
+      "rete": "TIM (2007-2025) Fastweb + Vodafone (dal 2026)",
+      "tipo": "Full MVNO",
+      "avvio": "1 giugno 2007",
+      "mnc": "53",
+      "prefissi": "370-3, 353-4, 353-5"
+    },
+    {
+      "operatore": "Daily Telecom Mobile",
+      "gruppo": "Daily Telecom Media",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ESP MVNO",
+      "avvio": "31 gennaio 2008",
+      "mnc": "",
+      "prefissi": "377-8"
+    },
+    {
+      "operatore": "Digi Mobil Italia",
+      "gruppo": "Digi Communications",
+      "rete": "TIM (2010-2021) Fastweb + Vodafone (dal 2021)",
+      "tipo": "Full MVNO",
+      "avvio": "2010",
+      "mnc": "36",
+      "prefissi": "353-3"
+    },
+    {
+      "operatore": "Dimensione Mobile",
+      "gruppo": "Dimensione",
+      "rete": "Wind Tre",
+      "tipo": "ESP MVNO",
+      "avvio": "Febbraio 2026",
+      "mnc": "88",
+      "prefissi": "324-25"
+    },
+    {
+      "operatore": "Ehiweb",
+      "gruppo": "Ehinet",
+      "rete": "Fastweb + Vodafone (2022-2026) TIM (dal 2026)",
+      "tipo": "ATR MVNO",
+      "avvio": "Novembre 2022",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "eMobile24",
+      "gruppo": "Ciao Mobile",
+      "rete": "Fastweb + Vodafone (2021-2026) TIM (dal 2026)",
+      "tipo": "ATR MVNO",
+      "avvio": "2021",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "Enegan Mobile",
+      "gruppo": "Enegan",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ESP MVNO",
+      "avvio": "2020",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "Enel Mobile",
+      "gruppo": "Enel Energia",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "Full MVNO",
+      "avvio": "16 settembre 2026",
+      "mnc": "",
+      "prefissi": "378-5"
+    },
+    {
+      "operatore": "Feder Mobile",
+      "gruppo": "Feder",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ESP MVNO",
+      "avvio": "15 luglio 2021",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "GlobalNet Mobile",
+      "gruppo": "GlobalNet Italia",
+      "rete": "Fastweb + Vodafone (2022-2026) TIM (dal 2026)",
+      "tipo": "ATR MVNO",
+      "avvio": "1 settembre 2022",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "Green Mobile",
+      "gruppo": "Green Telecomunicazioni",
+      "rete": "Wind Tre",
+      "tipo": "ESP MVNO",
+      "avvio": "2011",
+      "mnc": "",
+      "prefissi": "324"
+    },
+    {
+      "operatore": "ho.",
+      "gruppo": "Swisscom",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ESP MVNO",
+      "avvio": "25 giugno 2018",
+      "mnc": "10",
+      "prefissi": "377-(08-09), 379-(1-2-3)"
+    },
+    {
+      "operatore": "Kena Mobile",
+      "gruppo": "Gruppo TIM",
+      "rete": "TIM",
+      "tipo": "Full MVNO (2017-2025) Marchio commerciale (dal 2025)",
+      "avvio": "30 marzo 2017",
+      "mnc": "07 01",
+      "prefissi": "350-(0-1-5)"
+    },
+    {
+      "operatore": "Lycamobile",
+      "gruppo": "Lyca Group",
+      "rete": "3 Italia (2009-2013) Vodafone (2013-2026) TIM ( dal 2026 )",
+      "tipo": "ESP MVNO (2009-2013) Full MVNO (dal 2013)",
+      "avvio": "15 giugno 2009",
+      "mnc": "35",
+      "prefissi": "350-(8-9) 351-(0-1-2)"
+    },
+    {
+      "operatore": "Noitel",
+      "gruppo": "Retelit",
+      "rete": "3 Italia (2013-2014) TIM (2014-2019) Vodafone (dal 2019) TIM (dal 2026)",
+      "tipo": "ATR MVNO (2013-2019) ESP MVNO (dal 2019) Full MVNO (dal 2026)",
+      "avvio": "10 dicembre 2012",
+      "mnc": "54 69",
+      "prefissi": "376-(0-1-2) 374-0"
+    },
+    {
+      "operatore": "Ops! Mobile",
+      "gruppo": "Pay Store",
+      "rete": "Fastweb + Vodafone (2024-2026) TIM (dal 2026)",
+      "tipo": "ATR MVNO",
+      "avvio": "Marzo 2024",
+      "mnc": "54",
+      "prefissi": "376-(0-1-2)"
+    },
+    {
+      "operatore": "Optima Mobile",
+      "gruppo": "Optima Italia",
+      "rete": "3 Italia (2012-2015) Vodafone (dal 2015)",
+      "tipo": "ESP MVNO",
+      "avvio": "10 luglio 2017",
+      "mnc": "",
+      "prefissi": "377-0"
+    },
+    {
+      "operatore": "PosteMobile",
+      "gruppo": "Poste Italiane",
+      "rete": "Vodafone (2007-2014; 2021-2026) Wind (2014-2021) TIM (dal 2026)",
+      "tipo": "Full MVNO",
+      "avvio": "26 novembre 2007",
+      "mnc": "33",
+      "prefissi": "377-(1-2-4-6-9), 371-(1-3-4-5-6-7-8)"
+    },
+    {
+      "operatore": "Segnoverde Mobile",
+      "gruppo": "Gruppo Canarbino",
+      "rete": "Wind Tre",
+      "tipo": "ESP MVNO",
+      "avvio": "2 ottobre 2025",
+      "mnc": "",
+      "prefissi": ""
+    },
+    {
+      "operatore": "Simon",
+      "gruppo": "Convergenze",
+      "rete": "Fastweb + Vodafone",
+      "tipo": "ATR MVNO",
+      "avvio": "30 giugno 2025",
+      "mnc": "49",
+      "prefissi": ""
+    },
+    {
+      "operatore": "Sky Mobile",
+      "gruppo": "Sky",
+      "rete": "Fastweb (dal 2024) Fastweb + Vodafone (dal 2026)",
+      "tipo": "Marchio commerciale ESP MVNO (dal 2026)",
+      "avvio": "29 febbraio 2024",
+      "mnc": "08",
+      "prefissi": "378-4"
+    },
+    {
+      "operatore": "spusu",
+      "gruppo": "MASS Response Service",
+      "rete": "Wind Tre",
+      "tipo": "Full MVNO",
+      "avvio": "15 giugno 2020",
+      "mnc": "56",
+      "prefissi": "378-0"
+    },
+    {
+      "operatore": "Tiscali Mobile",
+      "gruppo": "Gruppo Canarbino",
+      "rete": "TIM",
+      "tipo": "ESP MVNO",
+      "avvio": "25 marzo 2009",
+      "mnc": "01",
+      "prefissi": "370-1"
+    },
+    {
+      "operatore": "Very Mobile",
+      "gruppo": "CK Hutchison Holdings",
+      "rete": "Wind Tre",
+      "tipo": "Marchio commerciale",
+      "avvio": "24 febbraio 2020",
+      "mnc": "88",
+      "prefissi": "320, 324, 327, 328, 329, 380, 388, 389"
+    },
+    {
+      "operatore": "Vianova",
+      "gruppo": "Quinta",
+      "rete": "TIM (2017-2024) Vodafone (dal 2024)",
+      "tipo": "Full MVNO",
+      "avvio": "1 settembre 2017",
+      "mnc": "49",
+      "prefissi": "378-3"
+    }
+  ],
+  "meta": {
+    "title": "Operatori di telefonia mobile in Italia - Free Download",
+    "description": "Operatori mobili attivi in Italia (MNO e MVNO) con gruppo, rete di appoggio, MNC e prefissi. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Operatori di telefonia mobile in Italia | ListBase",
+    "seo_description": "Download Operatori di telefonia mobile in Italia — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Operatori_di_telefonia_mobile_in_Italia"
+    ]
+  }
+}
