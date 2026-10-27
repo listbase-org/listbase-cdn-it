@@ -1,0 +1,3946 @@
+{
+  "id": "it-formaggi",
+  "name": "Formaggi italiani",
+  "title": "Formaggi italiani",
+  "description": "Elenco dei formaggi italiani con regione, tipo di riconoscimento (DOP, PAT) e latte utilizzato.",
+  "category": "food",
+  "source": "https://it.wikipedia.org/wiki/Formaggi_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Formaggi_italiani",
+  "updated": "2026-10",
+  "record_count": 650,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "riconoscimento",
+      "label": "Riconoscimento",
+      "type": "string"
+    },
+    {
+      "key": "latte",
+      "label": "Latte",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Acidino",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Agordino di malga",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Agrì di Valtorta",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ainuzzi",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Algunder bauernkäse halbfett - Formaggio contadino semigrasso di Lagundo",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Algunder butterkäse - Formaggio di Lagundo",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Algunder ziegenkäse - Formaggio di capra di Lagundo",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Alpkäse - Formaggio di alpeggio",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Animaletti di provola",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Aschbacher magerkäse - Aschbach magro",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Asiago",
+      "regione": "Veneto, Prov. di Trento",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Axridda",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino"
+    },
+    {
+      "denominazione": "Bagòss",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Bastardo del Grappa",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Bebè di Sorrento",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Beddo",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Bëggia",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Belicino",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Bernardo",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Bettelmat",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Biancospino",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Bitto",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino, misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Bocconcini alla panna di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Bonassai",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Boves",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, misto vaccino/caprino/ovino"
+    },
+    {
+      "denominazione": "Bra",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino, misto vaccino/caprino/ovino"
+    },
+    {
+      "denominazione": "Branzi",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Brossa",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino, vaccino"
+    },
+    {
+      "denominazione": "Brus",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto"
+    },
+    {
+      "denominazione": "Brus da ricotta",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Bruzzo (Brus, Brussu, della Valle Arroscia)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Burrata",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Burrata di Andria",
+      "regione": "Puglia",
+      "riconoscimento": "IGP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Burrata di bufala",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Burrell’ (Scamorza con burro all’interno)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Burrini e burrata di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Burrino o Manteca",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Busche",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Butirro",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caci figurati",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cacio",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino, misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Cacio di Genazzano",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacio di nonno Nino di Montalto di Castro",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacio di vacca bianca, Caciotta di vacca",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cacio fiore",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacio in forma di limone",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacio magno (semplice e alle erbe)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacio-ricotta",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino"
+    },
+    {
+      "denominazione": "Caciobarile",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocapra",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caciocavallo",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo abruzzese",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo affumicato",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo del Formicoso",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo del Matese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di Agnone",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di bufala (semplice e affumicata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Caciocavallo di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Caciocavallo di Castelfranco",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di Ciminà",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di grotta del Cervati e delle Gole di Pertosa",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di Massa di Maratea",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo di Supino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo irpino di grotta",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo palermitano",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo podolico",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo podolico",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo podolico dauno",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo podolico dei Monti Picentini",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo silano",
+      "regione": "Calabria, Basilicata, Campania, Molise, Puglia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo stagionato di grotta del Tanagro",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocavallo vaccino e affumicato",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciocchiato",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciofiore aquilano",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cacioricotta",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Cacioricotta",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino, misto ovino/caprino"
+    },
+    {
+      "denominazione": "Cacioricotta",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Cacioricotta caprino del Cilento",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Cacioricotta caprino orsarese, Cas rcott",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Cacioricotta di bufala",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Caciotta",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta ( Caciotta di Brugnato )",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta (Caciotta e Caciotta al tartufo )",
+      "regione": "Umbria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta caprina",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caciotta cepranese",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta degli Elimi",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Caciotta marchigiana o caciotta",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "misto"
+    },
+    {
+      "denominazione": "Caciotta dei Monti della Laga",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino"
+    },
+    {
+      "denominazione": "Caciotta della Lunigiana, Formaggio bovino della Lunigiana",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta della Sabina (semplice e alle erbe)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Caciotta di bufala (Pontina)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Caciotta di capra dei Monti Lattari",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caciotta di mucca",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta di pecora",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Caciotta di vacca ciociara (semplice ed aromatizzata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta dolce, Vacchino dolce",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta genuina romana",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Caciotta mista ai bronzi",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Caciotta mista della Tuscia",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Caciotta mista ovi-vaccina del Lazio",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/vaccino"
+    },
+    {
+      "denominazione": "Caciotta stagionata, Mucchino, Vacchino",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta vaccina al caglio vegetale",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta vaccina al caglio vegetale",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciotta vaccina frentana, Formaggio di vacca, Casce d'vacc",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciottina canestrata di Sorrento",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciottina di bufala di Amaseno (semplice e aromatizzata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Caciotto di Cirella di Platì",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caciottone di Norcia",
+      "regione": "Umbria",
+      "riconoscimento": "IGP",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Cadolet di capra",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Canestrato",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Canestrato",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Canestrato",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Canestrato di Moliterno",
+      "regione": "Basilicata",
+      "riconoscimento": "IGP",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Canestrato pugliese",
+      "regione": "Puglia",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Canestrato vacchino",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino (della Valbrevenna)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino a coagulazione lattica",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino a coagulazione presamica",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino abruzzese, Formaggi caprini abruzzesi",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino al lattice di fico",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino conciato del Montemaggiore",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino dell'Aspromonte",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino della Val Vigezzo",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino di malga (delle Alpi Marittime)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino lattico piemontese",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino nicastrese",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino presamico (di latte vaccino) di Supino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino presamico piemontese",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino stagionato",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Caprino vaccino",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caprino valsesiano o Crava",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Casàda",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casatella trevigiana",
+      "regione": "Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casato del Garda",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casatta di Corteno Golgi",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cascio pecorino lievito - Pecorino fresco \"a latte crudo\"",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Cascio pecorino lievito, Pecorino fresco a latte crudo",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casciotta d'Urbino",
+      "regione": "Marche",
+      "riconoscimento": "DOP",
+      "latte": "misto ovino/vaccino"
+    },
+    {
+      "denominazione": "Casecc",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Casecc",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino/ovino"
+    },
+    {
+      "denominazione": "Casel bellunese",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casieddo o Casieddu",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Casizolu di pecora - Prittas",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casizolu , Peretta, Tittighedda, Provoletta, Figu",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caso conzato",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino, vaccino, misto ovino/caprino/vaccino"
+    },
+    {
+      "denominazione": "Caso di Elva (Toma di Elva o Casale de Elva o Toumo de caso)",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Caso maturo",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Caso Vallicelli",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Casolet",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casolet",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casoperuto e marzolino",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Casoretta",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Castelmagno",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Casu axedu , Fruhe, Frughe, Frua merca, Fiscidu, Viscidu, Ischidu, Bischidu, Vischidàle, Préta, Piéta, Casàdu, Cagiadda, Casu agèru, Casu e fitta, Latte cazàdu, Latti callàu",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Casu cottu (di capra)",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Casu marzu , Casu frazigu, Casu becciu, Casu fattittu, , Hasu muhidu, Formaggio marcio",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casu friscu, Formaggio fresco",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casu in filixi - formaggio infelce",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino o caprino"
+    },
+    {
+      "denominazione": "Casu Musciu",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casu ré pecóra del Matese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Casuforte di Statigliano, Cacioforte, Casoforte",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Cesio",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cevrin di Coazze",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Ciambella di Morolo",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Civrin della Val Chiusella",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cofanetto",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino e ovino"
+    },
+    {
+      "denominazione": "Comelico",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "Vaccino"
+    },
+    {
+      "denominazione": "Conciato di San Vittore",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Contrin",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cosacavaddu ibleo",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Crescenza",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cuffianella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Cuincir",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Dolcesardo Arborea",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Dolomiti (formaggio)",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ericino",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Farci-provola",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fatuli’",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Felciata",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Fior di ricotta di Ponte Persica",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fiordilatte dell'Agro Pontino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fior delle Dolomiti",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fiordilatte",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fiordilatte",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fiore Sardo",
+      "regione": "Sardegna",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Fiorone della Valsassina",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fiurì o Fiurit",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fodom",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fontal",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fontal",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Fontina",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formadi frant",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella del Luinese",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggella della Val Brembana",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella della Val Sabbia",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella della Val Seriana",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella della Val Trompia",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella della Valcamonica",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella di Menconico",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella della Val di Scalve",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggella di Tremosine",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggetta (delle Valli Arroscia e Argentina)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, misto"
+    },
+    {
+      "denominazione": "Formaggetta savonese , di Stella, della Valle Stura)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "caprino, vaccino, misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Formaggetta della Val Graveglia, di Bonassola, di Vàise, dell’alta Valle Scrivia, dell’alta Valle Stura, della Val di Vara",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Furmaìn o Formaggetta fresca,",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggi caprini della Maremma, Caprini freschi o aromatizzati",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggi di latte di capra dell'Isola di Capraia",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggi di pecora nera di Arbus",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Formaggi e Ricotta di stazzo",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "misto"
+    },
+    {
+      "denominazione": "Formaggio (farcito e misto)",
+      "regione": "Umbria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino - misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Formaggio a crosta rossa",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio asìno",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio caprino del Cilento",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio caprino dell'Alto Mugello",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio caprino della Limina",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio caprino delle Apuane",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio caprino morbido",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio coi vermi",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino"
+    },
+    {
+      "denominazione": "Formaggio d'Alpe grasso",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio d’Alpe misto",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio d'Alpe semigrasso",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio del fieno",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio di capra",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio di capra a pasta molle",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio di capra \"Padduni\"",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio di capra siciliana",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Formaggio di colostro ovino",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Formaggio di fossa di Sogliano",
+      "regione": "Emilia Romagna, Marche",
+      "riconoscimento": "DOP",
+      "latte": "vaccino, ovino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Formaggio di malga (di Triora, delle Alpi Marittime)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio di malga",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio di pecora o capra a pasta pressata",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino"
+    },
+    {
+      "denominazione": "Formaggio di Pietracatella",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino/caprino"
+    },
+    {
+      "denominazione": "Formaggio di Santo Stefano di Quisquina",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Formaggio duro di latte di pecora, capra e vacca",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino"
+    },
+    {
+      "denominazione": "Formaggio e caciotta di pecora sott’olio",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Formaggio fagagna",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio in fossa - Formaggio stagionato in fossa",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Latteria",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio misto",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino/caprino"
+    },
+    {
+      "denominazione": "Formaggio misto pecora fresco dei Berici",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino, ovino"
+    },
+    {
+      "denominazione": "Formaggio morbido del Matese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio salato",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formaggio Val Seriana",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formai de Livign",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formai de Mut dell'Alta Valle Brembana",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Formai del cìt",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Frachet",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto formaggio/ricotta"
+    },
+    {
+      "denominazione": "Fresa, Fresa de attunzu",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Frico",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Frumagit di Curiglia",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Furmag de segia",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Furmai nustran",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Garda Tremosine",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Gioda",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Giuncata , Zuncà, Giuncà",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Giuncata",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Giuncata",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Giuncata vaccina abruzzese, Sprisciocca",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, caprino"
+    },
+    {
+      "denominazione": "Giuncatella abruzzese",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Gorgonzola",
+      "regione": "Lombardia, Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Gran cacio di Morolo",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Grana Padano e Trentingrana",
+      "regione": "Emilia Romagna, Lombardia, Piemonte, Prov. di Trento, Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Granone lodigiano",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Graukäse - Formaggio grigio",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Greviera di Ozieri - Griviera di Ozieri - Gruviera di Ozieri",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Hartkäse - Formaggio duro Alta Badia",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Hartkäse Gran Spicchio & Gran Dolomiti - Formaggio duro Gran Spicchio & Gran Dolomiti",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Hochpustertaler fettreduziert - Alta Pusteria semigrasso",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Hochpustertaler - Formaggio Alta Pusteria",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Il Fossa del Greppo, Pecorino di Fossa del Greppo, Formaggio pecorino di Fossa del Greppo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Il grande vecchio di Montefollonico",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Inbriago",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Incanestrato di Castel del Monte",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Innichner - San Candido",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Innichner bergkäse - Montagna San Candido",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Innichner butterkäse - Formaggio al burro di San Candido",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ircano",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Italico",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Juncata",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Lattecrudo di Tremosine",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Latteria",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Maccagno o Macagn",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Magnoca",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Magro di Latteria",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Magro di Piatta",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Magro",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Maiorchino di Novara di Sicilia",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Maiorchino",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Malga bellunese",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Manteca",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Manteca",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Manteca",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Manteca del Cilento",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Marzolino di Lucardo, Pecorino di Lucardo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Marzolino e/o Marzolina",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Mascarpa o Mascherpa",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Mascarpin de la calza",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Mascarpone artigianale",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mascarpone di Bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Mascherpa d'Alpe",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Matusc",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino, misto"
+    },
+    {
+      "denominazione": "Misto capra",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Moesin di Fregona",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mollana della Val Borbera",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Montagna",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino"
+    },
+    {
+      "denominazione": "Montasio",
+      "regione": "Friuli Venezia Giulia, Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Monte Baldo e Monte Baldo primo fiore",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Montemagro",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Monte Veronese",
+      "regione": "Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Montebore",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Montegranero",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Monte Re",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Monteson",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Morlacco (formaggio)",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mortrett o Murtret",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Motelì",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Motta",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella di Brugnato",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella di bufala campana",
+      "regione": "Campania, Lazio, Molise, Puglia",
+      "riconoscimento": "DOP",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Mozzarella di Gioia del Colle",
+      "regione": "Puglia, Basilicata",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella di vacca",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella nella mortella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella o Fior di latte",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella silana",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarella Tradizionale",
+      "regione": "Italia",
+      "riconoscimento": "STG",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mozzarelle di Avigliano",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Mugnaia di bufala",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Murazzano",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Murianengo o Moncenisio",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Murtarat",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Musulupu dell'Aspromonte",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Nevegàl",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nisso",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Nostrale d'alpe",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nostrano (Nostrano “de casel”, Nostrano, Nostrano di malga, Nostrano di Primiero)",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nostrano grasso",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nostrano semigrasso",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nostrano Valtrompia",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Nostrano veronese",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "O' Peluso",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino, caprino, vaccino, misto ovino/caprino"
+    },
+    {
+      "denominazione": "Ortler",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ossolano",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Padraccio",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Paglierina",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Pallone di Gravina",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Panerone",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Parmigiano Reggiano",
+      "regione": "Emilia Romagna, Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Pastorella del cerreto di Sorano",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Pecorino",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Norcia del pastore , Stagionato in fossa/grotta, Stagionato in botte, Umbro",
+      "regione": "Umbria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino (viterbese, ciociaro)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino a crosta fiorita, Pecorino buccia di rospo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino a latte crudo abbucciato",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino a latte crudo della montagna pistoiese, Pecorino di Pistoia",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino a latte crudo della Provincia di Siena",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino ai bronzi",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino alle erbe aromatiche, Pecorino fresco verde",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino crotonese",
+      "regione": "Calabria",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino d'Abruzzo",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino dei Berici",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino dei Monti della Laga",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Casentino",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Matese",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Monte Marzano",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Monte Poro",
+      "regione": "Calabria",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Parco di Migliarino-San Rossore",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del pastore",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino del Pollino",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino dell’Appennino Reggiano",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della Costa Apuana, Pecorino massese",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della Garfagnana e delle Colline Lucchesi, Pecorino baccellone",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della Locride",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della Lunigiana",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della Sabina (semplice e alle erbe)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino della vallata \"Stilaro Allaro\"",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino delle Balze Volterrane",
+      "regione": "Toscana",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino delle cantine di Roccalbegna",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino delle colline senesi",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Amatrice",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Atri",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino bagnolese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Capracotta",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Carmasciano",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Farindola",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Ferentino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Filiano",
+      "regione": "Basilicata",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Laticauda",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Maglie",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di malga",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino fresco di malga",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Nule - Casu de Nule",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Osilo - Casu de Osile - Casu fatt'a fogu",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Picinisco",
+      "regione": "Abruzzo",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Pienza stagionato in barriques",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Pietraroja",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Roiate/Roiatese",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino di Vitulano",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino foggiano",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino fresco e stagionato",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino in botte",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino in grotta del viterbese",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino marcetto, Cacio marcetto",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino maturato in grotta",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino misto",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Pecorino misto",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "misto ovino/caprino"
+    },
+    {
+      "denominazione": "Pecorino primo sale",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino romano",
+      "regione": "Lazio, Sardegna, Toscana",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino rosso",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino salaprese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino sardo",
+      "regione": "Sardegna",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino siciliano",
+      "regione": "Sicilia",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino stagionato in foglie di noce",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pecorino toscano",
+      "regione": "Toscana, Lazio, Umbria",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Piacentinu ennese",
+      "regione": "Sicilia",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Piave",
+      "regione": "Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Picurinu: tuma, primosale, secondo sale, stagionato",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Piddiato",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Pratolina, Formaggio caprino",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Prescinsêua (Quagliata)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Pressato a mano",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Primo sale di latte ovino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Provola affumicata di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Provola affumicata",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola dei Monti Sicani , Caciotta",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola dei Nebrodi",
+      "regione": "Sicilia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola delle Madonie",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola di bufala (semplice e affumicata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Provola di vacca (semplice e affumicata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola e caciotta a pasta filata",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola siciliana",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provola",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provoletta di latte vaccino sardo, provola, Peretta",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provolone del Monaco",
+      "regione": "Campania",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provolone invecchiato di bufala di Formello",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Provolone vaccino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provolone Valpadana",
+      "regione": "Emilia Romagna, Lombardia, Veneto, Prov. di Trento",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Provolone",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Pustertaler Bergkäse - Formaggio di montagna della Val Pusteria",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Puzzone di Moena o Spretz Tzaori",
+      "regione": "Prov. di Trento, Prov. di Bolzano",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Quartirolo Lombardo",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ragusano",
+      "regione": "Sicilia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raschera",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Rasco",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raucherkäse - Formaggio affumicato",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raviggiolo",
+      "regione": "Umbria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raviggiolo",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raviggiolo",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, misto ovino/caprino"
+    },
+    {
+      "denominazione": "Raviggiolo del Mugello , Ravaggiolo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Raviggiolo di pecora pistoiese , Ravaggiolo, Raveggiolo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Raviggiolo di pecora senese , Ravaggiolo, Raveggiolo",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Reblec de crama",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Reblec",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Renàz",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Riavulillo",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ribiola della bettola, ill Ribiol",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Ricotta",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino, caprino, misto ovino/caprino"
+    },
+    {
+      "denominazione": "Ricotta",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Ricotta",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Ricotta",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Ricotta (Recottu, Ricotta della Val Stura, della Val d’Aveto, della Valle Scrivia, della Val Graveglia)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta affumicata di malga",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta affumicata",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta artigianale",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta calda con siero",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta di bufala (affumicata, infornata, salata)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "siero bufalino"
+    },
+    {
+      "denominazione": "Ricotta di bufala campana",
+      "regione": "Campania, Lazio, Molise, Puglia",
+      "riconoscimento": "DOP",
+      "latte": "siero bufalino"
+    },
+    {
+      "denominazione": "Ricotta di capra affumicata",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "siero caprino"
+    },
+    {
+      "denominazione": "Ricotta di capra fresca, o Poina de caòra fresca e Ricotta di capra affumicata, o Poina fumàda",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "siero caprino"
+    },
+    {
+      "denominazione": "Ricotta di capra",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "siero caprino"
+    },
+    {
+      "denominazione": "Ricotta di colostro ovino",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di pecora",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di pecora",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di fuscella di Sant'Anastasia",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta di pecora e di capra dei Monti Lepini",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino, caprino"
+    },
+    {
+      "denominazione": "Ricotta di pecora grossettana",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di pecora massese",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di pecora nera di Arbus",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di pecora o di capra lavorata - Arrescottu spongiau",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino, caprino"
+    },
+    {
+      "denominazione": "Ricotta di pecora pistoiese",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta di vacca",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta forte",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta forte",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta fresca ed essiccata di capra",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "siero caprino"
+    },
+    {
+      "denominazione": "Ricotta fresca ed essiccata di pecora",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta fresca ovina, Ricotta gentile",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta iblea",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta infornata",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino, ovino, misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Ricotta mantéca di Montella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta marzotica leccese",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino, caprino, vaccino, misto"
+    },
+    {
+      "denominazione": "Ricotta mista",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino, caprino, vaccino, misto"
+    },
+    {
+      "denominazione": "Ricotta moliterna, Ricottone",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta mustia",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta ovina di Arischia , Ricotta co le ficore",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta romana",
+      "regione": "Lazio",
+      "riconoscimento": "DOP",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta salaprese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta salata o marzotica",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta salata",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta salata",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta salata",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta salata",
+      "regione": "Umbria",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta Schotte",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta secca",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Ricotta stagionata di pecora, Ricotta salata abruzzese",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta testa di morto, Ricotta greca, Testa di moro, Ricottone",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta toscanella, Ricottone",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta vaccina fresca tradizionale dell'Emilia-Romagna, Puina, Puvina",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricotta viterbese",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "siero ovino"
+    },
+    {
+      "denominazione": "Ricotta/Ricotta affumicata o Poina/Poina fumàda",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino"
+    },
+    {
+      "denominazione": "Ricottone salato",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "siero"
+    },
+    {
+      "denominazione": "Robiola della Val Bormida",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Robiola bresciana",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Robiola d'Alba",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Robiola della Valsassina",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Robiola di Cocconato",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Robiola di Roccaverano",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Robiola, Ribiola, Furmai nis",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Rosa camuna",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Santo Stefano d'Aveto (San Ste')",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Salagnun",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Salignoùn",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Salignun o Salgnun",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Salva cremasco",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Sappada",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Sarasso (Sarazzu)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza abruzzese",
+      "regione": "Abruzzo",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza appassita - Cacetto di Supino",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Scamorza di Montella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza di pecora",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Scamorza molisana",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorza vaccina (semplice e ripiena)",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamorzini del Matese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Scamosciata",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schiz",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse - Formaggio da taglio Bela Badia",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Dolomitenkönig - Formaggio da Taglio Dolomitenkönig",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Malga Gardena - Formaggio da taglio Malga Gardena",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Marienberger - Formaggio da taglio Monte Maria",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Pragser stange - Formaggio da taglio Braies Stanga",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Pustertaler - Formaggio da taglio Pusteria",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Schlanderser leicht - Formaggio da taglio Silandro leggero",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Schnittkäse Vinschger - Formaggio al taglio Venosta",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Seirass (Sairass) di latte o Ricotta piemontese",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Seirass del fen o Saras del fen",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Seirass di siero di pecora",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Seirass stagionato",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Semicotto di capra",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Semuda",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Séras",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "siero vaccino, ovino, caprino"
+    },
+    {
+      "denominazione": "Sextner almkäse - Formaggio di montagna di Sesto",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Sfoglia di mozzarella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Silter",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Slattato",
+      "regione": "Marche",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Sola (Sora, Soera)",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Söla (Tumma, Sola delle Alpi Marittime)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Sot la trape",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Spress",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/caprino"
+    },
+    {
+      "denominazione": "Spressa delle Giudicarie",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Squacquerone di Romagna",
+      "regione": "Emilia Romagna",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Squarquaglione dei Monti Lepini",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Sta'el",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Stagionato di bufala di Formello",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Stelvio - Stilfser",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracchino , Crescenza",
+      "regione": "Toscana",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracchino bronzone",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracchino della Valsassina",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracchino di bufala",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "bufalino"
+    },
+    {
+      "denominazione": "Stracchino di capra",
+      "regione": "Lazio",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Stracchino orobico",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracchino tipico",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracciata",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracciata",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracciata del Matese",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Strachet",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Strachitunt",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Stracon",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Strazzatella silana",
+      "regione": "Calabria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tabor",
+      "regione": "Friuli Venezia Giulia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tagliatizzo di Castelsaraceno",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Taleggio",
+      "regione": "Lombardia, Piemonte, Veneto",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toblacher stangenkäse - Formaggio originale Dobbiaco",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "ovino, misto ovino/caprino"
+    },
+    {
+      "denominazione": "Toma ajgra",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma biellese",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma d'alpeggio",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma del lait brusc o bianca alpina",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma della Valsesia",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma di Celle",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma di Gressoney",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma di Lanzo",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toma di Mendatica (dell'Alta Valle Arroscia)",
+      "regione": "Liguria",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, ovino, caprino, misto"
+    },
+    {
+      "denominazione": "Toma piemontese",
+      "regione": "Piemonte",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tombea",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tometto o Tumet",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino canavesano asciutto",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino canavesano fresco",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino del bot",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino del Talucco",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "caprino, misto caprino/vaccino"
+    },
+    {
+      "denominazione": "Tomino delle Valli Saluzzesi",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino di Rivalta",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino di San Giacomo di Boves",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino di Saronsella (Chivassotto)",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tomino di Sordevolo",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Torta orobica",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tosela",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tosella",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Toumin dal Mel",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tre valli",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia - Trizza",
+      "regione": "Sardegna",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia di Massa di Maratea",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia di Montella",
+      "regione": "Campania",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia di Santa Croce di Magliano",
+      "regione": "Molise",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Treccia dura",
+      "regione": "Basilicata",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tuma 'd trausela",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tuma di Bossolasco",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "misto vaccino/ovino"
+    },
+    {
+      "denominazione": "Tuma mola",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Tumazzu di vacca",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Vaccino",
+      "regione": "Puglia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Vaciarin",
+      "regione": "Piemonte",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Valle d'Aosta Fromadzo",
+      "regione": "Valle d'Aosta",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Valtellina Casera",
+      "regione": "Lombardia",
+      "riconoscimento": "DOP",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Valmorel",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Valtellina Scimudin",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Vastedda della Valle del Belice",
+      "regione": "Sicilia",
+      "riconoscimento": "DOP",
+      "latte": "ovino"
+    },
+    {
+      "denominazione": "Vastedda palermitana",
+      "regione": "Sicilia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Vezzena (formaggio)",
+      "regione": "Prov. di Trento",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Zieger - Formaggio fresco aromatizzato",
+      "regione": "Prov. di Bolzano",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Zigher",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino, caprino"
+    },
+    {
+      "denominazione": "Zincarlin de Vares",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "caprino"
+    },
+    {
+      "denominazione": "Zincarlin",
+      "regione": "Lombardia",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    },
+    {
+      "denominazione": "Zumelle",
+      "regione": "Veneto",
+      "riconoscimento": "PAT",
+      "latte": "vaccino"
+    }
+  ],
+  "meta": {
+    "title": "Formaggi italiani - Free Download",
+    "description": "Elenco dei formaggi italiani con regione, tipo di riconoscimento (DOP, PAT) e latte utilizzato. Contains 650 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Formaggi italiani | ListBase",
+    "seo_description": "Download Formaggi italiani — 650 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 650 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Formaggi_italiani"
+    ]
+  }
+}

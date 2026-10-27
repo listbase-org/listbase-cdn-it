@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:19.653Z",
-  "total_datasets": 454,
-  "total_records": 135965,
+  "generated": "2026-10-27T02:12:22.250Z",
+  "total_datasets": 455,
+  "total_records": 136615,
   "categories": [
     {
       "id": "culture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -372,6 +372,31 @@
         "xlsx": {
           "name": "it-bevande-spiritose-ig_IT.xlsx",
           "size": 8094
+        }
+      }
+    },
+    {
+      "id": "it-formaggi",
+      "name": "Formaggi italiani",
+      "category": "food",
+      "record_count": 650,
+      "columns": [
+        "denominazione",
+        "regione",
+        "riconoscimento",
+        "latte"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Formaggi_italiani",
+      "updated": "2026-10",
+      "size": 100048,
+      "files": {
+        "csv": {
+          "name": "it-formaggi_IT.csv",
+          "size": 36933
+        },
+        "xlsx": {
+          "name": "it-formaggi_IT.xlsx",
+          "size": 25251
         }
       }
     },
