@@ -1,0 +1,302 @@
+{
+  "id": "it-pil-pro-capite-regioni",
+  "name": "PIL pro capite delle regioni italiane",
+  "title": "PIL pro capite delle regioni italiane",
+  "description": "Serie storica del PIL pro capite delle regioni italiane (euro).",
+  "category": "economy",
+  "source": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "territorio",
+      "label": "Territorio",
+      "type": "string"
+    },
+    {
+      "key": "anno_1995",
+      "label": "Anno 1995",
+      "type": "number"
+    },
+    {
+      "key": "anno_2000",
+      "label": "Anno 2000",
+      "type": "number"
+    },
+    {
+      "key": "anno_2005",
+      "label": "Anno 2005",
+      "type": "number"
+    },
+    {
+      "key": "anno_2010",
+      "label": "Anno 2010",
+      "type": "number"
+    },
+    {
+      "key": "anno_2012",
+      "label": "Anno 2012",
+      "type": "number"
+    },
+    {
+      "key": "anno_2021",
+      "label": "Anno 2021",
+      "type": "number"
+    },
+    {
+      "key": "anno_2022",
+      "label": "Anno 2022",
+      "type": "number"
+    },
+    {
+      "key": "anno_2023",
+      "label": "Anno 2023",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "territorio": "Lombardia",
+      "anno_1995": 22383,
+      "anno_2000": 27398,
+      "anno_2005": 31220,
+      "anno_2010": 33273,
+      "anno_2012": 33066,
+      "anno_2021": 42584,
+      "anno_2022": 45952,
+      "anno_2023": 49063
+    },
+    {
+      "territorio": "Trentino-Alto Adige",
+      "anno_1995": 22408,
+      "anno_2000": 27433,
+      "anno_2005": 30717,
+      "anno_2010": 33230,
+      "anno_2012": 33754,
+      "anno_2021": 39502,
+      "anno_2022": 43901,
+      "anno_2023": 46366
+    },
+    {
+      "territorio": "Valle d'Aosta",
+      "anno_1995": 24071,
+      "anno_2000": 27089,
+      "anno_2005": 32672,
+      "anno_2010": 34560,
+      "anno_2012": 34465,
+      "anno_2021": 38666,
+      "anno_2022": 43906,
+      "anno_2023": 46333
+    },
+    {
+      "territorio": "Emilia-Romagna",
+      "anno_1995": 21134,
+      "anno_2000": 27021,
+      "anno_2005": 30266,
+      "anno_2010": 31189,
+      "anno_2012": 31538,
+      "anno_2021": 38154,
+      "anno_2022": 40739,
+      "anno_2023": 43346
+    },
+    {
+      "territorio": "Lazio",
+      "anno_1995": 19251,
+      "anno_2000": 24084,
+      "anno_2005": 29397,
+      "anno_2010": 29502,
+      "anno_2012": 29195,
+      "anno_2021": 35748,
+      "anno_2022": 39814,
+      "anno_2023": 41790
+    },
+    {
+      "territorio": "Veneto",
+      "anno_1995": 20046,
+      "anno_2000": 25169,
+      "anno_2005": 28754,
+      "anno_2010": 29304,
+      "anno_2012": 29531,
+      "anno_2021": 35011,
+      "anno_2022": 37979,
+      "anno_2023": 40639
+    },
+    {
+      "territorio": "Liguria",
+      "anno_1995": 16750,
+      "anno_2000": 21849,
+      "anno_2005": 25516,
+      "anno_2010": 26947,
+      "anno_2012": 27308,
+      "anno_2021": 32619,
+      "anno_2022": 35169,
+      "anno_2023": 37757
+    },
+    {
+      "territorio": "Toscana",
+      "anno_1995": 17930,
+      "anno_2000": 22862,
+      "anno_2005": 26381,
+      "anno_2010": 27814,
+      "anno_2012": 28100,
+      "anno_2021": 32505,
+      "anno_2022": 35611,
+      "anno_2023": 37682
+    },
+    {
+      "territorio": "Friuli-Venezia Giulia",
+      "anno_1995": 19026,
+      "anno_2000": 24045,
+      "anno_2005": 27690,
+      "anno_2010": 28864,
+      "anno_2012": 29106,
+      "anno_2021": 33781,
+      "anno_2022": 35742,
+      "anno_2023": 37672
+    },
+    {
+      "territorio": "Piemonte",
+      "anno_1995": 19025,
+      "anno_2000": 23701,
+      "anno_2005": 27357,
+      "anno_2010": 27824,
+      "anno_2012": 27942,
+      "anno_2021": 32257,
+      "anno_2022": 34486,
+      "anno_2023": 36707
+    },
+    {
+      "territorio": "Marche",
+      "anno_1995": 16863,
+      "anno_2000": 21278,
+      "anno_2005": 24829,
+      "anno_2010": 25924,
+      "anno_2012": 25601,
+      "anno_2021": 28955,
+      "anno_2022": 31190,
+      "anno_2023": 33216
+    },
+    {
+      "territorio": "Abruzzo",
+      "anno_1995": 14624,
+      "anno_2000": 18147,
+      "anno_2005": 20166,
+      "anno_2010": 21632,
+      "anno_2012": 22322,
+      "anno_2021": 26325,
+      "anno_2022": 28611,
+      "anno_2023": 31012
+    },
+    {
+      "territorio": "Umbria",
+      "anno_1995": 16584,
+      "anno_2000": 20715,
+      "anno_2005": 23265,
+      "anno_2010": 23686,
+      "anno_2012": 23316,
+      "anno_2021": 26738,
+      "anno_2022": 28796,
+      "anno_2023": 30531
+    },
+    {
+      "territorio": "Basilicata",
+      "anno_1995": 10991,
+      "anno_2000": 14449,
+      "anno_2005": 16547,
+      "anno_2010": 17631,
+      "anno_2012": 17964,
+      "anno_2021": 23852,
+      "anno_2022": 25892,
+      "anno_2023": 27538
+    },
+    {
+      "territorio": "Molise",
+      "anno_1995": 12618,
+      "anno_2000": 16159,
+      "anno_2005": 18893,
+      "anno_2010": 20001,
+      "anno_2012": 20034,
+      "anno_2021": 23355,
+      "anno_2022": 24969,
+      "anno_2023": 26721
+    },
+    {
+      "territorio": "Sardegna",
+      "anno_1995": 12150,
+      "anno_2000": 15420,
+      "anno_2005": 18380,
+      "anno_2010": 19575,
+      "anno_2012": 19722,
+      "anno_2021": 22463,
+      "anno_2022": 24533,
+      "anno_2023": 26316
+    },
+    {
+      "territorio": "Puglia",
+      "anno_1995": 11065,
+      "anno_2000": 14175,
+      "anno_2005": 16346,
+      "anno_2010": 17184,
+      "anno_2012": 17208,
+      "anno_2021": 20226,
+      "anno_2022": 21990,
+      "anno_2023": 23501
+    },
+    {
+      "territorio": "Campania",
+      "anno_1995": 10411,
+      "anno_2000": 13249,
+      "anno_2005": 15809,
+      "anno_2010": 16462,
+      "anno_2012": 16369,
+      "anno_2021": 19903,
+      "anno_2022": 21719,
+      "anno_2023": 23214
+    },
+    {
+      "territorio": "Sicilia",
+      "anno_1995": 10845,
+      "anno_2000": 13382,
+      "anno_2005": 16132,
+      "anno_2010": 16860,
+      "anno_2012": 16826,
+      "anno_2021": 19068,
+      "anno_2022": 21222,
+      "anno_2023": 22891
+    },
+    {
+      "territorio": "Calabria",
+      "anno_1995": 9947,
+      "anno_2000": 12771,
+      "anno_2005": 15516,
+      "anno_2010": 16578,
+      "anno_2012": 16575,
+      "anno_2021": 18333,
+      "anno_2022": 19612,
+      "anno_2023": 21050
+    },
+    {
+      "territorio": "Italia",
+      "anno_1995": 16750,
+      "anno_2000": 21044,
+      "anno_2005": 24509,
+      "anno_2010": 25658,
+      "anno_2012": 25729,
+      "anno_2021": 31158,
+      "anno_2022": 33840,
+      "anno_2023": 36077
+    }
+  ],
+  "meta": {
+    "title": "PIL pro capite delle regioni italiane - Free Download",
+    "description": "Serie storica del PIL pro capite delle regioni italiane (euro). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "PIL pro capite delle regioni italiane | ListBase",
+    "seo_description": "Download PIL pro capite delle regioni italiane — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani"
+    ]
+  }
+}

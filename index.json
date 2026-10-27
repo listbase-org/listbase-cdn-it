@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:45.612Z",
-  "total_datasets": 464,
-  "total_records": 137233,
+  "generated": "2026-10-27T02:12:48.128Z",
+  "total_datasets": 465,
+  "total_records": 137254,
   "categories": [
     {
       "id": "culture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -228,6 +228,36 @@
         "xlsx": {
           "name": "it-maggiori-aziende-fatturato-2022_IT.xlsx",
           "size": 7622
+        }
+      }
+    },
+    {
+      "id": "it-pil-pro-capite-regioni",
+      "name": "PIL pro capite delle regioni italiane",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "territorio",
+        "anno_1995",
+        "anno_2000",
+        "anno_2005",
+        "anno_2010",
+        "anno_2012",
+        "anno_2021",
+        "anno_2022",
+        "anno_2023"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Dati_macroeconomici_italiani",
+      "updated": "2026-10",
+      "size": 7256,
+      "files": {
+        "csv": {
+          "name": "it-pil-pro-capite-regioni_IT.csv",
+          "size": 1704
+        },
+        "xlsx": {
+          "name": "it-pil-pro-capite-regioni_IT.xlsx",
+          "size": 8138
         }
       }
     },
