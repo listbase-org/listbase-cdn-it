@@ -1,0 +1,568 @@
+{
+  "id": "it-presidenti-del-senato",
+  "name": "Presidenti del Senato italiano",
+  "title": "Presidenti del Senato italiano",
+  "description": "Presidenti del Senato del Regno e della Repubblica Italiana, con partito, mandato e legislatura.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_del_Senato_italiano",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_del_Senato_italiano",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "Ruggero Settimo (1778-1863)",
+      "partito": "–",
+      "inizio": "18 febbraio 1861",
+      "fine": "2 maggio 1863",
+      "legislatura": "VIII"
+    },
+    {
+      "n": 2,
+      "nome": "Federigo Sclopis di Salerano (1798-1878)",
+      "partito": "–",
+      "inizio": "24 maggio 1863",
+      "fine": "13 ottobre 1864",
+      "legislatura": "VIII"
+    },
+    {
+      "n": 3,
+      "nome": "Giuseppe Manno (1786-1868)",
+      "partito": "–",
+      "inizio": "13 ottobre 1864",
+      "fine": "7 settembre 1865",
+      "legislatura": "VIII"
+    },
+    {
+      "n": 4,
+      "nome": "Gabrio Casati (1798-1873)",
+      "partito": "–",
+      "inizio": "8 novembre 1865",
+      "fine": "13 febbraio 1867",
+      "legislatura": "IX"
+    },
+    {
+      "n": 4,
+      "nome": "Gabrio Casati (1798-1873)",
+      "partito": "–",
+      "inizio": "21 marzo 1867",
+      "fine": "2 novembre 1870",
+      "legislatura": "X"
+    },
+    {
+      "n": 5,
+      "nome": "Vincenzo Fardella di Torrearsa (1808-1889)",
+      "partito": "–",
+      "inizio": "1º dicembre 1870",
+      "fine": "20 settembre 1874",
+      "legislatura": "XI"
+    },
+    {
+      "n": 6,
+      "nome": "Luigi des Ambrois de Nevache (1807-1874)",
+      "partito": "–",
+      "inizio": "15 novembre 1874",
+      "fine": "3 dicembre 1874",
+      "legislatura": "XII"
+    },
+    {
+      "n": 7,
+      "nome": "Giuseppe Pasolini (1815-1876)",
+      "partito": "Destra storica",
+      "inizio": "28 febbraio 1876",
+      "fine": "3 ottobre 1876",
+      "legislatura": "XII"
+    },
+    {
+      "n": 8,
+      "nome": "Sebastiano Tecchio (1807-1886)",
+      "partito": "–",
+      "inizio": "14 novembre 1876",
+      "fine": "2 maggio 1880",
+      "legislatura": "XIII"
+    },
+    {
+      "n": 8,
+      "nome": "Sebastiano Tecchio (1807-1886)",
+      "partito": "–",
+      "inizio": "26 maggio 1880",
+      "fine": "2 ottobre 1882",
+      "legislatura": "XIV"
+    },
+    {
+      "n": 8,
+      "nome": "Sebastiano Tecchio (1807-1886)",
+      "partito": "–",
+      "inizio": "22 novembre 1882",
+      "fine": "27 luglio 1884",
+      "legislatura": "XV"
+    },
+    {
+      "n": 9,
+      "nome": "Giacomo Durando (1807-1894)",
+      "partito": "–",
+      "inizio": "23 novembre 1884",
+      "fine": "27 aprile 1886",
+      "legislatura": "XV"
+    },
+    {
+      "n": 9,
+      "nome": "Giacomo Durando (1807-1894)",
+      "partito": "–",
+      "inizio": "6 giugno 1886",
+      "fine": "4 settembre 1887",
+      "legislatura": "XVI"
+    },
+    {
+      "n": 10,
+      "nome": "Domenico Farini (1834-1900)",
+      "partito": "Destra storica",
+      "inizio": "13 novembre 1887",
+      "fine": "3 agosto 1890",
+      "legislatura": "XVI"
+    },
+    {
+      "n": 10,
+      "nome": "Domenico Farini (1834-1900)",
+      "partito": "Destra storica",
+      "inizio": "7 dicembre 1890",
+      "fine": "27 settembre 1892",
+      "legislatura": "XVII"
+    },
+    {
+      "n": 10,
+      "nome": "Domenico Farini (1834-1900)",
+      "partito": "Destra storica",
+      "inizio": "20 novembre 1892",
+      "fine": "13 gennaio 1895",
+      "legislatura": "XVIII"
+    },
+    {
+      "n": 10,
+      "nome": "Domenico Farini (1834-1900)",
+      "partito": "Destra storica",
+      "inizio": "2 giugno 1895",
+      "fine": "2 marzo 1897",
+      "legislatura": "XIX"
+    },
+    {
+      "n": 10,
+      "nome": "Domenico Farini (1834-1900)",
+      "partito": "Destra storica",
+      "inizio": "1º aprile 1897",
+      "fine": "15 luglio 1898",
+      "legislatura": "XX"
+    },
+    {
+      "n": 11,
+      "nome": "Giuseppe Saracco (1821-1907)",
+      "partito": "Sinistra storica",
+      "inizio": "10 novembre 1898",
+      "fine": "17 maggio 1900",
+      "legislatura": "XX"
+    },
+    {
+      "n": 11,
+      "nome": "Giuseppe Saracco (1821-1907)",
+      "partito": "Sinistra storica",
+      "inizio": "10 giugno 1900",
+      "fine": "18 ottobre 1904",
+      "legislatura": "XXI"
+    },
+    {
+      "n": 12,
+      "nome": "Tancredi Canonico (1828-1908)",
+      "partito": "Sinistra storica",
+      "inizio": "27 novembre 1904",
+      "fine": "20 marzo 1908",
+      "legislatura": "XXII"
+    },
+    {
+      "n": 13,
+      "nome": "Giuseppe Manfredi (1828-1918)",
+      "partito": "Destra storica Unione Liberale",
+      "inizio": "20 marzo 1908",
+      "fine": "8 febbraio 1909",
+      "legislatura": "XXII"
+    },
+    {
+      "n": 13,
+      "nome": "Giuseppe Manfredi (1828-1918)",
+      "partito": "Destra storica Unione Liberale",
+      "inizio": "21 marzo 1909",
+      "fine": "29 settembre 1913",
+      "legislatura": "XXIII"
+    },
+    {
+      "n": 13,
+      "nome": "Giuseppe Manfredi (1828-1918)",
+      "partito": "Destra storica Unione Liberale",
+      "inizio": "24 novembre 1913",
+      "fine": "6 novembre 1918",
+      "legislatura": "XXIV"
+    },
+    {
+      "n": 14,
+      "nome": "Adeodato Bonasi (1838-1920)",
+      "partito": "Unione Liberale",
+      "inizio": "18 novembre 1918",
+      "fine": "29 settembre 1919",
+      "legislatura": "XXIV"
+    },
+    {
+      "n": 15,
+      "nome": "Tommaso Tittoni (1855-1931)",
+      "partito": "Unione Liberale Partito Liberale Italiano",
+      "inizio": "4 dicembre 1919",
+      "fine": "7 aprile 1921",
+      "legislatura": "XXV"
+    },
+    {
+      "n": 15,
+      "nome": "Tommaso Tittoni (1855-1931)",
+      "partito": "Unione Liberale Partito Liberale Italiano",
+      "inizio": "14 giugno 1921",
+      "fine": "10 dicembre 1923",
+      "legislatura": "XXVI"
+    },
+    {
+      "n": 15,
+      "nome": "Tommaso Tittoni (1855-1931)",
+      "partito": "Unione Liberale Partito Liberale Italiano",
+      "inizio": "31 maggio 1924",
+      "fine": "21 gennaio 1929",
+      "legislatura": "XXVII"
+    },
+    {
+      "n": 16,
+      "nome": "Luigi Federzoni (1878-1967)",
+      "partito": "Partito Nazionale Fascista",
+      "inizio": "29 aprile 1929",
+      "fine": "19 gennaio 1934",
+      "legislatura": "XXVIII"
+    },
+    {
+      "n": 16,
+      "nome": "Luigi Federzoni (1878-1967)",
+      "partito": "Partito Nazionale Fascista",
+      "inizio": "24 aprile 1934",
+      "fine": "2 marzo 1939",
+      "legislatura": "XXIX"
+    },
+    {
+      "n": 17,
+      "nome": "Giacomo Suardo (1883-1947)",
+      "partito": "Partito Nazionale Fascista",
+      "inizio": "15 marzo 1939",
+      "fine": "28 luglio 1943",
+      "legislatura": "XXX"
+    },
+    {
+      "n": 18,
+      "nome": "Paolo Thaon di Revel (1857-1948)",
+      "partito": "Indipendente",
+      "inizio": "28 luglio 1943",
+      "fine": "5 agosto 1943",
+      "legislatura": "XXX"
+    },
+    {
+      "n": "Nº",
+      "nome": "Presidente",
+      "partito": "Partito",
+      "inizio": "Mandato",
+      "fine": "Mandato",
+      "legislatura": "Leg."
+    },
+    {
+      "n": "Nº",
+      "nome": "Presidente",
+      "partito": "Partito",
+      "inizio": "Inizio",
+      "fine": "Fine",
+      "legislatura": "Leg."
+    },
+    {
+      "n": 1,
+      "nome": "Paolo Thaon di Revel (1857-1948)",
+      "partito": "Indipendente",
+      "inizio": "6 agosto 1943",
+      "fine": "20 luglio 1944",
+      "legislatura": "—"
+    },
+    {
+      "n": 2,
+      "nome": "Pietro Tomasi della Torretta (1873-1962)",
+      "partito": "Indipendente",
+      "inizio": "20 luglio 1944",
+      "fine": "25 giugno 1946",
+      "legislatura": "—"
+    },
+    {
+      "n": 1,
+      "nome": "Ivanoe Bonomi (1873-1951)",
+      "partito": "Partito Socialista Democratico Italiano",
+      "inizio": "8 maggio 1948",
+      "fine": "20 aprile 1951",
+      "legislatura": "I ( 1948 )"
+    },
+    {
+      "n": 2,
+      "nome": "Enrico De Nicola (1877-1959)",
+      "partito": "Partito Liberale Italiano",
+      "inizio": "28 aprile 1951",
+      "fine": "24 giugno 1952",
+      "legislatura": "I ( 1948 )"
+    },
+    {
+      "n": 3,
+      "nome": "Giuseppe Paratore (1876-1967)",
+      "partito": "Partito Liberale Italiano",
+      "inizio": "26 giugno 1952",
+      "fine": "24 marzo 1953",
+      "legislatura": "I ( 1948 )"
+    },
+    {
+      "n": 4,
+      "nome": "Meuccio Ruini (1877-1970)",
+      "partito": "Indipendente",
+      "inizio": "25 marzo 1953",
+      "fine": "25 giugno 1953",
+      "legislatura": "I ( 1948 )"
+    },
+    {
+      "n": 5,
+      "nome": "Cesare Merzagora (1898-1991)",
+      "partito": "Indipendente",
+      "inizio": "25 giugno 1953",
+      "fine": "11 giugno 1958",
+      "legislatura": "II ( 1953 )"
+    },
+    {
+      "n": 5,
+      "nome": "Cesare Merzagora (1898-1991)",
+      "partito": "Indipendente",
+      "inizio": "12 giugno 1958",
+      "fine": "15 maggio 1963",
+      "legislatura": "III ( 1958 )"
+    },
+    {
+      "n": 5,
+      "nome": "Cesare Merzagora (1898-1991)",
+      "partito": "Indipendente",
+      "inizio": "16 maggio 1963",
+      "fine": "7 novembre 1967",
+      "legislatura": "IV ( 1963 )"
+    },
+    {
+      "n": 6,
+      "nome": "Ennio Zelioli-Lanzini (1899-1976)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "8 novembre 1967",
+      "fine": "4 giugno 1968",
+      "legislatura": "IV ( 1963 )"
+    },
+    {
+      "n": 7,
+      "nome": "Amintore Fanfani (1908-1999)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "5 giugno 1968",
+      "fine": "21 maggio 1972",
+      "legislatura": "V ( 1968 )"
+    },
+    {
+      "n": 7,
+      "nome": "Amintore Fanfani (1908-1999)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "24 maggio 1972",
+      "fine": "23 giugno 1973",
+      "legislatura": "VI ( 1972 )"
+    },
+    {
+      "n": 8,
+      "nome": "Giovanni Spagnolli (1907-1984)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "25 giugno 1973",
+      "fine": "4 luglio 1976",
+      "legislatura": "VI ( 1972 )"
+    },
+    {
+      "n": "(7)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "5 luglio 1976",
+      "fine": "18 giugno 1979",
+      "legislatura": "VII ( 1976 )"
+    },
+    {
+      "n": "(7)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "20 giugno 1979",
+      "fine": "1º dicembre 1982",
+      "legislatura": "VIII ( 1979 )"
+    },
+    {
+      "n": 9,
+      "nome": "Tommaso Morlino (1925-1983)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "9 dicembre 1982",
+      "fine": "6 maggio 1983",
+      "legislatura": "VIII ( 1979 )"
+    },
+    {
+      "n": 10,
+      "nome": "Vittorino Colombo (1925-1996)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "12 maggio 1983",
+      "fine": "11 luglio 1983",
+      "legislatura": "VIII ( 1979 )"
+    },
+    {
+      "n": 11,
+      "nome": "Francesco Cossiga (1928-2010)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "12 luglio 1983",
+      "fine": "24 giugno 1985",
+      "legislatura": "IX ( 1983 )"
+    },
+    {
+      "n": "(7)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "partito": "Democrazia Cristiana",
+      "inizio": "9 luglio 1985",
+      "fine": "17 aprile 1987",
+      "legislatura": "IX ( 1983 )"
+    },
+    {
+      "n": 12,
+      "nome": "Giovanni Malagodi (1904-1991)",
+      "partito": "Partito Liberale Italiano",
+      "inizio": "22 aprile 1987",
+      "fine": "1º luglio 1987",
+      "legislatura": "IX ( 1983 )"
+    },
+    {
+      "n": 13,
+      "nome": "Giovanni Spadolini (1925-1994)",
+      "partito": "Partito Repubblicano Italiano",
+      "inizio": "2 luglio 1987",
+      "fine": "22 aprile 1992",
+      "legislatura": "X ( 1987 )"
+    },
+    {
+      "n": 13,
+      "nome": "Giovanni Spadolini (1925-1994)",
+      "partito": "Partito Repubblicano Italiano",
+      "inizio": "24 aprile 1992",
+      "fine": "14 aprile 1994",
+      "legislatura": "XI ( 1992 )"
+    },
+    {
+      "n": 14,
+      "nome": "Carlo Scognamiglio (1944)",
+      "partito": "Unione di Centro",
+      "inizio": "16 aprile 1994",
+      "fine": "8 maggio 1996",
+      "legislatura": "XII ( 1994 )"
+    },
+    {
+      "n": 15,
+      "nome": "Nicola Mancino (1931)",
+      "partito": "Partito Popolare Italiano",
+      "inizio": "9 maggio 1996",
+      "fine": "29 maggio 2001",
+      "legislatura": "XIII ( 1996 )"
+    },
+    {
+      "n": 16,
+      "nome": "Marcello Pera (1943)",
+      "partito": "Forza Italia",
+      "inizio": "30 maggio 2001",
+      "fine": "27 aprile 2006",
+      "legislatura": "XIV ( 2001 )"
+    },
+    {
+      "n": 17,
+      "nome": "Franco Marini (1933-2021)",
+      "partito": "La Margherita Partito Democratico",
+      "inizio": "29 aprile 2006",
+      "fine": "28 aprile 2008",
+      "legislatura": "XV ( 2006 )"
+    },
+    {
+      "n": 18,
+      "nome": "Renato Schifani (1950)",
+      "partito": "Forza Italia Il Popolo della Libertà",
+      "inizio": "29 aprile 2008",
+      "fine": "14 marzo 2013",
+      "legislatura": "XVI ( 2008 )"
+    },
+    {
+      "n": 19,
+      "nome": "Pietro Grasso (1945)",
+      "partito": "Partito Democratico",
+      "inizio": "16 marzo 2013",
+      "fine": "22 marzo 2018",
+      "legislatura": "XVII ( 2013 )"
+    },
+    {
+      "n": 20,
+      "nome": "Maria Elisabetta Alberti Casellati (1946)",
+      "partito": "Forza Italia",
+      "inizio": "24 marzo 2018",
+      "fine": "12 ottobre 2022",
+      "legislatura": "XVIII ( 2018 )"
+    },
+    {
+      "n": 21,
+      "nome": "Ignazio La Russa (1947)",
+      "partito": "Fratelli d'Italia",
+      "inizio": "13 ottobre 2022",
+      "fine": "in carica",
+      "legislatura": "XIX ( 2022 )"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti del Senato italiano - Free Download",
+    "description": "Presidenti del Senato del Regno e della Repubblica Italiana, con partito, mandato e legislatura. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti del Senato italiano | ListBase",
+    "seo_description": "Download Presidenti del Senato italiano — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_del_Senato_italiano"
+    ]
+  }
+}

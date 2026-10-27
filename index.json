@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:01.364Z",
-  "total_datasets": 470,
-  "total_records": 137740,
+  "generated": "2026-10-27T02:13:03.970Z",
+  "total_datasets": 471,
+  "total_records": 137804,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -1322,6 +1322,33 @@
         "xlsx": {
           "name": "it-presidenti-del-consiglio_IT.xlsx",
           "size": 9893
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-del-senato",
+      "name": "Presidenti del Senato italiano",
+      "category": "politics",
+      "record_count": 64,
+      "columns": [
+        "n",
+        "nome",
+        "partito",
+        "inizio",
+        "fine",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_del_Senato_italiano",
+      "updated": "2026-10",
+      "size": 15045,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-del-senato_IT.csv",
+          "size": 6443
+        },
+        "xlsx": {
+          "name": "it-presidenti-del-senato_IT.xlsx",
+          "size": 10265
         }
       }
     },
