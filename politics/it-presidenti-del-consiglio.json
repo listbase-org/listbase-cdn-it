@@ -1,0 +1,600 @@
+{
+  "id": "it-presidenti-del-consiglio",
+  "name": "Presidenti del Consiglio dei ministri della Repubblica Italiana",
+  "title": "Presidenti del Consiglio dei ministri della Repubblica Italiana",
+  "description": "Elenco cronologico dei capi del governo della Repubblica Italiana dal 1946, con mandato, partito e governo.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "14 luglio 1946",
+      "fine": "2 febbraio 1947",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi II"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "2 febbraio 1947",
+      "fine": "1º giugno 1947",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi III"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "1º giugno 1947",
+      "fine": "24 maggio 1948",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi IV"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "24 maggio 1948",
+      "fine": "27 gennaio 1950",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi V"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "27 gennaio 1950",
+      "fine": "26 luglio 1951",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "26 luglio 1951",
+      "fine": "16 luglio 1953",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII"
+    },
+    {
+      "n": 1,
+      "nome": "Alcide De Gasperi (1881-1954)",
+      "inizio": "16 luglio 1953",
+      "fine": "17 agosto 1953",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII"
+    },
+    {
+      "n": 2,
+      "nome": "Giuseppe Pella (1902-1981)",
+      "inizio": "17 agosto 1953",
+      "fine": "19 gennaio 1954",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella"
+    },
+    {
+      "n": 3,
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "19 gennaio 1954",
+      "fine": "10 febbraio 1954",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I"
+    },
+    {
+      "n": 4,
+      "nome": "Mario Scelba (1901-1991)",
+      "inizio": "10 febbraio 1954",
+      "fine": "6 luglio 1955",
+      "partito": "Democrazia Cristiana",
+      "governo": "Scelba"
+    },
+    {
+      "n": 5,
+      "nome": "Antonio Segni (1891-1972)",
+      "inizio": "6 luglio 1955",
+      "fine": "20 maggio 1957",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni I"
+    },
+    {
+      "n": 6,
+      "nome": "Adone Zoli (1887-1960)",
+      "inizio": "20 maggio 1957",
+      "fine": "2 luglio 1958",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli"
+    },
+    {
+      "n": "(3)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "2 luglio 1958",
+      "fine": "16 febbraio 1959",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani II"
+    },
+    {
+      "n": "(5)",
+      "nome": "Antonio Segni (1891-1972)",
+      "inizio": "16 febbraio 1959",
+      "fine": "26 marzo 1960",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II"
+    },
+    {
+      "n": 7,
+      "nome": "Fernando Tambroni (1901-1963)",
+      "inizio": "26 marzo 1960",
+      "fine": "27 luglio 1960",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni"
+    },
+    {
+      "n": "(3)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "27 luglio 1960",
+      "fine": "22 febbraio 1962",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III"
+    },
+    {
+      "n": "(3)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "22 febbraio 1962",
+      "fine": "22 giugno 1963",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV"
+    },
+    {
+      "n": 8,
+      "nome": "Giovanni Leone (1908-2001)",
+      "inizio": "22 giugno 1963",
+      "fine": "5 dicembre 1963",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I"
+    },
+    {
+      "n": 9,
+      "nome": "Aldo Moro (1916-1978)",
+      "inizio": "5 dicembre 1963",
+      "fine": "23 luglio 1964",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro I"
+    },
+    {
+      "n": 9,
+      "nome": "Aldo Moro (1916-1978)",
+      "inizio": "23 luglio 1964",
+      "fine": "24 febbraio 1966",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro II"
+    },
+    {
+      "n": 9,
+      "nome": "Aldo Moro (1916-1978)",
+      "inizio": "24 febbraio 1966",
+      "fine": "25 giugno 1968",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro III"
+    },
+    {
+      "n": "(8)",
+      "nome": "Giovanni Leone (1908-2001)",
+      "inizio": "25 giugno 1968",
+      "fine": "13 dicembre 1968",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II"
+    },
+    {
+      "n": 10,
+      "nome": "Mariano Rumor (1915-1990)",
+      "inizio": "13 dicembre 1968",
+      "fine": "6 agosto 1969",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I"
+    },
+    {
+      "n": 10,
+      "nome": "Mariano Rumor (1915-1990)",
+      "inizio": "6 agosto 1969",
+      "fine": "28 marzo 1970",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II"
+    },
+    {
+      "n": 10,
+      "nome": "Mariano Rumor (1915-1990)",
+      "inizio": "28 marzo 1970",
+      "fine": "6 agosto 1970",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor III"
+    },
+    {
+      "n": 11,
+      "nome": "Emilio Colombo (1920-2013)",
+      "inizio": "6 agosto 1970",
+      "fine": "18 febbraio 1972",
+      "partito": "Democrazia Cristiana",
+      "governo": "Colombo"
+    },
+    {
+      "n": 12,
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "18 febbraio 1972",
+      "fine": "26 giugno 1972",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I"
+    },
+    {
+      "n": 12,
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "26 giugno 1972",
+      "fine": "8 luglio 1973",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II"
+    },
+    {
+      "n": "(10)",
+      "nome": "Mariano Rumor (1915-1990)",
+      "inizio": "8 luglio 1973",
+      "fine": "15 marzo 1974",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor IV"
+    },
+    {
+      "n": "(10)",
+      "nome": "Mariano Rumor (1915-1990)",
+      "inizio": "15 marzo 1974",
+      "fine": "23 novembre 1974",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor V"
+    },
+    {
+      "n": "(9)",
+      "nome": "Aldo Moro (1916-1978)",
+      "inizio": "23 novembre 1974",
+      "fine": "12 febbraio 1976",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro IV"
+    },
+    {
+      "n": "(9)",
+      "nome": "Aldo Moro (1916-1978)",
+      "inizio": "12 febbraio 1976",
+      "fine": "30 luglio 1976",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V"
+    },
+    {
+      "n": "(12)",
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "30 luglio 1976",
+      "fine": "13 marzo 1978",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III"
+    },
+    {
+      "n": "(12)",
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "13 marzo 1978",
+      "fine": "21 marzo 1979",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV"
+    },
+    {
+      "n": "(12)",
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "21 marzo 1979",
+      "fine": "5 agosto 1979",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti V"
+    },
+    {
+      "n": 13,
+      "nome": "Francesco Cossiga (1928-2010)",
+      "inizio": "5 agosto 1979",
+      "fine": "4 aprile 1980",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga I"
+    },
+    {
+      "n": 13,
+      "nome": "Francesco Cossiga (1928-2010)",
+      "inizio": "4 aprile 1980",
+      "fine": "18 ottobre 1980",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga II"
+    },
+    {
+      "n": 14,
+      "nome": "Arnaldo Forlani (1925-2023)",
+      "inizio": "18 ottobre 1980",
+      "fine": "28 giugno 1981",
+      "partito": "Democrazia Cristiana",
+      "governo": "Forlani"
+    },
+    {
+      "n": 15,
+      "nome": "Giovanni Spadolini (1925-1994)",
+      "inizio": "28 giugno 1981",
+      "fine": "23 agosto 1982",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Spadolini I"
+    },
+    {
+      "n": 15,
+      "nome": "Giovanni Spadolini (1925-1994)",
+      "inizio": "23 agosto 1982",
+      "fine": "1º dicembre 1982",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Spadolini II"
+    },
+    {
+      "n": "(3)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "1º dicembre 1982",
+      "fine": "4 agosto 1983",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani V"
+    },
+    {
+      "n": 16,
+      "nome": "Bettino Craxi (1934-2000)",
+      "inizio": "4 agosto 1983",
+      "fine": "1º agosto 1986",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Craxi I"
+    },
+    {
+      "n": 16,
+      "nome": "Bettino Craxi (1934-2000)",
+      "inizio": "1º agosto 1986",
+      "fine": "18 aprile 1987",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Craxi II"
+    },
+    {
+      "n": "(3)",
+      "nome": "Amintore Fanfani (1908-1999)",
+      "inizio": "18 aprile 1987",
+      "fine": "29 luglio 1987",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI"
+    },
+    {
+      "n": 17,
+      "nome": "Giovanni Goria (1943-1994)",
+      "inizio": "29 luglio 1987",
+      "fine": "13 aprile 1988",
+      "partito": "Democrazia Cristiana",
+      "governo": "Goria"
+    },
+    {
+      "n": 18,
+      "nome": "Ciriaco De Mita (1928-2022)",
+      "inizio": "13 aprile 1988",
+      "fine": "23 luglio 1989",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Mita"
+    },
+    {
+      "n": "(12)",
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "23 luglio 1989",
+      "fine": "13 aprile 1991",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VI"
+    },
+    {
+      "n": "(12)",
+      "nome": "Giulio Andreotti (1919-2013)",
+      "inizio": "13 aprile 1991",
+      "fine": "28 giugno 1992",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VII"
+    },
+    {
+      "n": 19,
+      "nome": "Giuliano Amato (1938)",
+      "inizio": "28 giugno 1992",
+      "fine": "29 aprile 1993",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Amato I"
+    },
+    {
+      "n": 20,
+      "nome": "Carlo Azeglio Ciampi (1920-2016)",
+      "inizio": "29 aprile 1993",
+      "fine": "11 maggio 1994",
+      "partito": "Indipendente",
+      "governo": "Ciampi"
+    },
+    {
+      "n": 21,
+      "nome": "Silvio Berlusconi (1936-2023)",
+      "inizio": "11 maggio 1994",
+      "fine": "17 gennaio 1995",
+      "partito": "Forza Italia",
+      "governo": "Berlusconi I"
+    },
+    {
+      "n": 22,
+      "nome": "Lamberto Dini (1931)",
+      "inizio": "17 gennaio 1995",
+      "fine": "18 maggio 1996",
+      "partito": "Indipendente",
+      "governo": "Dini"
+    },
+    {
+      "n": 23,
+      "nome": "Romano Prodi (1939)",
+      "inizio": "18 maggio 1996",
+      "fine": "21 ottobre 1998",
+      "partito": "Indipendente di centro-sinistra",
+      "governo": "Prodi I"
+    },
+    {
+      "n": 24,
+      "nome": "Massimo D'Alema (1949)",
+      "inizio": "21 ottobre 1998",
+      "fine": "22 dicembre 1999",
+      "partito": "Democratici di Sinistra",
+      "governo": "D'Alema I"
+    },
+    {
+      "n": 24,
+      "nome": "Massimo D'Alema (1949)",
+      "inizio": "22 dicembre 1999",
+      "fine": "26 aprile 2000",
+      "partito": "Democratici di Sinistra",
+      "governo": "D'Alema II"
+    },
+    {
+      "n": "(19)",
+      "nome": "Giuliano Amato (1938)",
+      "inizio": "26 aprile 2000",
+      "fine": "11 giugno 2001",
+      "partito": "Indipendente di centro-sinistra",
+      "governo": "Amato II"
+    },
+    {
+      "n": "(21)",
+      "nome": "Silvio Berlusconi (1936-2023)",
+      "inizio": "11 giugno 2001",
+      "fine": "23 aprile 2005",
+      "partito": "Forza Italia",
+      "governo": "Berlusconi II"
+    },
+    {
+      "n": "(21)",
+      "nome": "Silvio Berlusconi (1936-2023)",
+      "inizio": "23 aprile 2005",
+      "fine": "17 maggio 2006",
+      "partito": "Forza Italia",
+      "governo": "Berlusconi III"
+    },
+    {
+      "n": "(23)",
+      "nome": "Romano Prodi (1939)",
+      "inizio": "17 maggio 2006",
+      "fine": "8 maggio 2008",
+      "partito": "Indipendente di centro-sinistra",
+      "governo": "Prodi II"
+    },
+    {
+      "n": "(21)",
+      "nome": "Silvio Berlusconi (1936-2023)",
+      "inizio": "8 maggio 2008",
+      "fine": "16 novembre 2011",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV"
+    },
+    {
+      "n": 25,
+      "nome": "Mario Monti (1943)",
+      "inizio": "16 novembre 2011",
+      "fine": "28 aprile 2013",
+      "partito": "Indipendente",
+      "governo": "Monti"
+    },
+    {
+      "n": 26,
+      "nome": "Enrico Letta (1966)",
+      "inizio": "28 aprile 2013",
+      "fine": "22 febbraio 2014",
+      "partito": "Partito Democratico",
+      "governo": "Letta"
+    },
+    {
+      "n": 27,
+      "nome": "Matteo Renzi (1975)",
+      "inizio": "22 febbraio 2014",
+      "fine": "12 dicembre 2016",
+      "partito": "Partito Democratico",
+      "governo": "Renzi"
+    },
+    {
+      "n": 28,
+      "nome": "Paolo Gentiloni (1954)",
+      "inizio": "12 dicembre 2016",
+      "fine": "1º giugno 2018",
+      "partito": "Partito Democratico",
+      "governo": "Gentiloni"
+    },
+    {
+      "n": 29,
+      "nome": "Giuseppe Conte (1964)",
+      "inizio": "1º giugno 2018",
+      "fine": "5 settembre 2019",
+      "partito": "Indipendente di area M5S",
+      "governo": "Conte I"
+    },
+    {
+      "n": 29,
+      "nome": "Giuseppe Conte (1964)",
+      "inizio": "5 settembre 2019",
+      "fine": "13 febbraio 2021",
+      "partito": "Indipendente di area M5S",
+      "governo": "Conte II"
+    },
+    {
+      "n": 30,
+      "nome": "Mario Draghi (1947)",
+      "inizio": "13 febbraio 2021",
+      "fine": "22 ottobre 2022",
+      "partito": "Indipendente",
+      "governo": "Draghi"
+    },
+    {
+      "n": 31,
+      "nome": "Giorgia Meloni (1977)",
+      "inizio": "22 ottobre 2022",
+      "fine": "in carica",
+      "partito": "Fratelli d'Italia",
+      "governo": "Meloni"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti del Consiglio dei ministri della Repubblica Italiana - Free Download",
+    "description": "Elenco cronologico dei capi del governo della Repubblica Italiana dal 1946, con mandato, partito e governo. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti del Consiglio dei ministri della Repubblica Italiana | ListBase",
+    "seo_description": "Download Presidenti del Consiglio dei ministri della Repubblica Italiana — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana"
+    ]
+  }
+}

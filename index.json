@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:58.499Z",
-  "total_datasets": 469,
-  "total_records": 137672,
+  "generated": "2026-10-27T02:13:01.364Z",
+  "total_datasets": 470,
+  "total_records": 137740,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -1295,6 +1295,33 @@
         "xlsx": {
           "name": "it-elezioni-politiche-2022-camera_IT.xlsx",
           "size": 8228
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-del-consiglio",
+      "name": "Presidenti del Consiglio dei ministri della Repubblica Italiana",
+      "category": "politics",
+      "record_count": 68,
+      "columns": [
+        "n",
+        "nome",
+        "inizio",
+        "fine",
+        "partito",
+        "governo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 16185,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-del-consiglio_IT.csv",
+          "size": 7102
+        },
+        "xlsx": {
+          "name": "it-presidenti-del-consiglio_IT.xlsx",
+          "size": 9893
         }
       }
     },
