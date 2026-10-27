@@ -1,0 +1,345 @@
+{
+  "id": "it-sovrani-longobardi",
+  "name": "Sovrani longobardi",
+  "title": "Sovrani longobardi",
+  "description": "Re dei Longobardi con dinastia e periodo di regno.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Sovrani_longobardi",
+  "source_url": "https://it.wikipedia.org/wiki/Sovrani_longobardi",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "dinastia",
+      "label": "Dinastia",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Ibor e Aio",
+      "dinastia": "-",
+      "inizio": "IV secolo (?)",
+      "fine": "IV secolo (?)",
+      "note": "Sovrani mitici (come duces ); figli di Gambara"
+    },
+    {
+      "nome": "Agilmondo (... – ...)",
+      "dinastia": "Guginghi",
+      "inizio": "fine IV secolo -inizio V secolo",
+      "fine": "fine IV secolo -inizio V secolo",
+      "note": "Primo sovrano storico; indicato come figlio di Aio"
+    },
+    {
+      "nome": "Lamissone (... – ...)",
+      "dinastia": "-",
+      "inizio": "inizio V secolo",
+      "fine": "inizio V secolo",
+      "note": "-"
+    },
+    {
+      "nome": "Leti (... – ...)",
+      "dinastia": "Letingi",
+      "inizio": "V secolo",
+      "fine": "V secolo",
+      "note": "-"
+    },
+    {
+      "nome": "Ildeoc (... – ...)",
+      "dinastia": "Letingi",
+      "inizio": "seconda metà V secolo",
+      "fine": "seconda metà V secolo",
+      "note": "Figlio di Leti"
+    },
+    {
+      "nome": "Godeoc (... – post 488)",
+      "dinastia": "Letingi",
+      "inizio": "seconda metà V secolo",
+      "fine": "seconda metà V secolo",
+      "note": "-"
+    },
+    {
+      "nome": "Claffone (... – ante 500)",
+      "dinastia": "Letingi",
+      "inizio": "fine V secolo",
+      "fine": "fine V secolo",
+      "note": "Figlio di Godeoc"
+    },
+    {
+      "nome": "Tatone (... – post 510)",
+      "dinastia": "Letingi",
+      "inizio": 500,
+      "fine": 510,
+      "note": "Figlio di Claffone; fu deposto da Vacone"
+    },
+    {
+      "nome": "Vacone (... – 540 circa)",
+      "dinastia": "Letingi",
+      "inizio": 510,
+      "fine": 540,
+      "note": "Nipote di Tatone"
+    },
+    {
+      "nome": "Valtari (... – 547)",
+      "dinastia": "Letingi",
+      "inizio": 540,
+      "fine": 547,
+      "note": "Figlio di Vacone, regnò sotto la reggenza di Audoino"
+    },
+    {
+      "nome": "Audoino (... – 560 ca.)",
+      "dinastia": "Gausi",
+      "inizio": 547,
+      "fine": 560,
+      "note": "-"
+    },
+    {
+      "nome": "Alboino (530 ca. – 28 giugno 572)",
+      "dinastia": "Gausi",
+      "inizio": 560,
+      "fine": "estate-autunno 569",
+      "note": "Figlio di Audoino e Rodelinda"
+    },
+    {
+      "nome": "Alboino (530 ca. – 28 giugno 572)",
+      "dinastia": "Gausi",
+      "inizio": "estate-autunno 569",
+      "fine": "28 giugno 572",
+      "note": "Fu ucciso in una congiura ordita dalla moglie Rosmunda"
+    },
+    {
+      "nome": "Clefi (... – 574)",
+      "dinastia": "Beleos",
+      "inizio": "metà 572",
+      "fine": "inizio 574",
+      "note": "Fu sgozzato da una guardia del corpo"
+    },
+    {
+      "nome": "Autari (... – 5 settembre 590)",
+      "dinastia": "Beleos",
+      "inizio": 584,
+      "fine": "5 settembre 590",
+      "note": "Figlio di Clefi; fu il primo sovrano longobardo che si attribuì il titolo di Flavio ; fu avvelenato oppure morì di malattia"
+    },
+    {
+      "nome": "Agilulfo (... – 616)",
+      "dinastia": "Anawas",
+      "inizio": "maggio 591",
+      "fine": 616,
+      "note": "Duca di Torino"
+    },
+    {
+      "nome": "Adaloaldo (602/603 – 626)",
+      "dinastia": "Bavarese",
+      "inizio": 616,
+      "fine": 626,
+      "note": "Figlio di Agilulfo e Teodolinda; fu associato al trono nel 604 ; primo Re Cattolico ; forse fu avvelenato"
+    },
+    {
+      "nome": "Arioaldo (... – 636)",
+      "dinastia": "Caupu",
+      "inizio": "625 / 6",
+      "fine": 636,
+      "note": "Ariano , sposato con la figlia di Teodolinda, si rivoltò al cognato Adaloaldo"
+    },
+    {
+      "nome": "Rotari (636 ca. – 652)",
+      "dinastia": "Arodingi",
+      "inizio": 636,
+      "fine": 652,
+      "note": "Duca di Brescia , ariano"
+    },
+    {
+      "nome": "Rodoaldo (... – 653)",
+      "dinastia": "Arodingi",
+      "inizio": 652,
+      "fine": 653,
+      "note": "Figlio di Rotari e Gundeperga, ariano ; fu assassinato"
+    },
+    {
+      "nome": "Ariperto I (... – 661)",
+      "dinastia": "Bavarese",
+      "inizio": 653,
+      "fine": 661,
+      "note": "Cattolico , figlio del duca di Asti Gundoaldo , il fratello di Teodolinda; divise il regno tra i suoi due figli"
+    },
+    {
+      "nome": "Pertarito (645 ca. – 688)",
+      "dinastia": "Bavarese",
+      "inizio": 661,
+      "fine": 662,
+      "note": "Figlio di Ariperto; si insediò a Milano"
+    },
+    {
+      "nome": "Godeperto (645 ca. – 662)",
+      "dinastia": "Bavarese",
+      "inizio": 661,
+      "fine": 662,
+      "note": "Figlio di Ariperto; si insediò a Pavia"
+    },
+    {
+      "nome": "Grimoaldo (600 ca. – 671)",
+      "dinastia": "Gausi",
+      "inizio": 662,
+      "fine": 671,
+      "note": "Duca di Benevento , ariano , uccise Godeperto e occupò il trono, mentre Pertarito andò in esilio"
+    },
+    {
+      "nome": "Garibaldo (665 ca. – ...)",
+      "dinastia": "Gausi",
+      "inizio": 671,
+      "fine": 671,
+      "note": "Figlio di Grimoaldo e della sorella di Pertarito e Godeperto"
+    },
+    {
+      "nome": "Pertarito (645 ca. – 688)",
+      "dinastia": "Bavarese",
+      "inizio": 671,
+      "fine": 688,
+      "note": "Ritornato sul trono"
+    },
+    {
+      "nome": "Cuniperto (660 ca. – 700)",
+      "dinastia": "Bavarese",
+      "inizio": 688,
+      "fine": 700,
+      "note": "Figlio di Pertarito, che lo associò al trono nel 680"
+    },
+    {
+      "nome": "Liutperto (... – 702)",
+      "dinastia": "Bavarese",
+      "inizio": 700,
+      "fine": 701,
+      "note": "Figlio di Cuniperto; fu deposto da Ragimperto"
+    },
+    {
+      "nome": "Ragimperto (ante 662 – 701)",
+      "dinastia": "Bavarese",
+      "inizio": 701,
+      "fine": "fine 701",
+      "note": "Duca di Torino , figlio di Godeperto"
+    },
+    {
+      "nome": "Liutperto (... – 702)",
+      "dinastia": "Bavarese",
+      "inizio": 702,
+      "fine": 702,
+      "note": "Fu riportato sul trono dal suo tutore Ansprando e dal suo alleato Rotarit , poco dopo la morte di Ragimperto"
+    },
+    {
+      "nome": "Ariperto II (... – marzo 712)",
+      "dinastia": "Bavarese",
+      "inizio": 702,
+      "fine": "marzo 712",
+      "note": "Figlio di Ragimperto, che lo aveva associato al trono; fece uccidere il suo predecessore; morì mentre fuggiva, dopo essere stato sconfitto da Ansprando"
+    },
+    {
+      "nome": "Ansprando (657 ca. – luglio 712)",
+      "dinastia": "di Ansprando",
+      "inizio": "marzo 712",
+      "fine": "luglio 712",
+      "note": "Duca di Asti , già reggente e tutore di Liutperto"
+    },
+    {
+      "nome": "Liutprando (690 ca. – gennaio 744)",
+      "dinastia": "di Ansprando",
+      "inizio": "luglio 712",
+      "fine": "gennaio 744",
+      "note": "Figlio minore di Ansprando, che lo associò al trono"
+    },
+    {
+      "nome": "Ildebrando (... – post 744)",
+      "dinastia": "di Ansprando",
+      "inizio": "gennaio 744",
+      "fine": "agosto 744",
+      "note": "Figlio di Sigiprando , fratello di Liutprando; nel 737 fu associato al trono per iniziativa della nobiltà; fu deposto dai duchi"
+    },
+    {
+      "nome": "Rachis (... – post 757)",
+      "dinastia": "di Rachis e Astolfo",
+      "inizio": "agosto 744",
+      "fine": "luglio 749",
+      "note": "Duca del Friuli ; fu deposto dai duchi e si ritirò a Montecassino con i figli"
+    },
+    {
+      "nome": "Astolfo (... – dicembre 756)",
+      "dinastia": "di Rachis e Astolfo",
+      "inizio": "luglio 749",
+      "fine": "dicembre 756",
+      "note": "Fratello di Rachis"
+    },
+    {
+      "nome": "Rachis (... – post 757)",
+      "dinastia": "di Rachis e Astolfo",
+      "inizio": "dicembre 756",
+      "fine": "marzo 757",
+      "note": "Tentò di riprendere il trono dopo la morte di Astolfo, ma fu contrastato da Desiderio"
+    },
+    {
+      "nome": "Desiderio (... – post 774)",
+      "dinastia": "di Desiderio",
+      "inizio": "marzo 757",
+      "fine": "giugno 774",
+      "note": "Duca di Tuscia ; fu deposto da Carlo Magno"
+    },
+    {
+      "nome": "Adelchi (... – post 788)",
+      "dinastia": "di Desiderio",
+      "inizio": 759,
+      "fine": "giugno 774",
+      "note": "Associato al trono dal padre; fu deposto da Carlo Magno"
+    },
+    {
+      "nome": "Carlo (2 aprile 742 – 28 gennaio 814)",
+      "dinastia": "Carolingi",
+      "inizio": "giugno 774",
+      "fine": "28 gennaio 814",
+      "note": "Re dei franchi dal 768, conquistò il regno dei Longobardi nel 773- 774"
+    },
+    {
+      "nome": "Pipino (aprile 773 – 8 luglio 810)",
+      "dinastia": "Carolingi",
+      "inizio": "15 aprile 781",
+      "fine": "8 luglio 810",
+      "note": "Associato al trono dal padre"
+    },
+    {
+      "nome": "Bernardo (797 – 17 agosto 818)",
+      "dinastia": "Carolingi",
+      "inizio": "8 luglio 810",
+      "fine": "primavera 818",
+      "note": "Deposto dallo zio Ludovico il Pio a seguito dell' Ordinatio Imperii del luglio 817"
+    }
+  ],
+  "meta": {
+    "title": "Sovrani longobardi - Free Download",
+    "description": "Re dei Longobardi con dinastia e periodo di regno. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sovrani longobardi | ListBase",
+    "seo_description": "Download Sovrani longobardi — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Sovrani_longobardi"
+    ]
+  }
+}

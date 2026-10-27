@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:14.183Z",
-  "total_datasets": 475,
-  "total_records": 138192,
+  "generated": "2026-10-27T02:13:16.668Z",
+  "total_datasets": 476,
+  "total_records": 138234,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -1112,6 +1112,32 @@
         "xlsx": {
           "name": "it-papi_IT.xlsx",
           "size": 25264
+        }
+      }
+    },
+    {
+      "id": "it-sovrani-longobardi",
+      "name": "Sovrani longobardi",
+      "category": "history",
+      "record_count": 42,
+      "columns": [
+        "nome",
+        "dinastia",
+        "inizio",
+        "fine",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Sovrani_longobardi",
+      "updated": "2026-10",
+      "size": 10227,
+      "files": {
+        "csv": {
+          "name": "it-sovrani-longobardi_IT.csv",
+          "size": 5051
+        },
+        "xlsx": {
+          "name": "it-sovrani-longobardi_IT.xlsx",
+          "size": 9419
         }
       }
     },
