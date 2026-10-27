@@ -1,0 +1,191 @@
+{
+  "id": "it-patrimoni-immateriali-unesco",
+  "name": "Patrimoni immateriali UNESCO in Italia",
+  "title": "Patrimoni immateriali UNESCO in Italia",
+  "description": "Elementi italiani iscritti nella lista del patrimonio culturale immateriale dell'UNESCO.",
+  "category": "culture",
+  "source": "https://it.wikipedia.org/wiki/Lista_dei_patrimoni_immateriali_Unesco_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Lista_dei_patrimoni_immateriali_Unesco_in_Italia",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "voce",
+      "label": "Voce",
+      "type": "string"
+    },
+    {
+      "key": "descrizione",
+      "label": "Descrizione",
+      "type": "string"
+    },
+    {
+      "key": "anno_proclamazione",
+      "label": "Anno Proclamazione",
+      "type": "number"
+    },
+    {
+      "key": "anno_iscrizione",
+      "label": "Anno Iscrizione",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Sicilia",
+      "voce": "Opera dei pupi",
+      "descrizione": "L' opera dei pupi è una forma di teatro con marionette che fece la sua comparsa al principio del XIX secolo in Sicilia . Nelle sue rappresentazioni, saghe cavalleresche, poemi siciliani e storie della vita di santi e di briganti erano raccontate e parzialmente improvvisate dai pupari . Le due scuole principali dell'opera dei pupi, quelle di Catania e Palermo , si differenziano per le caratteristiche dei \"pupi\" così come per le tecniche per manovrarli e per gli scenarii. I metodi di rappresentazione si tramandavano solitamente di padre in figlio, mentre la realizzazione delle marionette era curata da artigiani specializzati.",
+      "anno_proclamazione": 2001,
+      "anno_iscrizione": 2008
+    },
+    {
+      "regione": "Sardegna",
+      "voce": "Canto a tenore",
+      "descrizione": "È uno stile di canto corale sardo di grande importanza nella tradizione locale",
+      "anno_proclamazione": 2005,
+      "anno_iscrizione": 2008
+    },
+    {
+      "regione": "Lombardia",
+      "voce": "Liuteria tradizionale cremonese",
+      "descrizione": "Cremona è nota per la sua produzione artigianale di viole , violini , violoncelli e contrabbassi . La città pullula di scuole specializzate e artigiani, ognuno dei quali costruisce dai 3 ai 6 strumenti all'anno.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2012
+    },
+    {
+      "regione": "",
+      "voce": "Feste delle grandi macchine a spalla",
+      "descrizione": "In Italia si tengono molte importanti processioni cattoliche, come quella di Nola in onore del ritorno di san Paolino ( Festa dei Gigli ), quella di Palmi in onore della Madonna della Lettera ( Varia di Palmi ), quella della Discesa dei Candelieri di Sassari e quella della Macchina di Santa Rosa a Viterbo .",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2013
+    },
+    {
+      "regione": "",
+      "voce": "Dieta mediterranea",
+      "descrizione": "La dieta mediterranea comprende le pratiche dei processi di semina, raccolto, pesca, allevamento, conservazione e preparazione dei cibi che sono comuni ai paesi del Mar Mediterraneo .",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2013
+    },
+    {
+      "regione": "Sicilia",
+      "voce": "Vite ad alberello di Pantelleria",
+      "descrizione": "L'isola di Pantelleria conta 5 000 abitanti che sussistono di un tipo di agricoltura sostenibile. La tecnica della vite ad alberello è costituita da più fasi: il suolo viene livellato e scavato per piantare la vigna, quindi il fusto principale viene potato per produrre sei tralci, formando così un cespuglio di forma radiale. Le vigne vengono poi raccolte a mano nel mese di luglio.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2014
+    },
+    {
+      "regione": "Campania",
+      "voce": "L'arte del pizzaiolo napoletano",
+      "descrizione": "La figura del pizzaiolo nasce a Napoli e si distingue in \"mastro pizzaiolo\", \"pizzaiolo\" e \"fornaio\". La sua arte prevede la preparazione dell'impasto della pizza e la sua cottura nel forno a legna.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2017
+    },
+    {
+      "regione": "",
+      "voce": "Arte dei muretti a secco , saperi e tecniche",
+      "descrizione": "I muretti a secco vengono costruiti posizionando una pietra sull'altra usando semplicemente terra arida. Il modo in cui le pietre vengono poste definisce la stabilità della struttura.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2018
+    },
+    {
+      "regione": "Abruzzo",
+      "voce": "Celebrazione della Perdonanza Celestiniana",
+      "descrizione": "La Perdonanza Celestiniana celebra la storica bolla papale emanata da Celestino V come atto di collaborazione tra le popolazioni locali e si tiene nella città dell' Aquila .",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2019
+    },
+    {
+      "regione": "",
+      "voce": "Alpinismo",
+      "descrizione": "L'alpinismo è la disciplina che prevede la scalata delle montagne.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2019
+    },
+    {
+      "regione": "",
+      "voce": "L'arte delle perle di vetro",
+      "descrizione": "La produzione delle perle in vetro prevede diverse tecniche. In Italia sono comuni le perle formate con una fiamma ossidrica e quelle realizzate sezionando, ammorbidendo e lucidando una canna cava, mentre in Francia il vetro caldo viene arrotondato per rotazione e gravità, oppure vengono formate delle perle cave soffiando con una canna o prodotte con un mandrino .",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2020
+    },
+    {
+      "regione": "",
+      "voce": "Arte musicale dei suonatori di corno, una tecnica strumentale legata al canto, al controllo del respiro, al vibrato, alla risonanza del luogo e alla convivialità",
+      "descrizione": "Il corno è uno strumento a 12 note che accompagna una melodia cantata assieme a una seconda voce.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2020
+    },
+    {
+      "regione": "",
+      "voce": "Falconeria , un retaggio umano vivente",
+      "descrizione": "La falconeria è l'arte dell'addestramento dei falchi . Viene praticata da oltre 4000 anni ed è stata documentata in numerose parti del mondo.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2021
+    },
+    {
+      "regione": "",
+      "voce": "Caccia ed estrazione del tartufo in Italia, saperi e pratiche tradizionali",
+      "descrizione": "La caccia e l'estrazione del tartufo sono una pratica molto antica che si attesta nelle aree rurali dell'Italia. La ricerca delle aree dove cresce il tartufo viene eseguita con l'aiuto di un cane addestrato. Una volta estratto con un'apposita pala, il tartufo viene mantenuto in un particolare microclima che ne preserva le caratteristiche.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2021
+    },
+    {
+      "regione": "",
+      "voce": "Tradizioni di allevamento del lipizzano",
+      "descrizione": "Originariamente il cavallo lipizzano veniva allevato per la famiglia degli Asburgo , ma successivamente è diventato popolare anche nelle aree rurali, in particolare durante le feste.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2022
+    },
+    {
+      "regione": "",
+      "voce": "Il suono manuale delle campane",
+      "descrizione": "La tradizione delle campane in Spagna comprende una grande varietà di suoni determinata dalle tecniche combinate con le abilità dei campanari, oltre che alle caratteristiche fisiche e alle proprietà acustiche delle campane, delle torri e dei campanili.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2022
+    },
+    {
+      "regione": "",
+      "voce": "Il canto lirico in Italia",
+      "descrizione": "Il canto lirico italiano è un tipo di canto fisiologicamente controllato ed è accompagnato da mimica facciale e gesti corporei. Viene eseguito negli auditorium, negli anfiteatri o nelle chiese.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2023
+    },
+    {
+      "regione": "",
+      "voce": "L' irrigazione tradizionale: conoscenze, tecniche e organizzazione",
+      "descrizione": "L'irrigazione tradizionale sfrutta la gravità e costruzioni fatte a mano come canali e fosse che aiutano a distribuire nei campi l'acqua proveniente dalle sorgenti.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2023
+    },
+    {
+      "regione": "",
+      "voce": "La transumanza",
+      "descrizione": "La transumanza è la pratica dei pastori di spostarsi con il loro bestiame tra diverse regioni geografiche o climatiche.",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2023
+    },
+    {
+      "regione": "",
+      "voce": "La cucina italiana",
+      "descrizione": "La cucina italiana è una «miscela culturale e sociale di tradizioni culinarie», «un modo per prendersi cura di se stessi e degli altri, esprimere amore e riscoprire le proprie radici culturali, offrendo alle comunità uno sbocco per condividere la loro storia e descrivere il mondo che li circonda».",
+      "anno_proclamazione": "",
+      "anno_iscrizione": 2025
+    }
+  ],
+  "meta": {
+    "title": "Patrimoni immateriali UNESCO in Italia - Free Download",
+    "description": "Elementi italiani iscritti nella lista del patrimonio culturale immateriale dell'UNESCO. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Patrimoni immateriali UNESCO in Italia | ListBase",
+    "seo_description": "Download Patrimoni immateriali UNESCO in Italia — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lista_dei_patrimoni_immateriali_Unesco_in_Italia"
+    ]
+  }
+}

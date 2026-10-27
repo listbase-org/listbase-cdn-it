@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:43.002Z",
-  "total_datasets": 463,
-  "total_records": 137213,
+  "generated": "2026-10-27T02:12:45.612Z",
+  "total_datasets": 464,
+  "total_records": 137233,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "economy",
@@ -111,6 +111,32 @@
         "xlsx": {
           "name": "it-musei_IT.xlsx",
           "size": 107273
+        }
+      }
+    },
+    {
+      "id": "it-patrimoni-immateriali-unesco",
+      "name": "Patrimoni immateriali UNESCO in Italia",
+      "category": "culture",
+      "record_count": 20,
+      "columns": [
+        "regione",
+        "voce",
+        "descrizione",
+        "anno_proclamazione",
+        "anno_iscrizione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lista_dei_patrimoni_immateriali_Unesco_in_Italia",
+      "updated": "2026-10",
+      "size": 9922,
+      "files": {
+        "csv": {
+          "name": "it-patrimoni-immateriali-unesco_IT.csv",
+          "size": 5873
+        },
+        "xlsx": {
+          "name": "it-patrimoni-immateriali-unesco_IT.xlsx",
+          "size": 9771
         }
       }
     },
