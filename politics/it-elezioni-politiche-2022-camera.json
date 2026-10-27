@@ -1,0 +1,336 @@
+{
+  "id": "it-elezioni-politiche-2022-camera",
+  "name": "Elezioni politiche 2022 — risultati Camera dei deputati",
+  "title": "Elezioni politiche 2022 — risultati Camera dei deputati",
+  "description": "Risultati per lista delle elezioni politiche italiane del 25 settembre 2022 alla Camera dei deputati.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Elezioni_politiche_in_Italia_del_2022",
+  "source_url": "https://it.wikipedia.org/wiki/Elezioni_politiche_in_Italia_del_2022",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "lista",
+      "label": "Lista",
+      "type": "string"
+    },
+    {
+      "key": "voti_proporzionale",
+      "label": "Voti Proporzionale",
+      "type": "number"
+    },
+    {
+      "key": "perc_proporzionale",
+      "label": "Perc Proporzionale",
+      "type": "number"
+    },
+    {
+      "key": "seggi_proporzionale",
+      "label": "Seggi Proporzionale",
+      "type": "number"
+    },
+    {
+      "key": "voti_maggioritario",
+      "label": "Voti Maggioritario",
+      "type": "number"
+    },
+    {
+      "key": "perc_maggioritario",
+      "label": "Perc Maggioritario",
+      "type": "number"
+    },
+    {
+      "key": "seggi_maggioritario",
+      "label": "Seggi Maggioritario",
+      "type": "number"
+    },
+    {
+      "key": "totale_seggi",
+      "label": "Totale Seggi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lista": "Fratelli d'Italia",
+      "voti_proporzionale": 7301303,
+      "perc_proporzionale": 25.98,
+      "seggi_proporzionale": 69,
+      "voti_maggioritario": 12305014,
+      "perc_maggioritario": 43.79,
+      "seggi_maggioritario": 121,
+      "totale_seggi": 235
+    },
+    {
+      "lista": "Lega per Salvini Premier",
+      "voti_proporzionale": 2470318,
+      "perc_proporzionale": 8.79,
+      "seggi_proporzionale": 23,
+      "voti_maggioritario": 12305014,
+      "perc_maggioritario": 43.79,
+      "seggi_maggioritario": 121,
+      "totale_seggi": 235
+    },
+    {
+      "lista": "Forza Italia",
+      "voti_proporzionale": 2279266,
+      "perc_proporzionale": 8.11,
+      "seggi_proporzionale": 22,
+      "voti_maggioritario": 12305014,
+      "perc_maggioritario": 43.79,
+      "seggi_maggioritario": 121,
+      "totale_seggi": 235
+    },
+    {
+      "lista": "Noi Moderati",
+      "voti_proporzionale": 254127,
+      "perc_proporzionale": 0.9,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 12305014,
+      "perc_maggioritario": 43.79,
+      "seggi_maggioritario": 121,
+      "totale_seggi": 235
+    },
+    {
+      "lista": "Partito Democratico - Italia Democratica e Progressista",
+      "voti_proporzionale": 5348676,
+      "perc_proporzionale": 19.04,
+      "seggi_proporzionale": 57,
+      "voti_maggioritario": 7340096,
+      "perc_maggioritario": 26.12,
+      "seggi_maggioritario": 12,
+      "totale_seggi": 80
+    },
+    {
+      "lista": "Alleanza Verdi e Sinistra",
+      "voti_proporzionale": 1021808,
+      "perc_proporzionale": 3.64,
+      "seggi_proporzionale": 11,
+      "voti_maggioritario": 7340096,
+      "perc_maggioritario": 26.12,
+      "seggi_maggioritario": 12,
+      "totale_seggi": 80
+    },
+    {
+      "lista": "+Europa",
+      "voti_proporzionale": 796057,
+      "perc_proporzionale": 2.83,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 7340096,
+      "perc_maggioritario": 26.12,
+      "seggi_maggioritario": 12,
+      "totale_seggi": 80
+    },
+    {
+      "lista": "Impegno Civico – Centro Democratico",
+      "voti_proporzionale": 173555,
+      "perc_proporzionale": 0.62,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 7340096,
+      "perc_maggioritario": 26.12,
+      "seggi_maggioritario": 12,
+      "totale_seggi": 80
+    },
+    {
+      "lista": "Movimento 5 Stelle",
+      "voti_proporzionale": 4335494,
+      "perc_proporzionale": 15.43,
+      "seggi_proporzionale": 41,
+      "voti_maggioritario": 4335494,
+      "perc_maggioritario": 15.43,
+      "seggi_maggioritario": 10,
+      "totale_seggi": 51
+    },
+    {
+      "lista": "Azione - Italia Viva",
+      "voti_proporzionale": 2186505,
+      "perc_proporzionale": 7.78,
+      "seggi_proporzionale": 21,
+      "voti_maggioritario": 2186505,
+      "perc_maggioritario": 7.78,
+      "seggi_maggioritario": "–",
+      "totale_seggi": 21
+    },
+    {
+      "lista": "Italexit",
+      "voti_proporzionale": 534950,
+      "perc_proporzionale": 1.9,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 534950,
+      "perc_maggioritario": 1.9,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Unione Popolare",
+      "voti_proporzionale": 403149,
+      "perc_proporzionale": 1.43,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 403149,
+      "perc_maggioritario": 1.43,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Italia Sovrana e Popolare",
+      "voti_proporzionale": 348831,
+      "perc_proporzionale": 1.24,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 348831,
+      "perc_maggioritario": 1.24,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Sud chiama Nord",
+      "voti_proporzionale": 212954,
+      "perc_proporzionale": 0.76,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 212954,
+      "perc_maggioritario": 0.76,
+      "seggi_maggioritario": 1,
+      "totale_seggi": 1
+    },
+    {
+      "lista": "Vita",
+      "voti_proporzionale": 201737,
+      "perc_proporzionale": 0.72,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 201737,
+      "perc_maggioritario": 0.72,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "SVP – PATT",
+      "voti_proporzionale": 117032,
+      "perc_proporzionale": 0.42,
+      "seggi_proporzionale": 1,
+      "voti_maggioritario": 117032,
+      "perc_maggioritario": 0.42,
+      "seggi_maggioritario": 2,
+      "totale_seggi": 3
+    },
+    {
+      "lista": "Noi di Centro – Europeisti",
+      "voti_proporzionale": 46230,
+      "perc_proporzionale": 0.16,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 46230,
+      "perc_maggioritario": 0.16,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Partito Comunista Italiano",
+      "voti_proporzionale": 24549,
+      "perc_proporzionale": 0.09,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 24549,
+      "perc_maggioritario": 0.09,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Partito Animalista – UCDL – 10 Volte Meglio",
+      "voti_proporzionale": 21451,
+      "perc_proporzionale": 0.08,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 21451,
+      "perc_maggioritario": 0.08,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Alternativa per l'Italia ( PdF - Exit)",
+      "voti_proporzionale": 17137,
+      "perc_proporzionale": 0.06,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 17137,
+      "perc_maggioritario": 0.06,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Partito della Follia Creativa",
+      "voti_proporzionale": 1419,
+      "perc_proporzionale": 0.01,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 1419,
+      "perc_maggioritario": 0.01,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Free",
+      "voti_proporzionale": 829,
+      "perc_proporzionale": 0,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 829,
+      "perc_maggioritario": 0,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Forza del Popolo",
+      "voti_proporzionale": 819,
+      "perc_proporzionale": 0,
+      "seggi_proporzionale": "–",
+      "voti_maggioritario": 819,
+      "perc_maggioritario": 0,
+      "seggi_maggioritario": "–",
+      "totale_seggi": "–"
+    },
+    {
+      "lista": "Totale",
+      "voti_proporzionale": 28098196,
+      "perc_proporzionale": 100,
+      "seggi_proporzionale": 245,
+      "voti_maggioritario": 28098196,
+      "perc_maggioritario": 100,
+      "seggi_maggioritario": 146,
+      "totale_seggi": 391
+    },
+    {
+      "lista": "Schede bianche",
+      "voti_proporzionale": 493282,
+      "perc_proporzionale": 1.68,
+      "seggi_proporzionale": "",
+      "voti_maggioritario": "",
+      "perc_maggioritario": "",
+      "seggi_maggioritario": "",
+      "totale_seggi": ""
+    },
+    {
+      "lista": "Schede nulle",
+      "voti_proporzionale": 822179,
+      "perc_proporzionale": 2.8,
+      "seggi_proporzionale": "",
+      "voti_maggioritario": "",
+      "perc_maggioritario": "",
+      "seggi_maggioritario": "",
+      "totale_seggi": ""
+    },
+    {
+      "lista": "Votanti",
+      "voti_proporzionale": 29413657,
+      "perc_proporzionale": 63.91,
+      "seggi_proporzionale": "",
+      "voti_maggioritario": "",
+      "perc_maggioritario": "",
+      "seggi_maggioritario": "",
+      "totale_seggi": ""
+    }
+  ],
+  "meta": {
+    "title": "Elezioni politiche 2022 — risultati Camera dei deputati - Free Download",
+    "description": "Risultati per lista delle elezioni politiche italiane del 25 settembre 2022 alla Camera dei deputati. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Elezioni politiche 2022 — risultati Camera dei deputati | ListBase",
+    "seo_description": "Download Elezioni politiche 2022 — risultati Camera dei deputati — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Elezioni_politiche_in_Italia_del_2022"
+    ]
+  }
+}

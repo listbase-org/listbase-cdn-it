@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:12:10.848Z",
-  "total_datasets": 451,
-  "total_records": 135838,
+  "generated": "2026-10-27T02:12:13.446Z",
+  "total_datasets": 452,
+  "total_records": 135865,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "music",
       "dataset_count": 3
+    },
+    {
+      "id": "politics",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -849,6 +853,35 @@
         "xlsx": {
           "name": "it-conservatori-di-musica_IT.xlsx",
           "size": 9671
+        }
+      }
+    },
+    {
+      "id": "it-elezioni-politiche-2022-camera",
+      "name": "Elezioni politiche 2022 — risultati Camera dei deputati",
+      "category": "politics",
+      "record_count": 27,
+      "columns": [
+        "lista",
+        "voti_proporzionale",
+        "perc_proporzionale",
+        "seggi_proporzionale",
+        "voti_maggioritario",
+        "perc_maggioritario",
+        "seggi_maggioritario",
+        "totale_seggi"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Elezioni_politiche_in_Italia_del_2022",
+      "updated": "2026-10",
+      "size": 9910,
+      "files": {
+        "csv": {
+          "name": "it-elezioni-politiche-2022-camera_IT.csv",
+          "size": 2030
+        },
+        "xlsx": {
+          "name": "it-elezioni-politiche-2022-camera_IT.xlsx",
+          "size": 8228
         }
       }
     },
