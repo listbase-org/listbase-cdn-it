@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:38.743Z",
-  "total_datasets": 479,
-  "total_records": 138332,
+  "generated": "2026-10-28T02:14:41.147Z",
+  "total_datasets": 480,
+  "total_records": 138489,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -584,6 +584,30 @@
         "xlsx": {
           "name": "it-centrali-nucleari_IT.xlsx",
           "size": 7284
+        }
+      }
+    },
+    {
+      "id": "it-parchi-regionali",
+      "name": "Parchi regionali d'Italia",
+      "category": "environment",
+      "record_count": 157,
+      "columns": [
+        "name",
+        "region",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Parchi_regionali_d'Italia",
+      "updated": "2026-10",
+      "size": 19696,
+      "files": {
+        "csv": {
+          "name": "it-parchi-regionali_IT.csv",
+          "size": 9137
+        },
+        "xlsx": {
+          "name": "it-parchi-regionali_IT.xlsx",
+          "size": 11125
         }
       }
     },

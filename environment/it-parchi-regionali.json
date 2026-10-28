@@ -1,0 +1,826 @@
+{
+  "id": "it-parchi-regionali",
+  "name": "Parchi regionali d'Italia",
+  "title": "Parchi regionali d'Italia",
+  "description": "Elenco dei parchi naturali regionali italiani suddivisi per regione.",
+  "category": "environment",
+  "source": "https://it.wikipedia.org/wiki/Parchi_regionali_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Parchi_regionali_d'Italia",
+  "updated": "2026-10",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Parco naturale regionale Sirente-Velino",
+      "region": "Abruzzo",
+      "note": ""
+    },
+    {
+      "name": "Parco della Murgia Materana",
+      "region": "Basilicata",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale di Gallipoli Cognato Piccole Dolomiti Lucane",
+      "region": "Basilicata",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale del Vulture",
+      "region": "Basilicata",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale regionale Serre",
+      "region": "Calabria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Diecimare",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Bacino Idrografico del fiume Sarno",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Campi Flegrei",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Monti Lattari",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Partenio",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Taburno - Camposauro",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale di Roccamonfina-Foce Garigliano",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Monti Picentini",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco fluviale regionale del Taro",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale dei Boschi di Carrega",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale del Sasso Simone e Simoncello",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Gessi Bolognesi e Calanchi dell'Abbadessa",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei laghi Suviana e Brasimone",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Sassi di Roccamalatina",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dell'Alto Appennino Modenese",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dell'Abbazia di Monteveglio",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale della Vena del Gesso Romagnola",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Corno alle Scale",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Delta del Po dell'Emilia-Romagna",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale delle Valli del Cedra e del Parma",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dello Stirone e del Piacenziano",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale storico di Monte Sole",
+      "region": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale delle Dolomiti Friulane",
+      "region": "Friuli-Venezia Giulia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale delle Prealpi Giulie",
+      "region": "Friuli-Venezia Giulia",
+      "note": ""
+    },
+    {
+      "name": "Parco dell'antichissima città di Sutri",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale-archeologico dell'Inviolata",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dei Monti Aurunci",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Bracciano-Martignano",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale monti Ausoni e lago di Fondi",
+      "region": "Lazio",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale regionale Monti Simbruini",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dell'Appia antica",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Castelli Romani",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale naturale dei Monti Lucretili",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale di Gianola e Monte di Scauri",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale di Veio",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Marturanum",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Riviera di Ulisse",
+      "region": "Lazio",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco regionale urbano Monte Orlando",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale urbano del Pineto",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Valle del Treja",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale dell'Antola",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale dell'Aveto",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale delle Alpi Liguri",
+      "region": "Liguria",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale regionale del Beigua",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Bric Tana",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Montemarcello-Magra-Vara",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Piana Crixia",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Portofino",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Porto Venere",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Parco agricolo Sud Milano",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco dei Colli di Bergamo",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco dell'Adda Nord",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco dell'Adda Sud",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco dell'Oglio Nord",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco dell'Oglio Sud",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco del Bernina, del Disgrazia, della Val Masino e della Val Codera",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco del Livignese",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco del Monte Netto",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco del Serio",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco della Pineta di Appiano Gentile e Tradate",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco delle Groane",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco delle Orobie Bergamasche",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco delle Orobie Valtellinesi",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale Bosco delle Querce",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Monte Barro",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale lombardo della Valle del Ticino",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco Nord Milano",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco Spina Verde di Como",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale Campo dei Fiori",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dell'Adamello",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dell'Alto Garda Bresciano",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale della Grigna Settentrionale",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco regionale della Valle del Lambro",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Mincio",
+      "region": "Lombardia",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco regionale di Montevecchia e della Valle del Curone",
+      "region": "Lombardia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale della Gola della Rossa e di Frasassi",
+      "region": "Marche",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale del Monte San Bartolo",
+      "region": "Marche",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale del Sasso Simone e Simoncello",
+      "region": "Marche",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale del Conero",
+      "region": "Marche",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale agricolo storico dell'olivo di Venafro",
+      "region": "Molise",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco fluviale Gesso e Stura",
+      "region": "Piemonte",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale dei laghi di Avigliana",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dei Lagoni di Mercurago",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dell'Alpe Veglia e dell'Alpe Devero",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dell'Alta Val Sesia e dell'Alta Val Strona",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dell'Alta Valle Antrona",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale della Collina di Superga",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale della Valle del Ticino",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale della Val Troncea",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale delle Alpi Marittime",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale delle Capanne di Marcarolo",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale delle Lame del Sesia",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Bosco delle Sorti della Partecipanza di Trino",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Colle del Lys",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Gran Bosco di Salbertrand",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Lago di Candia",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Marguareis",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Monte Fenera",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Monte San Giorgio",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Monte Tre Denti - Freidour",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Sacro Monte di Crea",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale di Conca Cialancia",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale di Rocchetta Tanaro",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale di Stupinigi",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale La Mandria",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Orsiera-Rocciavrè",
+      "region": "Piemonte",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Bosco e Paludi di Rauccio",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Bosco Incoronata",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Costa Otranto-Santa Maria di Leuca e Bosco di Tricase",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Fiume Ofanto",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Isola di Sant'Andrea e litorale di Punta Pizzo",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Lama Balice",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Litorale di Ugento",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Porto Selvaggio e Palude del Capitano",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Salina di Punta della Contessa",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Terra delle Gravine",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale di Porto Conte",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale Molentargius-Saline",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Parco fluviale dell'Alcantara",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Parco dei Nebrodi",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Parco dell'Etna",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Parco delle Madonie",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Parco dei Monti Sicani",
+      "region": "Sicilia",
+      "note": "istituito nel 2014 e soppresso nel 2019, non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco interprovinciale di Montioni",
+      "region": "Toscana",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale della Maremma",
+      "region": "Toscana",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale di Migliarino, San Rossore, Massaciuccoli",
+      "region": "Toscana",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale delle Alpi Apuane",
+      "region": "Toscana",
+      "note": ""
+    },
+    {
+      "name": "Parco provinciale dei Monti Livornesi",
+      "region": "Toscana",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale dello Sciliar-Catinaccio",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Gruppo di Tessa",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Puez-Odle",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Fanes - Sennes - Braies",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Monte Corno",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Tre Cime",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Vedrette di Ries-Aurina",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Adamello Brenta",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale Paneveggio - Pale di San Martino",
+      "region": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "name": "Parco fluviale del Nera",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco fluviale del Tevere",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco di Colfiorito",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco del Lago Trasimeno",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco del Monte Cucco",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco del Monte Subasio",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco del Monte Peglia e della Selva di Meana",
+      "region": "Umbria",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale del Mont Avic",
+      "region": "Valle d'Aosta",
+      "note": ""
+    },
+    {
+      "name": "Parco Civiltà delle Rogge",
+      "region": "Veneto",
+      "note": "non incluso nell'EUAP"
+    },
+    {
+      "name": "Parco naturale regionale del Fiume Sile",
+      "region": "Veneto",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale della Lessinia",
+      "region": "Veneto",
+      "note": ""
+    },
+    {
+      "name": "Parco naturale regionale delle Dolomiti d'Ampezzo",
+      "region": "Veneto",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale dei Colli Euganei",
+      "region": "Veneto",
+      "note": ""
+    },
+    {
+      "name": "Parco regionale veneto del Delta del Po",
+      "region": "Veneto",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Parchi regionali d'Italia - Free Download",
+    "description": "Elenco dei parchi naturali regionali italiani suddivisi per regione. Contains 157 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parchi regionali d'Italia | ListBase",
+    "seo_description": "Download Parchi regionali d'Italia — 157 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 157 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Parchi_regionali_d'Italia"
+    ]
+  }
+}
