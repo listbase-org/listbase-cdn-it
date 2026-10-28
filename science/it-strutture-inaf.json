@@ -1,0 +1,120 @@
+{
+  "id": "it-strutture-inaf",
+  "name": "Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF)",
+  "title": "Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF)",
+  "description": "Elenco delle strutture di ricerca dell'INAF: osservatori astronomici, istituti e radiotelescopi.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Istituto_nazionale_di_astrofisica",
+  "source_url": "https://it.wikipedia.org/wiki/Istituto_nazionale_di_astrofisica",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location_note",
+      "label": "Location Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Osservatorio di Astrofisica e Scienza dello Spazio di Bologna",
+      "location_note": ""
+    },
+    {
+      "name": "Istituto di radioastronomia di Bologna",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico di Cagliari",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astrofisico di Catania",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astrofisico di Arcetri",
+      "location_note": "Firenze"
+    },
+    {
+      "name": "Osservatorio astronomico di Brera",
+      "location_note": "Milano"
+    },
+    {
+      "name": "Istituto di astrofisica spaziale e fisica cosmica di Milano",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico di Capodimonte",
+      "location_note": "Napoli"
+    },
+    {
+      "name": "Osservatorio astronomico di Padova",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico di Palermo",
+      "location_note": ""
+    },
+    {
+      "name": "Istituto di astrofisica spaziale e fisica cosmica di Palermo",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico di Roma",
+      "location_note": ""
+    },
+    {
+      "name": "Istituto di Astrofisica e Planetologia Spaziali di Roma",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico d'Abruzzo",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astrofisico di Torino",
+      "location_note": ""
+    },
+    {
+      "name": "Osservatorio astronomico di Trieste",
+      "location_note": ""
+    },
+    {
+      "name": "Stazione osservativa di Cima Ekar",
+      "location_note": "Asiago"
+    },
+    {
+      "name": "Stazione radioastronomica di Medicina",
+      "location_note": "Bologna"
+    },
+    {
+      "name": "Radiotelescopio di Noto",
+      "location_note": "Libero consorzio comunale di Siracusa"
+    },
+    {
+      "name": "Sardinia Radio Telescope, San Basilio",
+      "location_note": "Sardegna"
+    },
+    {
+      "name": "Telescopio nazionale Galileo",
+      "location_note": "Isole Canarie , Spagna"
+    }
+  ],
+  "meta": {
+    "title": "Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF) - Free Download",
+    "description": "Elenco delle strutture di ricerca dell'INAF: osservatori astronomici, istituti e radiotelescopi. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF) | ListBase",
+    "seo_description": "Download Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Istituto_nazionale_di_astrofisica"
+    ]
+  }
+}

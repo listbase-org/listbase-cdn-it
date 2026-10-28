@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:46.215Z",
-  "total_datasets": 482,
-  "total_records": 138548,
+  "generated": "2026-10-28T02:14:48.823Z",
+  "total_datasets": 483,
+  "total_records": 138569,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -14908,6 +14908,29 @@
         "xlsx": {
           "name": "it-viterbo-unlocode_IT.xlsx",
           "size": 10831
+        }
+      }
+    },
+    {
+      "id": "it-strutture-inaf",
+      "name": "Osservatori e istituti dell'Istituto nazionale di astrofisica (INAF)",
+      "category": "science",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "location_note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Istituto_nazionale_di_astrofisica",
+      "updated": "2026-10",
+      "size": 3649,
+      "files": {
+        "csv": {
+          "name": "it-strutture-inaf_IT.csv",
+          "size": 1063
+        },
+        "xlsx": {
+          "name": "it-strutture-inaf_IT.xlsx",
+          "size": 7304
         }
       }
     },
