@@ -1,0 +1,244 @@
+{
+  "id": "it-accademie-di-belle-arti",
+  "name": "Accademie di belle arti in Italia",
+  "title": "Accademie di belle arti in Italia",
+  "description": "Elenco delle accademie di belle arti italiane, statali e private legalmente riconosciute, con regione.",
+  "category": "education",
+  "source": "https://it.wikipedia.org/wiki/Accademia_di_belle_arti",
+  "source_url": "https://it.wikipedia.org/wiki/Accademia_di_belle_arti",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Accademia di belle arti di Bari",
+      "city": "",
+      "region": "Puglia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia Carrara",
+      "city": "Bergamo",
+      "region": "Lombardia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Bologna",
+      "city": "",
+      "region": "Emilia-Romagna",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Carrara",
+      "city": "",
+      "region": "Toscana",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Catania",
+      "city": "",
+      "region": "Sicilia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Catanzaro",
+      "city": "",
+      "region": "Calabria",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Firenze",
+      "city": "",
+      "region": "Toscana",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Foggia",
+      "city": "",
+      "region": "Puglia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Frosinone",
+      "city": "",
+      "region": "Lazio",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti dell'Aquila",
+      "city": "",
+      "region": "Abruzzo",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Lecce",
+      "city": "",
+      "region": "Puglia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Macerata",
+      "city": "",
+      "region": "Marche",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Brera",
+      "city": "Milano",
+      "region": "Lombardia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Napoli",
+      "city": "",
+      "region": "Campania",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Palermo",
+      "city": "",
+      "region": "Sicilia",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Parma",
+      "city": "",
+      "region": "Emilia-Romagna",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Reggio Calabria",
+      "city": "",
+      "region": "Calabria",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Roma",
+      "city": "",
+      "region": "Lazio",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Sassari",
+      "city": "",
+      "region": "Sardegna",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia Albertina",
+      "city": "Torino",
+      "region": "Piemonte",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Urbino",
+      "city": "",
+      "region": "Marche",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Venezia",
+      "city": "",
+      "region": "Veneto",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti Gian Bettino Cignaroli",
+      "city": "Verona",
+      "region": "Veneto",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti Pietro Vannucci",
+      "city": "Perugia",
+      "region": "Umbria",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia di belle arti di Ravenna",
+      "city": "",
+      "region": "Emilia-Romagna",
+      "type": "statale"
+    },
+    {
+      "name": "Accademia ligustica di belle arti",
+      "city": "Genova",
+      "region": "Liguria",
+      "type": "statale"
+    },
+    {
+      "name": "Libera accademia di belle arti (LABA)",
+      "city": "",
+      "region": "",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "Accademia di belle arti di Cuneo",
+      "city": "",
+      "region": "Piemonte",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "Accademia di belle arti europea dei media di Milano e Novara",
+      "city": "",
+      "region": "Lombardia e Piemonte",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "Nuova accademia di belle arti (NABA) di Milano e Roma",
+      "city": "",
+      "region": "Lombardia e Lazio",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "Accademia di belle arti Rosario Gagliardi di Siracusa",
+      "city": "",
+      "region": "Sicilia",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "RUFA - Rome University of Fine Arts",
+      "city": "",
+      "region": "",
+      "type": "privata legalmente riconosciuta"
+    },
+    {
+      "name": "Trentino Art Academy",
+      "city": "",
+      "region": "Prov. Autonoma di Trento",
+      "type": "privata legalmente riconosciuta"
+    }
+  ],
+  "meta": {
+    "title": "Accademie di belle arti in Italia - Free Download",
+    "description": "Elenco delle accademie di belle arti italiane, statali e private legalmente riconosciute, con regione. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Accademie di belle arti in Italia | ListBase",
+    "seo_description": "Download Accademie di belle arti in Italia — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Accademia_di_belle_arti"
+    ]
+  }
+}

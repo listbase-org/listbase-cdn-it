@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:43.693Z",
-  "total_datasets": 481,
-  "total_records": 138515,
+  "generated": "2026-10-28T02:14:46.215Z",
+  "total_datasets": 482,
+  "total_records": 138548,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "entertainment",
@@ -377,6 +377,31 @@
         "xlsx": {
           "name": "it-pil-regionale_IT.xlsx",
           "size": 8415
+        }
+      }
+    },
+    {
+      "id": "it-accademie-di-belle-arti",
+      "name": "Accademie di belle arti in Italia",
+      "category": "education",
+      "record_count": 33,
+      "columns": [
+        "name",
+        "city",
+        "region",
+        "type"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Accademia_di_belle_arti",
+      "updated": "2026-10",
+      "size": 6212,
+      "files": {
+        "csv": {
+          "name": "it-accademie-di-belle-arti_IT.csv",
+          "size": 2298
+        },
+        "xlsx": {
+          "name": "it-accademie-di-belle-arti_IT.xlsx",
+          "size": 7834
         }
       }
     },
