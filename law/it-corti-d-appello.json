@@ -1,0 +1,171 @@
+{
+  "id": "it-corti-d-appello",
+  "name": "Corti d'appello in Italia",
+  "title": "Corti d'appello in Italia",
+  "description": "Elenco dei 26 distretti di corte d'appello italiani con le sezioni distaccate.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Corte_d'appello_(Italia)",
+  "source_url": "https://it.wikipedia.org/wiki/Corte_d'appello_(Italia)",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "seat",
+      "label": "Seat",
+      "type": "string"
+    },
+    {
+      "key": "detached_section",
+      "label": "Detached Section",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Corte d'appello di Ancona",
+      "seat": "Ancona",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Bari",
+      "seat": "Bari",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Bologna",
+      "seat": "Bologna",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Brescia",
+      "seat": "Brescia",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Cagliari",
+      "seat": "Cagliari",
+      "detached_section": "Sassari"
+    },
+    {
+      "name": "Corte d'appello di Caltanissetta",
+      "seat": "Caltanissetta",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Campobasso",
+      "seat": "Campobasso",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Catania",
+      "seat": "Catania",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Catanzaro",
+      "seat": "Catanzaro",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Firenze",
+      "seat": "Firenze",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Genova",
+      "seat": "Genova",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello dell'Aquila",
+      "seat": "Aquila",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Lecce",
+      "seat": "Lecce",
+      "detached_section": "Taranto"
+    },
+    {
+      "name": "Corte d'appello di Messina",
+      "seat": "Messina",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Milano",
+      "seat": "Milano",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Napoli",
+      "seat": "Napoli",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Palermo",
+      "seat": "Palermo",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Perugia",
+      "seat": "Perugia",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Potenza",
+      "seat": "Potenza",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Reggio Calabria",
+      "seat": "Reggio Calabria",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Roma",
+      "seat": "Roma",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Salerno",
+      "seat": "Salerno",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Torino",
+      "seat": "Torino",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Trento",
+      "seat": "Trento",
+      "detached_section": "Bolzano"
+    },
+    {
+      "name": "Corte d'appello di Trieste",
+      "seat": "Trieste",
+      "detached_section": ""
+    },
+    {
+      "name": "Corte d'appello di Venezia",
+      "seat": "Venezia",
+      "detached_section": ""
+    }
+  ],
+  "meta": {
+    "title": "Corti d'appello in Italia - Free Download",
+    "description": "Elenco dei 26 distretti di corte d'appello italiani con le sezioni distaccate. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Corti d'appello in Italia | ListBase",
+    "seo_description": "Download Corti d'appello in Italia — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Corte_d'appello_(Italia)"
+    ]
+  }
+}

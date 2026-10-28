@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:41.147Z",
-  "total_datasets": 480,
-  "total_records": 138489,
+  "generated": "2026-10-28T02:14:43.693Z",
+  "total_datasets": 481,
+  "total_records": 138515,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -1294,6 +1294,30 @@
         "xlsx": {
           "name": "it-lingue-d-italia_IT.xlsx",
           "size": 8748
+        }
+      }
+    },
+    {
+      "id": "it-corti-d-appello",
+      "name": "Corti d'appello in Italia",
+      "category": "law",
+      "record_count": 26,
+      "columns": [
+        "name",
+        "seat",
+        "detached_section"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Corte_d'appello_(Italia)",
+      "updated": "2026-10",
+      "size": 4264,
+      "files": {
+        "csv": {
+          "name": "it-corti-d-appello_IT.csv",
+          "size": 1160
+        },
+        "xlsx": {
+          "name": "it-corti-d-appello_IT.xlsx",
+          "size": 7403
         }
       }
     },
