@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-27T02:13:19.480Z",
-  "total_datasets": 477,
-  "total_records": 138246,
+  "generated": "2026-10-28T02:14:36.209Z",
+  "total_datasets": 478,
+  "total_records": 138301,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -1007,6 +1007,30 @@
         "xlsx": {
           "name": "it-vulcani_IT.xlsx",
           "size": 7819
+        }
+      }
+    },
+    {
+      "id": "it-irccs",
+      "name": "Istituti di ricovero e cura a carattere scientifico (IRCCS)",
+      "category": "health",
+      "record_count": 55,
+      "columns": [
+        "name",
+        "city",
+        "type"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Istituto_di_ricovero_e_cura_a_carattere_scientifico",
+      "updated": "2026-10",
+      "size": 8384,
+      "files": {
+        "csv": {
+          "name": "it-irccs_IT.csv",
+          "size": 3727
+        },
+        "xlsx": {
+          "name": "it-irccs_IT.xlsx",
+          "size": 8877
         }
       }
     },

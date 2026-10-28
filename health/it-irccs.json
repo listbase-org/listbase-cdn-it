@@ -1,0 +1,316 @@
+{
+  "id": "it-irccs",
+  "name": "Istituti di ricovero e cura a carattere scientifico (IRCCS)",
+  "title": "Istituti di ricovero e cura a carattere scientifico (IRCCS)",
+  "description": "Elenco degli IRCCS italiani, pubblici e privati, con la città sede.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Istituto_di_ricovero_e_cura_a_carattere_scientifico",
+  "source_url": "https://it.wikipedia.org/wiki/Istituto_di_ricovero_e_cura_a_carattere_scientifico",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Azienda Ospedaliero Universitaria di Alessandria Santi Antonio e Biagio e Cesare ARRIGO",
+      "city": "",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto nazionale ricovero e cura anziani",
+      "city": "Ancona",
+      "type": "pubblico"
+    },
+    {
+      "name": "Centro di riferimento oncologico",
+      "city": "Aviano",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto tumori Giovanni Paolo II",
+      "city": "Bari",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto delle scienze neurologiche",
+      "city": "Bologna",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto Ortopedico Rizzoli (sede RAMS)",
+      "city": "Bologna",
+      "type": "pubblico"
+    },
+    {
+      "name": "Azienda Ospedaliero-Universitaria di Bologna - Policlinico di Sant'Orsola",
+      "city": "Bologna",
+      "type": "pubblico"
+    },
+    {
+      "name": "Ente ospedaliero specializzato in gastroenterologia Saverio De Bellis",
+      "city": "Castellana Grotte",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto Giannina Gaslini",
+      "city": "Genova",
+      "type": "pubblico"
+    },
+    {
+      "name": "Azienda Ospedaliera Universitaria policlinico \"San Martino\"",
+      "city": "Genova",
+      "type": "pubblico"
+    },
+    {
+      "name": "IRCCS Centro neurolesi Bonino Pulejo",
+      "city": "Messina",
+      "type": "pubblico"
+    },
+    {
+      "name": "Fondazione Ca' Granda – Ospedale Maggiore Policlinico Universitario",
+      "city": "Milano",
+      "type": "pubblico"
+    },
+    {
+      "name": "Fondazione IRCCS Istituto nazionale dei tumori",
+      "city": "Milano",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto Nazionale Neurologico Carlo Besta",
+      "city": "Milano",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto nazionale tumori Fondazione Giovanni Pascale",
+      "city": "Napoli",
+      "type": "pubblico"
+    },
+    {
+      "name": "Ospedale Pediatrico \"Santobono-Pausilipon\"",
+      "city": "Napoli",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto Oncologico Veneto",
+      "city": "Padova",
+      "type": "pubblico"
+    },
+    {
+      "name": "Fondazione IRCCS Policlinico San Matteo",
+      "city": "Pavia",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto in tecnologie avanzate e modelli assistenziali in oncologia",
+      "city": "Reggio Emilia",
+      "type": "pubblico"
+    },
+    {
+      "name": "Centro di riferimento oncologico della Basilicata",
+      "city": "Rionero in Vulture",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituti fisioterapici ospitalieri: Istituto nazionale tumori \"Regina Elena\" e Istituto dermatologico \"San Gallicano\"",
+      "city": "Roma",
+      "type": "pubblico"
+    },
+    {
+      "name": "Istituto per le malattie infettive \"Lazzaro Spallanzani\"",
+      "city": "Roma",
+      "type": "pubblico"
+    },
+    {
+      "name": "Ospedale infantile Burlo Garofolo",
+      "city": "Trieste",
+      "type": "pubblico"
+    },
+    {
+      "name": "Ospedale pediatrico Meyer",
+      "city": "Firenze",
+      "type": "pubblico"
+    },
+    {
+      "name": "Fondazione San Gerardo dei Tintori",
+      "city": "Monza",
+      "type": "pubblico"
+    },
+    {
+      "name": "Associazione Oasi Maria Santissima",
+      "city": "Troina",
+      "type": "privato"
+    },
+    {
+      "name": "Casa Sollievo della Sofferenza",
+      "city": "San Giovanni Rotondo",
+      "type": "privato"
+    },
+    {
+      "name": "Centro cardiologico Monzino",
+      "city": "Milano",
+      "type": "privato"
+    },
+    {
+      "name": "Fondazione Don Carlo Gnocchi",
+      "city": "Milano e Firenze",
+      "type": "privato"
+    },
+    {
+      "name": "Fondazione G.B. Bietti per lo studio e la ricerca in oftalmologia",
+      "city": "Roma",
+      "type": "privato"
+    },
+    {
+      "name": "Fondazione Istituto neurologico Casimiro Mondino",
+      "city": "Pavia",
+      "type": "privato"
+    },
+    {
+      "name": "Fondazione Santa Lucia",
+      "city": "Roma",
+      "type": "privato"
+    },
+    {
+      "name": "IRCCS Centro San Giovanni di Dio Fatebenefratelli",
+      "city": "Brescia",
+      "type": "privato"
+    },
+    {
+      "name": "IRCCS Fondazione Stella Maris",
+      "city": "Calambrone",
+      "type": "privato"
+    },
+    {
+      "name": "IRCCS Multimedica",
+      "city": "Milano",
+      "type": "privato"
+    },
+    {
+      "name": "IRCCS San Raffaele Pisana",
+      "city": "Roma",
+      "type": "privato"
+    },
+    {
+      "name": "Istituti Clinici Scientifici Maugeri",
+      "city": "Pavia",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto auxologico italiano",
+      "city": "Milano",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto Clinico Humanitas",
+      "city": "Rozzano",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto Dermopatico dell'Immacolata",
+      "city": "Roma",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto Eugenio Medea",
+      "city": "Bosisio Parini (Lecco)",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto europeo di oncologia",
+      "city": "Milano",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto scientifico romagnolo per lo studio e la cura dei tumori",
+      "city": "Meldola",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto Oncologico di Candiolo IRCCS – Fondazione del Piemonte per l'Oncologia",
+      "city": "Candiolo",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto di ricerche farmacologiche \"Mario Negri\"",
+      "city": "Milano, Bergamo e Ranica",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto mediterraneo per i trapianti e terapie ad alta specializzazione",
+      "city": "Palermo",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto neurologico mediterraneo Neuromed",
+      "city": "Pozzilli",
+      "type": "privato"
+    },
+    {
+      "name": "Istituto ortopedico Galeazzi",
+      "city": "Milano",
+      "type": "privato"
+    },
+    {
+      "name": "Ospedale Sacro Cuore Don Calabria",
+      "city": "Negrar di Valpolicella",
+      "type": "privato"
+    },
+    {
+      "name": "Ospedale San Raffaele",
+      "city": "Segrate",
+      "type": "privato"
+    },
+    {
+      "name": "Ospedale San Camillo IRCCS",
+      "city": "Venezia",
+      "type": "privato"
+    },
+    {
+      "name": "Ospedale pediatrico Bambino Gesù",
+      "city": "Roma, Palidoro (Fiumicino)",
+      "type": "privato"
+    },
+    {
+      "name": "Policlinico Agostino Gemelli",
+      "city": "Roma",
+      "type": "privato"
+    },
+    {
+      "name": "Policlinico San Donato",
+      "city": "San Donato Milanese",
+      "type": "privato"
+    },
+    {
+      "name": "SDN Istituto di ricerca diagnostica e nucleare",
+      "city": "Napoli",
+      "type": "privato"
+    }
+  ],
+  "meta": {
+    "title": "Istituti di ricovero e cura a carattere scientifico (IRCCS) - Free Download",
+    "description": "Elenco degli IRCCS italiani, pubblici e privati, con la città sede. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Istituti di ricovero e cura a carattere scientifico (IRCCS) | ListBase",
+    "seo_description": "Download Istituti di ricovero e cura a carattere scientifico (IRCCS) — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Istituto_di_ricovero_e_cura_a_carattere_scientifico"
+    ]
+  }
+}
