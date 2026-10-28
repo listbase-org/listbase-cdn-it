@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:36.209Z",
-  "total_datasets": 478,
-  "total_records": 138301,
+  "generated": "2026-10-28T02:14:38.743Z",
+  "total_datasets": 479,
+  "total_records": 138332,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -487,6 +487,30 @@
         "xlsx": {
           "name": "it-treviso-comuni_IT.xlsx",
           "size": 11641
+        }
+      }
+    },
+    {
+      "id": "it-aree-marine-protette",
+      "name": "Aree marine protette d'Italia",
+      "category": "environment",
+      "record_count": 31,
+      "columns": [
+        "name",
+        "region",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Aree_marine_protette_d'Italia",
+      "updated": "2026-10",
+      "size": 5093,
+      "files": {
+        "csv": {
+          "name": "it-aree-marine-protette_IT.csv",
+          "size": 1942
+        },
+        "xlsx": {
+          "name": "it-aree-marine-protette_IT.xlsx",
+          "size": 7729
         }
       }
     },

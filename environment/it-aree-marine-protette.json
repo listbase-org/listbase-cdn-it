@@ -1,0 +1,196 @@
+{
+  "id": "it-aree-marine-protette",
+  "name": "Aree marine protette d'Italia",
+  "title": "Aree marine protette d'Italia",
+  "description": "Elenco delle aree marine protette italiane suddivise per regione.",
+  "category": "environment",
+  "source": "https://it.wikipedia.org/wiki/Aree_marine_protette_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Aree_marine_protette_d'Italia",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Santuario dei Cetacei",
+      "region": "Aree sovraregionali",
+      "note": "esteso a Liguria, Toscana, parte settentrionale della Sardegna, Corsica e parte orientale della costa mediterranea francese"
+    },
+    {
+      "name": "Area marina protetta Torre del Cerrano",
+      "region": "Abruzzo",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Capo Rizzuto",
+      "region": "Calabria",
+      "note": ""
+    },
+    {
+      "name": "Punta Campanella",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Regno di Nettuno",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Santa Maria di Castellabate",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Costa degli Infreschi e della Masseta",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco sommerso di Baia",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Parco sommerso di Gaiola",
+      "region": "Campania",
+      "note": ""
+    },
+    {
+      "name": "Riserva naturale marina di Miramare nel Golfo di Trieste",
+      "region": "Friuli Venezia Giulia",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Isole di Ventotene e Santo Stefano",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Secche di Tor Paterno",
+      "region": "Lazio",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Cinque Terre",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Portofino",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Isola di Bergeggi",
+      "region": "Liguria",
+      "note": ""
+    },
+    {
+      "name": "Riserva naturale marina Isole Tremiti",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Riserva naturale marina Torre Guaceto",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Porto Cesareo",
+      "region": "Puglia",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Capo Carbonara",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Penisola del Sinis - Isola Mal di Ventre",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Tavolara - Punta Coda Cavallo",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Capo Caccia - Isola Piana",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Isola dell'Asinara",
+      "region": "Sardegna",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Isola di Ustica",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Isole Ciclopi",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Riserva naturale marina Isole Egadi",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Isole Pelagie",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area naturale marina protetta Capo Gallo - Isola delle Femmine",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Plemmirio",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Capo Milazzo",
+      "region": "Sicilia",
+      "note": ""
+    },
+    {
+      "name": "Area marina protetta Secche della Meloria",
+      "region": "Toscana",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Aree marine protette d'Italia - Free Download",
+    "description": "Elenco delle aree marine protette italiane suddivise per regione. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aree marine protette d'Italia | ListBase",
+    "seo_description": "Download Aree marine protette d'Italia — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Aree_marine_protette_d'Italia"
+    ]
+  }
+}
