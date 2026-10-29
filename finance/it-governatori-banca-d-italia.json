@@ -1,0 +1,142 @@
+{
+  "id": "it-governatori-banca-d-italia",
+  "name": "Governatori della Banca d'Italia",
+  "title": "Governatori della Banca d'Italia",
+  "description": "Cronotassi dei governatori della Banca d'Italia dal 1861 a oggi, con periodo di mandato.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Governatore_della_Banca_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Governatore_della_Banca_d'Italia",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "number"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "number"
+    },
+    {
+      "key": "governatore",
+      "label": "Governatore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "periodo": "1861-1882",
+      "inizio": 1861,
+      "fine": 1882,
+      "governatore": "Carlo Bombrini"
+    },
+    {
+      "periodo": "1882-1893",
+      "inizio": 1882,
+      "fine": 1893,
+      "governatore": "Giacomo Grillo"
+    },
+    {
+      "periodo": "1893-1894",
+      "inizio": 1893,
+      "fine": 1894,
+      "governatore": "Giacomo Grillo"
+    },
+    {
+      "periodo": "1894-1900",
+      "inizio": 1894,
+      "fine": 1900,
+      "governatore": "Giuseppe Marchiori"
+    },
+    {
+      "periodo": "1900-1928",
+      "inizio": 1900,
+      "fine": 1928,
+      "governatore": "Bonaldo Stringher"
+    },
+    {
+      "periodo": "1928-1930",
+      "inizio": 1928,
+      "fine": 1930,
+      "governatore": "Bonaldo Stringher"
+    },
+    {
+      "periodo": "1931-1944",
+      "inizio": 1931,
+      "fine": 1944,
+      "governatore": "Vincenzo Azzolini"
+    },
+    {
+      "periodo": "1945-1948",
+      "inizio": 1945,
+      "fine": 1948,
+      "governatore": "Luigi Einaudi"
+    },
+    {
+      "periodo": "1948-1960",
+      "inizio": 1948,
+      "fine": 1960,
+      "governatore": "Donato Menichella"
+    },
+    {
+      "periodo": "1960-1975",
+      "inizio": 1960,
+      "fine": 1975,
+      "governatore": "Guido Carli"
+    },
+    {
+      "periodo": "1975-1979",
+      "inizio": 1975,
+      "fine": 1979,
+      "governatore": "Paolo Baffi"
+    },
+    {
+      "periodo": "1979-1993",
+      "inizio": 1979,
+      "fine": 1993,
+      "governatore": "Carlo Azeglio Ciampi"
+    },
+    {
+      "periodo": "1993-2005",
+      "inizio": 1993,
+      "fine": 2005,
+      "governatore": "Antonio Fazio"
+    },
+    {
+      "periodo": "2006-2011",
+      "inizio": 2006,
+      "fine": 2011,
+      "governatore": "Mario Draghi"
+    },
+    {
+      "periodo": "2011-2023",
+      "inizio": 2011,
+      "fine": 2023,
+      "governatore": "Ignazio Visco"
+    },
+    {
+      "periodo": "dal 2023",
+      "inizio": 2023,
+      "fine": "",
+      "governatore": "Fabio Panetta"
+    }
+  ],
+  "meta": {
+    "title": "Governatori della Banca d'Italia - Free Download",
+    "description": "Cronotassi dei governatori della Banca d'Italia dal 1861 a oggi, con periodo di mandato. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Governatori della Banca d'Italia | ListBase",
+    "seo_description": "Download Governatori della Banca d'Italia — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Governatore_della_Banca_d'Italia"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:14.570Z",
-  "total_datasets": 484,
-  "total_records": 138592,
+  "generated": "2026-10-29T02:11:17.123Z",
+  "total_datasets": 485,
+  "total_records": 138608,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -685,6 +685,31 @@
         "xlsx": {
           "name": "it-ftse-mib-societa_IT.xlsx",
           "size": 9111
+        }
+      }
+    },
+    {
+      "id": "it-governatori-banca-d-italia",
+      "name": "Governatori della Banca d'Italia",
+      "category": "finance",
+      "record_count": 16,
+      "columns": [
+        "periodo",
+        "inizio",
+        "fine",
+        "governatore"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Governatore_della_Banca_d'Italia",
+      "updated": "2026-10",
+      "size": 3494,
+      "files": {
+        "csv": {
+          "name": "it-governatori-banca-d-italia_IT.csv",
+          "size": 735
+        },
+        "xlsx": {
+          "name": "it-governatori-banca-d-italia_IT.xlsx",
+          "size": 7321
         }
       }
     },
