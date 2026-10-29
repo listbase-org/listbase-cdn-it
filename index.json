@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:22.102Z",
-  "total_datasets": 487,
-  "total_records": 138693,
+  "generated": "2026-10-29T02:11:24.500Z",
+  "total_datasets": 488,
+  "total_records": 138716,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -402,6 +402,30 @@
         "xlsx": {
           "name": "it-accademie-di-belle-arti_IT.xlsx",
           "size": 7834
+        }
+      }
+    },
+    {
+      "id": "it-scuole-superiori-universitarie",
+      "name": "Scuole superiori universitarie in Italia",
+      "category": "education",
+      "record_count": 23,
+      "columns": [
+        "nome",
+        "tipologia",
+        "descrizione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Scuola_superiore_universitaria",
+      "updated": "2026-10",
+      "size": 8186,
+      "files": {
+        "csv": {
+          "name": "it-scuole-superiori-universitarie_IT.csv",
+          "size": 5099
+        },
+        "xlsx": {
+          "name": "it-scuole-superiori-universitarie_IT.xlsx",
+          "size": 8186
         }
       }
     },

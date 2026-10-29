@@ -1,0 +1,156 @@
+{
+  "id": "it-scuole-superiori-universitarie",
+  "name": "Scuole superiori universitarie in Italia",
+  "title": "Scuole superiori universitarie in Italia",
+  "description": "Scuole superiori a ordinamento speciale, scuole di alta formazione dottorale e scuole superiori di ateneo in Italia.",
+  "category": "education",
+  "source": "https://it.wikipedia.org/wiki/Scuola_superiore_universitaria",
+  "source_url": "https://it.wikipedia.org/wiki/Scuola_superiore_universitaria",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipologia",
+      "label": "Tipologia",
+      "type": "string"
+    },
+    {
+      "key": "descrizione",
+      "label": "Descrizione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Scuola Normale Superiore (SNS)",
+      "tipologia": "Scuole superiori a ordinamento speciale",
+      "descrizione": "Scuola Normale Superiore (SNS) , riconosciuta come Istituto d'istruzione superiore con ordinamento speciale e dotato di personalità giuridica e di autonomia dall'art. 233 del Regio decreto n. 1592 del 1933"
+    },
+    {
+      "nome": "Scuola superiore di studi universitari e di perfezionamento Sant'Anna di Pisa (SSSA)",
+      "tipologia": "Scuole superiori a ordinamento speciale",
+      "descrizione": "Scuola superiore di studi universitari e di perfezionamento Sant'Anna di Pisa (SSSA) , che prende l'attuale denominazione e viene anch'essa dotata di personalità giuridica e di autonomia con la legge n. 41 del 1987"
+    },
+    {
+      "nome": "Istituto Universitario di Studi Superiori di Pavia (IUSS)",
+      "tipologia": "Scuole superiori a ordinamento speciale",
+      "descrizione": "Istituto Universitario di Studi Superiori di Pavia (IUSS) , riconosciuta come Scuola superiore ad ordinamento speciale con il Decreto ministeriale dell'8 luglio 2005"
+    },
+    {
+      "nome": "Scuola Superiore Meridionale (SSM)",
+      "tipologia": "Scuole superiori a ordinamento speciale",
+      "descrizione": "Scuola Superiore Meridionale (SSM) , riconosciuta come Istituto d'istruzione superiore con ordinamento speciale e dotata di personalità giuridica e di autonomia con il Decreto del Ministero dell'Università e della Ricerca n. 141 del 27/01/2022 (pubblicato in GURI n. 65 del 18/03/2022) a decorrere dal 2 aprile 2022"
+    },
+    {
+      "nome": "Scuola Internazionale Superiore di Studi Avanzati di Trieste (SISSA)",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Scuola Internazionale Superiore di Studi Avanzati di Trieste (SISSA)"
+    },
+    {
+      "nome": "Istituto Italiano di Scienze Umane di Firenze (SUM)",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Istituto Italiano di Scienze Umane di Firenze (SUM) , fino al 2014 (poi accorpato alla SNS)"
+    },
+    {
+      "nome": "Scuola IMT Alti Studi Lucca",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Scuola IMT Alti Studi Lucca"
+    },
+    {
+      "nome": "Gran Sasso Science Institute (GSSI)",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Gran Sasso Science Institute (GSSI) , viene riconosciuto scuola di dottorato internazionale e di alta formazione il 25 marzo 2016 da un decreto legge del consiglio dei Ministri"
+    },
+    {
+      "nome": "Centro alti studi per la difesa (CASD)",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Centro alti studi per la difesa (CASD) , di Roma , riconosciuto come Scuola superiore universitaria ad ordinamento speciale di alta qualificazione e di ricerca nel campo delle scienze della difesa e della sicurezza con il Decreto interministeriale n. 922 del 7 luglio 2024"
+    },
+    {
+      "nome": "Institute of Advanced Science for Agriculture (IASA)",
+      "tipologia": "Scuole superiori per l'alta formazione dottorale",
+      "descrizione": "Institute of Advanced Science for Agriculture (IASA) - Jolanda di Savoia istituita come Scuola superiore non statale ad ordinamento speciale con il Decreto Ministeriale n. 264 del 20 marzo 2026"
+    },
+    {
+      "nome": "Collegio Internazionale Ca'Foscari dell'Università Ca'Foscari a Venezia",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Collegio Internazionale Ca'Foscari dell'Università Ca'Foscari a Venezia"
+    },
+    {
+      "nome": "Collegio superiore dell'Università di Bologna",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Collegio superiore dell'Università di Bologna"
+    },
+    {
+      "nome": "Istituto Superiore Universitario di Formazione Interdisciplinare dell'Università del Salento a Lecce",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Istituto Superiore Universitario di Formazione Interdisciplinare dell'Università del Salento a Lecce"
+    },
+    {
+      "nome": "Scuola di Studi Superiori \"Carlo Urbani\" dell'Università degli Studi di Camerino",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola di Studi Superiori \"Carlo Urbani\" dell'Università degli Studi di Camerino"
+    },
+    {
+      "nome": "Scuola di Studi Superiori \"Ferdinando Rossi\" dell'Università degli Studi di Torino",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola di Studi Superiori \"Ferdinando Rossi\" dell'Università degli Studi di Torino"
+    },
+    {
+      "nome": "Scuola di Studi Superiori 'Giacomo Leopardi' dell'Università degli Studi di Macerata",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola di Studi Superiori 'Giacomo Leopardi' dell'Università degli Studi di Macerata"
+    },
+    {
+      "nome": "Scuola Galileiana di Studi Superiori dell'Università degli Studi di Padova",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola Galileiana di Studi Superiori dell'Università degli Studi di Padova"
+    },
+    {
+      "nome": "Superiore Universitaria \"Di Toppo Wassermann\" dell'Università degli Studi di Udine",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Superiore Universitaria \"Di Toppo Wassermann\" dell'Università degli Studi di Udine"
+    },
+    {
+      "nome": "Scuola superiore di Catania dell'Università degli Studi Catania",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola superiore di Catania dell'Università degli Studi Catania"
+    },
+    {
+      "nome": "Scuola Superiore di Studi Avanzati Sapienza (SSAS) dell'Università degli Studi di Roma La Sapienza",
+      "tipologia": "Scuole superiori di ateneo",
+      "descrizione": "Scuola Superiore di Studi Avanzati Sapienza (SSAS) dell'Università degli Studi di Roma La Sapienza"
+    },
+    {
+      "nome": "Scuola superiore Santa Chiara a Siena",
+      "tipologia": "Altre scuole superiori non autonome",
+      "descrizione": "Scuola superiore Santa Chiara a Siena"
+    },
+    {
+      "nome": "IANUA Scuola Superiore dell'Università di Genova",
+      "tipologia": "Altre scuole superiori non autonome",
+      "descrizione": "IANUA Scuola Superiore dell'Università di Genova"
+    },
+    {
+      "nome": "Alta Scuola per l'Amministrazione ASATre",
+      "tipologia": "Altre scuole superiori non autonome",
+      "descrizione": "Alta Scuola per l'Amministrazione ASATre"
+    }
+  ],
+  "meta": {
+    "title": "Scuole superiori universitarie in Italia - Free Download",
+    "description": "Scuole superiori a ordinamento speciale, scuole di alta formazione dottorale e scuole superiori di ateneo in Italia. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Scuole superiori universitarie in Italia | ListBase",
+    "seo_description": "Download Scuole superiori universitarie in Italia — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Scuola_superiore_universitaria"
+    ]
+  }
+}
