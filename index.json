@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-28T02:14:48.823Z",
-  "total_datasets": 483,
-  "total_records": 138569,
+  "generated": "2026-10-29T02:11:14.570Z",
+  "total_datasets": 484,
+  "total_records": 138592,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -14908,6 +14908,34 @@
         "xlsx": {
           "name": "it-viterbo-unlocode_IT.xlsx",
           "size": 10831
+        }
+      }
+    },
+    {
+      "id": "it-astronauti-italiani",
+      "name": "Astronauti italiani e missioni spaziali",
+      "category": "science",
+      "record_count": 23,
+      "columns": [
+        "nome",
+        "missione",
+        "data",
+        "durata",
+        "stazione_spaziale",
+        "obiettivo_o_commenti",
+        "tipo_volo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lista_di_astronauti_italiani",
+      "updated": "2026-10",
+      "size": 8134,
+      "files": {
+        "csv": {
+          "name": "it-astronauti-italiani_IT.csv",
+          "size": 2737
+        },
+        "xlsx": {
+          "name": "it-astronauti-italiani_IT.xlsx",
+          "size": 8281
         }
       }
     },

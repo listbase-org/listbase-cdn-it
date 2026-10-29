@@ -1,0 +1,268 @@
+{
+  "id": "it-astronauti-italiani",
+  "name": "Astronauti italiani e missioni spaziali",
+  "title": "Astronauti italiani e missioni spaziali",
+  "description": "Elenco dei voli spaziali orbitali e suborbitali di astronauti italiani, con missione, data, durata e obiettivi.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Lista_di_astronauti_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Lista_di_astronauti_italiani",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "missione",
+      "label": "Missione",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "durata",
+      "label": "Durata",
+      "type": "string"
+    },
+    {
+      "key": "stazione_spaziale",
+      "label": "Stazione Spaziale",
+      "type": "string"
+    },
+    {
+      "key": "obiettivo_o_commenti",
+      "label": "Obiettivo O Commenti",
+      "type": "string"
+    },
+    {
+      "key": "tipo_volo",
+      "label": "Tipo Volo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Franco Malerba",
+      "missione": "STS-46",
+      "data": "31 luglio 1992",
+      "durata": "7 giorni",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Lanciato il satellite European Retrievable Carrier dell'ESA",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Maurizio Cheli",
+      "missione": "STS-75",
+      "data": "22 febbraio 1996",
+      "durata": "15 giorni",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Implementato il sistema satellitare italiano cablato",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Umberto Guidoni",
+      "missione": "STS-75",
+      "data": "22 febbraio 1996",
+      "durata": "15 giorni",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Implementato il sistema satellitare italiano cablato",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Umberto Guidoni",
+      "missione": "STS-100",
+      "data": "19 aprile 2001",
+      "durata": "11 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "Consegnato Canadarm2 alla ISS",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Roberto Vittori",
+      "missione": "Soyuz TM-34 / Soyuz TM-33",
+      "data": "25 aprile 2002",
+      "durata": "10 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Roberto Vittori",
+      "missione": "Soyuz TMA-6 / Soyuz TMA-5",
+      "data": "15 aprile 2005",
+      "durata": "10 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Roberto Vittori",
+      "missione": "STS-134",
+      "data": "16 maggio 2011",
+      "durata": "15 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "Consegnato lo spettrometro magnetico alfa e un vettore logistico ExPRESS alla Stazione Spaziale Internazionale.",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Paolo Nespoli",
+      "missione": "STS-120",
+      "data": "23 ottobre 2007",
+      "durata": "15 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "Assemblaggio dell'ISS",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Paolo Nespoli",
+      "missione": "Soyuz TMA-20 / Expedition 26 / Expedition 27",
+      "data": "15 dicembre 2010",
+      "durata": "159 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Paolo Nespoli",
+      "missione": "Soyuz MS-05 / Expedition 52 / Expedition 53",
+      "data": "28 luglio 2017",
+      "durata": "139 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Luca Parmitano",
+      "missione": "Soyuz TMA-09M / Expedition 36 / Expedition 37",
+      "data": "28 maggio 2013",
+      "durata": "166 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Luca Parmitano",
+      "missione": "Soyuz MS-13 / Expedition 60 / Expedition 61",
+      "data": "20 luglio 2019",
+      "durata": "200 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Samantha Cristoforetti",
+      "missione": "Soyuz TMA-15M / Expedition 42 / Expedition 43",
+      "data": "23 novembre 2014",
+      "durata": "200 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "Preparato un ormeggio di attracco all'estremità del nodo di collegamento Harmony",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Samantha Cristoforetti",
+      "missione": "SpaceX Crew-4 / Expedition 67 / Expedition 68",
+      "data": "27 aprile 2022",
+      "durata": "170 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Walter Villadei",
+      "missione": "Axiom Mission 3",
+      "data": "18 gennaio 2024",
+      "durata": "21 giorni",
+      "stazione_spaziale": "ISS",
+      "obiettivo_o_commenti": "",
+      "tipo_volo": "orbitale"
+    },
+    {
+      "nome": "Pantaleone Carlucci",
+      "missione": "Galactic 01",
+      "data": "29 giugno 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 85,1 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Angelo Landolfi",
+      "missione": "Galactic 01",
+      "data": "29 giugno 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 85,1 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Nicola Pecile",
+      "missione": "Galactic 01",
+      "data": "29 giugno 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 85,1 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Nicola Pecile",
+      "missione": "Galactic 03",
+      "data": "8 settembre 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 88,56 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Nicola Pecile",
+      "missione": "Galactic 06",
+      "data": "26 gennaio 2024",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 88,8 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Walter Villadei",
+      "missione": "Galactic 01",
+      "data": "29 giugno 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 85,1 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Ketty Maisonrouge",
+      "missione": "Galactic 05",
+      "data": "2 novembre 2023",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 87,2 km",
+      "tipo_volo": "suborbitale"
+    },
+    {
+      "nome": "Giorgio Manenti",
+      "missione": "Galactic 07",
+      "data": "8 giugno 2024",
+      "durata": "",
+      "stazione_spaziale": "",
+      "obiettivo_o_commenti": "Raggiunto l'apogeo di 87,5 km",
+      "tipo_volo": "suborbitale"
+    }
+  ],
+  "meta": {
+    "title": "Astronauti italiani e missioni spaziali - Free Download",
+    "description": "Elenco dei voli spaziali orbitali e suborbitali di astronauti italiani, con missione, data, durata e obiettivi. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Astronauti italiani e missioni spaziali | ListBase",
+    "seo_description": "Download Astronauti italiani e missioni spaziali — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lista_di_astronauti_italiani"
+    ]
+  }
+}
