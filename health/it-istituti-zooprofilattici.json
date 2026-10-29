@@ -1,0 +1,91 @@
+{
+  "id": "it-istituti-zooprofilattici",
+  "name": "Istituti zooprofilattici sperimentali",
+  "title": "Istituti zooprofilattici sperimentali",
+  "description": "Gli istituti zooprofilattici sperimentali (IZS) italiani per la sanità pubblica veterinaria, con sede e sezioni diagnostiche territoriali.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Istituti_zooprofilattici_sperimentali",
+  "source_url": "https://it.wikipedia.org/wiki/Istituti_zooprofilattici_sperimentali",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "istituto",
+      "label": "Istituto",
+      "type": "string"
+    },
+    {
+      "key": "sede",
+      "label": "Sede",
+      "type": "string"
+    },
+    {
+      "key": "sezioni_diagnostiche",
+      "label": "Sezioni Diagnostiche",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "istituto": "Istituto zooprofilattico sperimentale del Piemonte, Liguria e Valle d'Aosta",
+      "sede": "Torino",
+      "sezioni_diagnostiche": "Alessandria, Aosta, Asti, Cuneo, Genova, Imperia, La Spezia, Novara, Savona, Vercelli"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale delle Venezie",
+      "sede": "Legnaro",
+      "sezioni_diagnostiche": "Adria, Basaldella di Campoformido, Belluno, Bolzano, Cordenons, Fontane di Villorba, San Donà di Piave, Trento, Verona, Vicenza"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale della Lombardia e dell'Emilia-Romagna \"Bruno Ubertini\"",
+      "sede": "Brescia",
+      "sezioni_diagnostiche": "Bergamo, Binago, Bologna, Cassana di Ferrara, Cornocchio di Parma, Cremona, Forlì, Gariga di Podenzano, Lodi, Lugo, Mantova, Milano, Modena, Pavia, Reggio Emilia, Sondrio"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale del Lazio e della Toscana \"M. Aleandri\"",
+      "sede": "Roma",
+      "sezioni_diagnostiche": "Arezzo, Grosseto, Latina, Pisa, Rieti, San Martino alla Palma di Scandicci, Siena, Viterbo"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale dell'Umbria e delle Marche \"Togo Rosati\"",
+      "sede": "Perugia",
+      "sezioni_diagnostiche": "Ancona, Fermo, Pesaro, Terni, Tolentino"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale dell'Abruzzo e del Molise \"G. Caporale\"",
+      "sede": "Teramo",
+      "sezioni_diagnostiche": "Avezzano, Campobasso, Isernia, Lanciano, Pescara, Pineto, Termoli"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale della Puglia e della Basilicata",
+      "sede": "Foggia",
+      "sezioni_diagnostiche": "Campi Salentina, Matera, Putignano, Taranto, Tito Scalo, Torre Santa Susanna"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale del Mezzogiorno",
+      "sede": "Portici",
+      "sezioni_diagnostiche": "Benevento, Caserta, Catanzaro Lido, Cosenza, Salerno, Mileto, Monteforte Irpino, Reggio Calabria"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale della Sicilia",
+      "sede": "Palermo",
+      "sezioni_diagnostiche": "Barcellona Pozzo di Gotto, Caltanissetta, Catania, Ragusa"
+    },
+    {
+      "istituto": "Istituto zooprofilattico sperimentale della Sardegna \"G. Pegreffi\"",
+      "sede": "Sassari",
+      "sezioni_diagnostiche": "Cagliari, Elmas, Nuoro, Oristano, Tortolì"
+    }
+  ],
+  "meta": {
+    "title": "Istituti zooprofilattici sperimentali - Free Download",
+    "description": "Gli istituti zooprofilattici sperimentali (IZS) italiani per la sanità pubblica veterinaria, con sede e sezioni diagnostiche territoriali. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Istituti zooprofilattici sperimentali | ListBase",
+    "seo_description": "Download Istituti zooprofilattici sperimentali — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Istituti_zooprofilattici_sperimentali"
+    ]
+  }
+}

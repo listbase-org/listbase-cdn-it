@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:17.123Z",
-  "total_datasets": 485,
-  "total_records": 138608,
+  "generated": "2026-10-29T02:11:19.557Z",
+  "total_datasets": 486,
+  "total_records": 138618,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -1129,6 +1129,30 @@
         "xlsx": {
           "name": "it-irccs_IT.xlsx",
           "size": 8877
+        }
+      }
+    },
+    {
+      "id": "it-istituti-zooprofilattici",
+      "name": "Istituti zooprofilattici sperimentali",
+      "category": "health",
+      "record_count": 10,
+      "columns": [
+        "istituto",
+        "sede",
+        "sezioni_diagnostiche"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Istituti_zooprofilattici_sperimentali",
+      "updated": "2026-10",
+      "size": 4066,
+      "files": {
+        "csv": {
+          "name": "it-istituti-zooprofilattici_IT.csv",
+          "size": 1745
+        },
+        "xlsx": {
+          "name": "it-istituti-zooprofilattici_IT.xlsx",
+          "size": 7648
         }
       }
     },
