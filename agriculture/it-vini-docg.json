@@ -1,0 +1,526 @@
+{
+  "id": "it-vini-docg",
+  "name": "Vini DOCG italiani",
+  "title": "Vini DOCG italiani",
+  "description": "Elenco dei vini italiani a Denominazione di origine controllata e garantita (DOCG), con tipologia e regione di produzione.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Denominazione_di_origine_controllata_e_garantita",
+  "source_url": "https://it.wikipedia.org/wiki/Denominazione_di_origine_controllata_e_garantita",
+  "updated": "2026-10",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "dettagli",
+      "label": "Dettagli",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Montepulciano d'Abruzzo Colline Teramane",
+      "tipo": "rosso",
+      "regione": "Abruzzo",
+      "dettagli": "prodotto nella provincia di Teramo"
+    },
+    {
+      "denominazione": "Terre Tollesi o Tullum",
+      "tipo": "Rosso Riserva, Rosso, Pecorino, Passerina",
+      "regione": "Abruzzo",
+      "dettagli": "prodotto a Tollo (Chieti)"
+    },
+    {
+      "denominazione": "Terre di Casauria",
+      "tipo": "rosso",
+      "regione": "Abruzzo",
+      "dettagli": "prodotto nella provincia di Pescara"
+    },
+    {
+      "denominazione": "Aglianico del Vulture Superiore",
+      "tipo": "rosso",
+      "regione": "Basilicata",
+      "dettagli": "prodotto nella provincia di Potenza"
+    },
+    {
+      "denominazione": "Cirò classico",
+      "tipo": "rosso",
+      "regione": "Calabria",
+      "dettagli": "prodotto nella provincia di Crotone"
+    },
+    {
+      "denominazione": "Aglianico del Taburno",
+      "tipo": "rosso",
+      "regione": "Campania",
+      "dettagli": "nelle tipologie normale, rosato e Riserva, prodotto nella provincia di Benevento"
+    },
+    {
+      "denominazione": "Fiano di Avellino",
+      "tipo": "bianco",
+      "regione": "Campania",
+      "dettagli": "prodotto nella provincia di Avellino"
+    },
+    {
+      "denominazione": "Greco di Tufo",
+      "tipo": "bianco",
+      "regione": "Campania",
+      "dettagli": "nelle tipologie normale spumante, prodotto nella provincia di Avellino"
+    },
+    {
+      "denominazione": "Taurasi",
+      "tipo": "rosso",
+      "regione": "Campania",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nella provincia di Avellino"
+    },
+    {
+      "denominazione": "Colli Bolognesi Classico Pignoletto",
+      "tipo": "bianco",
+      "regione": "Emilia-Romagna",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Romagna Albana",
+      "tipo": "bianco",
+      "regione": "Emilia-Romagna",
+      "dettagli": "prodotto nelle province di Bologna, Forlì-Cesena e Ravenna"
+    },
+    {
+      "denominazione": "Colli Orientali del Friuli Picolit",
+      "tipo": "bianco",
+      "regione": "Friuli-Venezia Giulia",
+      "dettagli": "prodotto nella provincia di Udine anche con la sottozona Cialla"
+    },
+    {
+      "denominazione": "Lison",
+      "tipo": "bianco",
+      "regione": "Friuli-Venezia Giulia",
+      "dettagli": "DOCG interregionale unitamente al Veneto, prodotto nella città metropolitana di Venezia e provincia di Treviso (Veneto) e nella provincia di Pordenone (Friuli Venezia Giulia)"
+    },
+    {
+      "denominazione": "Ramandolo",
+      "tipo": "bianco",
+      "regione": "Friuli-Venezia Giulia",
+      "dettagli": "prodotto nella provincia di Udine"
+    },
+    {
+      "denominazione": "Rosazzo",
+      "tipo": "bianco",
+      "regione": "Friuli-Venezia Giulia",
+      "dettagli": "prodotto nella provincia di Udine"
+    },
+    {
+      "denominazione": "Cannellino di Frascati o Cannellino",
+      "tipo": "bianco",
+      "regione": "Lazio",
+      "dettagli": "prodotto nella provincia di Roma"
+    },
+    {
+      "denominazione": "Cesanese del Piglio o Piglio",
+      "tipo": "rosso",
+      "regione": "Lazio",
+      "dettagli": "prodotto nella provincia di Frosinone"
+    },
+    {
+      "denominazione": "Frascati superiore",
+      "tipo": "bianco",
+      "regione": "Lazio",
+      "dettagli": "prodotto nella provincia di Roma"
+    },
+    {
+      "denominazione": "Franciacorta",
+      "tipo": "bianco e rosato",
+      "regione": "Lombardia",
+      "dettagli": "nelle tipologie Brut, rosé e Satèn, prodotto nella provincia di Brescia"
+    },
+    {
+      "denominazione": "Oltrepò Pavese metodo classico",
+      "tipo": "bianco e rosato",
+      "regione": "Lombardia",
+      "dettagli": "nelle tipologie rosé, pinot nero, pinot nero rosé, prodotto nella provincia di Pavia"
+    },
+    {
+      "denominazione": "Scanzo o Moscato di Scanzo",
+      "tipo": "passito",
+      "regione": "Lombardia",
+      "dettagli": "prodotto nella provincia di Bergamo esclusivamente nel solo Comune di Scanzorosciate . È la più piccola Docg d'Italia con 39 produttori e 31 ettari di superficie vitata."
+    },
+    {
+      "denominazione": "Sforzato di Valtellina o Sfursat di Valtellina",
+      "tipo": "passito svolto",
+      "regione": "Lombardia",
+      "dettagli": "prodotto nella provincia di Sondrio"
+    },
+    {
+      "denominazione": "Valtellina superiore",
+      "tipo": "rosso",
+      "regione": "Lombardia",
+      "dettagli": "nelle tipologie normale e Riserva, con l'eventuale indicazione delle sottozone Inferno, Grumello, Maroggia, Sassella e Valgella, prodotto nella provincia di Sondrio, e della sottozona Stagaflassi per il vino imbottigliato in Svizzera"
+    },
+    {
+      "denominazione": "Castelli di Jesi Verdicchio Riserva",
+      "tipo": "bianco",
+      "regione": "Marche",
+      "dettagli": "nelle tipologie riserva e classico riserva, prodotto nei comuni vicini a quello di Jesi nelle province di Ancona e Macerata"
+    },
+    {
+      "denominazione": "Conero",
+      "tipo": "rosso",
+      "regione": "Marche",
+      "dettagli": "prodotto nella provincia di Ancona"
+    },
+    {
+      "denominazione": "Offida",
+      "tipo": "bianco e rosso",
+      "regione": "Marche",
+      "dettagli": "prodotto nella provincia di Ascoli Piceno"
+    },
+    {
+      "denominazione": "Verdicchio di Matelica riserva",
+      "tipo": "bianco",
+      "regione": "Marche",
+      "dettagli": "prodotto nei comuni vicini a quello di Matelica nelle province di Ancona e Macerata"
+    },
+    {
+      "denominazione": "Vernaccia di Serrapetrona",
+      "tipo": "spumante rosso",
+      "regione": "Marche",
+      "dettagli": "nelle tipologie Dolce e Secco, prodotto nella provincia di Macerata nel solo comune di Serrapetrona"
+    },
+    {
+      "denominazione": "Alta Langa",
+      "tipo": "spumante prodotto con il metodo classico",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nelle province di Alessandria, Asti e Cuneo"
+    },
+    {
+      "denominazione": "Asti",
+      "tipo": "bianco",
+      "regione": "Piemonte",
+      "dettagli": "nelle tipologie Asti Spumante e Moscato d'Asti, prodotto nelle province di Asti, Cuneo e Alessandria"
+    },
+    {
+      "denominazione": "Barbaresco",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nella provincia di Cuneo"
+    },
+    {
+      "denominazione": "Barbera d'Asti",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle tipologie normale e Superiore, prodotto in provincia di Asti"
+    },
+    {
+      "denominazione": "Barbera del Monferrato superiore",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nell'Alto e Basso Monferrato, Alessandrino e Astigiano"
+    },
+    {
+      "denominazione": "Barolo",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle versioni normale, Riserva e Chinato, prodotto nella provincia di Cuneo"
+    },
+    {
+      "denominazione": "Brachetto d'Acqui o Acqui",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle versioni normale e spumante, prodotto nelle province di Asti e Alessandria"
+    },
+    {
+      "denominazione": "Canelli",
+      "tipo": "",
+      "regione": "Piemonte",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Dolcetto di Diano d'Alba o Diano d'Alba",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle tipologie Diano d'Alba e Diano d'Alba Superiore, con eventuale menzione geografica aggiuntiva, prodotto nella provincia di Cuneo"
+    },
+    {
+      "denominazione": "Dolcetto di Ovada superiore o Ovada",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella provincia di Alessandria"
+    },
+    {
+      "denominazione": "Dogliani",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella provincia di Cuneo"
+    },
+    {
+      "denominazione": "Erbaluce di Caluso o Caluso",
+      "tipo": "Bianco",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella città metropolitana di Torino"
+    },
+    {
+      "denominazione": "Gattinara",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella provincia di Vercelli"
+    },
+    {
+      "denominazione": "Gavi o Cortese di Gavi",
+      "tipo": "bianco",
+      "regione": "Piemonte",
+      "dettagli": "nelle tipologie Frizzante, Spumante e Tranquillo, prodotto nella provincia di Alessandria"
+    },
+    {
+      "denominazione": "Ghemme",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella provincia di Novara"
+    },
+    {
+      "denominazione": "Nizza",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "nelle versioni normale e riserva, prodotto in 18 comuni della provincia di Asti ."
+    },
+    {
+      "denominazione": "Roero",
+      "tipo": "rosso e bianco",
+      "regione": "Piemonte",
+      "dettagli": "prodotto in tre tipologie nella provincia di Cuneo"
+    },
+    {
+      "denominazione": "Ruchè di Castagnole Monferrato",
+      "tipo": "rosso",
+      "regione": "Piemonte",
+      "dettagli": "prodotto nella provincia di Asti"
+    },
+    {
+      "denominazione": "Terre Alfieri",
+      "tipo": "rosso e bianco",
+      "regione": "Piemonte",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Castel del Monte Bombino Nero",
+      "tipo": "rosato",
+      "regione": "Puglia",
+      "dettagli": "prodotto in provincia di Barletta-Andria-Trani e città metropolitana di Bari"
+    },
+    {
+      "denominazione": "Castel del Monte rosso riserva",
+      "tipo": "rosso",
+      "regione": "Puglia",
+      "dettagli": "prodotto in provincia di Barletta-Andria-Trani e città metropolitana di Bari"
+    },
+    {
+      "denominazione": "Castel del Monte Nero di Troia riserva",
+      "tipo": "rosso",
+      "regione": "Puglia",
+      "dettagli": "prodotto in provincia di Barletta-Andria-Trani e città metropolitana di Bari"
+    },
+    {
+      "denominazione": "Primitivo di Manduria dolce naturale",
+      "tipo": "rosso",
+      "regione": "Puglia",
+      "dettagli": "prodotto nelle province di Brindisi e Taranto"
+    },
+    {
+      "denominazione": "Vermentino di Gallura",
+      "tipo": "bianco",
+      "regione": "Sardegna",
+      "dettagli": "nelle varie tipologie previste dal relativo disciplinare, prodotto nella provincia della Gallura Nord-Est Sardegna"
+    },
+    {
+      "denominazione": "Cerasuolo di Vittoria",
+      "tipo": "rosso",
+      "regione": "Sicilia",
+      "dettagli": "nelle tipologie normale e Classico, prodotto nelle province di Caltanissetta, Catania e Ragusa"
+    },
+    {
+      "denominazione": "Brunello di Montalcino",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nella provincia di Siena"
+    },
+    {
+      "denominazione": "Carmignano",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nei comuni di Carmignano e Poggio a Caiano, in provincia di Prato"
+    },
+    {
+      "denominazione": "Chianti",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "prodotto nelle province di Arezzo, Firenze, Pisa, Pistoia, Prato e Siena ; con l'eventuale indicazione delle sottozone: Colli Aretini, prodotto nelle provincia di Arezzo Colli Senesi, prodotto nelle provincia di Siena Colli Fiorentini, prodotto nelle provincia di Firenze Colline Pisane, prodotto nelle provincia di Pisa Montalbano, prodotto nelle province di Firenze, Pistoia e Prato Montespertoli, prodotto nella città metropolitana di Firenze Rùfina, prodotto nella città metropolitana di Firenze"
+    },
+    {
+      "denominazione": "Chianti Classico",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "prodotto nelle province di Firenze e Siena ; dal 1996 la sottozona Classico possiede un disciplinare distinto dal resto del Chianti (D.M. del 5 agosto 1996)"
+    },
+    {
+      "denominazione": "Elba Aleatico Passito o Aleatico Passito dell'Elba",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "nella tipologia passito"
+    },
+    {
+      "denominazione": "Montecucco Sangiovese",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "prodotto nella zona del Monte Amiata in provincia di Grosseto"
+    },
+    {
+      "denominazione": "Morellino di Scansano",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "prodotto nella provincia di Grosseto"
+    },
+    {
+      "denominazione": "Suvereto prodotto in quattro tipologie nel comune di Suvereto in provincia di Livorno",
+      "tipo": "",
+      "regione": "Toscana",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Val di Cornia prodotto in dieci tipologie nelle provincie di Pisa e Livorno",
+      "tipo": "",
+      "regione": "Toscana",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Vernaccia di San Gimignano",
+      "tipo": "bianco",
+      "regione": "Toscana",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nella provincia di Siena"
+    },
+    {
+      "denominazione": "Vino Nobile di Montepulciano",
+      "tipo": "rosso",
+      "regione": "Toscana",
+      "dettagli": "nelle tipologie normale e Riserva, prodotto nella provincia di Siena"
+    },
+    {
+      "denominazione": "Montefalco Sagrantino",
+      "tipo": "rosso",
+      "regione": "Umbria",
+      "dettagli": "nelle tipologie secco e Passito, prodotto nella provincia di Perugia"
+    },
+    {
+      "denominazione": "Torgiano rosso riserva",
+      "tipo": "rosso",
+      "regione": "Umbria",
+      "dettagli": "prodotto nella provincia di Perugia"
+    },
+    {
+      "denominazione": "Amarone della Valpolicella",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "prodotto nella provincia di Verona"
+    },
+    {
+      "denominazione": "Bagnoli Friularo o Friularo Bagnoli",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "ottenuto dal vitigno raboso Piave, prodotto in provincia di Padova"
+    },
+    {
+      "denominazione": "Bardolino Superiore",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "prodotto nella provincia di Verona"
+    },
+    {
+      "denominazione": "Colli Asolani - Prosecco o Asolo - Prosecco",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "nelle tipologie da Brut a Demi-sec comprese, prodotto in provincia di Treviso"
+    },
+    {
+      "denominazione": "Colli di Conegliano",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "nelle tipologie Refrontolo (anche nella versione passito) e Torchiato, prodotto in provincia di Treviso"
+    },
+    {
+      "denominazione": "Colli Euganei Fior d'Arancio",
+      "tipo": "bianco, spumante, passito",
+      "regione": "Veneto",
+      "dettagli": "ottenuto da uva moscato giallo, prodotto in provincia di Padova"
+    },
+    {
+      "denominazione": "Conegliano Valdobbiadene - Prosecco",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "nelle tipologie Tranquillo, Frizzante, Spumante, Superiore di Cartizze Spumante, prodotto in provincia di Treviso"
+    },
+    {
+      "denominazione": "Lison",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "DOCG interregionale unitamente al Friuli-Venezia Giulia prodotto nella città metropolitana di Venezia e in provincia di Treviso"
+    },
+    {
+      "denominazione": "Montello rosso, prodotto in provincia di Treviso",
+      "tipo": "",
+      "regione": "Veneto",
+      "dettagli": ""
+    },
+    {
+      "denominazione": "Piave Malanotte",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "da uve raboso, prodotto nella città metropolitana di Venezia e in provincia di Treviso"
+    },
+    {
+      "denominazione": "Recioto della Valpolicella",
+      "tipo": "rosso",
+      "regione": "Veneto",
+      "dettagli": "prodotto nella provincia di Verona"
+    },
+    {
+      "denominazione": "Recioto di Gambellara",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "prodotto nella provincia di Vicenza"
+    },
+    {
+      "denominazione": "Recioto di Soave",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "nelle tipologie normale, Classico e Spumante, prodotto nella provincia di Verona"
+    },
+    {
+      "denominazione": "Soave superiore",
+      "tipo": "bianco",
+      "regione": "Veneto",
+      "dettagli": "nelle tipologie normale, Classico e Riserva, prodotto nella provincia di Verona"
+    }
+  ],
+  "meta": {
+    "title": "Vini DOCG italiani - Free Download",
+    "description": "Elenco dei vini italiani a Denominazione di origine controllata e garantita (DOCG), con tipologia e regione di produzione. Contains 80 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vini DOCG italiani | ListBase",
+    "seo_description": "Download Vini DOCG italiani — 80 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 80 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Denominazione_di_origine_controllata_e_garantita"
+    ]
+  }
+}

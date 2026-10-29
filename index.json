@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:24.500Z",
-  "total_datasets": 488,
-  "total_records": 138716,
+  "generated": "2026-10-29T02:11:26.785Z",
+  "total_datasets": 489,
+  "total_records": 138796,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -144,6 +144,31 @@
         "xlsx": {
           "name": "it-province-prodotti-dop-igp_IT.xlsx",
           "size": 9003
+        }
+      }
+    },
+    {
+      "id": "it-vini-docg",
+      "name": "Vini DOCG italiani",
+      "category": "agriculture",
+      "record_count": 80,
+      "columns": [
+        "denominazione",
+        "tipo",
+        "regione",
+        "dettagli"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Denominazione_di_origine_controllata_e_garantita",
+      "updated": "2026-10",
+      "size": 18153,
+      "files": {
+        "csv": {
+          "name": "it-vini-docg_IT.csv",
+          "size": 9599
+        },
+        "xlsx": {
+          "name": "it-vini-docg_IT.xlsx",
+          "size": 10789
         }
       }
     },
