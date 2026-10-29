@@ -1,0 +1,816 @@
+{
+  "id": "it-ministri-delle-finanze",
+  "name": "Ministri delle finanze e dell'economia della Repubblica Italiana",
+  "title": "Ministri delle finanze e dell'economia della Repubblica Italiana",
+  "description": "Ministri delle finanze (1945–2001) e dell'economia e delle finanze (dal 2001) della Repubblica Italiana, con partito, governo e durata del mandato.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Ministri_delle_finanze_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_delle_finanze_della_Repubblica_Italiana",
+  "updated": "2026-10",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "ministro",
+      "label": "Ministro",
+      "type": "string"
+    },
+    {
+      "key": "anni_vita",
+      "label": "Anni Vita",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    },
+    {
+      "key": "dicastero",
+      "label": "Dicastero",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministro": "Mauro Scoccimarro",
+      "anni_vita": "1895-1972",
+      "partito": "Partito Comunista Italiano",
+      "governo": "De Gasperi I",
+      "inizio_mandato": "10 dicembre 1945",
+      "fine_mandato": "14 luglio 1946",
+      "legislatura": "CN",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Mauro Scoccimarro",
+      "anni_vita": "1895-1972",
+      "partito": "Partito Comunista Italiano",
+      "governo": "De Gasperi II",
+      "inizio_mandato": "14 luglio 1946",
+      "fine_mandato": "2 febbraio 1947",
+      "legislatura": "AC",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Pietro Campilli",
+      "anni_vita": "1891-1974",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi III",
+      "inizio_mandato": "2 febbraio 1947",
+      "fine_mandato": "1º giugno 1947",
+      "legislatura": "AC",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Luigi Einaudi",
+      "anni_vita": "1874-1961",
+      "partito": "Partito Liberale Italiano",
+      "governo": "De Gasperi IV",
+      "inizio_mandato": "1º giugno 1947",
+      "fine_mandato": "6 giugno 1947",
+      "legislatura": "AC",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Pella",
+      "anni_vita": "1902-1981",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi IV",
+      "inizio_mandato": "6 giugno 1947",
+      "fine_mandato": "24 maggio 1948",
+      "legislatura": "AC",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ezio Vanoni",
+      "anni_vita": "1903-1956",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi V",
+      "inizio_mandato": "24 maggio 1948",
+      "fine_mandato": "28 gennaio 1950",
+      "legislatura": "I",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ezio Vanoni",
+      "anni_vita": "1903-1956",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI",
+      "inizio_mandato": "28 gennaio 1950",
+      "fine_mandato": "26 luglio 1951",
+      "legislatura": "I",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ezio Vanoni",
+      "anni_vita": "1903-1956",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII",
+      "inizio_mandato": "26 luglio 1951",
+      "fine_mandato": "16 luglio 1953",
+      "legislatura": "I",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ezio Vanoni",
+      "anni_vita": "1903-1956",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII",
+      "inizio_mandato": "16 luglio 1953",
+      "fine_mandato": "17 agosto 1953",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ezio Vanoni",
+      "anni_vita": "1903-1956",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella",
+      "inizio_mandato": "17 agosto 1953",
+      "fine_mandato": "19 gennaio 1954",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Adone Zoli",
+      "anni_vita": "1887-1960",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I",
+      "inizio_mandato": "19 gennaio 1954",
+      "fine_mandato": "10 febbraio 1954",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Roberto Tremelloni",
+      "anni_vita": "1900-1987",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Scelba",
+      "inizio_mandato": "10 febbraio 1954",
+      "fine_mandato": "6 luglio 1955",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giulio Andreotti",
+      "anni_vita": "1919-2013",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni I",
+      "inizio_mandato": "6 luglio 1955",
+      "fine_mandato": "20 maggio 1957",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giulio Andreotti",
+      "anni_vita": "1919-2013",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli",
+      "inizio_mandato": "20 maggio 1957",
+      "fine_mandato": "2 luglio 1958",
+      "legislatura": "II",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Luigi Preti",
+      "anni_vita": "1914-2009",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Fanfani II",
+      "inizio_mandato": "2 luglio 1958",
+      "fine_mandato": "16 febbraio 1959",
+      "legislatura": "III",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Paolo Emilio Taviani",
+      "anni_vita": "1912-2001",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II",
+      "inizio_mandato": "16 febbraio 1959",
+      "fine_mandato": "26 marzo 1960",
+      "legislatura": "III",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Trabucchi",
+      "anni_vita": "1904-1975",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni",
+      "inizio_mandato": "26 marzo 1960",
+      "fine_mandato": "27 luglio 1960",
+      "legislatura": "III",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Trabucchi",
+      "anni_vita": "1904-1975",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III",
+      "inizio_mandato": "27 luglio 1960",
+      "fine_mandato": "22 febbraio 1962",
+      "legislatura": "III",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Trabucchi",
+      "anni_vita": "1904-1975",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV",
+      "inizio_mandato": "22 febbraio 1962",
+      "fine_mandato": "22 giugno 1963",
+      "legislatura": "III",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Mario Martinelli",
+      "anni_vita": "1906-2001",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I",
+      "inizio_mandato": "22 giugno 1963",
+      "fine_mandato": "5 dicembre 1963",
+      "legislatura": "IV",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Roberto Tremelloni",
+      "anni_vita": "1900-1987",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Moro I",
+      "inizio_mandato": "5 dicembre 1963",
+      "fine_mandato": "23 luglio 1964",
+      "legislatura": "IV",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Roberto Tremelloni",
+      "anni_vita": "1900-1987",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Moro II",
+      "inizio_mandato": "23 luglio 1964",
+      "fine_mandato": "24 febbraio 1966",
+      "legislatura": "IV",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Luigi Preti",
+      "anni_vita": "1914-2009",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Moro III",
+      "inizio_mandato": "24 febbraio 1966",
+      "fine_mandato": "25 giugno 1968",
+      "legislatura": "IV",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Mario Ferrari Aggradi",
+      "anni_vita": "1916-1997",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II",
+      "inizio_mandato": "25 giugno 1968",
+      "fine_mandato": "13 dicembre 1968",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Oronzo Reale",
+      "anni_vita": "1902-1988",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Rumor I",
+      "inizio_mandato": "13 dicembre 1968",
+      "fine_mandato": "6 agosto 1969",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giacinto Bosco",
+      "anni_vita": "1905-1997",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II",
+      "inizio_mandato": "6 agosto 1969",
+      "fine_mandato": "28 marzo 1970",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Luigi Preti",
+      "anni_vita": "1914-2009",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Rumor III",
+      "inizio_mandato": "28 marzo 1970",
+      "fine_mandato": "6 agosto 1970",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Luigi Preti",
+      "anni_vita": "1914-2009",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Colombo",
+      "inizio_mandato": "6 agosto 1970",
+      "fine_mandato": "18 febbraio 1972",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Pella",
+      "anni_vita": "1902-1981",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I",
+      "inizio_mandato": "18 febbraio 1972",
+      "fine_mandato": "26 giugno 1972",
+      "legislatura": "V",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Athos Valsecchi",
+      "anni_vita": "1919-1985",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II",
+      "inizio_mandato": "26 giugno 1972",
+      "fine_mandato": "8 luglio 1973",
+      "legislatura": "VI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Emilio Colombo",
+      "anni_vita": "1920-2013",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor IV",
+      "inizio_mandato": "8 luglio 1973",
+      "fine_mandato": "15 marzo 1974",
+      "legislatura": "VI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Mario Tanassi",
+      "anni_vita": "1916-2007",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Rumor V",
+      "inizio_mandato": "15 marzo 1974",
+      "fine_mandato": "23 novembre 1974",
+      "legislatura": "VI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Bruno Visentini",
+      "anni_vita": "1914-1995",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Moro IV",
+      "inizio_mandato": "23 novembre 1974",
+      "fine_mandato": "12 febbraio 1976",
+      "legislatura": "VI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Gaetano Stammati",
+      "anni_vita": "1908-2002",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V",
+      "inizio_mandato": "12 febbraio 1976",
+      "fine_mandato": "30 luglio 1976",
+      "legislatura": "VI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Filippo Maria Pandolfi",
+      "anni_vita": "1927-2025",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III",
+      "inizio_mandato": "30 luglio 1976",
+      "fine_mandato": "13 marzo 1978",
+      "legislatura": "VII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Maria Malfatti",
+      "anni_vita": "1927-1991",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV",
+      "inizio_mandato": "13 marzo 1978",
+      "fine_mandato": "21 marzo 1979",
+      "legislatura": "VII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Maria Malfatti",
+      "anni_vita": "1927-1991",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti V",
+      "inizio_mandato": "21 marzo 1979",
+      "fine_mandato": "5 agosto 1979",
+      "legislatura": "VII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Reviglio",
+      "anni_vita": "1935-2025",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Cossiga I",
+      "inizio_mandato": "5 agosto 1979",
+      "fine_mandato": "4 aprile 1980",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Reviglio",
+      "anni_vita": "1935-2025",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Cossiga II",
+      "inizio_mandato": "4 aprile 1980",
+      "fine_mandato": "18 ottobre 1980",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Reviglio",
+      "anni_vita": "1935-2025",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Forlani",
+      "inizio_mandato": "18 ottobre 1980",
+      "fine_mandato": "28 giugno 1981",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Rino Formica",
+      "anni_vita": "1927",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Spadolini I",
+      "inizio_mandato": "28 giugno 1981",
+      "fine_mandato": "23 agosto 1982",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Rino Formica",
+      "anni_vita": "1927",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Spadolini II",
+      "inizio_mandato": "23 agosto 1982",
+      "fine_mandato": "1º dicembre 1982",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Francesco Forte",
+      "anni_vita": "1929-2022",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Fanfani V",
+      "inizio_mandato": "1º dicembre 1982",
+      "fine_mandato": "4 agosto 1983",
+      "legislatura": "VIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Bruno Visentini",
+      "anni_vita": "1914-1995",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Craxi I",
+      "inizio_mandato": "4 agosto 1983",
+      "fine_mandato": "1º agosto 1986",
+      "legislatura": "IX",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Bruno Visentini",
+      "anni_vita": "1914-1995",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Craxi II",
+      "inizio_mandato": "1º agosto 1986",
+      "fine_mandato": "18 aprile 1987",
+      "legislatura": "IX",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giuseppe Guarino",
+      "anni_vita": "1922-2020",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI",
+      "inizio_mandato": "18 aprile 1987",
+      "fine_mandato": "29 luglio 1987",
+      "legislatura": "IX",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Antonio Gava",
+      "anni_vita": "1930-2008",
+      "partito": "Democrazia Cristiana",
+      "governo": "Goria",
+      "inizio_mandato": "29 luglio 1987",
+      "fine_mandato": "13 aprile 1988",
+      "legislatura": "X",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Emilio Colombo",
+      "anni_vita": "1920-2013",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Mita",
+      "inizio_mandato": "13 aprile 1988",
+      "fine_mandato": "23 luglio 1989",
+      "legislatura": "X",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Rino Formica",
+      "anni_vita": "1927",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "23 luglio 1989",
+      "fine_mandato": "13 aprile 1991",
+      "legislatura": "X",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Rino Formica",
+      "anni_vita": "1927",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VII",
+      "inizio_mandato": "13 aprile 1991",
+      "fine_mandato": "28 giugno 1992",
+      "legislatura": "X",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giovanni Goria",
+      "anni_vita": "1943-1994",
+      "partito": "Democrazia Cristiana",
+      "governo": "Amato I",
+      "inizio_mandato": "28 giugno 1992",
+      "fine_mandato": "21 febbraio 1993",
+      "legislatura": "XI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Reviglio",
+      "anni_vita": "1935-2025",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Amato I",
+      "inizio_mandato": "21 febbraio 1993",
+      "fine_mandato": "31 marzo 1993",
+      "legislatura": "XI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Vincenzo Visco",
+      "anni_vita": "1942",
+      "partito": "Partito Democratico della Sinistra",
+      "governo": "Ciampi",
+      "inizio_mandato": "29 aprile 1993",
+      "fine_mandato": "4 maggio 1993",
+      "legislatura": "XI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Franco Gallo",
+      "anni_vita": "1937",
+      "partito": "Indipendente",
+      "governo": "Ciampi",
+      "inizio_mandato": "4 maggio 1993",
+      "fine_mandato": "11 maggio 1994",
+      "legislatura": "XI",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giulio Tremonti",
+      "anni_vita": "1947",
+      "partito": "Patto Segni Forza Italia",
+      "governo": "Berlusconi I",
+      "inizio_mandato": "11 maggio 1994",
+      "fine_mandato": "17 gennaio 1995",
+      "legislatura": "XII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Augusto Fantozzi",
+      "anni_vita": "1940-2019",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio_mandato": "17 gennaio 1995",
+      "fine_mandato": "18 maggio 1996",
+      "legislatura": "XII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Vincenzo Visco",
+      "anni_vita": "1942",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "Prodi I",
+      "inizio_mandato": "18 maggio 1996",
+      "fine_mandato": "21 ottobre 1998",
+      "legislatura": "XIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Vincenzo Visco",
+      "anni_vita": "1942",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "D'Alema I",
+      "inizio_mandato": "21 ottobre 1998",
+      "fine_mandato": "22 dicembre 1999",
+      "legislatura": "XIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Vincenzo Visco",
+      "anni_vita": "1942",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "D'Alema II",
+      "inizio_mandato": "22 dicembre 1999",
+      "fine_mandato": "26 aprile 2000",
+      "legislatura": "XIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Ottaviano Del Turco",
+      "anni_vita": "1944-2024",
+      "partito": "Socialisti Democratici Italiani",
+      "governo": "Amato II",
+      "inizio_mandato": "26 aprile 2000",
+      "fine_mandato": "11 giugno 2001",
+      "legislatura": "XIII",
+      "dicastero": "Finanze"
+    },
+    {
+      "ministro": "Giulio Tremonti",
+      "anni_vita": "1947",
+      "partito": "Forza Italia",
+      "governo": "Berlusconi II",
+      "inizio_mandato": "11 giugno 2001",
+      "fine_mandato": "3 luglio 2004",
+      "legislatura": "XIV",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Domenico Siniscalco",
+      "anni_vita": "1954",
+      "partito": "Indipendente",
+      "governo": "Berlusconi II",
+      "inizio_mandato": "16 luglio 2004",
+      "fine_mandato": "23 aprile 2005",
+      "legislatura": "XIV",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Domenico Siniscalco",
+      "anni_vita": "1954",
+      "partito": "Indipendente",
+      "governo": "Berlusconi III",
+      "inizio_mandato": "23 aprile 2005",
+      "fine_mandato": "22 settembre 2005",
+      "legislatura": "XIV",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Giulio Tremonti",
+      "anni_vita": "1947",
+      "partito": "Forza Italia",
+      "governo": "Berlusconi III",
+      "inizio_mandato": "22 settembre 2005",
+      "fine_mandato": "5 maggio 2006",
+      "legislatura": "XIV",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Tommaso Padoa-Schioppa",
+      "anni_vita": "1940-2010",
+      "partito": "Indipendente",
+      "governo": "Prodi II",
+      "inizio_mandato": "17 maggio 2006",
+      "fine_mandato": "8 maggio 2008",
+      "legislatura": "XV",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Giulio Tremonti",
+      "anni_vita": "1947",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio_mandato": "8 maggio 2008",
+      "fine_mandato": "16 novembre 2011",
+      "legislatura": "XVI",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Mario Monti",
+      "anni_vita": "1943",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio_mandato": "16 novembre 2011",
+      "fine_mandato": "11 luglio 2012",
+      "legislatura": "XVI",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Vittorio Grilli",
+      "anni_vita": "1957",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio_mandato": "11 luglio 2012",
+      "fine_mandato": "28 aprile 2013",
+      "legislatura": "XVI",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Fabrizio Saccomanni",
+      "anni_vita": "1942-2019",
+      "partito": "Indipendente",
+      "governo": "Letta",
+      "inizio_mandato": "28 aprile 2013",
+      "fine_mandato": "24 febbraio 2014",
+      "legislatura": "XVII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Pier Carlo Padoan",
+      "anni_vita": "1950",
+      "partito": "Partito Democratico",
+      "governo": "Renzi",
+      "inizio_mandato": "24 febbraio 2014",
+      "fine_mandato": "12 dicembre 2016",
+      "legislatura": "XVII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Pier Carlo Padoan",
+      "anni_vita": "1950",
+      "partito": "Partito Democratico",
+      "governo": "Gentiloni",
+      "inizio_mandato": "12 dicembre 2016",
+      "fine_mandato": "1º giugno 2018",
+      "legislatura": "XVII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Giovanni Tria",
+      "anni_vita": "1948",
+      "partito": "Indipendente",
+      "governo": "Conte I",
+      "inizio_mandato": "1º giugno 2018",
+      "fine_mandato": "5 settembre 2019",
+      "legislatura": "XVIII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Roberto Gualtieri",
+      "anni_vita": "1966",
+      "partito": "Partito Democratico",
+      "governo": "Conte II",
+      "inizio_mandato": "5 settembre 2019",
+      "fine_mandato": "13 febbraio 2021",
+      "legislatura": "XVIII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Daniele Franco",
+      "anni_vita": "1953",
+      "partito": "Indipendente",
+      "governo": "Draghi",
+      "inizio_mandato": "13 febbraio 2021",
+      "fine_mandato": "22 ottobre 2022",
+      "legislatura": "XVIII",
+      "dicastero": "Economia e finanze"
+    },
+    {
+      "ministro": "Giancarlo Giorgetti",
+      "anni_vita": "1966",
+      "partito": "Lega",
+      "governo": "Meloni",
+      "inizio_mandato": "22 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XIX",
+      "dicastero": "Economia e finanze"
+    }
+  ],
+  "meta": {
+    "title": "Ministri delle finanze e dell'economia della Repubblica Italiana - Free Download",
+    "description": "Ministri delle finanze (1945–2001) e dell'economia e delle finanze (dal 2001) della Repubblica Italiana, con partito, governo e durata del mandato. Contains 75 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri delle finanze e dell'economia della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri delle finanze e dell'economia della Repubblica Italiana — 75 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 75 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_delle_finanze_della_Repubblica_Italiana"
+    ]
+  }
+}

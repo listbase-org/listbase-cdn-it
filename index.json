@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:19.557Z",
-  "total_datasets": 486,
-  "total_records": 138618,
+  "generated": "2026-10-29T02:11:22.102Z",
+  "total_datasets": 487,
+  "total_records": 138693,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -710,6 +710,35 @@
         "xlsx": {
           "name": "it-governatori-banca-d-italia_IT.xlsx",
           "size": 7321
+        }
+      }
+    },
+    {
+      "id": "it-ministri-delle-finanze",
+      "name": "Ministri delle finanze e dell'economia della Repubblica Italiana",
+      "category": "finance",
+      "record_count": 75,
+      "columns": [
+        "ministro",
+        "anni_vita",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura",
+        "dicastero"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_delle_finanze_della_Repubblica_Italiana",
+      "updated": "2026-10",
+      "size": 24513,
+      "files": {
+        "csv": {
+          "name": "it-ministri-delle-finanze_IT.csv",
+          "size": 9110
+        },
+        "xlsx": {
+          "name": "it-ministri-delle-finanze_IT.xlsx",
+          "size": 10976
         }
       }
     },
