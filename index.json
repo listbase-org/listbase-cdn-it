@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-29T02:11:26.785Z",
-  "total_datasets": 489,
-  "total_records": 138796,
+  "generated": "2026-10-30T02:23:04.983Z",
+  "total_datasets": 490,
+  "total_records": 138809,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -15848,6 +15848,33 @@
         "xlsx": {
           "name": "it-prefissi-telefonici_IT.xlsx",
           "size": 20314
+        }
+      }
+    },
+    {
+      "id": "it-borgo-dei-borghi-vincitori",
+      "name": "Il borgo dei borghi — vincitori e finalisti",
+      "category": "tourism",
+      "record_count": 13,
+      "columns": [
+        "edizione",
+        "anno",
+        "borgo_vincitore",
+        "secondo_posto",
+        "terzo_posto",
+        "borghi_finalisti"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Il_borgo_dei_borghi",
+      "updated": "2026-10",
+      "size": 8495,
+      "files": {
+        "csv": {
+          "name": "it-borgo-dei-borghi-vincitori_IT.csv",
+          "size": 4832
+        },
+        "xlsx": {
+          "name": "it-borgo-dei-borghi-vincitori_IT.xlsx",
+          "size": 9490
         }
       }
     },

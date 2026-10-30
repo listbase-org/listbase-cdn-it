@@ -1,0 +1,160 @@
+{
+  "id": "it-borgo-dei-borghi-vincitori",
+  "name": "Il borgo dei borghi — vincitori e finalisti",
+  "title": "Il borgo dei borghi — vincitori e finalisti",
+  "description": "Vincitori, secondi e terzi classificati e borghi finalisti di ogni edizione del concorso televisivo Il borgo dei borghi (Rai 3) dal 2014.",
+  "category": "tourism",
+  "source": "https://it.wikipedia.org/wiki/Il_borgo_dei_borghi",
+  "source_url": "https://it.wikipedia.org/wiki/Il_borgo_dei_borghi",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "edizione",
+      "label": "Edizione",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "borgo_vincitore",
+      "label": "Borgo Vincitore",
+      "type": "string"
+    },
+    {
+      "key": "secondo_posto",
+      "label": "Secondo Posto",
+      "type": "string"
+    },
+    {
+      "key": "terzo_posto",
+      "label": "Terzo Posto",
+      "type": "string"
+    },
+    {
+      "key": "borghi_finalisti",
+      "label": "Borghi Finalisti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "edizione": "1ª",
+      "anno": "2014",
+      "borgo_vincitore": "Gangi (PA)",
+      "secondo_posto": "Bosa (OR)",
+      "terzo_posto": "Santa Severina (KR)",
+      "borghi_finalisti": "Acerenza (PZ), Bienno (BS), Corinaldo (AN), Sant’Agata dei Goti (BN), Caprarola (VT), Pacentro (AQ), Castiglione di Garfagnana (LU), Vogogna (VCO), Portobuffolé (TV), Valvasone (PN), Montone (PG), Vernazza (SP), Specchia (LE), Chiusa (BZ), Castell’Arquato (PC), Sepino (CB), Ètroubles (AO)"
+    },
+    {
+      "edizione": "2ª",
+      "anno": "2015",
+      "borgo_vincitore": "Montalbano Elicona (ME)",
+      "secondo_posto": "Monteverde (AV)",
+      "terzo_posto": "Castelsardo (SS)",
+      "borghi_finalisti": "Neive (CN), Venosa (PZ), Antagnod (AO), Borgio Verezzi (SV), Sabbioneta (MN), Vipiteno (BZ), Montagnana (PD), Fagagna (UD), Brisighella (RA), Pitigliano (GR), Treia (MC), Montefalco (PG), Sperlonga (LT), Civitella del Tronto (TE), Frosolone (LS), Venosa (PZ), Gerace (RC)"
+    },
+    {
+      "edizione": "3ª",
+      "anno": "2016",
+      "borgo_vincitore": "Sambuca di Sicilia (AG)",
+      "secondo_posto": "Cervo Ligure (IM)",
+      "terzo_posto": "Castellabate (SA)",
+      "borghi_finalisti": "Viggianello (PZ), Posada (NU), Fénis (AO), Fornelli (IS), Egna (BZ), Giglio Castello (GR), Ricetto di Candelo (BI), San Leo (RN), Locorotondo (BA), Offagna (AN), Scilla (RC), Cison di Valmarino (TV), Scanno (AQ), Cordovado (PN), Lovere (BG), Subiaco (RM), Spello (PG)"
+    },
+    {
+      "edizione": "4ª",
+      "anno": "2017",
+      "borgo_vincitore": "Venzone (UD)",
+      "secondo_posto": "Arquà Petrarca (PD)",
+      "terzo_posto": "Conca dei Marini (SA)",
+      "borghi_finalisti": "Canale di Tenno (TN), Fiumefreddo Bruzio (CS), Panicale (PG), Gressan (AO), Rocca San Giovanni (CH), Zavattarello (PV), Castelmezzano (PZ), Montecassiano (MC), Otranto (LE), Montegridolfo (RN), Castiglione di Sicilia (CT), Orta San Giulio (NO), Castel Gandolfo (RM), Vastogirardi (IS), La Maddalena (SS), Suvereto (LI), Tellaro (SP)"
+    },
+    {
+      "edizione": "5ª",
+      "anno": "2018",
+      "borgo_vincitore": "Gradara (PU)",
+      "secondo_posto": "Castroreale (ME)",
+      "terzo_posto": "Bobbio (PC)",
+      "borghi_finalisti": "Sermoneta (LT), Vigo di Fassa (TN), Rodi Garganico (FG), Barolo (CN), Arnad (AO), Bevagna (PG), Tursi (MT), Chiusdino (SI), Noli (SV), Altomonte (CS), Sesto al Reghena (PN), Pescocostanzo (AQ), San Giorgio di Valpolicella (VR), Stintino (SS), Bagnoli del Trigno (IS), Monte Isola (BS), Furore (SA)"
+    },
+    {
+      "edizione": "6ª",
+      "anno": "autunno 2018",
+      "borgo_vincitore": "Petralia Soprana (PA)",
+      "secondo_posto": "Subiaco (RM)",
+      "terzo_posto": "Mel (BL)",
+      "borghi_finalisti": "Poppi (AR), Lovere (BG), Bosa (OR), Mezzano,(TN), Guardiagrele (CH), Acerenza (PZ), Avise (AO), Otranto (LE), Dozza (BO), Moneglia (GE), Monteverde (AV), Massa Martana (PG), Morano Calabro (CS), Garessio (CN), Castel Petroso (IS), Corinaldo (AN), Palmanova (UD)"
+    },
+    {
+      "edizione": "7ª",
+      "anno": "autunno 2019",
+      "borgo_vincitore": "Bobbio (PC)",
+      "secondo_posto": "Palazzolo Acreide (SR)",
+      "terzo_posto": "Rotondella (MT)",
+      "borghi_finalisti": "Laigueglia (SV), Castel del Monte (AQ), Cetona (SI), Fiumefreddo Bruzio (CS), Fratta Polesine (RO), Gradara (PU), Tremosine sul Garda (BS), Vitorchiano (VT), Strassoldo (UD), Bagnoli del Trigno (IS), Tassullo (TN), Bovino (FG), Gressoney–Saint Jean (AO), Lugnano in Teverina (TR), Cella Monte (AL), Castellabate (SA), Aztara (NU)"
+    },
+    {
+      "edizione": "8ª",
+      "anno": "2021",
+      "borgo_vincitore": "Tropea (VV)",
+      "secondo_posto": "Baunei (NU)",
+      "terzo_posto": "Geraci Siculo (PA)",
+      "borghi_finalisti": "Albori (SA), Grottammare (AP), Campli (TE), Malcesine (VR), Pietramontecorvino (FG), Corciano (PG), Cocconato (AT), Finalborgo (SV), Valsinni (MT), Trivento (CB), Poffabro (PN), San Giovanni in Marignano (RN), Buonconvento (SI), Borgo Valsugana (TN), Issime (AO), Pomponesco (MN), Pico (FR)"
+    },
+    {
+      "edizione": "9ª",
+      "anno": "2022",
+      "borgo_vincitore": "Soave (VR)",
+      "secondo_posto": "Millesimo (SV)",
+      "terzo_posto": "Castelfranco Piandiscò (AR)",
+      "borghi_finalisti": "Navelli (AQ), Vico del Gargano (FG), Sutera (CL), Riccia (CB), Pergola (PU), Cabras (OR), Tremezzo (CO), Oriolo (CS), Trevi (PG), Pietragalla (PZ), Compiano (PR), Varallo (VC), Sant'Agata sui Due Golfi (NA), Levico Terme (TN), Clauiano (UD), Ventotene (LT), Verres (AO)"
+    },
+    {
+      "edizione": "10ª",
+      "anno": "2023",
+      "borgo_vincitore": "Ronciglione (VT)",
+      "secondo_posto": "Sant'Antioco (SU)",
+      "terzo_posto": "Salemi (TP)",
+      "borghi_finalisti": "Castro (LE), Campo Ligure (GE), Casoli (CH), Bellano (LC), Monteroduni (IS), Castagnole delle Lanze (AT), Campiglia Marittima (LI), Citerna (PG), Diamante (CS), Miglionico (MT), Bondone (TN), Esanatoglia (MC), Marano Lagunare (UD), Possagno (TV), Cetara (SA), Issogne (AO), Bagnara di Romagna (RA)"
+    },
+    {
+      "edizione": "11ª",
+      "anno": "2024",
+      "borgo_vincitore": "Peccioli (PI)",
+      "secondo_posto": "Badolato (CZ)",
+      "terzo_posto": "Grazie (MN)",
+      "borghi_finalisti": "Isola del Liri (FR), Montesano sulla Marcellana (SA), Leporano (TA), Maratea (PZ), Arbatax (NU), Castelvetro di Modena (MO), Naro (AG), Muggia (TS), Guarene (CN), Celle Ligure (SV), Petacciato (CB), Torreglia (PD), Genga (AN), Crecchio (CH), Stroncone (TR), Fontainemore (AO), Caldes (TN)"
+    },
+    {
+      "edizione": "12ª",
+      "anno": "2025",
+      "borgo_vincitore": "Militello in Val di Catania (CT)",
+      "secondo_posto": "Agliè (TO)",
+      "terzo_posto": "Vignanello (VT)",
+      "borghi_finalisti": "Nus (AO), Deiva Marina (SP), Corenno Plinio (LC), Ala (TN), Grado (GO), Lazise (VR), Montechiarugolo (PR), Scarperia e San Piero (FI), Sirolo (AN), Buggerru (SU), San Gemini (TR), Penne (PE), Agnone (IS), Maiori (SA), Ischitella (FG), Montalbano Jonico (MT), Aieta (CS)"
+    },
+    {
+      "edizione": "13ª",
+      "anno": "2026",
+      "borgo_vincitore": "Cingoli (MC)",
+      "secondo_posto": "Arenzano (GE)",
+      "terzo_posto": "Zungoli (AV)",
+      "borghi_finalisti": "San Fele (PZ), San Nicola Arcella (CS), Canossa (RE), Spilimbergo (PN), Nemi (RM), Lucignano (AR), Realmonte (AG), Villalago (AQ), Baselga di Piné (TN), Castellaro Lagusello (MN) Sadali (CA), Villar San Costanzo (CN), Battaglia Terme (PD), Passignano sul Trasimeno (PG), Guardialfiera (CB), Margherita di Savoia (BT), Châtillon (AO)"
+    }
+  ],
+  "meta": {
+    "title": "Il borgo dei borghi — vincitori e finalisti - Free Download",
+    "description": "Vincitori, secondi e terzi classificati e borghi finalisti di ogni edizione del concorso televisivo Il borgo dei borghi (Rai 3) dal 2014. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Il borgo dei borghi — vincitori e finalisti | ListBase",
+    "seo_description": "Download Il borgo dei borghi — vincitori e finalisti — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Il_borgo_dei_borghi"
+    ]
+  }
+}
