@@ -1,0 +1,586 @@
+{
+  "id": "it-tipi-di-pasta",
+  "name": "Tipi di pasta italiana",
+  "title": "Tipi di pasta italiana",
+  "description": "Elenco dei formati di pasta italiana (lunga, corta, ripiena, ecc.) con descrizione e regioni di origine.",
+  "category": "food",
+  "source": "https://it.wikipedia.org/wiki/Tipi_di_pasta_italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Tipi_di_pasta_italiana",
+  "updated": "2026-10",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "descrizione",
+      "label": "Descrizione",
+      "type": "string"
+    },
+    {
+      "key": "regioni",
+      "label": "Regioni",
+      "type": "string"
+    },
+    {
+      "key": "categoria",
+      "label": "Categoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tipo": "Bigoli, Bìgoi",
+      "descrizione": "Grossi spaghetti con superficie ruvida, trafilati al bronzo.",
+      "regioni": "Veneto",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Capellini",
+      "descrizione": "Pasta secca non all'uovo con diametro molto ridotto",
+      "regioni": "Liguria",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Fidelini, Fedelini, Fidellini, Fidei",
+      "descrizione": "Sottilissimi spaghetti a volte all'uovo",
+      "regioni": "Liguria",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Pici",
+      "descrizione": "Grossi spaghetti tirati a mano",
+      "regioni": "Toscana",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Spaghetti",
+      "descrizione": "Pasta secca non all'uovo",
+      "regioni": "Sicilia",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Tròccoli",
+      "descrizione": "Rustici tagliolini a sezione ovale di grana ruvida",
+      "regioni": "Puglia",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Vermicelli",
+      "descrizione": "",
+      "regioni": "Campania",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Spaghetti scanalati",
+      "descrizione": "Spaghetti di sezione ovale con una scanalatura sulla superficie superiore ed una su quella inferiore",
+      "regioni": "Campania",
+      "categoria": "Sezione tonda"
+    },
+    {
+      "tipo": "Spaghetti alla chitarra o Tonnarelli o Chitarrine",
+      "descrizione": "Come gli spaghetti, ma con sezione quadrata anziché rotonda",
+      "regioni": "Abruzzo, Campania",
+      "categoria": "Sezione quadrata"
+    },
+    {
+      "tipo": "Strangozzi, anche Ciriole o Manfricoli",
+      "descrizione": "Più spesse degli spaghetti alla chitarra senza uovo",
+      "regioni": "Umbria",
+      "categoria": "Sezione quadrata"
+    },
+    {
+      "tipo": "Bavette",
+      "descrizione": "Piccola versione di tagliatelle",
+      "regioni": "Liguria",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Linguine",
+      "descrizione": "Tipo di spaghetti piatti",
+      "regioni": "Liguria",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Mafalde",
+      "descrizione": "Corta striscia di pasta",
+      "regioni": "Campania",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Sagne",
+      "descrizione": "Listelli piatti (vengono chiamati anche tagliolini) o sotto forma di piccoli quadrati, al massimo di 1 cm di lato",
+      "regioni": "Abruzzo, Molise, Provincia di Frosinone",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Scialatielli o Scialatelli",
+      "descrizione": "Spaghetti fatti in casa, a sezione rettangolare irregolare",
+      "regioni": "Campania",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Trenette",
+      "descrizione": "Striscia di pasta con una riga sul lato.",
+      "regioni": "Liguria",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Pappardelle",
+      "descrizione": "Versione di tagliatelle a base larga.",
+      "regioni": "Toscana",
+      "categoria": "Sezione rettangolare o lenticolare"
+    },
+    {
+      "tipo": "Capelli d'angelo, Capelvenere",
+      "descrizione": "Pasta secca all'uovo a sezione tonda molto ridotta",
+      "regioni": "",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Fettuccine",
+      "descrizione": "Strisce di pasta all'uovo",
+      "regioni": "Lazio",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Lasagne",
+      "descrizione": "Larga striscia di pasta",
+      "regioni": "Campania, Emilia-Romagna, Marche",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Pappardelle",
+      "descrizione": "Larga striscia di pasta",
+      "regioni": "Toscana",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Pizzòccheri",
+      "descrizione": "Pasta di grano saraceno",
+      "regioni": "Lombardia",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Tagliatelle",
+      "descrizione": "Più larghe rispetto alle fettuccine",
+      "regioni": "Emilia-Romagna, Marche",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Tagliolini, Tajarin in piemontese",
+      "descrizione": "Tagliatelle più sottili",
+      "regioni": "Piemonte",
+      "categoria": "Pasta in nidi o matasse"
+    },
+    {
+      "tipo": "Bucatini",
+      "descrizione": "Spaghetti cavi",
+      "regioni": "Lazio",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Cannelloni",
+      "descrizione": "Grossi tubi ripieni",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Cavatappi",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Cellentani",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Chifferi",
+      "descrizione": "Maccheroni grossi",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Fileja",
+      "descrizione": "Pasta lavorata col ferro",
+      "regioni": "Calabria",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Fusilli o Eliche",
+      "descrizione": "Pasta di forma elicoidale",
+      "regioni": "Abruzzo, Campania, Molise, Sicilia, Calabria",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Busiate",
+      "descrizione": "Tipo di fusilli",
+      "regioni": "Sicilia",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Fusilli bucati",
+      "descrizione": "",
+      "regioni": "Campania",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Garganelli",
+      "descrizione": "Quadretti arrotolati",
+      "regioni": "Romagna",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Gargati",
+      "descrizione": "Pasta all'uovo bucata, corta",
+      "regioni": "Vicenza",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Gramigna",
+      "descrizione": "Pasta all'uovo bucata, corta e dalla forma a ricciolo",
+      "regioni": "Emilia",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Maniche da frate",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Maccheroncini",
+      "descrizione": "",
+      "regioni": "Puglia",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Pàccheri",
+      "descrizione": "Tubi larghi",
+      "regioni": "Campania",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Pasta al ceppo",
+      "descrizione": "A forma di stecca di cannella",
+      "regioni": "Abruzzo",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Penne",
+      "descrizione": "Tubi tagliati in diagonale",
+      "regioni": "Liguria",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Perciatelli",
+      "descrizione": "Bucatini più spessi",
+      "regioni": "Campania",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Rigatoni",
+      "descrizione": "pasta tubolare con scanalature longitudinali e di dimensioni maggiori rispetto ai tortiglioni",
+      "regioni": "Campania",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Sagne 'ncannulate",
+      "descrizione": "Lunghe e larghe strisce di pasta non all'uovo, avvolte in una stretta spirale",
+      "regioni": "Salento",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Sedani, Sedanini, Chiocciolini",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Torchietti",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Tortiglioni",
+      "descrizione": "pasta tubolare con scanalature a spirale e di dimensioni minori rispetto ai rigatoni",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Tùffoli",
+      "descrizione": "Tipo di rigatoni",
+      "regioni": "",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Ziti",
+      "descrizione": "Tubi lunghi e sottili",
+      "regioni": "Campania",
+      "categoria": "Pasta tubolare"
+    },
+    {
+      "tipo": "Anelletti",
+      "descrizione": "Pasta ad anello, adoperata per timballi al forno",
+      "regioni": "Sicilia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Anelloni",
+      "descrizione": "Pasta corte e tubulare",
+      "regioni": "Abruzzo",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Campanelle",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Casarecce",
+      "descrizione": "Tipo di fusilli in doppia \"S\"",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Cataneselle",
+      "descrizione": "Maccheroni grossi e corti",
+      "regioni": "Sicilia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Cavatelli",
+      "descrizione": "Pasta di forma tubolare irregolare",
+      "regioni": "Molise",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Cechetti",
+      "descrizione": "Pasta rotonda",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Cencioni",
+      "descrizione": "Pasta a forma di fiore",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Ciavattoni",
+      "descrizione": "Pasta tubolare di formato maggiore rispetto ai rigatoni",
+      "regioni": "Marche",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Conchiglie",
+      "descrizione": "Pasta a forma di valva di conchiglia",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Creste di gallo",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Dischi volanti",
+      "descrizione": "Dischi volanti con sugo alle verdure",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Farfalle, Nastrini a Galano, Colzetti",
+      "descrizione": "",
+      "regioni": "Liguria",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Fiorentine",
+      "descrizione": "",
+      "regioni": "Toscana",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Fricelli",
+      "descrizione": "",
+      "regioni": "Puglia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Fusilli",
+      "descrizione": "Pasta a spirale, spesso colorata aggiungendo nell'impasto carote o spinaci.",
+      "regioni": "Campania",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Gemelli",
+      "descrizione": "",
+      "regioni": "Puglia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Gigli",
+      "descrizione": "Pasta a forma di fiore di giglio",
+      "regioni": "Abruzzo",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Girandole",
+      "descrizione": "Tipo di Fusilli",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Gnocchi alla romana",
+      "descrizione": "Dischi di semolino. Da non confondere con gli Gnocchi di patate.",
+      "regioni": "Lazio",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Mallorèddus o Gnocchetti sardi",
+      "descrizione": "Pasta simile alle Conchiglie, ma più stretta e serrata. Da non confondere con gli Gnocchi di patate o con gli Gnocchi alla romana.",
+      "regioni": "Sardegna",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Lanterne",
+      "descrizione": "",
+      "regioni": "Puglia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Lorighìttas",
+      "descrizione": "Pasta a forma di treccina chiusa ad anello",
+      "regioni": "Sardegna",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Lumache",
+      "descrizione": "",
+      "regioni": "Abruzzo",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Maltagliati, Malfatti",
+      "descrizione": "Pasta tagliata non accuratamente.",
+      "regioni": "Emilia-Romagna",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Maniche, Mezze maniche",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Orecchiette",
+      "descrizione": "Di forma circolare irregolare",
+      "regioni": "Puglia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Passatelli",
+      "descrizione": "Imitazione di segmenti del cordone marino",
+      "regioni": "Marche, Romagna",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Paternostri",
+      "descrizione": "Detti anche ditalini",
+      "regioni": "Campania",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Pipe",
+      "descrizione": "Imitazione del guscio della chiocciola",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Radiatori",
+      "descrizione": "",
+      "regioni": "Abruzzo",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Riccioli",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Rotelle, Ruote",
+      "descrizione": "Pasta aperta dal contorno a forma di ruota raggiata",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Sagnarelli",
+      "descrizione": "Rettangoli di pasta all'uovo con bordi ondulati",
+      "regioni": "Toscana",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Spighe",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Spirali",
+      "descrizione": "",
+      "regioni": "",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Strascinati",
+      "descrizione": "Di forma circolare irregolare, un po' più grandi delle orecchiette",
+      "regioni": "Basilicata, Puglia",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Strozzapreti, Strangolapreti",
+      "descrizione": "Pasta a forma di breve cordone ritorto",
+      "regioni": "Emilia-Romagna",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Taccozze",
+      "descrizione": "Pasta piatta e romboidale",
+      "regioni": "Molise",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Testaròli (toscano), Testaièu (ligure)",
+      "descrizione": "Pasta a forma di losanga",
+      "regioni": "Liguria, Toscana (Lunigiana),",
+      "categoria": "Paste corte"
+    },
+    {
+      "tipo": "Trofie",
+      "descrizione": "Pasta lunga e sottile",
+      "regioni": "Liguria",
+      "categoria": "Paste corte"
+    }
+  ],
+  "meta": {
+    "title": "Tipi di pasta italiana - Free Download",
+    "description": "Elenco dei formati di pasta italiana (lunga, corta, ripiena, ecc.) con descrizione e regioni di origine. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tipi di pasta italiana | ListBase",
+    "seo_description": "Download Tipi di pasta italiana — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Tipi_di_pasta_italiana"
+    ]
+  }
+}

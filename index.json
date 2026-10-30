@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-30T02:23:28.532Z",
-  "total_datasets": 493,
-  "total_records": 139187,
+  "generated": "2026-10-30T02:23:35.766Z",
+  "total_datasets": 494,
+  "total_records": 139277,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -899,6 +899,31 @@
         "xlsx": {
           "name": "it-ristoranti-michelin_IT.xlsx",
           "size": 692236
+        }
+      }
+    },
+    {
+      "id": "it-tipi-di-pasta",
+      "name": "Tipi di pasta italiana",
+      "category": "food",
+      "record_count": 90,
+      "columns": [
+        "tipo",
+        "descrizione",
+        "regioni",
+        "categoria"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Tipi_di_pasta_italiana",
+      "updated": "2026-10",
+      "size": 16203,
+      "files": {
+        "csv": {
+          "name": "it-tipi-di-pasta_IT.csv",
+          "size": 6957
+        },
+        "xlsx": {
+          "name": "it-tipi-di-pasta_IT.xlsx",
+          "size": 10563
         }
       }
     },
