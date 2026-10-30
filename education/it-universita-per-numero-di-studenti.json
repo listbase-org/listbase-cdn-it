@@ -1,0 +1,695 @@
+{
+  "id": "it-universita-per-numero-di-studenti",
+  "name": "Università italiane per numero di studenti",
+  "title": "Università italiane per numero di studenti",
+  "description": "Classifica delle università italiane (statali, private e telematiche) per numero di studenti iscritti, con città e regione.",
+  "category": "education",
+  "source": "https://it.wikipedia.org/wiki/Classifica_delle_Università_Italiane_per_numero_di_studenti",
+  "source_url": "https://it.wikipedia.org/wiki/Classifica_delle_Università_Italiane_per_numero_di_studenti",
+  "updated": "2026-10",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "universita",
+      "label": "Universita",
+      "type": "string"
+    },
+    {
+      "key": "citta",
+      "label": "Citta",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "studenti",
+      "label": "Studenti",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "universita": "Università degli Studi di Roma \"La Sapienza\"",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 120000
+    },
+    {
+      "posizione": 2,
+      "universita": "Università telematica \"Pegaso\"",
+      "citta": "Napoli",
+      "regione": "Campania",
+      "studenti": 99556
+    },
+    {
+      "posizione": 3,
+      "universita": "Università di Bologna",
+      "citta": "Bologna",
+      "regione": "Emilia-Romagna",
+      "studenti": 96984
+    },
+    {
+      "posizione": 4,
+      "universita": "Università degli Studi di Torino",
+      "citta": "Torino",
+      "regione": "Piemonte",
+      "studenti": 84597
+    },
+    {
+      "posizione": 5,
+      "universita": "Università degli Studi di Padova",
+      "citta": "Padova",
+      "regione": "Veneto",
+      "studenti": 74500
+    },
+    {
+      "posizione": 6,
+      "universita": "Università degli Studi di Napoli Federico II",
+      "citta": "Napoli",
+      "regione": "Campania",
+      "studenti": 70415
+    },
+    {
+      "posizione": 7,
+      "universita": "Università degli Studi di Milano",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 57361
+    },
+    {
+      "posizione": 8,
+      "universita": "Università telematica Universitas Mercatorum",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 54879
+    },
+    {
+      "posizione": 9,
+      "universita": "Università degli Studi di Firenze",
+      "citta": "Firenze",
+      "regione": "Toscana",
+      "studenti": 54801
+    },
+    {
+      "posizione": 10,
+      "universita": "Politecnico di Milano",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 47637
+    },
+    {
+      "posizione": 11,
+      "universita": "Università degli Studi di Palermo",
+      "citta": "Palermo",
+      "regione": "Sicilia",
+      "studenti": 43937
+    },
+    {
+      "posizione": 12,
+      "universita": "Università di Pisa",
+      "citta": "Pisa",
+      "regione": "Toscana",
+      "studenti": 43420
+    },
+    {
+      "posizione": 13,
+      "universita": "Università telematica e-Campus",
+      "citta": "Novedrate",
+      "regione": "Lombardia",
+      "studenti": 42604
+    },
+    {
+      "posizione": 14,
+      "universita": "Università Cattolica del Sacro Cuore",
+      "citta": "Milano, Roma",
+      "regione": "Lombardia, Lazio",
+      "studenti": 42281
+    },
+    {
+      "posizione": 15,
+      "universita": "Politecnico di Torino",
+      "citta": "Torino",
+      "regione": "Piemonte",
+      "studenti": 40562
+    },
+    {
+      "posizione": 16,
+      "universita": "Università degli Studi di Bari Aldo Moro",
+      "citta": "Bari",
+      "regione": "Puglia",
+      "studenti": 39458
+    },
+    {
+      "posizione": 17,
+      "universita": "Università degli Studi di Catania",
+      "citta": "Catania",
+      "regione": "Sicilia",
+      "studenti": 37767
+    },
+    {
+      "posizione": 18,
+      "universita": "Università degli Studi di Milano-Bicocca",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 36434
+    },
+    {
+      "posizione": 19,
+      "universita": "Università degli Studi di Parma",
+      "citta": "Parma",
+      "regione": "Emilia-Romagna",
+      "studenti": 35377
+    },
+    {
+      "posizione": 20,
+      "universita": "Università degli Studi Roma Tre",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 33471
+    },
+    {
+      "posizione": 21,
+      "universita": "Università degli Studi di Salerno",
+      "citta": "Fisciano - Salerno",
+      "regione": "Campania",
+      "studenti": 32974
+    },
+    {
+      "posizione": 22,
+      "universita": "Università degli Studi di Genova",
+      "citta": "Genova",
+      "regione": "Liguria",
+      "studenti": 31860
+    },
+    {
+      "posizione": 23,
+      "universita": "Università degli Studi di Roma Tor Vergata",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 30685
+    },
+    {
+      "posizione": 24,
+      "universita": "Università degli Studi di Perugia",
+      "citta": "Perugia",
+      "regione": "Umbria",
+      "studenti": 28657
+    },
+    {
+      "posizione": 25,
+      "universita": "Università degli Studi di Ferrara",
+      "citta": "Ferrara",
+      "regione": "Emilia-Romagna",
+      "studenti": 26731
+    },
+    {
+      "posizione": 26,
+      "universita": "Università degli Studi di Pavia",
+      "citta": "Pavia",
+      "regione": "Lombardia",
+      "studenti": 26448
+    },
+    {
+      "posizione": 27,
+      "universita": "Università degli Studi di Modena e Reggio Emilia",
+      "citta": "Modena - Reggio Emilia",
+      "regione": "Emilia-Romagna",
+      "studenti": 25523
+    },
+    {
+      "posizione": 28,
+      "universita": "Università degli Studi di Verona",
+      "citta": "Verona",
+      "regione": "Veneto",
+      "studenti": 25510
+    },
+    {
+      "posizione": 29,
+      "universita": "Università degli Studi di Messina",
+      "citta": "Messina",
+      "regione": "Sicilia",
+      "studenti": 24545
+    },
+    {
+      "posizione": 30,
+      "universita": "Università degli Studi di Cagliari",
+      "citta": "Cagliari",
+      "regione": "Sardegna",
+      "studenti": 24314
+    },
+    {
+      "posizione": 31,
+      "universita": "Università degli Studi della Campania Luigi Vanvitelli",
+      "citta": "Caserta",
+      "regione": "Campania",
+      "studenti": 23586
+    },
+    {
+      "posizione": 32,
+      "universita": "Università della Calabria",
+      "citta": "Rende - Cosenza",
+      "regione": "Calabria",
+      "studenti": 23401
+    },
+    {
+      "posizione": 33,
+      "universita": "Università degli Studi \"Gabriele d'Annunzio\"",
+      "citta": "Chieti - Pescara",
+      "regione": "Abruzzo",
+      "studenti": 21048
+    },
+    {
+      "posizione": 34,
+      "universita": "Università del Salento",
+      "citta": "Lecce",
+      "regione": "Puglia",
+      "studenti": 20201
+    },
+    {
+      "posizione": 35,
+      "universita": "Università Ca' Foscari Venezia",
+      "citta": "Venezia",
+      "regione": "Veneto",
+      "studenti": 19134
+    },
+    {
+      "posizione": 36,
+      "universita": "Università degli Studi di Bergamo",
+      "citta": "Bergamo",
+      "regione": "Lombardia",
+      "studenti": 18944
+    },
+    {
+      "posizione": 37,
+      "universita": "Università telematica \"Guglielmo Marconi\"",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 18787
+    },
+    {
+      "posizione": 38,
+      "universita": "Università degli Studi \"Niccolò Cusano\"",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 17356
+    },
+    {
+      "posizione": 39,
+      "universita": "Università telematica internazionale \"UniNettuno\"",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 16908
+    },
+    {
+      "posizione": 40,
+      "universita": "Università degli Studi di Trieste",
+      "citta": "Trieste",
+      "regione": "Friuli-Venezia Giulia",
+      "studenti": 16705
+    },
+    {
+      "posizione": 41,
+      "universita": "Università degli Studi dell'Aquila",
+      "citta": "L'Aquila",
+      "regione": "Abruzzo",
+      "studenti": 16548
+    },
+    {
+      "posizione": 42,
+      "universita": "Università degli Studi di Trento",
+      "citta": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "studenti": 16326
+    },
+    {
+      "posizione": 43,
+      "universita": "Università degli Studi di Brescia",
+      "citta": "Brescia",
+      "regione": "Lombardia",
+      "studenti": 15700
+    },
+    {
+      "posizione": 44,
+      "universita": "Università Politecnica delle Marche",
+      "citta": "Ancona",
+      "regione": "Marche",
+      "studenti": 15639
+    },
+    {
+      "posizione": 45,
+      "universita": "Università degli Studi di Siena",
+      "citta": "Siena",
+      "regione": "Toscana",
+      "studenti": 14785
+    },
+    {
+      "posizione": 46,
+      "universita": "Università degli Studi di Udine",
+      "citta": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "studenti": 14544
+    },
+    {
+      "posizione": 47,
+      "universita": "Università degli Studi del Piemonte Orientale Amedeo Avogadro",
+      "citta": "Alessandria - Novara - Vercelli",
+      "regione": "Piemonte",
+      "studenti": 13994
+    },
+    {
+      "posizione": 48,
+      "universita": "Università commerciale Luigi Bocconi",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 13750
+    },
+    {
+      "posizione": 49,
+      "universita": "Università degli Studi di Urbino \"Carlo Bo\"",
+      "citta": "Urbino",
+      "regione": "Marche",
+      "studenti": 13507
+    },
+    {
+      "posizione": 50,
+      "universita": "Università degli Studi di Foggia",
+      "citta": "Foggia",
+      "regione": "Puglia",
+      "studenti": 13472
+    },
+    {
+      "posizione": 51,
+      "universita": "Università degli Studi di Napoli \"Parthenope\"",
+      "citta": "Napoli",
+      "regione": "Campania",
+      "studenti": 13424
+    },
+    {
+      "posizione": 52,
+      "universita": "Università telematica San Raffaele",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 12673
+    },
+    {
+      "posizione": 53,
+      "universita": "Università degli Studi di Sassari",
+      "citta": "Sassari",
+      "regione": "Sardegna",
+      "studenti": 11989
+    },
+    {
+      "posizione": 54,
+      "universita": "Università degli Studi Magna Græcia di Catanzaro",
+      "citta": "Catanzaro",
+      "regione": "Calabria",
+      "studenti": 11449
+    },
+    {
+      "posizione": 55,
+      "universita": "Università degli Studi dell'Insubria",
+      "citta": "Como - Varese",
+      "regione": "Lombardia",
+      "studenti": 11326
+    },
+    {
+      "posizione": 56,
+      "universita": "Libera università internazionale degli studi sociali Guido Carli",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 11061
+    },
+    {
+      "posizione": 57,
+      "universita": "Politecnico di Bari",
+      "citta": "Bari",
+      "regione": "Puglia",
+      "studenti": 9969
+    },
+    {
+      "posizione": 58,
+      "universita": "Università degli Studi di Napoli \"L'Orientale\"",
+      "citta": "Napoli",
+      "regione": "Campania",
+      "studenti": 9327
+    },
+    {
+      "posizione": 59,
+      "universita": "Università degli Studi di Macerata",
+      "citta": "Macerata",
+      "regione": "Marche",
+      "studenti": 8947
+    },
+    {
+      "posizione": 60,
+      "universita": "Libera Università Maria Santissima Assunta",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 8929
+    },
+    {
+      "posizione": 61,
+      "universita": "Università degli Studi \"Suor Orsola Benincasa\"",
+      "citta": "Napoli",
+      "regione": "Campania",
+      "studenti": 8759
+    },
+    {
+      "posizione": 62,
+      "universita": "Libera università di lingue e comunicazione IULM",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 7825
+    },
+    {
+      "posizione": 63,
+      "universita": "Università degli Studi della Tuscia",
+      "citta": "Viterbo",
+      "regione": "Lazio",
+      "studenti": 7658
+    },
+    {
+      "posizione": 64,
+      "universita": "Università degli Studi di Cassino e del Lazio Meridionale",
+      "citta": "Cassino",
+      "regione": "Lazio",
+      "studenti": 7305
+    },
+    {
+      "posizione": 65,
+      "universita": "Università degli Studi del Molise",
+      "citta": "Campobasso",
+      "regione": "Molise",
+      "studenti": 6775
+    },
+    {
+      "posizione": 66,
+      "universita": "Università degli Studi di Camerino",
+      "citta": "Camerino",
+      "regione": "Marche",
+      "studenti": 5725
+    },
+    {
+      "posizione": 67,
+      "universita": "Università degli Studi della Basilicata",
+      "citta": "Potenza - Matera",
+      "regione": "Basilicata",
+      "studenti": 5631
+    },
+    {
+      "posizione": 68,
+      "universita": "Università Kore di Enna",
+      "citta": "Enna",
+      "regione": "Sicilia",
+      "studenti": 5381
+    },
+    {
+      "posizione": 69,
+      "universita": "Università Vita-Salute San Raffaele",
+      "citta": "Milano",
+      "regione": "Lombardia",
+      "studenti": 5161
+    },
+    {
+      "posizione": 70,
+      "universita": "Università degli Studi di Teramo",
+      "citta": "Teramo",
+      "regione": "Abruzzo",
+      "studenti": 4814
+    },
+    {
+      "posizione": 71,
+      "universita": "Università degli Studi \"Mediterranea\" di Reggio Calabria",
+      "citta": "Reggio Calabria",
+      "regione": "Calabria",
+      "studenti": 4745
+    },
+    {
+      "posizione": 72,
+      "universita": "Università Iuav di Venezia",
+      "citta": "Venezia",
+      "regione": "Veneto",
+      "studenti": 4470
+    },
+    {
+      "posizione": 73,
+      "universita": "Università telematica UNITELMA Sapienza",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 3553
+    },
+    {
+      "posizione": 74,
+      "universita": "Università degli Studi del Sannio",
+      "citta": "Benevento",
+      "regione": "Campania",
+      "studenti": 3522
+    },
+    {
+      "posizione": 75,
+      "universita": "Libera Università di Bolzano",
+      "citta": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "studenti": 3440
+    },
+    {
+      "posizione": 76,
+      "universita": "Saint Camillus International University of Health Sciences",
+      "citta": "Roma - Cefalù - Venezia",
+      "regione": "Lazio - Sicilia - Veneto",
+      "studenti": 2971
+    },
+    {
+      "posizione": 77,
+      "universita": "Università Campus Bio-Medico",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 2931
+    },
+    {
+      "posizione": 78,
+      "universita": "Università Carlo Cattaneo",
+      "citta": "Castellanza",
+      "regione": "Lombardia",
+      "studenti": 2531
+    },
+    {
+      "posizione": 79,
+      "universita": "Università degli Studi di Roma Foro Italico",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 2383
+    },
+    {
+      "posizione": 80,
+      "universita": "Università Europea di Roma",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 2379
+    },
+    {
+      "posizione": 81,
+      "universita": "Università telematica Giustino Fortunato",
+      "citta": "Benevento",
+      "regione": "Campania",
+      "studenti": 2189
+    },
+    {
+      "posizione": 82,
+      "universita": "Humanitas University",
+      "citta": "Pieve Emanuele",
+      "regione": "Lombardia",
+      "studenti": 2020
+    },
+    {
+      "posizione": 83,
+      "universita": "Libera Università Mediterranea",
+      "citta": "Casamassima",
+      "regione": "Puglia",
+      "studenti": 2018
+    },
+    {
+      "posizione": 84,
+      "universita": "Università telematica \"Italian University Line\"",
+      "citta": "Firenze",
+      "regione": "Toscana",
+      "studenti": 1767
+    },
+    {
+      "posizione": 85,
+      "universita": "Università per stranieri di Siena",
+      "citta": "Siena",
+      "regione": "Toscana",
+      "studenti": 1657
+    },
+    {
+      "posizione": 86,
+      "universita": "Università degli Studi Internazionali di Roma",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 1358
+    },
+    {
+      "posizione": 87,
+      "universita": "Università per stranieri di Perugia",
+      "citta": "Perugia",
+      "regione": "Umbria",
+      "studenti": 997
+    },
+    {
+      "posizione": 88,
+      "universita": "Università della Valle d'Aosta",
+      "citta": "Aosta",
+      "regione": "Valle d'Aosta",
+      "studenti": 954
+    },
+    {
+      "posizione": 89,
+      "universita": "Link Campus University",
+      "citta": "Roma",
+      "regione": "Lazio",
+      "studenti": 856
+    },
+    {
+      "posizione": 90,
+      "universita": "Università per stranieri \"Dante Alighieri\" di Reggio Calabria",
+      "citta": "Reggio Calabria",
+      "regione": "Calabria",
+      "studenti": 329
+    },
+    {
+      "posizione": 91,
+      "universita": "Università telematica \"Leonardo da Vinci\"",
+      "citta": "Torrevecchia Teatina",
+      "regione": "Abruzzo",
+      "studenti": 314
+    },
+    {
+      "posizione": 92,
+      "universita": "Università degli Studi di scienze gastronomiche",
+      "citta": "Bra",
+      "regione": "Piemonte",
+      "studenti": 276
+    }
+  ],
+  "meta": {
+    "title": "Università italiane per numero di studenti - Free Download",
+    "description": "Classifica delle università italiane (statali, private e telematiche) per numero di studenti iscritti, con città e regione. Contains 92 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Università italiane per numero di studenti | ListBase",
+    "seo_description": "Download Università italiane per numero di studenti — 92 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 92 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Classifica_delle_Università_Italiane_per_numero_di_studenti"
+    ]
+  }
+}

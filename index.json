@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-30T02:23:35.766Z",
-  "total_datasets": 494,
-  "total_records": 139277,
+  "generated": "2026-10-30T02:23:44.097Z",
+  "total_datasets": 495,
+  "total_records": 139369,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -480,6 +480,32 @@
         "xlsx": {
           "name": "it-universita_IT.xlsx",
           "size": 12075
+        }
+      }
+    },
+    {
+      "id": "it-universita-per-numero-di-studenti",
+      "name": "Università italiane per numero di studenti",
+      "category": "education",
+      "record_count": 92,
+      "columns": [
+        "posizione",
+        "universita",
+        "citta",
+        "regione",
+        "studenti"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Classifica_delle_Università_Italiane_per_numero_di_studenti",
+      "updated": "2026-10",
+      "size": 18100,
+      "files": {
+        "csv": {
+          "name": "it-universita-per-numero-di-studenti_IT.csv",
+          "size": 6937
+        },
+        "xlsx": {
+          "name": "it-universita-per-numero-di-studenti_IT.xlsx",
+          "size": 10819
         }
       }
     },
