@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-30T02:23:20.761Z",
-  "total_datasets": 492,
-  "total_records": 139167,
+  "generated": "2026-10-30T02:23:28.532Z",
+  "total_datasets": 493,
+  "total_records": 139187,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -15229,6 +15229,31 @@
         "xlsx": {
           "name": "it-stranieri-residenti-per-cittadinanza_IT.xlsx",
           "size": 15626
+        }
+      }
+    },
+    {
+      "id": "it-stranieri-residenti-per-regione",
+      "name": "Stranieri residenti in Italia per regione",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "posizione",
+        "regione",
+        "popolazione_straniera_residente",
+        "percentuale_su_popolazione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Immigrazione_in_Italia",
+      "updated": "2026-10",
+      "size": 4784,
+      "files": {
+        "csv": {
+          "name": "it-stranieri-residenti-per-regione_IT.csv",
+          "size": 744
+        },
+        "xlsx": {
+          "name": "it-stranieri-residenti-per-regione_IT.xlsx",
+          "size": 7418
         }
       }
     },

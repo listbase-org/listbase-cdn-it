@@ -1,0 +1,166 @@
+{
+  "id": "it-stranieri-residenti-per-regione",
+  "name": "Stranieri residenti in Italia per regione",
+  "title": "Stranieri residenti in Italia per regione",
+  "description": "Popolazione straniera residente nelle regioni italiane e percentuale sulla popolazione totale (dati ISTAT).",
+  "category": "society",
+  "source": "https://it.wikipedia.org/wiki/Immigrazione_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Immigrazione_in_Italia",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "popolazione_straniera_residente",
+      "label": "Popolazione Straniera Residente",
+      "type": "number"
+    },
+    {
+      "key": "percentuale_su_popolazione",
+      "label": "Percentuale Su Popolazione",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "regione": "Lombardia",
+      "popolazione_straniera_residente": 1176169,
+      "percentuale_su_popolazione": 11.8
+    },
+    {
+      "posizione": 2,
+      "regione": "Lazio",
+      "popolazione_straniera_residente": 634045,
+      "percentuale_su_popolazione": 11.1
+    },
+    {
+      "posizione": 3,
+      "regione": "Emilia-Romagna",
+      "popolazione_straniera_residente": 554041,
+      "percentuale_su_popolazione": 12.5
+    },
+    {
+      "posizione": 4,
+      "regione": "Veneto",
+      "popolazione_straniera_residente": 498127,
+      "percentuale_su_popolazione": 10.3
+    },
+    {
+      "posizione": 5,
+      "regione": "Piemonte",
+      "popolazione_straniera_residente": 420240,
+      "percentuale_su_popolazione": 9.9
+    },
+    {
+      "posizione": 6,
+      "regione": "Toscana",
+      "popolazione_straniera_residente": 415190,
+      "percentuale_su_popolazione": 11.3
+    },
+    {
+      "posizione": 7,
+      "regione": "Campania",
+      "popolazione_straniera_residente": 251996,
+      "percentuale_su_popolazione": 4.5
+    },
+    {
+      "posizione": 8,
+      "regione": "Sicilia",
+      "popolazione_straniera_residente": 191368,
+      "percentuale_su_popolazione": 4
+    },
+    {
+      "posizione": 9,
+      "regione": "Liguria",
+      "popolazione_straniera_residente": 150541,
+      "percentuale_su_popolazione": 10
+    },
+    {
+      "posizione": 10,
+      "regione": "Puglia",
+      "popolazione_straniera_residente": 142145,
+      "percentuale_su_popolazione": 3.6
+    },
+    {
+      "posizione": 11,
+      "regione": "Marche",
+      "popolazione_straniera_residente": 129067,
+      "percentuale_su_popolazione": 8.7
+    },
+    {
+      "posizione": 12,
+      "regione": "Friuli-Venezia Giulia",
+      "popolazione_straniera_residente": 116340,
+      "percentuale_su_popolazione": 9.7
+    },
+    {
+      "posizione": 13,
+      "regione": "Trentino-Alto Adige / Südtirol",
+      "popolazione_straniera_residente": 98267,
+      "percentuale_su_popolazione": 9.1
+    },
+    {
+      "posizione": 14,
+      "regione": "Calabria",
+      "popolazione_straniera_residente": 97062,
+      "percentuale_su_popolazione": 5.3
+    },
+    {
+      "posizione": 15,
+      "regione": "Umbria",
+      "popolazione_straniera_residente": 88571,
+      "percentuale_su_popolazione": 10.3
+    },
+    {
+      "posizione": 16,
+      "regione": "Abruzzo",
+      "popolazione_straniera_residente": 82904,
+      "percentuale_su_popolazione": 6.5
+    },
+    {
+      "posizione": 17,
+      "regione": "Sardegna",
+      "popolazione_straniera_residente": 50211,
+      "percentuale_su_popolazione": 3.2
+    },
+    {
+      "posizione": 18,
+      "regione": "Basilicata",
+      "popolazione_straniera_residente": 24211,
+      "percentuale_su_popolazione": 4.5
+    },
+    {
+      "posizione": 19,
+      "regione": "Molise",
+      "popolazione_straniera_residente": 12464,
+      "percentuale_su_popolazione": 4.3
+    },
+    {
+      "posizione": 20,
+      "regione": "Valle d'Aosta / Vallée d'Aoste",
+      "popolazione_straniera_residente": 8382,
+      "percentuale_su_popolazione": 6.8
+    }
+  ],
+  "meta": {
+    "title": "Stranieri residenti in Italia per regione - Free Download",
+    "description": "Popolazione straniera residente nelle regioni italiane e percentuale sulla popolazione totale (dati ISTAT). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stranieri residenti in Italia per regione | ListBase",
+    "seo_description": "Download Stranieri residenti in Italia per regione — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Immigrazione_in_Italia"
+    ]
+  }
+}
