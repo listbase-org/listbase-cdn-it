@@ -1,0 +1,1549 @@
+{
+  "id": "it-david-di-donatello-miglior-film",
+  "name": "David di Donatello per il miglior film — vincitori e candidati",
+  "title": "David di Donatello per il miglior film — vincitori e candidati",
+  "description": "Vincitori e candidati al David di Donatello per il miglior film dal 1970, con anno, film, regista e indicazione del vincitore.",
+  "category": "entertainment",
+  "source": "https://it.wikipedia.org/wiki/David_di_Donatello_per_il_miglior_film",
+  "source_url": "https://it.wikipedia.org/wiki/David_di_Donatello_per_il_miglior_film",
+  "updated": "2026-10",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "regia",
+      "label": "Regia",
+      "type": "string"
+    },
+    {
+      "key": "vincitore",
+      "label": "Vincitore",
+      "type": "string"
+    },
+    {
+      "key": "ex_aequo",
+      "label": "Ex Aequo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1970,
+      "film": "Indagine su un cittadino al di sopra di ogni sospetto",
+      "regia": "Elio Petri",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1970,
+      "film": "Metello",
+      "regia": "Mauro Bolognini",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1971,
+      "film": "Il conformista",
+      "regia": "Bernardo Bertolucci",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1971,
+      "film": "Il giardino dei Finzi Contini",
+      "regia": "Vittorio De Sica",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1971,
+      "film": "Waterloo (Waterloo)",
+      "regia": "Sergej Bondarchuk",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1972,
+      "film": "La classe operaia va in paradiso",
+      "regia": "Elio Petri",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1972,
+      "film": "Questa specie d'amore",
+      "regia": "Alberto Bevilacqua",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1973,
+      "film": "Alfredo Alfredo",
+      "regia": "Pietro Germi",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1973,
+      "film": "Ludwig",
+      "regia": "Luchino Visconti",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1974,
+      "film": "Amarcord",
+      "regia": "Federico Fellini",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1974,
+      "film": "Pane e cioccolata",
+      "regia": "Franco Brusati",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1975,
+      "film": "Fatti di gente perbene",
+      "regia": "Mauro Bolognini",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1975,
+      "film": "Gruppo di famiglia in un interno",
+      "regia": "Luchino Visconti",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1976,
+      "film": "Cadaveri eccellenti",
+      "regia": "Francesco Rosi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1977,
+      "film": "Il deserto dei Tartari",
+      "regia": "Valerio Zurlini",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1977,
+      "film": "Un borghese piccolo piccolo",
+      "regia": "Mario Monicelli",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1978,
+      "film": "Il prefetto di ferro",
+      "regia": "Pasquale Squitieri",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1978,
+      "film": "In nome del Papa Re",
+      "regia": "Luigi Magni",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1979,
+      "film": "Cristo si è fermato a Eboli",
+      "regia": "Francesco Rosi",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1979,
+      "film": "Dimenticare Venezia",
+      "regia": "Franco Brusati",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1979,
+      "film": "L'albero degli zoccoli",
+      "regia": "Ermanno Olmi",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1981,
+      "film": "Ricomincio da tre",
+      "regia": "Massimo Troisi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1981,
+      "film": "Tre fratelli",
+      "regia": "Francesco Rosi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1981,
+      "film": "Passione d'amore",
+      "regia": "Ettore Scola",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1982,
+      "film": "Borotalco",
+      "regia": "Carlo Verdone",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1982,
+      "film": "Storie di ordinaria follia",
+      "regia": "Marco Ferreri",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1982,
+      "film": "Il marchese del Grillo",
+      "regia": "Mario Monicelli",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1983,
+      "film": "La notte di San Lorenzo",
+      "regia": "Paolo e Vittorio Taviani",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1983,
+      "film": "Il mondo nuovo",
+      "regia": "Ettore Scola",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1983,
+      "film": "Colpire al cuore",
+      "regia": "Gianni Amelio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1984,
+      "film": "Ballando ballando",
+      "regia": "Ettore Scola",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1984,
+      "film": "E la nave va",
+      "regia": "Federico Fellini",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1984,
+      "film": "Mi manda Picone",
+      "regia": "Nanni Loy",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1985,
+      "film": "Carmen",
+      "regia": "Francesco Rosi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1985,
+      "film": "Uno scandalo perbene",
+      "regia": "Pasquale Festa Campanile",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1985,
+      "film": "Kaos",
+      "regia": "Paolo e Vittorio Taviani",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1986,
+      "film": "Speriamo che sia femmina",
+      "regia": "Mario Monicelli",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1986,
+      "film": "Ginger e Fred",
+      "regia": "Federico Fellini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1986,
+      "film": "La messa è finita",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1987,
+      "film": "La famiglia",
+      "regia": "Ettore Scola",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1987,
+      "film": "Regalo di Natale",
+      "regia": "Pupi Avati",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1987,
+      "film": "Storia d'amore",
+      "regia": "Francesco Maselli",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1988,
+      "film": "L'ultimo imperatore",
+      "regia": "Bernardo Bertolucci",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1988,
+      "film": "Intervista",
+      "regia": "Federico Fellini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1988,
+      "film": "Oci ciornie",
+      "regia": "Nikita Sergeevič Michalkov",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1989,
+      "film": "La leggenda del santo bevitore",
+      "regia": "Ermanno Olmi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1989,
+      "film": "Nuovo Cinema Paradiso",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1989,
+      "film": "Francesco",
+      "regia": "Liliana Cavani",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1990,
+      "film": "Porte aperte",
+      "regia": "Gianni Amelio",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1990,
+      "film": "Palombella rossa",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1990,
+      "film": "La voce della Luna",
+      "regia": "Federico Fellini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1990,
+      "film": "Il male oscuro",
+      "regia": "Mario Monicelli",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1990,
+      "film": "Storia di ragazzi e di ragazze",
+      "regia": "Pupi Avati",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1991,
+      "film": "Mediterraneo",
+      "regia": "Gabriele Salvatores",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1991,
+      "film": "Verso sera",
+      "regia": "Francesca Archibugi",
+      "vincitore": "sì",
+      "ex_aequo": "sì"
+    },
+    {
+      "anno": 1991,
+      "film": "La stazione",
+      "regia": "Sergio Rubini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1991,
+      "film": "La casa del sorriso",
+      "regia": "Marco Ferreri",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1991,
+      "film": "Il portaborse",
+      "regia": "Daniele Luchetti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1992,
+      "film": "Il ladro di bambini",
+      "regia": "Gianni Amelio",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1992,
+      "film": "Il muro di gomma",
+      "regia": "Marco Risi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1992,
+      "film": "Maledetto il giorno che t'ho incontrato",
+      "regia": "Carlo Verdone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1993,
+      "film": "Il grande cocomero",
+      "regia": "Francesca Archibugi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1993,
+      "film": "La scorta",
+      "regia": "Ricky Tognazzi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1993,
+      "film": "Jona che visse nella balena",
+      "regia": "Roberto Faenza",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1994,
+      "film": "Caro diario",
+      "regia": "Nanni Moretti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1994,
+      "film": "Per amore, solo per amore",
+      "regia": "Giovanni Veronesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1994,
+      "film": "Perdiamoci di vista",
+      "regia": "Carlo Verdone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1995,
+      "film": "La scuola",
+      "regia": "Daniele Luchetti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1995,
+      "film": "L'amore molesto",
+      "regia": "Mario Martone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1995,
+      "film": "Il postino",
+      "regia": "Michael Radford",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1996,
+      "film": "Ferie d'agosto",
+      "regia": "Paolo Virzì",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1996,
+      "film": "Celluloide",
+      "regia": "Carlo Lizzani",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1996,
+      "film": "Io ballo da sola",
+      "regia": "Bernardo Bertolucci",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1996,
+      "film": "L'uomo delle stelle",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1997,
+      "film": "La tregua",
+      "regia": "Francesco Rosi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1997,
+      "film": "Il ciclone",
+      "regia": "Leonardo Pieraccioni",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1997,
+      "film": "Marianna Ucrìa",
+      "regia": "Roberto Faenza",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1997,
+      "film": "La mia generazione",
+      "regia": "Wilma Labate",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1997,
+      "film": "Nirvana",
+      "regia": "Gabriele Salvatores",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1998,
+      "film": "La vita è bella",
+      "regia": "Roberto Benigni",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1998,
+      "film": "Ovosodo",
+      "regia": "Paolo Virzì",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1998,
+      "film": "Aprile",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1999,
+      "film": "Fuori dal mondo",
+      "regia": "Giuseppe Piccioni",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1999,
+      "film": "La leggenda del pianista sull'oceano",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 1999,
+      "film": "L'assedio",
+      "regia": "Bernardo Bertolucci",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2000,
+      "film": "Pane e tulipani",
+      "regia": "Silvio Soldini",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2000,
+      "film": "Canone inverso",
+      "regia": "Ricky Tognazzi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2000,
+      "film": "Garage Olimpo",
+      "regia": "Marco Bechis",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2001,
+      "film": "La stanza del figlio",
+      "regia": "Nanni Moretti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2001,
+      "film": "I cento passi",
+      "regia": "Marco Tullio Giordana",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2001,
+      "film": "L'ultimo bacio",
+      "regia": "Gabriele Muccino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2002,
+      "film": "Il mestiere delle armi",
+      "regia": "Ermanno Olmi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2002,
+      "film": "Brucio nel vento",
+      "regia": "Silvio Soldini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2002,
+      "film": "Luce dei miei occhi",
+      "regia": "Giuseppe Piccioni",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2003,
+      "film": "La finestra di fronte",
+      "regia": "Ferzan Özpetek",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2003,
+      "film": "L'imbalsamatore",
+      "regia": "Matteo Garrone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2003,
+      "film": "L'ora di religione",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2003,
+      "film": "Respiro",
+      "regia": "Emanuele Crialese",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2003,
+      "film": "Ricordati di me",
+      "regia": "Gabriele Muccino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2004,
+      "film": "La meglio gioventù",
+      "regia": "Marco Tullio Giordana",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2004,
+      "film": "Buongiorno, notte",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2004,
+      "film": "Che ne sarà di noi",
+      "regia": "Giovanni Veronesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2004,
+      "film": "Io non ho paura",
+      "regia": "Gabriele Salvatores",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2004,
+      "film": "Non ti muovere",
+      "regia": "Sergio Castellitto",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2005,
+      "film": "Le conseguenze dell'amore",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2005,
+      "film": "Certi bambini",
+      "regia": "Andrea e Antonio Frazzi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2005,
+      "film": "Le chiavi di casa",
+      "regia": "Gianni Amelio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2005,
+      "film": "Cuore sacro",
+      "regia": "Ferzan Özpetek",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2005,
+      "film": "Manuale d'amore",
+      "regia": "Giovanni Veronesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2006,
+      "film": "Il caimano",
+      "regia": "Nanni Moretti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2006,
+      "film": "Il mio miglior nemico",
+      "regia": "Carlo Verdone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2006,
+      "film": "Notte prima degli esami",
+      "regia": "Fausto Brizzi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2006,
+      "film": "Romanzo criminale",
+      "regia": "Michele Placido",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2006,
+      "film": "La terra",
+      "regia": "Sergio Rubini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2007,
+      "film": "La sconosciuta",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2007,
+      "film": "Anche libero va bene",
+      "regia": "Kim Rossi Stuart",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2007,
+      "film": "Centochiodi",
+      "regia": "Ermanno Olmi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2007,
+      "film": "Mio fratello è figlio unico",
+      "regia": "Daniele Luchetti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2007,
+      "film": "Nuovomondo",
+      "regia": "Emanuele Crialese",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2008,
+      "film": "La ragazza del lago",
+      "regia": "Andrea Molaioli",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2008,
+      "film": "Caos calmo",
+      "regia": "Antonello Grimaldi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2008,
+      "film": "Giorni e nuvole",
+      "regia": "Silvio Soldini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2008,
+      "film": "La giusta distanza",
+      "regia": "Carlo Mazzacurati",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2008,
+      "film": "Il vento fa il suo giro",
+      "regia": "Giorgio Diritti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2009,
+      "film": "Gomorra",
+      "regia": "Matteo Garrone",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2009,
+      "film": "Il divo",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2009,
+      "film": "Ex",
+      "regia": "Fausto Brizzi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2009,
+      "film": "Tutta la vita davanti",
+      "regia": "Paolo Virzì",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2009,
+      "film": "Si può fare",
+      "regia": "Giulio Manfredonia",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2010,
+      "film": "L'uomo che verrà",
+      "regia": "Giorgio Diritti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2010,
+      "film": "Baarìa",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2010,
+      "film": "La prima cosa bella",
+      "regia": "Paolo Virzì",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2010,
+      "film": "Mine vaganti",
+      "regia": "Ferzan Özpetek",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2010,
+      "film": "Vincere",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2011,
+      "film": "Noi credevamo",
+      "regia": "Mario Martone",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2011,
+      "film": "Basilicata coast to coast",
+      "regia": "Rocco Papaleo",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2011,
+      "film": "Benvenuti al Sud",
+      "regia": "Luca Miniero",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2011,
+      "film": "La nostra vita",
+      "regia": "Daniele Luchetti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2011,
+      "film": "Una vita tranquilla",
+      "regia": "Claudio Cupellini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2012,
+      "film": "Cesare deve morire",
+      "regia": "Paolo e Vittorio Taviani",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2012,
+      "film": "Habemus Papam",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2012,
+      "film": "Romanzo di una strage",
+      "regia": "Marco Tullio Giordana",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2012,
+      "film": "Terraferma",
+      "regia": "Emanuele Crialese",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2012,
+      "film": "This Must Be the Place",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2013,
+      "film": "La migliore offerta",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2013,
+      "film": "Diaz - Don't Clean Up This Blood",
+      "regia": "Daniele Vicari",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2013,
+      "film": "Educazione siberiana",
+      "regia": "Gabriele Salvatores",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2013,
+      "film": "Io e te",
+      "regia": "Bernardo Bertolucci",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2013,
+      "film": "Viva la libertà",
+      "regia": "Roberto Andò",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2014,
+      "film": "Il capitale umano",
+      "regia": "Paolo Virzì",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2014,
+      "film": "La grande bellezza",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2014,
+      "film": "La mafia uccide solo d'estate",
+      "regia": "Pierfrancesco Diliberto",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2014,
+      "film": "La sedia della felicità",
+      "regia": "Carlo Mazzacurati",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2014,
+      "film": "Smetto quando voglio",
+      "regia": "Sydney Sibilia",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2015,
+      "film": "Anime nere",
+      "regia": "Francesco Munzi",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2015,
+      "film": "Hungry Hearts",
+      "regia": "Saverio Costanzo",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2015,
+      "film": "Il giovane favoloso",
+      "regia": "Mario Martone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2015,
+      "film": "Mia madre",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2015,
+      "film": "Torneranno i prati",
+      "regia": "Ermanno Olmi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2016,
+      "film": "Perfetti sconosciuti",
+      "regia": "Paolo Genovese",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2016,
+      "film": "Fuocoammare",
+      "regia": "Gianfranco Rosi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2016,
+      "film": "Il racconto dei racconti - Tale of Tales",
+      "regia": "Matteo Garrone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2016,
+      "film": "Non essere cattivo",
+      "regia": "Claudio Caligari",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2016,
+      "film": "Youth - La giovinezza",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2017,
+      "film": "La pazza gioia",
+      "regia": "Paolo Virzì",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2017,
+      "film": "Fai bei sogni",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2017,
+      "film": "Fiore",
+      "regia": "Claudio Giovannesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2017,
+      "film": "Indivisibili",
+      "regia": "Edoardo De Angelis",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2017,
+      "film": "Veloce come il vento",
+      "regia": "Matteo Rovere",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2018,
+      "film": "Ammore e malavita",
+      "regia": "Manetti Bros.",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2018,
+      "film": "A Ciambra",
+      "regia": "Jonas Carpignano",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2018,
+      "film": "Gatta Cenerentola",
+      "regia": "Alessandro Rak, Ivan Cappiello, Marino Guarnieri, Dario Sansone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2018,
+      "film": "La tenerezza",
+      "regia": "Gianni Amelio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2018,
+      "film": "Nico, 1988",
+      "regia": "Susanna Nicchiarelli",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2019,
+      "film": "Dogman",
+      "regia": "Matteo Garrone",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2019,
+      "film": "Chiamami col tuo nome (Call Me by Your Name)",
+      "regia": "Luca Guadagnino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2019,
+      "film": "Euforia",
+      "regia": "Valeria Golino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2019,
+      "film": "Lazzaro felice",
+      "regia": "Alice Rohrwacher",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2019,
+      "film": "Sulla mia pelle",
+      "regia": "Alessio Cremonini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2020,
+      "film": "Il traditore",
+      "regia": "Marco Bellocchio",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2020,
+      "film": "Il primo re",
+      "regia": "Matteo Rovere",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2020,
+      "film": "La paranza dei bambini",
+      "regia": "Claudio Giovannesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2020,
+      "film": "Martin Eden",
+      "regia": "Pietro Marcello",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2020,
+      "film": "Pinocchio",
+      "regia": "Matteo Garrone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2021,
+      "film": "Volevo nascondermi",
+      "regia": "Giorgio Diritti",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2021,
+      "film": "Favolacce",
+      "regia": "Fabio e Damiano D'Innocenzo",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2021,
+      "film": "Hammamet",
+      "regia": "Gianni Amelio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2021,
+      "film": "Le sorelle Macaluso",
+      "regia": "Emma Dante",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2021,
+      "film": "Miss Marx",
+      "regia": "Susanna Nicchiarelli",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2022,
+      "film": "È stata la mano di Dio",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2022,
+      "film": "Ariaferma",
+      "regia": "Leonardo Di Costanzo",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2022,
+      "film": "Ennio",
+      "regia": "Giuseppe Tornatore",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2022,
+      "film": "Freaks Out",
+      "regia": "Gabriele Mainetti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2022,
+      "film": "Qui rido io",
+      "regia": "Mario Martone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2023,
+      "film": "Le otto montagne",
+      "regia": "Felix Van Groeningen e Charlotte Vandermeersch",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2023,
+      "film": "Esterno notte",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2023,
+      "film": "Il signore delle formiche",
+      "regia": "Gianni Amelio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2023,
+      "film": "La stranezza",
+      "regia": "Roberto Andò",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2023,
+      "film": "Nostalgia",
+      "regia": "Mario Martone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2024,
+      "film": "Io capitano",
+      "regia": "Matteo Garrone",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2024,
+      "film": "C'è ancora domani",
+      "regia": "Paola Cortellesi",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2024,
+      "film": "Il sol dell'avvenire",
+      "regia": "Nanni Moretti",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2024,
+      "film": "La chimera",
+      "regia": "Alice Rohrwacher",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2024,
+      "film": "Rapito",
+      "regia": "Marco Bellocchio",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2025,
+      "film": "Vermiglio",
+      "regia": "Maura Delpero",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2025,
+      "film": "Berlinguer - La grande ambizione",
+      "regia": "Andrea Segre",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2025,
+      "film": "Il tempo che ci vuole",
+      "regia": "Francesca Comencini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2025,
+      "film": "L'arte della gioia",
+      "regia": "Valeria Golino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2025,
+      "film": "Parthenope",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2026,
+      "film": "Le città di pianura",
+      "regia": "Francesco Sossai e Adriano Candiago",
+      "vincitore": "sì",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2026,
+      "film": "Cinque secondi",
+      "regia": "Paolo Virzì",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2026,
+      "film": "Fuori",
+      "regia": "Mario Martone",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2026,
+      "film": "La grazia",
+      "regia": "Paolo Sorrentino",
+      "vincitore": "no",
+      "ex_aequo": ""
+    },
+    {
+      "anno": 2026,
+      "film": "Le assaggiatrici",
+      "regia": "Silvio Soldini",
+      "vincitore": "no",
+      "ex_aequo": ""
+    }
+  ],
+  "meta": {
+    "title": "David di Donatello per il miglior film — vincitori e candidati - Free Download",
+    "description": "Vincitori e candidati al David di Donatello per il miglior film dal 1970, con anno, film, regista e indicazione del vincitore. Contains 214 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "David di Donatello per il miglior film — vincitori e candidati | ListBase",
+    "seo_description": "Download David di Donatello per il miglior film — vincitori e candidati — 214 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 214 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/David_di_Donatello_per_il_miglior_film"
+    ]
+  }
+}

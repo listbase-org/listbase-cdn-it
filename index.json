@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-30T02:23:04.983Z",
-  "total_datasets": 490,
-  "total_records": 138809,
+  "generated": "2026-10-30T02:23:14.409Z",
+  "total_datasets": 491,
+  "total_records": 139023,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -480,6 +480,32 @@
         "xlsx": {
           "name": "it-universita_IT.xlsx",
           "size": 12075
+        }
+      }
+    },
+    {
+      "id": "it-david-di-donatello-miglior-film",
+      "name": "David di Donatello per il miglior film — vincitori e candidati",
+      "category": "entertainment",
+      "record_count": 214,
+      "columns": [
+        "anno",
+        "film",
+        "regia",
+        "vincitore",
+        "ex_aequo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/David_di_Donatello_per_il_miglior_film",
+      "updated": "2026-10",
+      "size": 33647,
+      "files": {
+        "csv": {
+          "name": "it-david-di-donatello-miglior-film_IT.csv",
+          "size": 11500
+        },
+        "xlsx": {
+          "name": "it-david-di-donatello-miglior-film_IT.xlsx",
+          "size": 14949
         }
       }
     },
