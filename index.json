@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-11-02T02:20:53.487Z",
-  "total_datasets": 498,
-  "total_records": 139620,
+  "generated": "2026-11-02T02:21:00.966Z",
+  "total_datasets": 499,
+  "total_records": 139654,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -144,6 +144,29 @@
         "xlsx": {
           "name": "it-province-prodotti-dop-igp_IT.xlsx",
           "size": 9003
+        }
+      }
+    },
+    {
+      "id": "it-razze-bovine-italiane",
+      "name": "Razze bovine italiane",
+      "category": "agriculture",
+      "record_count": 34,
+      "columns": [
+        "razza",
+        "razza_rustica"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Razze_bovine",
+      "updated": "2026-11",
+      "size": 3704,
+      "files": {
+        "csv": {
+          "name": "it-razze-bovine-italiane_IT.csv",
+          "size": 703
+        },
+        "xlsx": {
+          "name": "it-razze-bovine-italiane_IT.xlsx",
+          "size": 7342
         }
       }
     },

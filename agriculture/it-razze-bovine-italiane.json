@@ -1,0 +1,172 @@
+{
+  "id": "it-razze-bovine-italiane",
+  "name": "Razze bovine italiane",
+  "title": "Razze bovine italiane",
+  "description": "Le razze bovine di origine italiana, comprese le razze rustiche e autoctone a limitata diffusione.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Razze_bovine",
+  "source_url": "https://it.wikipedia.org/wiki/Razze_bovine",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "razza",
+      "label": "Razza",
+      "type": "string"
+    },
+    {
+      "key": "razza_rustica",
+      "label": "Razza Rustica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "razza": "Cabannina",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Chianina",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Cinisara",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Bufalo mediterraneo italiano",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Burlina",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Frisona",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Grigia alpina",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Marchigiana",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Maremmana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Mèlina",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Modicana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Piemontese",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Podolica",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Rendena",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Romagnola",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Sardo-Bruna",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Valdostana pezzata rossa",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Valdostana pezzata nera",
+      "razza_rustica": "no"
+    },
+    {
+      "razza": "Agerolese",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Bianca Modenese o Modenese",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Calvana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Pasturina",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Pinzgauer",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Pisana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Pontremolese",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Pustertaler",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Razzetta d'Oropa",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Reggiana Rossa",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Siciliana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Sarda",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Sardo-Modicana",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Savoiarda",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Vacca Burlina",
+      "razza_rustica": "sì"
+    },
+    {
+      "razza": "Varzese",
+      "razza_rustica": "sì"
+    }
+  ],
+  "meta": {
+    "title": "Razze bovine italiane - Free Download",
+    "description": "Le razze bovine di origine italiana, comprese le razze rustiche e autoctone a limitata diffusione. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Razze bovine italiane | ListBase",
+    "seo_description": "Download Razze bovine italiane — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Razze_bovine"
+    ]
+  }
+}
