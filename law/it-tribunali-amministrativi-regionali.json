@@ -1,0 +1,152 @@
+{
+  "id": "it-tribunali-amministrativi-regionali",
+  "name": "Tribunali amministrativi regionali (TAR) e sezioni",
+  "title": "Tribunali amministrativi regionali (TAR) e sezioni",
+  "description": "Le sedi dei Tribunali amministrativi regionali (TAR) italiani e delle loro sezioni staccate, per regione.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Tribunale_amministrativo_regionale",
+  "source_url": "https://it.wikipedia.org/wiki/Tribunale_amministrativo_regionale",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "citta_sede",
+      "label": "Citta Sede",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "citta_sede": "L'Aquila"
+    },
+    {
+      "regione": "Abruzzo",
+      "citta_sede": "Pescara"
+    },
+    {
+      "regione": "Basilicata",
+      "citta_sede": "Potenza"
+    },
+    {
+      "regione": "Calabria",
+      "citta_sede": "Catanzaro"
+    },
+    {
+      "regione": "Calabria",
+      "citta_sede": "Reggio Calabria"
+    },
+    {
+      "regione": "Campania",
+      "citta_sede": "Napoli"
+    },
+    {
+      "regione": "Campania",
+      "citta_sede": "Salerno"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "citta_sede": "Bologna"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "citta_sede": "Parma"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "citta_sede": "Trieste"
+    },
+    {
+      "regione": "Lazio",
+      "citta_sede": "Roma"
+    },
+    {
+      "regione": "Lazio",
+      "citta_sede": "Latina"
+    },
+    {
+      "regione": "Liguria",
+      "citta_sede": "Genova"
+    },
+    {
+      "regione": "Lombardia",
+      "citta_sede": "Milano"
+    },
+    {
+      "regione": "Lombardia",
+      "citta_sede": "Brescia"
+    },
+    {
+      "regione": "Marche",
+      "citta_sede": "Ancona"
+    },
+    {
+      "regione": "Molise",
+      "citta_sede": "Campobasso"
+    },
+    {
+      "regione": "Piemonte",
+      "citta_sede": "Torino"
+    },
+    {
+      "regione": "Puglia",
+      "citta_sede": "Bari"
+    },
+    {
+      "regione": "Puglia",
+      "citta_sede": "Lecce"
+    },
+    {
+      "regione": "Sardegna",
+      "citta_sede": "Cagliari"
+    },
+    {
+      "regione": "Sicilia",
+      "citta_sede": "Palermo"
+    },
+    {
+      "regione": "Sicilia",
+      "citta_sede": "Catania"
+    },
+    {
+      "regione": "Toscana",
+      "citta_sede": "Firenze"
+    },
+    {
+      "regione": "Trentino-Alto Adige",
+      "citta_sede": "Trento"
+    },
+    {
+      "regione": "Trentino-Alto Adige",
+      "citta_sede": "Bolzano"
+    },
+    {
+      "regione": "Umbria",
+      "citta_sede": "Perugia"
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "citta_sede": "Aosta"
+    },
+    {
+      "regione": "Veneto",
+      "citta_sede": "Venezia"
+    }
+  ],
+  "meta": {
+    "title": "Tribunali amministrativi regionali (TAR) e sezioni - Free Download",
+    "description": "Le sedi dei Tribunali amministrativi regionali (TAR) italiani e delle loro sezioni staccate, per regione. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tribunali amministrativi regionali (TAR) e sezioni | ListBase",
+    "seo_description": "Download Tribunali amministrativi regionali (TAR) e sezioni — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Tribunale_amministrativo_regionale"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-02T02:21:00.966Z",
-  "total_datasets": 499,
-  "total_records": 139654,
+  "generated": "2026-11-02T02:21:08.595Z",
+  "total_datasets": 500,
+  "total_records": 139683,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -1677,6 +1677,29 @@
         "xlsx": {
           "name": "it-presidenti-corte-costituzionale_IT.xlsx",
           "size": 10417
+        }
+      }
+    },
+    {
+      "id": "it-tribunali-amministrativi-regionali",
+      "name": "Tribunali amministrativi regionali (TAR) e sezioni",
+      "category": "law",
+      "record_count": 29,
+      "columns": [
+        "regione",
+        "citta_sede"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Tribunale_amministrativo_regionale",
+      "updated": "2026-11",
+      "size": 3603,
+      "files": {
+        "csv": {
+          "name": "it-tribunali-amministrativi-regionali_IT.csv",
+          "size": 662
+        },
+        "xlsx": {
+          "name": "it-tribunali-amministrativi-regionali_IT.xlsx",
+          "size": 7330
         }
       }
     },
