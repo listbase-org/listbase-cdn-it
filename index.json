@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-10-30T02:23:44.097Z",
-  "total_datasets": 495,
-  "total_records": 139369,
+  "generated": "2026-11-02T02:20:37.721Z",
+  "total_datasets": 496,
+  "total_records": 139469,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -1600,6 +1600,31 @@
         "xlsx": {
           "name": "it-presidenti-corte-costituzionale_IT.xlsx",
           "size": 10417
+        }
+      }
+    },
+    {
+      "id": "it-100-migliori-album-rolling-stone",
+      "name": "I 100 migliori album italiani secondo Rolling Stone",
+      "category": "music",
+      "record_count": 100,
+      "columns": [
+        "posizione",
+        "album",
+        "artista",
+        "anno"
+      ],
+      "source": "https://it.wikipedia.org/wiki/I_100_migliori_album_italiani_secondo_Rolling_Stone",
+      "updated": "2026-11",
+      "size": 14176,
+      "files": {
+        "csv": {
+          "name": "it-100-migliori-album-rolling-stone_IT.csv",
+          "size": 4768
+        },
+        "xlsx": {
+          "name": "it-100-migliori-album-rolling-stone_IT.xlsx",
+          "size": 11011
         }
       }
     },

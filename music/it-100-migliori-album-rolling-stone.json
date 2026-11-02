@@ -1,0 +1,646 @@
+{
+  "id": "it-100-migliori-album-rolling-stone",
+  "name": "I 100 migliori album italiani secondo Rolling Stone",
+  "title": "I 100 migliori album italiani secondo Rolling Stone",
+  "description": "La classifica dei 100 migliori album italiani di sempre stilata da Rolling Stone Italia, con artista e anno di pubblicazione.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/I_100_migliori_album_italiani_secondo_Rolling_Stone",
+  "source_url": "https://it.wikipedia.org/wiki/I_100_migliori_album_italiani_secondo_Rolling_Stone",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "album": "Bollicine",
+      "artista": "Vasco Rossi",
+      "anno": 1983
+    },
+    {
+      "posizione": 2,
+      "album": "La voce del padrone",
+      "artista": "Franco Battiato",
+      "anno": 1981
+    },
+    {
+      "posizione": 3,
+      "album": "Una donna per amico",
+      "artista": "Lucio Battisti",
+      "anno": 1978
+    },
+    {
+      "posizione": 4,
+      "album": "Creuza de mä",
+      "artista": "Fabrizio De André",
+      "anno": 1984
+    },
+    {
+      "posizione": 5,
+      "album": "Lorenzo 1994",
+      "artista": "Jovanotti",
+      "anno": 1994
+    },
+    {
+      "posizione": 6,
+      "album": "Ovunque proteggi",
+      "artista": "Vinicio Capossela",
+      "anno": 2006
+    },
+    {
+      "posizione": 7,
+      "album": "Siberia",
+      "artista": "Diaframma",
+      "anno": 1984
+    },
+    {
+      "posizione": 8,
+      "album": "Linea Gotica",
+      "artista": "Consorzio Suonatori Indipendenti",
+      "anno": 1996
+    },
+    {
+      "posizione": 9,
+      "album": "Arbeit macht frei",
+      "artista": "Area",
+      "anno": 1973
+    },
+    {
+      "posizione": 10,
+      "album": "Adriano Celentano con Giulio Libano e la sua orchestra",
+      "artista": "Adriano Celentano",
+      "anno": 1960
+    },
+    {
+      "posizione": 11,
+      "album": "Buon compleanno Elvis",
+      "artista": "Luciano Ligabue",
+      "anno": 1995
+    },
+    {
+      "posizione": 12,
+      "album": "Affinità-divergenze fra il compagno Togliatti e noi",
+      "artista": "CCCP - Fedeli alla linea",
+      "anno": 1985
+    },
+    {
+      "posizione": 13,
+      "album": "I buoni e i cattivi",
+      "artista": "Edoardo Bennato",
+      "anno": 1974
+    },
+    {
+      "posizione": 14,
+      "album": "Mio fratello è figlio unico",
+      "artista": "Rino Gaetano",
+      "anno": 1976
+    },
+    {
+      "posizione": 15,
+      "album": "Elio Samaga Hukapan Kariyana Turu",
+      "artista": "Elio e le Storie Tese",
+      "anno": 1989
+    },
+    {
+      "posizione": 16,
+      "album": "Microchip emozionale",
+      "artista": "Subsonica",
+      "anno": 1999
+    },
+    {
+      "posizione": 17,
+      "album": "Nero a metà",
+      "artista": "Pino Daniele",
+      "anno": 1980
+    },
+    {
+      "posizione": 18,
+      "album": "Stanze",
+      "artista": "Massimo Volume",
+      "anno": 1993
+    },
+    {
+      "posizione": 19,
+      "album": "Wow",
+      "artista": "Verdena",
+      "anno": 2011
+    },
+    {
+      "posizione": 20,
+      "album": "Rimmel",
+      "artista": "Francesco De Gregori",
+      "anno": 1975
+    },
+    {
+      "posizione": 21,
+      "album": "La malavita",
+      "artista": "Baustelle",
+      "anno": 2005
+    },
+    {
+      "posizione": 22,
+      "album": "Luigi Tenco",
+      "artista": "Luigi Tenco",
+      "anno": 1962
+    },
+    {
+      "posizione": 23,
+      "album": "Socialismo tascabile (Prove tecniche di trasmissione)",
+      "artista": "Offlaga Disco Pax",
+      "anno": 2005
+    },
+    {
+      "posizione": 24,
+      "album": "Traslocando",
+      "artista": "Loredana Bertè",
+      "anno": 1982
+    },
+    {
+      "posizione": 25,
+      "album": "SxM",
+      "artista": "Sangue Misto",
+      "anno": 1994
+    },
+    {
+      "posizione": 26,
+      "album": "Oro, incenso e birra",
+      "artista": "Zucchero Fornaciari",
+      "anno": 1989
+    },
+    {
+      "posizione": 27,
+      "album": "Sugo",
+      "artista": "Eugenio Finardi",
+      "anno": 1976
+    },
+    {
+      "posizione": 28,
+      "album": "Verità supposte",
+      "artista": "Caparezza",
+      "anno": 2003
+    },
+    {
+      "posizione": 29,
+      "album": "Via Paolo Fabbri 43",
+      "artista": "Francesco Guccini",
+      "anno": 1976
+    },
+    {
+      "posizione": 30,
+      "album": "A sangue freddo",
+      "artista": "Il Teatro degli Orrori",
+      "anno": 2009
+    },
+    {
+      "posizione": 31,
+      "album": "Dreamland",
+      "artista": "Black Box",
+      "anno": 1990
+    },
+    {
+      "posizione": 32,
+      "album": "Confusa e felice",
+      "artista": "Carmen Consoli",
+      "anno": 1997
+    },
+    {
+      "posizione": 33,
+      "album": "La testa indipendente",
+      "artista": "Tre Allegri Ragazzi Morti",
+      "anno": 2001
+    },
+    {
+      "posizione": 34,
+      "album": "Sempre più vicini",
+      "artista": "Casino Royale",
+      "anno": 1995
+    },
+    {
+      "posizione": 35,
+      "album": "Zerofobia",
+      "artista": "Renato Zero",
+      "anno": 1977
+    },
+    {
+      "posizione": 36,
+      "album": "Sanacore",
+      "artista": "Almamegretta",
+      "anno": 1995
+    },
+    {
+      "posizione": 37,
+      "album": "Un sabato italiano",
+      "artista": "Sergio Caputo",
+      "anno": 1983
+    },
+    {
+      "posizione": 38,
+      "album": "Mentre tutto scorre",
+      "artista": "Negramaro",
+      "anno": 2005
+    },
+    {
+      "posizione": 39,
+      "album": "La morte dei miracoli",
+      "artista": "Frankie hi-nrg mc",
+      "anno": 1997
+    },
+    {
+      "posizione": 40,
+      "album": "Lucio Dalla",
+      "artista": "Lucio Dalla",
+      "anno": 1979
+    },
+    {
+      "posizione": 41,
+      "album": "Non è per sempre",
+      "artista": "Afterhours",
+      "anno": 1999
+    },
+    {
+      "posizione": 42,
+      "album": "Sick Soundtrack",
+      "artista": "Gaznevada",
+      "anno": 1980
+    },
+    {
+      "posizione": 43,
+      "album": "Horror vacui",
+      "artista": "Linea 77",
+      "anno": 2008
+    },
+    {
+      "posizione": 44,
+      "album": "Storia di un minuto",
+      "artista": "Premiata Forneria Marconi",
+      "anno": 1972
+    },
+    {
+      "posizione": 45,
+      "album": "Suicidio",
+      "artista": "Faust'O",
+      "anno": 1978
+    },
+    {
+      "posizione": 46,
+      "album": "Canzoni da spiaggia deturpata",
+      "artista": "Le luci della centrale elettrica",
+      "anno": 2008
+    },
+    {
+      "posizione": 47,
+      "album": "Controcultura",
+      "artista": "Fabri Fibra",
+      "anno": 2010
+    },
+    {
+      "posizione": 48,
+      "album": "Far finta di essere sani",
+      "artista": "Giorgio Gaber",
+      "anno": 1973
+    },
+    {
+      "posizione": 49,
+      "album": "Curre curre guaglió",
+      "artista": "99 Posse",
+      "anno": 1993
+    },
+    {
+      "posizione": 50,
+      "album": "Panama e dintorni",
+      "artista": "Ivano Fossati",
+      "anno": 1981
+    },
+    {
+      "posizione": 51,
+      "album": "Uomo di pezza",
+      "artista": "Le Orme",
+      "anno": 1972
+    },
+    {
+      "posizione": 52,
+      "album": "Aria",
+      "artista": "Alan Sorrenti",
+      "anno": 1972
+    },
+    {
+      "posizione": 53,
+      "album": "Hanno ucciso l'Uomo Ragno",
+      "artista": "883",
+      "anno": 1992
+    },
+    {
+      "posizione": 54,
+      "album": "Vai Rrouge!",
+      "artista": "Enrico Ruggeri",
+      "anno": 1987
+    },
+    {
+      "posizione": 55,
+      "album": "A Berlino... va bene",
+      "artista": "Garbo",
+      "anno": 1981
+    },
+    {
+      "posizione": 56,
+      "album": "Rock '80",
+      "artista": "Artisti vari",
+      "anno": 1980
+    },
+    {
+      "posizione": 57,
+      "album": "Tutto il resto è noia",
+      "artista": "Franco Califano",
+      "anno": 1977
+    },
+    {
+      "posizione": 58,
+      "album": "Parsifal",
+      "artista": "Pooh",
+      "anno": 1973
+    },
+    {
+      "posizione": 59,
+      "album": "Profondo rosso",
+      "artista": "Goblin",
+      "anno": 1975
+    },
+    {
+      "posizione": 60,
+      "album": "Nessuno è solo",
+      "artista": "Tiziano Ferro",
+      "anno": 2006
+    },
+    {
+      "posizione": 61,
+      "album": "Pigro",
+      "artista": "Ivan Graziani",
+      "anno": 1978
+    },
+    {
+      "posizione": 62,
+      "album": "Rockmantico",
+      "artista": "Alberto Camerini",
+      "anno": 1982
+    },
+    {
+      "posizione": 63,
+      "album": "A Race with the Devil",
+      "artista": "Vanadium",
+      "anno": 1983
+    },
+    {
+      "posizione": 64,
+      "album": "Sirio 2222",
+      "artista": "Il Balletto di Bronzo",
+      "anno": 1970
+    },
+    {
+      "posizione": 65,
+      "album": "Chinese Restaurant",
+      "artista": "Krisma",
+      "anno": 1977
+    },
+    {
+      "posizione": 66,
+      "album": "Kinotto",
+      "artista": "Skiantos",
+      "anno": 1979
+    },
+    {
+      "posizione": 67,
+      "album": "Ho visto anche degli zingari felici",
+      "artista": "Claudio Lolli",
+      "anno": 1976
+    },
+    {
+      "posizione": 68,
+      "album": "Il vile",
+      "artista": "Marlene Kuntz",
+      "anno": 1996
+    },
+    {
+      "posizione": 69,
+      "album": "Lo spirito continua",
+      "artista": "Negazione",
+      "anno": 1986
+    },
+    {
+      "posizione": 70,
+      "album": "Concerti",
+      "artista": "Paolo Conte",
+      "anno": 1985
+    },
+    {
+      "posizione": 71,
+      "album": "Latin Lover",
+      "artista": "Gianna Nannini",
+      "anno": 1982
+    },
+    {
+      "posizione": 72,
+      "album": "Tango",
+      "artista": "Matia Bazar",
+      "anno": 1983
+    },
+    {
+      "posizione": 73,
+      "album": "Patty Pravo",
+      "artista": "Patty Pravo",
+      "anno": 1968
+    },
+    {
+      "posizione": 74,
+      "album": "Pipes & Flowers",
+      "artista": "Elisa",
+      "anno": 1997
+    },
+    {
+      "posizione": 75,
+      "album": "Gianni Morandi",
+      "artista": "Gianni Morandi",
+      "anno": 1963
+    },
+    {
+      "posizione": 76,
+      "album": "La voglia la pazzia l'incoscienza l'allegria",
+      "artista": "Ornella Vanoni, Toquinho, Vinícius de Moraes",
+      "anno": 1976
+    },
+    {
+      "posizione": 77,
+      "album": "Reset",
+      "artista": "Negrita",
+      "anno": 1999
+    },
+    {
+      "posizione": 78,
+      "album": "Maggese",
+      "artista": "Cesare Cremonini",
+      "anno": 2005
+    },
+    {
+      "posizione": 79,
+      "album": "Alberto Fortis",
+      "artista": "Alberto Fortis",
+      "anno": 1979
+    },
+    {
+      "posizione": 80,
+      "album": "Gino Paoli allo Studio A",
+      "artista": "Gino Paoli",
+      "anno": 1965
+    },
+    {
+      "posizione": 81,
+      "album": "Mina Live '78",
+      "artista": "Mina",
+      "anno": 1978
+    },
+    {
+      "posizione": 82,
+      "album": "Punk... Not Diet!",
+      "artista": "Giardini di Mirò",
+      "anno": 2003
+    },
+    {
+      "posizione": 83,
+      "album": "La gatta Cenerentola",
+      "artista": "Nuova Compagnia di Canto Popolare",
+      "anno": 1976
+    },
+    {
+      "posizione": 84,
+      "album": "Il tuffatore",
+      "artista": "Flavio Giurato",
+      "anno": 1982
+    },
+    {
+      "posizione": 85,
+      "album": "Biglietto per l'Inferno",
+      "artista": "Biglietto per l'Inferno",
+      "anno": 1974
+    },
+    {
+      "posizione": 86,
+      "album": "17 re",
+      "artista": "Litfiba",
+      "anno": 1986
+    },
+    {
+      "posizione": 87,
+      "album": "Pompa",
+      "artista": "Squallor",
+      "anno": 1977
+    },
+    {
+      "posizione": 88,
+      "album": "In circolo",
+      "artista": "Perturbazione",
+      "anno": 2002
+    },
+    {
+      "posizione": 89,
+      "album": "Le radici e le ali",
+      "artista": "Gang",
+      "anno": 1991
+    },
+    {
+      "posizione": 90,
+      "album": "Io e te abbiamo perso la bussola",
+      "artista": "Piero Ciampi",
+      "anno": 1973
+    },
+    {
+      "posizione": 91,
+      "album": "Gloria",
+      "artista": "Umberto Tozzi",
+      "anno": 1979
+    },
+    {
+      "posizione": 92,
+      "album": "Darwin!",
+      "artista": "Banco del Mutuo Soccorso",
+      "anno": 1972
+    },
+    {
+      "posizione": 93,
+      "album": "Metallo non metallo",
+      "artista": "Bluvertigo",
+      "anno": 1997
+    },
+    {
+      "posizione": 94,
+      "album": "Carboni",
+      "artista": "Luca Carboni",
+      "anno": 1992
+    },
+    {
+      "posizione": 95,
+      "album": "Andate tutti affanculo",
+      "artista": "The Zen Circus",
+      "anno": 2009
+    },
+    {
+      "posizione": 96,
+      "album": "Un sole che brucia",
+      "artista": "Africa Unite",
+      "anno": 1995
+    },
+    {
+      "posizione": 97,
+      "album": "Quelli che...",
+      "artista": "Enzo Jannacci",
+      "anno": 1975
+    },
+    {
+      "posizione": 98,
+      "album": "Acido Acida",
+      "artista": "Prozac+",
+      "anno": 1998
+    },
+    {
+      "posizione": 99,
+      "album": "Mectpyo Bakterium",
+      "artista": "Maurizio Bianchi",
+      "anno": 1982
+    },
+    {
+      "posizione": 100,
+      "album": "Sotto il segno dei pesci",
+      "artista": "Antonello Venditti",
+      "anno": 1978
+    }
+  ],
+  "meta": {
+    "title": "I 100 migliori album italiani secondo Rolling Stone - Free Download",
+    "description": "La classifica dei 100 migliori album italiani di sempre stilata da Rolling Stone Italia, con artista e anno di pubblicazione. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "I 100 migliori album italiani secondo Rolling Stone | ListBase",
+    "seo_description": "Download I 100 migliori album italiani secondo Rolling Stone — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/I_100_migliori_album_italiani_secondo_Rolling_Stone"
+    ]
+  }
+}
