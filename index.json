@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-02T02:20:37.721Z",
-  "total_datasets": 496,
-  "total_records": 139469,
+  "generated": "2026-11-02T02:20:46.464Z",
+  "total_datasets": 497,
+  "total_records": 139579,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -1260,6 +1260,34 @@
         "xlsx": {
           "name": "it-vulcani_IT.xlsx",
           "size": 7819
+        }
+      }
+    },
+    {
+      "id": "it-aziende-sanitarie-locali",
+      "name": "Aziende sanitarie locali (ASL) in Italia",
+      "category": "health",
+      "record_count": 110,
+      "columns": [
+        "regione",
+        "codice_regione",
+        "denominazione",
+        "codice_azienda",
+        "assetto_dal",
+        "popolazione",
+        "sede"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale",
+      "updated": "2026-11",
+      "size": 35162,
+      "files": {
+        "csv": {
+          "name": "it-aziende-sanitarie-locali_IT.csv",
+          "size": 15581
+        },
+        "xlsx": {
+          "name": "it-aziende-sanitarie-locali_IT.xlsx",
+          "size": 15076
         }
       }
     },

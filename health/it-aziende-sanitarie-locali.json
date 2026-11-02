@@ -1,0 +1,1051 @@
+{
+  "id": "it-aziende-sanitarie-locali",
+  "name": "Aziende sanitarie locali (ASL) in Italia",
+  "title": "Aziende sanitarie locali (ASL) in Italia",
+  "description": "Elenco delle aziende sanitarie locali italiane per regione, con codice regione, codice azienda, anno dell'assetto attuale, popolazione servita e sede.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale",
+  "source_url": "https://it.wikipedia.org/wiki/Azienda_sanitaria_locale",
+  "updated": "2026-11",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "codice_regione",
+      "label": "Codice Regione",
+      "type": "number"
+    },
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "codice_azienda",
+      "label": "Codice Azienda",
+      "type": "number"
+    },
+    {
+      "key": "assetto_dal",
+      "label": "Assetto Dal",
+      "type": "number"
+    },
+    {
+      "key": "popolazione",
+      "label": "Popolazione",
+      "type": "number"
+    },
+    {
+      "key": "sede",
+      "label": "Sede",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Città di Torino",
+      "codice_azienda": "301",
+      "assetto_dal": "2017",
+      "popolazione": 888103,
+      "sede": "via San Secondo 29, 10128 Torino (TO)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Torino 3",
+      "codice_azienda": "203",
+      "assetto_dal": "2017",
+      "popolazione": 585367,
+      "sede": "via Martiri XXX Aprile 30, 10093 Collegno (TO)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Torino 4",
+      "codice_azienda": "204",
+      "assetto_dal": "2017",
+      "popolazione": 516458,
+      "sede": "via Po 11, 10034 Chivasso (TO)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Torino 5",
+      "codice_azienda": "205",
+      "assetto_dal": "2017",
+      "popolazione": 310307,
+      "sede": "via San Domenico 21, 10023 Chieri (TO)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Vercelli",
+      "codice_azienda": "206",
+      "assetto_dal": "2017",
+      "popolazione": 174437,
+      "sede": "C.so Mario Abbiate 21, 13100 Vercelli (VC)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Biella",
+      "codice_azienda": "207",
+      "assetto_dal": "2017",
+      "popolazione": 178987,
+      "sede": "via dei Ponderanesi 2, 13875 Ponderano (BI)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Novara",
+      "codice_azienda": "208",
+      "assetto_dal": "2017",
+      "popolazione": 370047,
+      "sede": "Viale Roma, 7, 28100 Novara (NO)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Verbano-Cusio-Ossola",
+      "codice_azienda": "209",
+      "assetto_dal": "2017",
+      "popolazione": 159785,
+      "sede": "via Mazzini 117, 28887 Omegna (VB)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Cuneo 1",
+      "codice_azienda": "210",
+      "assetto_dal": "2017",
+      "popolazione": 429467,
+      "sede": "via Carlo Boggio 12, 12100 Cuneo (CN)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Cuneo 2",
+      "codice_azienda": "211",
+      "assetto_dal": "2017",
+      "popolazione": 171865,
+      "sede": "via Vida 10, 12051 Alba (CN)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Asti",
+      "codice_azienda": "212",
+      "assetto_dal": "2017",
+      "popolazione": 216963,
+      "sede": "via Conte Verde 125, 14100 Asti (AT)"
+    },
+    {
+      "regione": "Piemonte",
+      "codice_regione": "010",
+      "denominazione": "Azienda Sanitaria Locale Alessandria",
+      "codice_azienda": "213",
+      "assetto_dal": "2017",
+      "popolazione": 427710,
+      "sede": "via Venezia 6, 15121 Alessandria (AL)"
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "codice_regione": "020",
+      "denominazione": "Azienda Unità Sanitaria Locale della Valle d'Aosta",
+      "codice_azienda": "101",
+      "assetto_dal": "1994",
+      "popolazione": 126899,
+      "sede": "via Guido Rey 1, 11100 Aosta (AO)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute della Città Metropolitana di Milano (ex ASL di Milano 1, Milano 2 e Lodi)",
+      "codice_azienda": "321",
+      "assetto_dal": "2016",
+      "popolazione": 3442042,
+      "sede": "corso Italia 19, 20122 Milano (MI)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute dell'Insubria (ex ASL di Varese e di Como)",
+      "codice_azienda": "322",
+      "assetto_dal": "2016",
+      "popolazione": 1489421,
+      "sede": "via O. Rossi 9, 21100 Varese (VA)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute della Montagna (ex ASL di Sondrio e della Vallecamonica-Sebino)",
+      "codice_azienda": "323",
+      "assetto_dal": "2016",
+      "popolazione": 338291,
+      "sede": "via N. Sauro 38, 23100 Sondrio (SO)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute della Brianza (ex ASL di Milano 3, di Monza e della Brianza e di Lecco)",
+      "codice_azienda": "324",
+      "assetto_dal": "2016",
+      "popolazione": 1206141,
+      "sede": "viale Elvezia 2, 20900 Monza (MB)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute di Bergamo (ex ASL di Bergamo)",
+      "codice_azienda": "325",
+      "assetto_dal": "2016",
+      "popolazione": 1108336,
+      "sede": "via Galliciolli 4, 24121 Bergamo (BG)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute di Brescia (ex ASL di Brescia)",
+      "codice_azienda": "326",
+      "assetto_dal": "2016",
+      "popolazione": 1105923,
+      "sede": "viale Duca degli Abruzzi 15, 25122 Brescia (BS)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute della Val Padana (ex ASL di Cremona e di Mantova)",
+      "codice_azienda": "327",
+      "assetto_dal": "2016",
+      "popolazione": 772696,
+      "sede": "via dei Toscani 1, 46100 Mantova (MN)"
+    },
+    {
+      "regione": "Lombardia",
+      "codice_regione": "030",
+      "denominazione": "Agenzia di Tutela della Salute di Pavia (ex ASL di Pavia)",
+      "codice_azienda": "328",
+      "assetto_dal": "2016",
+      "popolazione": 547400,
+      "sede": "viale Indipendenza 1, 27100 Pavia (PV)"
+    },
+    {
+      "regione": "Alto Adige",
+      "codice_regione": "041",
+      "denominazione": "Azienda Sanitaria dell'Alto Adige (ex ASP di Merano, Bolzano, Bressanone e Brunico)",
+      "codice_azienda": "201",
+      "assetto_dal": "2007",
+      "popolazione": 522259,
+      "sede": "via Cassa di Risparmio 4, 39100 Bolzano (BZ)"
+    },
+    {
+      "regione": "Trentino",
+      "codice_regione": "042",
+      "denominazione": "Azienda Provinciale per i Servizi Sanitari di Trento",
+      "codice_azienda": "101",
+      "assetto_dal": "1994",
+      "popolazione": 537767,
+      "sede": "via de Gasperi 79, 38100 Trento (TN)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 1 - Dolomiti (ex ULSS 1 - Belluno e 2 - Feltre)",
+      "codice_azienda": "201",
+      "assetto_dal": "2017",
+      "popolazione": 206219,
+      "sede": "via Feltre 57, 32100 Belluno (BL)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 2 - Marca Trevigiana (ex ULSS 7 - Pieve di Soligo, 8 - Asolo e 9 - Treviso)",
+      "codice_azienda": "202",
+      "assetto_dal": "2017",
+      "popolazione": 884740,
+      "sede": "Borgo Cavalli 42, 31100 Treviso (TV)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 3 - Serenissima (ex ULSS 12 - Venezia, 13 - Mirano e 14 - Chioggia)",
+      "codice_azienda": "203",
+      "assetto_dal": "2017",
+      "popolazione": 636283,
+      "sede": "via Don Federico Tosatto 147, 30174 Venezia (VE)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 4 - Veneto Orientale (ex ULSS 10 - S. Donà di Piave)",
+      "codice_azienda": "204",
+      "assetto_dal": "2017",
+      "popolazione": 217831,
+      "sede": "piazza de Gasperi 5, 30027, San Donà di Piave (VE)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 5 - Polesana (ex ULSS 18 - Rovigo e 19 - Adria)",
+      "codice_azienda": "205",
+      "assetto_dal": "2017",
+      "popolazione": 239676,
+      "sede": "viale Tre Martiri 89, 45100 Rovigo (RO)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 6 - Euganea (ex ULSS 15 - Cittadella, 16 - Padova e 17 - Monselice)",
+      "codice_azienda": "206",
+      "assetto_dal": "2017",
+      "popolazione": 936823,
+      "sede": "via E. degli Scrovegni 14, 35131 Padova (PD)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 7 - Pedemontana (ex ULSS 3 - Bassano del Grappa e 4 - Alto Vicentino)",
+      "codice_azienda": "207",
+      "assetto_dal": "2017",
+      "popolazione": 370846,
+      "sede": "via dei Lotti 40, 35061 Bassano del Grappa (VI)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 8 - Berica (ex ULSS 5 - Ovest Vicentino e 6 - Vicenza)",
+      "codice_azienda": "208",
+      "assetto_dal": "2017",
+      "popolazione": 494815,
+      "sede": "viale Rodolfi 37, 36100 Vicenza (VI)"
+    },
+    {
+      "regione": "Veneto",
+      "codice_regione": "050",
+      "denominazione": "Azienda Unità Locale Socio Sanitaria 9 - Scaligera (ex ULSS 20 - Verona, 21 - Legnago e 22 - Bussolengo)",
+      "codice_azienda": "209",
+      "assetto_dal": "2017",
+      "popolazione": 921564,
+      "sede": "via Valverde 42, 37122 Verona (VR)"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "codice_regione": "060",
+      "denominazione": "Azienda sanitaria Friuli Occidentale (AS FO)",
+      "codice_azienda": "205",
+      "assetto_dal": "2020",
+      "popolazione": 293709,
+      "sede": "Via della Vecchia Ceramica 1, 33170 Pordenone (PN)"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "codice_regione": "060",
+      "denominazione": "Azienda sanitaria universitaria Friuli Centrale (ASU FC)",
+      "codice_azienda": "206",
+      "assetto_dal": "2020",
+      "popolazione": 417909,
+      "sede": "Via Pozzuolo 330, 33100 Udine (UD)"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "codice_regione": "060",
+      "denominazione": "Azienda sanitaria universitaria Giuliano Isontina (ASU GI)",
+      "codice_azienda": "207",
+      "assetto_dal": "2020",
+      "popolazione": 490795,
+      "sede": "Via Costantino Costantinides 2, 34128 Trieste (TS)"
+    },
+    {
+      "regione": "Liguria",
+      "codice_regione": "070",
+      "denominazione": "Azienda Sociosanitaria Ligure 1 (ASL1)",
+      "codice_azienda": "101",
+      "assetto_dal": "1994",
+      "popolazione": 214934,
+      "sede": "via Aurelia Ponente 97, 18038 Sanremo (IM)"
+    },
+    {
+      "regione": "Liguria",
+      "codice_regione": "070",
+      "denominazione": "Azienda Sociosanitaria Ligure 2 (ASL2)",
+      "codice_azienda": "102",
+      "assetto_dal": "1994",
+      "popolazione": 279856,
+      "sede": "via Manzoni 14, 17100 Savona (SV)"
+    },
+    {
+      "regione": "Liguria",
+      "codice_regione": "070",
+      "denominazione": "Azienda Sociosanitaria Ligure 3 (ASL3)",
+      "codice_azienda": "103",
+      "assetto_dal": "1994",
+      "popolazione": 723182,
+      "sede": "via Bertani 4, 16125 Genova (GE)"
+    },
+    {
+      "regione": "Liguria",
+      "codice_regione": "070",
+      "denominazione": "Azienda Sociosanitaria Ligure 4 (ASL4)",
+      "codice_azienda": "104",
+      "assetto_dal": "1994",
+      "popolazione": 148106,
+      "sede": "via G. B. Ghio 9, 16043 Chiavari (GE)"
+    },
+    {
+      "regione": "Liguria",
+      "codice_regione": "070",
+      "denominazione": "Azienda Sociosanitaria Ligure 5 (ASL5)",
+      "codice_azienda": "105",
+      "assetto_dal": "1994",
+      "popolazione": 220638,
+      "sede": "via XXIV Maggio 139, 19124 La Spezia (SP)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Piacenza",
+      "codice_azienda": "101",
+      "assetto_dal": "2014",
+      "popolazione": 286589,
+      "sede": "via Antonio Anguissola 15, 29121 Piacenza (PC)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Parma",
+      "codice_azienda": "102",
+      "assetto_dal": "2014",
+      "popolazione": 448586,
+      "sede": "strada del Quartiere 2/A, 43123 Parma (PR)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Reggio Emilia",
+      "codice_azienda": "103",
+      "assetto_dal": "2014",
+      "popolazione": 532082,
+      "sede": "via Amendola 2, 42122 Reggio Emilia (RE)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Modena",
+      "codice_azienda": "104",
+      "assetto_dal": "2014",
+      "popolazione": 701252,
+      "sede": "via S. Giovanni del Cantone 23, 41100 Modena (MO)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Bologna",
+      "codice_azienda": "105",
+      "assetto_dal": "2014",
+      "popolazione": 876226,
+      "sede": "via Castiglione 29, 40124 Bologna (BO)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Imola",
+      "codice_azienda": "106",
+      "assetto_dal": "2014",
+      "popolazione": 131000,
+      "sede": "viale Amendola 2, 40026 Imola (BO)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale di Ferrara",
+      "codice_azienda": "109",
+      "assetto_dal": "2014",
+      "popolazione": 349661,
+      "sede": "via A. Cassoli 30, 44121 Ferrara (FE)"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "codice_regione": "080",
+      "denominazione": "Azienda Unità Sanitaria Locale della Romagna (sostituisce le Aziende USL di Cesena, Forlì, Ravenna e Rimini)",
+      "codice_azienda": "114",
+      "assetto_dal": "2014",
+      "popolazione": 1121569,
+      "sede": "via de Gasperi 8, 48100 Ravenna (RA)"
+    },
+    {
+      "regione": "Toscana",
+      "codice_regione": "090",
+      "denominazione": "Azienda Unità Sanitaria Locale Toscana Centro (ex AUSL 3 Pistoia, 4 Prato, 10 Firenze, 11 Empoli)",
+      "codice_azienda": "201",
+      "assetto_dal": "2016",
+      "popolazione": 1346540,
+      "sede": "piazza Santa Maria Nuova 1, 50122 Firenze (FI)"
+    },
+    {
+      "regione": "Toscana",
+      "codice_regione": "090",
+      "denominazione": "Azienda Unità Sanitaria Locale Toscana Nord-ovest (ex AUSL 1 Massa-Carrara, 2 Lucca, 5 Pisa, 6 Livorno, 12 Viareggio)",
+      "codice_azienda": "202",
+      "assetto_dal": "2016",
+      "popolazione": 1553878,
+      "sede": "via Cocchi 7/9, 56124 Pisa (PI)"
+    },
+    {
+      "regione": "Toscana",
+      "codice_regione": "090",
+      "denominazione": "Azienda Unità Sanitaria Locale Toscana Sud-est (ex AUSL 7 Siena, 8 Arezzo, 9 Grosseto)",
+      "codice_azienda": "203",
+      "assetto_dal": "2016",
+      "popolazione": 836761,
+      "sede": "via Curtatone 54, 52100 Arezzo (AR)"
+    },
+    {
+      "regione": "Umbria",
+      "codice_regione": "100",
+      "denominazione": "Azienda Unità Sanitaria Locale Umbria n.1",
+      "codice_azienda": "201",
+      "assetto_dal": "2013",
+      "popolazione": 660466,
+      "sede": "via G. Guerra 21/17, 06127 Perugia (PG)"
+    },
+    {
+      "regione": "Umbria",
+      "codice_regione": "100",
+      "denominazione": "Azienda Unità Sanitaria Locale Umbria n.2",
+      "codice_azienda": "202",
+      "assetto_dal": "2013",
+      "popolazione": 228535,
+      "sede": "viale Bramante 37, 05100 Terni (TR)"
+    },
+    {
+      "regione": "Marche",
+      "codice_regione": "110",
+      "denominazione": "Azienda Sanitaria Territoriale 1 di Pesaro Urbino (AST1)",
+      "codice_azienda": "301",
+      "assetto_dal": "2023",
+      "popolazione": 348859,
+      "sede": "piazzale Cinelli 4, 31121 Pesaro (PU)"
+    },
+    {
+      "regione": "Marche",
+      "codice_regione": "110",
+      "denominazione": "Azienda Sanitaria Territoriale 2 di Ancona (AST2)",
+      "codice_azienda": "302",
+      "assetto_dal": "2023",
+      "popolazione": 460063,
+      "sede": "viale Cristoforo Colombo 106, 60127 Ancona (AN)"
+    },
+    {
+      "regione": "Marche",
+      "codice_regione": "110",
+      "denominazione": "Azienda Sanitaria Territoriale 3 di Macerata (AST3)",
+      "codice_azienda": "303",
+      "assetto_dal": "2023",
+      "popolazione": 302923,
+      "sede": "via Annibali 31L, 62100 Macerata (MC)"
+    },
+    {
+      "regione": "Marche",
+      "codice_regione": "110",
+      "denominazione": "Azienda Sanitaria Territoriale 4 di Fermo (AST4)",
+      "codice_azienda": "304",
+      "assetto_dal": "2023",
+      "popolazione": 167177,
+      "sede": "via Dante Zeppilli 18, 63900 Fermo (FM)"
+    },
+    {
+      "regione": "Marche",
+      "codice_regione": "110",
+      "denominazione": "Azienda Sanitaria Territoriale 5 di Ascoli Piceno (AST5)",
+      "codice_azienda": "305",
+      "assetto_dal": "2023",
+      "popolazione": 200663,
+      "sede": "via degli Iris 1, 63100 Ascoli Piceno (AP)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Viterbo",
+      "codice_azienda": "109",
+      "assetto_dal": "2016",
+      "popolazione": 319628,
+      "sede": "via Enrico Fermi 15, 01100 Viterbo (VT)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Rieti",
+      "codice_azienda": "110",
+      "assetto_dal": "2016",
+      "popolazione": 158004,
+      "sede": "viale Matteucci 9, 02100 Rieti (RI)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Latina",
+      "codice_azienda": "111",
+      "assetto_dal": "2016",
+      "popolazione": 574119,
+      "sede": "viale Pierluigi Nervi Torre 2G snc, 04100 Latina (LT)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Frosinone",
+      "codice_azienda": "112",
+      "assetto_dal": "2016",
+      "popolazione": 493766,
+      "sede": "viale A. Fabi snc, 03100 Frosinone (FR)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 1 (ex ASL Roma A e Roma E)",
+      "codice_azienda": "201",
+      "assetto_dal": "2016",
+      "popolazione": 1050682,
+      "sede": "Borgo Santo Spirito 3, 00193 Roma (RM)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 2 (ex ASL Roma B e Roma C)",
+      "codice_azienda": "202",
+      "assetto_dal": "2016",
+      "popolazione": 1290266,
+      "sede": "via Maria Brighenti, 23, 00159 Roma (RM)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 3 (ex ASL Roma D)",
+      "codice_azienda": "203",
+      "assetto_dal": "2016",
+      "popolazione": 674000,
+      "sede": "via Casal Bernocchi 73, 00125 Roma (RM)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 4 (ex ASL Roma F)",
+      "codice_azienda": "204",
+      "assetto_dal": "2016",
+      "popolazione": 323595,
+      "sede": "via delle Terme di Traiano 39/a, 00053 Civitavecchia (RM)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 5 (ex ASL Roma G)",
+      "codice_azienda": "205",
+      "assetto_dal": "2016",
+      "popolazione": 497670,
+      "sede": "via Tiburtina 22/A, 00019 Tivoli (RM)"
+    },
+    {
+      "regione": "Lazio",
+      "codice_regione": "120",
+      "denominazione": "Azienda Sanitaria Locale Roma 6 (ex ASL Roma H)",
+      "codice_azienda": "206",
+      "assetto_dal": "2016",
+      "popolazione": 531177,
+      "sede": "Borgo Garibaldi 12, 00041 Albano Laziale (RM)"
+    },
+    {
+      "regione": "Abruzzo",
+      "codice_regione": "130",
+      "denominazione": "Azienda Sanitaria Locale 1 - Avezzano-Sulmona-L'Aquila (ex AUSL di Avezzano-Sulmona e L'Aquila)",
+      "codice_azienda": "201",
+      "assetto_dal": "2010",
+      "popolazione": 302263,
+      "sede": "via G. Bellisari snc, 67100 L'Aquila (AQ)"
+    },
+    {
+      "regione": "Abruzzo",
+      "codice_regione": "130",
+      "denominazione": "Azienda Sanitaria Locale 2 - Lanciano-Vasto-Chieti (ex AUSL di Lanciano-Vasto e Chieti)",
+      "codice_azienda": "202",
+      "assetto_dal": "2010",
+      "popolazione": 389860,
+      "sede": "via Martiri Lancianesi 19, 66100 Chieti (CH)"
+    },
+    {
+      "regione": "Abruzzo",
+      "codice_regione": "130",
+      "denominazione": "Azienda Sanitaria Locale 3 - Pescara",
+      "codice_azienda": "203",
+      "assetto_dal": "2010",
+      "popolazione": 321543,
+      "sede": "via R. Paolini 47, 65100 Pescara (PE)"
+    },
+    {
+      "regione": "Abruzzo",
+      "codice_regione": "130",
+      "denominazione": "Azienda Sanitaria Locale 4 - Teramo",
+      "codice_azienda": "204",
+      "assetto_dal": "2010",
+      "popolazione": 310012,
+      "sede": "Circ.ne Ragusa 1, 64100 Teramo (TE)"
+    },
+    {
+      "regione": "Molise",
+      "codice_regione": "140",
+      "denominazione": "Azienda Sanitaria Regionale del Molise",
+      "codice_azienda": "201",
+      "assetto_dal": "2006",
+      "popolazione": 310850,
+      "sede": "viale Ugo Petrella 1, 86100 Campobasso (CB)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Avellino (ex ASL AV 1 e AV 2)",
+      "codice_azienda": "201",
+      "assetto_dal": "2009",
+      "popolazione": 424127,
+      "sede": "via degli Imbimbo 10/12, 83100 Avellino (AV)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Benevento",
+      "codice_azienda": "202",
+      "assetto_dal": "2009",
+      "popolazione": 280203,
+      "sede": "via Oderisio 1, 82100 Benevento (BN)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Caserta (ex ASL CE 1 e CE 2)",
+      "codice_azienda": "203",
+      "assetto_dal": "2009",
+      "popolazione": 923980,
+      "sede": "via Unità Italiana 28, 81100 Caserta (CE)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Napoli 1 Centro",
+      "codice_azienda": "204",
+      "assetto_dal": "2009",
+      "popolazione": 1005792,
+      "sede": "via Comunale del Principe 13/a, 80145 Napoli (NA)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Napoli 2 Nord (ex ASL NA 2 e NA 3)",
+      "codice_azienda": "205",
+      "assetto_dal": "2009",
+      "popolazione": 938830,
+      "sede": "via Corrado Alvaro 8, 80078 Pozzuoli (NA)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Napoli 3 Sud (ex ASL NA 4 e NA 5)",
+      "codice_azienda": "206",
+      "assetto_dal": "2009",
+      "popolazione": 1165157,
+      "sede": "corso Alcide de Gasperi, 167 80053 Castellammare di Stabia (NA)"
+    },
+    {
+      "regione": "Campania",
+      "codice_regione": "150",
+      "denominazione": "Azienda Sanitaria Locale Salerno (ex ASL SA 1 e SA 2)",
+      "codice_azienda": "207",
+      "assetto_dal": "2009",
+      "popolazione": 1105300,
+      "sede": "via Nizza 146, 84124 Salerno (SA)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Brindisi",
+      "codice_azienda": "106",
+      "assetto_dal": "2004",
+      "popolazione": 397601,
+      "sede": "via Napoli 8, 72100 Brindisi (BR)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Taranto",
+      "codice_azienda": "112",
+      "assetto_dal": "2004",
+      "popolazione": 584715,
+      "sede": "viale Virgilio 31, 74100 Taranto (TA)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Barletta-Andria-Trani",
+      "codice_azienda": "113",
+      "assetto_dal": "2004",
+      "popolazione": 393042,
+      "sede": "via Fornaci 201, 70031 Andria (BT)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Bari",
+      "codice_azienda": "114",
+      "assetto_dal": "2004",
+      "popolazione": 1261665,
+      "sede": "lungomare Starita 6, 70123 Bari (BA)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Foggia",
+      "codice_azienda": "115",
+      "assetto_dal": "2004",
+      "popolazione": 629729,
+      "sede": "piazza Libertà 1, 71100 Foggia (FG)"
+    },
+    {
+      "regione": "Puglia",
+      "codice_regione": "160",
+      "denominazione": "Azienda Sanitaria Locale Lecce",
+      "codice_azienda": "116",
+      "assetto_dal": "2004",
+      "popolazione": 803098,
+      "sede": "via Maglietta 5, 73100 Lecce (LE)"
+    },
+    {
+      "regione": "Basilicata",
+      "codice_regione": "170",
+      "denominazione": "Azienda Sanitaria locale Potenza",
+      "codice_azienda": "201",
+      "assetto_dal": "2009",
+      "popolazione": 371999,
+      "sede": "via Torraca 2, 85100 Potenza (PZ)"
+    },
+    {
+      "regione": "Basilicata",
+      "codice_regione": "170",
+      "denominazione": "Azienda Sanitaria locale Matera",
+      "codice_azienda": "202",
+      "assetto_dal": "2009",
+      "popolazione": 200067,
+      "sede": "via Montescaglioso 20, 75100 Matera (MT)"
+    },
+    {
+      "regione": "Calabria",
+      "codice_regione": "180",
+      "denominazione": "Azienda Sanitaria Provinciale di Cosenza",
+      "codice_azienda": "201",
+      "assetto_dal": "2012",
+      "popolazione": 712609,
+      "sede": "viale degli Alimena 8, 87100 Cosenza (CS)"
+    },
+    {
+      "regione": "Calabria",
+      "codice_regione": "180",
+      "denominazione": "Azienda Sanitaria Provinciale di Crotone",
+      "codice_azienda": "202",
+      "assetto_dal": "2012",
+      "popolazione": 174851,
+      "sede": "via Corigliano 1, 88900 Crotone (KR)"
+    },
+    {
+      "regione": "Calabria",
+      "codice_regione": "180",
+      "denominazione": "Azienda Sanitaria Provinciale di Catanzaro",
+      "codice_azienda": "203",
+      "assetto_dal": "2012",
+      "popolazione": 362383,
+      "sede": "via Vinicio Cortese 25, 88100 Catanzaro (CZ)"
+    },
+    {
+      "regione": "Calabria",
+      "codice_regione": "180",
+      "denominazione": "Azienda Sanitaria Provinciale di Vibo Valentia",
+      "codice_azienda": "204",
+      "assetto_dal": "2012",
+      "popolazione": 162088,
+      "sede": "via Dante Alighieri 1, 89900 Vibo Valentia (VV)"
+    },
+    {
+      "regione": "Calabria",
+      "codice_regione": "180",
+      "denominazione": "Azienda Sanitaria Provinciale di Reggio Calabria",
+      "codice_azienda": "205",
+      "assetto_dal": "2012",
+      "popolazione": 554791,
+      "sede": "via Sant’Anna II Tronco 18/P, 89128 Reggio Calabria (RC)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 1 - Agrigento",
+      "codice_azienda": "201",
+      "assetto_dal": "2009",
+      "popolazione": 443311,
+      "sede": "Viale della Vittoria 321, 92100 Agrigento (AG)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 2 - Caltanissetta",
+      "codice_azienda": "202",
+      "assetto_dal": "2009",
+      "popolazione": 270828,
+      "sede": "via Cusmano 10, 93100 Caltanissetta (CL)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 3 - Catania",
+      "codice_azienda": "203",
+      "assetto_dal": "2009",
+      "popolazione": 1114500,
+      "sede": "via S. Maria la Grande 5, 95124 Catania (CT)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 4 - Enna",
+      "codice_azienda": "204",
+      "assetto_dal": "2009",
+      "popolazione": 168911,
+      "sede": "viale Diaz 33, 94100 Enna (EN)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 5 - Messina",
+      "codice_azienda": "205",
+      "assetto_dal": "2009",
+      "popolazione": 638513,
+      "sede": "via La Farina 263, 98100 Messina (ME)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 6 - Palermo",
+      "codice_azienda": "206",
+      "assetto_dal": "2009",
+      "popolazione": 1266931,
+      "sede": "via G. Cusmano 24, 90100 Palermo (PA)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 7 - Ragusa",
+      "codice_azienda": "207",
+      "assetto_dal": "2009",
+      "popolazione": 320668,
+      "sede": "piazza Igea 1, 97100 Ragusa (RG)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 8 - Siracusa",
+      "codice_azienda": "208",
+      "assetto_dal": "2009",
+      "popolazione": 403325,
+      "sede": "corso Gelone 17, 96100 Siracusa (SR)"
+    },
+    {
+      "regione": "Sicilia",
+      "codice_regione": "190",
+      "denominazione": "Azienda Sanitaria Provinciale 9 - Trapani",
+      "codice_azienda": "209",
+      "assetto_dal": "2009",
+      "popolazione": 434837,
+      "sede": "via Mazzini 1, 91100 Trapani (TP)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.1 di Sassari (ex USL1 Sassari, USL2 Alghero, USL5 Ozieri)",
+      "codice_azienda": "301",
+      "assetto_dal": "2022",
+      "popolazione": 342629,
+      "sede": "via Alceo Cattalochino 9, 07100 Sassari (SS)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.2 della Gallura (ex USL3 Tempio Pausania, USL4 Olbia)",
+      "codice_azienda": "302",
+      "assetto_dal": "2022",
+      "popolazione": 160368,
+      "sede": "via Bazzoni Sircana, 2 - 2A 07026 Olbia (SS)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.3 di Nuoro (ex USL6 Macomer, USL7 Nuoro, USL8 Siniscola, USL10 Sorgono, USL11 Isili)",
+      "codice_azienda": "303",
+      "assetto_dal": "2022",
+      "popolazione": 153000,
+      "sede": "via Demurtas, 1 08100 Nuoro (NU)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.4 dell'Ogliastra (ex USL9 Lanusei)",
+      "codice_azienda": "304",
+      "assetto_dal": "2022",
+      "popolazione": 57275,
+      "sede": "via Piscinas, 5 08045 Lanusei (NU)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.5 di Oristano (ex USL12 Ghilarza, USL13 Oristano, USL14 Ales)",
+      "codice_azienda": "305",
+      "assetto_dal": "2022",
+      "popolazione": 122000,
+      "sede": "via Carducci, 35 09170 Oristano (OR)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.6 del Medio Campidano (ex USL15 Guspini, USL19 Sanluri)",
+      "codice_azienda": "306",
+      "assetto_dal": "2022",
+      "popolazione": 105400,
+      "sede": "via Ungaretti, 9 09025 Sanluri (OR)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.7 del Sulcis (ex USL16 Iglesias, USL17 Carbonia)",
+      "codice_azienda": "307",
+      "assetto_dal": "2022",
+      "popolazione": 105400,
+      "sede": "via Dalmazia, 83 09013 Carbonia (SU)"
+    },
+    {
+      "regione": "Sardegna",
+      "codice_regione": "200",
+      "denominazione": "Azienda Socio-Sanitaria Locale n.8 di Cagliari (ex USL18 Senorbì, USL20 Cagliari, USL21 Cagliari, USL22 Quartu Sant'Elena)",
+      "codice_azienda": "308",
+      "assetto_dal": "2022",
+      "popolazione": 560978,
+      "sede": "via P. Della Francesca, 1 09047 Selargius (CA)"
+    }
+  ],
+  "meta": {
+    "title": "Aziende sanitarie locali (ASL) in Italia - Free Download",
+    "description": "Elenco delle aziende sanitarie locali italiane per regione, con codice regione, codice azienda, anno dell'assetto attuale, popolazione servita e sede. Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aziende sanitarie locali (ASL) in Italia | ListBase",
+    "seo_description": "Download Aziende sanitarie locali (ASL) in Italia — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Azienda_sanitaria_locale"
+    ]
+  }
+}
