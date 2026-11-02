@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-02T02:20:46.464Z",
-  "total_datasets": 497,
-  "total_records": 139579,
+  "generated": "2026-11-02T02:20:53.487Z",
+  "total_datasets": 498,
+  "total_records": 139620,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -427,6 +427,32 @@
         "xlsx": {
           "name": "it-accademie-di-belle-arti_IT.xlsx",
           "size": 7834
+        }
+      }
+    },
+    {
+      "id": "it-olimpiadi-matematica-vincitori",
+      "name": "Olimpiadi italiane della matematica – vincitori",
+      "category": "education",
+      "record_count": 41,
+      "columns": [
+        "anno",
+        "risultato",
+        "vincitore",
+        "citta",
+        "anno_di_corso"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Olimpiadi_italiane_della_matematica",
+      "updated": "2026-11",
+      "size": 8310,
+      "files": {
+        "csv": {
+          "name": "it-olimpiadi-matematica-vincitori_IT.csv",
+          "size": 2295
+        },
+        "xlsx": {
+          "name": "it-olimpiadi-matematica-vincitori_IT.xlsx",
+          "size": 8401
         }
       }
     },

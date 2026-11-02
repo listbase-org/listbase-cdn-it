@@ -1,0 +1,338 @@
+{
+  "id": "it-olimpiadi-matematica-vincitori",
+  "name": "Olimpiadi italiane della matematica – vincitori",
+  "title": "Olimpiadi italiane della matematica – vincitori",
+  "description": "I vincitori della gara individuale delle Olimpiadi italiane della matematica dal 1986, con città e anno di corso.",
+  "category": "education",
+  "source": "https://it.wikipedia.org/wiki/Olimpiadi_italiane_della_matematica",
+  "source_url": "https://it.wikipedia.org/wiki/Olimpiadi_italiane_della_matematica",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "risultato",
+      "label": "Risultato",
+      "type": "string"
+    },
+    {
+      "key": "vincitore",
+      "label": "Vincitore",
+      "type": "string"
+    },
+    {
+      "key": "citta",
+      "label": "Citta",
+      "type": "string"
+    },
+    {
+      "key": "anno_di_corso",
+      "label": "Anno Di Corso",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1986,
+      "risultato": "Oro",
+      "vincitore": "Emanuele Callegari",
+      "citta": "Rovigo",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1987,
+      "risultato": "Oro",
+      "vincitore": "Massimo Gobbino",
+      "citta": "Asti",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1988,
+      "risultato": "Oro",
+      "vincitore": "Andrea Maffei",
+      "citta": "Pisa",
+      "anno_di_corso": "4"
+    },
+    {
+      "anno": 1989,
+      "risultato": "Oro",
+      "vincitore": "Carlo Mantegazza",
+      "citta": "Milano",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1990,
+      "risultato": "Oro",
+      "vincitore": "Sergio Conti",
+      "citta": "Pisa",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1991,
+      "risultato": "Oro",
+      "vincitore": "Emanuele Paolini",
+      "citta": "Udine",
+      "anno_di_corso": "4"
+    },
+    {
+      "anno": 1992,
+      "risultato": "Oro",
+      "vincitore": "Alberto Canonaco",
+      "citta": "Crema",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1993,
+      "risultato": "Oro",
+      "vincitore": "Davide Pagnin",
+      "citta": "Pordenone",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1994,
+      "risultato": "Oro",
+      "vincitore": "Francesco Morandin",
+      "citta": "Treviso",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1995,
+      "risultato": "Oro",
+      "vincitore": "Saverio Trioni",
+      "citta": "Milano",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1996,
+      "risultato": "Oro",
+      "vincitore": "Davide Gaiotto",
+      "citta": "Torino",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1997,
+      "risultato": "Oro",
+      "vincitore": "Diego Conti",
+      "citta": "Pisa",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1998,
+      "risultato": "Oro",
+      "vincitore": "Gregorio Guidi",
+      "citta": "Cesena",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 1999,
+      "risultato": "Oro",
+      "vincitore": "Marcello Mamino",
+      "citta": "Asti",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2000,
+      "risultato": "Oro",
+      "vincitore": "Dario Saccavino",
+      "citta": "Milano",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2001,
+      "risultato": "Oro",
+      "vincitore": "Emanuele Spadaro",
+      "citta": "Catania",
+      "anno_di_corso": "4"
+    },
+    {
+      "anno": 2002,
+      "risultato": "Oro",
+      "vincitore": "Emanuele Spadaro",
+      "citta": "Catania",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2003,
+      "risultato": "Oro",
+      "vincitore": "Giulio Tiozzo",
+      "citta": "Torino",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2004,
+      "risultato": "Oro",
+      "vincitore": "Luca Barbieri",
+      "citta": "Milano",
+      "anno_di_corso": "4"
+    },
+    {
+      "anno": 2005,
+      "risultato": "Oro",
+      "vincitore": "Gabriele Negro",
+      "citta": "Udine",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2006,
+      "risultato": "Oro",
+      "vincitore": "Simone Di Marino",
+      "citta": "Pescara",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2007,
+      "risultato": "Oro",
+      "vincitore": "Pietro Vertechi",
+      "citta": "Roma",
+      "anno_di_corso": "3"
+    },
+    {
+      "anno": 2008,
+      "risultato": "Oro",
+      "vincitore": "Andrea Fogari",
+      "citta": "Gorizia",
+      "anno_di_corso": "3"
+    },
+    {
+      "anno": 2009,
+      "risultato": "Oro",
+      "vincitore": "Andrea Bianchi Luca Ghidelli",
+      "citta": "Latina Bergamo",
+      "anno_di_corso": "3 4"
+    },
+    {
+      "anno": 2010,
+      "risultato": "Oro",
+      "vincitore": "Luca Ghidelli",
+      "citta": "Bergamo",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2011,
+      "risultato": "Oro",
+      "vincitore": "Federico Borghese",
+      "citta": "Roma",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2012,
+      "risultato": "Oro",
+      "vincitore": "Gioacchino Antonelli Dario Ascari Federico Glaudo Fabio Ferri Julian Demeio",
+      "citta": "Terlizzi Reggio Emilia Roma Trento Castelfidardo",
+      "anno_di_corso": "4 3 4 4 5"
+    },
+    {
+      "anno": 2013,
+      "risultato": "Oro",
+      "vincitore": "Federico Glaudo",
+      "citta": "Roma",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2014,
+      "risultato": "Oro",
+      "vincitore": "Dario Ascari",
+      "citta": "Reggio Emilia",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2015,
+      "risultato": "Oro",
+      "vincitore": "Francesco Ballini",
+      "citta": "Brescia",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2016,
+      "risultato": "Oro",
+      "vincitore": "Andrea Ulliana Federico Viola",
+      "citta": "Padova Roma",
+      "anno_di_corso": "4 3"
+    },
+    {
+      "anno": 2017,
+      "risultato": "Oro",
+      "vincitore": "Jacopo Guoyi Chen",
+      "citta": "Roma",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2018,
+      "risultato": "Oro",
+      "vincitore": "Andrea Ciprietti",
+      "citta": "Giulianova",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2019,
+      "risultato": "Oro",
+      "vincitore": "Massimiliano Foschi",
+      "citta": "Civitavecchia",
+      "anno_di_corso": "2"
+    },
+    {
+      "anno": 2020,
+      "risultato": "Oro",
+      "vincitore": "Matteo Damiano Massimiliano Foschi Leonardo Franchi Matteo Poletto",
+      "citta": "Torino Civitavecchia Schio (VI) Bassano del Grappa (VI)",
+      "anno_di_corso": "3 3 5 4"
+    },
+    {
+      "anno": 2021,
+      "risultato": "Oro",
+      "vincitore": "Matteo Damiano Massimiliano Foschi",
+      "citta": "Torino Civitavecchia",
+      "anno_di_corso": "4 4"
+    },
+    {
+      "anno": 2022,
+      "risultato": "Oro",
+      "vincitore": "Matteo Damiano Massimiliano Foschi",
+      "citta": "Torino Civitavecchia",
+      "anno_di_corso": "5 5"
+    },
+    {
+      "anno": 2023,
+      "risultato": "Oro",
+      "vincitore": "Luca Sartori",
+      "citta": "Bassano del Grappa (VI)",
+      "anno_di_corso": "5"
+    },
+    {
+      "anno": 2024,
+      "risultato": "Oro",
+      "vincitore": "Enrico Zonta Lorenzo Bastioni",
+      "citta": "Bassano del Grappa (VI) Perugia",
+      "anno_di_corso": "5 5"
+    },
+    {
+      "anno": 2025,
+      "risultato": "Oro",
+      "vincitore": "Luca Giovanni Giorgio Cavallo Perin Marcel Stologan",
+      "citta": "Torino Piacenza",
+      "anno_di_corso": "4 3"
+    },
+    {
+      "anno": 2026,
+      "risultato": "Oro",
+      "vincitore": "Ciro Urselli",
+      "citta": "Taranto",
+      "anno_di_corso": "5"
+    }
+  ],
+  "meta": {
+    "title": "Olimpiadi italiane della matematica – vincitori - Free Download",
+    "description": "I vincitori della gara individuale delle Olimpiadi italiane della matematica dal 1986, con città e anno di corso. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Olimpiadi italiane della matematica – vincitori | ListBase",
+    "seo_description": "Download Olimpiadi italiane della matematica – vincitori — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Olimpiadi_italiane_della_matematica"
+    ]
+  }
+}
