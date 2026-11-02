@@ -1,0 +1,596 @@
+{
+  "id": "it-tribunali-ordinari",
+  "name": "Tribunali ordinari in Italia",
+  "title": "Tribunali ordinari in Italia",
+  "description": "Elenco dei tribunali ordinari italiani suddivisi per regione.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Tribunale_ordinario",
+  "source_url": "https://it.wikipedia.org/wiki/Tribunale_ordinario",
+  "updated": "2026-11",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "tribunale",
+      "label": "Tribunale",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tribunale": "Tribunale di Aosta",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "tribunale": "Tribunale di Alessandria",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Asti",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Biella",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Cuneo",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Ivrea",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Novara",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Torino",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Verbania",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Vercelli",
+      "regione": "Piemonte"
+    },
+    {
+      "tribunale": "Tribunale di Bergamo",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Brescia",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Busto Arsizio",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Como",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Cremona",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Lecco",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Lodi",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Mantova",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Milano",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Monza",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Pavia",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Sondrio",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Varese",
+      "regione": "Lombardia"
+    },
+    {
+      "tribunale": "Tribunale di Genova",
+      "regione": "Liguria"
+    },
+    {
+      "tribunale": "Tribunale di Imperia",
+      "regione": "Liguria"
+    },
+    {
+      "tribunale": "Tribunale della Spezia",
+      "regione": "Liguria"
+    },
+    {
+      "tribunale": "Tribunale di Savona",
+      "regione": "Liguria"
+    },
+    {
+      "tribunale": "Tribunale di Bologna",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Ferrara",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Forlì",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Modena",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Parma",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Piacenza",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Ravenna",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Reggio Emilia",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Rimini",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "tribunale": "Tribunale di Belluno",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Padova",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Rovigo",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Treviso",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Venezia",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Verona",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Vicenza",
+      "regione": "Veneto"
+    },
+    {
+      "tribunale": "Tribunale di Bolzano",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "tribunale": "Tribunale di Rovereto",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "tribunale": "Tribunale di Trento",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "tribunale": "Tribunale di Gorizia",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "tribunale": "Tribunale di Pordenone",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "tribunale": "Tribunale di Trieste",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "tribunale": "Tribunale di Udine",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "tribunale": "Tribunale di Arezzo",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Firenze",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Grosseto",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Livorno",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Lucca",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Massa",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Pisa",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Pistoia",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Prato",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Siena",
+      "regione": "Toscana"
+    },
+    {
+      "tribunale": "Tribunale di Perugia",
+      "regione": "Umbria"
+    },
+    {
+      "tribunale": "Tribunale di Spoleto",
+      "regione": "Umbria"
+    },
+    {
+      "tribunale": "Tribunale di Terni",
+      "regione": "Umbria"
+    },
+    {
+      "tribunale": "Tribunale di Cassino",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Civitavecchia",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Frosinone",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Latina",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Rieti",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Roma",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Tivoli",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Velletri",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Viterbo",
+      "regione": "Lazio"
+    },
+    {
+      "tribunale": "Tribunale di Ancona",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Ascoli Piceno",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Fermo",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Macerata",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Pesaro",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Urbino",
+      "regione": "Marche"
+    },
+    {
+      "tribunale": "Tribunale di Avezzano",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Chieti",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Lanciano",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale dell'Aquila",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Pescara",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Sulmona",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Teramo",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Vasto",
+      "regione": "Abruzzo"
+    },
+    {
+      "tribunale": "Tribunale di Campobasso",
+      "regione": "Molise"
+    },
+    {
+      "tribunale": "Tribunale di Isernia",
+      "regione": "Molise"
+    },
+    {
+      "tribunale": "Tribunale di Larino",
+      "regione": "Molise"
+    },
+    {
+      "tribunale": "Tribunale di Avellino",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Benevento",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Napoli",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Napoli Nord",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Nocera Inferiore",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Nola",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Salerno",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Santa Maria Capua Vetere",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Torre Annunziata",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Vallo della Lucania",
+      "regione": "Campania"
+    },
+    {
+      "tribunale": "Tribunale di Bari",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Brindisi",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Foggia",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Lecce",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Taranto",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Trani",
+      "regione": "Puglia"
+    },
+    {
+      "tribunale": "Tribunale di Lagonegro",
+      "regione": "Basilicata"
+    },
+    {
+      "tribunale": "Tribunale di Matera",
+      "regione": "Basilicata"
+    },
+    {
+      "tribunale": "Tribunale di Potenza",
+      "regione": "Basilicata"
+    },
+    {
+      "tribunale": "Tribunale di Castrovillari",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Catanzaro",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Cosenza",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Crotone",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Lamezia Terme",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Locri",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Palmi",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Paola",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Reggio Calabria",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Vibo Valentia",
+      "regione": "Calabria"
+    },
+    {
+      "tribunale": "Tribunale di Agrigento",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Barcellona Pozzo di Gotto",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Caltagirone",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Caltanissetta",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Catania",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Enna",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Gela",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Marsala",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Ragusa",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Siracusa",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Messina",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Patti",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Palermo",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Sciacca",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Termini Imerese",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Trapani",
+      "regione": "Sicilia"
+    },
+    {
+      "tribunale": "Tribunale di Cagliari",
+      "regione": "Sardegna"
+    },
+    {
+      "tribunale": "Tribunale di Lanusei",
+      "regione": "Sardegna"
+    },
+    {
+      "tribunale": "Tribunale di Nuoro",
+      "regione": "Sardegna"
+    },
+    {
+      "tribunale": "Tribunale di Oristano",
+      "regione": "Sardegna"
+    },
+    {
+      "tribunale": "Tribunale di Sassari",
+      "regione": "Sardegna"
+    },
+    {
+      "tribunale": "Tribunale di Tempio Pausania",
+      "regione": "Sardegna"
+    }
+  ],
+  "meta": {
+    "title": "Tribunali ordinari in Italia - Free Download",
+    "description": "Elenco dei tribunali ordinari italiani suddivisi per regione. Contains 140 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tribunali ordinari in Italia | ListBase",
+    "seo_description": "Download Tribunali ordinari in Italia — 140 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 140 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Tribunale_ordinario"
+    ]
+  }
+}
