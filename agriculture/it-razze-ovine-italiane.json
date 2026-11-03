@@ -1,0 +1,220 @@
+{
+  "id": "it-razze-ovine-italiane",
+  "name": "Razze ovine italiane",
+  "title": "Razze ovine italiane",
+  "description": "Elenco delle razze di pecore allevate o originarie in Italia.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Razze_ovine",
+  "source_url": "https://it.wikipedia.org/wiki/Razze_ovine",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "razza",
+      "label": "Razza",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "razza": "Altamurana"
+    },
+    {
+      "razza": "Alpagota"
+    },
+    {
+      "razza": "Appenninica"
+    },
+    {
+      "razza": "Bagnolese"
+    },
+    {
+      "razza": "Barbaresca"
+    },
+    {
+      "razza": "Bergamasca"
+    },
+    {
+      "razza": "Biellese"
+    },
+    {
+      "razza": "Brentegana scelta"
+    },
+    {
+      "razza": "Brianzola"
+    },
+    {
+      "razza": "Brigasca"
+    },
+    {
+      "razza": "Brogna (o Brogne)"
+    },
+    {
+      "razza": "Ciavenasca"
+    },
+    {
+      "razza": "Ciuta"
+    },
+    {
+      "razza": "Comisana"
+    },
+    {
+      "razza": "Cornella Bianca dell'Emilia Romagna"
+    },
+    {
+      "razza": "Cornigliese"
+    },
+    {
+      "razza": "Corteno"
+    },
+    {
+      "razza": "Delle Langhe"
+    },
+    {
+      "razza": "Fabrianese"
+    },
+    {
+      "razza": "Finarda (o Finarola)"
+    },
+    {
+      "razza": "Foza"
+    },
+    {
+      "razza": "Frabosana"
+    },
+    {
+      "razza": "Garessina (o Muma)"
+    },
+    {
+      "razza": "Garfagnina"
+    },
+    {
+      "razza": "Gentile di Puglia"
+    },
+    {
+      "razza": "Istriana (o Carsolina)"
+    },
+    {
+      "razza": "Lamon"
+    },
+    {
+      "razza": "Laticauda"
+    },
+    {
+      "razza": "Leccese"
+    },
+    {
+      "razza": "Livo"
+    },
+    {
+      "razza": "Matesina"
+    },
+    {
+      "razza": "Marrana"
+    },
+    {
+      "razza": "Massese"
+    },
+    {
+      "razza": "Merinizzata Italiana"
+    },
+    {
+      "razza": "Modenese"
+    },
+    {
+      "razza": "Nera di Arbus"
+    },
+    {
+      "razza": "Nostrana"
+    },
+    {
+      "razza": "Noticiana"
+    },
+    {
+      "razza": "Pagliarola"
+    },
+    {
+      "razza": "Pinzirita"
+    },
+    {
+      "razza": "Plezzana"
+    },
+    {
+      "razza": "Pomarancina"
+    },
+    {
+      "razza": "Pusterese"
+    },
+    {
+      "razza": "Quadrella"
+    },
+    {
+      "razza": "Rosset"
+    },
+    {
+      "razza": "Saltasassi"
+    },
+    {
+      "razza": "Sambucana"
+    },
+    {
+      "razza": "Savoiarda"
+    },
+    {
+      "razza": "Schnalserschaf (o Ultnerschaf, Val Senales, Val d'Ultimo)"
+    },
+    {
+      "razza": "Schwarz Braunes Bergschaf"
+    },
+    {
+      "razza": "Sciara"
+    },
+    {
+      "razza": "Sopravissana"
+    },
+    {
+      "razza": "Sarda"
+    },
+    {
+      "razza": "Tiroler Bergashaf (o Alpina Tirolese)"
+    },
+    {
+      "razza": "Trimetizia di Segezia"
+    },
+    {
+      "razza": "Turchessa"
+    },
+    {
+      "razza": "Valle del Belice"
+    },
+    {
+      "razza": "Varesina"
+    },
+    {
+      "razza": "Vicentina"
+    },
+    {
+      "razza": "Villnoesser Schaf (o Fiemmese o Tingola)"
+    },
+    {
+      "razza": "Vissana"
+    },
+    {
+      "razza": "Zerasca"
+    },
+    {
+      "razza": "Zucca Modenese"
+    }
+  ],
+  "meta": {
+    "title": "Razze ovine italiane - Free Download",
+    "description": "Elenco delle razze di pecore allevate o originarie in Italia. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Razze ovine italiane | ListBase",
+    "seo_description": "Download Razze ovine italiane — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Razze_ovine"
+    ]
+  }
+}

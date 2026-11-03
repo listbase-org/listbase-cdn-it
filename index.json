@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:16:55.366Z",
-  "total_datasets": 506,
-  "total_records": 140164,
+  "generated": "2026-11-03T02:17:02.771Z",
+  "total_datasets": 507,
+  "total_records": 140227,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -167,6 +167,28 @@
         "xlsx": {
           "name": "it-razze-bovine-italiane_IT.xlsx",
           "size": 7342
+        }
+      }
+    },
+    {
+      "id": "it-razze-ovine-italiane",
+      "name": "Razze ovine italiane",
+      "category": "agriculture",
+      "record_count": 63,
+      "columns": [
+        "razza"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Razze_ovine",
+      "updated": "2026-11",
+      "size": 3814,
+      "files": {
+        "csv": {
+          "name": "it-razze-ovine-italiane_IT.csv",
+          "size": 982
+        },
+        "xlsx": {
+          "name": "it-razze-ovine-italiane_IT.xlsx",
+          "size": 7691
         }
       }
     },
