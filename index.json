@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:16:41.519Z",
-  "total_datasets": 504,
-  "total_records": 140115,
+  "generated": "2026-11-03T02:16:48.359Z",
+  "total_datasets": 505,
+  "total_records": 140143,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -1898,6 +1898,32 @@
         "xlsx": {
           "name": "it-conservatori-di-musica_IT.xlsx",
           "size": 9671
+        }
+      }
+    },
+    {
+      "id": "it-opere-giuseppe-verdi",
+      "name": "Opere liriche di Giuseppe Verdi",
+      "category": "music",
+      "record_count": 28,
+      "columns": [
+        "titolo",
+        "genere",
+        "atti",
+        "libretto",
+        "prima_rappresentazione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Composizioni_di_Giuseppe_Verdi",
+      "updated": "2026-11",
+      "size": 8958,
+      "files": {
+        "csv": {
+          "name": "it-opere-giuseppe-verdi_IT.csv",
+          "size": 4131
+        },
+        "xlsx": {
+          "name": "it-opere-giuseppe-verdi_IT.xlsx",
+          "size": 8936
         }
       }
     },

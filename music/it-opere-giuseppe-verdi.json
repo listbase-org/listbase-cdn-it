@@ -1,0 +1,247 @@
+{
+  "id": "it-opere-giuseppe-verdi",
+  "name": "Opere liriche di Giuseppe Verdi",
+  "title": "Opere liriche di Giuseppe Verdi",
+  "description": "Le opere liriche di Giuseppe Verdi in ordine cronologico con genere, numero di atti, librettista/fonte e luogo e data della prima rappresentazione.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Composizioni_di_Giuseppe_Verdi",
+  "source_url": "https://it.wikipedia.org/wiki/Composizioni_di_Giuseppe_Verdi",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "titolo",
+      "label": "Titolo",
+      "type": "string"
+    },
+    {
+      "key": "genere",
+      "label": "Genere",
+      "type": "string"
+    },
+    {
+      "key": "atti",
+      "label": "Atti",
+      "type": "string"
+    },
+    {
+      "key": "libretto",
+      "label": "Libretto",
+      "type": "string"
+    },
+    {
+      "key": "prima_rappresentazione",
+      "label": "Prima Rappresentazione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "titolo": "Oberto, Conte di San Bonifacio",
+      "genere": "dramma",
+      "atti": "2 atti",
+      "libretto": "Antonio Piazza, rivisto da Temistocle Solera",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 17 nov. 1839"
+    },
+    {
+      "titolo": "Un giorno di regno ossia Il finto Stanislao",
+      "genere": "melodramma giocoso",
+      "atti": "2 atti",
+      "libretto": "Felice Romani da Alexandre-Vincent Pineux-Duval",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 5 set. 1840"
+    },
+    {
+      "titolo": "Nabucco",
+      "genere": "dramma lirico",
+      "atti": "4 atti",
+      "libretto": "T. Solera da Auguste Anicet-Bourgeois e Francis Cornue",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 9 mar. 1842"
+    },
+    {
+      "titolo": "I Lombardi alla prima crociata",
+      "genere": "dramma lirico",
+      "atti": "4 atti",
+      "libretto": "T. Solera da Tommaso Grossi",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 11 feb. 1843. Tradotta in francese con il titolo di Jérusalem; Parigi, Théatre de l’Académie Royale, 26 nov. 1847"
+    },
+    {
+      "titolo": "Ernani",
+      "genere": "dramma lirico",
+      "atti": "4 atti",
+      "libretto": "Francesco Maria Piave da Victor Hugo",
+      "prima_rappresentazione": "Ve, Teatro La Fenice, 9 mar. 1844"
+    },
+    {
+      "titolo": "I due Foscari",
+      "genere": "tragedia lirica",
+      "atti": "3 parti",
+      "libretto": "Fr. M. Piave da George Gordon Byron",
+      "prima_rappresentazione": "Civitavecchia, Teatro Traiano, 3 dic. 1844"
+    },
+    {
+      "titolo": "Giovanna d'Arco",
+      "genere": "dramma lirico",
+      "atti": "1 prologo e 3 atti",
+      "libretto": "T. Solera da Friedrich Schiller",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 15 feb. 1845"
+    },
+    {
+      "titolo": "Alzira",
+      "genere": "tragedia lirica",
+      "atti": "1 prologo e 2 atti",
+      "libretto": "Salvatore Cammarano da Voltaire",
+      "prima_rappresentazione": "Na, Teatro di S. Carlo, 12 ago. 1845"
+    },
+    {
+      "titolo": "Attila",
+      "genere": "dramma lirico",
+      "atti": "1 prologo e 3 atti",
+      "libretto": "T. Solera da Zacharias Werner",
+      "prima_rappresentazione": "Ve, Teatro La Fenice, 17 mar. 1846"
+    },
+    {
+      "titolo": "Macbeth",
+      "genere": "melodramma",
+      "atti": "4 atti",
+      "libretto": "Fr. M. Piave e Andrea Maffei da William Shakespeare",
+      "prima_rappresentazione": "Fi, Teatro della Pergola, 14 mar. 1847. Nuova versione: Parigi, Théâtre Lyrique, 21 apr. 1865"
+    },
+    {
+      "titolo": "I masnadieri",
+      "genere": "melodramma",
+      "atti": "4 parti",
+      "libretto": "A. Maffei da F. Schiller",
+      "prima_rappresentazione": "Londra, Her Majesty's Theatre, 22 lug. 1847"
+    },
+    {
+      "titolo": "Jérusalem",
+      "genere": "grand opéra",
+      "atti": "4 atti",
+      "libretto": "Alphonse Royer e Gustave Vaez, rifacimento de I Lombardi alla prima crociata",
+      "prima_rappresentazione": "Parigi, Théatre de l’Académie Royale, 26 nov. 1847"
+    },
+    {
+      "titolo": "Il corsaro",
+      "genere": "opera",
+      "atti": "3 atti",
+      "libretto": "Fr. M. Piave da G. G. Byron",
+      "prima_rappresentazione": "Trieste, Teatro Grande, 25 ott. 1848"
+    },
+    {
+      "titolo": "La battaglia di Legnano",
+      "genere": "tragedia lirica",
+      "atti": "4 atti",
+      "libretto": "S. Cammarano da Joseph Méry",
+      "prima_rappresentazione": "Roma, Teatro Argentina, 27 gen. 1849"
+    },
+    {
+      "titolo": "Luisa Miller",
+      "genere": "melodramma tragico",
+      "atti": "3 atti",
+      "libretto": "S. Cammarano da F. Schiller",
+      "prima_rappresentazione": "Na, Teatro di S. Carlo, 8 dic. 1849"
+    },
+    {
+      "titolo": "Stiffelio",
+      "genere": "melodramma",
+      "atti": "4 atti",
+      "libretto": "Fr. M. Piave da Emile Souvestre e Eugène Bourgeois",
+      "prima_rappresentazione": "Trieste, Teatro Grande, 16 nov. 1850. Nuova versione con il titolo di Aroldo; Rimini, Teatro Nuovo, 16 ago. 1857"
+    },
+    {
+      "titolo": "Rigoletto",
+      "genere": "melodramma",
+      "atti": "3 atti",
+      "libretto": "Fr. M. Piave da V. Hugo",
+      "prima_rappresentazione": "Ve, Teatro La Fenice, 11 mar. 1851"
+    },
+    {
+      "titolo": "Il trovatore",
+      "genere": "dramma lirico",
+      "atti": "4 atti",
+      "libretto": "S. Cammarano da Antonio Garcia Gutierrez",
+      "prima_rappresentazione": "Roma, Teatro Apollo in Tordinona, 19 gen. 1853"
+    },
+    {
+      "titolo": "La traviata",
+      "genere": "opera",
+      "atti": "3 atti",
+      "libretto": "Fr. M. Piave da Alexandre Dumas figlio",
+      "prima_rappresentazione": "Ve, Teatro La Fenice, 6 mar. 1853"
+    },
+    {
+      "titolo": "Les vêpres siciliennes",
+      "genere": "grand opéra",
+      "atti": "5 atti",
+      "libretto": "Eugène Scribe e Charles Duveyrier",
+      "prima_rappresentazione": "Parigi, Théatre de l’Académie lmpériale de Musique, 13 giu. 1855"
+    },
+    {
+      "titolo": "Simon Boccanegra",
+      "genere": "opera",
+      "atti": "1 prologo e 3 atti",
+      "libretto": "Fr. M. Piave da A. G. Gutierrez",
+      "prima_rappresentazione": "Ve, Teatro La Fenice, 12 mar. 1857. Edizione riveduta e libretto revisionato da Arrigo Boito: Mi, Teatro alla Scala, 24 mar. 1881"
+    },
+    {
+      "titolo": "Aroldo",
+      "genere": "melodramma",
+      "atti": "quattro atti",
+      "libretto": "Fr. M. Piave di Edward Bulwer-Lytton e Walter Scott, rifacimento di Stiffelio",
+      "prima_rappresentazione": "Rimini, Teatro Nuovo, 16 agosto 1857"
+    },
+    {
+      "titolo": "Un ballo in maschera",
+      "genere": "melodramma",
+      "atti": "3 atti",
+      "libretto": "Antonio Somma da Eugène Scribe",
+      "prima_rappresentazione": "Roma, Teatro Apollo in Tordinona,17 feb. 1859"
+    },
+    {
+      "titolo": "La forza del destino",
+      "genere": "opera",
+      "atti": "4 atti",
+      "libretto": "Fr. M. Piave da Ángel de Saavedra e Friedrich Schiller",
+      "prima_rappresentazione": "S. Pietroburgo, Teatro Imperiale, 10 nov. 1862. Edizione riveduta e libretto revisionato da Antonio Ghislanzoni: Mi, Teatro alla Scala, 27 feb. 1869"
+    },
+    {
+      "titolo": "Don Carlos",
+      "genere": "grand opéra",
+      "atti": "5 atti",
+      "libretto": "Joseph Méry e Camille Du Locle da F. Schiller",
+      "prima_rappresentazione": "Parigi, Théâtre de l’Académie Impériale de Musique, 11 mar. 1867. Tradotta in italiano e ridotta in 4 atti: Mi, Teatro alla Scala, 10 gen. 1884"
+    },
+    {
+      "titolo": "Aida",
+      "genere": "opera",
+      "atti": "4 atti",
+      "libretto": "A. Ghislanzoni da C. Du Locle e Auguste Mariette",
+      "prima_rappresentazione": "Il Cairo, Teatro dell'Opera, 24 dic. 1871"
+    },
+    {
+      "titolo": "Otello",
+      "genere": "dramma lirico",
+      "atti": "4 atti",
+      "libretto": "A. Boito da W. Shakespeare",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 5 feb. 1887"
+    },
+    {
+      "titolo": "Falstaff",
+      "genere": "commedia lirica",
+      "atti": "3 atti",
+      "libretto": "A. Boito da W. Shakespeare",
+      "prima_rappresentazione": "Mi, Teatro alla Scala, 9 feb. 1893"
+    }
+  ],
+  "meta": {
+    "title": "Opere liriche di Giuseppe Verdi - Free Download",
+    "description": "Le opere liriche di Giuseppe Verdi in ordine cronologico con genere, numero di atti, librettista/fonte e luogo e data della prima rappresentazione. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Opere liriche di Giuseppe Verdi | ListBase",
+    "seo_description": "Download Opere liriche di Giuseppe Verdi — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Composizioni_di_Giuseppe_Verdi"
+    ]
+  }
+}
