@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:16:34.843Z",
-  "total_datasets": 503,
-  "total_records": 140059,
+  "generated": "2026-11-03T02:16:41.519Z",
+  "total_datasets": 504,
+  "total_records": 140115,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "economy",
@@ -192,6 +192,30 @@
         "xlsx": {
           "name": "it-vini-docg_IT.xlsx",
           "size": 10789
+        }
+      }
+    },
+    {
+      "id": "it-maschere-di-carnevale",
+      "name": "Maschere italiane di Carnevale per regione",
+      "category": "culture",
+      "record_count": 56,
+      "columns": [
+        "maschera",
+        "regione",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Maschere_italiane",
+      "updated": "2026-11",
+      "size": 7156,
+      "files": {
+        "csv": {
+          "name": "it-maschere-di-carnevale_IT.csv",
+          "size": 2099
+        },
+        "xlsx": {
+          "name": "it-maschere-di-carnevale_IT.xlsx",
+          "size": 8349
         }
       }
     },

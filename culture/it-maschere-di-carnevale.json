@@ -1,0 +1,321 @@
+{
+  "id": "it-maschere-di-carnevale",
+  "name": "Maschere italiane di Carnevale per regione",
+  "title": "Maschere italiane di Carnevale per regione",
+  "description": "Maschere tradizionali del Carnevale e della Commedia dell'arte nelle regioni italiane, con note sul carnevale di riferimento.",
+  "category": "culture",
+  "source": "https://it.wikipedia.org/wiki/Maschere_italiane",
+  "source_url": "https://it.wikipedia.org/wiki/Maschere_italiane",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "maschera",
+      "label": "Maschera",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "maschera": "Rumit'",
+      "regione": "Basilicata",
+      "note": "Carnevale di Satriano"
+    },
+    {
+      "maschera": "Urs",
+      "regione": "Basilicata",
+      "note": "Carnevale di Satriano"
+    },
+    {
+      "maschera": "Quares'm",
+      "regione": "Basilicata",
+      "note": "Carnevale di Satriano"
+    },
+    {
+      "maschera": "Mucca e Toro",
+      "regione": "Basilicata",
+      "note": "Carnevale di Tricarico"
+    },
+    {
+      "maschera": "Sarachella",
+      "regione": "Basilicata",
+      "note": "carnevale di Potenza"
+    },
+    {
+      "maschera": "Giangurgolo",
+      "regione": "Calabria",
+      "note": ""
+    },
+    {
+      "maschera": "Pulcinella",
+      "regione": "Campania",
+      "note": ""
+    },
+    {
+      "maschera": "Tartaglia",
+      "regione": "Campania",
+      "note": ""
+    },
+    {
+      "maschera": "Scaramuccia",
+      "regione": "Campania",
+      "note": ""
+    },
+    {
+      "maschera": "Coviello",
+      "regione": "Campania",
+      "note": ""
+    },
+    {
+      "maschera": "Dottor Balanzone",
+      "regione": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "maschera": "Al Dsevod",
+      "regione": "Emilia-Romagna",
+      "note": ""
+    },
+    {
+      "maschera": "Rugantino",
+      "regione": "Lazio",
+      "note": ""
+    },
+    {
+      "maschera": "Meo Patacca",
+      "regione": "Lazio",
+      "note": ""
+    },
+    {
+      "maschera": "Bravante",
+      "regione": "Lazio",
+      "note": ""
+    },
+    {
+      "maschera": "Meneghino",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Cecca",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Arlecchino",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Brighella",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Re Gnocco",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Balarì",
+      "regione": "Lombardia",
+      "note": ""
+    },
+    {
+      "maschera": "Mosciolino",
+      "regione": "Marche",
+      "note": "Ancona"
+    },
+    {
+      "maschera": "Papagnoco",
+      "regione": "Marche",
+      "note": "Ancona"
+    },
+    {
+      "maschera": "Il Rabachen e la Cagnera",
+      "regione": "Marche",
+      "note": "Pesaro"
+    },
+    {
+      "maschera": "Il Vulon",
+      "regione": "Marche",
+      "note": "Fano"
+    },
+    {
+      "maschera": "Il Domatore e l'Orso",
+      "regione": "Molise",
+      "note": ""
+    },
+    {
+      "maschera": "Il corteo del diavolo di Tufara",
+      "regione": "Molise",
+      "note": ""
+    },
+    {
+      "maschera": "Gianduia",
+      "regione": "Piemonte",
+      "note": ""
+    },
+    {
+      "maschera": "Farinella",
+      "regione": "Puglia",
+      "note": ""
+    },
+    {
+      "maschera": "Gibergallo e Lu Pagghiùse",
+      "regione": "Puglia",
+      "note": ""
+    },
+    {
+      "maschera": "Don Pancrazio Cucuzziello",
+      "regione": "Puglia",
+      "note": ""
+    },
+    {
+      "maschera": "Mamuthone e issohadore",
+      "regione": "Sardegna",
+      "note": "carnevale di Mamoiada"
+    },
+    {
+      "maschera": "Mamuthone",
+      "regione": "Sardegna",
+      "note": "carnevale di Mamoiada"
+    },
+    {
+      "maschera": "Boe",
+      "regione": "Sardegna",
+      "note": "carnevale di Ottana"
+    },
+    {
+      "maschera": "Merdule",
+      "regione": "Sardegna",
+      "note": "carnevale di Ottana"
+    },
+    {
+      "maschera": "Mamutzone",
+      "regione": "Sardegna",
+      "note": "carnevale di Samugheo"
+    },
+    {
+      "maschera": "Maimulu",
+      "regione": "Sardegna",
+      "note": "carnevale di Gairo e di Ulassai"
+    },
+    {
+      "maschera": "Thurpu",
+      "regione": "Sardegna",
+      "note": "carnevale di Orotelli"
+    },
+    {
+      "maschera": "Rogo di Peppe Nappa al Carnevale di Sciacca",
+      "regione": "Sicilia",
+      "note": ""
+    },
+    {
+      "maschera": "Stenterello",
+      "regione": "Toscana",
+      "note": ""
+    },
+    {
+      "maschera": "Burlamacco",
+      "regione": "Toscana",
+      "note": ""
+    },
+    {
+      "maschera": "Monumento che celebra l' Egetmann; è rappresentato un wudelen",
+      "regione": "Trentino-Alto Adige",
+      "note": ""
+    },
+    {
+      "maschera": "Manichino rappresentante un \"uomo selvatico\"",
+      "regione": "Trentino-Alto Adige",
+      "note": "Museo degli usi e costumi della gente trentina"
+    },
+    {
+      "maschera": "Nasotorto",
+      "regione": "Umbria",
+      "note": ""
+    },
+    {
+      "maschera": "Nasoacciaccato",
+      "regione": "Umbria",
+      "note": ""
+    },
+    {
+      "maschera": "Chicchirichella",
+      "regione": "Umbria",
+      "note": ""
+    },
+    {
+      "maschera": "Rosalinda",
+      "regione": "Umbria",
+      "note": ""
+    },
+    {
+      "maschera": "Landzette",
+      "regione": "Valle d'Aosta",
+      "note": ""
+    },
+    {
+      "maschera": "Rievocazione \"Carnavals de montagne\" nel 2012 ad Aosta",
+      "regione": "Valle d'Aosta",
+      "note": ""
+    },
+    {
+      "maschera": "Pantalone",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "Colombina",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "Papà del Gnoco",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "Žinghenésta",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "La bautta",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "La moretta",
+      "regione": "Veneto",
+      "note": ""
+    },
+    {
+      "maschera": "Il mattasin",
+      "regione": "Veneto",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Maschere italiane di Carnevale per regione - Free Download",
+    "description": "Maschere tradizionali del Carnevale e della Commedia dell'arte nelle regioni italiane, con note sul carnevale di riferimento. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maschere italiane di Carnevale per regione | ListBase",
+    "seo_description": "Download Maschere italiane di Carnevale per regione — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Maschere_italiane"
+    ]
+  }
+}
