@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-02T02:21:14.853Z",
-  "total_datasets": 501,
-  "total_records": 139823,
+  "generated": "2026-11-03T02:16:27.359Z",
+  "total_datasets": 502,
+  "total_records": 139865,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -1520,6 +1520,31 @@
         "xlsx": {
           "name": "it-sovrani-longobardi_IT.xlsx",
           "size": 9419
+        }
+      }
+    },
+    {
+      "id": "it-alfabeto-telefonico",
+      "name": "Alfabeto telefonico italiano",
+      "category": "language",
+      "record_count": 42,
+      "columns": [
+        "lettera",
+        "nome",
+        "compitazione",
+        "pronuncia"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Alfabeto_telefonico_italiano",
+      "updated": "2026-11",
+      "size": 7092,
+      "files": {
+        "csv": {
+          "name": "it-alfabeto-telefonico_IT.csv",
+          "size": 1839
+        },
+        "xlsx": {
+          "name": "it-alfabeto-telefonico_IT.xlsx",
+          "size": 8292
         }
       }
     },

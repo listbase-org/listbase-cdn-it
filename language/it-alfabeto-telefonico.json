@@ -1,0 +1,298 @@
+{
+  "id": "it-alfabeto-telefonico",
+  "name": "Alfabeto telefonico italiano",
+  "title": "Alfabeto telefonico italiano",
+  "description": "Compitazione italiana delle lettere dell'alfabeto (A come Ancona, B come Bologna…) con nome della lettera e pronuncia IPA, incluse le varianti.",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Alfabeto_telefonico_italiano",
+  "source_url": "https://it.wikipedia.org/wiki/Alfabeto_telefonico_italiano",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "lettera",
+      "label": "Lettera",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "compitazione",
+      "label": "Compitazione",
+      "type": "string"
+    },
+    {
+      "key": "pronuncia",
+      "label": "Pronuncia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "lettera": "A",
+      "nome": "a",
+      "compitazione": "come Ancona",
+      "pronuncia": "/anˈkona/"
+    },
+    {
+      "lettera": "B",
+      "nome": "bi",
+      "compitazione": "come Bari",
+      "pronuncia": "/ˈbari/"
+    },
+    {
+      "lettera": "B",
+      "nome": "bi",
+      "compitazione": "come Bologna",
+      "pronuncia": "/boˈloɲɲa/"
+    },
+    {
+      "lettera": "C",
+      "nome": "ci",
+      "compitazione": "come Como",
+      "pronuncia": "/ˈkɔmo/"
+    },
+    {
+      "lettera": "C",
+      "nome": "ci",
+      "compitazione": "come Cagliari",
+      "pronuncia": "/ˈkaʎʎari/"
+    },
+    {
+      "lettera": "D",
+      "nome": "di",
+      "compitazione": "come Domodossola",
+      "pronuncia": "/ˌdomoˈdɔssola/"
+    },
+    {
+      "lettera": "E",
+      "nome": "é",
+      "compitazione": "come Empoli",
+      "pronuncia": "/ˈempoli/"
+    },
+    {
+      "lettera": "F",
+      "nome": "èffe",
+      "compitazione": "come Firenze",
+      "pronuncia": "/fiˈrɛnʦe/"
+    },
+    {
+      "lettera": "G",
+      "nome": "gi",
+      "compitazione": "come Genova",
+      "pronuncia": "/ˈʤɛnova/"
+    },
+    {
+      "lettera": "H",
+      "nome": "àcca",
+      "compitazione": "semplicemente «acca»",
+      "pronuncia": "/ˈakka/"
+    },
+    {
+      "lettera": "H",
+      "nome": "àcca",
+      "compitazione": "come hotel",
+      "pronuncia": "/oˈtɛl/"
+    },
+    {
+      "lettera": "I",
+      "nome": "i",
+      "compitazione": "come Imola",
+      "pronuncia": "/ˈimola/"
+    },
+    {
+      "lettera": "J",
+      "nome": "i lùnga",
+      "compitazione": "semplicemente «i lunga»",
+      "pronuncia": "/ˈi ˈlunɡa/"
+    },
+    {
+      "lettera": "J",
+      "nome": "i lùnga",
+      "compitazione": "come jolly",
+      "pronuncia": "/ˈʤɔlli/"
+    },
+    {
+      "lettera": "J",
+      "nome": "i lùnga",
+      "compitazione": "come jersey",
+      "pronuncia": "/ˈʤɛrsi/"
+    },
+    {
+      "lettera": "J",
+      "nome": "i lùnga",
+      "compitazione": "come Jesolo",
+      "pronuncia": "/ˈjɛzolo/"
+    },
+    {
+      "lettera": "K",
+      "nome": "càppa",
+      "compitazione": "semplicemente «cappa»",
+      "pronuncia": "/ˈkappa/"
+    },
+    {
+      "lettera": "K",
+      "nome": "càppa",
+      "compitazione": "come kursaal",
+      "pronuncia": "/ˈkursal/"
+    },
+    {
+      "lettera": "L",
+      "nome": "èlle",
+      "compitazione": "come Livorno",
+      "pronuncia": "/liˈvorno/"
+    },
+    {
+      "lettera": "M",
+      "nome": "èmme",
+      "compitazione": "come Milano",
+      "pronuncia": "/miˈlano/"
+    },
+    {
+      "lettera": "N",
+      "nome": "ènne",
+      "compitazione": "come Napoli",
+      "pronuncia": "/ˈnapoli/"
+    },
+    {
+      "lettera": "O",
+      "nome": "ò",
+      "compitazione": "come Otranto",
+      "pronuncia": "/ˈɔtranto/"
+    },
+    {
+      "lettera": "P",
+      "nome": "pi",
+      "compitazione": "come Palermo",
+      "pronuncia": "/paˈlɛrmo/"
+    },
+    {
+      "lettera": "P",
+      "nome": "pi",
+      "compitazione": "come Padova",
+      "pronuncia": "/ˈpadova/"
+    },
+    {
+      "lettera": "Q",
+      "nome": "cu",
+      "compitazione": "come Quarto",
+      "pronuncia": "/ˈkwarto/"
+    },
+    {
+      "lettera": "Q",
+      "nome": "cu",
+      "compitazione": "come Québec",
+      "pronuncia": "/keˈbɛk/"
+    },
+    {
+      "lettera": "R",
+      "nome": "èrre",
+      "compitazione": "come Roma",
+      "pronuncia": "/ˈroma/"
+    },
+    {
+      "lettera": "S",
+      "nome": "èsse",
+      "compitazione": "come Savona",
+      "pronuncia": "/saˈvona/"
+    },
+    {
+      "lettera": "S",
+      "nome": "èsse",
+      "compitazione": "come Salerno",
+      "pronuncia": "/saˈlɛrno/"
+    },
+    {
+      "lettera": "S",
+      "nome": "èsse",
+      "compitazione": "come Sassari",
+      "pronuncia": "/ˈsassari/"
+    },
+    {
+      "lettera": "T",
+      "nome": "ti",
+      "compitazione": "come Torino",
+      "pronuncia": "/toˈrino/"
+    },
+    {
+      "lettera": "T",
+      "nome": "ti",
+      "compitazione": "come Taranto",
+      "pronuncia": "/ˈtaranto/"
+    },
+    {
+      "lettera": "U",
+      "nome": "u",
+      "compitazione": "come Udine",
+      "pronuncia": "/ˈudine/"
+    },
+    {
+      "lettera": "V",
+      "nome": "vu / vi",
+      "compitazione": "come Venezia",
+      "pronuncia": "/veˈnɛtʦja/"
+    },
+    {
+      "lettera": "W",
+      "nome": "vu / vi dóppia o dóppia vu / vi",
+      "compitazione": "semplicemente «vu doppia»",
+      "pronuncia": "/ˈvu ˈdoppja/"
+    },
+    {
+      "lettera": "W",
+      "nome": "vu / vi dóppia o dóppia vu / vi",
+      "compitazione": "come Washington",
+      "pronuncia": "/ˈwɔʃʃinton/"
+    },
+    {
+      "lettera": "X",
+      "nome": "ics",
+      "compitazione": "semplicemente «ics»",
+      "pronuncia": "/ˈiks/"
+    },
+    {
+      "lettera": "X",
+      "nome": "ics",
+      "compitazione": "come xilofono",
+      "pronuncia": "/ksiˈlɔfono/"
+    },
+    {
+      "lettera": "X",
+      "nome": "ics",
+      "compitazione": "come xeres",
+      "pronuncia": "/ˈksɛres/"
+    },
+    {
+      "lettera": "Y",
+      "nome": "ìpsilon",
+      "compitazione": "semplicemente «ipsilon»",
+      "pronuncia": "/ˈipsilon/"
+    },
+    {
+      "lettera": "Z",
+      "nome": "zèta",
+      "compitazione": "come Zara",
+      "pronuncia": "/ˈʣara/"
+    },
+    {
+      "lettera": "Z",
+      "nome": "zèta",
+      "compitazione": "semplicemente «zeta»",
+      "pronuncia": "/ˈʣɛta/"
+    }
+  ],
+  "meta": {
+    "title": "Alfabeto telefonico italiano - Free Download",
+    "description": "Compitazione italiana delle lettere dell'alfabeto (A come Ancona, B come Bologna…) con nome della lettera e pronuncia IPA, incluse le varianti. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alfabeto telefonico italiano | ListBase",
+    "seo_description": "Download Alfabeto telefonico italiano — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Alfabeto_telefonico_italiano"
+    ]
+  }
+}
