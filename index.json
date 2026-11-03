@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:16:27.359Z",
-  "total_datasets": 502,
-  "total_records": 139865,
+  "generated": "2026-11-03T02:16:34.843Z",
+  "total_datasets": 503,
+  "total_records": 140059,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -337,6 +337,29 @@
         "xlsx": {
           "name": "it-dati-macroeconomici_IT.xlsx",
           "size": 9932
+        }
+      }
+    },
+    {
+      "id": "it-distretti-industriali",
+      "name": "Distretti industriali italiani per regione",
+      "category": "economy",
+      "record_count": 194,
+      "columns": [
+        "distretto",
+        "regione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Distretto_industriale",
+      "updated": "2026-11",
+      "size": 21969,
+      "files": {
+        "csv": {
+          "name": "it-distretti-industriali_IT.csv",
+          "size": 10872
+        },
+        "xlsx": {
+          "name": "it-distretti-industriali_IT.xlsx",
+          "size": 11833
         }
       }
     },

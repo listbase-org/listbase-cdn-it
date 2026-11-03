@@ -1,0 +1,812 @@
+{
+  "id": "it-distretti-industriali",
+  "name": "Distretti industriali italiani per regione",
+  "title": "Distretti industriali italiani per regione",
+  "description": "Elenco dei distretti industriali italiani (meccanica, tessile, agroalimentare, mobile, ecc.) suddivisi per regione.",
+  "category": "economy",
+  "source": "https://it.wikipedia.org/wiki/Distretto_industriale",
+  "source_url": "https://it.wikipedia.org/wiki/Distretto_industriale",
+  "updated": "2026-11",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "distretto",
+      "label": "Distretto",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "distretto": "Distretto meccanico Val Tordino",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto farmaceutico L'Aquila",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto agroalimentare della Marsica",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto della pasta di Casoli – Fara San Martino",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto del vetro di Vasto – San Salvo",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto industriale Val Sinello - Gissi",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto metalmeccanico Val di Sangro - Atessa",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto cave inerti Val Pescara",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto del mobile d'Abruzzo Provincia di Teramo - Provincia di Pescara",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto del tessile Val Vibrata",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto agroalimentare Tordino - Vomano",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto tessile della Maiella - Provincia di Chieti",
+      "regione": "Abruzzo"
+    },
+    {
+      "distretto": "Distretto agroalimentare del Vulture",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto della corsetteria di Lavello",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto del mobile di Matera",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto agroalimentare di qualità del Metapontino",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto Rurale Pollino - Lagonegrese",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto delle Colline e della Montagna Materane",
+      "regione": "Basilicata"
+    },
+    {
+      "distretto": "Distretto agroalimentare di Sibari",
+      "regione": "Calabria"
+    },
+    {
+      "distretto": "Distretto agroalimentare di Bisignano",
+      "regione": "Calabria"
+    },
+    {
+      "distretto": "Distretto agroalimentare di Maierato",
+      "regione": "Calabria"
+    },
+    {
+      "distretto": "Distretto orafo di Marcianise",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto conciario di Solofra",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto tessile di Sant'Agata dei Goti – Casapulla",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto tessile di San Marco dei Cavoti",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto tessile di San Giuseppe Vesuviano",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Grumo Nevano – Aversa – Trentola Ducenta",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto Agroalimentare di Nocera Inferiore – Gragnano",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto tessile di Calitri",
+      "regione": "Campania"
+    },
+    {
+      "distretto": "Distretto agricolo-meccanico di Cento",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto turistico di Rimini",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto calzaturiero di San Mauro Pascoli",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto della ceramica di Sassuolo",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto agroalimentare del Parmense",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto della meccatronica di Piacenza",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto della meccanica di Reggio Emilia e Guastalla",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto piacentino della logistica",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto del mobile imbottito di Forlì",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Fusignano e Bagnacavallo",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto biomedicale di Mirandola",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto tessile di Carpi",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto motoristico di Bologna",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto della ceramica di Faenza",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "distretto": "Distretto Agroalimentare di San Daniele",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto della sedia di Manzano",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto del coltello di Maniago",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto della componentistica e termoelettromeccanica di Pordenone",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto delle Tecnologie Digitali – DITEDI",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto del mobile Livenza",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto del Caffè di Trieste",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento della valle del Liri",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto industriale della ceramica di Civita Castellana",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto aeronautico, aerospaziale, aeroportuale",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto della pietra dei monti Ausoni – Tiburtina",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto chimico-farmaceutico di Anagni",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Biodistretto della Via Amerina e delle Forre (Civita Castellana, Calcata, Castel Sant'Elia, Corchiano, Fabrica di Roma, Gallese, Faleria, Nepi)",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto automotive di Cassino",
+      "regione": "Lazio"
+    },
+    {
+      "distretto": "Distretto del vetro e della ceramica di Savona",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto dei mezzi di trasporto di Savona",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto dell'elettronica di Genova",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto della lavorazione della pietra di Tigullio",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto agricolo florovivaistico del ponente",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto agroalimentare di Imperia",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto della cantieristica, nautica, meccanica di La Spezia",
+      "regione": "Liguria"
+    },
+    {
+      "distretto": "Distretto della forbice di Premana",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del bottone di Grumello del Monte",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto metalmeccanico di Lecco",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto della gomma di Sebino",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto della meccanica della valle dell'Arno",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto tessile della val Seriana",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto tessile lecchese",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto dell'elettronica dell'est milanese",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto della calzetteria di Castel Goffredo",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del legno viadanese-casalasco",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto serico comasco",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Metadistretto del design",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Metadistretto della moda",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto meccano-calzaturiero di Vigevano",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento gallaratese",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del mobile della Brianza",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto agricolo di Sermide",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del ferro delle valli Bresciane",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto delle Armi leggere in Val Trompia",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del tessile intimo in Valle Camonica",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto delle valvole a Lumezzane",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto delle posate e delle pentole a Lumezzane",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto della meccanica nel Bresciano",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto dell'Automazione e delle Macchine Utensili nel Bresciano",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del giocattolo di Canneto sull'Oglio",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto vivaistico cannetese",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto metalmeccanico Basso mantovano",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto metalmeccanico Val Brembana",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto metalmeccanico Val Brembilla",
+      "regione": "Lombardia"
+    },
+    {
+      "distretto": "Distretto del mobile di Pesaro",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto degli strumenti musicali di Castelfidardo – Loreto – Recanati poi ribattezzato come Distretto industriale plurisettoriale di Recanati - Osimo - Castelfidardo",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto agroindustriale di San Benedetto del Tronto",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto plurisettoriale di Civitanova Marche",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto del cappello di Montappone",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Fermo e di Macerata",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto degli elettrodomestici di Fabriano",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto della carta di Fabriano a Fabriano",
+      "regione": "Marche"
+    },
+    {
+      "distretto": "Distretto tessile di Trivento e Riccia",
+      "regione": "Molise"
+    },
+    {
+      "distretto": "Distretto meccanico Termoli",
+      "regione": "Molise"
+    },
+    {
+      "distretto": "Distretto turistico balneare di Campomarino e Termoli",
+      "regione": "Molise"
+    },
+    {
+      "distretto": "Distretto agroalimentare di La Morra",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto laniero di Biella",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto alimentare e del vino di Canelli – Santo Stefano Belbo",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto della rubinetteria di Cusio – Valsesia",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto del metallo di Pianezza – Pinerolo",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto tessile di Chieri – Cocconato",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto dei casalinghi del Verbano – Cusio – Ossola",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto tessile di Oleggio – Varallo Pombia",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto dell'indotto della FIAT di Torino",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto orafo di Valenza Po",
+      "regione": "Piemonte"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Barletta",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Casarano",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto Produttivo della Meccanica Pugliese della Terra di Bari",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto produttivo dell'Informatica Pugliese",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto agroalimentare di Foggia",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto aerospaziale Pugliese",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento salentino (Lecce)",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto dei Servizi amministrativi di Foggia",
+      "regione": "Puglia"
+    },
+    {
+      "distretto": "Distretto del formaggio pecorino Sardo",
+      "regione": "Sardegna"
+    },
+    {
+      "distretto": "Distretto del sughero di Calangianus – Tempio Pausania",
+      "regione": "Sardegna"
+    },
+    {
+      "distretto": "Distretto del granito della Gallura",
+      "regione": "Sardegna"
+    },
+    {
+      "distretto": "Distretto del marmo di Orosei",
+      "regione": "Sardegna"
+    },
+    {
+      "distretto": "Distretto tecnologico Etna Valley",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto della ceramica di Santo Stefano di Camastra",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto della ceramica di Caltagirone",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto produttivo della pesca di Mazara del Vallo",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto alimentare ortofrutticolo di Pachino",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto tessile della Sicilia Orientale",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto della meccanica Sicilia Orientale",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto della meccatronica di Palermo",
+      "regione": "Sicilia"
+    },
+    {
+      "distretto": "Distretto del mobile di Poggibonsi",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto della pelle, cuoio e calzature di Castelfiorentino",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto conciario e calzaturiero di Santa Croce sull'Arno",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Valdinievole",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto tessile di Prato",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto cartario di Lucca",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto calzaturiero di Lucca",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto orafo di Arezzo",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto del marmo di Carrara",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto della pelle, cuoio e calzature di Valdarno superiore",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento di Empoli",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto florovivaistico di Pistoia",
+      "regione": "Toscana"
+    },
+    {
+      "distretto": "Distretto del porfido della val di Cembra",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "distretto": "Distretto della ceramica di Deruta",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento in cashmere di Perugia",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto dell'arredamento e metalmeccanica di Marsciano",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto del ricamo di Assisi",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto della grafica-cartotecnica di Città di Castello – San Giustino",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto siderurgico e chimico di Terni e Narni",
+      "regione": "Umbria"
+    },
+    {
+      "distretto": "Distretto dell'occhiale di Belluno",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto terme euganee",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto argentiero",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del mobile classico della pianura veneta",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del marmo e delle pietre",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto orafo vicentino",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto sistema moda",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto provinciale della cantieristica nautica veneziana",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del grafico-cartario veronese",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto della meccanica e della subfornitura",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto turistico delle Province di Venezia, Rovigo, Treviso e Vicenza",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto dell'informatica e del tecnologico avanzato",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del mobile d'arte di Bassano",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Portualità, intermodalità e logistica nelle Province di Venezia e Treviso",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto regionale della gomma e materie plastiche",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto turistico del Garda",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del packaging",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto dello Sportsystem di Montebelluna",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto trevigiano della bioedilizia",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto dell'abbigliamento",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto padovano della logistica",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto calzaturiero del Brenta",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Metadistretto Veneto della filiera legno-arredo",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del condizionamento e della refrigerazione industriale",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del vino",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto logistico veronese",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto della giostra dell'Alto Polesine",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto Veneto dei Beni Culturali",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto della ceramica terracotta",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto della termomeccanica – Veneto clima",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto ittico della Provincia di Rovigo",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto delle attrezzature alberghiere",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto vicentino della concia",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto calzaturiero e della moda di Verona",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto ortofrutticolo",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto della meccatronica",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del vetro artistico di Murano",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto agroittico di Venezia",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto lattiero-caseario",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Distretto del prosecco DOC",
+      "regione": "Veneto"
+    },
+    {
+      "distretto": "Metadistretto alimentare veneto – DAV",
+      "regione": "Veneto"
+    }
+  ],
+  "meta": {
+    "title": "Distretti industriali italiani per regione - Free Download",
+    "description": "Elenco dei distretti industriali italiani (meccanica, tessile, agroalimentare, mobile, ecc.) suddivisi per regione. Contains 194 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Distretti industriali italiani per regione | ListBase",
+    "seo_description": "Download Distretti industriali italiani per regione — 194 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 194 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Distretto_industriale"
+    ]
+  }
+}
