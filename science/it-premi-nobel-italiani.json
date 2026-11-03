@@ -1,0 +1,172 @@
+{
+  "id": "it-premi-nobel-italiani",
+  "name": "Premi Nobel italiani",
+  "title": "Premi Nobel italiani",
+  "description": "Vincitori italiani del premio Nobel con categoria e anno; sono indicati i premiati nati in Italia ma inseriti dalla fonte sotto un'altra cittadinanza.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Vincitori_del_premio_Nobel_per_Stato",
+  "source_url": "https://it.wikipedia.org/wiki/Vincitori_del_premio_Nobel_per_Stato",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "vincitore",
+      "label": "Vincitore",
+      "type": "string"
+    },
+    {
+      "key": "premio",
+      "label": "Premio",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "premiato_con_altra_cittadinanza",
+      "label": "Premiato Con Altra Cittadinanza",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vincitore": "Giosuè Carducci",
+      "premio": "Letteratura",
+      "anno": 1906,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Camillo Golgi",
+      "premio": "Medicina",
+      "anno": 1906,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Ernesto Teodoro Moneta",
+      "premio": "Pace",
+      "anno": 1907,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Guglielmo Marconi",
+      "premio": "Fisica",
+      "anno": 1909,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Grazia Deledda",
+      "premio": "Letteratura",
+      "anno": 1926,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Luigi Pirandello",
+      "premio": "Letteratura",
+      "anno": 1934,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Enrico Fermi",
+      "premio": "Fisica",
+      "anno": 1938,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Daniel Bovet",
+      "premio": "Fisiologia o Medicina",
+      "anno": 1957,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Salvatore Quasimodo",
+      "premio": "Letteratura",
+      "anno": 1959,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Emilio Segrè",
+      "premio": "Fisica",
+      "anno": 1959,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Giulio Natta",
+      "premio": "Chimica",
+      "anno": 1963,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Salvatore Luria",
+      "premio": "Fisiologia o Medicina",
+      "anno": 1969,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Eugenio Montale",
+      "premio": "Letteratura",
+      "anno": 1975,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Renato Dulbecco",
+      "premio": "Fisiologia o Medicina",
+      "anno": 1975,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Carlo Rubbia",
+      "premio": "Fisica",
+      "anno": 1984,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Franco Modigliani",
+      "premio": "Economia",
+      "anno": 1985,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Rita Levi-Montalcini",
+      "premio": "Fisiologia o Medicina",
+      "anno": 1986,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Dario Fo",
+      "premio": "Letteratura",
+      "anno": 1997,
+      "premiato_con_altra_cittadinanza": ""
+    },
+    {
+      "vincitore": "Riccardo Giacconi",
+      "premio": "Fisica",
+      "anno": 2002,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Mario Capecchi",
+      "premio": "Fisiologia o Medicina",
+      "anno": 2007,
+      "premiato_con_altra_cittadinanza": "sì"
+    },
+    {
+      "vincitore": "Giorgio Parisi",
+      "premio": "Fisica",
+      "anno": 2021,
+      "premiato_con_altra_cittadinanza": ""
+    }
+  ],
+  "meta": {
+    "title": "Premi Nobel italiani - Free Download",
+    "description": "Vincitori italiani del premio Nobel con categoria e anno; sono indicati i premiati nati in Italia ma inseriti dalla fonte sotto un'altra cittadinanza. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Premi Nobel italiani | ListBase",
+    "seo_description": "Download Premi Nobel italiani — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Vincitori_del_premio_Nobel_per_Stato"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:16:48.359Z",
-  "total_datasets": 505,
-  "total_records": 140143,
+  "generated": "2026-11-03T02:16:55.366Z",
+  "total_datasets": 506,
+  "total_records": 140164,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -15386,6 +15386,31 @@
         "xlsx": {
           "name": "it-astronauti-italiani_IT.xlsx",
           "size": 8281
+        }
+      }
+    },
+    {
+      "id": "it-premi-nobel-italiani",
+      "name": "Premi Nobel italiani",
+      "category": "science",
+      "record_count": 21,
+      "columns": [
+        "vincitore",
+        "premio",
+        "anno",
+        "premiato_con_altra_cittadinanza"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Vincitori_del_premio_Nobel_per_Stato",
+      "updated": "2026-11",
+      "size": 4718,
+      "files": {
+        "csv": {
+          "name": "it-premi-nobel-italiani_IT.csv",
+          "size": 965
+        },
+        "xlsx": {
+          "name": "it-premi-nobel-italiani_IT.xlsx",
+          "size": 7466
         }
       }
     },
