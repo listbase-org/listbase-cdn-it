@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-04T02:08:54.574Z",
-  "total_datasets": 511,
-  "total_records": 140525,
+  "generated": "2026-11-04T02:09:01.504Z",
+  "total_datasets": 512,
+  "total_records": 140636,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -1983,6 +1983,36 @@
         "xlsx": {
           "name": "it-elezioni-politiche-2022-camera_IT.xlsx",
           "size": 8228
+        }
+      }
+    },
+    {
+      "id": "it-partiti-politici",
+      "name": "Partiti politici italiani attivi",
+      "category": "politics",
+      "record_count": 111,
+      "columns": [
+        "partito",
+        "leader",
+        "collocazione",
+        "ideologia",
+        "camera_dei_deputati",
+        "senato",
+        "parlamento_europeo",
+        "consigli_regionali",
+        "rappresentanza"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Partiti_politici_italiani",
+      "updated": "2026-11",
+      "size": 41137,
+      "files": {
+        "csv": {
+          "name": "it-partiti-politici_IT.csv",
+          "size": 14742
+        },
+        "xlsx": {
+          "name": "it-partiti-politici_IT.xlsx",
+          "size": 14140
         }
       }
     },
