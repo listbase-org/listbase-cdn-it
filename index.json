@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-03T02:17:02.771Z",
-  "total_datasets": 507,
-  "total_records": 140227,
+  "generated": "2026-11-04T02:08:32.425Z",
+  "total_datasets": 508,
+  "total_records": 140311,
   "categories": [
     {
       "id": "agriculture",
@@ -91,6 +91,10 @@
     {
       "id": "transport",
       "dataset_count": 22
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -17330,6 +17334,35 @@
         "xlsx": {
           "name": "it-veneto-aeroporti_IT.xlsx",
           "size": 18353
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-milano",
+      "name": "Antiche unità di misura del circondario di Milano",
+      "category": "units",
+      "record_count": 84,
+      "columns": [
+        "tipo",
+        "unita",
+        "unita_di_riferimento",
+        "quantita_in_unita_di_riferimento",
+        "unita_superiore",
+        "quantita_in_unita_superiore",
+        "valore_metrico",
+        "unita_metrica"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Milano",
+      "updated": "2026-11",
+      "size": 28120,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-milano_IT.csv",
+          "size": 6980
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-milano_IT.xlsx",
+          "size": 10000
         }
       }
     }

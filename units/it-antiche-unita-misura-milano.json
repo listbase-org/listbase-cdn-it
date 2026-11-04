@@ -1,0 +1,906 @@
+{
+  "id": "it-antiche-unita-misura-milano",
+  "name": "Antiche unità di misura del circondario di Milano",
+  "title": "Antiche unità di misura del circondario di Milano",
+  "description": "Unità di misura tradizionali milanesi (lunghezza, superficie, volume, capacità, pesi) con rapporti tra multipli e sottomultipli ed equivalenza metrica.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Milano",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Milano",
+  "updated": "2026-11",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "unita",
+      "label": "Unita",
+      "type": "string"
+    },
+    {
+      "key": "unita_di_riferimento",
+      "label": "Unita Di Riferimento",
+      "type": "string"
+    },
+    {
+      "key": "quantita_in_unita_di_riferimento",
+      "label": "Quantita In Unita Di Riferimento",
+      "type": "number"
+    },
+    {
+      "key": "unita_superiore",
+      "label": "Unita Superiore",
+      "type": "string"
+    },
+    {
+      "key": "quantita_in_unita_superiore",
+      "label": "Quantita In Unita Superiore",
+      "type": "number"
+    },
+    {
+      "key": "valore_metrico",
+      "label": "Valore Metrico",
+      "type": "number"
+    },
+    {
+      "key": "unita_metrica",
+      "label": "Unita Metrica",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Miglio lombardo",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 1784.809344,
+      "unita_metrica": "m"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Braccio",
+      "unita_di_riferimento": "Miglio lombardo",
+      "quantita_in_unita_di_riferimento": 3000,
+      "unita_superiore": "Miglio lombardo",
+      "quantita_in_unita_superiore": 3000,
+      "valore_metrico": 0.594936,
+      "unita_metrica": "m"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Oncia del braccio",
+      "unita_di_riferimento": "Miglio lombardo",
+      "quantita_in_unita_di_riferimento": 36000,
+      "unita_superiore": "Braccio",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Punto del braccio",
+      "unita_di_riferimento": "Miglio lombardo",
+      "quantita_in_unita_di_riferimento": 432000,
+      "unita_superiore": "Oncia del braccio",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Atomo del braccio",
+      "unita_di_riferimento": "Miglio lombardo",
+      "quantita_in_unita_di_riferimento": 5184000,
+      "unita_superiore": "Punto del braccio",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Piede liprando",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 0.446202,
+      "unita_metrica": "m"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Oncia del braccio",
+      "unita_di_riferimento": "Piede liprando",
+      "quantita_in_unita_di_riferimento": 9,
+      "unita_superiore": "Piede liprando",
+      "quantita_in_unita_superiore": 9,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Gettata",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Trabucco",
+      "unita_di_riferimento": "Gettata",
+      "quantita_in_unita_di_riferimento": 2,
+      "unita_superiore": "Gettata",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": 2.61111,
+      "unita_metrica": "m"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Piede",
+      "unita_di_riferimento": "Gettata",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Trabucco",
+      "quantita_in_unita_superiore": 6,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Oncia del piede",
+      "unita_di_riferimento": "Gettata",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Piede",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Punti del piede",
+      "unita_di_riferimento": "Gettata",
+      "quantita_in_unita_di_riferimento": 1728,
+      "unita_superiore": "Oncia del piede",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "unita": "Atomo del piede",
+      "unita_di_riferimento": "Gettata",
+      "quantita_in_unita_di_riferimento": 20736,
+      "unita_superiore": "Punti del piede",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Pertica agraria",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 654.5179,
+      "unita_metrica": "m²"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Tavola",
+      "unita_di_riferimento": "Pertica agraria",
+      "quantita_in_unita_di_riferimento": 24,
+      "unita_superiore": "Pertica agraria",
+      "quantita_in_unita_superiore": 24,
+      "valore_metrico": 27.2716,
+      "unita_metrica": "m²"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Trabucco quadrato",
+      "unita_di_riferimento": "Pertica agraria",
+      "quantita_in_unita_di_riferimento": 96,
+      "unita_superiore": "Tavola",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Tavola",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 27.2716,
+      "unita_metrica": "m²"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Piede di tavola o gettata-piede",
+      "unita_di_riferimento": "Tavola",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Tavola",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Oncia di tavola o gettata-oncia",
+      "unita_di_riferimento": "Tavola",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Piede di tavola o gettata-piede",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Punto di tavola o gettata-punto",
+      "unita_di_riferimento": "Tavola",
+      "quantita_in_unita_di_riferimento": 1728,
+      "unita_superiore": "Oncia di tavola o gettata-oncia",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Atomo di tavola",
+      "unita_di_riferimento": "Tavola",
+      "quantita_in_unita_di_riferimento": 20736,
+      "unita_superiore": "Punto di tavola o gettata-punto",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Braccio quadrato o quadretto",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 0.353949,
+      "unita_metrica": "m²"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Oncia di braccio",
+      "unita_di_riferimento": "Braccio quadrato o quadretto",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Braccio quadrato o quadretto",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Punto di braccio",
+      "unita_di_riferimento": "Braccio quadrato o quadretto",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Oncia di braccio",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Atomo di braccio",
+      "unita_di_riferimento": "Braccio quadrato o quadretto",
+      "quantita_in_unita_di_riferimento": 1728,
+      "unita_superiore": "Punto di braccio",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Braccio d'asse",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 1.415798,
+      "unita_metrica": "m²"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Oncia superficiale",
+      "unita_di_riferimento": "Braccio d'asse",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Braccio d'asse",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Punto superficiale",
+      "unita_di_riferimento": "Braccio d'asse",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Oncia superficiale",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di superficie",
+      "unita": "Atomo superficiale",
+      "unita_di_riferimento": "Braccio d'asse",
+      "quantita_in_unita_di_riferimento": 1728,
+      "unita_superiore": "Punto superficiale",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Carro da legna",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Braccio cubo",
+      "unita_di_riferimento": "Carro da legna",
+      "quantita_in_unita_di_riferimento": 16,
+      "unita_superiore": "Carro da legna",
+      "quantita_in_unita_superiore": 16,
+      "valore_metrico": 210.577,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Oncia cubica del braccio",
+      "unita_di_riferimento": "Carro da legna",
+      "quantita_in_unita_di_riferimento": 27648,
+      "unita_superiore": "Braccio cubo",
+      "quantita_in_unita_superiore": 1728,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Braccio cubo",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 210.577,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Oncia del braccio cubo",
+      "unita_di_riferimento": "Braccio cubo",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Braccio cubo",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Punto del braccio cubo",
+      "unita_di_riferimento": "Braccio cubo",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Oncia del braccio cubo",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di volume",
+      "unita": "Atomo del braccio cubo",
+      "unita_di_riferimento": "Braccio cubo",
+      "quantita_in_unita_di_riferimento": 1728,
+      "unita_superiore": "Punto del braccio cubo",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Moggio da grano",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 146.2343,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Staio",
+      "unita_di_riferimento": "Moggio da grano",
+      "quantita_in_unita_di_riferimento": 8,
+      "unita_superiore": "Moggio da grano",
+      "quantita_in_unita_superiore": 8,
+      "valore_metrico": 18.2793,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Mina",
+      "unita_di_riferimento": "Moggio da grano",
+      "quantita_in_unita_di_riferimento": 16,
+      "unita_superiore": "Staio",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartaro",
+      "unita_di_riferimento": "Moggio da grano",
+      "quantita_in_unita_di_riferimento": 32,
+      "unita_superiore": "Mina",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Metà",
+      "unita_di_riferimento": "Moggio da grano",
+      "quantita_in_unita_di_riferimento": 128,
+      "unita_superiore": "Quartaro",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartino",
+      "unita_di_riferimento": "Moggio da grano",
+      "quantita_in_unita_di_riferimento": 512,
+      "unita_superiore": "Metà",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Soma",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Staio",
+      "unita_di_riferimento": "Soma",
+      "quantita_in_unita_di_riferimento": 9,
+      "unita_superiore": "Soma",
+      "quantita_in_unita_superiore": 9,
+      "valore_metrico": 18.2793,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Mina",
+      "unita_di_riferimento": "Soma",
+      "quantita_in_unita_di_riferimento": 18,
+      "unita_superiore": "Staio",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartaro",
+      "unita_di_riferimento": "Soma",
+      "quantita_in_unita_di_riferimento": 36,
+      "unita_superiore": "Mina",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Metà",
+      "unita_di_riferimento": "Soma",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Quartaro",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartino",
+      "unita_di_riferimento": "Soma",
+      "quantita_in_unita_di_riferimento": 576,
+      "unita_superiore": "Metà",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Moggio da carbone colmo",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 225.1033,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Staio",
+      "unita_di_riferimento": "Moggio da carbone colmo",
+      "quantita_in_unita_di_riferimento": 8,
+      "unita_superiore": "Moggio da carbone colmo",
+      "quantita_in_unita_superiore": 8,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartaro",
+      "unita_di_riferimento": "Moggio da carbone colmo",
+      "quantita_in_unita_di_riferimento": 32,
+      "unita_superiore": "Staio",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Metà",
+      "unita_di_riferimento": "Moggio da carbone colmo",
+      "quantita_in_unita_di_riferimento": 128,
+      "unita_superiore": "Quartaro",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartino",
+      "unita_di_riferimento": "Moggio da carbone colmo",
+      "quantita_in_unita_di_riferimento": 512,
+      "unita_superiore": "Metà",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Moggio da carbone raso",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 221.0453,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Staio",
+      "unita_di_riferimento": "Moggio da carbone raso",
+      "quantita_in_unita_di_riferimento": 8,
+      "unita_superiore": "Moggio da carbone raso",
+      "quantita_in_unita_superiore": 8,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartaro",
+      "unita_di_riferimento": "Moggio da carbone raso",
+      "quantita_in_unita_di_riferimento": 32,
+      "unita_superiore": "Staio",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Metà",
+      "unita_di_riferimento": "Moggio da carbone raso",
+      "quantita_in_unita_di_riferimento": 128,
+      "unita_superiore": "Quartaro",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "unita": "Quartino",
+      "unita_di_riferimento": "Moggio da carbone raso",
+      "quantita_in_unita_di_riferimento": 512,
+      "unita_superiore": "Metà",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Brenta",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 75.5544,
+      "unita_metrica": "L"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Staio",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 3,
+      "unita_superiore": "Brenta",
+      "quantita_in_unita_superiore": 3,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Secchia o mina",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 6,
+      "unita_superiore": "Staio",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Quartaro",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Secchia o mina",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Pinta",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 48,
+      "unita_superiore": "Quartaro",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Boccale",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 96,
+      "unita_superiore": "Pinta",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Mezzo",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 192,
+      "unita_superiore": "Boccale",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "unita": "Zaina",
+      "unita_di_riferimento": "Brenta",
+      "quantita_in_unita_di_riferimento": 384,
+      "unita_superiore": "Mezzo",
+      "quantita_in_unita_superiore": 2,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Fascio o centinaio",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Peso",
+      "unita_di_riferimento": "Fascio o centinaio",
+      "quantita_in_unita_di_riferimento": 10,
+      "unita_superiore": "Fascio o centinaio",
+      "quantita_in_unita_superiore": 10,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Libbra grossa",
+      "unita_di_riferimento": "Fascio o centinaio",
+      "quantita_in_unita_di_riferimento": 100,
+      "unita_superiore": "Peso",
+      "quantita_in_unita_superiore": 10,
+      "valore_metrico": 762.517,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Oncia",
+      "unita_di_riferimento": "Fascio o centinaio",
+      "quantita_in_unita_di_riferimento": 2800,
+      "unita_superiore": "Libbra grossa",
+      "quantita_in_unita_superiore": 28,
+      "valore_metrico": 27.23275,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Quintale",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Rubbo",
+      "unita_di_riferimento": "Quintale",
+      "quantita_in_unita_di_riferimento": 4,
+      "unita_superiore": "Quintale",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Libbra piccola (o sottile)",
+      "unita_di_riferimento": "Quintale",
+      "quantita_in_unita_di_riferimento": 100,
+      "unita_superiore": "Rubbo",
+      "quantita_in_unita_superiore": 25,
+      "valore_metrico": 326.793,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Oncia",
+      "unita_di_riferimento": "Quintale",
+      "quantita_in_unita_di_riferimento": 1200,
+      "unita_superiore": "Libbra piccola (o sottile)",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": 27.23275,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Oncia",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 27.23275,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Denaro",
+      "unita_di_riferimento": "Oncia",
+      "quantita_in_unita_di_riferimento": 12,
+      "unita_superiore": "Oncia",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Grano",
+      "unita_di_riferimento": "Oncia",
+      "quantita_in_unita_di_riferimento": 144,
+      "unita_superiore": "Denaro",
+      "quantita_in_unita_superiore": 12,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Marco di zecca",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 231.997,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Oncia",
+      "unita_di_riferimento": "Marco di zecca",
+      "quantita_in_unita_di_riferimento": 8,
+      "unita_superiore": "Marco di zecca",
+      "quantita_in_unita_superiore": 8,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Denaro",
+      "unita_di_riferimento": "Marco di zecca",
+      "quantita_in_unita_di_riferimento": 192,
+      "unita_superiore": "Oncia",
+      "quantita_in_unita_superiore": 24,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Grano",
+      "unita_di_riferimento": "Marco di zecca",
+      "quantita_in_unita_di_riferimento": 4608,
+      "unita_superiore": "Denaro",
+      "quantita_in_unita_superiore": 24,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Granetto",
+      "unita_di_riferimento": "Marco di zecca",
+      "quantita_in_unita_di_riferimento": 110592,
+      "unita_superiore": "Grano",
+      "quantita_in_unita_superiore": 24,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Carato d'Olanda",
+      "unita_di_riferimento": "",
+      "quantita_in_unita_di_riferimento": "",
+      "unita_superiore": "",
+      "quantita_in_unita_superiore": "",
+      "valore_metrico": 0.20567,
+      "unita_metrica": "g"
+    },
+    {
+      "tipo": "Pesi",
+      "unita": "Grano",
+      "unita_di_riferimento": "Carato d'Olanda",
+      "quantita_in_unita_di_riferimento": 4,
+      "unita_superiore": "Carato d'Olanda",
+      "quantita_in_unita_superiore": 4,
+      "valore_metrico": "",
+      "unita_metrica": ""
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Milano - Free Download",
+    "description": "Unità di misura tradizionali milanesi (lunghezza, superficie, volume, capacità, pesi) con rapporti tra multipli e sottomultipli ed equivalenza metrica. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Milano | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Milano — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Milano"
+    ]
+  }
+}
