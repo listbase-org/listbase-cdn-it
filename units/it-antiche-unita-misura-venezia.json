@@ -1,0 +1,380 @@
+{
+  "id": "it-antiche-unita-misura-venezia",
+  "name": "Antiche unità di misura della provincia di Venezia",
+  "title": "Antiche unità di misura della provincia di Venezia",
+  "description": "Unità di misura tradizionali in uso nei distretti e comuni della provincia di Venezia con il valore metrico corrispondente.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_della_provincia_di_Venezia",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_della_provincia_di_Venezia",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita",
+      "label": "Unita",
+      "type": "string"
+    },
+    {
+      "key": "ambito",
+      "label": "Ambito",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da lana",
+      "valore": 0.683396,
+      "unita": "m",
+      "ambito": "Distretti di Venezia e Chioggia, comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da seta",
+      "valore": 0.638721,
+      "unita": "m",
+      "ambito": "Distretti di Venezia e Chioggia, comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica e da terra",
+      "valore": 0.347735,
+      "unita": "m",
+      "ambito": "Distretti di Venezia e Chioggia, comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da lana",
+      "valore": 0.680981,
+      "unita": "m",
+      "ambito": "Distretti di Chioggia e Dolo, meno il comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da seta",
+      "valore": 0.637514,
+      "unita": "m",
+      "ambito": "Distretti di Chioggia e Dolo, meno il comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica",
+      "valore": 0.357394,
+      "unita": "m",
+      "ambito": "Distretti di Chioggia e Dolo, meno il comune di Mira"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da panno",
+      "valore": 0.673091,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da tela",
+      "valore": 0.636252,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica",
+      "valore": 0.347735,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede agrimensorio",
+      "valore": 0.408105,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da lana",
+      "valore": 0.676189,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da seta",
+      "valore": 0.634014,
+      "unita": "m",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da panno",
+      "valore": 0.680981,
+      "unita": "m",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da seta",
+      "valore": 0.636252,
+      "unita": "m",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica e da terra",
+      "valore": 0.34049,
+      "unita": "m",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica",
+      "valore": 0.347735,
+      "unita": "m",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da lana",
+      "valore": 0.676189,
+      "unita": "m",
+      "ambito": "Distretto di Mirano e San Donà"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Braccio da seta",
+      "valore": 0.634014,
+      "unita": "m",
+      "ambito": "Distretto di Mirano e San Donà"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede da fabbrica",
+      "valore": 0.347735,
+      "unita": "m",
+      "ambito": "Distretto di Mirano e San Donà"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede agrimensorio",
+      "valore": 0.357394,
+      "unita": "m",
+      "ambito": "Comuni di Mirano, Pianiga, Santa Maria di Sala, Distretto di San Donà"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede agrimensorio",
+      "valore": 0.408105,
+      "unita": "m",
+      "ambito": "Comuni di Salzano, Noale, Scorzè e distretto di San Donà"
+    },
+    {
+      "tipo": "Misure di lunghezza",
+      "denominazione": "Piede",
+      "valore": 0.347735,
+      "unita": "m",
+      "ambito": "Distretto di Dolo"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "denominazione": "Migliaio di passi quadrati",
+      "valore": 3022.9881,
+      "unita": "m²",
+      "ambito": "Distretti di Venezia e Chioggia"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "denominazione": "Migliaio di Ghebbi",
+      "valore": 2448.6203,
+      "unita": "m²",
+      "ambito": "Distretti di Venezia e Chioggia"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "denominazione": "Campo",
+      "valore": 5204.69,
+      "unita": "m²",
+      "ambito": "Distretti di San Donà, Mestre, Mirano"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "denominazione": "Campo",
+      "valore": 3862.5726,
+      "unita": "m²",
+      "ambito": "Distretti di Chioggia, Dolo, comuni di Mirano, Pianiga, Santa Maria di Sala"
+    },
+    {
+      "tipo": "Misure di superficie",
+      "denominazione": "Campo",
+      "valore": 3409.1268,
+      "unita": "m²",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Misure di volume",
+      "denominazione": "Piede cubo",
+      "valore": 42.048,
+      "unita": "L",
+      "ambito": "Tutti i comuni"
+    },
+    {
+      "tipo": "Misure di volume",
+      "denominazione": "Piede cubo",
+      "valore": 45.65,
+      "unita": "L",
+      "ambito": "Distretti di Chioggia, Dolo, San Donà"
+    },
+    {
+      "tipo": "Misure di volume",
+      "denominazione": "Piede cubo",
+      "valore": 67.373,
+      "unita": "L",
+      "ambito": "Distretti di Mirano, Portogruaro, Mestre"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "denominazione": "Staio",
+      "valore": 83.3172,
+      "unita": "L",
+      "ambito": "Distretti di Venezia, Dolo, Chioggia, Portogruaro e comuni di Mira, Mirano, Pianiga, Santa Maria di Sala"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "denominazione": "Sacco",
+      "valore": 86.812,
+      "unita": "L",
+      "ambito": "Distretti di Mestre, Mirano, San Donà"
+    },
+    {
+      "tipo": "Misure di capacità per gli aridi",
+      "denominazione": "Moggio",
+      "valore": 347.8016,
+      "unita": "L",
+      "ambito": "Distretti di Dolo (meno il comune di Mira) e Chioggia"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Barila",
+      "valore": 64.3859,
+      "unita": "L",
+      "ambito": "Distretto di Venezia"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 75.117,
+      "unita": "L",
+      "ambito": "Distretto di Venezia, comune di Mira"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 85.848,
+      "unita": "L",
+      "ambito": "Distretto di Mestre"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 71.2755,
+      "unita": "L",
+      "ambito": "Distretto di Dolo (meno il comune di Mira), comuni di Mirano, Pianiga, Santa Maria di Sala"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 77.98,
+      "unita": "L",
+      "ambito": "Distretto di Mirano e San Donà"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 73,
+      "unita": "L",
+      "ambito": "Distretto di Chioggia"
+    },
+    {
+      "tipo": "Misure di capacità per i liquidi",
+      "denominazione": "Mastello",
+      "valore": 91.6042,
+      "unita": "L",
+      "ambito": "Distretto di Portogruaro"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra sottile",
+      "valore": 301.23,
+      "unita": "g",
+      "ambito": "Distretti di Venezia, Portogruaro, San Donà, Chioggia, comune di Mira"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra grossa",
+      "valore": 476.999,
+      "unita": "g",
+      "ambito": "Distretti di Venezia, Portogruaro, San Donà, Chioggia, comune di Mira"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra sottile",
+      "valore": 338.883,
+      "unita": "g",
+      "ambito": "Distretto di Dolo (meno il comune di Mira), comuni di Mirano, Cona, Pianiga, Santa Maria di Sala"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra grossa",
+      "valore": 486.539,
+      "unita": "g",
+      "ambito": "Distretto di Dolo (meno il comune di Mira), comuni di Mirano, Cona, Pianiga, Santa Maria di Sala"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra sottile",
+      "valore": 338.883,
+      "unita": "g",
+      "ambito": "Distretti di Mestre, Portogruaro e San Donà"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Libbra grossa",
+      "valore": 516.749,
+      "unita": "g",
+      "ambito": "Distretti di Mestre, Portogruaro e San Donà"
+    },
+    {
+      "tipo": "Pesi",
+      "denominazione": "Marco",
+      "valore": 238.499,
+      "unita": "g",
+      "ambito": "Tutti i comuni"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura della provincia di Venezia - Free Download",
+    "description": "Unità di misura tradizionali in uso nei distretti e comuni della provincia di Venezia con il valore metrico corrispondente. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura della provincia di Venezia | ListBase",
+    "seo_description": "Download Antiche unità di misura della provincia di Venezia — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_della_provincia_di_Venezia"
+    ]
+  }
+}

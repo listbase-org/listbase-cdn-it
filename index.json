@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-04T02:08:32.425Z",
-  "total_datasets": 508,
-  "total_records": 140311,
+  "generated": "2026-11-04T02:08:40.354Z",
+  "total_datasets": 509,
+  "total_records": 140358,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -17363,6 +17363,32 @@
         "xlsx": {
           "name": "it-antiche-unita-misura-milano_IT.xlsx",
           "size": 10000
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-venezia",
+      "name": "Antiche unità di misura della provincia di Venezia",
+      "category": "units",
+      "record_count": 47,
+      "columns": [
+        "tipo",
+        "denominazione",
+        "valore",
+        "unita",
+        "ambito"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_della_provincia_di_Venezia",
+      "updated": "2026-11",
+      "size": 11026,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-venezia_IT.csv",
+          "size": 4597
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-venezia_IT.xlsx",
+          "size": 8384
         }
       }
     }
