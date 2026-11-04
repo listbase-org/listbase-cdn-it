@@ -1,0 +1,821 @@
+{
+  "id": "it-santi-patroni-capoluoghi",
+  "name": "Santi patroni dei capoluoghi di provincia e giorno festivo",
+  "title": "Santi patroni dei capoluoghi di provincia e giorno festivo",
+  "description": "Calendario delle feste patronali: santo patrono e giorno festivo locale di ogni capoluogo di provincia italiano.",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_delle_città_capoluogo_di_provincia_italiane",
+  "source_url": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_delle_città_capoluogo_di_provincia_italiane",
+  "updated": "2026-11",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "capoluogo",
+      "label": "Capoluogo",
+      "type": "string"
+    },
+    {
+      "key": "santo_patrono",
+      "label": "Santo Patrono",
+      "type": "string"
+    },
+    {
+      "key": "giorno_festivo",
+      "label": "Giorno Festivo",
+      "type": "string"
+    },
+    {
+      "key": "altri_patroni",
+      "label": "Altri Patroni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "capoluogo": "L'Aquila",
+      "santo_patrono": "San Massimo d'Aveia",
+      "giorno_festivo": "10 giugno",
+      "altri_patroni": "San Bernardino, Sant'Equizio e San Pietro Celestino"
+    },
+    {
+      "regione": "Abruzzo",
+      "capoluogo": "Chieti",
+      "santo_patrono": "San Giustino di Chieti",
+      "giorno_festivo": "11 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Abruzzo",
+      "capoluogo": "Pescara",
+      "santo_patrono": "San Cetteo",
+      "giorno_festivo": "10 ottobre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Abruzzo",
+      "capoluogo": "Teramo",
+      "santo_patrono": "San Berardo da Pagliara",
+      "giorno_festivo": "19 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Basilicata",
+      "capoluogo": "Potenza",
+      "santo_patrono": "San Gerardo di Potenza",
+      "giorno_festivo": "30 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Basilicata",
+      "capoluogo": "Matera",
+      "santo_patrono": "Madonna della Bruna",
+      "giorno_festivo": "2 luglio",
+      "altri_patroni": "Sant'Eustachio"
+    },
+    {
+      "regione": "Calabria",
+      "capoluogo": "Catanzaro",
+      "santo_patrono": "San Vitaliano",
+      "giorno_festivo": "16 luglio",
+      "altri_patroni": "Sant'Agazio"
+    },
+    {
+      "regione": "Calabria",
+      "capoluogo": "Cosenza",
+      "santo_patrono": "Madonna del Pilerio",
+      "giorno_festivo": "12 febbraio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Calabria",
+      "capoluogo": "Crotone",
+      "santo_patrono": "San Dionigi",
+      "giorno_festivo": "9 ottobre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Calabria",
+      "capoluogo": "Reggio Calabria",
+      "santo_patrono": "San Giorgio",
+      "giorno_festivo": "23 aprile",
+      "altri_patroni": "Madre della Consolazione"
+    },
+    {
+      "regione": "Calabria",
+      "capoluogo": "Vibo Valentia",
+      "santo_patrono": "San Leoluca",
+      "giorno_festivo": "1 marzo",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Campania",
+      "capoluogo": "Napoli",
+      "santo_patrono": "San Gennaro",
+      "giorno_festivo": "19 settembre",
+      "altri_patroni": "51 compatroni"
+    },
+    {
+      "regione": "Campania",
+      "capoluogo": "Avellino",
+      "santo_patrono": "San Modestino",
+      "giorno_festivo": "14 febbraio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Campania",
+      "capoluogo": "Benevento",
+      "santo_patrono": "San Bartolomeo apostolo",
+      "giorno_festivo": "24 agosto",
+      "altri_patroni": "Madonna delle Grazie e San Leone IX"
+    },
+    {
+      "regione": "Campania",
+      "capoluogo": "Caserta",
+      "santo_patrono": "San Sebastiano",
+      "giorno_festivo": "20 gennaio",
+      "altri_patroni": "Sant'Anna"
+    },
+    {
+      "regione": "Campania",
+      "capoluogo": "Salerno",
+      "santo_patrono": "San Matteo Evangelista",
+      "giorno_festivo": "21 settembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Bologna",
+      "santo_patrono": "San Petronio",
+      "giorno_festivo": "4 ottobre",
+      "altri_patroni": "Santa Caterina da Bologna"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Ferrara",
+      "santo_patrono": "San Giorgio",
+      "giorno_festivo": "23 aprile",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Forlì",
+      "santo_patrono": "Madonna del Fuoco",
+      "giorno_festivo": "4 febbraio",
+      "altri_patroni": "San Mercuriale; San Pellegrino Laziosi; San Valeriano"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Modena",
+      "santo_patrono": "San Geminiano",
+      "giorno_festivo": "31 gennaio",
+      "altri_patroni": "San Omobono"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Parma",
+      "santo_patrono": "Sant'Ilario di Poitiers",
+      "giorno_festivo": "13 gennaio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Piacenza",
+      "santo_patrono": "Sant'Antonino di Piacenza",
+      "giorno_festivo": "4 luglio",
+      "altri_patroni": "Santa Giustina"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Ravenna",
+      "santo_patrono": "Sant'Apollinare",
+      "giorno_festivo": "23 luglio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Reggio Emilia",
+      "santo_patrono": "San Prospero Vescovo",
+      "giorno_festivo": "24 novembre",
+      "altri_patroni": "San Venerio; Santi Grisante e Daria"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "capoluogo": "Rimini",
+      "santo_patrono": "San Gaudenzio",
+      "giorno_festivo": "14 ottobre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "capoluogo": "Trieste",
+      "santo_patrono": "San Giusto",
+      "giorno_festivo": "3 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "capoluogo": "Gorizia",
+      "santo_patrono": "Santi Ilario e Taziano",
+      "giorno_festivo": "16 marzo",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "capoluogo": "Pordenone",
+      "santo_patrono": "San Marco Evangelista",
+      "giorno_festivo": "25 aprile, 8 settembre",
+      "altri_patroni": "Madonna delle Grazie"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "capoluogo": "Udine",
+      "santo_patrono": "Santi Ermacora e Fortunato",
+      "giorno_festivo": "12 luglio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lazio",
+      "capoluogo": "Roma",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "giorno_festivo": "29 giugno",
+      "altri_patroni": "San Filippo Neri"
+    },
+    {
+      "regione": "Lazio",
+      "capoluogo": "Frosinone",
+      "santo_patrono": "San Silverio",
+      "giorno_festivo": "20 giugno",
+      "altri_patroni": "Sant'Ormisda"
+    },
+    {
+      "regione": "Lazio",
+      "capoluogo": "Latina",
+      "santo_patrono": "San Marco Evangelista",
+      "giorno_festivo": "25 aprile, 6 luglio",
+      "altri_patroni": "Santa Maria Goretti"
+    },
+    {
+      "regione": "Lazio",
+      "capoluogo": "Rieti",
+      "santo_patrono": "Santa Barbara",
+      "giorno_festivo": "4 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lazio",
+      "capoluogo": "Viterbo",
+      "santo_patrono": "Santa Rosa da Viterbo",
+      "giorno_festivo": "4 settembre",
+      "altri_patroni": "San Lorenzo Santi Velentino e Ilario Santa Rosa Venerini"
+    },
+    {
+      "regione": "Liguria",
+      "capoluogo": "Genova",
+      "santo_patrono": "San Giovanni Battista",
+      "giorno_festivo": "24 giugno",
+      "altri_patroni": "San Giorgio"
+    },
+    {
+      "regione": "Liguria",
+      "capoluogo": "Imperia",
+      "santo_patrono": "San Leonardo da Porto Maurizio",
+      "giorno_festivo": "26 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Liguria",
+      "capoluogo": "La Spezia",
+      "santo_patrono": "San Giuseppe",
+      "giorno_festivo": "19 marzo",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Liguria",
+      "capoluogo": "Savona",
+      "santo_patrono": "Nostra Signora della Misericordia",
+      "giorno_festivo": "18 marzo",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Milano",
+      "santo_patrono": "Sant'Ambrogio",
+      "giorno_festivo": "7 dicembre",
+      "altri_patroni": "san carlo borromeo e san galdino"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Bergamo",
+      "santo_patrono": "Sant'Alessandro di Bergamo",
+      "giorno_festivo": "26 agosto",
+      "altri_patroni": "Santa Grata"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Brescia",
+      "santo_patrono": "Santi Faustino e Giovita",
+      "giorno_festivo": "15 febbraio",
+      "altri_patroni": "Santa Angela Merici"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Cremona",
+      "santo_patrono": "Sant'Omobono",
+      "giorno_festivo": "13 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Como",
+      "santo_patrono": "Sant'Abbondio",
+      "giorno_festivo": "31 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Lecco",
+      "santo_patrono": "San Nicola",
+      "giorno_festivo": "6 dicembre",
+      "altri_patroni": "Santo Stefano (compatrono)"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Lodi",
+      "santo_patrono": "San Bassiano",
+      "giorno_festivo": "19 gennaio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Mantova",
+      "santo_patrono": "Sant'Anselmo da Baggio",
+      "giorno_festivo": "18 marzo",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Monza",
+      "santo_patrono": "San Giovanni Battista",
+      "giorno_festivo": "24 giugno",
+      "altri_patroni": "San Gerardo dei Tintori"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Pavia",
+      "santo_patrono": "San Siro",
+      "giorno_festivo": "9 dicembre",
+      "altri_patroni": "Sant'Agostino San Teodoro"
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Sondrio",
+      "santo_patrono": "San Gervasio e San Protasio",
+      "giorno_festivo": "19 giugno",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Lombardia",
+      "capoluogo": "Varese",
+      "santo_patrono": "San Vittore il Moro",
+      "giorno_festivo": "8 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Ancona",
+      "santo_patrono": "San Ciriaco",
+      "giorno_festivo": "4 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Ascoli Piceno",
+      "santo_patrono": "Sant'Emidio",
+      "giorno_festivo": "5 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Fermo",
+      "santo_patrono": "Maria Santissima Assunta",
+      "giorno_festivo": "15 e 16 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Macerata",
+      "santo_patrono": "San Giuliano l'ospitaliere",
+      "giorno_festivo": "31 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Pesaro",
+      "santo_patrono": "San Terenzio di Pesaro",
+      "giorno_festivo": "24 settembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Marche",
+      "capoluogo": "Urbino",
+      "santo_patrono": "San Crescentino",
+      "giorno_festivo": "1º giugno",
+      "altri_patroni": "Beato Mainardo vescovo, Beata Vergine Assunta e San Pietro Celestino"
+    },
+    {
+      "regione": "Molise",
+      "capoluogo": "Campobasso",
+      "santo_patrono": "San Giorgio",
+      "giorno_festivo": "23 aprile",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Molise",
+      "capoluogo": "Isernia",
+      "santo_patrono": "San Pietro Celestino",
+      "giorno_festivo": "19 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Torino",
+      "santo_patrono": "San Giovanni Battista",
+      "giorno_festivo": "24 giugno",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Alessandria",
+      "santo_patrono": "San Baudolino",
+      "giorno_festivo": "10 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Asti",
+      "santo_patrono": "San Secondo di Asti",
+      "giorno_festivo": "Primo Martedì del mese di maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Biella",
+      "santo_patrono": "Santo Stefano",
+      "giorno_festivo": "26 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Cuneo",
+      "santo_patrono": "San Michele Arcangelo",
+      "giorno_festivo": "29 settembre",
+      "altri_patroni": "Beato Angelo Carletti"
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Novara",
+      "santo_patrono": "San Gaudenzio",
+      "giorno_festivo": "22 gennaio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Verbania",
+      "santo_patrono": "San Vittore il Moro",
+      "giorno_festivo": "8 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Piemonte",
+      "capoluogo": "Vercelli",
+      "santo_patrono": "Sant'Eusebio di Vercelli",
+      "giorno_festivo": "1 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Bari",
+      "santo_patrono": "San Nicola",
+      "giorno_festivo": "6 dicembre, 7-9 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Andria",
+      "santo_patrono": "San Riccardo di Andria",
+      "giorno_festivo": "Terza domenica di settembre",
+      "altri_patroni": "Madonna dei Miracoli"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Barletta",
+      "santo_patrono": "San Ruggero",
+      "giorno_festivo": "30 dicembre",
+      "altri_patroni": "Madonna dello Sterpeto"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Brindisi",
+      "santo_patrono": "San Teodoro d’Amasea",
+      "giorno_festivo": "Primo fine settimana di settembre",
+      "altri_patroni": "San Lorenzo da Brindisi"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Foggia",
+      "santo_patrono": "Madonna dei Sette Veli",
+      "giorno_festivo": "22 marzo",
+      "altri_patroni": "Santi Guglielmo e Pellegrino"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Lecce",
+      "santo_patrono": "Sant'Oronzo",
+      "giorno_festivo": "26 agosto",
+      "altri_patroni": "San Giusto e San Fortunato"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Taranto",
+      "santo_patrono": "San Cataldo",
+      "giorno_festivo": "10 maggio",
+      "altri_patroni": "Maria SS Immacolata Sant'Egidio da Taranto"
+    },
+    {
+      "regione": "Puglia",
+      "capoluogo": "Trani",
+      "santo_patrono": "San Nicola Pellegrino",
+      "giorno_festivo": "3 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sardegna",
+      "capoluogo": "Cagliari",
+      "santo_patrono": "San Saturnino di Cagliari",
+      "giorno_festivo": "30 ottobre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sardegna",
+      "capoluogo": "Carbonia",
+      "santo_patrono": "San Ponziano",
+      "giorno_festivo": "Giovedi successivo della seconda domenica di maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sardegna",
+      "capoluogo": "Nuoro",
+      "santo_patrono": "Nostra Signora della Neve",
+      "giorno_festivo": "5 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sardegna",
+      "capoluogo": "Oristano",
+      "santo_patrono": "Sant'Archelao",
+      "giorno_festivo": "13 febbraio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sardegna",
+      "capoluogo": "Sassari",
+      "santo_patrono": "San Nicola",
+      "giorno_festivo": "6 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Ragusa",
+      "santo_patrono": "San Giovanni Battista e San Giorgio Martire",
+      "giorno_festivo": "29 Agosto e 23 Aprile",
+      "altri_patroni": "Santa Gaudenzia e Madonna della Medaglia (Compatrone di Ragusa)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Palermo",
+      "santo_patrono": "Santa Rosalia",
+      "giorno_festivo": "15 luglio",
+      "altri_patroni": "Santa Ninfa, Sant'Agata, Sant'Oliva e Santa Cristina (Patrone dei quattro mandamenti, nonché patrone storiche di Palermo, ora compatrone), San Francesco di Paola, San Benedetto il Moro, Sant'Onofrio eremita, Sant'Agatone Papa (Compatroni)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Agrigento",
+      "santo_patrono": "San Gerlando",
+      "giorno_festivo": "25 febbraio",
+      "altri_patroni": "San Calogero"
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Caltanissetta",
+      "santo_patrono": "San Michele arcangelo",
+      "giorno_festivo": "29 settembre",
+      "altri_patroni": "SS. Crocifisso (Protettore e Signore della Città)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Catania",
+      "santo_patrono": "Sant'Agata",
+      "giorno_festivo": "5 febbraio",
+      "altri_patroni": "Sant'Euplio, Santa Apollonia, Immacolata Concezione, SS. Alfio, Filadelfo e Cirino Martiri (Compatroni), Maria SS. del Monte Carmelo (Castellana della città)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Enna",
+      "santo_patrono": "Madonna della Visitazione",
+      "giorno_festivo": "2 luglio",
+      "altri_patroni": "Sant'Elia di Enna, Beato Girolamo De Angelis (Compatrono)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Messina",
+      "santo_patrono": "Madonna della Lettera",
+      "giorno_festivo": "3 giugno",
+      "altri_patroni": "Sant'Eustochia Smeralda Calafato, sant'Alberto degli Abati, san Francesco di Paola e san Placido (Compatroni)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Siracusa",
+      "santo_patrono": "Santa Lucia",
+      "giorno_festivo": "13 dicembre",
+      "altri_patroni": "San Sebastiano (Compatrono e Protettore), San Marciano (Patrono principale dell' Arcidiocesi)."
+    },
+    {
+      "regione": "Sicilia",
+      "capoluogo": "Trapani",
+      "santo_patrono": "Sant'Alberto degli Abati",
+      "giorno_festivo": "7 agosto",
+      "altri_patroni": "Madonna di Trapani (Compatrona della città e Patrona principale della Diocesi)."
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Firenze",
+      "santo_patrono": "San Giovanni Battista",
+      "giorno_festivo": "24 giugno",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Arezzo",
+      "santo_patrono": "San Donato d'Arezzo",
+      "giorno_festivo": "7 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Grosseto",
+      "santo_patrono": "San Lorenzo",
+      "giorno_festivo": "10 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Livorno",
+      "santo_patrono": "Santa Giulia",
+      "giorno_festivo": "22 maggio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Lucca",
+      "santo_patrono": "San Paolino di Lucca",
+      "giorno_festivo": "12 luglio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Massa",
+      "santo_patrono": "San Francesco d'Assisi",
+      "giorno_festivo": "4 ottobre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Pisa",
+      "santo_patrono": "San Ranieri",
+      "giorno_festivo": "17 giugno",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Pistoia",
+      "santo_patrono": "San Jacopo",
+      "giorno_festivo": "25 luglio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Prato",
+      "santo_patrono": "Santo Stefano",
+      "giorno_festivo": "26 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Toscana",
+      "capoluogo": "Siena",
+      "santo_patrono": "Sant'Ansano",
+      "giorno_festivo": "1 dicembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Trentino-Alto Adige",
+      "capoluogo": "Trento",
+      "santo_patrono": "San Vigilio",
+      "giorno_festivo": "26 giugno",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Trentino-Alto Adige",
+      "capoluogo": "Bolzano",
+      "santo_patrono": "Maria Santissima Assunta",
+      "giorno_festivo": "15 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Umbria",
+      "capoluogo": "Perugia",
+      "santo_patrono": "San Francesco d'Assisi San Benedetto da Norcia Santa Chiara d'Assisi Santa Rita da Cascia Sant'Ubaldo da Gubbio San Costanzo di Perugia",
+      "giorno_festivo": "4 ottobre 11 agosto",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Umbria",
+      "capoluogo": "Terni",
+      "santo_patrono": "San Valentino",
+      "giorno_festivo": "14 febbraio",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "capoluogo": "Aosta",
+      "santo_patrono": "San Grato",
+      "giorno_festivo": "7 settembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Venezia",
+      "santo_patrono": "San Marco Evangelista",
+      "giorno_festivo": "25 aprile",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Belluno",
+      "santo_patrono": "San Martino",
+      "giorno_festivo": "11 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Padova",
+      "santo_patrono": "Sant'Antonio di Padova",
+      "giorno_festivo": "13 giugno",
+      "altri_patroni": "Santa Giustina, San Prosdocimo e San Daniele di Padova"
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Rovigo",
+      "santo_patrono": "San Bellino",
+      "giorno_festivo": "26 novembre",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Treviso",
+      "santo_patrono": "San Liberale",
+      "giorno_festivo": "27 aprile",
+      "altri_patroni": ""
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Verona",
+      "santo_patrono": "San Zeno",
+      "giorno_festivo": "21 maggio",
+      "altri_patroni": "San Pietro da Verona"
+    },
+    {
+      "regione": "Veneto",
+      "capoluogo": "Vicenza",
+      "santo_patrono": "Madonna di Monte Berico",
+      "giorno_festivo": "8 settembre",
+      "altri_patroni": "San Vincenzo di Saragozza"
+    }
+  ],
+  "meta": {
+    "title": "Santi patroni dei capoluoghi di provincia e giorno festivo - Free Download",
+    "description": "Calendario delle feste patronali: santo patrono e giorno festivo locale di ogni capoluogo di provincia italiano. Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Santi patroni dei capoluoghi di provincia e giorno festivo | ListBase",
+    "seo_description": "Download Santi patroni dei capoluoghi di provincia e giorno festivo — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Santi_patroni_cattolici_delle_città_capoluogo_di_provincia_italiane"
+    ]
+  }
+}

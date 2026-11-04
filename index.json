@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-04T02:08:47.935Z",
-  "total_datasets": 510,
-  "total_records": 140415,
+  "generated": "2026-11-04T02:08:54.574Z",
+  "total_datasets": 511,
+  "total_records": 140525,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tourism",
@@ -16305,6 +16305,32 @@
         "xlsx": {
           "name": "it-giornate-nazionali-celebrative_IT.xlsx",
           "size": 8597
+        }
+      }
+    },
+    {
+      "id": "it-santi-patroni-capoluoghi",
+      "name": "Santi patroni dei capoluoghi di provincia e giorno festivo",
+      "category": "time",
+      "record_count": 110,
+      "columns": [
+        "regione",
+        "capoluogo",
+        "santo_patrono",
+        "giorno_festivo",
+        "altri_patroni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_delle_città_capoluogo_di_provincia_italiane",
+      "updated": "2026-11",
+      "size": 23807,
+      "files": {
+        "csv": {
+          "name": "it-santi-patroni-capoluoghi_IT.csv",
+          "size": 8418
+        },
+        "xlsx": {
+          "name": "it-santi-patroni-capoluoghi_IT.xlsx",
+          "size": 12094
         }
       }
     },
