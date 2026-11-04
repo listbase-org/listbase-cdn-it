@@ -1,0 +1,264 @@
+{
+  "id": "it-giornate-nazionali-celebrative",
+  "name": "Giornate nazionali e ricorrenze civili in Italia",
+  "title": "Giornate nazionali e ricorrenze civili in Italia",
+  "description": "Calendario delle giornate nazionali, solennità civili e ricorrenze celebrative riconosciute in Italia, con data.",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Festività_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Festività_in_Italia",
+  "updated": "2026-11",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "celebrazione",
+      "label": "Celebrazione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "data": "7 gennaio",
+      "celebrazione": "Giornata nazionale della bandiera"
+    },
+    {
+      "data": "27 gennaio",
+      "celebrazione": "Giornata della Memoria (abbattimento dei cancelli di Auschwitz)"
+    },
+    {
+      "data": "9 febbraio",
+      "celebrazione": "Giornata nazionale degli stati vegetativi"
+    },
+    {
+      "data": "10 febbraio",
+      "celebrazione": "Giorno del ricordo"
+    },
+    {
+      "data": "11 febbraio",
+      "celebrazione": "Patti lateranensi"
+    },
+    {
+      "data": "14 febbraio",
+      "celebrazione": "Festa di San Valentino"
+    },
+    {
+      "data": "21 febbraio",
+      "celebrazione": "Giornata nazionale del braille"
+    },
+    {
+      "data": "8 marzo",
+      "celebrazione": "Giornata internazionale della donna"
+    },
+    {
+      "data": "11 marzo",
+      "celebrazione": "Giornata europea in ricordo delle vittime del terrorismo"
+    },
+    {
+      "data": "Prima domenica di primavera",
+      "celebrazione": "Giornata della prevenzione oncologica"
+    },
+    {
+      "data": "17 marzo",
+      "celebrazione": "Giornata dell'Unità nazionale, della Costituzione, dell'inno e della bandiera"
+    },
+    {
+      "data": "18 marzo",
+      "celebrazione": "Giornata nazionale in memoria delle vittime dell'epidemia di coronavirus"
+    },
+    {
+      "data": "19 marzo",
+      "celebrazione": "Festa del papà"
+    },
+    {
+      "data": "21 marzo",
+      "celebrazione": "Giornata nazionale della memoria e dell'impegno in ricordo delle vittime delle mafie"
+    },
+    {
+      "data": "22 marzo",
+      "celebrazione": "Giornata della memoria dei caduti dei Servizi di informazione per la sicurezza"
+    },
+    {
+      "data": "24 marzo",
+      "celebrazione": "Giornata nazionale per la promozione della lettura"
+    },
+    {
+      "data": "25 marzo",
+      "celebrazione": "Dantedì"
+    },
+    {
+      "data": "27 marzo",
+      "celebrazione": "Giornata nazionale del Teatro"
+    },
+    {
+      "data": "28 marzo",
+      "celebrazione": "Giornata dell' Aeronautica Militare"
+    },
+    {
+      "data": "4 aprile",
+      "celebrazione": "Giornata nazionale della persona con lesioni al midollo spinale"
+    },
+    {
+      "data": "22 aprile",
+      "celebrazione": "Giornata della Terra"
+    },
+    {
+      "data": "Variabile",
+      "celebrazione": "Giornata per la donazione degli organi"
+    },
+    {
+      "data": "Prima domenica di maggio",
+      "celebrazione": "Giornata nazionale dell' epilessia"
+    },
+    {
+      "data": "3 maggio",
+      "celebrazione": "Giornata mondiale della libertà di stampa"
+    },
+    {
+      "data": "5 maggio",
+      "celebrazione": "Giornata nazionale contro la pedofilia e la pedopornografia"
+    },
+    {
+      "data": "9 maggio",
+      "celebrazione": "Giornata dell'Europa"
+    },
+    {
+      "data": "9 maggio",
+      "celebrazione": "Giorno della memoria dedicato alle vittime del terrorismo"
+    },
+    {
+      "data": "Seconda domenica di maggio",
+      "celebrazione": "Festa della mamma"
+    },
+    {
+      "data": "Terza domenica di maggio",
+      "celebrazione": "Giornata nazionale della musica popolare"
+    },
+    {
+      "data": "Terza domenica di maggio",
+      "celebrazione": "Giornata nazionale del malato oncologico"
+    },
+    {
+      "data": "Ultima domenica di maggio",
+      "celebrazione": "Giornata nazionale del sollievo"
+    },
+    {
+      "data": "Variabile",
+      "celebrazione": "Giornata nazionale per la donazione del sangue"
+    },
+    {
+      "data": "Prima domenica di giugno",
+      "celebrazione": "Giornata nazionale dello Sport"
+    },
+    {
+      "data": "5 giugno",
+      "celebrazione": "Giornata nazionale dell'Arma dei Carabinieri"
+    },
+    {
+      "data": "Secondo martedì di giugno",
+      "celebrazione": "Giornata nazionale dell' innovazione"
+    },
+    {
+      "data": "10 giugno",
+      "celebrazione": "Giornata della Marina Militare"
+    },
+    {
+      "data": "14 giugno",
+      "celebrazione": "Giornata mondiale del donatore di sangue"
+    },
+    {
+      "data": "18 giugno",
+      "celebrazione": "Giornata dell'orgoglio autistico"
+    },
+    {
+      "data": "8 agosto",
+      "celebrazione": "Giornata nazionale del Sacrificio del lavoro italiano nel mondo"
+    },
+    {
+      "data": "8 settembre",
+      "celebrazione": "Inizio della Resistenza italiana"
+    },
+    {
+      "data": "28 settembre",
+      "celebrazione": "Quattro giornate di Napoli"
+    },
+    {
+      "data": "4 ottobre",
+      "celebrazione": "San Francesco d'Assisi e Santa Caterina da Siena, patroni d'Italia"
+    },
+    {
+      "data": "4 ottobre",
+      "celebrazione": "Giornata della pace, della fraternità e del dialogo interculturale"
+    },
+    {
+      "data": "4 ottobre",
+      "celebrazione": "Giornata mondiale degli animali"
+    },
+    {
+      "data": "Prima domenica di ottobre",
+      "celebrazione": "Giornata nazionale per l' abbattimento delle barriere architettoniche"
+    },
+    {
+      "data": "Seconda domenica di ottobre",
+      "celebrazione": "Giornata per le vittime degli incidenti sul lavoro"
+    },
+    {
+      "data": "12 ottobre",
+      "celebrazione": "Giornata nazionale di Cristoforo Colombo"
+    },
+    {
+      "data": "24 ottobre",
+      "celebrazione": "Giornata delle Nazioni Unite"
+    },
+    {
+      "data": "4 novembre",
+      "celebrazione": "Giornata dell'Unità nazionale e delle Forze armate"
+    },
+    {
+      "data": "9 novembre",
+      "celebrazione": "Giornata della libertà in ricordo della caduta del muro di Berlino"
+    },
+    {
+      "data": "12 novembre",
+      "celebrazione": "Giornata della memoria dei marinai scomparsi in mare"
+    },
+    {
+      "data": "12 novembre",
+      "celebrazione": "Giornata del ricordo dei Caduti militari e civili nelle missioni internazionali per la pace"
+    },
+    {
+      "data": "21 novembre",
+      "celebrazione": "Giornata nazionale degli alberi"
+    },
+    {
+      "data": "25 novembre",
+      "celebrazione": "Giornata internazionale per l'eliminazione della violenza contro le donne"
+    },
+    {
+      "data": "1º dicembre",
+      "celebrazione": "Giornata mondiale contro l'AIDS"
+    },
+    {
+      "data": "16 dicembre",
+      "celebrazione": "Giornata nazionale dello spazio"
+    },
+    {
+      "data": "Variabile",
+      "celebrazione": "Giornata nazionale della scuola"
+    }
+  ],
+  "meta": {
+    "title": "Giornate nazionali e ricorrenze civili in Italia - Free Download",
+    "description": "Calendario delle giornate nazionali, solennità civili e ricorrenze celebrative riconosciute in Italia, con data. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Giornate nazionali e ricorrenze civili in Italia | ListBase",
+    "seo_description": "Download Giornate nazionali e ricorrenze civili in Italia — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Festività_in_Italia"
+    ]
+  }
+}

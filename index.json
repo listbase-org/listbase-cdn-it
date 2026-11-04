@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-04T02:08:40.354Z",
-  "total_datasets": 509,
-  "total_records": 140358,
+  "generated": "2026-11-04T02:08:47.935Z",
+  "total_datasets": 510,
+  "total_records": 140415,
   "categories": [
     {
       "id": "agriculture",
@@ -83,6 +83,10 @@
     {
       "id": "tech",
       "dataset_count": 5
+    },
+    {
+      "id": "time",
+      "dataset_count": 1
     },
     {
       "id": "tourism",
@@ -16278,6 +16282,29 @@
         "xlsx": {
           "name": "it-prefissi-telefonici_IT.xlsx",
           "size": 20314
+        }
+      }
+    },
+    {
+      "id": "it-giornate-nazionali-celebrative",
+      "name": "Giornate nazionali e ricorrenze civili in Italia",
+      "category": "time",
+      "record_count": 57,
+      "columns": [
+        "data",
+        "celebrazione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Festività_in_Italia",
+      "updated": "2026-11",
+      "size": 7776,
+      "files": {
+        "csv": {
+          "name": "it-giornate-nazionali-celebrative_IT.csv",
+          "size": 3504
+        },
+        "xlsx": {
+          "name": "it-giornate-nazionali-celebrative_IT.xlsx",
+          "size": 8597
         }
       }
     },
