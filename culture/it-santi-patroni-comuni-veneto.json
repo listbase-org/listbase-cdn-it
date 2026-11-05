@@ -1,0 +1,1496 @@
+{
+  "id": "it-santi-patroni-comuni-veneto",
+  "name": "Santi patroni dei comuni del Veneto",
+  "title": "Santi patroni dei comuni del Veneto",
+  "description": "Santi patroni cattolici di ciascun comune del Veneto, suddivisi per provincia (Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza).",
+  "category": "culture",
+  "source": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_dei_comuni_del_Veneto",
+  "source_url": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_dei_comuni_del_Veneto",
+  "updated": "2026-11",
+  "record_count": 291,
+  "columns": [
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "santo_patrono",
+      "label": "Santo Patrono",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "comune": "Belluno",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Agordo",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Alleghe",
+      "santo_patrono": "San Biagio",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Arsiè",
+      "santo_patrono": "Santa Maria Assunta",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Auronzo di Cadore",
+      "santo_patrono": "Santa Giustina di Padova",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Borca di Cadore",
+      "santo_patrono": "San Simone Apostolo",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Calalzo di Cadore",
+      "santo_patrono": "San Biagio",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Canale d'Agordo",
+      "santo_patrono": "San Giovanni Battista",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Castellavazzo",
+      "santo_patrono": "Santi Quirico e Giulitta",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Cencenighe Agordino",
+      "santo_patrono": "Sant'Antonio abate",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Cesiomaggiore",
+      "santo_patrono": "Santa Giuliana di Nicomedia",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Chies d'Alpago",
+      "santo_patrono": "San Lorenzo martire",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Cibiana di Cadore",
+      "santo_patrono": "San Lorenzo martire",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Colle Santa Lucia",
+      "santo_patrono": "Santa Lucia",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Comelico Superiore",
+      "santo_patrono": "Santa Maria Assunta",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Cortina d'Ampezzo",
+      "santo_patrono": "San Filippo apostolo e San Giacomo il Minore",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Danta di Cadore",
+      "santo_patrono": "San Rocco",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Domegge di Cadore",
+      "santo_patrono": "San Giorgio",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Falcade",
+      "santo_patrono": "San Sebastiano",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Farra d'Alpago",
+      "santo_patrono": "San Filippo apostolo e San Giacomo il Minore",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Feltre",
+      "santo_patrono": "Santi Vittore e Corona",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Fonzaso",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Gosaldo",
+      "santo_patrono": "Maria SS. Addolorata",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "La Valle Agordina",
+      "santo_patrono": "Nostra Signora della Neve e San Michele Arcangelo",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Lamon",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Lentiai",
+      "santo_patrono": "Madonna del Carmine",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Limana",
+      "santo_patrono": "san Valentino",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Livinallongo del Col di Lana",
+      "santo_patrono": "San Giacomo Maggiore",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Longarone",
+      "santo_patrono": "Santa Maria Immacolata",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Lorenzago di Cadore",
+      "santo_patrono": "Santi Ermacora e Fortunato",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Lozzo di Cadore",
+      "santo_patrono": "San Lorenzo martire",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Mel",
+      "santo_patrono": "Maria SS. Annunziata",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Ospitale di Cadore",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Belluno"
+    },
+    {
+      "comune": "Padova",
+      "santo_patrono": "sant'Antonio di Padova, santa Giustina, san Prosdocimo e san Daniele di Padova",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Abano Terme",
+      "santo_patrono": "San Lorenzo Martire",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Agna",
+      "santo_patrono": "San Lorenzo Martire",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Albignasego",
+      "santo_patrono": "San Tommaso Apostolo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Anguillara Veneta",
+      "santo_patrono": "Sant'Andrea Apostolo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Arquà Petrarca",
+      "santo_patrono": "Santissima Trinità",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Arre",
+      "santo_patrono": "Maria SS. Assunta",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Arzergrande",
+      "santo_patrono": "Santa Maria Annunziata",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Bagnoli di Sopra",
+      "santo_patrono": "San Michele Arcangelo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Baone",
+      "santo_patrono": "San Lorenzo Martire",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Barbona",
+      "santo_patrono": "San Michele Arcangelo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Battaglia Terme",
+      "santo_patrono": "San Giacomo apostolo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Boara Pisani",
+      "santo_patrono": "Nostra Signora della Neve",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Borgoricco",
+      "santo_patrono": "San Leonardo di Noblac",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Borgo Veneto",
+      "santo_patrono": "Visitazione della Beata Vergine Maria",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Bovolenta",
+      "santo_patrono": "San Gabriele arcangelo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Brugine",
+      "santo_patrono": "Santissimo Salvatore",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Cadoneghe",
+      "santo_patrono": "Sant'Andrea Apostolo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Campo San Martino",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Campodarsego",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Campodoro",
+      "santo_patrono": "Santa Margherita di Antiochia",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Camposampiero",
+      "santo_patrono": "Sant'Antonio di Padova",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Candiana",
+      "santo_patrono": "San Michele Arcangelo e San Leonardo di Noblac",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Carmignano di Brenta",
+      "santo_patrono": "Maria SS. Assunta",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Cartura",
+      "santo_patrono": "Maria SS. Assunta",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Casale di Scodosia",
+      "santo_patrono": "San Giorgio",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Casalserugo",
+      "santo_patrono": "Maria SS. Purificata",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Castelbaldo",
+      "santo_patrono": "San Prosdocimo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Cervarese Santa Croce",
+      "santo_patrono": "sant'Antonio di Padova",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Cinto Euganeo",
+      "santo_patrono": "Madonna Immacolata",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Cittadella",
+      "santo_patrono": "San Prosdocimo di Padova",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Codevigo",
+      "santo_patrono": "San Zaccaria profeta",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Conselve",
+      "santo_patrono": "San Lorenzo martire",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Correzzola",
+      "santo_patrono": "San Leonardo di Noblac",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Curtarolo",
+      "santo_patrono": "Madonna di Tessara",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Due Carrare",
+      "santo_patrono": "Visitazione della Beata Vergine Maria",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Este",
+      "santo_patrono": "Santa Tecla di Iconio",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Fontaniva",
+      "santo_patrono": "Beato Bertrando",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Galliera Veneta",
+      "santo_patrono": "Santa Maria Maddalena",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Galzignano Terme",
+      "santo_patrono": "Madonna del Rosario",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Gazzo",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Grantorto",
+      "santo_patrono": "San Biagio",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Granze",
+      "santo_patrono": "Santa Cristina",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Legnaro",
+      "santo_patrono": "San Biagio",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Limena",
+      "santo_patrono": "Santi Felice e Fortunato",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Loreggia",
+      "santo_patrono": "San Rocco",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Lozzo Atestino",
+      "santo_patrono": "San Giuseppe",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Maserà di Padova",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Masi",
+      "santo_patrono": "San Bartolomeo apostolo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Massanzago",
+      "santo_patrono": "Sant'Alessandro di Bergamo",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Megliadino San Vitale",
+      "santo_patrono": "San Vitale",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Merlara",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Padova"
+    },
+    {
+      "comune": "Rovigo",
+      "santo_patrono": "San Bellino",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Adria",
+      "santo_patrono": "San Bellino",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Ariano nel Polesine",
+      "santo_patrono": "San Gaetano da Thiene",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Arquà Polesine",
+      "santo_patrono": "Sant'Andrea apostolo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Badia Polesine",
+      "santo_patrono": "San Teobaldo di Provins",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Bagnolo di Po",
+      "santo_patrono": "San Gottardo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Bergantino",
+      "santo_patrono": "San Giorgio",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Bosaro",
+      "santo_patrono": "San Sebastiano",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Calto",
+      "santo_patrono": "San Rocco",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Canaro",
+      "santo_patrono": "Santa Sofia",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Canda",
+      "santo_patrono": "San Michele Arcangelo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Castelguglielmo",
+      "santo_patrono": "San Nicola di Bari",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Castelmassa",
+      "santo_patrono": "Santo Stefano Martire",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Castelnovo Bariano",
+      "santo_patrono": "Sant'Antonio di Padova",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Ceneselli",
+      "santo_patrono": "Maria SS. Annunziata",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Ceregnano",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Corbola",
+      "santo_patrono": "Santa Maria Maddalena",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Costa di Rovigo",
+      "santo_patrono": "San Giovanni Battista",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Crespino",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Ficarolo",
+      "santo_patrono": "Sant'Antonino di Apamea",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Fiesso Umbertiano",
+      "santo_patrono": "Natività della Beata Vergine Maria e San Carlo Borromeo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Frassinelle Polesine",
+      "santo_patrono": "San Bartolomeo apostolo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Fratta Polesine",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Gaiba",
+      "santo_patrono": "San Giuseppe",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Gavello",
+      "santo_patrono": "Madonna delle Grazie",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Giacciano con Baruchella",
+      "santo_patrono": "San Pietro da Verona",
+      "provincia": "Rovigo"
+    },
+    {
+      "comune": "Treviso",
+      "santo_patrono": "San Liberale",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Altivole",
+      "santo_patrono": "San Michele Arcangelo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Arcade",
+      "santo_patrono": "San Lorenzo martire",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Asolo",
+      "santo_patrono": "San Prosdocimo di Padova",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Borso del Grappa",
+      "santo_patrono": "Madonna del Carmine",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Breda di Piave",
+      "santo_patrono": "Conversione di San Paolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Caerano di San Marco",
+      "santo_patrono": "Madonna del Rosario",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cappella Maggiore",
+      "santo_patrono": "Santa Maria Maddalena",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Carbonera",
+      "santo_patrono": "Santa Maria Assunta",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Casale sul Sile",
+      "santo_patrono": "San Vincenzo Ferreri",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Casier",
+      "santo_patrono": "San Teonisto e compagni martiri",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Castelcucco",
+      "santo_patrono": "San Giorgio",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Castelfranco Veneto",
+      "santo_patrono": "San Liberale",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Castello di Godego",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cavaso del Tomba",
+      "santo_patrono": "Madonna della Salute",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cessalto",
+      "santo_patrono": "San Biagio",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Chiarano",
+      "santo_patrono": "San Bartolomeo apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cimadolmo",
+      "santo_patrono": "San Silvestro Papa",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cison di Valmarino",
+      "santo_patrono": "San Giovanni Battista",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Codogné",
+      "santo_patrono": "Sant'Andrea apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Colle Umberto",
+      "santo_patrono": "San Tommaso apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Conegliano",
+      "santo_patrono": "San Leonardo di Noblac",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cordignano",
+      "santo_patrono": "San Pietro apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Cornuda",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Crespano del Grappa",
+      "santo_patrono": "San Marco evangelista",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Crocetta del Montello",
+      "santo_patrono": "Sant'Andrea apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Farra di Soligo",
+      "santo_patrono": "Santo Stefano",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Follina",
+      "santo_patrono": "Pentecoste",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Fontanelle",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Fonte",
+      "santo_patrono": "San Pietro apostolo e Nostra Signora del Monte Carmelo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Fregona",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Gaiarine",
+      "santo_patrono": "San Tommaso di Canterbury",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Giavera del Montello",
+      "santo_patrono": "San Giacomo il Maggiore",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Godega di Sant'Urbano",
+      "santo_patrono": "Santa Margherita d'Antiochia",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Gorgo al Monticano",
+      "santo_patrono": "Sant'Ippolito di Roma e San Cassiano di Imola",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Istrana",
+      "santo_patrono": "San Giovanni Battista",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Loria",
+      "santo_patrono": "San Bartolomeo apostolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Mansuè",
+      "santo_patrono": "San Mansueto di Toul",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Mareno di Piave",
+      "santo_patrono": "Santi Pietro e Paolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Maser",
+      "santo_patrono": "Conversione di San Paolo",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Maserada sul Piave",
+      "santo_patrono": "San Giorgio",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Meduna di Livenza",
+      "santo_patrono": "San Giovanni Battista",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Miane",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Mogliano Veneto",
+      "santo_patrono": "Maria SS. Assunta",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Monastier di Treviso",
+      "santo_patrono": "San Valentino",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Monfumo",
+      "santo_patrono": "San Nicolò",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Montebelluna",
+      "santo_patrono": "Beata Vergine Immacolata",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Morgano",
+      "santo_patrono": "San Martino di Tours",
+      "provincia": "Treviso"
+    },
+    {
+      "comune": "Venezia",
+      "santo_patrono": "san Marco Evangelista (e altri 24 copatroni)",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Annone Veneto",
+      "santo_patrono": "san Vitale",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Campagna Lupia",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Campolongo Maggiore",
+      "santo_patrono": "santi Felice e Fortunato",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Camponogara",
+      "santo_patrono": "Santa Apollonia",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Caorle",
+      "santo_patrono": "santo Stefano protomartire",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Cavallino-Treporti",
+      "santo_patrono": "san Francesco d'Assisi",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Cavarzere",
+      "santo_patrono": "san Mauro di Parenzo",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Ceggia",
+      "santo_patrono": "san Vitale",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Chioggia",
+      "santo_patrono": "santi Felice e Fortunato",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Cinto Caomaggiore",
+      "santo_patrono": "san Biagio",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Cona",
+      "santo_patrono": "sant'Egidio abate e san Matteo evangelista",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Concordia Sagittaria",
+      "santo_patrono": "santo Stefano protomartire",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Dolo",
+      "santo_patrono": "san Rocco",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Eraclea",
+      "santo_patrono": "Maria SS. Assunta",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Fiesso d'Artico",
+      "santo_patrono": "san Carlo Borromeo",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Fossalta di Piave",
+      "santo_patrono": "santi Ermacora e Fortunato",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Fossalta di Portogruaro",
+      "santo_patrono": "san Zenone",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Fossò",
+      "santo_patrono": "san Bartolomeo apostolo",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Gruaro",
+      "santo_patrono": "san Giusto martire",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Jesolo",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Marcon",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Martellago",
+      "santo_patrono": "Madonna del Rosario",
+      "provincia": "Venezia"
+    },
+    {
+      "comune": "Verona",
+      "santo_patrono": "san Zeno vescovo e san Pietro da Verona",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Affi",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Albaredo d'Adige",
+      "santo_patrono": "san Rocco",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Angiari",
+      "santo_patrono": "san Michele Arcangelo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Arcole",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Badia Calavena",
+      "santo_patrono": "san Vito e san Modesto",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bardolino",
+      "santo_patrono": "san Nicolò",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Belfiore",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bevilacqua",
+      "santo_patrono": "sant'Antonio abate",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bonavigo",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Boschi Sant'Anna",
+      "santo_patrono": "sant'Anna",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bosco Chiesanuova",
+      "santo_patrono": "San Vitale",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bovolone",
+      "santo_patrono": "san Biagio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Brentino Belluno",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Brenzone",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Bussolengo",
+      "santo_patrono": "san Valentino",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Buttapietra",
+      "santo_patrono": "Esaltazione della Santa Croce",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Caldiero",
+      "santo_patrono": "san Mattia e san Pietro apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Caprino Veronese",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Casaleone",
+      "santo_patrono": "san Biagio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Castagnaro",
+      "santo_patrono": "san Nicola di Bari",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Castel d'Azzano",
+      "santo_patrono": "san Zeno vescovo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Castelnuovo del Garda",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Cavaion Veronese",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Cazzano di Tramigna",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Cerea",
+      "santo_patrono": "san Zeno vescovo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Cerro Veronese",
+      "santo_patrono": "sant'Osvaldo di Northumbria",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Cologna Veneta",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Colognola ai Colli",
+      "santo_patrono": "san Biagio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Concamarise",
+      "santo_patrono": "san Lorenzo martire",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Costermano",
+      "santo_patrono": "sant'Antonio abate",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Dolcè",
+      "santo_patrono": "santa Lucia",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Erbezzo",
+      "santo_patrono": "san Giacomo Minore e san Filippo apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Erbé",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Ferrara di Monte Baldo",
+      "santo_patrono": "santa Caterina d'Alessandria",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Fumane",
+      "santo_patrono": "san Zenone",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Garda",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Gazzo Veronese",
+      "santo_patrono": "san Tarcisio",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Grezzana",
+      "santo_patrono": "Madonna della Cintura",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Illasi",
+      "santo_patrono": "san Bartolomeo apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Isola Rizza",
+      "santo_patrono": "santi Pietro e Paolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Isola della Scala",
+      "santo_patrono": "san Giacomo apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Lavagno",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Lazise",
+      "santo_patrono": "san Martino di Tours",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Legnago",
+      "santo_patrono": "san Martino di Tours",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Malcesine",
+      "santo_patrono": "santi Benigno e Caro",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Marano di Valpolicella",
+      "santo_patrono": "santi Pietro e Paolo",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Mezzane di Sotto",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Minerbe",
+      "santo_patrono": "san Lorenzo martire",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Montecchia di Crosara",
+      "santo_patrono": "Madonna di Monte Berico",
+      "provincia": "Verona"
+    },
+    {
+      "comune": "Vicenza",
+      "santo_patrono": "Madonna di Monte Berico e san Vincenzo di Saragozza",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Agugliaro",
+      "santo_patrono": "san Bartolomeo apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Albettone",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Alonte",
+      "santo_patrono": "san Biagio",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Altavilla Vicentina",
+      "santo_patrono": "Ss. Redentore e sant'Urbano",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Altissimo",
+      "santo_patrono": "san Nicola di Bari",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Arcugnano",
+      "santo_patrono": "santa Giustina di Padova",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Arsiero",
+      "santo_patrono": "san Michele Arcangelo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Arzignano",
+      "santo_patrono": "Maria Ss. Addolorata",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Asiago",
+      "santo_patrono": "san Matteo evangelista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Asigliano Veneto",
+      "santo_patrono": "san Martino di Tours",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Barbarano Mossano",
+      "santo_patrono": "Maria Ss. Assunta (Barbarano Vicentino), san Pietro apostolo (Mossano)",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Bassano del Grappa",
+      "santo_patrono": "san Bassiano",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Bolzano Vicentino",
+      "santo_patrono": "santa Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Breganze",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Brendola",
+      "santo_patrono": "san Rocco",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Bressanvido",
+      "santo_patrono": "Presentazione della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Brogliano",
+      "santo_patrono": "san Martino di Tours",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Caldogno",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Caltrano",
+      "santo_patrono": "Maria Ss. Assunta e san Biagio",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Calvene",
+      "santo_patrono": "Annunciazione della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Camisano Vicentino",
+      "santo_patrono": "san Nicola di Bari",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Campiglia dei Berici",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Carrè",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Cartigliano",
+      "santo_patrono": "san Simone apostolo e san Giuda Taddeo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Cassola",
+      "santo_patrono": "san Marco evangelista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Castegnero",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Castelgomberto",
+      "santo_patrono": "santi Pietro e Paolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Chiampo",
+      "santo_patrono": "san Martino di Tours e Maria Ss. Assunta",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Chiuppano",
+      "santo_patrono": "san Michele Arcangelo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Cogollo del Cengio",
+      "santo_patrono": "san Cristoforo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Conco",
+      "santo_patrono": "Nostra Signora della Neve",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Cornedo Vicentino",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Costabissara",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Creazzo",
+      "santo_patrono": "san Nicola di Bari",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Crespadoro",
+      "santo_patrono": "sant'Andrea apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Dueville",
+      "santo_patrono": "sant'Anna",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Enego",
+      "santo_patrono": "santa Giustina di Padova e san Giuseppe",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Fara Vicentino",
+      "santo_patrono": "san Giorgio",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Foza",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Gallio",
+      "santo_patrono": "san Bartolomeo apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Gambellara",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Gambugliano",
+      "santo_patrono": "santi Vito, Modesto e Crescenzia",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Grancona",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Grisignano di Zocco",
+      "santo_patrono": "Annunciazione della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Grumolo delle Abbadesse",
+      "santo_patrono": "Maria Ss. Assunta",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Isola Vicentina",
+      "santo_patrono": "san Pietro apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Laghi",
+      "santo_patrono": "san Barnaba",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Lastebasse",
+      "santo_patrono": "san Marco evangelista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Longare",
+      "santo_patrono": "san Michele Arcangelo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Lonigo",
+      "santo_patrono": "Santissimo Redentore",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Lugo di Vicenza",
+      "santo_patrono": "san Giovanni Battista",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Lusiana",
+      "santo_patrono": "san Giacomo Maggiore",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Malo",
+      "santo_patrono": "Natività della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Marano Vicentino",
+      "santo_patrono": "Annunciazione della Beata Vergine Maria",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Marostica",
+      "santo_patrono": "san Simeone",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Mason Vicentino",
+      "santo_patrono": "sant'Andrea apostolo",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Molvena",
+      "santo_patrono": "san Zenone",
+      "provincia": "Vicenza"
+    },
+    {
+      "comune": "Monte di Malo",
+      "santo_patrono": "Madonna del Carmine",
+      "provincia": "Vicenza"
+    }
+  ],
+  "meta": {
+    "title": "Santi patroni dei comuni del Veneto - Free Download",
+    "description": "Santi patroni cattolici di ciascun comune del Veneto, suddivisi per provincia (Belluno, Padova, Rovigo, Treviso, Venezia, Verona, Vicenza). Contains 291 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Santi patroni dei comuni del Veneto | ListBase",
+    "seo_description": "Download Santi patroni dei comuni del Veneto — 291 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 291 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Santi_patroni_cattolici_dei_comuni_del_Veneto"
+    ]
+  }
+}

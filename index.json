@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-05T02:52:03.093Z",
-  "total_datasets": 516,
-  "total_records": 140860,
+  "generated": "2026-11-05T02:52:10.121Z",
+  "total_datasets": 517,
+  "total_records": 141151,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -360,6 +360,30 @@
         "xlsx": {
           "name": "it-premio-strega-vincitori_IT.xlsx",
           "size": 10816
+        }
+      }
+    },
+    {
+      "id": "it-santi-patroni-comuni-veneto",
+      "name": "Santi patroni dei comuni del Veneto",
+      "category": "culture",
+      "record_count": 291,
+      "columns": [
+        "comune",
+        "santo_patrono",
+        "provincia"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Santi_patroni_cattolici_dei_comuni_del_Veneto",
+      "updated": "2026-11",
+      "size": 36830,
+      "files": {
+        "csv": {
+          "name": "it-santi-patroni-comuni-veneto_IT.csv",
+          "size": 14018
+        },
+        "xlsx": {
+          "name": "it-santi-patroni-comuni-veneto_IT.xlsx",
+          "size": 14572
         }
       }
     },
