@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-05T02:51:54.916Z",
-  "total_datasets": 515,
-  "total_records": 140784,
+  "generated": "2026-11-05T02:52:03.093Z",
+  "total_datasets": 516,
+  "total_records": 140860,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -16335,6 +16335,34 @@
         "xlsx": {
           "name": "it-giornate-nazionali-celebrative_IT.xlsx",
           "size": 8597
+        }
+      }
+    },
+    {
+      "id": "it-ora-legale-date-storiche",
+      "name": "Date dell'ora legale in Italia dal 1916",
+      "category": "time",
+      "record_count": 76,
+      "columns": [
+        "anno",
+        "inizio_giorno",
+        "inizio_ora",
+        "fine_giorno",
+        "fine_ora",
+        "giorni",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ora_legale_in_Italia",
+      "updated": "2026-11",
+      "size": 17335,
+      "files": {
+        "csv": {
+          "name": "it-ora-legale-date-storiche_IT.csv",
+          "size": 4699
+        },
+        "xlsx": {
+          "name": "it-ora-legale-date-storiche_IT.xlsx",
+          "size": 9641
         }
       }
     },

@@ -1,0 +1,745 @@
+{
+  "id": "it-ora-legale-date-storiche",
+  "name": "Date dell'ora legale in Italia dal 1916",
+  "title": "Date dell'ora legale in Italia dal 1916",
+  "description": "Anni di applicazione dell'ora legale in Italia con giorno e ora di inizio e fine e durata in giorni, dal 1916 a oggi.",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Ora_legale_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Ora_legale_in_Italia",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "inizio_giorno",
+      "label": "Inizio Giorno",
+      "type": "string"
+    },
+    {
+      "key": "inizio_ora",
+      "label": "Inizio Ora",
+      "type": "string"
+    },
+    {
+      "key": "fine_giorno",
+      "label": "Fine Giorno",
+      "type": "string"
+    },
+    {
+      "key": "fine_ora",
+      "label": "Fine Ora",
+      "type": "string"
+    },
+    {
+      "key": "giorni",
+      "label": "Giorni",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": "1916",
+      "inizio_giorno": "3 giugno",
+      "inizio_ora": "24:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "24:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1917",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "24:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "24:00",
+      "giorni": 183,
+      "note": ""
+    },
+    {
+      "anno": "1918",
+      "inizio_giorno": "9 marzo",
+      "inizio_ora": "24:00",
+      "fine_giorno": "6 ottobre",
+      "fine_ora": "24:00",
+      "giorni": 211,
+      "note": ""
+    },
+    {
+      "anno": "1919",
+      "inizio_giorno": "1º marzo",
+      "inizio_ora": "24:00",
+      "fine_giorno": "4 ottobre",
+      "fine_ora": "24:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "1920",
+      "inizio_giorno": "20 marzo",
+      "inizio_ora": "24:00",
+      "fine_giorno": "18 settembre",
+      "fine_ora": "24:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1940",
+      "inizio_giorno": "14 giugno",
+      "inizio_ora": "00:00",
+      "fine_giorno": "...",
+      "fine_ora": "...",
+      "giorni": "",
+      "note": ""
+    },
+    {
+      "anno": "1941",
+      "inizio_giorno": "...",
+      "inizio_ora": "...",
+      "fine_giorno": "...",
+      "fine_ora": "...",
+      "giorni": "",
+      "note": "In vigore per tutto l'anno"
+    },
+    {
+      "anno": "1942",
+      "inizio_giorno": "...",
+      "inizio_ora": "...",
+      "fine_giorno": "2 novembre",
+      "fine_ora": "03:00",
+      "giorni": 870,
+      "note": ""
+    },
+    {
+      "anno": "1943",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "4 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 189,
+      "note": "Istituzione per il Regno d'Italia e termine per la Repubblica Sociale Italiana"
+    },
+    {
+      "anno": "1944",
+      "inizio_giorno": "3 aprile",
+      "inizio_ora": "02:00",
+      "fine_giorno": "2 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": "Istituzione e termine per la Repubblica Sociale Italiana"
+    },
+    {
+      "anno": "1944",
+      "inizio_giorno": "2 aprile",
+      "inizio_ora": "02:00",
+      "fine_giorno": "17 settembre",
+      "fine_ora": "03:00",
+      "giorni": 168,
+      "note": "Istituzione e termine per il Regno d'Italia"
+    },
+    {
+      "anno": "1945",
+      "inizio_giorno": "2 aprile",
+      "inizio_ora": "02:00",
+      "fine_giorno": "15 settembre",
+      "fine_ora": "01:00",
+      "giorni": 166,
+      "note": "Regno d'Italia. Sospesa nella Venezia Giulia occupata."
+    },
+    {
+      "anno": "1946",
+      "inizio_giorno": "17 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "6 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 203,
+      "note": "Istituzione per Regno d'Italia e termine come Repubblica Italiana"
+    },
+    {
+      "anno": "1947",
+      "inizio_giorno": "16 marzo",
+      "inizio_ora": "00:00",
+      "fine_giorno": "5 ottobre",
+      "fine_ora": "01:00",
+      "giorni": 203,
+      "note": ""
+    },
+    {
+      "anno": "1948",
+      "inizio_giorno": "29 febbraio",
+      "inizio_ora": "02:00",
+      "fine_giorno": "3 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "1966",
+      "inizio_giorno": "22 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "25 settembre",
+      "fine_ora": "00:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1967",
+      "inizio_giorno": "28 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "24 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1968",
+      "inizio_giorno": "26 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "22 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1969",
+      "inizio_giorno": "1º giugno",
+      "inizio_ora": "00:00",
+      "fine_giorno": "28 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1970",
+      "inizio_giorno": "31 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "27 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1971",
+      "inizio_giorno": "23 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "26 settembre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1972",
+      "inizio_giorno": "28 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "1º ottobre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1973",
+      "inizio_giorno": "3 giugno",
+      "inizio_ora": "00:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1974",
+      "inizio_giorno": "26 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "29 settembre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1975",
+      "inizio_giorno": "1º giugno",
+      "inizio_ora": "00:00",
+      "fine_giorno": "28 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1976",
+      "inizio_giorno": "30 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "26 settembre",
+      "fine_ora": "01:00",
+      "giorni": 119,
+      "note": ""
+    },
+    {
+      "anno": "1977",
+      "inizio_giorno": "22 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "25 settembre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1978",
+      "inizio_giorno": "28 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "1º ottobre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1979",
+      "inizio_giorno": "27 maggio",
+      "inizio_ora": "00:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "01:00",
+      "giorni": 126,
+      "note": ""
+    },
+    {
+      "anno": "1980",
+      "inizio_giorno": "6 aprile",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 settembre",
+      "fine_ora": "03:00",
+      "giorni": 175,
+      "note": ""
+    },
+    {
+      "anno": "1981",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1982",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1983",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1984",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "03:00",
+      "giorni": 189,
+      "note": ""
+    },
+    {
+      "anno": "1985",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1986",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1987",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1988",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1989",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "24 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1990",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 settembre",
+      "fine_ora": "03:00",
+      "giorni": 189,
+      "note": ""
+    },
+    {
+      "anno": "1991",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1992",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1993",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1994",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1995",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "24 settembre",
+      "fine_ora": "03:00",
+      "giorni": 182,
+      "note": ""
+    },
+    {
+      "anno": "1996",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "1997",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "1998",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "1999",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "31 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2000",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2001",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2002",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2003",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2004",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "31 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2005",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2006",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2007",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2008",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2009",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2010",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "31 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2011",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2012",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2013",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2014",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2015",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2016",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2017",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2018",
+      "inizio_giorno": "25 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "28 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2019",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2020",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2021",
+      "inizio_giorno": "28 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "31 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2022",
+      "inizio_giorno": "27 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "30 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2023",
+      "inizio_giorno": "26 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "29 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 217,
+      "note": ""
+    },
+    {
+      "anno": "2024",
+      "inizio_giorno": "31 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "27 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2025",
+      "inizio_giorno": "30 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "26 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    },
+    {
+      "anno": "2026",
+      "inizio_giorno": "29 marzo",
+      "inizio_ora": "02:00",
+      "fine_giorno": "25 ottobre",
+      "fine_ora": "03:00",
+      "giorni": 210,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Date dell'ora legale in Italia dal 1916 - Free Download",
+    "description": "Anni di applicazione dell'ora legale in Italia con giorno e ora di inizio e fine e durata in giorni, dal 1916 a oggi. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Date dell'ora legale in Italia dal 1916 | ListBase",
+    "seo_description": "Download Date dell'ora legale in Italia dal 1916 — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ora_legale_in_Italia"
+    ]
+  }
+}
