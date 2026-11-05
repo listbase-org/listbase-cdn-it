@@ -1,0 +1,555 @@
+{
+  "id": "it-antiche-unita-misura-bari",
+  "name": "Antiche unità di misura del circondario di Bari delle Puglie",
+  "title": "Antiche unità di misura del circondario di Bari delle Puglie",
+  "description": "Unità di misura in uso nel circondario di Bari delle Puglie prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Bari_delle_Puglie",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Bari_delle_Puglie",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Canna",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.10936,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.26367,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo quadrato",
+      "grandezza": "Misure di superficie",
+      "valore": 0.069522,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Aratro di 1250 passi quadrati di palmi 6 di lato; Tomolo di 800 passi quadrati di palmi 7 1/2 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3128.48,
+      "unita_si": "m²",
+      "comuni": "Bari delle Puglie, Bitritto, Capurso, Carbonara di Bari, Ceglie del Campo, Montrone, Carneto di Bari, Loseto, Sannicandro di Bari, Valenzano"
+    },
+    {
+      "denominazione": "Vigna di 2500 passi quadrati di palmi 6 2/3 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 7724.65,
+      "unita_si": "m²",
+      "comuni": "Bitonto, Palo del Colle"
+    },
+    {
+      "denominazione": "Vignale di 2500 passi quadrati di palmi 6 1/2 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 7343.25,
+      "unita_si": "m²",
+      "comuni": "Noicattaro"
+    },
+    {
+      "denominazione": "Vignale di 2500 passi quadrati di palmi 6 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 6256.97,
+      "unita_si": "m²",
+      "comuni": "Rutigliano, Conversano, Casamassima, Turi, Acquaviva delle Fonti, S. Michele di Bari"
+    },
+    {
+      "denominazione": "Tomolo di 2500 passi quadrati di palmi 7 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 8516.43,
+      "unita_si": "m²",
+      "comuni": "Cisternino, Locorotondo, Fasano, Conversano, Castellana, Monopoli"
+    },
+    {
+      "denominazione": "Aratro di 1250 passi quadrati di palmi 6 2/3 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3862.33,
+      "unita_si": "m²",
+      "comuni": "Modugno"
+    },
+    {
+      "denominazione": "Opera di 1250 passi quadrati di palmi 6 1/3 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3485.75,
+      "unita_si": "m²",
+      "comuni": "Polignano a Mare"
+    },
+    {
+      "denominazione": "Opera di 1250 passi quadrati di palmi 6 1/6 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3304.7,
+      "unita_si": "m²",
+      "comuni": "Mola"
+    },
+    {
+      "denominazione": "Aratro di 1250 passi quadrati di palmi 6 1/4 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3394.62,
+      "unita_si": "m²",
+      "comuni": "Cellamare, Triggiano"
+    },
+    {
+      "denominazione": "Aratro di 1666,666 passi quadrati di palmi 5 1/2 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 3505.05,
+      "unita_si": "m²",
+      "comuni": "Bitetto"
+    },
+    {
+      "denominazione": "Ordine di 50 passi quadrati di palmi 5 1/2 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 105.15,
+      "unita_si": "m²",
+      "comuni": "Bitetto"
+    },
+    {
+      "denominazione": "Vigna di 1600 passi quadrati di palmi 6 2/3 di lato",
+      "grandezza": "Misure di superficie",
+      "valore": 4943.78,
+      "unita_si": "m²",
+      "comuni": "Giovinazzo"
+    },
+    {
+      "denominazione": "Palmo cubo",
+      "grandezza": "Misure di volume",
+      "valore": 18.331,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Tomolo",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 55.3189,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Salma di 240 caraffe di 1 rotolo",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 214.2946,
+      "unita_si": "L",
+      "comuni": "Bari delle Puglie, S. Michele di Bari"
+    },
+    {
+      "denominazione": "Salma di 228 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 150.7061,
+      "unita_si": "L",
+      "comuni": "Bari delle Puglie, S. Michele di Bari"
+    },
+    {
+      "denominazione": "Caraffa di 24,676 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.660992,
+      "unita_si": "L",
+      "comuni": "Bari delle Puglie, S. Michele di Bari"
+    },
+    {
+      "denominazione": "Soma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 169.2139,
+      "unita_si": "L",
+      "comuni": "Bitritto, Modugno, Ceglie del Campo, Canneto di Bari, Loseto, Turi, Valenzano"
+    },
+    {
+      "denominazione": "Caraffa di 24,676 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.660992,
+      "unita_si": "L",
+      "comuni": "Bitritto, Modugno, Ceglie del Campo, Canneto di Bari, Loseto, Turi, Valenzano"
+    },
+    {
+      "denominazione": "Soma di 240 legali",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 174.498,
+      "unita_si": "L",
+      "comuni": "Noicattaro, Bitonto, Sannicandro"
+    },
+    {
+      "denominazione": "Soma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 192.008,
+      "unita_si": "L",
+      "comuni": "Rutigliano"
+    },
+    {
+      "denominazione": "Caraffa di 28 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.750031,
+      "unita_si": "L",
+      "comuni": "Rutigliano"
+    },
+    {
+      "denominazione": "Soma di 192 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 144.006,
+      "unita_si": "L",
+      "comuni": "Cisternino"
+    },
+    {
+      "denominazione": "Caraffa di 28 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.750031,
+      "unita_si": "L",
+      "comuni": "Cisternino"
+    },
+    {
+      "denominazione": "Barile di 60 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 42.4303,
+      "unita_si": "L",
+      "comuni": "Locorotondo"
+    },
+    {
+      "denominazione": "Caraffa di 26 2/5 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.707172,
+      "unita_si": "L",
+      "comuni": "Locorotondo"
+    },
+    {
+      "denominazione": "Soma di 180 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 130.184,
+      "unita_si": "L",
+      "comuni": "Fasano, Monopoli"
+    },
+    {
+      "denominazione": "Caraffa di 27 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.723244,
+      "unita_si": "L",
+      "comuni": "Fasano, Monopoli"
+    },
+    {
+      "denominazione": "Soma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 178.2931,
+      "unita_si": "L",
+      "comuni": "Mola, Cellamare"
+    },
+    {
+      "denominazione": "Caraffa di 26 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.696458,
+      "unita_si": "L",
+      "comuni": "Mola, Cellamare"
+    },
+    {
+      "denominazione": "Soma di 240 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 158.638,
+      "unita_si": "L",
+      "comuni": "Conversano"
+    },
+    {
+      "denominazione": "Caraffa di 24,676 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.660992,
+      "unita_si": "L",
+      "comuni": "Conversano"
+    },
+    {
+      "denominazione": "Soma di 240 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 180.0075,
+      "unita_si": "L",
+      "comuni": "Montrone"
+    },
+    {
+      "denominazione": "Caraffa di 28 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.750031,
+      "unita_si": "L",
+      "comuni": "Montrone"
+    },
+    {
+      "denominazione": "Soma di 240 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 173.5785,
+      "unita_si": "L",
+      "comuni": "Castellana"
+    },
+    {
+      "denominazione": "Caraffa di 27 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.723244,
+      "unita_si": "L",
+      "comuni": "Castellana"
+    },
+    {
+      "denominazione": "Soma da mosto di 160 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 115.7191,
+      "unita_si": "L",
+      "comuni": "Polignano a Mare"
+    },
+    {
+      "denominazione": "Soma da vino di 150 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 108.4867,
+      "unita_si": "L",
+      "comuni": "Polignano a Mare"
+    },
+    {
+      "denominazione": "Caraffa di 27 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.723244,
+      "unita_si": "L",
+      "comuni": "Polignano a Mare"
+    },
+    {
+      "denominazione": "Soma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 164.5783,
+      "unita_si": "L",
+      "comuni": "Palo del Colle, Casamassima"
+    },
+    {
+      "denominazione": "Caraffa di 24 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.642884,
+      "unita_si": "L",
+      "comuni": "Palo del Colle, Casamassima"
+    },
+    {
+      "denominazione": "Barile di 228 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 164.8997,
+      "unita_si": "L",
+      "comuni": "Capurso"
+    },
+    {
+      "denominazione": "Caraffa di 27 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.723244,
+      "unita_si": "L",
+      "comuni": "Capurso"
+    },
+    {
+      "denominazione": "Barile di 228 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 171.0071,
+      "unita_si": "L",
+      "comuni": "Carbonara di Bari"
+    },
+    {
+      "denominazione": "Caraffa di 28 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.750031,
+      "unita_si": "L",
+      "comuni": "Carbonara di Bari"
+    },
+    {
+      "denominazione": "Soma di 240 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 214.2946,
+      "unita_si": "L",
+      "comuni": "Triggiano"
+    },
+    {
+      "denominazione": "Caraffa di un rotolo",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.892894,
+      "unita_si": "L",
+      "comuni": "Triggiano"
+    },
+    {
+      "denominazione": "Soma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 171.4357,
+      "unita_si": "L",
+      "comuni": "Sannicandro di Bari"
+    },
+    {
+      "denominazione": "Caraffa di 25 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.669671,
+      "unita_si": "L",
+      "comuni": "Sannicandro di Bari"
+    },
+    {
+      "denominazione": "Barile di 64 quartucci",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 41.1446,
+      "unita_si": "L",
+      "comuni": "Giovinazzo"
+    },
+    {
+      "denominazione": "Quartuccio di 24 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.642884,
+      "unita_si": "L",
+      "comuni": "Giovinazzo"
+    },
+    {
+      "denominazione": "Soma di 264 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 169.7213,
+      "unita_si": "L",
+      "comuni": "Acquaviva delle Fonti"
+    },
+    {
+      "denominazione": "Caraffa di 24 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.642884,
+      "unita_si": "L",
+      "comuni": "Acquaviva delle Fonti"
+    },
+    {
+      "denominazione": "Salma di 256 caraffe",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 186.2935,
+      "unita_si": "L",
+      "comuni": "Bitetto"
+    },
+    {
+      "denominazione": "Caraffa di 27 1/6 once",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.727709,
+      "unita_si": "L",
+      "comuni": "Bitetto"
+    },
+    {
+      "denominazione": "Staio di rotoli 21 1/9 = 18,810 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 20.5957,
+      "unita_si": "L",
+      "comuni": "Bari delle Puglie, Cellamare"
+    },
+    {
+      "denominazione": "Salma di rotoli 200 = 178,199 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 195.1174,
+      "unita_si": "L",
+      "comuni": "Bitonto"
+    },
+    {
+      "denominazione": "Staio di rotoli 20 = 17,820 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 19.5117,
+      "unita_si": "L",
+      "comuni": "Rutigliano, Modugno, Canneto di Bari, Noicattaro, Montrone, Sannicandro di Bari"
+    },
+    {
+      "denominazione": "Staio di rotoli 10,2 = 9,088 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 9.950988,
+      "unita_si": "L",
+      "comuni": "Cisternino"
+    },
+    {
+      "denominazione": "Staio di rotoli 10 1/3 = 9,207 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 10.0811,
+      "unita_si": "L",
+      "comuni": "Locorotondo, Fasano, Mola, Giovinazzo, Putignano"
+    },
+    {
+      "denominazione": "Staio di rotoli 20 2/3 = 18,414 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 20.1621,
+      "unita_si": "L",
+      "comuni": "Bitritto, Palo del Colle, Loseto, Acquaviva delle Fonti"
+    },
+    {
+      "denominazione": "Salma di rotoli 216 2/3 = 193,049 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 211.3772,
+      "unita_si": "L",
+      "comuni": "Conversano"
+    },
+    {
+      "denominazione": "Staio di rotoli 10 = 8,910 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 9.75587,
+      "unita_si": "L",
+      "comuni": "Polignano a Mare, Monopoli, Castellana"
+    },
+    {
+      "denominazione": "Staio di rotoli 20 1/2 = 18,265 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 19.9995,
+      "unita_si": "L",
+      "comuni": "Capurso, Triggiano"
+    },
+    {
+      "denominazione": "Quartara di rotoli 11 = 9,801 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 10.7315,
+      "unita_si": "L",
+      "comuni": "Turi"
+    },
+    {
+      "denominazione": "Staio di rotoli 21 1/3 = 19,008 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 20.8125,
+      "unita_si": "L",
+      "comuni": "Carbonara di Bari, Ceglie del Campo, Valenzano"
+    },
+    {
+      "denominazione": "Staio di rotoli 20,7 = 18,444 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 20.1947,
+      "unita_si": "L",
+      "comuni": "Casamassima"
+    },
+    {
+      "denominazione": "Rotolo",
+      "grandezza": "Pesi",
+      "valore": 890.997,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 320.759,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Bari delle Puglie - Free Download",
+    "description": "Unità di misura in uso nel circondario di Bari delle Puglie prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Bari delle Puglie | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Bari delle Puglie — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Bari_delle_Puglie"
+    ]
+  }
+}

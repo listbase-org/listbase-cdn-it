@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-04T02:09:01.504Z",
-  "total_datasets": 512,
-  "total_records": 140636,
+  "generated": "2026-11-05T02:51:38.706Z",
+  "total_datasets": 513,
+  "total_records": 140708,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -17417,6 +17417,32 @@
         "xlsx": {
           "name": "it-veneto-aeroporti_IT.xlsx",
           "size": 18353
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-bari",
+      "name": "Antiche unità di misura del circondario di Bari delle Puglie",
+      "category": "units",
+      "record_count": 72,
+      "columns": [
+        "denominazione",
+        "grandezza",
+        "valore",
+        "unita_si",
+        "comuni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Bari_delle_Puglie",
+      "updated": "2026-11",
+      "size": 17085,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-bari_IT.csv",
+          "size": 7416
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-bari_IT.xlsx",
+          "size": 9617
         }
       }
     },
