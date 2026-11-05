@@ -1,0 +1,205 @@
+{
+  "id": "it-antiche-unita-misura-parma",
+  "name": "Antiche unità di misura del circondario di Parma",
+  "title": "Antiche unità di misura del circondario di Parma",
+  "description": "Unità di misura in uso nel circondario di Parma prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Parma",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Parma",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Braccio da panno",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.6395,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Braccio da seta",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.58775,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Braccio da legname e muro",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.545167,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Pertica",
+      "grandezza": "Misure di lunghezza",
+      "valore": 3.271,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Braccio mercantile",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.675,
+      "unita_si": "m",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Braccio da muro",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.469565,
+      "unita_si": "m",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Trabucco",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.817391,
+      "unita_si": "m",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Pertica quadrata",
+      "grandezza": "Misure di superficie",
+      "valore": 10.6994,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Biolca",
+      "grandezza": "Misure di superficie",
+      "valore": 3081.439,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Pertica di Piacenza",
+      "grandezza": "Misure di superficie",
+      "valore": 762.0186,
+      "unita_si": "m²",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Quadretto",
+      "grandezza": "Misure di volume",
+      "valore": 162.027,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Passo",
+      "grandezza": "Misure di volume",
+      "valore": 4860.815,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Quadretto di Piacenza",
+      "grandezza": "Misure di volume",
+      "valore": 103.535,
+      "unita_si": "L",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Staio da grano",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 47.04,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Staio per la calce",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 48.94,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Staio per il carbone",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 48.88,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Staio di Piacenza",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 34.82,
+      "unita_si": "L",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Brenta",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 71.672,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Pozzola per il latte",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.3333,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Brenta",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 75.7712,
+      "unita_si": "L",
+      "comuni": "Varsi"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 328,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni meno Varsi"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 317.517,
+      "unita_si": "g",
+      "comuni": "Varsi"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Parma - Free Download",
+    "description": "Unità di misura in uso nel circondario di Parma prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Parma | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Parma — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Parma"
+    ]
+  }
+}
