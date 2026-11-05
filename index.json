@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-05T02:51:47.030Z",
-  "total_datasets": 514,
-  "total_records": 140730,
+  "generated": "2026-11-05T02:51:54.916Z",
+  "total_datasets": 515,
+  "total_records": 140784,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -17498,6 +17498,32 @@
         "xlsx": {
           "name": "it-antiche-unita-misura-parma_IT.xlsx",
           "size": 7572
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-pavia",
+      "name": "Antiche unità di misura del circondario di Pavia",
+      "category": "units",
+      "record_count": 54,
+      "columns": [
+        "denominazione",
+        "grandezza",
+        "valore",
+        "unita_si",
+        "comuni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Pavia",
+      "updated": "2026-11",
+      "size": 14714,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-pavia_IT.csv",
+          "size": 7090
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-pavia_IT.xlsx",
+          "size": 8838
         }
       }
     },

@@ -1,0 +1,429 @@
+{
+  "id": "it-antiche-unita-misura-pavia",
+  "name": "Antiche unità di misura del circondario di Pavia",
+  "title": "Antiche unità di misura del circondario di Pavia",
+  "description": "Unità di misura in uso nel circondario di Pavia prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Pavia",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Pavia",
+  "updated": "2026-11",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Trabucco pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.831725,
+      "unita_si": "m",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Piede",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.471954,
+      "unita_si": "m",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Braccio pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.629272,
+      "unita_si": "m",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Trabucco milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.61111,
+      "unita_si": "m",
+      "comuni": "Cavagnera, Landriano, Mandrino, Pairana, Siziano, Vidigulfo"
+    },
+    {
+      "denominazione": "Piede",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.435185,
+      "unita_si": "m",
+      "comuni": "Cavagnera, Landriano, Mandrino, Pairana, Siziano, Vidigulfo"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Cavagnera, Landriano, Mandrino, Pairana, Siziano, Vidigulfo"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Bascapè, Misano Olona, Torre Vecchia Pia, Vairano, Marzano, Vistarino, Badia, Chignolo Po, Copiano, Genzone, Gerenzago, Inverno, Magherno, Miradolo, Monte Bolognola, Monteleone sui Colli Pavesi, Santa Cristina e Bissone, Torre d'Arese, Villanterio, Monticelli Pavese"
+    },
+    {
+      "denominazione": "Braccio lodigiano da seta",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.667697,
+      "unita_si": "m",
+      "comuni": "Bascapè, Misano Olona, Torre Vecchia Pia, Vairano, Marzano, Vistarino, Badia, Chignolo Po, Copiano, Genzone, Gerenzago, Inverno, Magherno, Miradolo, Monte Bolognola, Monteleone sui Colli Pavesi, Santa Cristina e Bissone, Torre d'Arese, Villanterio, Monticelli Pavese"
+    },
+    {
+      "denominazione": "Trabucco milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.61111,
+      "unita_si": "m",
+      "comuni": "Bascapè, Misano Olona, Torre Vecchia Pia, Vairano, Marzano, Vistarino, Badia, Chignolo Po, Copiano, Genzone, Gerenzago, Inverno, Magherno, Miradolo, Monte Bolognola, Monteleone sui Colli Pavesi, Santa Cristina e Bissone, Torre d'Arese, Villanterio, Monticelli Pavese"
+    },
+    {
+      "denominazione": "Trabucco lodigiano",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.731995,
+      "unita_si": "m",
+      "comuni": "Bascapè, Misano Olona, Torre Vecchia Pia, Vairano, Marzano, Vistarino, Badia, Chignolo Po, Copiano, Genzone, Gerenzago, Inverno, Magherno, Miradolo, Monte Bolognola, Monteleone sui Colli Pavesi, Santa Cristina e Bissone, Torre d'Arese, Villanterio, Monticelli Pavese"
+    },
+    {
+      "denominazione": "Trabucco pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.831725,
+      "unita_si": "m",
+      "comuni": "Bornasco, Zeccone, Baselica Bologna, Berbguardo, Carpignago, Casorate Primo, Vellezzo Bellini, Giussago, Pissarello, Rognano, Trivolzio, Trovo, Turago Bordone, Zelata"
+    },
+    {
+      "denominazione": "Trabucco milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.61111,
+      "unita_si": "m",
+      "comuni": "Bornasco, Zeccone, Baselica Bologna, Berbguardo, Carpignago, Casorate Primo, Vellezzo Bellini, Giussago, Pissarello, Rognano, Trivolzio, Trovo, Turago Bordone, Zelata"
+    },
+    {
+      "denominazione": "Braccio pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.629272,
+      "unita_si": "m",
+      "comuni": "Bornasco, Zeccone, Baselica Bologna, Berbguardo, Carpignago, Casorate Primo, Vellezzo Bellini, Giussago, Pissarello, Rognano, Trivolzio, Trovo, Turago Bordone, Zelata"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Bornasco, Zeccone, Baselica Bologna, Berbguardo, Carpignago, Casorate Primo, Vellezzo Bellini, Giussago, Pissarello, Rognano, Trivolzio, Trovo, Turago Bordone, Zelata"
+    },
+    {
+      "denominazione": "Trabucco pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.831725,
+      "unita_si": "m",
+      "comuni": "Albuzzano, Vistarino, Filighera, Cura, Carpignano, Ceranova, Roncaro, Corte Olona, Costa de' Nobili, Pieve Porto Morone, Spessa"
+    },
+    {
+      "denominazione": "Trabucco lodigiano",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.731995,
+      "unita_si": "m",
+      "comuni": "Albuzzano, Vistarino, Filighera, Cura, Carpignano, Ceranova, Roncaro, Corte Olona, Costa de' Nobili, Pieve Porto Morone, Spessa"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Albuzzano, Vistarino, Filighera, Cura, Carpignano, Ceranova, Roncaro, Corte Olona, Costa de' Nobili, Pieve Porto Morone, Spessa"
+    },
+    {
+      "denominazione": "Braccio pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.629272,
+      "unita_si": "m",
+      "comuni": "Albuzzano, Vistarino, Filighera, Cura, Carpignano, Ceranova, Roncaro, Corte Olona, Costa de' Nobili, Pieve Porto Morone, Spessa"
+    },
+    {
+      "denominazione": "Braccio lodigiano",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.667697,
+      "unita_si": "m",
+      "comuni": "Albuzzano, Vistarino, Filighera, Cura, Carpignano, Ceranova, Roncaro, Corte Olona, Costa de' Nobili, Pieve Porto Morone, Spessa"
+    },
+    {
+      "denominazione": "Trabucco milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.61111,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Trabucco pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.831725,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio milanese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.594936,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio pavese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.629272,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio lungo da tela",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.668787,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio corto da seta",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.528,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Raso piemontese",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.600137,
+      "unita_si": "m",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio quadrato",
+      "grandezza": "Misure di superficie",
+      "valore": 0.353949,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Braccio da legname",
+      "grandezza": "Misure di superficie",
+      "valore": 1.415798,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Pertica pavese",
+      "grandezza": "Misure di superficie",
+      "valore": 769.7918,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Pertica milanese",
+      "grandezza": "Misure di superficie",
+      "valore": 654.5179,
+      "unita_si": "m²",
+      "comuni": "Siziano, Bornasco, e mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Pertica lodigiana",
+      "grandezza": "Misure di superficie",
+      "valore": 716.5243,
+      "unita_si": "m²",
+      "comuni": "Castel Lambro, Barona (borgate)"
+    },
+    {
+      "denominazione": "Quadretto pavese",
+      "grandezza": "Misure di superficie",
+      "valore": 0.395983,
+      "unita_si": "m²",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio d'asse",
+      "grandezza": "Misure di superficie",
+      "valore": 1.583934,
+      "unita_si": "m²",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Braccio milanese cubo",
+      "grandezza": "Misure di volume",
+      "valore": 210.577,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Braccio pavese cubo",
+      "grandezza": "Misure di volume",
+      "valore": 249.181,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Braccio o carro da legna",
+      "grandezza": "Misure di volume",
+      "valore": 3369.238,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Pilotto o carro pavese",
+      "grandezza": "Misure di volume",
+      "valore": 210.577,
+      "unita_si": "L",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Sacco",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 122.2633,
+      "unita_si": "L",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Moggio milanese",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 146.2343,
+      "unita_si": "L",
+      "comuni": "Siziano, Bornasco"
+    },
+    {
+      "denominazione": "Sacco lodigiano",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 158.9566,
+      "unita_si": "L",
+      "comuni": "Castel Lambro, Barona (borgate)"
+    },
+    {
+      "denominazione": "Sacco raso",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 120,
+      "unita_si": "L",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Sacco colmo",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 135,
+      "unita_si": "L",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Brenta",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 71.4427,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Brenta milanese",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 75.55544,
+      "unita_si": "L",
+      "comuni": "Siziano, Bornasco"
+    },
+    {
+      "denominazione": "Brenta lodigiana",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 66.203,
+      "unita_si": "L",
+      "comuni": "Castel Lambro, Barona (borgate)"
+    },
+    {
+      "denominazione": "Libbra piccola",
+      "grandezza": "Pesi",
+      "valore": 318.725,
+      "unita_si": "g",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Libbra grossa",
+      "grandezza": "Pesi",
+      "valore": 743.692,
+      "unita_si": "g",
+      "comuni": "Pavia e comuni del contado pavese"
+    },
+    {
+      "denominazione": "Libbra piccola di Milano",
+      "grandezza": "Pesi",
+      "valore": 326.793,
+      "unita_si": "g",
+      "comuni": "Siziano, Bornasco"
+    },
+    {
+      "denominazione": "Libbra grossa di Milano",
+      "grandezza": "Pesi",
+      "valore": 762.517,
+      "unita_si": "g",
+      "comuni": "Siziano, Bornasco"
+    },
+    {
+      "denominazione": "Libbra piccola di Lodi",
+      "grandezza": "Pesi",
+      "valore": 320.735,
+      "unita_si": "g",
+      "comuni": "Castel Lambro, Barona (borgate)"
+    },
+    {
+      "denominazione": "Libbra grossa di Lodi",
+      "grandezza": "Pesi",
+      "valore": 748.381,
+      "unita_si": "g",
+      "comuni": "Castel Lambro, Barona (borgate)"
+    },
+    {
+      "denominazione": "Libbra piccola",
+      "grandezza": "Pesi",
+      "valore": 319.38,
+      "unita_si": "g",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    },
+    {
+      "denominazione": "Libbra grossa",
+      "grandezza": "Pesi",
+      "valore": 745.22,
+      "unita_si": "g",
+      "comuni": "Mandamenti di Cava Manara e Sannazzaro dei Burgondi"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Pavia - Free Download",
+    "description": "Unità di misura in uso nel circondario di Pavia prima del sistema metrico decimale, con grandezza, valore equivalente nel sistema metrico e comuni di applicazione. Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Pavia | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Pavia — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Pavia"
+    ]
+  }
+}
