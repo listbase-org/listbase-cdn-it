@@ -1,0 +1,821 @@
+{
+  "id": "it-autostrade",
+  "name": "Autostrade in Italia",
+  "title": "Autostrade in Italia",
+  "description": "Elenco delle autostrade italiane con simbolo, percorso, gestore e lunghezza in chilometri.",
+  "category": "transport",
+  "source": "https://it.wikipedia.org/wiki/Autostrade_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Autostrade_in_Italia",
+  "updated": "2026-11",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "simbolo",
+      "label": "Simbolo",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "percorso",
+      "label": "Percorso",
+      "type": "string"
+    },
+    {
+      "key": "gestore",
+      "label": "Gestore",
+      "type": "string"
+    },
+    {
+      "key": "estensione_km",
+      "label": "Estensione Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "simbolo": "A1",
+      "nome": "Autostrada del Sole",
+      "percorso": "Milano - Napoli",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 760.3
+    },
+    {
+      "simbolo": "A2",
+      "nome": "Autostrada del Mediterraneo",
+      "percorso": "Salerno - Reggio Calabria",
+      "gestore": "Anas",
+      "estensione_km": 432.6
+    },
+    {
+      "simbolo": "A3",
+      "nome": "Autostrada A3",
+      "percorso": "Napoli - Salerno",
+      "gestore": "Salerno - Pompei - Napoli S.p.A. (Sacyr)",
+      "estensione_km": 52
+    },
+    {
+      "simbolo": "A4",
+      "nome": "Autostrada Serenissima",
+      "percorso": "Torino - Trieste",
+      "gestore": "Tratte gestite separatamente da: SATAP (ASTM), Torino-Milano Autostrade per l'Italia, Milano-Brescia Autostrada Brescia Verona Vicenza Padova S.p.A., Brescia-Padova Concessioni Autostradali Venete, Padova-Venezia Società Autostrade Alto Adriatico, Venezia-Trieste",
+      "estensione_km": 524
+    },
+    {
+      "simbolo": "A5",
+      "nome": "Autostrada della Valle d'Aosta",
+      "percorso": "Torino - Monte Bianco",
+      "gestore": "Tratte gestite separatamente da: Ivrea Torino Piacenza S.p.A. (Sacyr), Torino-Quincinetto Società Autostrade Valdostane (ASTM), Quincinetto-Aosta Raccordo Autostradale Valle d'Aosta (Autostrade per l'Italia), Aosta-Traforo del Monte Bianco",
+      "estensione_km": 143.4
+    },
+    {
+      "simbolo": "A6",
+      "nome": "La Verdemare",
+      "percorso": "Torino - Savona",
+      "gestore": "Autostrada dei Fiori (ASTM)",
+      "estensione_km": 124.3
+    },
+    {
+      "simbolo": "A7",
+      "nome": "Autostrada dei Giovi",
+      "percorso": "Milano - Genova",
+      "gestore": "Tratte gestite separatamente da: Milano Serravalle-Milano Tangenziali, Milano-Serravalle Scrivia Autostrade per l'Italia, Serravalle Scrivia-Genova",
+      "estensione_km": "133,6 + 1,9"
+    },
+    {
+      "simbolo": "A8",
+      "nome": "Autostrada dei Laghi",
+      "percorso": "Milano - Varese",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 43.6
+    },
+    {
+      "simbolo": "A9",
+      "nome": "Autostrada dei Laghi",
+      "percorso": "Lainate - Como - Chiasso",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 31.5
+    },
+    {
+      "simbolo": "A10",
+      "nome": "Autostrada dei Fiori",
+      "percorso": "Genova - Ventimiglia",
+      "gestore": "Tratte gestite separatamente da: Autostrade per l'Italia, Genova-Savona Concessioni del Tirreno (ASTM), Savona-confine di Stato con la Francia",
+      "estensione_km": 158.1
+    },
+    {
+      "simbolo": "A11",
+      "nome": "Autostrada Firenze-Mare",
+      "percorso": "Firenze - Pisa",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 81.7
+    },
+    {
+      "simbolo": "A12",
+      "nome": "Autostrada Azzurra",
+      "percorso": "Genova - Cecina / Tarquinia - Roma",
+      "gestore": "Tratte gestite separatamente da: Autostrade per l'Italia, Genova-Sestri Levante e Civitavecchia-Roma Società Autostrada Ligure Toscana (ASTM), Sestri Levante-Livorno Società Autostrada Tirrenica (Autostrade per l'Italia), Livorno-Cecina, Tarquinia-Civitavecchia",
+      "estensione_km": "210 + 79,6"
+    },
+    {
+      "simbolo": "A13",
+      "nome": "Autostrada Euganea",
+      "percorso": "Bologna - Padova",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 116.7
+    },
+    {
+      "simbolo": "A14",
+      "nome": "Autostrada Adriatica",
+      "percorso": "Bologna - Taranto",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 743.4
+    },
+    {
+      "simbolo": "A15",
+      "nome": "Autostrada della Cisa",
+      "percorso": "Sissa Trecasali - La Spezia",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": "108,5 + 9,5"
+    },
+    {
+      "simbolo": "A16",
+      "nome": "Autostrada dei Due Mari",
+      "percorso": "Napoli - Canosa",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 172.5
+    },
+    {
+      "simbolo": "A18",
+      "nome": "Autostrada A18 Messina-Catania Autostrada A18 Siracusa-Gela",
+      "percorso": "Messina - Catania Siracusa - Modica",
+      "gestore": "Consorzio per le Autostrade Siciliane",
+      "estensione_km": "76,8 60,9"
+    },
+    {
+      "simbolo": "A19",
+      "nome": "Autostrada A19",
+      "percorso": "Palermo - Catania",
+      "gestore": "Anas",
+      "estensione_km": 191.6
+    },
+    {
+      "simbolo": "A20",
+      "nome": "Autostrada A20",
+      "percorso": "Messina - Buonfornello",
+      "gestore": "Consorzio per le Autostrade Siciliane",
+      "estensione_km": 183
+    },
+    {
+      "simbolo": "A21",
+      "nome": "Autostrada dei Vini",
+      "percorso": "Torino - Piacenza - Brescia",
+      "gestore": "Tratte gestite separatamente da: Autovia Padana (ASTM), Brescia-Piacenza Ivrea Torino Piacenza S.p.A. (Sacyr), Piacenza-Torino",
+      "estensione_km": 238.3
+    },
+    {
+      "simbolo": "A22",
+      "nome": "Autostrada del Brennero",
+      "percorso": "Brennero - Modena",
+      "gestore": "Autostrada del Brennero S.p.A.",
+      "estensione_km": 315
+    },
+    {
+      "simbolo": "A23",
+      "nome": "Autostrada Alpe-Adria",
+      "percorso": "Palmanova - Tarvisio",
+      "gestore": "Tratte gestite separatamente da: Società Autostrade Alto Adriatico, interconnessione A23-Udine Autostrade per l'Italia, Udine-confine di Stato con l'Austria",
+      "estensione_km": 119.9
+    },
+    {
+      "simbolo": "A24",
+      "nome": "Autostrada dei Parchi",
+      "percorso": "Roma - L'Aquila - Teramo",
+      "gestore": "Strada dei Parchi",
+      "estensione_km": "159,2+7,3"
+    },
+    {
+      "simbolo": "A25",
+      "nome": "Autostrada dei Parchi",
+      "percorso": "Torano - Pescara",
+      "gestore": "Strada dei Parchi",
+      "estensione_km": 115
+    },
+    {
+      "simbolo": "A26",
+      "nome": "Autostrada dei Trafori",
+      "percorso": "Genova Voltri - Gravellona Toce",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 197.1
+    },
+    {
+      "simbolo": "A27",
+      "nome": "Autostrada d'Alemagna",
+      "percorso": "Venezia - Belluno",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 82.5
+    },
+    {
+      "simbolo": "A28",
+      "nome": "Autostrada A28",
+      "percorso": "Portogruaro - Conegliano",
+      "gestore": "Società Autostrade Alto Adriatico",
+      "estensione_km": 48.7
+    },
+    {
+      "simbolo": "A29",
+      "nome": "Autostrada A29",
+      "percorso": "Palermo - Mazara del Vallo",
+      "gestore": "Anas",
+      "estensione_km": 114.8
+    },
+    {
+      "simbolo": "A30",
+      "nome": "Autostrada A30",
+      "percorso": "Caserta - Salerno",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 55.3
+    },
+    {
+      "simbolo": "A31",
+      "nome": "Autostrada della Val d'Astico",
+      "percorso": "Badia Polesine - Piovene Rocchette",
+      "gestore": "Autostrada Brescia Verona Vicenza Padova S.p.A.",
+      "estensione_km": 88.7
+    },
+    {
+      "simbolo": "A32",
+      "nome": "Autostrada del Frejus",
+      "percorso": "Torino - Bardonecchia",
+      "gestore": "Società Italiana per il Traforo Autostradale del Frejus (ASTM e Anas)",
+      "estensione_km": 73
+    },
+    {
+      "simbolo": "A33",
+      "nome": "Autostrada delle Langhe",
+      "percorso": "Asti - Cuneo",
+      "gestore": "Autostrada Asti-Cuneo (ASTM)",
+      "estensione_km": 62
+    },
+    {
+      "simbolo": "A34",
+      "nome": "Autostrada A34",
+      "percorso": "Villesse - Gorizia",
+      "gestore": "Società Autostrade Alto Adriatico",
+      "estensione_km": 17
+    },
+    {
+      "simbolo": "A35",
+      "nome": "Autostrada BreBeMi",
+      "percorso": "Brescia - Milano",
+      "gestore": "Brebemi S.p.A.",
+      "estensione_km": 62.1
+    },
+    {
+      "simbolo": "A36",
+      "nome": "Autostrada Pedemontana Lombarda",
+      "percorso": "Cassano Magnago - Lentate sul Seveso",
+      "gestore": "Autostrada Pedemontana Lombarda (Milano Serravalle-Milano Tangenziali)",
+      "estensione_km": 21.8
+    },
+    {
+      "simbolo": "",
+      "nome": "Autostrada Catania-Siracusa",
+      "percorso": "Catania - Augusta",
+      "gestore": "Anas",
+      "estensione_km": 25.2
+    },
+    {
+      "simbolo": "A50",
+      "nome": "Tangenziale Ovest di Milano",
+      "percorso": "San Giuliano Milanese - Terrazzano",
+      "gestore": "Milano Serravalle-Milano Tangenziali",
+      "estensione_km": 33
+    },
+    {
+      "simbolo": "A51",
+      "nome": "Tangenziale Est di Milano",
+      "percorso": "San Donato Milanese - Usmate Velate",
+      "gestore": "Milano Serravalle-Milano Tangenziali",
+      "estensione_km": 29.4
+    },
+    {
+      "simbolo": "A52",
+      "nome": "Tangenziale Nord di Milano",
+      "percorso": "A51 - Sesto San Giovanni - Rho - A50",
+      "gestore": "Tratte gestite separatamente da: Milano Serravalle-Milano Tangenziali Autostrade per l'Italia",
+      "estensione_km": "26,4 (di cui 4,3 racc)"
+    },
+    {
+      "simbolo": "A53",
+      "nome": "Raccordo autostradale Bereguardo-Pavia",
+      "percorso": "A7 - A54",
+      "gestore": "Milano Serravalle-Milano Tangenziali",
+      "estensione_km": 9.1
+    },
+    {
+      "simbolo": "A54",
+      "nome": "Tangenziale Ovest di Pavia",
+      "percorso": "Pavia Nord - San Martino Siccomario",
+      "gestore": "Milano Serravalle-Milano Tangenziali",
+      "estensione_km": 8.4
+    },
+    {
+      "simbolo": "A55",
+      "nome": "Tangenziale di Torino",
+      "percorso": "A5 - A21",
+      "gestore": "Ivrea Torino Piacenza S.p.A. (Sacyr)",
+      "estensione_km": 57.5
+    },
+    {
+      "simbolo": "A56",
+      "nome": "Tangenziale di Napoli",
+      "percorso": "A1 Ramo Capodichino - SS 7 qtr",
+      "gestore": "Tangenziale di Napoli S.p.A (Autostrade per l'Italia)",
+      "estensione_km": 20.2
+    },
+    {
+      "simbolo": "A57",
+      "nome": "Tangenziale di Mestre",
+      "percorso": "A4 - A4",
+      "gestore": "Tratte gestite separatamente da: Concessioni Autostradali Venete Società Autostrade Alto Adriatico",
+      "estensione_km": 26.7
+    },
+    {
+      "simbolo": "A58",
+      "nome": "Tangenziale Est Esterna di Milano",
+      "percorso": "Agrate Brianza - Cerro al Lambro",
+      "gestore": "Tangenziale Esterna S.p.A. (ASTM)",
+      "estensione_km": 32
+    },
+    {
+      "simbolo": "A59",
+      "nome": "Tangenziale di Como",
+      "percorso": "Villa Guardia - Acquanegra (In progetto: Acquanegra - Albese con Cassano)",
+      "gestore": "Autostrada Pedemontana Lombarda (Milano Serravalle-Milano Tangenziali)",
+      "estensione_km": "3 + 6,4 in progetto"
+    },
+    {
+      "simbolo": "A60",
+      "nome": "Tangenziale di Varese",
+      "percorso": "Gazzada - Vedano Olona (In progetto: Malnate - Gaggiolo CH)",
+      "gestore": "Autostrada Pedemontana Lombarda (Milano Serravalle-Milano Tangenziali)",
+      "estensione_km": "4,5 + 6,2 in progetto"
+    },
+    {
+      "simbolo": "A90",
+      "nome": "Grande Raccordo Anulare",
+      "percorso": "Roma",
+      "gestore": "Anas",
+      "estensione_km": 68.23
+    },
+    {
+      "simbolo": "A91",
+      "nome": "Autostrada dell'Aeroporto di Fiumicino",
+      "percorso": "Roma - Aeroporto di Roma-Fiumicino",
+      "gestore": "Anas",
+      "estensione_km": 18.5
+    },
+    {
+      "simbolo": "A",
+      "nome": "Sistiana-Rabuiese",
+      "percorso": "tratti Padriciano - Cattinara e Lacotisce- Rabuiese della Grande Viabilità Triestina",
+      "gestore": "Anas",
+      "estensione_km": 9.5
+    },
+    {
+      "simbolo": "A1",
+      "nome": "Raccordo A1-A51",
+      "percorso": "A1 - A51",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 1.7
+    },
+    {
+      "simbolo": "A1",
+      "nome": "Raccordo Milano-Piazzale Corvetto",
+      "percorso": "A1 - Milano Piazzale Corvetto",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 2.4
+    },
+    {
+      "simbolo": "A1",
+      "nome": "Raccordo Autostradale Sasso Marconi - SS64 Porrettana",
+      "percorso": "A1 - SS 64",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 2.7
+    },
+    {
+      "simbolo": "A1VAR",
+      "nome": "Variante di valico",
+      "percorso": "A1 La Quercia - A1 Aglio",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 32
+    },
+    {
+      "simbolo": "A1DIR",
+      "nome": "Diramazione Roma Nord",
+      "percorso": "A1 - GRA",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 23
+    },
+    {
+      "simbolo": "A1DIR",
+      "nome": "Diramazione Roma Sud",
+      "percorso": "A1 - GRA",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 20
+    },
+    {
+      "simbolo": "A1DIR",
+      "nome": "Diramazione Capodichino",
+      "percorso": "A1 - Aeroporto di Capodichino - A56",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 3
+    },
+    {
+      "simbolo": "A2DIRNA",
+      "nome": "Diramazione Napoli",
+      "percorso": "A3 - A2",
+      "gestore": "Anas",
+      "estensione_km": 2.3
+    },
+    {
+      "simbolo": "A2DIRRC",
+      "nome": "Diramazione Reggio Calabria",
+      "percorso": "A2 - RA4",
+      "gestore": "Anas",
+      "estensione_km": 9
+    },
+    {
+      "simbolo": "A4",
+      "nome": "Raccordo Chivasso",
+      "percorso": "A4 - Verolengo",
+      "gestore": "SATAP (ASTM)",
+      "estensione_km": 5
+    },
+    {
+      "simbolo": "A4",
+      "nome": "Raccordo Ivrea-Santhià",
+      "percorso": "A4 - A5",
+      "gestore": "Ivrea Torino Piacenza S.p.A. (Sacyr)",
+      "estensione_km": 23.6
+    },
+    {
+      "simbolo": "A4",
+      "nome": "Bretella di Latisana",
+      "percorso": "A4 - SS14",
+      "gestore": "Società Autostrade Alto Adriatico",
+      "estensione_km": 1.5
+    },
+    {
+      "simbolo": "A5",
+      "nome": "Raccordo Aosta-Gran San Bernardo",
+      "percorso": "A5 - SS 27",
+      "gestore": "Società Autostrade Valdostane (ASTM)",
+      "estensione_km": 7.9
+    },
+    {
+      "simbolo": "A6",
+      "nome": "Diramazione per Fossano",
+      "percorso": "A6 - Fossano",
+      "gestore": "Autostrada dei Fiori (ASTM)",
+      "estensione_km": 6.6
+    },
+    {
+      "simbolo": "A8",
+      "nome": "Diramazione Gallarate-Gattico",
+      "percorso": "A8 - A26",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 23.2
+    },
+    {
+      "simbolo": "A11",
+      "nome": "Diramazione Lucca-Viareggio",
+      "percorso": "A11 - A12",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": 20
+    },
+    {
+      "simbolo": "A12",
+      "nome": "Raccordo autostradale di Pisa",
+      "percorso": "A12 - Pisa",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": 2.8
+    },
+    {
+      "simbolo": "A12",
+      "nome": "Diramazione per Livorno",
+      "percorso": "A12 - Livorno",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": 4.5
+    },
+    {
+      "simbolo": "A13",
+      "nome": "Diramazione per Padova sud",
+      "percorso": "A13 - Padova",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 4.3
+    },
+    {
+      "simbolo": "A13",
+      "nome": "Diramazione per Ferrara",
+      "percorso": "A13 - Ferrara - RA 8",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 6.3
+    },
+    {
+      "simbolo": "A14",
+      "nome": "Ramo Casalecchio",
+      "percorso": "A14 - A1",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 5.5
+    },
+    {
+      "simbolo": "A14DIR",
+      "nome": "Diramazione per Ravenna",
+      "percorso": "A14 - Ravenna",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 29.8
+    },
+    {
+      "simbolo": "A14",
+      "nome": "Raccordo per tangenziale di Bari",
+      "percorso": "A14 - Tangenziale di Bari",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 4.6
+    },
+    {
+      "simbolo": "A15",
+      "nome": "Diramazione La Spezia-Santo Stefano di Magra",
+      "percorso": "Santo Stefano di Magra - A15 - La Spezia",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": 1
+    },
+    {
+      "simbolo": "A15",
+      "nome": "Raccordo La Spezia-Lerici",
+      "percorso": "Lerici - A15 - La Spezia",
+      "gestore": "Società Autostrada Ligure Toscana (ASTM)",
+      "estensione_km": 3.7
+    },
+    {
+      "simbolo": "A18DIR",
+      "nome": "Diramazione per Catania",
+      "percorso": "A18 - Catania",
+      "gestore": "Anas",
+      "estensione_km": 3.7
+    },
+    {
+      "simbolo": "A19DIR",
+      "nome": "Diramazione per via Giafar",
+      "percorso": "A19 - Circonvallazione di Palermo",
+      "gestore": "Anas",
+      "estensione_km": 5.2
+    },
+    {
+      "simbolo": "A21DIR",
+      "nome": "Diramazione per Fiorenzuola",
+      "percorso": "A1 - A21",
+      "gestore": "Autovia Padana (ASTM)",
+      "estensione_km": 12.3
+    },
+    {
+      "simbolo": "A21RACC",
+      "nome": "Raccordo autostradale Ospitaletto-Montichiari",
+      "percorso": "Azzano Mella - A21 - Aeroporto di Brescia-Montichiari",
+      "gestore": "Autovia Padana (ASTM)",
+      "estensione_km": 28.6
+    },
+    {
+      "simbolo": "A23",
+      "nome": "Raccordo Udine Sud",
+      "percorso": "A23 - Tangenziale Sud di Udine",
+      "gestore": "Friuli-Venezia Giulia Strade S.p.A.",
+      "estensione_km": 2.7
+    },
+    {
+      "simbolo": "A26",
+      "nome": "Diramazione Stroppiana-Santhià",
+      "percorso": "A4 - A26",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 29.7
+    },
+    {
+      "simbolo": "A26",
+      "nome": "Diramazione Predosa-Bettole",
+      "percorso": "A7 - A26",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 17
+    },
+    {
+      "simbolo": "A29DIR",
+      "nome": "Diramazione Alcamo-Trapani",
+      "percorso": "A29 - Trapani",
+      "gestore": "Anas",
+      "estensione_km": 36.9
+    },
+    {
+      "simbolo": "A29DIRA",
+      "nome": "Diramazione per Birgi",
+      "percorso": "A29dir - Aeroporto di Trapani-Birgi",
+      "gestore": "Anas",
+      "estensione_km": 13.1
+    },
+    {
+      "simbolo": "A29RACC",
+      "nome": "Bretella aeroporto \"Falcone e Borsellino\"",
+      "percorso": "A29 - Aeroporto di Palermo-Punta Raisi",
+      "gestore": "Anas",
+      "estensione_km": 4
+    },
+    {
+      "simbolo": "A29RACCBIS",
+      "nome": "Raccordo per via Belgio",
+      "percorso": "A29 - Circonvallazione di Palermo",
+      "gestore": "Anas",
+      "estensione_km": 5.6
+    },
+    {
+      "simbolo": "A32",
+      "nome": "Circonvallazione di Oulx",
+      "percorso": "A32 - Oulx",
+      "gestore": "Anas",
+      "estensione_km": 2.3
+    },
+    {
+      "simbolo": "A55",
+      "nome": "Raccordo della Falchera",
+      "percorso": "A55 - A4 - SR 11",
+      "gestore": "Ivrea Torino Piacenza S.p.A. (Sacyr)",
+      "estensione_km": 3.13
+    },
+    {
+      "simbolo": "A55",
+      "nome": "Autostrada del Pinerolese",
+      "percorso": "A55 - Pinerolo",
+      "gestore": "Ivrea Torino Piacenza S.p.A. (Sacyr)",
+      "estensione_km": 23.44
+    },
+    {
+      "simbolo": "A55",
+      "nome": "Diramazione per Moncalieri",
+      "percorso": "A6 - Moncalieri",
+      "gestore": "Ivrea Torino Piacenza S.p.A. (Sacyr)",
+      "estensione_km": 6.18
+    },
+    {
+      "simbolo": "A57",
+      "nome": "Raccordo Marco Polo",
+      "percorso": "A57 - Aeroporto di Venezia-Tessera",
+      "gestore": "Concessioni Autostradali Venete",
+      "estensione_km": 6.73
+    },
+    {
+      "simbolo": "",
+      "nome": "Autostrada di accesso",
+      "percorso": "SS27 - T2",
+      "gestore": "ASTM",
+      "estensione_km": 9.3
+    },
+    {
+      "simbolo": "",
+      "nome": "Traforo del Monte Bianco",
+      "percorso": "Courmayeur - Chamonix-Mont-Blanc",
+      "gestore": "Società Italiana per il Traforo del Monte Bianco (Autostrade per l'Italia)",
+      "estensione_km": 11.6
+    },
+    {
+      "simbolo": "",
+      "nome": "Traforo del Gran San Bernardo",
+      "percorso": "Saint-Rhémy-en-Bosses - Bourg-Saint-Pierre",
+      "gestore": "Società Italiana Traforo del Gran San Bernardo (ASTM)",
+      "estensione_km": 5.798
+    },
+    {
+      "simbolo": "",
+      "nome": "Traforo stradale del Frejus",
+      "percorso": "Bardonecchia - Modane",
+      "gestore": "Società Italiana per il Traforo Autostradale del Frejus (ASTM e Anas)",
+      "estensione_km": 12.895
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 1",
+      "percorso": "Tangenziale di Bologna",
+      "gestore": "Autostrade per l'Italia",
+      "estensione_km": 22
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 2",
+      "percorso": "Raccordo Autostradale di Avellino",
+      "gestore": "Anas",
+      "estensione_km": 22
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 3",
+      "percorso": "Autopalio (Siena - Firenze)",
+      "gestore": "Anas",
+      "estensione_km": 56
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 4",
+      "percorso": "Tangenziale di Reggio Calabria",
+      "gestore": "Anas",
+      "estensione_km": 5.5
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 5",
+      "percorso": "Sicignano degli Alburni - Potenza",
+      "gestore": "Anas",
+      "estensione_km": 51.5
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 6",
+      "percorso": "Bettolle - Perugia",
+      "gestore": "Anas",
+      "estensione_km": 58.5
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 8",
+      "percorso": "Ferrara - Porto Garibaldi",
+      "gestore": "Anas",
+      "estensione_km": 49
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 9",
+      "percorso": "Raccordo Autostradale di Benevento",
+      "gestore": "Anas",
+      "estensione_km": 12.7
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 10",
+      "percorso": "Torino - Caselle",
+      "gestore": "Anas",
+      "estensione_km": 10.6
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 11",
+      "percorso": "Ascoli - Mare",
+      "gestore": "Anas",
+      "estensione_km": 26.3
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 12",
+      "percorso": "Asse attrezzato (Chieti - Pescara)",
+      "gestore": "Anas",
+      "estensione_km": 14.8
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 13",
+      "percorso": "Sistiana - Cattinara",
+      "gestore": "Anas",
+      "estensione_km": 21
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 14",
+      "percorso": "Opicina - Fernetti",
+      "gestore": "Anas",
+      "estensione_km": 1.5
+    },
+    {
+      "simbolo": "",
+      "nome": "Raccordo autostradale 15",
+      "percorso": "Tangenziale di Catania",
+      "gestore": "Anas",
+      "estensione_km": 24
+    },
+    {
+      "simbolo": "SPV",
+      "nome": "Superstrada Pedemontana Veneta",
+      "percorso": "Montecchio Maggiore - A31 - Spresiano / Villorba",
+      "gestore": "Superstrada pedemontana veneta S.p.A. (Sacyr)",
+      "estensione_km": 94.747
+    }
+  ],
+  "meta": {
+    "title": "Autostrade in Italia - Free Download",
+    "description": "Elenco delle autostrade italiane con simbolo, percorso, gestore e lunghezza in chilometri. Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Autostrade in Italia | ListBase",
+    "seo_description": "Download Autostrade in Italia — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Autostrade_in_Italia"
+    ]
+  }
+}

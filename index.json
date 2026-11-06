@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-05T02:52:10.121Z",
-  "total_datasets": 517,
-  "total_records": 141151,
+  "generated": "2026-11-06T02:29:52.474Z",
+  "total_datasets": 518,
+  "total_records": 141261,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "units",
@@ -16632,6 +16632,32 @@
         "xlsx": {
           "name": "it-aeroporti_IT.xlsx",
           "size": 137473
+        }
+      }
+    },
+    {
+      "id": "it-autostrade",
+      "name": "Autostrade in Italia",
+      "category": "transport",
+      "record_count": 110,
+      "columns": [
+        "simbolo",
+        "nome",
+        "percorso",
+        "gestore",
+        "estensione_km"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Autostrade_in_Italia",
+      "updated": "2026-11",
+      "size": 24501,
+      "files": {
+        "csv": {
+          "name": "it-autostrade_IT.csv",
+          "size": 11590
+        },
+        "xlsx": {
+          "name": "it-autostrade_IT.xlsx",
+          "size": 12678
         }
       }
     },
