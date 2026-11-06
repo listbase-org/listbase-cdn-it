@@ -1,0 +1,546 @@
+{
+  "id": "it-archivi-di-stato",
+  "name": "Archivi di Stato italiani",
+  "title": "Archivi di Stato italiani",
+  "description": "Elenco degli Archivi di Stato italiani e relative sezioni, suddivisi per regione.",
+  "category": "reference",
+  "source": "https://it.wikipedia.org/wiki/Lista_degli_Archivi_di_Stato_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Lista_degli_Archivi_di_Stato_italiani",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "sezioni",
+      "label": "Sezioni",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Archivio di Stato di Chieti",
+      "sezioni": "Sezione di Archivio di Stato di Lanciano",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "Archivio di Stato dell'Aquila",
+      "sezioni": "Sezione di Archivio di Stato di Avezzano; Sezione di Archivio di Stato di Sulmona",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "Archivio di Stato di Pescara",
+      "sezioni": "",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "Archivio di Stato di Teramo",
+      "sezioni": "",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "Archivio di Stato di Matera",
+      "sezioni": "",
+      "regione": "Basilicata"
+    },
+    {
+      "nome": "Archivio di Stato di Potenza",
+      "sezioni": "",
+      "regione": "Basilicata"
+    },
+    {
+      "nome": "Archivio di Stato di Catanzaro",
+      "sezioni": "Sezione di Archivio di Stato di Lamezia Terme",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "Archivio di Stato di Cosenza",
+      "sezioni": "Sezione di Archivio di Stato di Castrovillari",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "Archivio di Stato di Reggio Calabria",
+      "sezioni": "Sezione di Archivio di Stato di Locri; Sezione di Archivio di Stato di Palmi",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "Archivio di Stato di Vibo Valentia",
+      "sezioni": "",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "Archivio di Stato di Avellino",
+      "sezioni": "",
+      "regione": "Campania"
+    },
+    {
+      "nome": "Archivio di Stato di Benevento",
+      "sezioni": "",
+      "regione": "Campania"
+    },
+    {
+      "nome": "Archivio di Stato di Caserta",
+      "sezioni": "",
+      "regione": "Campania"
+    },
+    {
+      "nome": "Archivio di Stato di Napoli",
+      "sezioni": "",
+      "regione": "Campania"
+    },
+    {
+      "nome": "Archivio di Stato di Salerno",
+      "sezioni": "",
+      "regione": "Campania"
+    },
+    {
+      "nome": "Archivio di Stato di Bologna",
+      "sezioni": "Sezione di Archivio di Stato di Imola",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Ferrara",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Forlì-Cesena",
+      "sezioni": "Sezione di Archivio di Stato di Cesena",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Modena",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Parma",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Piacenza",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Ravenna",
+      "sezioni": "Sezione di Archivio di Stato di Faenza",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Reggio Emilia",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Rimini",
+      "sezioni": "",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Archivio di Stato di Gorizia",
+      "sezioni": "",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "Archivio di Stato di Pordenone",
+      "sezioni": "",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "Archivio di Stato di Trieste",
+      "sezioni": "",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "Archivio di Stato di Udine",
+      "sezioni": "",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "Archivio di Stato di Frosinone",
+      "sezioni": "Sezione di Archivio di Stato di Anagni-Guarcino",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "Archivio di Stato di Latina",
+      "sezioni": "",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "Archivio di Stato di Rieti",
+      "sezioni": "",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "Archivio di Stato di Roma",
+      "sezioni": "",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "Archivio di Stato di Viterbo",
+      "sezioni": "",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "Archivio di Stato di Genova",
+      "sezioni": "",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "Archivio di Stato di Imperia",
+      "sezioni": "Sezione di Archivio di Stato di Sanremo; Sezione di Archivio di Stato di Ventimiglia",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "Archivio di Stato della Spezia",
+      "sezioni": "",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "Archivio di Stato di Savona",
+      "sezioni": "",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "Archivio di Stato di Bergamo",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Brescia",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Como",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Cremona",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Mantova",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Milano",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Pavia",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Sondrio",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Varese",
+      "sezioni": "",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "Archivio di Stato di Ancona",
+      "sezioni": "Sezione di Archivio di Stato di Fabriano, inattiva dal 2013.",
+      "regione": "Marche"
+    },
+    {
+      "nome": "Archivio di Stato di Ascoli Piceno",
+      "sezioni": "",
+      "regione": "Marche"
+    },
+    {
+      "nome": "Archivio di Stato di Fermo",
+      "sezioni": "",
+      "regione": "Marche"
+    },
+    {
+      "nome": "Archivio di Stato di Macerata",
+      "sezioni": "Sezione di Archivio di Stato di Camerino",
+      "regione": "Marche"
+    },
+    {
+      "nome": "Archivio di Stato di Pesaro Urbino",
+      "sezioni": "Sezione di Archivio di Stato di Fano; Sezione di Archivio di Stato di Urbino",
+      "regione": "Marche"
+    },
+    {
+      "nome": "Archivio di Stato di Campobasso",
+      "sezioni": "",
+      "regione": "Molise"
+    },
+    {
+      "nome": "Archivio di Stato di Isernia",
+      "sezioni": "",
+      "regione": "Molise"
+    },
+    {
+      "nome": "Archivio di Stato di Alessandria",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Asti",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Biella",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Cuneo",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Novara",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Torino",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Verbania",
+      "sezioni": "",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Vercelli",
+      "sezioni": "Sezione di Archivio di Stato di Varallo",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "Archivio di Stato di Bari",
+      "sezioni": "",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Barletta-Andria-Trani",
+      "sezioni": "",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Brindisi",
+      "sezioni": "",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Foggia",
+      "sezioni": "Sezione di Archivio di Stato di Lucera",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Lecce",
+      "sezioni": "",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Taranto",
+      "sezioni": "",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "Archivio di Stato di Cagliari",
+      "sezioni": "",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "Archivio di Stato di Nuoro",
+      "sezioni": "",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "Archivio di Stato di Oristano",
+      "sezioni": "",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "Archivio di Stato di Sassari",
+      "sezioni": "",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "Archivio di Stato di Agrigento",
+      "sezioni": "Sezione di Archivio di Stato di Sciacca",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Caltanissetta",
+      "sezioni": "",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Catania",
+      "sezioni": "Sezione di Archivio di Stato di Caltagirone",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Enna",
+      "sezioni": "",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Messina",
+      "sezioni": "",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Palermo",
+      "sezioni": "Sezione di Archivio di Stato di Termini Imerese",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Ragusa",
+      "sezioni": "Sezione di Archivio di Stato di Modica",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Siracusa",
+      "sezioni": "Sezione di Archivio di Stato di Noto",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Trapani",
+      "sezioni": "",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "Archivio di Stato di Arezzo",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Firenze",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Grosseto",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Livorno",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Lucca",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Massa",
+      "sezioni": "Sezione di Archivio di Stato di Pontremoli",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Pisa",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Pistoia",
+      "sezioni": "Sezione di Archivio di Stato di Pescia",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Prato",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Siena",
+      "sezioni": "",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Archivio di Stato di Bolzano",
+      "sezioni": "",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "nome": "Archivio di Stato di Trento",
+      "sezioni": "",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "nome": "Archivio di Stato di Perugia",
+      "sezioni": "Sezione di Archivio di Stato di Assisi; Sezione di Archivio di Stato di Foligno; Sezione di Archivio di Stato di Gubbio; Sezione di Archivio di Stato di Spoleto",
+      "regione": "Umbria"
+    },
+    {
+      "nome": "Archivio di Stato di Terni",
+      "sezioni": "Sezione di Archivio di Stato di Orvieto",
+      "regione": "Umbria"
+    },
+    {
+      "nome": "Archivio di Stato di Belluno",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Padova",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Rovigo",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Treviso",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Venezia",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Verona",
+      "sezioni": "",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "Archivio di Stato di Vicenza",
+      "sezioni": "Sezione di Archivio di Stato di Bassano del Grappa",
+      "regione": "Veneto"
+    }
+  ],
+  "meta": {
+    "title": "Archivi di Stato italiani - Free Download",
+    "description": "Elenco degli Archivi di Stato italiani e relative sezioni, suddivisi per regione. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Archivi di Stato italiani | ListBase",
+    "seo_description": "Download Archivi di Stato italiani — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lista_degli_Archivi_di_Stato_italiani"
+    ]
+  }
+}

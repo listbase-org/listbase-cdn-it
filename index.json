@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-06T02:30:15.473Z",
-  "total_datasets": 521,
-  "total_records": 141797,
+  "generated": "2026-11-06T02:30:22.137Z",
+  "total_datasets": 522,
+  "total_records": 141898,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "reference",
-      "dataset_count": 381
+      "dataset_count": 382
     },
     {
       "id": "science",
@@ -2623,6 +2623,30 @@
         "xlsx": {
           "name": "it-aosta-unlocode_IT.xlsx",
           "size": 9517
+        }
+      }
+    },
+    {
+      "id": "it-archivi-di-stato",
+      "name": "Archivi di Stato italiani",
+      "category": "reference",
+      "record_count": 101,
+      "columns": [
+        "nome",
+        "sezioni",
+        "regione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lista_degli_Archivi_di_Stato_italiani",
+      "updated": "2026-11",
+      "size": 13690,
+      "files": {
+        "csv": {
+          "name": "it-archivi-di-stato_IT.csv",
+          "size": 5967
+        },
+        "xlsx": {
+          "name": "it-archivi-di-stato_IT.xlsx",
+          "size": 9257
         }
       }
     },
