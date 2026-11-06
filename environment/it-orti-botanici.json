@@ -1,0 +1,392 @@
+{
+  "id": "it-orti-botanici",
+  "name": "Orti e giardini botanici in Italia",
+  "title": "Orti e giardini botanici in Italia",
+  "description": "Elenco di orti botanici e giardini botanici italiani per regione.",
+  "category": "environment",
+  "source": "https://it.wikipedia.org/wiki/Orti_botanici_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Orti_botanici_in_Italia",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "orto botanico dell'Università dell'Aquila",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico alpino di Campo Imperatore",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino dei Semplici",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico Gole del Sagittario",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico Michele Tenore",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "orto botanico riserva Lago di Penne",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico e arboreto appenninico del Parco nazionale d'Abruzzo, Lazio e Molise",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico Mediterraneo",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico Daniela Brescia",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "giardino botanico Loreto Grande",
+      "regione": "Abruzzo"
+    },
+    {
+      "nome": "Orto botanico di Castel Lagopesole",
+      "regione": "Basilicata"
+    },
+    {
+      "nome": "orto botanico dell'Università della Calabria",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "giardini pubblici \"Umberto I\" di Reggio Calabria",
+      "regione": "Calabria"
+    },
+    {
+      "nome": "orto botanico di Napoli",
+      "regione": "Campania"
+    },
+    {
+      "nome": "orto botanico di Portici",
+      "regione": "Campania"
+    },
+    {
+      "nome": "giardini La Mortella",
+      "regione": "Campania"
+    },
+    {
+      "nome": "giardino della Minerva",
+      "regione": "Campania"
+    },
+    {
+      "nome": "orto botanico dell'Università di Bologna",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "orto botanico di Ferrara",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "Orto botanico dell'Università di Modena e Reggio Emilia",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "orto botanico di Parma",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "giardino delle Erbe",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "civico orto botanico Ulisse Aldrovandi",
+      "regione": "Emilia-Romagna"
+    },
+    {
+      "nome": "orto botanico universitario",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "orto botanico di Trieste",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "giardino botanico Cormor",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "giardino botanico Carsiana",
+      "regione": "Friuli-Venezia Giulia"
+    },
+    {
+      "nome": "orto botanico di Roma",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "orto botanico dell'Università di Tor Vergata",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "orto botanico dell'Università della Tuscia",
+      "regione": "Lazio"
+    },
+    {
+      "nome": "orto botanico dell'Università di Genova",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "orto botanico Villa Beuca",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "orto botanico di Montemarcello",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "giardino botanico Clelia Durazzo Grimaldi",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "giardini botanici Hanbury",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "giardino botanico montano di Pratorondanino",
+      "regione": "Liguria"
+    },
+    {
+      "nome": "orto botanico Lorenzo Rota",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "orto botanico di Brera",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "orto botanico di Pavia",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "orto botanico \"Giordano Emilio Ghirardi\"",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "giardino botanico André Heller",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "giardino botanico di castello Quistini",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "giardino botanico alpino Rezia",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "giardino botanico alpino di Pietra Corva",
+      "regione": "Lombardia"
+    },
+    {
+      "nome": "orto botanico Selva di Gallignano",
+      "regione": "Marche"
+    },
+    {
+      "nome": "orto botanico di Camerino",
+      "regione": "Marche"
+    },
+    {
+      "nome": "orto botanico di Urbino",
+      "regione": "Marche"
+    },
+    {
+      "nome": "giardino botanico \"Benito Di Lorenzo\"",
+      "regione": "Marche"
+    },
+    {
+      "nome": "orto botanico di Pesaro",
+      "regione": "Marche"
+    },
+    {
+      "nome": "giardino della flora appenninica",
+      "regione": "Molise"
+    },
+    {
+      "nome": "orto botanico di Torino",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "giardino botanico di Alessandria",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "giardino botanico alpino di Oropa",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "giardini botanici di Villa Taranto",
+      "regione": "Piemonte"
+    },
+    {
+      "nome": "orto botanico di Bari",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "orto botanico di Lecce",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "orto botanico del Salento",
+      "regione": "Puglia"
+    },
+    {
+      "nome": "orto botanico di Cagliari",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "orto botanico di Sassari",
+      "regione": "Sardegna"
+    },
+    {
+      "nome": "orto botanico di Palermo",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "orto botanico di Catania",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "orto botanico di Messina",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "giardino botanico Nuova Gussonea",
+      "regione": "Sicilia"
+    },
+    {
+      "nome": "giardino dei semplici",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico di Pisa",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico forestale dell'Abetone",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico di Vico d'Elsa",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico comunale",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico Pellegrini-Ansaldi",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico di Vallombrosa",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto dei semplici Elbano",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "orto botanico di Siena",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "Giardino Botanico \"Maria Ansaldi\" Pania di Corfino",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "roseto botanico Carla Fineschi",
+      "regione": "Toscana"
+    },
+    {
+      "nome": "giardini di Castel Trauttmansdorff",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "nome": "giardino botanico alpino Viote",
+      "regione": "Trentino-Alto Adige"
+    },
+    {
+      "nome": "orto botanico di Perugia",
+      "regione": "Umbria"
+    },
+    {
+      "nome": "giardino alpino Saussurea",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "nome": "giardino alpino Castel Savoia",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "nome": "giardino alpino Chanousia",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "nome": "giardino alpino Paradisia",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "nome": "orto botanico di Padova",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "orto botanico Locatelli",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "giardino botanico della Scuola Media Statale Enrico Toti",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "orto botanico conservativo Francesco Busnello",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "giardino botanico delle Alpi Orientali",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "giardino botanico alpino San Marco",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "orto botanico del Monte Baldo",
+      "regione": "Veneto"
+    },
+    {
+      "nome": "giardino botanico alpino di Tambre",
+      "regione": "Veneto"
+    }
+  ],
+  "meta": {
+    "title": "Orti e giardini botanici in Italia - Free Download",
+    "description": "Elenco di orti botanici e giardini botanici italiani per regione. Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Orti e giardini botanici in Italia | ListBase",
+    "seo_description": "Download Orti e giardini botanici in Italia — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Orti_botanici_in_Italia"
+    ]
+  }
+}
