@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-06T02:30:00.742Z",
-  "total_datasets": 519,
-  "total_records": 141319,
+  "generated": "2026-11-06T02:30:07.396Z",
+  "total_datasets": 520,
+  "total_records": 141397,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "health",
@@ -1226,6 +1226,30 @@
         "xlsx": {
           "name": "it-fiumi_IT.xlsx",
           "size": 8389
+        }
+      }
+    },
+    {
+      "id": "it-fiumi-portata",
+      "name": "Fiumi d'Italia per portata media",
+      "category": "geography",
+      "record_count": 78,
+      "columns": [
+        "fiume",
+        "portata_media_m3s",
+        "regioni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+      "updated": "2026-11",
+      "size": 9566,
+      "files": {
+        "csv": {
+          "name": "it-fiumi-portata_IT.csv",
+          "size": 2632
+        },
+        "xlsx": {
+          "name": "it-fiumi-portata_IT.xlsx",
+          "size": 8797
         }
       }
     },

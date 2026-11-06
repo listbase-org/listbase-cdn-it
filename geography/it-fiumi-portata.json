@@ -1,0 +1,431 @@
+{
+  "id": "it-fiumi-portata",
+  "name": "Fiumi d'Italia per portata media",
+  "title": "Fiumi d'Italia per portata media",
+  "description": "Elenco dei fiumi d'Italia con portata media alla foce superiore a 10 m³/s.",
+  "category": "geography",
+  "source": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+  "updated": "2026-11",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "fiume",
+      "label": "Fiume",
+      "type": "string"
+    },
+    {
+      "key": "portata_media_m3s",
+      "label": "Portata Media M3s",
+      "type": "number"
+    },
+    {
+      "key": "regioni",
+      "label": "Regioni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fiume": "Po",
+      "portata_media_m3s": 1540,
+      "regioni": "Piemonte, Lombardia, Emilia-Romagna, Veneto"
+    },
+    {
+      "fiume": "Ticino",
+      "portata_media_m3s": 348,
+      "regioni": "Svizzera, Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Tevere",
+      "portata_media_m3s": 324,
+      "regioni": "Emilia-Romagna, Toscana, Umbria, Lazio"
+    },
+    {
+      "fiume": "Adige",
+      "portata_media_m3s": 235,
+      "regioni": "Trentino-Alto Adige, Veneto"
+    },
+    {
+      "fiume": "Adda",
+      "portata_media_m3s": 187,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Isonzo",
+      "portata_media_m3s": 170,
+      "regioni": "Slovenia, Friuli-Venezia Giulia"
+    },
+    {
+      "fiume": "Nera",
+      "portata_media_m3s": 160,
+      "regioni": "Marche, Umbria, Lazio"
+    },
+    {
+      "fiume": "Oglio",
+      "portata_media_m3s": 137,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Piave",
+      "portata_media_m3s": 137,
+      "regioni": "Veneto, Friuli-Venezia Giulia"
+    },
+    {
+      "fiume": "Liri-Garigliano",
+      "portata_media_m3s": 120,
+      "regioni": "Abruzzo, Lazio, Campania"
+    },
+    {
+      "fiume": "Tanaro",
+      "portata_media_m3s": 116,
+      "regioni": "Liguria, Piemonte"
+    },
+    {
+      "fiume": "Mulinello",
+      "portata_media_m3s": 111,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Dora Baltea",
+      "portata_media_m3s": 96,
+      "regioni": "Valle d'Aosta, Piemonte"
+    },
+    {
+      "fiume": "Reno",
+      "portata_media_m3s": 95,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Brenta",
+      "portata_media_m3s": 93,
+      "regioni": "Trentino-Alto Adige, Veneto"
+    },
+    {
+      "fiume": "Livenza",
+      "portata_media_m3s": 85,
+      "regioni": "Friuli-Venezia Giulia, Veneto"
+    },
+    {
+      "fiume": "Volturno",
+      "portata_media_m3s": 83,
+      "regioni": "Molise, Campania"
+    },
+    {
+      "fiume": "Isarco",
+      "portata_media_m3s": 78,
+      "regioni": "Trentino-Alto Adige"
+    },
+    {
+      "fiume": "Sesia",
+      "portata_media_m3s": 70.4,
+      "regioni": "Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Tagliamento",
+      "portata_media_m3s": 70,
+      "regioni": "Friuli-Venezia Giulia"
+    },
+    {
+      "fiume": "Toce",
+      "portata_media_m3s": 70,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Sele",
+      "portata_media_m3s": 69,
+      "regioni": "Campania"
+    },
+    {
+      "fiume": "Mincio",
+      "portata_media_m3s": 60,
+      "regioni": "Veneto, Lombardia"
+    },
+    {
+      "fiume": "Velino",
+      "portata_media_m3s": 60,
+      "regioni": "Lazio, Umbria"
+    },
+    {
+      "fiume": "Rienza",
+      "portata_media_m3s": 60,
+      "regioni": "Trentino-Alto Adige"
+    },
+    {
+      "fiume": "Aterno - Pescara",
+      "portata_media_m3s": 57,
+      "regioni": "Abruzzo"
+    },
+    {
+      "fiume": "Sile",
+      "portata_media_m3s": 55,
+      "regioni": "Veneto"
+    },
+    {
+      "fiume": "Stura di Demonte",
+      "portata_media_m3s": 47,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Serchio",
+      "portata_media_m3s": 46,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Noce",
+      "portata_media_m3s": 46,
+      "regioni": "Trentino-Alto Adige"
+    },
+    {
+      "fiume": "Secchia",
+      "portata_media_m3s": 42,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Bormida",
+      "portata_media_m3s": 40,
+      "regioni": "Liguria, Piemonte"
+    },
+    {
+      "fiume": "Magra",
+      "portata_media_m3s": 40,
+      "regioni": "Toscana, Liguria"
+    },
+    {
+      "fiume": "Trebbia",
+      "portata_media_m3s": 40,
+      "regioni": "Liguria, Emilia-Romagna, Lombardia"
+    },
+    {
+      "fiume": "Agogna",
+      "portata_media_m3s": 40,
+      "regioni": "Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Panaro",
+      "portata_media_m3s": 36,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Crati",
+      "portata_media_m3s": 36,
+      "regioni": "Calabria"
+    },
+    {
+      "fiume": "Aniene",
+      "portata_media_m3s": 35,
+      "regioni": "Lazio"
+    },
+    {
+      "fiume": "Fella",
+      "portata_media_m3s": 35,
+      "regioni": "Friuli-Venezia Giulia"
+    },
+    {
+      "fiume": "Stura di Lanzo",
+      "portata_media_m3s": 32,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Ombrone Grossetano",
+      "portata_media_m3s": 32,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Calore Irpino",
+      "portata_media_m3s": 32,
+      "regioni": "Campania"
+    },
+    {
+      "fiume": "Bacchiglione",
+      "portata_media_m3s": 30,
+      "regioni": "Veneto"
+    },
+    {
+      "fiume": "Brembo",
+      "portata_media_m3s": 30,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Calore Lucano",
+      "portata_media_m3s": 30,
+      "regioni": "Campania"
+    },
+    {
+      "fiume": "Taro",
+      "portata_media_m3s": 30,
+      "regioni": "Liguria, Emilia-Romagna"
+    },
+    {
+      "fiume": "Dora Riparia",
+      "portata_media_m3s": 26,
+      "regioni": "Francia, Piemonte"
+    },
+    {
+      "fiume": "Simeto",
+      "portata_media_m3s": 25,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Rapido o Gari",
+      "portata_media_m3s": 25,
+      "regioni": "Lazio"
+    },
+    {
+      "fiume": "Orco",
+      "portata_media_m3s": 24,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Serio",
+      "portata_media_m3s": 23,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Scrivia",
+      "portata_media_m3s": 23,
+      "regioni": "Piemonte, Lombardia, Liguria"
+    },
+    {
+      "fiume": "Flumendosa",
+      "portata_media_m3s": 22,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Metauro",
+      "portata_media_m3s": 21,
+      "regioni": "Toscana, Marche"
+    },
+    {
+      "fiume": "Cordevole",
+      "portata_media_m3s": 21,
+      "regioni": "Veneto"
+    },
+    {
+      "fiume": "Sieve",
+      "portata_media_m3s": 20,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Tanagro",
+      "portata_media_m3s": 20,
+      "regioni": "Basilicata, Campania"
+    },
+    {
+      "fiume": "Sangro",
+      "portata_media_m3s": 20,
+      "regioni": "Abruzzo, Molise"
+    },
+    {
+      "fiume": "Chiascio",
+      "portata_media_m3s": 19,
+      "regioni": "Umbria"
+    },
+    {
+      "fiume": "Coghinas",
+      "portata_media_m3s": 18,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Tirso",
+      "portata_media_m3s": 16,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Idice",
+      "portata_media_m3s": 16,
+      "regioni": "Toscana, Emilia-Romagna"
+    },
+    {
+      "fiume": "Santerno",
+      "portata_media_m3s": 16,
+      "regioni": "Toscana, Emilia-Romagna"
+    },
+    {
+      "fiume": "Olona",
+      "portata_media_m3s": 15,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Entella",
+      "portata_media_m3s": 14,
+      "regioni": "Liguria"
+    },
+    {
+      "fiume": "Sarno",
+      "portata_media_m3s": 13,
+      "regioni": "Campania"
+    },
+    {
+      "fiume": "Lambro",
+      "portata_media_m3s": 12,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Nestore",
+      "portata_media_m3s": 11,
+      "regioni": "Umbria"
+    },
+    {
+      "fiume": "Parma",
+      "portata_media_m3s": 11,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Paglia",
+      "portata_media_m3s": 11,
+      "regioni": "Toscana, Umbria"
+    },
+    {
+      "fiume": "Neto",
+      "portata_media_m3s": 11,
+      "regioni": "Calabria"
+    },
+    {
+      "fiume": "Albegna",
+      "portata_media_m3s": 11,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Candigliano",
+      "portata_media_m3s": 10,
+      "regioni": "Umbria, Marche"
+    },
+    {
+      "fiume": "Tammaro",
+      "portata_media_m3s": 10,
+      "regioni": "Molise, Campania"
+    },
+    {
+      "fiume": "Topino",
+      "portata_media_m3s": 10,
+      "regioni": "Umbria"
+    },
+    {
+      "fiume": "Alcantara",
+      "portata_media_m3s": 10,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Marecchia",
+      "portata_media_m3s": 10,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Senio",
+      "portata_media_m3s": 10,
+      "regioni": "Toscana, Emilia-Romagna"
+    }
+  ],
+  "meta": {
+    "title": "Fiumi d'Italia per portata media - Free Download",
+    "description": "Elenco dei fiumi d'Italia con portata media alla foce superiore a 10 m³/s. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiumi d'Italia per portata media | ListBase",
+    "seo_description": "Download Fiumi d'Italia per portata media — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Fiumi_d'Italia"
+    ]
+  }
+}
