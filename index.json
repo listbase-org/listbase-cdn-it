@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-06T02:29:52.474Z",
-  "total_datasets": 518,
-  "total_records": 141261,
+  "generated": "2026-11-06T02:30:00.742Z",
+  "total_datasets": 519,
+  "total_records": 141319,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "health",
@@ -1202,6 +1202,30 @@
         "xlsx": {
           "name": "it-comuni_IT.xlsx",
           "size": 386530
+        }
+      }
+    },
+    {
+      "id": "it-fiumi",
+      "name": "Fiumi d'Italia (oltre 100 km)",
+      "category": "geography",
+      "record_count": 58,
+      "columns": [
+        "fiume",
+        "lunghezza_km",
+        "regioni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+      "updated": "2026-11",
+      "size": 7376,
+      "files": {
+        "csv": {
+          "name": "it-fiumi_IT.csv",
+          "size": 2178
+        },
+        "xlsx": {
+          "name": "it-fiumi_IT.xlsx",
+          "size": 8389
         }
       }
     },

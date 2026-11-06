@@ -1,0 +1,331 @@
+{
+  "id": "it-fiumi",
+  "name": "Fiumi d'Italia (oltre 100 km)",
+  "title": "Fiumi d'Italia (oltre 100 km)",
+  "description": "Elenco dei fiumi d'Italia lunghi più di 100 km, con lunghezza e regioni attraversate.",
+  "category": "geography",
+  "source": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Fiumi_d'Italia",
+  "updated": "2026-11",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "fiume",
+      "label": "Fiume",
+      "type": "string"
+    },
+    {
+      "key": "lunghezza_km",
+      "label": "Lunghezza Km",
+      "type": "number"
+    },
+    {
+      "key": "regioni",
+      "label": "Regioni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fiume": "Po",
+      "lunghezza_km": 652,
+      "regioni": "Piemonte, Lombardia, Emilia-Romagna, Veneto"
+    },
+    {
+      "fiume": "Adige",
+      "lunghezza_km": 410,
+      "regioni": "Trentino-Alto Adige, Veneto"
+    },
+    {
+      "fiume": "Tevere",
+      "lunghezza_km": 405,
+      "regioni": "Emilia-Romagna, Toscana, Umbria, Lazio"
+    },
+    {
+      "fiume": "Adda",
+      "lunghezza_km": 313,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Oglio",
+      "lunghezza_km": 280,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Tanaro",
+      "lunghezza_km": 276,
+      "regioni": "Piemonte, Liguria"
+    },
+    {
+      "fiume": "Ticino",
+      "lunghezza_km": 248,
+      "regioni": "Svizzera, Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Arno",
+      "lunghezza_km": 241,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Piave",
+      "lunghezza_km": 231,
+      "regioni": "Friuli-Venezia Giulia, Veneto"
+    },
+    {
+      "fiume": "Reno",
+      "lunghezza_km": 212,
+      "regioni": "Toscana, Emilia-Romagna"
+    },
+    {
+      "fiume": "Sarca-Mincio",
+      "lunghezza_km": 203,
+      "regioni": "Trentino-Alto Adige, Veneto, Lombardia"
+    },
+    {
+      "fiume": "Volturno",
+      "lunghezza_km": 175,
+      "regioni": "Molise, Campania"
+    },
+    {
+      "fiume": "Brenta",
+      "lunghezza_km": 174,
+      "regioni": "Trentino-Alto Adige, Veneto"
+    },
+    {
+      "fiume": "Secchia",
+      "lunghezza_km": 172,
+      "regioni": "Emilia-Romagna, Lombardia"
+    },
+    {
+      "fiume": "Tagliamento",
+      "lunghezza_km": 170,
+      "regioni": "Friuli-Venezia Giulia, Veneto"
+    },
+    {
+      "fiume": "Ombrone",
+      "lunghezza_km": 160,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Chiese",
+      "lunghezza_km": 160,
+      "regioni": "Trentino-Alto Adige, Lombardia"
+    },
+    {
+      "fiume": "Dora Baltea",
+      "lunghezza_km": 168,
+      "regioni": "Valle d'Aosta, Piemonte"
+    },
+    {
+      "fiume": "Liri - Garigliano",
+      "lunghezza_km": 158,
+      "regioni": "Abruzzo, Lazio, Campania"
+    },
+    {
+      "fiume": "Bormida",
+      "lunghezza_km": 153,
+      "regioni": "Liguria, Piemonte"
+    },
+    {
+      "fiume": "Aterno-Pescara",
+      "lunghezza_km": 152,
+      "regioni": "Abruzzo"
+    },
+    {
+      "fiume": "Tirso",
+      "lunghezza_km": 152,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Basento",
+      "lunghezza_km": 149,
+      "regioni": "Basilicata"
+    },
+    {
+      "fiume": "Panaro",
+      "lunghezza_km": 148,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Tartaro-Canalbianco-Po di Levante",
+      "lunghezza_km": 147,
+      "regioni": "Veneto, Lombardia"
+    },
+    {
+      "fiume": "Imera meridionale o Salso",
+      "lunghezza_km": 144,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Agogna",
+      "lunghezza_km": 140,
+      "regioni": "Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Sesia",
+      "lunghezza_km": 139,
+      "regioni": "Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Isonzo",
+      "lunghezza_km": 136,
+      "regioni": "Slovenia, Friuli-Venezia Giulia"
+    },
+    {
+      "fiume": "Agri",
+      "lunghezza_km": 136,
+      "regioni": "Basilicata"
+    },
+    {
+      "fiume": "Ofanto",
+      "lunghezza_km": 134,
+      "regioni": "Campania, Basilicata, Puglia"
+    },
+    {
+      "fiume": "Olona",
+      "lunghezza_km": 131,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Lambro",
+      "lunghezza_km": 130,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Flumendosa",
+      "lunghezza_km": 127,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Savio",
+      "lunghezza_km": 126,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Taro",
+      "lunghezza_km": 126,
+      "regioni": "Emilia-Romagna"
+    },
+    {
+      "fiume": "Serchio",
+      "lunghezza_km": 126,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Serio",
+      "lunghezza_km": 124,
+      "regioni": "Lombardia"
+    },
+    {
+      "fiume": "Riu Mannu di Berchidda - Coghinas",
+      "lunghezza_km": 123,
+      "regioni": "Sardegna"
+    },
+    {
+      "fiume": "Sangro",
+      "lunghezza_km": 122,
+      "regioni": "Abruzzo"
+    },
+    {
+      "fiume": "Metauro",
+      "lunghezza_km": 121,
+      "regioni": "Marche"
+    },
+    {
+      "fiume": "Bradano",
+      "lunghezza_km": 120,
+      "regioni": "Basilicata, Puglia"
+    },
+    {
+      "fiume": "Trebbia",
+      "lunghezza_km": 120,
+      "regioni": "Liguria, Emilia-Romagna"
+    },
+    {
+      "fiume": "Bacchiglione",
+      "lunghezza_km": 118,
+      "regioni": "Veneto"
+    },
+    {
+      "fiume": "Scrivia",
+      "lunghezza_km": 117,
+      "regioni": "Liguria, Piemonte, Lombardia"
+    },
+    {
+      "fiume": "Nera",
+      "lunghezza_km": 116,
+      "regioni": "Marche, Umbria, Lazio"
+    },
+    {
+      "fiume": "Tronto",
+      "lunghezza_km": 115,
+      "regioni": "Marche, Lazio, Abruzzo"
+    },
+    {
+      "fiume": "Stura di Demonte",
+      "lunghezza_km": 115,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Simeto",
+      "lunghezza_km": 113,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Livenza",
+      "lunghezza_km": 112,
+      "regioni": "Friuli-Venezia Giulia, Veneto"
+    },
+    {
+      "fiume": "Serchio",
+      "lunghezza_km": 111,
+      "regioni": "Toscana"
+    },
+    {
+      "fiume": "Maira",
+      "lunghezza_km": 111,
+      "regioni": "Piemonte"
+    },
+    {
+      "fiume": "Calore Irpino",
+      "lunghezza_km": 108,
+      "regioni": "Campania"
+    },
+    {
+      "fiume": "Cervaro",
+      "lunghezza_km": 107,
+      "regioni": "Campania, Puglia"
+    },
+    {
+      "fiume": "Belice",
+      "lunghezza_km": 107,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Noce",
+      "lunghezza_km": 105,
+      "regioni": "Trentino-Alto Adige"
+    },
+    {
+      "fiume": "Platani",
+      "lunghezza_km": 103,
+      "regioni": "Sicilia"
+    },
+    {
+      "fiume": "Dora Riparia",
+      "lunghezza_km": 101,
+      "regioni": "Piemonte"
+    }
+  ],
+  "meta": {
+    "title": "Fiumi d'Italia (oltre 100 km) - Free Download",
+    "description": "Elenco dei fiumi d'Italia lunghi più di 100 km, con lunghezza e regioni attraversate. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fiumi d'Italia (oltre 100 km) | ListBase",
+    "seo_description": "Download Fiumi d'Italia (oltre 100 km) — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Fiumi_d'Italia"
+    ]
+  }
+}
