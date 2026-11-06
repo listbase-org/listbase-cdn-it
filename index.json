@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-06T02:30:07.396Z",
-  "total_datasets": 520,
-  "total_records": 141397,
+  "generated": "2026-11-06T02:30:15.473Z",
+  "total_datasets": 521,
+  "total_records": 141797,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -222,6 +222,34 @@
         "xlsx": {
           "name": "it-vini-docg_IT.xlsx",
           "size": 10789
+        }
+      }
+    },
+    {
+      "id": "it-cattedrali",
+      "name": "Cattedrali e concattedrali in Italia",
+      "category": "culture",
+      "record_count": 400,
+      "columns": [
+        "citta",
+        "nome",
+        "tipo",
+        "diocesi",
+        "provincia",
+        "regione",
+        "costruzione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Cattedrali_in_Italia",
+      "updated": "2026-11",
+      "size": 96386,
+      "files": {
+        "csv": {
+          "name": "it-cattedrali_IT.csv",
+          "size": 40259
+        },
+        "xlsx": {
+          "name": "it-cattedrali_IT.xlsx",
+          "size": 25751
         }
       }
     },

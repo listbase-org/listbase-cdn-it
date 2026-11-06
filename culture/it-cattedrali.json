@@ -1,0 +1,3661 @@
+{
+  "id": "it-cattedrali",
+  "name": "Cattedrali e concattedrali in Italia",
+  "title": "Cattedrali e concattedrali in Italia",
+  "description": "Elenco delle cattedrali e concattedrali italiane con città, diocesi, provincia, regione e periodo di costruzione.",
+  "category": "culture",
+  "source": "https://it.wikipedia.org/wiki/Cattedrali_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Cattedrali_in_Italia",
+  "updated": "2026-11",
+  "record_count": 400,
+  "columns": [
+    {
+      "key": "citta",
+      "label": "Citta",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "diocesi",
+      "label": "Diocesi",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "costruzione",
+      "label": "Costruzione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "citta": "Acerenza",
+      "nome": "Santa Maria Assunta e San Canio Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Acerenza",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": "dal 1080"
+    },
+    {
+      "citta": "Acerra",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Acerra",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": "restauro XIX secolo"
+    },
+    {
+      "citta": "Acireale",
+      "nome": "Maria Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Acireale",
+      "provincia": "Catania",
+      "regione": "Sicilia",
+      "costruzione": "1597-1618"
+    },
+    {
+      "citta": "Acqui Terme",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Acqui",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "costruzione": "X-XI secolo"
+    },
+    {
+      "citta": "Adria",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Adria-Rovigo",
+      "provincia": "Rovigo",
+      "regione": "Veneto",
+      "costruzione": "XVIII secolo"
+    },
+    {
+      "citta": "Agrigento",
+      "nome": "San Gerlando",
+      "tipo": "cattedrale",
+      "diocesi": "Agrigento",
+      "provincia": "Agrigento",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Alba",
+      "nome": "San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Alba",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Albano Laziale",
+      "nome": "San Pancrazio Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Albano",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "restauro 1721"
+    },
+    {
+      "citta": "Albenga",
+      "nome": "San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Albenga-Imperia",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "costruzione": "dal 1100"
+    },
+    {
+      "citta": "Ales",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Ales-Terralba",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Alessandria",
+      "nome": "Santi Pietro e Marco",
+      "tipo": "cattedrale",
+      "diocesi": "Alessandria",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Alghero",
+      "nome": "Beata Maria Vergine Immaculata Concezione",
+      "tipo": "cattedrale",
+      "diocesi": "Alghero-Bosa",
+      "provincia": "Sassari",
+      "regione": "Sardegna",
+      "costruzione": "1530-1593"
+    },
+    {
+      "citta": "Alife",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Alife-Caiazzo",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": "Riapertura 1692"
+    },
+    {
+      "citta": "Altamura",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Altamura-Gravina-Acquaviva delle Fonti",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "dal 1232"
+    },
+    {
+      "citta": "Amalfi",
+      "nome": "Sant'Andrea Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Amalfi-Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "dal 1203"
+    },
+    {
+      "citta": "Anagni",
+      "nome": "Maria Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Anagni-Alatri",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": "1072-1104"
+    },
+    {
+      "citta": "Ancona",
+      "nome": "San Ciriaco",
+      "tipo": "cattedrale",
+      "diocesi": "Ancona-Osimo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": "996-1017"
+    },
+    {
+      "citta": "Andria",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Andria",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": "XIV secolo"
+    },
+    {
+      "citta": "Aosta",
+      "nome": "San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Aosta",
+      "provincia": "",
+      "regione": "Val d'Aosta",
+      "costruzione": "XI secolo, restauro dal 1848"
+    },
+    {
+      "citta": "Arezzo",
+      "nome": "Santi Donato e Pietro",
+      "tipo": "cattedrale",
+      "diocesi": "Arezzo-Cortona-Sansepolcro",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "costruzione": "1278-1511"
+    },
+    {
+      "citta": "Ariano Irpino",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Ariano Irpino-Lacedonia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": "X secolo, restauro del XV secolo"
+    },
+    {
+      "citta": "Ascoli Piceno",
+      "nome": "Santa Maria Madre di Dio e Sant'Emidio",
+      "tipo": "cattedrale",
+      "diocesi": "Ascoli Piceno",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "costruzione": "V secolo-1539"
+    },
+    {
+      "citta": "Assisi",
+      "nome": "San Rufino",
+      "tipo": "cattedrale",
+      "diocesi": "Assisi-Nocera Umbra-Gualdo Tadino",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "1140-1253"
+    },
+    {
+      "citta": "Asti",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Asti",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "costruzione": "1266-1470"
+    },
+    {
+      "citta": "Avellino",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Avellino",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Aversa",
+      "nome": "San Paolo Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Aversa",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": "1053"
+    },
+    {
+      "citta": "Avezzano",
+      "nome": "San Bartolomeo Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Avezzano",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": "XX secolo"
+    },
+    {
+      "citta": "Bari",
+      "nome": "San Sabino",
+      "tipo": "cattedrale",
+      "diocesi": "Bari-Bitonto",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "XI-XII secolo"
+    },
+    {
+      "citta": "Belluno",
+      "nome": "San Martino",
+      "tipo": "cattedrale",
+      "diocesi": "Belluno-Feltre",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "costruzione": ""
+    },
+    {
+      "citta": "Benevento",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Benevento",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "costruzione": "VII secolo, completamento 1960"
+    },
+    {
+      "citta": "Bergamo",
+      "nome": "Sant'Alessandro",
+      "tipo": "cattedrale",
+      "diocesi": "Bergamo",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Biella",
+      "nome": "Santo Stefano",
+      "tipo": "cattedrale",
+      "diocesi": "Biella",
+      "provincia": "Biella",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bologna",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Bologna",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "costruzione": "dal 1390"
+    },
+    {
+      "citta": "Brescia",
+      "nome": "Santa Maria Assunta e Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Brescia",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "costruzione": "1610-1825"
+    },
+    {
+      "citta": "Bressanone",
+      "nome": "Santa Maria Assunta e San Cassiano",
+      "tipo": "cattedrale",
+      "diocesi": "Bolzano-Bressanone",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "costruzione": "X secolo-1754"
+    },
+    {
+      "citta": "Brindisi",
+      "nome": "Visitazione e San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Brindisi-Ostuni",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "costruzione": "consacrazione 1143"
+    },
+    {
+      "citta": "Cagliari",
+      "nome": "Santa Maria di Castello",
+      "tipo": "cattedrale",
+      "diocesi": "Cagliari",
+      "provincia": "Cagliari",
+      "regione": "Sardegna",
+      "costruzione": "XVIII secolo-1933"
+    },
+    {
+      "citta": "Caltagirone",
+      "nome": "San Giuliano",
+      "tipo": "cattedrale",
+      "diocesi": "Caltagirone",
+      "provincia": "Catania",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Caltanissetta",
+      "nome": "Santa Maria La Nova",
+      "tipo": "cattedrale",
+      "diocesi": "Caltanissetta",
+      "provincia": "Caltanissetta",
+      "regione": "Sicilia",
+      "costruzione": "1560-1620"
+    },
+    {
+      "citta": "Camerino",
+      "nome": "Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Camerino-San Severino Marche",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": "ricostruzione XIX secolo"
+    },
+    {
+      "citta": "Campobasso",
+      "nome": "Santissima Trinità",
+      "tipo": "cattedrale",
+      "diocesi": "Campobasso-Boiano",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "costruzione": ""
+    },
+    {
+      "citta": "Capua",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Capua",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Carpi",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Carpi",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Casale Monferrato",
+      "nome": "Sant'Evasio e San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Casale Monferrato",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "costruzione": "dal 1215"
+    },
+    {
+      "citta": "Caserta",
+      "nome": "San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Caserta",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cassano all'Ionio",
+      "nome": "Natività della Beata Vergine Maria",
+      "tipo": "cattedrale",
+      "diocesi": "Cassano all'Jonio",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cassino",
+      "nome": "Santa Maria Assunta e San Benedetto abate",
+      "tipo": "cattedrale",
+      "diocesi": "Montecassino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": "dal 1349"
+    },
+    {
+      "citta": "Castellaneta",
+      "nome": "Cattedrale di Castellaneta",
+      "tipo": "cattedrale",
+      "diocesi": "Castellaneta",
+      "provincia": "Taranto",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Catania",
+      "nome": "Santa Agata",
+      "tipo": "cattedrale",
+      "diocesi": "Catania",
+      "provincia": "Catania",
+      "regione": "Sicilia",
+      "costruzione": "dal 1709"
+    },
+    {
+      "citta": "Catanzaro",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Catanzaro-Squillace",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cava de' Tirreni",
+      "nome": "Santissima Trinità",
+      "tipo": "cattedrale",
+      "diocesi": "Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "restauro XVI secolo"
+    },
+    {
+      "citta": "Cefalù",
+      "nome": "Santissimo Salvatore della Trasfigurazione",
+      "tipo": "cattedrale",
+      "diocesi": "Cefalù",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "costruzione": "dal 1131"
+    },
+    {
+      "citta": "Cerignola",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Cerignola-Ascoli Satriano",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": "1873-1934"
+    },
+    {
+      "citta": "Cerreto Sannita",
+      "nome": "Santissima Trinità e Beata Vergine Maria Madre della Chiesa",
+      "tipo": "cattedrale",
+      "diocesi": "Cerreto Sannita-Telese-Sant'Agata de' Goti",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "costruzione": "1690-1736"
+    },
+    {
+      "citta": "Cesena",
+      "nome": "San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Cesena-Sarsina",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "costruzione": "dal 1385"
+    },
+    {
+      "citta": "Chiavari",
+      "nome": "Nostra Signora dell'Orto",
+      "tipo": "cattedrale",
+      "diocesi": "Chiavari",
+      "provincia": "Genova",
+      "regione": "Liguria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Chieti",
+      "nome": "Cattedrale di San Giustino",
+      "tipo": "cattedrale",
+      "diocesi": "Chieti-Vasto",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "costruzione": "dal XIII secolo"
+    },
+    {
+      "citta": "Chioggia",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Chioggia",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "ricostruzione 1623-1674"
+    },
+    {
+      "citta": "Chiusure",
+      "nome": "Santa Maria di Monte Oliveto Maggiore",
+      "tipo": "cattedrale",
+      "diocesi": "Monte Oliveto Maggiore",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": ""
+    },
+    {
+      "citta": "Città di Castello",
+      "nome": "Santi Florido e Amanzio",
+      "tipo": "cattedrale",
+      "diocesi": "Città di Castello",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Civita Castellana",
+      "nome": "Santa Maria Maggiore",
+      "tipo": "cattedrale",
+      "diocesi": "Civita Castellana",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": "esterno XII-XIII secolo, interno 1736-1740"
+    },
+    {
+      "citta": "Civitavecchia",
+      "nome": "San Francesco d'Assisi",
+      "tipo": "cattedrale",
+      "diocesi": "Civitavecchia-Tarquinia",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "consacrazione 1782"
+    },
+    {
+      "citta": "Como",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Como",
+      "provincia": "Como",
+      "regione": "Lombardia",
+      "costruzione": "1396-1770"
+    },
+    {
+      "citta": "Concordia Sagittaria",
+      "nome": "Santo Stefano Protomartire",
+      "tipo": "cattedrale",
+      "diocesi": "Concordia-Pordenone",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "1466-inizi XX sec."
+    },
+    {
+      "citta": "Conversano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Conversano-Monopoli",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "XI secolo-1379"
+    },
+    {
+      "citta": "Cosenza",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Cosenza-Bisignano",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Crema",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Crema",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "costruzione": "completamento 1284"
+    },
+    {
+      "citta": "Cremona",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Cremona",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "costruzione": "consacrazione 1196"
+    },
+    {
+      "citta": "Crotone",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": "dal XIV secolo"
+    },
+    {
+      "citta": "Cuneo",
+      "nome": "Santa Maria del Bosco",
+      "tipo": "cattedrale",
+      "diocesi": "Cuneo-Fossano",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Fabriano",
+      "nome": "San Venanzio Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Fabriano-Matelica",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": "1474-1515"
+    },
+    {
+      "citta": "Faenza",
+      "nome": "Santo Stefano",
+      "tipo": "cattedrale",
+      "diocesi": "Faenza-Modigliana",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "costruzione": "Basilica minore"
+    },
+    {
+      "citta": "Fano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Fano-Fossombrone-Cagli-Pergola",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Fermo",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Fermo",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Ferrara",
+      "nome": "San Giorgio",
+      "tipo": "cattedrale",
+      "diocesi": "Ferrara-Comacchio",
+      "provincia": "Ferrara",
+      "regione": "Emilia-Romagna",
+      "costruzione": "dal XII secolo"
+    },
+    {
+      "citta": "Fidenza",
+      "nome": "San Donnino Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Fidenza",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "costruzione": "dal 1117"
+    },
+    {
+      "citta": "Fiesole",
+      "nome": "San Romolo",
+      "tipo": "cattedrale",
+      "diocesi": "Fiesole",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "costruzione": "dal 1028"
+    },
+    {
+      "citta": "Firenze",
+      "nome": "Santa Maria del Fiore",
+      "tipo": "cattedrale",
+      "diocesi": "Firenze",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "costruzione": "1296-1436"
+    },
+    {
+      "citta": "Foggia",
+      "nome": "Santa Maria Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Foggia-Bovino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": "dal 1170"
+    },
+    {
+      "citta": "Foligno",
+      "nome": "San Feliciano",
+      "tipo": "cattedrale",
+      "diocesi": "Foligno",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "XII secolo"
+    },
+    {
+      "citta": "Forlì",
+      "nome": "Santa Croce",
+      "tipo": "cattedrale",
+      "diocesi": "Forlì-Bertinoro",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "costruzione": "XII secolo"
+    },
+    {
+      "citta": "Frascati",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Frascati",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "1599-1636"
+    },
+    {
+      "citta": "Frosinone",
+      "nome": "Cattedrale di Santa Maria Assunta (Frosinone)",
+      "tipo": "cattedrale",
+      "diocesi": "Frosinone-Veroli-Ferentino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": "XVIII-XIX secolo"
+    },
+    {
+      "citta": "Gaeta",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Gaeta",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": "1106-1903"
+    },
+    {
+      "citta": "Genova",
+      "nome": "San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Genova",
+      "provincia": "Genova",
+      "regione": "Liguria",
+      "costruzione": "dal 1100"
+    },
+    {
+      "citta": "Gorizia",
+      "nome": "Santi Ilario e Taziano",
+      "tipo": "cattedrale",
+      "diocesi": "Gorizia",
+      "provincia": "Gorizia",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Grosseto",
+      "nome": "San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Grosseto",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "costruzione": "1294-1302"
+    },
+    {
+      "citta": "Grottaferrata",
+      "nome": "Santa Maria di Grottaferrata",
+      "tipo": "cattedrale",
+      "diocesi": "Grottaferrata",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "dall'XI secolo"
+    },
+    {
+      "citta": "Gubbio",
+      "nome": "Santi Mariano e Giacomo Martiri",
+      "tipo": "cattedrale",
+      "diocesi": "Gubbio",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "dal XII secolo"
+    },
+    {
+      "citta": "Iglesias",
+      "nome": "Santa Chiara d'Assisi",
+      "tipo": "cattedrale",
+      "diocesi": "Iglesias",
+      "provincia": "Sulcis Iglesiente",
+      "regione": "Sardegna",
+      "costruzione": "1284-XVI secolo"
+    },
+    {
+      "citta": "Imola",
+      "nome": "San Cassiano Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Imola",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "costruzione": "1187-1271, restauro 1765-1781, completamento 1850"
+    },
+    {
+      "citta": "Ischia",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Ischia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": "dal 1388"
+    },
+    {
+      "citta": "Isernia",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Isernia-Venafro",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "costruzione": "dal 1349"
+    },
+    {
+      "citta": "Ivrea",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Ivrea",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "costruzione": "IX secolo, restauro 1785-1854"
+    },
+    {
+      "citta": "Jesi",
+      "nome": "San Settimio",
+      "tipo": "cattedrale",
+      "diocesi": "Jesi",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": "dal 1741"
+    },
+    {
+      "citta": "La Spezia",
+      "nome": "Cristo Re",
+      "tipo": "cattedrale",
+      "diocesi": "La Spezia-Sarzana-Brugnato",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "costruzione": "completamento 1975"
+    },
+    {
+      "citta": "Lamezia Terme",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Lamezia Terme",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lanciano",
+      "nome": "Madonna del Ponte",
+      "tipo": "cattedrale",
+      "diocesi": "Lanciano-Ortona",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lanusei",
+      "nome": "Santa Maria Maddalena",
+      "tipo": "cattedrale",
+      "diocesi": "Lanusei",
+      "provincia": "Ogliastra",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "L'Aquila",
+      "nome": "Santi Massimo e Giorgio",
+      "tipo": "cattedrale",
+      "diocesi": "L'Aquila",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": ""
+    },
+    {
+      "citta": "Latina",
+      "nome": "San Marco",
+      "tipo": "cattedrale",
+      "diocesi": "Latina-Terracina-Sezze-Priverno",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lecce",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Lecce",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "costruzione": "XII secolo-1670"
+    },
+    {
+      "citta": "Livorno",
+      "nome": "San Francesco",
+      "tipo": "cattedrale",
+      "diocesi": "Livorno",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "costruzione": "XVI-XVII secolo"
+    },
+    {
+      "citta": "Locri",
+      "nome": "Santa Maria del Mastro",
+      "tipo": "cattedrale",
+      "diocesi": "Locri-Gerace",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lodi",
+      "nome": "Vergine Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Lodi",
+      "provincia": "Lodi",
+      "regione": "Lombardia",
+      "costruzione": "1158-1284"
+    },
+    {
+      "citta": "Loreto",
+      "nome": "Santa Casa",
+      "tipo": "cattedrale",
+      "diocesi": "Loreto",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lucera",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Lucera-Troia",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lucca",
+      "nome": "San Martino",
+      "tipo": "cattedrale",
+      "diocesi": "Lucca",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "costruzione": "XI-XII secolo"
+    },
+    {
+      "citta": "Lungro",
+      "nome": "San Nicola di Mira",
+      "tipo": "cattedrale",
+      "diocesi": "Lungro",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": "Ricostruzione 1772 (1547 precedente tempio)"
+    },
+    {
+      "citta": "Macerata",
+      "nome": "San Giovanni",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Manfredonia",
+      "nome": "San Lorenzo Maiorano",
+      "tipo": "cattedrale",
+      "diocesi": "Manfredonia-Vieste-San Giovanni Rotondo",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": "completamento 1700"
+    },
+    {
+      "citta": "Mantova",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Mantova",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "costruzione": "ricostruzione 1395-1401"
+    },
+    {
+      "citta": "Massa",
+      "nome": "San Pietro Apostolo e San Francesco d'Assisi",
+      "tipo": "cattedrale",
+      "diocesi": "Massa Carrara-Pontremoli",
+      "provincia": "Massa-Carrara",
+      "regione": "Toscana",
+      "costruzione": "XV-XVIII secolo"
+    },
+    {
+      "citta": "Massa Marittima",
+      "nome": "San Cerbone Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Massa Marittima-Piombino",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "costruzione": ""
+    },
+    {
+      "citta": "Matera",
+      "nome": "Santa Maria della Bruna e Sant'Eustachio",
+      "tipo": "cattedrale",
+      "diocesi": "Matera-Irsina",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "costruzione": "dal 1230"
+    },
+    {
+      "citta": "Mazara del Vallo",
+      "nome": "Santissimo Salvatore",
+      "tipo": "cattedrale",
+      "diocesi": "Mazara del Vallo",
+      "provincia": "Trapani",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Melfi",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Melfi-Rapolla-Venosa",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": "1076-1770"
+    },
+    {
+      "citta": "Mercogliano",
+      "nome": "Santa Maria di Montevergine",
+      "tipo": "cattedrale",
+      "diocesi": "Montevergine",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": "XII secolo"
+    },
+    {
+      "citta": "Messina",
+      "nome": "Santa Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Messina-Lipari-Santa Lucia del Mela",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "costruzione": "consacrazione 1197"
+    },
+    {
+      "citta": "Milano",
+      "nome": "Santa Maria Nascente",
+      "tipo": "cattedrale",
+      "diocesi": "Milano",
+      "provincia": "Milano",
+      "regione": "Lombardia",
+      "costruzione": "1386-1965"
+    },
+    {
+      "citta": "Mileto",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Mileto-Nicotera-Tropea",
+      "provincia": "Vibo Valentia",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Modena",
+      "nome": "Santa Maria Assunta e San Geminiano",
+      "tipo": "cattedrale",
+      "diocesi": "Modena-Nonantola",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "costruzione": "1099-1184"
+    },
+    {
+      "citta": "Molfetta",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Molfetta-Ruvo-Giovinazzo-Terlizzi",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "dal 1699"
+    },
+    {
+      "citta": "Mondovì",
+      "nome": "San Donato",
+      "tipo": "cattedrale",
+      "diocesi": "Mondovì",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Monreale",
+      "nome": "Santa Maria Nuova",
+      "tipo": "cattedrale",
+      "diocesi": "Monreale",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "costruzione": "1172-1176"
+    },
+    {
+      "citta": "Montepulciano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Montepulciano-Chiusi-Pienza",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "1594-1680"
+    },
+    {
+      "citta": "Napoli",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Napoli",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": "completamento XIV secolo"
+    },
+    {
+      "citta": "Nardò",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Nardò-Gallipoli",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Nicosia (Italia)",
+      "nome": "San Nicola di Bari",
+      "tipo": "cattedrale",
+      "diocesi": "Nicosia",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Nocera Inferiore",
+      "nome": "San Prisco",
+      "tipo": "cattedrale",
+      "diocesi": "Nocera Inferiore-Sarno",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "consacrazione 1724"
+    },
+    {
+      "citta": "Nola",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Nola",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Noto",
+      "nome": "San Nicolò",
+      "tipo": "cattedrale",
+      "diocesi": "Noto",
+      "provincia": "Siracusa",
+      "regione": "Sicilia",
+      "costruzione": "completamento 1770, ricostruzione 2007"
+    },
+    {
+      "citta": "Novara",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Novara",
+      "provincia": "Novara",
+      "regione": "Piemonte",
+      "costruzione": "1863-1869"
+    },
+    {
+      "citta": "Nuoro",
+      "nome": "Santa Maria della Neve",
+      "tipo": "cattedrale",
+      "diocesi": "Nuoro",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "costruzione": "1835-1853"
+    },
+    {
+      "citta": "Oppido Mamertina",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Oppido Mamertina-Palmi",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Oria",
+      "nome": "Santa Maria Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Oria",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "costruzione": "dal XVIII secolo"
+    },
+    {
+      "citta": "Oristano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Oristano",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": "1131-XIX secolo"
+    },
+    {
+      "citta": "Orvieto",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Orvieto-Todi",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "costruzione": "dal 1290"
+    },
+    {
+      "citta": "Otranto",
+      "nome": "Maria Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Otranto",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "costruzione": "1068-XII secolo"
+    },
+    {
+      "citta": "Ozieri",
+      "nome": "Immacolata Concezione",
+      "tipo": "cattedrale",
+      "diocesi": "Ozieri",
+      "provincia": "Sassari",
+      "regione": "Sardegna",
+      "costruzione": "consacrazione 1893"
+    },
+    {
+      "citta": "Padova",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Padova",
+      "provincia": "Padova",
+      "regione": "Veneto",
+      "costruzione": "dal 1551"
+    },
+    {
+      "citta": "Palermo",
+      "nome": "Assunzione di Maria",
+      "tipo": "cattedrale",
+      "diocesi": "Palermo",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "costruzione": "completamento 1185"
+    },
+    {
+      "citta": "Palestrina",
+      "nome": "Sant'Agapito Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Palestrina",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Parma",
+      "nome": "Assunzione di Maria Virgine",
+      "tipo": "cattedrale",
+      "diocesi": "Parma",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "costruzione": "1074-1178"
+    },
+    {
+      "citta": "Patti",
+      "nome": "San Bartolomeo",
+      "tipo": "cattedrale",
+      "diocesi": "Patti",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pavia",
+      "nome": "Santa Maria Assunta e Santo Stefano Protomartire",
+      "tipo": "cattedrale",
+      "diocesi": "Pavia",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "costruzione": "dal 1488"
+    },
+    {
+      "citta": "Pennabilli",
+      "nome": "San Leo",
+      "tipo": "cattedrale",
+      "diocesi": "San Marino-Montefeltro",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Perugia",
+      "nome": "San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Perugia-Città della Pieve",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "1345-1490"
+    },
+    {
+      "citta": "Pesaro",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Pesaro",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pescara",
+      "nome": "San Cetteo Vescovo e Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Pescara-Penne",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "costruzione": "1933-1939"
+    },
+    {
+      "citta": "Pescia",
+      "nome": "Maria Santissima Assunta e San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Pescia",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "costruzione": "consacrazione 1062"
+    },
+    {
+      "citta": "Piacenza",
+      "nome": "Santa Giustina e Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Piacenza-Bobbio",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "costruzione": "1122-1233"
+    },
+    {
+      "citta": "Piana degli Albanesi",
+      "nome": "San Demetrio Megalomartire",
+      "tipo": "cattedrale",
+      "diocesi": "Piana degli Albanesi",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "costruzione": "1498-1589"
+    },
+    {
+      "citta": "Piazza Armerina",
+      "nome": "Maria Santissima delle Vittorie",
+      "tipo": "cattedrale",
+      "diocesi": "Piazza Armerina",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "costruzione": "1604-1719"
+    },
+    {
+      "citta": "Pinerolo",
+      "nome": "San Donato",
+      "tipo": "cattedrale",
+      "diocesi": "Pinerolo",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pisa",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Pisa",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "costruzione": "dal 1063"
+    },
+    {
+      "citta": "Pistoia",
+      "nome": "San Zenone",
+      "tipo": "cattedrale",
+      "diocesi": "Pistoia",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "costruzione": "X secolo"
+    },
+    {
+      "citta": "Pitigliano",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Pitigliano-Sovana-Orbetello",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "costruzione": "XVIII secolo"
+    },
+    {
+      "citta": "Poggio Mirteto",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Sabina-Poggio Mirteto",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pompei",
+      "nome": "Madonna del Rosario",
+      "tipo": "cattedrale",
+      "diocesi": "Pompei",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": "dal 1876"
+    },
+    {
+      "citta": "Potenza",
+      "nome": "San Gerardo Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Potenza-Muro Lucano-Marsico Nuovo",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": "dal XIII secolo"
+    },
+    {
+      "citta": "Pozzuoli",
+      "nome": "San Procolo Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Pozzuoli",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Prato",
+      "nome": "Santo Stefano",
+      "tipo": "cattedrale",
+      "diocesi": "Prato",
+      "provincia": "Prato",
+      "regione": "Toscana",
+      "costruzione": "completamento 1386"
+    },
+    {
+      "citta": "Ragusa",
+      "nome": "San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Ragusa",
+      "provincia": "Ragusa",
+      "regione": "Sicilia",
+      "costruzione": "1694-1777"
+    },
+    {
+      "citta": "Ravenna",
+      "nome": "Risurrezione di Nostro Signore Gesù Cristo",
+      "tipo": "cattedrale",
+      "diocesi": "Ravenna-Cervia",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "costruzione": "dal 1734, incompiuta"
+    },
+    {
+      "citta": "Reggio Calabria",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Reggio Calabria-Bova",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": "completamento 1928"
+    },
+    {
+      "citta": "Reggio nell'Emilia",
+      "nome": "Beata Vergine Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Reggio Emilia-Guastalla",
+      "provincia": "Reggio Emilia",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Rieti",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Rieti",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Rimini",
+      "nome": "Santa Colomba",
+      "tipo": "cattedrale",
+      "diocesi": "Rimini",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "costruzione": "completamento XV secolo"
+    },
+    {
+      "citta": "Roma",
+      "nome": "Sacri Cuori di Gesù e Maria",
+      "tipo": "cattedrale",
+      "diocesi": "Porto-Santa Rufina",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Roma",
+      "nome": "San Giovanni in Laterano",
+      "tipo": "cattedrale",
+      "diocesi": "Roma",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "fondazione IV secolo, estensione XIII secolo"
+    },
+    {
+      "citta": "Roma",
+      "nome": "Sant'Aurea",
+      "tipo": "cattedrale",
+      "diocesi": "Ostia",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Roma",
+      "nome": "Santa Caterina a Magnanapoli",
+      "tipo": "cattedrale",
+      "diocesi": "Ordinariato militare",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Roma",
+      "nome": "Santi Sergio e Bacco degli Ucraini",
+      "tipo": "cattedrale",
+      "diocesi": "Italia",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Rossano",
+      "nome": "Maria Santissima Achiropita",
+      "tipo": "cattedrale",
+      "diocesi": "Rossano-Cariati",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Salerno",
+      "nome": "San Matteo",
+      "tipo": "cattedrale",
+      "diocesi": "Salerno-Campagna-Acerno",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "1080-1085"
+    },
+    {
+      "citta": "Saluzzo",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Saluzzo",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "costruzione": "dal 1491"
+    },
+    {
+      "citta": "San Benedetto del Tronto",
+      "nome": "Santa Maria della Marina",
+      "tipo": "cattedrale",
+      "diocesi": "San Benedetto del Tronto-Ripatransone-Montalto",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "costruzione": "dal 1615"
+    },
+    {
+      "citta": "San Marco Argentano",
+      "nome": "San Nicola",
+      "tipo": "cattedrale",
+      "diocesi": "San Marco Argentano-Scalea",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "San Miniato",
+      "nome": "Santi Maria Assunta e Genesio",
+      "tipo": "cattedrale",
+      "diocesi": "San Miniato",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "costruzione": "consacrazione XII secolo"
+    },
+    {
+      "citta": "San Severo",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "San Severo",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sant'Angelo dei Lombardi",
+      "nome": "San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Sant'Angelo dei Lombardi-Conza-Nusco-Bisaccia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sassari",
+      "nome": "San Nicola di Bari",
+      "tipo": "cattedrale",
+      "diocesi": "Sassari",
+      "provincia": "Sassari",
+      "regione": "Sardegna",
+      "costruzione": "XII-XVIII secolo"
+    },
+    {
+      "citta": "Savona",
+      "nome": "Nostra Signora Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Savona-Noli",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "costruzione": "1589-1609"
+    },
+    {
+      "citta": "Senigallia",
+      "nome": "San Pietro apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Senigallia",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sessa Aurunca",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Sessa Aurunca",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Siena",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Siena-Colle di Val d'Elsa-Montalcino",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "XIII-XIV secolo"
+    },
+    {
+      "citta": "Siracusa",
+      "nome": "Natività di Maria Santissima",
+      "tipo": "cattedrale",
+      "diocesi": "Siracusa",
+      "provincia": "Siracusa",
+      "regione": "Sicilia",
+      "costruzione": "VII secolo, restauro 1728-1753"
+    },
+    {
+      "citta": "Sora",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Sora-Cassino-Aquino-Pontecorvo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": "dall'XI secolo, completamento XX secolo"
+    },
+    {
+      "citta": "Sorrento",
+      "nome": "Santi Filippo e Giacomo",
+      "tipo": "cattedrale",
+      "diocesi": "Sorrento-Castellammare di Stabia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Spoleto",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Spoleto-Norcia",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "XII secolo"
+    },
+    {
+      "citta": "Subiaco",
+      "nome": "Santa Scolastica",
+      "tipo": "cattedrale",
+      "diocesi": "Subiaco",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "XI secolo"
+    },
+    {
+      "citta": "Sulmona",
+      "nome": "San Panfilo Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Sulmona-Valva",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": "dal 1075"
+    },
+    {
+      "citta": "Susa",
+      "nome": "San Giusto",
+      "tipo": "cattedrale",
+      "diocesi": "Susa",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "costruzione": "XI secolo"
+    },
+    {
+      "citta": "Taranto",
+      "nome": "San Cataldo",
+      "tipo": "cattedrale",
+      "diocesi": "Taranto",
+      "provincia": "Taranto",
+      "regione": "Puglia",
+      "costruzione": "fino al 1701"
+    },
+    {
+      "citta": "Teano",
+      "nome": "San Clemente",
+      "tipo": "cattedrale",
+      "diocesi": "Teano-Calvi",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": "dal 1050"
+    },
+    {
+      "citta": "Teggiano",
+      "nome": "Santa Maria Maggiore e San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Teggiano-Policastro",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tempio Pausania",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Tempio-Ampurias",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "regione": "Sardegna",
+      "costruzione": "consacrazione 1839"
+    },
+    {
+      "citta": "Teramo",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Teramo-Atri",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "costruzione": "dal 1158"
+    },
+    {
+      "citta": "Termoli",
+      "nome": "Cattedrale di Santa Maria della Purificazione",
+      "tipo": "cattedrale",
+      "diocesi": "Termoli-Larino",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "costruzione": "XII-XIII secolo"
+    },
+    {
+      "citta": "Terni",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Terni-Narni-Amelia",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tivoli",
+      "nome": "San Lorenzo Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Tivoli",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tortona",
+      "nome": "Santa Maria Assunta e San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Tortona",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Trani",
+      "nome": "Santa Maria Assunta e San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Trani-Barletta-Bisceglie",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": "dal 1099"
+    },
+    {
+      "citta": "Trapani",
+      "nome": "San Lorenzo Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Trapani",
+      "provincia": "Trapani",
+      "regione": "Sicilia",
+      "costruzione": "dal 1635"
+    },
+    {
+      "citta": "Trento",
+      "nome": "San Vigilio Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Trento",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "costruzione": "consacrazione 1145"
+    },
+    {
+      "citta": "Treviso",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Treviso",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tricarico",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Tricarico",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "costruzione": "dall'XI secolo"
+    },
+    {
+      "citta": "Trieste",
+      "nome": "San Giusto Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Trieste",
+      "provincia": "Trieste",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": "1302-1320"
+    },
+    {
+      "citta": "Trivento",
+      "nome": "Santi Nazaro, Celso e Vittore",
+      "tipo": "cattedrale",
+      "diocesi": "Trivento",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "costruzione": ""
+    },
+    {
+      "citta": "Torino",
+      "nome": "San Giovanni Battista",
+      "tipo": "cattedrale",
+      "diocesi": "Torino",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "costruzione": "1491-1498"
+    },
+    {
+      "citta": "Tursi",
+      "nome": "Maria Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Tursi-Lagonegro",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "costruzione": "XV secolo"
+    },
+    {
+      "citta": "Udine",
+      "nome": "Santa Maria Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Udine",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": "1236-XVI secolo"
+    },
+    {
+      "citta": "Ugento",
+      "nome": "Maria Santissima Assunta in Cielo",
+      "tipo": "cattedrale",
+      "diocesi": "Ugento-Santa Maria di Leuca",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Urbino",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Urbino-Urbania-Sant'Angelo in Vado",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": "ricostruzione nel XV secolo"
+    },
+    {
+      "citta": "Vallo della Lucania",
+      "nome": "San Pantaleone",
+      "tipo": "cattedrale",
+      "diocesi": "Vallo della Lucania",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Velletri",
+      "nome": "San Clemente I",
+      "tipo": "cattedrale",
+      "diocesi": "Velletri-Segni",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Venezia",
+      "nome": "San Marco",
+      "tipo": "cattedrale",
+      "diocesi": "Venezia",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "1063-1617"
+    },
+    {
+      "citta": "Ventimiglia",
+      "nome": "Nostra Signora Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Ventimiglia-San Remo",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "costruzione": "1100-1970"
+    },
+    {
+      "citta": "Vercelli",
+      "nome": "Sant'Eusebio",
+      "tipo": "cattedrale",
+      "diocesi": "Vercelli",
+      "provincia": "Vercelli",
+      "regione": "Piemonte",
+      "costruzione": ""
+    },
+    {
+      "citta": "Verona",
+      "nome": "Santa Maria Matricolare",
+      "tipo": "cattedrale",
+      "diocesi": "Verona",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "costruzione": "consacrazione 1187"
+    },
+    {
+      "citta": "Vicenza",
+      "nome": "Santa Maria Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Vicenza",
+      "provincia": "Vicenza",
+      "regione": "Veneto",
+      "costruzione": ""
+    },
+    {
+      "citta": "Vigevano",
+      "nome": "Sant'Ambrogio",
+      "tipo": "cattedrale",
+      "diocesi": "Vigevano",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "costruzione": "1532-1606"
+    },
+    {
+      "citta": "Viterbo",
+      "nome": "San Lorenzo Martire",
+      "tipo": "cattedrale",
+      "diocesi": "Viterbo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": "XVI secolo"
+    },
+    {
+      "citta": "Vittorio Veneto",
+      "nome": "Santa Maria Assunta e San Tiziano",
+      "tipo": "cattedrale",
+      "diocesi": "Vittorio Veneto",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "costruzione": ""
+    },
+    {
+      "citta": "Volterra",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Volterra",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "costruzione": "XII secolo"
+    },
+    {
+      "citta": "Acerno",
+      "nome": "San Donato",
+      "tipo": "concattedrale",
+      "diocesi": "Salerno-Campagna-Acerno",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Acquapendente",
+      "nome": "San Sepolcro",
+      "tipo": "concattedrale",
+      "diocesi": "Viterbo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Acquaviva delle Fonti",
+      "nome": "Sant'Eustachio",
+      "tipo": "concattedrale",
+      "diocesi": "Altamura-Gravina-Acquaviva delle Fonti",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "1529-1594"
+    },
+    {
+      "citta": "Alatri",
+      "nome": "San Paolo Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Anagni-Alatri",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Amelia",
+      "nome": "Santa Firmina",
+      "tipo": "concattedrale",
+      "diocesi": "Terni-Narni-Amelia",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "costruzione": "restauro dal 1629"
+    },
+    {
+      "citta": "Aquino",
+      "nome": "Santi Costanzo e Tommaso d'Aquino",
+      "tipo": "concattedrale",
+      "diocesi": "Sora-Cassino-Aquino-Pontecorvo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Ascoli Satriano",
+      "nome": "Natività della Beata Vergine Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Cerignola-Ascoli Satriano",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Atri",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Teramo-Atri",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "costruzione": "1260-1284"
+    },
+    {
+      "citta": "Barletta",
+      "nome": "Santa Maria Maggiore",
+      "tipo": "concattedrale",
+      "diocesi": "Trani-Barletta-Bisceglie",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": "1126-XIV secolo"
+    },
+    {
+      "citta": "Bertinoro",
+      "nome": "Santa Caterina",
+      "tipo": "concattedrale",
+      "diocesi": "Forlì-Bertinoro",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bisaccia",
+      "nome": "Natività della Vergine Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Sant'Angelo dei Lombardi-Conza-Nusco-Bisaccia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bisceglie",
+      "nome": "San Pietro Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Trani-Barletta-Bisceglie",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": "dal 1295"
+    },
+    {
+      "citta": "Bisignano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Cosenza-Bisignano",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bitonto",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Bari-Bitonto",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "1087-1095"
+    },
+    {
+      "citta": "Bobbio",
+      "nome": "Assunzione di Nostra Signora Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Piacenza-Bobbio",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "costruzione": "XI secolo-1463"
+    },
+    {
+      "citta": "Boiano",
+      "nome": "San Bartolomeo",
+      "tipo": "concattedrale",
+      "diocesi": "Campobasso-Boiano",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bolzano",
+      "nome": "Maria Himmelfahrt",
+      "tipo": "concattedrale",
+      "diocesi": "Bolzano-Bressanone",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "costruzione": "XIII secolo-1517"
+    },
+    {
+      "citta": "Bosa",
+      "nome": "Beata Vergine Immaculata",
+      "tipo": "concattedrale",
+      "diocesi": "Alghero-Bosa",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bova",
+      "nome": "Presentazione della Beata Vergine Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Reggio Calabria-Bova",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bovino",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Foggia-Bovino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": "dal 1231"
+    },
+    {
+      "citta": "Brescia",
+      "nome": "Concattedrale invernale di Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Brescia",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "costruzione": "completamento fine XI secolo"
+    },
+    {
+      "citta": "Brugnato",
+      "nome": "San Pietro, San Lorenzo e San Colombano",
+      "tipo": "concattedrale",
+      "diocesi": "La Spezia-Sarzana-Brugnato",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "costruzione": "dal VII secolo"
+    },
+    {
+      "citta": "Cagli",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Fano-Fossombrone-Cagli-Pergola",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": "1292"
+    },
+    {
+      "citta": "Caiazzo",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Alife-Caiazzo",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Calvi Risorta",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Teano-Calvi",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": "XI secolo"
+    },
+    {
+      "citta": "Campagna",
+      "nome": "Santa Maria della Pace",
+      "tipo": "concattedrale",
+      "diocesi": "Salerno-Campagna-Acerno",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "1514-1570"
+    },
+    {
+      "citta": "Canosa di Puglia",
+      "nome": "San Sabino",
+      "tipo": "concattedrale",
+      "diocesi": "Andria",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cariati",
+      "nome": "San Michele Arcangelo",
+      "tipo": "concattedrale",
+      "diocesi": "Rossano-Cariati",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "costruzione": "Secolo XIV Ricostruzione 1850"
+    },
+    {
+      "citta": "Cassino",
+      "nome": "Santissimo Salvatore, Santa Maria Assunta e San Germano Vescovo",
+      "tipo": "concattedrale",
+      "diocesi": "Sora-Cassino-Aquino-Pontecorvo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Castellammare di Stabia",
+      "nome": "Santissima Maria Assunta e San Catello",
+      "tipo": "concattedrale",
+      "diocesi": "Sorrento-Castellammare di Stabia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Castelsardo",
+      "nome": "Sant'Antonio Abate",
+      "tipo": "concattedrale",
+      "diocesi": "Tempio-Ampurias",
+      "provincia": "Sassari",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cava de' Tirreni",
+      "nome": "Santa Maria della Visitazione",
+      "tipo": "concattedrale",
+      "diocesi": "Amalfi-Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cervia",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Ravenna-Cervia",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "costruzione": "completamento 1702"
+    },
+    {
+      "citta": "Chiusi",
+      "nome": "San Secondiano",
+      "tipo": "concattedrale",
+      "diocesi": "Montepulciano-Chiusi-Pienza",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "VI secolo-1894"
+    },
+    {
+      "citta": "Città della Pieve",
+      "nome": "Santi Gervasio e Protasio",
+      "tipo": "concattedrale",
+      "diocesi": "Perugia-Città della Pieve",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Colle di Val d'Elsa",
+      "nome": "Santi Marziale e Alberto",
+      "tipo": "concattedrale",
+      "diocesi": "Siena-Colle di Val d'Elsa-Montalcino",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "dal 1603"
+    },
+    {
+      "citta": "Comacchio",
+      "nome": "San Cassiano Martire",
+      "tipo": "concattedrale",
+      "diocesi": "Ferrara-Comacchio",
+      "provincia": "Ferrara",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Conza della Campania",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Sant'Angelo dei Lombardi-Conza-Nusco-Bisaccia",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Corfinio",
+      "nome": "San Pelino",
+      "tipo": "concattedrale",
+      "diocesi": "Sulmona-Valva",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": ""
+    },
+    {
+      "citta": "Feltre",
+      "nome": "San Pietro Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Belluno-Feltre",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "costruzione": ""
+    },
+    {
+      "citta": "Ferentino",
+      "nome": "Santi Giovanni e Paolo",
+      "tipo": "concattedrale",
+      "diocesi": "Frosinone-Veroli-Ferentino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Fiumicino",
+      "nome": "Santi Ippolito e Lucia",
+      "tipo": "concattedrale",
+      "diocesi": "Porto-Santa Rufina",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Fossano",
+      "nome": "Santa Maria e San Giovenale",
+      "tipo": "concattedrale",
+      "diocesi": "Cuneo-Fossano",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "costruzione": "completamento 1700"
+    },
+    {
+      "citta": "Fossombrone",
+      "nome": "Sant'Aldebrando",
+      "tipo": "concattedrale",
+      "diocesi": "Fano-Fossombrone-Cagli-Pergola",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Gallese",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Civita Castellana",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": "completamento 1796"
+    },
+    {
+      "citta": "Gallipoli",
+      "nome": "Santa Agata Vergine",
+      "tipo": "concattedrale",
+      "diocesi": "Nardò-Gallipoli",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "costruzione": "1629-1696"
+    },
+    {
+      "citta": "Gerace",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Locri-Gerace",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": "consacrazione 1045"
+    },
+    {
+      "citta": "Giovinazzo",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Molfetta-Ruvo-Giovinazzo-Terlizzi",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Gravina in Puglia",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Altamura-Gravina-Acquaviva delle Fonti",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Gualdo Tadino",
+      "nome": "San Benedetto",
+      "tipo": "concattedrale",
+      "diocesi": "Assisi-Nocera Umbra-Gualdo Tadino",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Guastalla",
+      "nome": "San Pietro apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Reggio Emilia-Guastalla",
+      "provincia": "Reggio nell'Emilia",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Imperia",
+      "nome": "Santi Maurizio e Compagni Martiri",
+      "tipo": "concattedrale",
+      "diocesi": "Albenga-Imperia",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Irsina",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Matera-Irsina",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lacedonia",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Ariano Irpino-Lacedonia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Lagonegro",
+      "nome": "Lagonegro",
+      "tipo": "concattedrale",
+      "diocesi": "Tursi-Lagonegro",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": ""
+    },
+    {
+      "citta": "Larino",
+      "nome": "San Pardo",
+      "tipo": "concattedrale",
+      "diocesi": "Termoli-Larino",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "costruzione": "dal 1319"
+    },
+    {
+      "citta": "Lipari",
+      "nome": "San Bartolomeo",
+      "tipo": "concattedrale",
+      "diocesi": "Messina-Lipari-Santa Lucia del Mela",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Mantova",
+      "nome": "Sant'Andrea",
+      "tipo": "concattedrale",
+      "diocesi": "Mantova",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "costruzione": "1462-1790"
+    },
+    {
+      "citta": "Marsico Nuovo",
+      "nome": "Santa Maria Assunta e San Giorgio",
+      "tipo": "concattedrale",
+      "diocesi": "Potenza-Muro Lucano-Marsico Nuovo",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": "1131"
+    },
+    {
+      "citta": "Matelica",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Fabriano-Matelica",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Messina",
+      "nome": "Santissimo Salvatore",
+      "tipo": "concattedrale",
+      "diocesi": "Messina-Lipari-Santa Lucia del Mela",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "costruzione": "ricostruzione dal 1929"
+    },
+    {
+      "citta": "Modigliana",
+      "nome": "Santo Stefano",
+      "tipo": "concattedrale",
+      "diocesi": "Faenza-Modigliana",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Monopoli",
+      "nome": "Maria Santissima della Mactia",
+      "tipo": "concattedrale",
+      "diocesi": "Conversano-Monopoli",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "ricostruzione dal 1742"
+    },
+    {
+      "citta": "Montalcino",
+      "nome": "Santissimo Salvatore",
+      "tipo": "concattedrale",
+      "diocesi": "Siena-Colle di Val d'Elsa-Montalcino",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "1818-1832"
+    },
+    {
+      "citta": "Montalto delle Marche",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "San Benedetto del Tronto-Ripatransone-Montalto",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Muro Lucano",
+      "nome": "San Nicola",
+      "tipo": "concattedrale",
+      "diocesi": "Potenza-Muro Lucano-Marsico Nuovo",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": ""
+    },
+    {
+      "citta": "Narni",
+      "nome": "San Giovenale",
+      "tipo": "concattedrale",
+      "diocesi": "Terni-Narni-Amelia",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "costruzione": "1047-1145"
+    },
+    {
+      "citta": "Nepi",
+      "nome": "Santa Maria Assunta e Sant'Anastasia",
+      "tipo": "concattedrale",
+      "diocesi": "Civita Castellana",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Nicotera",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Mileto-Nicotera-Tropea",
+      "provincia": "Vibo Valentia",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Nocera Umbra",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Assisi-Nocera Umbra-Gualdo Tadino",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Noli",
+      "nome": "San Pietro",
+      "tipo": "concattedrale",
+      "diocesi": "Savona-Noli",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Norcia",
+      "nome": "Santa Maria Argentea",
+      "tipo": "concattedrale",
+      "diocesi": "Spoleto-Norcia",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Nusco",
+      "nome": "Santa Stefano",
+      "tipo": "concattedrale",
+      "diocesi": "Sant'Angelo dei Lombardi-Conza-Nusco-Bisaccia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Orbetello",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Pitigliano-Sovana-Orbetello",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "costruzione": ""
+    },
+    {
+      "citta": "Orte",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Civita Castellana",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Ortona",
+      "nome": "San Tommaso Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Lanciano-Ortona",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "costruzione": ""
+    },
+    {
+      "citta": "Osimo",
+      "nome": "San Leopardo",
+      "tipo": "concattedrale",
+      "diocesi": "Ancona-Osimo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "costruzione": "VIII-XII secolo"
+    },
+    {
+      "citta": "Ostuni",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Brindisi-Ostuni",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Palermo",
+      "nome": "San Nicolò dei Greci alla Martorana",
+      "tipo": "concattedrale",
+      "diocesi": "Piana degli Albanesi",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "costruzione": "1143 (titolo parrocchiale dal XV secolo)"
+    },
+    {
+      "citta": "Palmi",
+      "nome": "San Nicola",
+      "tipo": "concattedrale",
+      "diocesi": "Oppido Mamertina-Palmi",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Penne",
+      "nome": "San Massimo",
+      "tipo": "concattedrale",
+      "diocesi": "Pescara-Penne",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "costruzione": "XI secolo"
+    },
+    {
+      "citta": "Pergola",
+      "nome": "Sant'Andrea",
+      "tipo": "concattedrale",
+      "diocesi": "Fano-Fossombrone-Cagli-Pergola",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pescina",
+      "nome": "Santa Maria delle Grazie",
+      "tipo": "concattedrale",
+      "diocesi": "Avezzano",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": "XVI secolo, restauro XX secolo"
+    },
+    {
+      "citta": "Pienza",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Montepulciano-Chiusi-Pienza",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "costruzione": "1459-1462"
+    },
+    {
+      "citta": "Piombino",
+      "nome": "Sant'Antimo Martire",
+      "tipo": "concattedrale",
+      "diocesi": "Massa Marittima-Piombino",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "costruzione": ""
+    },
+    {
+      "citta": "Poggio Mirteto",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Sabina-Poggio Mirteto",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Policastro Bussentino",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Teggiano-Policastro",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pontecorvo",
+      "nome": "San Bartolomeo Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Sora-Cassino-Aquino-Pontecorvo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Pontremoli",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Massa Carrara-Pontremoli",
+      "provincia": "Massa-Carrara",
+      "regione": "Toscana",
+      "costruzione": "1636-1687"
+    },
+    {
+      "citta": "Pordenone",
+      "nome": "San Marco",
+      "tipo": "concattedrale",
+      "diocesi": "Concordia-Pordenone",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": "XIII secolo-1347"
+    },
+    {
+      "citta": "Pozzuoli",
+      "nome": "San Paolo Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Pozzuoli",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Priverno",
+      "nome": "Santa Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Latina-Terracina-Sezze-Priverno",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Rapolla",
+      "nome": "San Michele Arcangelo",
+      "tipo": "concattedrale",
+      "diocesi": "Melfi-Rapolla-Venosa",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": "dal 1209"
+    },
+    {
+      "citta": "Ripatransone",
+      "nome": "San Gregorio Magno",
+      "tipo": "concattedrale",
+      "diocesi": "San Benedetto del Tronto-Ripatransone-Montalto",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "costruzione": "dal 1597"
+    },
+    {
+      "citta": "Rovigo",
+      "nome": "Santo Stefano Papa e Martiri",
+      "tipo": "concattedrale",
+      "diocesi": "Adria-Rovigo",
+      "provincia": "Rovigo",
+      "regione": "Veneto",
+      "costruzione": "1696-1791"
+    },
+    {
+      "citta": "Ruvo di Puglia",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Molfetta-Ruvo-Giovinazzo-Terlizzi",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": "XII-XIII secolo"
+    },
+    {
+      "citta": "Sanremo",
+      "nome": "San Siro",
+      "tipo": "concattedrale",
+      "diocesi": "Ventimiglia-San Remo",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "costruzione": ""
+    },
+    {
+      "citta": "San Severino Marche",
+      "nome": "Sant'Agostino",
+      "tipo": "concattedrale",
+      "diocesi": "Camerino-San Severino Marche",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sansepolcro",
+      "nome": "San Giovanni Evangelista",
+      "tipo": "concattedrale",
+      "diocesi": "Arezzo-Cortona-Sansepolcro",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "costruzione": "1012-1049"
+    },
+    {
+      "citta": "Santa Lucia del Mela",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Messina-Lipari-Santa Lucia del Mela",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Santa Severina",
+      "nome": "Sant'Anastasia",
+      "tipo": "concattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": "completamento XVII secolo"
+    },
+    {
+      "citta": "Sant'Agata de' Goti",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Cerreto Sannita-Telese-Sant'Agata de' Goti",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sant'Angelo in Vado",
+      "nome": "San Michele Arcangelo",
+      "tipo": "concattedrale",
+      "diocesi": "Urbino-Urbania-Sant'Angelo in Vado",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sarno",
+      "nome": "San Michele Arcangelo",
+      "tipo": "concattedrale",
+      "diocesi": "Nocera Inferiore-Sarno",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sarsina",
+      "nome": "Santissima Annunziata, San Vicinio",
+      "tipo": "concattedrale",
+      "diocesi": "Cesena-Sarsina",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "costruzione": "IX secolo"
+    },
+    {
+      "citta": "Sarzana",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "La Spezia-Sarzana-Brugnato",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Segni",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Velletri-Segni",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": "dal 1657"
+    },
+    {
+      "citta": "Sezze",
+      "nome": "Santa Maria",
+      "tipo": "concattedrale",
+      "diocesi": "Latina-Terracina-Sezze-Priverno",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": "XIII secolo"
+    },
+    {
+      "citta": "Sovana",
+      "nome": "San Pietro Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Pitigliano-Sovana-Orbetello",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "costruzione": "VIII secolo"
+    },
+    {
+      "citta": "Squillace",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Catanzaro-Squillace",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Subiaco",
+      "nome": "Sant'Andrea Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Subiaco",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sutri",
+      "nome": "Santa Maria Assunta in Cielo",
+      "tipo": "concattedrale",
+      "diocesi": "Civita Castellana",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": "XII secolo, consacrazione 1207"
+    },
+    {
+      "citta": "Taranto",
+      "nome": "Gran Madre di Dio",
+      "tipo": "concattedrale",
+      "diocesi": "Taranto",
+      "provincia": "Taranto",
+      "regione": "Puglia",
+      "costruzione": "XX secolo"
+    },
+    {
+      "citta": "Tarquinia",
+      "nome": "Santi Margherita e Martino",
+      "tipo": "concattedrale",
+      "diocesi": "Civitavecchia-Tarquinia",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Terlizzi",
+      "nome": "San Michele Arcangelo",
+      "tipo": "concattedrale",
+      "diocesi": "Molfetta-Ruvo-Giovinazzo-Terlizzi",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Terracina",
+      "nome": "San Cesareo",
+      "tipo": "concattedrale",
+      "diocesi": "Latina-Terracina-Sezze-Priverno",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Terralba",
+      "nome": "San Pietro",
+      "tipo": "concattedrale",
+      "diocesi": "Ales-Terralba",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": "ricostruzione dal 1821"
+    },
+    {
+      "citta": "Todi",
+      "nome": "Santa Maria Annunziata",
+      "tipo": "concattedrale",
+      "diocesi": "Orvieto-Todi",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": "XII-XIV secolo"
+    },
+    {
+      "citta": "Troia",
+      "nome": "Maria Santissima Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Lucera-Troia",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tropea",
+      "nome": "Maria Santissima di Romania",
+      "tipo": "concattedrale",
+      "diocesi": "Mileto-Nicotera-Tropea",
+      "provincia": "Vibo Valentia",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tuscania",
+      "nome": "San Giacomo",
+      "tipo": "concattedrale",
+      "diocesi": "Viterbo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Urbania",
+      "nome": "San Cristoforo Martire",
+      "tipo": "concattedrale",
+      "diocesi": "Urbino-Urbania-Sant'Angelo in Vado",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Vasto",
+      "nome": "San Giuseppe",
+      "tipo": "concattedrale",
+      "diocesi": "Chieti-Vasto",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "costruzione": "dal XIII secolo"
+    },
+    {
+      "citta": "Venafro",
+      "nome": "Santa Maria Assunta",
+      "tipo": "concattedrale",
+      "diocesi": "Isernia-Venafro",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "costruzione": "dal V secolo"
+    },
+    {
+      "citta": "Venosa",
+      "nome": "Sant'Andrea",
+      "tipo": "concattedrale",
+      "diocesi": "Melfi-Rapolla-Venosa",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "costruzione": ""
+    },
+    {
+      "citta": "Veroli",
+      "nome": "Sant'Andrea Apostolo",
+      "tipo": "concattedrale",
+      "diocesi": "Frosinone-Veroli-Ferentino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Vieste",
+      "nome": "Maria Santissima Assunta in cielo",
+      "tipo": "concattedrale",
+      "diocesi": "Manfredonia-Vieste-San Giovanni Rotondo",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "costruzione": "dall'XI secolo"
+    },
+    {
+      "citta": "Aquileia",
+      "nome": "Santa Maria Assunta in Cielo e Santi Ermagora e Fortunato",
+      "tipo": "cattedrale",
+      "diocesi": "Gorizia",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": "consacrazione 1131"
+    },
+    {
+      "citta": "Asola",
+      "nome": "Sant'Andrea",
+      "tipo": "cattedrale",
+      "diocesi": "Mantova",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bagnoregio",
+      "nome": "San Donato",
+      "tipo": "cattedrale",
+      "diocesi": "Viterbo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Barletta",
+      "nome": "Concattedrale di Santa Maria di Nazareth",
+      "tipo": "cattedrale",
+      "diocesi": "Arcidiocesi di Trani-Barletta-Bisceglie",
+      "provincia": "Barletta-Andria-Trani",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Belcastro",
+      "nome": "San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bevagna",
+      "nome": "San Michele Arcangelo",
+      "tipo": "cattedrale",
+      "diocesi": "Foligno",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bitetto",
+      "nome": "Cattedrale di San Michele Arcangelo (Bitetto)",
+      "tipo": "cattedrale",
+      "diocesi": "Arcidiocesi di Bari-Bitonto",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Bosa",
+      "nome": "Chiesa di San Pietro",
+      "tipo": "cattedrale",
+      "diocesi": "Bosa",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Brescello",
+      "nome": "Santa Maria Nascente",
+      "tipo": "cattedrale",
+      "diocesi": "Reggio Emilia-Guastalla",
+      "provincia": "Reggio nell'Emilia",
+      "regione": "Emilia-Romagna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Caorle",
+      "nome": "Santo Stefano",
+      "tipo": "cattedrale",
+      "diocesi": "Venezia",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "1038"
+    },
+    {
+      "citta": "Capri",
+      "nome": "Santo Stefano",
+      "tipo": "cattedrale",
+      "diocesi": "Sorrento-Castellammare di Stabia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cerenzia",
+      "nome": "San Teodoro",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cerveteri",
+      "nome": "Santa Maria Maggiore",
+      "tipo": "cattedrale",
+      "diocesi": "Porto-Santa Rufina",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Fondi",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Gaeta",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Cingoli",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Formia",
+      "nome": "Sant'Erasmo",
+      "tipo": "cattedrale",
+      "diocesi": "Gaeta",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Gradisca d'Isonzo",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Gorizia",
+      "provincia": "Gorizia",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Grado",
+      "nome": "Sant'Eufemia",
+      "tipo": "cattedrale",
+      "diocesi": "Gorizia",
+      "provincia": "Gorizia",
+      "regione": "Friuli-Venezia Giulia",
+      "costruzione": "restauro 580"
+    },
+    {
+      "citta": "Isola di Capo Rizzuto",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Macerata",
+      "nome": "San Giuliano",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Martirano",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Lamezia Terme",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Minturno",
+      "nome": "San Pietro Apostolo",
+      "tipo": "cattedrale",
+      "diocesi": "Gaeta",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Molfetta",
+      "nome": "San Corrado di Baviera",
+      "tipo": "cattedrale",
+      "diocesi": "Molfetta-Ruvo-Giovinazzo-Terlizzi",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "costruzione": ""
+    },
+    {
+      "citta": "Montefiascone",
+      "nome": "Santa Margherita d'Antiochia",
+      "tipo": "cattedrale",
+      "diocesi": "Viterbo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "costruzione": ""
+    },
+    {
+      "citta": "Mottola",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Castellaneta",
+      "provincia": "Taranto",
+      "regione": "Puglia",
+      "costruzione": "Costruita intorno all' XI secolo, completata nella forma attuale nel 1507. Restaurata dal 2015 al 2017 e riconsacrata il 3 dicembre 2017."
+    },
+    {
+      "citta": "Ottana",
+      "nome": "San Nicola",
+      "tipo": "cattedrale",
+      "diocesi": "Nuoro",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "costruzione": "restauro 1160"
+    },
+    {
+      "citta": "Ravello",
+      "nome": "Santa Maria Assunta e San Pantaleone",
+      "tipo": "cattedrale",
+      "diocesi": "Amalfi-Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": "dall'XI secolo"
+    },
+    {
+      "citta": "Recanati",
+      "nome": "San Flaviano",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Sala Consilina",
+      "nome": "San Pietro",
+      "tipo": "cattedrale",
+      "diocesi": "Amalfi-Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "San Benedetto dei Marsi",
+      "nome": "Santa Sabina",
+      "tipo": "cattedrale",
+      "diocesi": "Avezzano",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "costruzione": "V-VI secolo"
+    },
+    {
+      "citta": "Santa Giusta",
+      "nome": "Santa Giusta",
+      "tipo": "cattedrale",
+      "diocesi": "Oristano",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "costruzione": "consacrazione 1145"
+    },
+    {
+      "citta": "Scala",
+      "nome": "San Lorenzo",
+      "tipo": "cattedrale",
+      "diocesi": "Amalfi-Cava de' Tirreni",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "costruzione": ""
+    },
+    {
+      "citta": "Scandale",
+      "nome": "San Leone",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Spello",
+      "nome": "Santa Maria Maggiore",
+      "tipo": "cattedrale",
+      "diocesi": "Foligno",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Strongoli",
+      "nome": "Santi Pietro e Paolo",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Suelli",
+      "nome": "San Pietro",
+      "tipo": "cattedrale",
+      "diocesi": "Cagliari",
+      "provincia": "Cagliari",
+      "regione": "Sardegna",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tolentino",
+      "nome": "San Nicola di Tolentino",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Tolentino",
+      "nome": "San Catervo",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Treia",
+      "nome": "Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Macerata",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "costruzione": ""
+    },
+    {
+      "citta": "Torcello",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Venezia",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "dal 1008"
+    },
+    {
+      "citta": "Trevi",
+      "nome": "Sant'Emiliano",
+      "tipo": "cattedrale",
+      "diocesi": "Perugia-Città della Pieve",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Trevico",
+      "nome": "Santa Maria Assunta",
+      "tipo": "cattedrale",
+      "diocesi": "Ariano Irpino-Lacedonia",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "costruzione": "dal V-VI secolo"
+    },
+    {
+      "citta": "Umbriatico",
+      "nome": "San Donato Vescovo",
+      "tipo": "cattedrale",
+      "diocesi": "Crotone-Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "costruzione": ""
+    },
+    {
+      "citta": "Venezia",
+      "nome": "San Pietro di Castello",
+      "tipo": "cattedrale",
+      "diocesi": "Venezia",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "costruzione": "dal VII secolo"
+    },
+    {
+      "citta": "Vico Equense",
+      "nome": "Santissima Annunziata",
+      "tipo": "cattedrale",
+      "diocesi": "Sorrento-Castellammare di Stabia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "costruzione": "dal 1320"
+    },
+    {
+      "citta": "Venezia",
+      "nome": "San Giorgio dei Greci",
+      "tipo": "cattedrale",
+      "diocesi": "Arcidiocesi ortodossa d'Italia e Malta",
+      "provincia": "",
+      "regione": "",
+      "costruzione": "dal 1539"
+    },
+    {
+      "citta": "Rimini",
+      "nome": "Ingresso al tempio della Santissima Madre di Dio e San Nicola di Mira",
+      "tipo": "cattedrale",
+      "diocesi": "Arcidiocesi ortodossa d'Italia e Malta",
+      "provincia": "",
+      "regione": "",
+      "costruzione": ""
+    }
+  ],
+  "meta": {
+    "title": "Cattedrali e concattedrali in Italia - Free Download",
+    "description": "Elenco delle cattedrali e concattedrali italiane con città, diocesi, provincia, regione e periodo di costruzione. Contains 400 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cattedrali e concattedrali in Italia | ListBase",
+    "seo_description": "Download Cattedrali e concattedrali in Italia — 400 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 400 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Cattedrali_in_Italia"
+    ]
+  }
+}
