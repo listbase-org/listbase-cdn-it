@@ -1,0 +1,1636 @@
+{
+  "id": "it-porti",
+  "name": "Porti d'Italia",
+  "title": "Porti d'Italia",
+  "description": "Elenco dei porti italiani con località, corpo idrico e tipologia.",
+  "category": "transport",
+  "source": "https://it.wikipedia.org/wiki/Porti_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Porti_d'Italia",
+  "updated": "2026-11",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "localita",
+      "label": "Localita",
+      "type": "string"
+    },
+    {
+      "key": "corpo_idrico",
+      "label": "Corpo Idrico",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Porto di Marina del Sole di Fossacesia",
+      "localita": "Fossacesia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Francavilla al Mare",
+      "localita": "Francavilla al Mare",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Giulianova",
+      "localita": "Giulianova",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, turistico, cantiere nautico"
+    },
+    {
+      "nome": "Porto di Ortona",
+      "localita": "Ortona",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, industriale, petrolifero, peschereccio, piccola crocieristica, darsena turistica, cantieri nautici"
+    },
+    {
+      "nome": "Porto di Pescara - Marina di Pescara",
+      "localita": "Pescara",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Pescara - Porto Canale",
+      "localita": "Pescara",
+      "corpo_idrico": "Fiume Aterno-Pescara",
+      "tipo": "Peschereccio, commerciale, turistico"
+    },
+    {
+      "nome": "Porto Rose di Roseto degli Abruzzi",
+      "localita": "Roseto degli Abruzzi",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Le Marinelle di San Salvo",
+      "localita": "San Salvo",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Vasto",
+      "localita": "Vasto",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, petrolifero, peschereccio, approdo turistico"
+    },
+    {
+      "nome": "Porto di Maratea",
+      "localita": "Maratea",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto degli Argonauti",
+      "localita": "Pisticci",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Policoro",
+      "localita": "Policoro",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Amantea",
+      "localita": "Amantea",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Badolato-Gallipari",
+      "localita": "Badolato",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Bagnara",
+      "localita": "Bagnara Calabra",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Belvedere Marittimo",
+      "localita": "Belvedere Marittimo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Cariati",
+      "localita": "Cariati",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Catanzaro",
+      "localita": "Catanzaro",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Cetraro",
+      "localita": "Cetraro",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Cirò Marina",
+      "localita": "Cirò Marina",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Corigliano Calabro",
+      "localita": "Corigliano-Rossano",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Crotone",
+      "localita": "Crotone",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Diamante",
+      "localita": "Diamante",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Gioia Tauro",
+      "localita": "Gioia Tauro",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Industriale, commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Palmi",
+      "localita": "Palmi",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Pizzo",
+      "localita": "Pizzo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Pontile"
+    },
+    {
+      "nome": "Porto di Reggio Calabria",
+      "localita": "Reggio Calabria",
+      "corpo_idrico": "Stretto di Messina",
+      "tipo": "Commerciale, turistico, passeggeri"
+    },
+    {
+      "nome": "Porto di Saline Joniche",
+      "localita": "Reggio Calabria",
+      "corpo_idrico": "Stretto di Messina",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Roccella Jonica",
+      "localita": "Roccella Ionica",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di San Lucido",
+      "localita": "San Lucido",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Scilla",
+      "localita": "Scilla",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Marina laghi di Sibari",
+      "localita": "Sibari",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Tropea",
+      "localita": "Tropea",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Vibo Valentia Marina",
+      "localita": "Vibo Valentia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Industriale, commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Villa San Giovanni",
+      "localita": "Villa San Giovanni",
+      "corpo_idrico": "Stretto di Messina",
+      "tipo": "Commerciale, passeggeri"
+    },
+    {
+      "nome": "Porto di Acciaroli",
+      "localita": "Acciaroli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Amalfi",
+      "localita": "Amalfi",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Baia",
+      "localita": "Bacoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Casal Velino",
+      "localita": "Casal Velino",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Castellammare di Stabia",
+      "localita": "Castellammare di Stabia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto Marina di Stabia",
+      "localita": "Castellammare di Stabia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto d'Ischia",
+      "localita": "Isola d'Ischia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Casamicciola",
+      "localita": "Isola d'Ischia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Forio",
+      "localita": "Isola d'Ischia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Lacco Ameno",
+      "localita": "Isola d'Ischia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Capri",
+      "localita": "Isola di Capri",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Maiori",
+      "localita": "Maiori",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Marina di Camerota",
+      "localita": "Marina di Camerota",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Torre Fumo (o Acquamorta)",
+      "localita": "Monte di Procida",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Santa Lucia",
+      "localita": "Napoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Mergellina",
+      "localita": "Napoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Molosiglio",
+      "localita": "Napoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Napoli",
+      "localita": "Napoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, traghetti, cantiere nautico"
+    },
+    {
+      "nome": "Porto di Nisida",
+      "localita": "Nisida",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Palinuro",
+      "localita": "Palinuro",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Marina di Pinetamare",
+      "localita": "Pinetamare",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Positano",
+      "localita": "Positano",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Maglietta",
+      "localita": "Pozzuoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Pozzuoli",
+      "localita": "Pozzuoli",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, traghetti"
+    },
+    {
+      "nome": "Porto di Chiaiolella",
+      "localita": "Procida",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Procida",
+      "localita": "Procida",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Procida",
+      "localita": "Procida",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, traghetti"
+    },
+    {
+      "nome": "Porto di Marina d'Arechi",
+      "localita": "Salerno",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Masuccio Salernitano",
+      "localita": "Salerno",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Salerno",
+      "localita": "Salerno",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico, peschereccio"
+    },
+    {
+      "nome": "Porto di San Marco di Castellabate",
+      "localita": "San Marco di Castellabate",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Sorrento",
+      "localita": "Sorrento",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico, traghetti, passeggeri, crocieristico"
+    },
+    {
+      "nome": "Porto di Torre Annunziata",
+      "localita": "Torre Annunziata",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, industriale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Torre del Greco",
+      "localita": "Torre del Greco",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Seiano (o Marina di Aequa)",
+      "localita": "Vico Equense",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Passeggeri, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Vico Equense",
+      "localita": "Vico Equense",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio"
+    },
+    {
+      "nome": "Porto canale di Bellaria Igea Marina",
+      "localita": "Bellaria Igea Marina",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, Turistico"
+    },
+    {
+      "nome": "Porto fluviale di Boretto",
+      "localita": "Boretto",
+      "corpo_idrico": "Fiume Po",
+      "tipo": "Turistico fluviale"
+    },
+    {
+      "nome": "Porto di Cattolica - Le Navi",
+      "localita": "Cattolica",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Cesenatico",
+      "localita": "Cesenatico",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Canale Leonardesco",
+      "localita": "Cesenatico",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Volano",
+      "localita": "Comacchio",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto fluviale di Ferrara",
+      "localita": "Ferrara",
+      "corpo_idrico": "Fiume Po",
+      "tipo": "Turistico fluviale"
+    },
+    {
+      "nome": "Porto di Goro",
+      "localita": "Goro",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Marina Romea",
+      "localita": "Marina Romea",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marinara",
+      "localita": "Marina di Ravenna",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Porto Garibaldi",
+      "localita": "Porto Garibaldi",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Marina di Ravenna",
+      "localita": "Ravenna",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Ravenna",
+      "localita": "Ravenna",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Riccione - darsena",
+      "localita": "Riccione",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto canale di Riccione",
+      "localita": "Riccione",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto canale di Rimini",
+      "localita": "Rimini",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Rimini",
+      "localita": "Rimini",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Barcola",
+      "localita": "Barcola (Trieste)",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Aurisina",
+      "localita": "Duino-Aurisina",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto San Vito",
+      "localita": "Grado",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Grignano",
+      "localita": "Grignano (Trieste)",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "PortoMaran",
+      "localita": "Marano Lagunare",
+      "corpo_idrico": "Laguna di Marano",
+      "tipo": "Peschereccio, Turistico"
+    },
+    {
+      "nome": "Porto \"Nazario Sauro\"",
+      "localita": "Monfalcone",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio"
+    },
+    {
+      "nome": "Porto di Monfalcone",
+      "localita": "Monfalcone",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Merci, industriale, container, commerciale"
+    },
+    {
+      "nome": "Porto Lazzaretto - San Bartolomeo",
+      "localita": "Muggia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Muggia",
+      "localita": "Muggia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Portopiccolo",
+      "localita": "Sistiana",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Porti turistici d'Italia"
+    },
+    {
+      "nome": "Porto Nogaro",
+      "localita": "San Giorgio di Nogaro",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Trieste",
+      "localita": "Trieste",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, container, passeggeri, traghetti, petrolifero, industriale, pesca, turistico"
+    },
+    {
+      "nome": "Porto franco nuovo",
+      "localita": "Trieste",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto franco vecchio",
+      "localita": "Trieste",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Anzio",
+      "localita": "Anzio",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Civitavecchia",
+      "localita": "Civitavecchia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Multifunzionale"
+    },
+    {
+      "nome": "Porto di Riva di Traiano",
+      "localita": "Civitavecchia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Fiumicino",
+      "localita": "Fiumicino",
+      "corpo_idrico": "Fiume Tevere/Canale di Traiano - Mar Tirreno",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Formia",
+      "localita": "Formia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Gaeta",
+      "localita": "Gaeta",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto Marina di Nettuno",
+      "localita": "Nettuno",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Ponza",
+      "localita": "Ponza",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto turistico di Roma",
+      "localita": "Ostia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Marina di Santa Marinella",
+      "localita": "Santa Marinella",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Terracina",
+      "localita": "Terracina",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Ventotene-Cala Rossano",
+      "localita": "Ventotene",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Romano",
+      "localita": "Ventotene",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Genova",
+      "localita": "Genova",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico, officine navali, traghetti, crociere, container, industriale, commerciale, riparazioni navali"
+    },
+    {
+      "nome": "Porto di Imperia",
+      "localita": "Imperia",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto della Spezia",
+      "localita": "La Spezia",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico, commerciale, industriale, militare, crociere, container, officine navali"
+    },
+    {
+      "nome": "Porto di Savona",
+      "localita": "Savona",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico, crociere, peschereccio, commerciale, container, officine navali"
+    },
+    {
+      "nome": "Porto Bertelli",
+      "localita": "Paratico",
+      "corpo_idrico": "Lago d'Iseo",
+      "tipo": "Turistico, commerciale"
+    },
+    {
+      "nome": "Porto fluviale di Cremona",
+      "localita": "Cremona",
+      "corpo_idrico": "Fiume Po",
+      "tipo": "Fluviale commerciale, turistico"
+    },
+    {
+      "nome": "Porto fluviale di Mantova-Valdaro",
+      "localita": "Mantova",
+      "corpo_idrico": "Fiume Po",
+      "tipo": "Fluviale commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Ancona",
+      "localita": "Ancona",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Traghetti, passeggeri, turistico, commerciale, pesca, crociere, container, petrolifero, cantieri navali"
+    },
+    {
+      "nome": "Porto di Civitanova Marche",
+      "localita": "Civitanova Marche",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Fano",
+      "localita": "Fano",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Pesaro",
+      "localita": "Pesaro",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Vallugola",
+      "localita": "Gabicce Mare",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Numana",
+      "localita": "Numana",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di San Benedetto del Tronto",
+      "localita": "San Benedetto del Tronto",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Porto San Giorgio",
+      "localita": "Porto San Giorgio",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Senigallia",
+      "localita": "Senigallia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Marina di Montenero",
+      "localita": "Montenero di Bisaccia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto turistico Marina di Santa Cristina",
+      "localita": "Campomarino",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Termoli",
+      "localita": "Termoli",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto turistico di Verbania Pallanza",
+      "localita": "Verbania - Pallanza",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Verbania Suna",
+      "localita": "Verbania",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Feriolo",
+      "localita": "Feriolo (Baveno)",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto comunale di Baveno",
+      "localita": "Baveno",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del golfo di Solcio di Lesa sul lago Maggiore",
+      "localita": "Solcio (Lesa)",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del lido di Meina",
+      "localita": "Meina",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto turistico comunale di Belgirate",
+      "localita": "Belgirate",
+      "corpo_idrico": "Lago Maggiore",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Bari",
+      "localita": "Bari",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Container, officine navali, crociere"
+    },
+    {
+      "nome": "Porto di Barletta",
+      "localita": "Barletta",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Industriale, merci, officine navali, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Brindisi",
+      "localita": "Brindisi",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Container, officine navali, crociere, navi traghetto"
+    },
+    {
+      "nome": "Porto di Gallipoli",
+      "localita": "Gallipoli",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Navi, crociere, navi turistiche e commerciali, petroliere"
+    },
+    {
+      "nome": "Porto di Manfredonia",
+      "localita": "Manfredonia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, mercantile, industriale, turistico, cantiere nautico"
+    },
+    {
+      "nome": "Porto di Margherita di Savoia",
+      "localita": "Margherita di Savoia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Peschereccio, industriale"
+    },
+    {
+      "nome": "Porto di Molfetta",
+      "localita": "Molfetta",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Monopoli",
+      "localita": "Monopoli",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico, commerciale"
+    },
+    {
+      "nome": "Porto di Otranto",
+      "localita": "Otranto",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto di Taranto",
+      "localita": "Taranto",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Container, officine navali, crociere"
+    },
+    {
+      "nome": "Porto di Trani",
+      "localita": "Trani",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Manifestazioni veliche d'altura, gare nazionali e internazionali di off-shore"
+    },
+    {
+      "nome": "Porto di Alghero",
+      "localita": "Alghero",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Arbatax",
+      "localita": "Arbatax",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, cantieri nautici, noleggio gommoni, charter nautico, traghetti"
+    },
+    {
+      "nome": "Porto di Bosa",
+      "localita": "Bosa",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, pesca"
+    },
+    {
+      "nome": "Porto di Cagliari",
+      "localita": "Cagliari",
+      "corpo_idrico": "Canale di Sardegna",
+      "tipo": "Container, officine navali, crociere, pesca, traghetti, commerciale"
+    },
+    {
+      "nome": "Porto di Cala Gonone",
+      "localita": "Cala Gonone",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Calasetta",
+      "localita": "Calasetta",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Cannigione",
+      "localita": "Cannigione",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, riparazione motori marini"
+    },
+    {
+      "nome": "Porto di Capitana",
+      "localita": "Quartu Sant'Elena",
+      "corpo_idrico": "Golfo di Cagliari",
+      "tipo": "Turistico, cantiere nautico, riparazione motori, noleggio gommoni, charter turistico"
+    },
+    {
+      "nome": "Porto di Carloforte",
+      "localita": "Carloforte",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, noleggio imbarcazioni, riparazioni barche"
+    },
+    {
+      "nome": "Porto di Castelsardo",
+      "localita": "Castelsardo",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Golfo Aranci",
+      "localita": "Golfo Aranci",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Traghetti"
+    },
+    {
+      "nome": "Porto di Isola Rossa",
+      "localita": "Isola Rossa",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, Riparazione motori"
+    },
+    {
+      "nome": "Porto di La Caletta",
+      "localita": "La Caletta",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, peschereccio, motonavi turistiche"
+    },
+    {
+      "nome": "Porto di La Maddalena",
+      "localita": "La Maddalena",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Traghetti, turistico"
+    },
+    {
+      "nome": "Porto di Olbia",
+      "localita": "Olbia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Traghetti, Commerciale, Crociere"
+    },
+    {
+      "nome": "Porto di Oristano",
+      "localita": "Oristano",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Industriale, turistico"
+    },
+    {
+      "nome": "Porto di Palau",
+      "localita": "Palau",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Perd'e Sali",
+      "localita": "Sarroch",
+      "corpo_idrico": "Golfo di Cagliari",
+      "tipo": "Turistico, noleggio gommoni, charter turistico"
+    },
+    {
+      "nome": "Porto di Porto Cervo",
+      "localita": "Porto Cervo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, riparazioni barche"
+    },
+    {
+      "nome": "Porto di Porto Rotondo",
+      "localita": "Porto Rotondo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Porto Torres",
+      "localita": "Porto Torres",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Commerciale, industriale, turistico, traghetti"
+    },
+    {
+      "nome": "Porto di Portoscuso",
+      "localita": "Portoscuso",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, cantiere nautico, noleggio gommoni"
+    },
+    {
+      "nome": "Porto di Santa Maria Navarrese",
+      "localita": "Santa Maria Navarrese",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Santa Teresa Gallura",
+      "localita": "Santa Teresa Gallura",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Traghetti, turistico"
+    },
+    {
+      "nome": "Porto Foxi",
+      "localita": "Sarroch",
+      "corpo_idrico": "Canale di Sardegna",
+      "tipo": "Industriale, commerciale"
+    },
+    {
+      "nome": "Porto di Stintino",
+      "localita": "Stintino",
+      "corpo_idrico": "Mar di Sardegna",
+      "tipo": "Turistico, cantiere navale"
+    },
+    {
+      "nome": "Porto di Villasimius",
+      "localita": "Villasimius",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Augusta",
+      "localita": "Augusta",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Bonagia",
+      "localita": "Bonagia",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Capo d'Orlando",
+      "localita": "Capo d'Orlando",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Catania",
+      "localita": "Catania",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Favignana",
+      "localita": "Favignana",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto Isola di Gela",
+      "localita": "Gela",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto Rifugio di Gela",
+      "localita": "Gela",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale"
+    },
+    {
+      "nome": "Porto di Lampedusa",
+      "localita": "Lampedusa",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Licata",
+      "localita": "Licata",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Marina di Ragusa",
+      "localita": "Marina di Ragusa",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marsala",
+      "localita": "Marsala",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Marzamemi",
+      "localita": "Marzamemi",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Mazara del Vallo",
+      "localita": "Mazara del Vallo",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Messina",
+      "localita": "Messina",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Milazzo",
+      "localita": "Milazzo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, turistico"
+    },
+    {
+      "nome": "Porto di Palermo",
+      "localita": "Palermo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Pantelleria",
+      "localita": "Pantelleria",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Porticello",
+      "localita": "Porticello",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Porto Empedocle",
+      "localita": "Porto Empedocle",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Portopalo",
+      "localita": "Portopalo",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Portorosa",
+      "localita": "Portorosa",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Pozzallo",
+      "localita": "Pozzallo",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Punta Secca",
+      "localita": "Punta Secca",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Riposto",
+      "localita": "Riposto",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di San Leone",
+      "localita": "San Leone",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di San Vito Lo Capo",
+      "localita": "San Vito Lo Capo",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Sciacca",
+      "localita": "Sciacca",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Scoglitti",
+      "localita": "Scoglitti",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Siracusa",
+      "localita": "Siracusa",
+      "corpo_idrico": "Mar Ionio",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Terrasini",
+      "localita": "Terrasini",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Trapani",
+      "localita": "Trapani",
+      "corpo_idrico": "Mar Mediterraneo",
+      "tipo": "Commerciale, peschereccio, turistico"
+    },
+    {
+      "nome": "Porto di Antignano",
+      "localita": "Antignano (Livorno)",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Ardenza",
+      "localita": "Ardenza (Livorno)",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Baratti",
+      "localita": "Baratti",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Bocca d'Arno",
+      "localita": "Bocca d'Arno",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Capraia",
+      "localita": "Capraia Porto",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Carbonifera",
+      "localita": "Carbonifera (Piombino)",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Carrara",
+      "localita": "Carrara",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Commerciale, industriale"
+    },
+    {
+      "nome": "Porto nord di Castiglioncello",
+      "localita": "Castiglioncello",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto sud di Castiglioncello",
+      "localita": "Castiglioncello",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Castiglione della Pescaia",
+      "localita": "Castiglione della Pescaia",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, pesca"
+    },
+    {
+      "nome": "Porto di Cavo",
+      "localita": "Cavo",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del Cinquale",
+      "localita": "Cinquale",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Giannutri",
+      "localita": "Giannutri",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Giglio Porto",
+      "localita": "Giglio Porto",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Gorgona",
+      "localita": "Gorgona",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Livorno",
+      "localita": "Livorno",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Commerciale, turistico, industriale"
+    },
+    {
+      "nome": "Porto Nazario Sauro",
+      "localita": "Livorno",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marciana Marina",
+      "localita": "Marciana Marina",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Campo",
+      "localita": "Marina di Campo",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Cecina",
+      "localita": "Marina di Cecina",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Grosseto",
+      "localita": "Marina di Grosseto",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Marina di Salivoli",
+      "localita": "Marina di Salivoli (Piombino)",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Santa Liberata",
+      "localita": "Monte Argentario",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Pianosa",
+      "localita": "Pianosa",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Antico di Piombino",
+      "localita": "Piombino",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Piombino",
+      "localita": "Piombino",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, commerciale, industriale"
+    },
+    {
+      "nome": "Porto di Porto Azzurro",
+      "localita": "Porto Azzurro",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Cala Galera",
+      "localita": "Porto Ercole",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Vecchio di Porto Ercole",
+      "localita": "Porto Ercole",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del Valle di Porto Santo Stefano",
+      "localita": "Porto Santo Stefano",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico, commerciale, peschereccio"
+    },
+    {
+      "nome": "Porto Vecchio di Porto Santo Stefano",
+      "localita": "Porto Santo Stefano",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Portoferraio",
+      "localita": "Portoferraio",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Punta Ala",
+      "localita": "Punta Ala",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del Puntone di Scarlino",
+      "localita": "Puntone di Scarlino",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Quercianella",
+      "localita": "Quercianella",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Rio Marina",
+      "localita": "Rio Marina",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Cala de' Medici",
+      "localita": "Rosignano Solvay",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del Circolo Canottieri Solvay",
+      "localita": "Rosignano Solvay",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di San Vincenzo",
+      "localita": "San Vincenzo",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Talamone",
+      "localita": "Talamone",
+      "corpo_idrico": "Mar Tirreno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto del Chioma",
+      "localita": "Chioma",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Viareggio",
+      "localita": "Viareggio",
+      "corpo_idrico": "Mar Ligure",
+      "tipo": "Industriale, turistico, pesca"
+    },
+    {
+      "nome": "Porto San Nicolò - Canale della Rocca",
+      "localita": "Riva del Garda",
+      "corpo_idrico": "Lago di Garda",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Canale di Punta Navaccia",
+      "localita": "Tuoro sul Trasimeno",
+      "corpo_idrico": "Lago Trasimeno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Castiglione del Lago",
+      "localita": "Castiglione del Lago",
+      "corpo_idrico": "Lago Trasimeno",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Baselenghe Pineda",
+      "localita": "Bibione",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Santa Margherita",
+      "localita": "Caorle",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Chioggia",
+      "localita": "Chioggia",
+      "corpo_idrico": "Laguna di Venezia",
+      "tipo": "Commerciale, ittico"
+    },
+    {
+      "nome": "Porto San Felice",
+      "localita": "Chioggia",
+      "corpo_idrico": "Laguna di Venezia",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto Fossone",
+      "localita": "Chioggia",
+      "corpo_idrico": "Fiume Adige",
+      "tipo": "Peschereccio, turistico"
+    },
+    {
+      "nome": "Porto turistico di Jesolo",
+      "localita": "Jesolo",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Turistico"
+    },
+    {
+      "nome": "Porto di Lido-San Nicolò",
+      "localita": "Venezia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Passeggeri, traghetti, turistico"
+    },
+    {
+      "nome": "Porto di Malamocco",
+      "localita": "Venezia",
+      "corpo_idrico": "Mare Adriatico",
+      "tipo": "Commerciale, petrolifero, petrolchimico"
+    },
+    {
+      "nome": "Porto di Venezia",
+      "localita": "Venezia",
+      "corpo_idrico": "Laguna di Venezia",
+      "tipo": "Passeggeri, traghetti, turistico, commerciale"
+    },
+    {
+      "nome": "Porto Marghera",
+      "localita": "Venezia",
+      "corpo_idrico": "Laguna di Venezia",
+      "tipo": "Passeggeri, traghetti, turistico, commerciale, petrolifero, petrolchimico"
+    }
+  ],
+  "meta": {
+    "title": "Porti d'Italia - Free Download",
+    "description": "Elenco dei porti italiani con località, corpo idrico e tipologia. Contains 265 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Porti d'Italia | ListBase",
+    "seo_description": "Download Porti d'Italia — 265 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 265 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Porti_d'Italia"
+    ]
+  }
+}

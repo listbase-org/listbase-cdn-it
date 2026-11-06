@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-06T02:30:22.137Z",
-  "total_datasets": 522,
-  "total_records": 141898,
+  "generated": "2026-11-06T02:30:29.549Z",
+  "total_datasets": 523,
+  "total_records": 142163,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "units",
@@ -17220,6 +17220,31 @@
         "xlsx": {
           "name": "it-piemonte-aeroporti_IT.xlsx",
           "size": 25181
+        }
+      }
+    },
+    {
+      "id": "it-porti",
+      "name": "Porti d'Italia",
+      "category": "transport",
+      "record_count": 265,
+      "columns": [
+        "nome",
+        "localita",
+        "corpo_idrico",
+        "tipo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Porti_d'Italia",
+      "updated": "2026-11",
+      "size": 44231,
+      "files": {
+        "csv": {
+          "name": "it-porti_IT.csv",
+          "size": 20697
+        },
+        "xlsx": {
+          "name": "it-porti_IT.xlsx",
+          "size": 15617
         }
       }
     },
