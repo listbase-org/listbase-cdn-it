@@ -1,0 +1,247 @@
+{
+  "id": "it-antiche-unita-misura-firenze",
+  "name": "Antiche unità di misura del circondario di Firenze",
+  "title": "Antiche unità di misura del circondario di Firenze",
+  "description": "Unità di misura in uso nel circondario di Firenze prima del sistema metrico decimale (braccio fiorentino, staioro, barile, libbra...), con valore equivalente nel sistema metrico.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Firenze",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Firenze",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Braccio fiorentino",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.5836,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Passetto",
+      "grandezza": "Misure di lunghezza",
+      "valore": 1.1673,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Canna agrimensoria",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.9181,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Quadrato",
+      "grandezza": "Misure di superficie",
+      "valore": 3406.19,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Braccio quadrato",
+      "grandezza": "Misure di superficie",
+      "valore": 0.3406,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Stioro",
+      "grandezza": "Misure di superficie",
+      "valore": 525.01,
+      "unita_si": "m²",
+      "comuni": "Firenze, Campi Bisenzio, Greve, Lastra a Signa, Legnaia, Rovezzano, Vaglia"
+    },
+    {
+      "denominazione": "Staio",
+      "grandezza": "Misure di superficie",
+      "valore": 1703.1,
+      "unita_si": "m²",
+      "comuni": "Dicomano, Vicchio, Sesto, S. Godenzo, Scarperia"
+    },
+    {
+      "denominazione": "Tornatura",
+      "grandezza": "Misure di superficie",
+      "valore": 2080.44,
+      "unita_si": "m²",
+      "comuni": "Palazzuolo"
+    },
+    {
+      "denominazione": "Traino",
+      "grandezza": "Misure di volume",
+      "valore": 397.6,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Braccio cubo",
+      "grandezza": "Misure di volume",
+      "valore": 198.8,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Catasta",
+      "grandezza": "Misure di volume",
+      "valore": 4771.1,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Catasta di commercio",
+      "grandezza": "Misure di volume",
+      "valore": 3578.3,
+      "unita_si": "L",
+      "comuni": "Firenze e molti comuni"
+    },
+    {
+      "denominazione": "Sacco",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 73.0886,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Staio",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 24.3629,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Quartuccio",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 0.3807,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Staione",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 30.45,
+      "unita_si": "L",
+      "comuni": "Vicchio, Dicomano, S. Godenzo"
+    },
+    {
+      "denominazione": "Sacco",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 97.4514,
+      "unita_si": "L",
+      "comuni": "Fiorenzuola, S. Godenzo"
+    },
+    {
+      "denominazione": "Barile da vino",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 45.584,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Fiasco da vino",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 2.2792,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Quartuccio da vino",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.2849,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Barile da olio",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 33.4289,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Fiasco da olio",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 2.0893,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Quartuccio da olio",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.2612,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Barile da olio",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 34.19,
+      "unita_si": "L",
+      "comuni": "Vicchio, Dicomano"
+    },
+    {
+      "denominazione": "Soma da vino",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 78.59,
+      "unita_si": "L",
+      "comuni": "Palazzuolo"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 339.5,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Carato",
+      "grandezza": "Pesi",
+      "valore": 0.1965,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 361.9,
+      "unita_si": "g",
+      "comuni": "Palazzuolo"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Firenze - Free Download",
+    "description": "Unità di misura in uso nel circondario di Firenze prima del sistema metrico decimale (braccio fiorentino, staioro, barile, libbra...), con valore equivalente nel sistema metrico. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Firenze | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Firenze — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Firenze"
+    ]
+  }
+}
