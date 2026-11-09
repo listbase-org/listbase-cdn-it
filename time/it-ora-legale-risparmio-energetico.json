@@ -1,0 +1,340 @@
+{
+  "id": "it-ora-legale-risparmio-energetico",
+  "name": "Risparmio di energia elettrica grazie all'ora legale in Italia",
+  "title": "Risparmio di energia elettrica grazie all'ora legale in Italia",
+  "description": "Stima del risparmio di energia elettrica (GWh) ottenuto in Italia con l'ora legale, per anno e per mese, secondo i dati GRTN/Terna riportati da Wikipedia.",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Ora_legale",
+  "source_url": "https://it.wikipedia.org/wiki/Ora_legale",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_marzo_gwh",
+      "label": "Risparmio Marzo Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_aprile_gwh",
+      "label": "Risparmio Aprile Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_maggio_gwh",
+      "label": "Risparmio Maggio Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_giugno_gwh",
+      "label": "Risparmio Giugno Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_luglio_gwh",
+      "label": "Risparmio Luglio Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_agosto_gwh",
+      "label": "Risparmio Agosto Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_settembre_gwh",
+      "label": "Risparmio Settembre Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_ottobre_gwh",
+      "label": "Risparmio Ottobre Gwh",
+      "type": "number"
+    },
+    {
+      "key": "risparmio_totale_gwh",
+      "label": "Risparmio Totale Gwh",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 2025,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 310
+    },
+    {
+      "anno": 2024,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 340
+    },
+    {
+      "anno": 2023,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 370
+    },
+    {
+      "anno": 2022,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 420
+    },
+    {
+      "anno": 2021,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 450
+    },
+    {
+      "anno": 2020,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 400
+    },
+    {
+      "anno": 2019,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 505
+    },
+    {
+      "anno": 2018,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 554
+    },
+    {
+      "anno": 2017,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 567
+    },
+    {
+      "anno": 2016,
+      "risparmio_marzo_gwh": "",
+      "risparmio_aprile_gwh": "",
+      "risparmio_maggio_gwh": "",
+      "risparmio_giugno_gwh": "",
+      "risparmio_luglio_gwh": "",
+      "risparmio_agosto_gwh": "",
+      "risparmio_settembre_gwh": "",
+      "risparmio_ottobre_gwh": "",
+      "risparmio_totale_gwh": 573
+    },
+    {
+      "anno": 2015,
+      "risparmio_marzo_gwh": 16.2,
+      "risparmio_aprile_gwh": 144,
+      "risparmio_maggio_gwh": 80.5,
+      "risparmio_giugno_gwh": 31.1,
+      "risparmio_luglio_gwh": 30.3,
+      "risparmio_agosto_gwh": 31.9,
+      "risparmio_settembre_gwh": 70.6,
+      "risparmio_ottobre_gwh": 147.7,
+      "risparmio_totale_gwh": 552
+    },
+    {
+      "anno": 2014,
+      "risparmio_marzo_gwh": 12.6,
+      "risparmio_aprile_gwh": 143.8,
+      "risparmio_maggio_gwh": 76.9,
+      "risparmio_giugno_gwh": 29.2,
+      "risparmio_luglio_gwh": 28.6,
+      "risparmio_agosto_gwh": 30.7,
+      "risparmio_settembre_gwh": 79.7,
+      "risparmio_ottobre_gwh": 148.2,
+      "risparmio_totale_gwh": 549
+    },
+    {
+      "anno": 2013,
+      "risparmio_marzo_gwh": 7,
+      "risparmio_aprile_gwh": 149,
+      "risparmio_maggio_gwh": 81,
+      "risparmio_giugno_gwh": 31,
+      "risparmio_luglio_gwh": 30,
+      "risparmio_agosto_gwh": 32,
+      "risparmio_settembre_gwh": 81,
+      "risparmio_ottobre_gwh": 158,
+      "risparmio_totale_gwh": 569
+    },
+    {
+      "anno": 2012,
+      "risparmio_marzo_gwh": 56,
+      "risparmio_aprile_gwh": 129,
+      "risparmio_maggio_gwh": 81,
+      "risparmio_giugno_gwh": 34,
+      "risparmio_luglio_gwh": 34,
+      "risparmio_agosto_gwh": 33,
+      "risparmio_settembre_gwh": 85,
+      "risparmio_ottobre_gwh": 161,
+      "risparmio_totale_gwh": 613
+    },
+    {
+      "anno": 2011,
+      "risparmio_marzo_gwh": 30,
+      "risparmio_aprile_gwh": 150,
+      "risparmio_maggio_gwh": 87,
+      "risparmio_giugno_gwh": 35,
+      "risparmio_luglio_gwh": 36,
+      "risparmio_agosto_gwh": 38,
+      "risparmio_settembre_gwh": 86,
+      "risparmio_ottobre_gwh": 185,
+      "risparmio_totale_gwh": 647
+    },
+    {
+      "anno": 2010,
+      "risparmio_marzo_gwh": 18.3,
+      "risparmio_aprile_gwh": 150,
+      "risparmio_maggio_gwh": 87,
+      "risparmio_giugno_gwh": 35,
+      "risparmio_luglio_gwh": 36,
+      "risparmio_agosto_gwh": 38.6,
+      "risparmio_settembre_gwh": 85.5,
+      "risparmio_ottobre_gwh": 194,
+      "risparmio_totale_gwh": 644
+    },
+    {
+      "anno": 2009,
+      "risparmio_marzo_gwh": 0.2,
+      "risparmio_aprile_gwh": 169,
+      "risparmio_maggio_gwh": 87,
+      "risparmio_giugno_gwh": 34.7,
+      "risparmio_luglio_gwh": 35.6,
+      "risparmio_agosto_gwh": 38,
+      "risparmio_settembre_gwh": 85.5,
+      "risparmio_ottobre_gwh": 193,
+      "risparmio_totale_gwh": 643
+    },
+    {
+      "anno": 2008,
+      "risparmio_marzo_gwh": 0.2,
+      "risparmio_aprile_gwh": 169,
+      "risparmio_maggio_gwh": 86.7,
+      "risparmio_giugno_gwh": 34.5,
+      "risparmio_luglio_gwh": 35.5,
+      "risparmio_agosto_gwh": 38,
+      "risparmio_settembre_gwh": 85.3,
+      "risparmio_ottobre_gwh": 197,
+      "risparmio_totale_gwh": 646
+    },
+    {
+      "anno": 2007,
+      "risparmio_marzo_gwh": 32,
+      "risparmio_aprile_gwh": 169,
+      "risparmio_maggio_gwh": 86,
+      "risparmio_giugno_gwh": 34,
+      "risparmio_luglio_gwh": 35,
+      "risparmio_agosto_gwh": 38,
+      "risparmio_settembre_gwh": 85.2,
+      "risparmio_ottobre_gwh": 164.5,
+      "risparmio_totale_gwh": 643
+    },
+    {
+      "anno": 2006,
+      "risparmio_marzo_gwh": 0,
+      "risparmio_aprile_gwh": 169,
+      "risparmio_maggio_gwh": 87,
+      "risparmio_giugno_gwh": 34,
+      "risparmio_luglio_gwh": 35,
+      "risparmio_agosto_gwh": 38,
+      "risparmio_settembre_gwh": 85,
+      "risparmio_ottobre_gwh": 197,
+      "risparmio_totale_gwh": 645
+    },
+    {
+      "anno": 2005,
+      "risparmio_marzo_gwh": 0,
+      "risparmio_aprile_gwh": 167,
+      "risparmio_maggio_gwh": 86,
+      "risparmio_giugno_gwh": 34,
+      "risparmio_luglio_gwh": 35,
+      "risparmio_agosto_gwh": 37,
+      "risparmio_settembre_gwh": 84,
+      "risparmio_ottobre_gwh": 197,
+      "risparmio_totale_gwh": 640
+    },
+    {
+      "anno": 2004,
+      "risparmio_marzo_gwh": 0,
+      "risparmio_aprile_gwh": 178,
+      "risparmio_maggio_gwh": 72,
+      "risparmio_giugno_gwh": 27,
+      "risparmio_luglio_gwh": 29,
+      "risparmio_agosto_gwh": 51,
+      "risparmio_settembre_gwh": 85,
+      "risparmio_ottobre_gwh": 167,
+      "risparmio_totale_gwh": 609
+    }
+  ],
+  "meta": {
+    "title": "Risparmio di energia elettrica grazie all'ora legale in Italia - Free Download",
+    "description": "Stima del risparmio di energia elettrica (GWh) ottenuto in Italia con l'ora legale, per anno e per mese, secondo i dati GRTN/Terna riportati da Wikipedia. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Risparmio di energia elettrica grazie all'ora legale in Italia | ListBase",
+    "seo_description": "Download Risparmio di energia elettrica grazie all'ora legale in Italia — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ora_legale"
+    ]
+  }
+}

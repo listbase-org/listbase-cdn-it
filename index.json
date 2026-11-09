@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-09T02:21:46.887Z",
-  "total_datasets": 527,
-  "total_records": 142375,
+  "generated": "2026-11-09T02:21:53.748Z",
+  "total_datasets": 528,
+  "total_records": 142397,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -16560,6 +16560,37 @@
         "xlsx": {
           "name": "it-ora-legale-date-storiche_IT.xlsx",
           "size": 9641
+        }
+      }
+    },
+    {
+      "id": "it-ora-legale-risparmio-energetico",
+      "name": "Risparmio di energia elettrica grazie all'ora legale in Italia",
+      "category": "time",
+      "record_count": 22,
+      "columns": [
+        "anno",
+        "risparmio_marzo_gwh",
+        "risparmio_aprile_gwh",
+        "risparmio_maggio_gwh",
+        "risparmio_giugno_gwh",
+        "risparmio_luglio_gwh",
+        "risparmio_agosto_gwh",
+        "risparmio_settembre_gwh",
+        "risparmio_ottobre_gwh",
+        "risparmio_totale_gwh"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ora_legale",
+      "updated": "2026-11",
+      "size": 10088,
+      "files": {
+        "csv": {
+          "name": "it-ora-legale-risparmio-energetico_IT.csv",
+          "size": 1301
+        },
+        "xlsx": {
+          "name": "it-ora-legale-risparmio-energetico_IT.xlsx",
+          "size": 7791
         }
       }
     },
