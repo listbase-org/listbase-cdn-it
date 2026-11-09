@@ -1,0 +1,478 @@
+{
+  "id": "it-leone-d-oro-miglior-film",
+  "name": "Leone d'oro per il miglior film — vincitori",
+  "title": "Leone d'oro per il miglior film — vincitori",
+  "description": "Film vincitori del Leone d'oro alla Mostra internazionale d'arte cinematografica di Venezia, con anno, regista e paese di produzione.",
+  "category": "entertainment",
+  "source": "https://it.wikipedia.org/wiki/Leone_d'oro_per_il_miglior_film",
+  "source_url": "https://it.wikipedia.org/wiki/Leone_d'oro_per_il_miglior_film",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "regia",
+      "label": "Regia",
+      "type": "string"
+    },
+    {
+      "key": "paese",
+      "label": "Paese",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1947,
+      "film": "Sirena (Siréna)",
+      "regia": "Karel Steklý",
+      "paese": "Cecoslovacchia"
+    },
+    {
+      "anno": 1948,
+      "film": "Amleto (Hamlet)",
+      "regia": "Laurence Olivier",
+      "paese": "Regno Unito"
+    },
+    {
+      "anno": 1949,
+      "film": "Manon",
+      "regia": "Henri-Georges Clouzot",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1950,
+      "film": "Giustizia è fatta (Justice est faite)",
+      "regia": "André Cayatte",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1951,
+      "film": "Rashomon (Rashômon)",
+      "regia": "Akira Kurosawa",
+      "paese": "Giappone"
+    },
+    {
+      "anno": 1952,
+      "film": "Giochi proibiti (Jeux interdits)",
+      "regia": "René Clément",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1954,
+      "film": "Giulietta e Romeo",
+      "regia": "Renato Castellani",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1955,
+      "film": "Ordet - La parola (Ordet)",
+      "regia": "Carl Theodor Dreyer",
+      "paese": "Danimarca"
+    },
+    {
+      "anno": 1957,
+      "film": "Aparajito",
+      "regia": "Satyajit Ray",
+      "paese": "India"
+    },
+    {
+      "anno": 1958,
+      "film": "L'uomo del riksciò (Muhomatsu No Issho)",
+      "regia": "Hiroshi Inagaki",
+      "paese": "Giappone"
+    },
+    {
+      "anno": 1959,
+      "film": "La grande guerra",
+      "regia": "Mario Monicelli",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1959,
+      "film": "Il generale Della Rovere",
+      "regia": "Roberto Rossellini",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1960,
+      "film": "Il passaggio del Reno (Le passage du Rhin)",
+      "regia": "André Cayatte",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1961,
+      "film": "L'anno scorso a Marienbad (L'année dernière à Marienbad)",
+      "regia": "Alain Resnais",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1962,
+      "film": "Cronaca familiare",
+      "regia": "Valerio Zurlini",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1962,
+      "film": "L'infanzia di Ivan (Ivanovo Detstvo)",
+      "regia": "Andrej Tarkovskij",
+      "paese": "Unione Sovietica"
+    },
+    {
+      "anno": 1963,
+      "film": "Le mani sulla città",
+      "regia": "Francesco Rosi",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1964,
+      "film": "Il deserto rosso",
+      "regia": "Michelangelo Antonioni",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1965,
+      "film": "Vaghe stelle dell'Orsa...",
+      "regia": "Luchino Visconti",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1966,
+      "film": "La battaglia di Algeri",
+      "regia": "Gillo Pontecorvo",
+      "paese": "Italia / Algeria"
+    },
+    {
+      "anno": 1967,
+      "film": "Bella di giorno (Belle de jour)",
+      "regia": "Luis Buñuel",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1968,
+      "film": "Artisti sotto la tenda del circo: perplessi (Die Artisten in der Zirkuskuppel: ratlos)",
+      "regia": "Alexander Kluge",
+      "paese": "Germania Ovest"
+    },
+    {
+      "anno": 1980,
+      "film": "Atlantic City, U.S.A.",
+      "regia": "Louis Malle",
+      "paese": "Canada / Francia"
+    },
+    {
+      "anno": 1980,
+      "film": "Una notte d'estate - Gloria (Gloria)",
+      "regia": "John Cassavetes",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 1981,
+      "film": "Anni di piombo (Die bleierne Zeit)",
+      "regia": "Margarethe von Trotta",
+      "paese": "Germania Ovest"
+    },
+    {
+      "anno": 1982,
+      "film": "Lo stato delle cose (Der Stand der Dinge)",
+      "regia": "Wim Wenders",
+      "paese": "Germania Ovest"
+    },
+    {
+      "anno": 1983,
+      "film": "Prénom Carmen (Prénom Carmen)",
+      "regia": "Jean-Luc Godard",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1984,
+      "film": "L'anno del sole quieto (Rok spokojnego słońca)",
+      "regia": "Krzysztof Zanussi",
+      "paese": "Polonia"
+    },
+    {
+      "anno": 1985,
+      "film": "Senza tetto né legge (Sans toit ni loi)",
+      "regia": "Agnès Varda",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1986,
+      "film": "Il raggio verde (Le rayon vert)",
+      "regia": "Éric Rohmer",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1987,
+      "film": "Arrivederci ragazzi (Au revoir les enfants)",
+      "regia": "Louis Malle",
+      "paese": "Francia"
+    },
+    {
+      "anno": 1988,
+      "film": "La leggenda del santo bevitore",
+      "regia": "Ermanno Olmi",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1989,
+      "film": "Città dolente (Beiqing chengshi)",
+      "regia": "Hou Hsiao-hsien",
+      "paese": "Taiwan"
+    },
+    {
+      "anno": 1990,
+      "film": "Rosencrantz e Guildenstern sono morti (Rosenkrantz And Guildenstern Are Dead)",
+      "regia": "Tom Stoppard",
+      "paese": "Regno Unito"
+    },
+    {
+      "anno": 1991,
+      "film": "Urga - Territorio d'amore (Urga)",
+      "regia": "Nikita Michalkov",
+      "paese": "Unione Sovietica"
+    },
+    {
+      "anno": 1992,
+      "film": "La storia di Qiu Ju (Qui Ju da guansi)",
+      "regia": "Zhang Yimou",
+      "paese": "Cina"
+    },
+    {
+      "anno": 1993,
+      "film": "America oggi (Short Cuts)",
+      "regia": "Robert Altman",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 1993,
+      "film": "Tre colori - Film blu (Trois couleurs: Bleu)",
+      "regia": "Krzysztof Kieślowski",
+      "paese": "Francia / Polonia"
+    },
+    {
+      "anno": 1994,
+      "film": "Vive l'amour (Aiqing Wansui)",
+      "regia": "Tsai Ming-liang",
+      "paese": "Taiwan"
+    },
+    {
+      "anno": 1994,
+      "film": "Prima della pioggia (Pred doždot)",
+      "regia": "Milčo Mančevski",
+      "paese": "Macedonia del Nord"
+    },
+    {
+      "anno": 1995,
+      "film": "Cyclo (Xich-lo)",
+      "regia": "Trần Anh Hùng",
+      "paese": "Vietnam / Francia"
+    },
+    {
+      "anno": 1996,
+      "film": "Michael Collins",
+      "regia": "Neil Jordan",
+      "paese": "Stati Uniti / Irlanda"
+    },
+    {
+      "anno": 1997,
+      "film": "Hana-bi - Fiori di fuoco (Hana-bi)",
+      "regia": "Takeshi Kitano",
+      "paese": "Giappone"
+    },
+    {
+      "anno": 1998,
+      "film": "Così ridevano",
+      "regia": "Gianni Amelio",
+      "paese": "Italia"
+    },
+    {
+      "anno": 1999,
+      "film": "Non uno di meno (Yi ge dou bu neng shao)",
+      "regia": "Zhang Yimou",
+      "paese": "Cina"
+    },
+    {
+      "anno": 2000,
+      "film": "Il cerchio (Dayereh)",
+      "regia": "Jafar Panahi",
+      "paese": "Iran"
+    },
+    {
+      "anno": 2001,
+      "film": "Monsoon Wedding - Matrimonio indiano (Monsoon Wedding)",
+      "regia": "Mira Nair",
+      "paese": "India"
+    },
+    {
+      "anno": 2002,
+      "film": "Magdalene (The Magdalene Sisters)",
+      "regia": "Peter Mullan",
+      "paese": "Regno Unito / Irlanda"
+    },
+    {
+      "anno": 2003,
+      "film": "Il ritorno (Vozvraščenie)",
+      "regia": "Andrej Petrovič Zvjagincev",
+      "paese": "Russia"
+    },
+    {
+      "anno": 2004,
+      "film": "Il segreto di Vera Drake (Vera Drake)",
+      "regia": "Mike Leigh",
+      "paese": "Regno Unito"
+    },
+    {
+      "anno": 2005,
+      "film": "I segreti di Brokeback Mountain (Brokeback Mountain)",
+      "regia": "Ang Lee",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2006,
+      "film": "Still Life (Sanxia haoren)",
+      "regia": "Jia Zhangke",
+      "paese": "Cina"
+    },
+    {
+      "anno": 2007,
+      "film": "Lussuria - Seduzione e tradimento (Se, jie)",
+      "regia": "Ang Lee",
+      "paese": "Stati Uniti / Hong Kong / Taiwan"
+    },
+    {
+      "anno": 2008,
+      "film": "The Wrestler",
+      "regia": "Darren Aronofsky",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2009,
+      "film": "Lebanon",
+      "regia": "Samuel Maoz",
+      "paese": "Israele"
+    },
+    {
+      "anno": 2010,
+      "film": "Somewhere",
+      "regia": "Sofia Coppola",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2011,
+      "film": "Faust",
+      "regia": "Aleksandr Sokurov",
+      "paese": "Russia"
+    },
+    {
+      "anno": 2012,
+      "film": "Pietà (Pieta)",
+      "regia": "Kim Ki-duk",
+      "paese": "Corea del Sud"
+    },
+    {
+      "anno": 2013,
+      "film": "Sacro GRA",
+      "regia": "Gianfranco Rosi",
+      "paese": "Italia"
+    },
+    {
+      "anno": 2014,
+      "film": "Un piccione seduto su un ramo riflette sull'esistenza (En duva satt på en gren och funderade på tillvaron)",
+      "regia": "Roy Andersson",
+      "paese": "Svezia"
+    },
+    {
+      "anno": 2015,
+      "film": "Ti guardo (Desde allá)",
+      "regia": "Lorenzo Vigas",
+      "paese": "Venezuela / Messico"
+    },
+    {
+      "anno": 2016,
+      "film": "The Woman Who Left - La donna che se ne è andata (Ang babaeng humayo)",
+      "regia": "Lav Diaz",
+      "paese": "Filippine"
+    },
+    {
+      "anno": 2017,
+      "film": "La forma dell'acqua - The Shape of Water (The Shape of Water)",
+      "regia": "Guillermo del Toro",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2018,
+      "film": "Roma",
+      "regia": "Alfonso Cuarón",
+      "paese": "Messico"
+    },
+    {
+      "anno": 2019,
+      "film": "Joker",
+      "regia": "Todd Phillips",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2020,
+      "film": "Nomadland",
+      "regia": "Chloé Zhao",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2021,
+      "film": "La scelta di Anne - L'Événement (L'Événement)",
+      "regia": "Audrey Diwan",
+      "paese": "Francia"
+    },
+    {
+      "anno": 2022,
+      "film": "Tutta la bellezza e il dolore - All the Beauty and the Bloodshed",
+      "regia": "Laura Poitras",
+      "paese": "Stati Uniti"
+    },
+    {
+      "anno": 2023,
+      "film": "Povere creature! (Poor Things)",
+      "regia": "Yorgos Lanthimos",
+      "paese": "Regno Unito / Irlanda / Stati Uniti"
+    },
+    {
+      "anno": 2024,
+      "film": "La stanza accanto (The Room Next Door)",
+      "regia": "Pedro Almodóvar",
+      "paese": "Spagna"
+    },
+    {
+      "anno": 2025,
+      "film": "Father Mother Sister Brother",
+      "regia": "Jim Jarmusch",
+      "paese": "Stati Uniti / Francia / Irlanda"
+    },
+    {
+      "anno": 2026,
+      "film": "Woman Unknown (Kvinde ukendt)",
+      "regia": "Mayy al-Tukhi",
+      "paese": "Danimarca / Svezia / Lettonia"
+    }
+  ],
+  "meta": {
+    "title": "Leone d'oro per il miglior film — vincitori - Free Download",
+    "description": "Film vincitori del Leone d'oro alla Mostra internazionale d'arte cinematografica di Venezia, con anno, regista e paese di produzione. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Leone d'oro per il miglior film — vincitori | ListBase",
+    "seo_description": "Download Leone d'oro per il miglior film — vincitori — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Leone_d'oro_per_il_miglior_film"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-09T02:21:40.698Z",
-  "total_datasets": 526,
-  "total_records": 142303,
+  "generated": "2026-11-09T02:21:46.887Z",
+  "total_datasets": 527,
+  "total_records": 142375,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -760,6 +760,31 @@
         "xlsx": {
           "name": "it-film-piu-visti-spettatori_IT.xlsx",
           "size": 8608
+        }
+      }
+    },
+    {
+      "id": "it-leone-d-oro-miglior-film",
+      "name": "Leone d'oro per il miglior film — vincitori",
+      "category": "entertainment",
+      "record_count": 72,
+      "columns": [
+        "anno",
+        "film",
+        "regia",
+        "paese"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Leone_d'oro_per_il_miglior_film",
+      "updated": "2026-11",
+      "size": 12033,
+      "files": {
+        "csv": {
+          "name": "it-leone-d-oro-miglior-film_IT.csv",
+          "size": 5226
+        },
+        "xlsx": {
+          "name": "it-leone-d-oro-miglior-film_IT.xlsx",
+          "size": 10728
         }
       }
     },
