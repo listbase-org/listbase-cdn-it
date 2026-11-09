@@ -1,0 +1,116 @@
+{
+  "id": "it-tempo-medio-locale-citta",
+  "name": "Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale",
+  "title": "Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale",
+  "description": "Scarto del tempo medio locale di alcune località italiane rispetto al tempo medio di Roma e al tempo dell'Europa centrale (fuso orario italiano).",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Fuso_orario",
+  "source_url": "https://it.wikipedia.org/wiki/Fuso_orario",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "luogo",
+      "label": "Luogo",
+      "type": "string"
+    },
+    {
+      "key": "differenza_tempo_medio_roma",
+      "label": "Differenza Tempo Medio Roma",
+      "type": "string"
+    },
+    {
+      "key": "differenza_tempo_europa_centrale",
+      "label": "Differenza Tempo Europa Centrale",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "luogo": "Monte Thabor (estremità occidentale del Regno)",
+      "differenza_tempo_medio_roma": "-23m 32s",
+      "differenza_tempo_europa_centrale": "-33m 36s"
+    },
+    {
+      "luogo": "Torino",
+      "differenza_tempo_medio_roma": "-19m 09s",
+      "differenza_tempo_europa_centrale": "-29m 13s"
+    },
+    {
+      "luogo": "Cagliari",
+      "differenza_tempo_medio_roma": "-13m 25s",
+      "differenza_tempo_europa_centrale": "-23m 59s"
+    },
+    {
+      "luogo": "Milano",
+      "differenza_tempo_medio_roma": "-13m 09s",
+      "differenza_tempo_europa_centrale": "-23m 13s"
+    },
+    {
+      "luogo": "Bologna",
+      "differenza_tempo_medio_roma": "-4m 54s",
+      "differenza_tempo_europa_centrale": "-14m 58s"
+    },
+    {
+      "luogo": "Firenze",
+      "differenza_tempo_medio_roma": "-4m 31s",
+      "differenza_tempo_europa_centrale": "-14m 35s"
+    },
+    {
+      "luogo": "Venezia",
+      "differenza_tempo_medio_roma": "-0m 30s",
+      "differenza_tempo_europa_centrale": "-10m 34s"
+    },
+    {
+      "luogo": "Roma",
+      "differenza_tempo_medio_roma": "—",
+      "differenza_tempo_europa_centrale": "-10m 04s"
+    },
+    {
+      "luogo": "Palermo",
+      "differenza_tempo_medio_roma": "+3m 49s",
+      "differenza_tempo_europa_centrale": "-6m 15s"
+    },
+    {
+      "luogo": "Napoli",
+      "differenza_tempo_medio_roma": "+7m 05s",
+      "differenza_tempo_europa_centrale": "-2m 59s"
+    },
+    {
+      "luogo": "Termoli",
+      "differenza_tempo_medio_roma": "+10m 04s",
+      "differenza_tempo_europa_centrale": "—"
+    },
+    {
+      "luogo": "Catania",
+      "differenza_tempo_medio_roma": "+11m 01s",
+      "differenza_tempo_europa_centrale": "+0m 57s"
+    },
+    {
+      "luogo": "Messina",
+      "differenza_tempo_medio_roma": "+12m 22s",
+      "differenza_tempo_europa_centrale": "+2m 18s"
+    },
+    {
+      "luogo": "Bari",
+      "differenza_tempo_medio_roma": "+17m 32s",
+      "differenza_tempo_europa_centrale": "+7m 28s"
+    },
+    {
+      "luogo": "Capo d'Otranto",
+      "differenza_tempo_medio_roma": "+24m 08s",
+      "differenza_tempo_europa_centrale": "+14m 04s"
+    }
+  ],
+  "meta": {
+    "title": "Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale - Free Download",
+    "description": "Scarto del tempo medio locale di alcune località italiane rispetto al tempo medio di Roma e al tempo dell'Europa centrale (fuso orario italiano). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale | ListBase",
+    "seo_description": "Download Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Fuso_orario"
+    ]
+  }
+}

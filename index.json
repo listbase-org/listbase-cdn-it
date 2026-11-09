@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-09T02:21:53.748Z",
-  "total_datasets": 528,
-  "total_records": 142397,
+  "generated": "2026-11-09T02:22:01.364Z",
+  "total_datasets": 529,
+  "total_records": 142412,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -16617,6 +16617,30 @@
         "xlsx": {
           "name": "it-santi-patroni-capoluoghi_IT.xlsx",
           "size": 12094
+        }
+      }
+    },
+    {
+      "id": "it-tempo-medio-locale-citta",
+      "name": "Differenza del tempo medio locale delle città italiane rispetto a Roma e all'ora dell'Europa centrale",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "luogo",
+        "differenza_tempo_medio_roma",
+        "differenza_tempo_europa_centrale"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Fuso_orario",
+      "updated": "2026-11",
+      "size": 4051,
+      "files": {
+        "csv": {
+          "name": "it-tempo-medio-locale-citta_IT.csv",
+          "size": 574
+        },
+        "xlsx": {
+          "name": "it-tempo-medio-locale-citta_IT.xlsx",
+          "size": 7266
         }
       }
     },
