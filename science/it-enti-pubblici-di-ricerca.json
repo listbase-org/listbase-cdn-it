@@ -1,0 +1,184 @@
+{
+  "id": "it-enti-pubblici-di-ricerca",
+  "name": "Enti pubblici di ricerca italiani",
+  "title": "Enti pubblici di ricerca italiani",
+  "description": "Elenco degli enti pubblici di ricerca (EPR) italiani con sigla, denominazione e ministero vigilante.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Enti_pubblici_di_ricerca",
+  "source_url": "https://it.wikipedia.org/wiki/Enti_pubblici_di_ricerca",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "sigla",
+      "label": "Sigla",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "vigilanza",
+      "label": "Vigilanza",
+      "type": "string"
+    },
+    {
+      "key": "gruppo",
+      "label": "Gruppo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sigla": "",
+      "nome": "Area di Ricerca Scientifica e Tecnologica di Trieste - Area Science Park",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "CNR",
+      "nome": "Consiglio nazionale delle ricerche",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "IISG",
+      "nome": "Istituto italiano di studi germanici",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INAF",
+      "nome": "Istituto nazionale di astrofisica",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INDAM",
+      "nome": "Istituto nazionale di alta matematica",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INDIRE",
+      "nome": "Istituto nazionale di documentazione per l'innovazione e la ricerca educativa",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INFN",
+      "nome": "Istituto nazionale di fisica nucleare",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INGV",
+      "nome": "Istituto nazionale di geofisica e vulcanologia",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INRiM",
+      "nome": "Istituto nazionale di ricerca metrologica",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "INVALSI",
+      "nome": "Istituto nazionale per la valutazione del sistema dell'istruzione",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "",
+      "nome": "Museo storico della fisica e centro studi e ricerche Enrico Fermi",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "OGS",
+      "nome": "Istituto nazionale di oceanografia e di geofisica sperimentale",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "",
+      "nome": "Stazione zoologica Anton Dohrn",
+      "vigilanza": "Ministero dell'università e della ricerca (MUR)",
+      "gruppo": "Enti vigilati dal MUR"
+    },
+    {
+      "sigla": "ASI",
+      "nome": "Agenzia Spaziale Italiana",
+      "vigilanza": "Presidenza del Consiglio dei ministri",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "CREA",
+      "nome": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
+      "vigilanza": "Ministero delle politiche agricole alimentari e forestali",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "ENEA",
+      "nome": "Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile",
+      "vigilanza": "Ministero dell'Ambiente e della Sicurezza Energetica",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "INAPP",
+      "nome": "Istituto nazionale per l'analisi delle politiche pubbliche",
+      "vigilanza": "Ministero del lavoro e delle politiche sociali",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "ISPRA",
+      "nome": "Istituto superiore per la protezione e la ricerca ambientale",
+      "vigilanza": "Ministero dell'ambiente e della tutela del territorio e del mare",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "ISS",
+      "nome": "Istituto superiore di sanità",
+      "vigilanza": "Ministero della salute",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "ISTAT",
+      "nome": "Istituto nazionale di statistica",
+      "vigilanza": "Dipartimento per la funzione pubblica",
+      "gruppo": "Enti vigilati da altri ministeri o dalla Presidenza del Consiglio dei ministri"
+    },
+    {
+      "sigla": "FCRM",
+      "nome": "Fondazione Centro Ricerche Marine",
+      "vigilanza": "",
+      "gruppo": "Enti pubblici non vigilati direttamente"
+    },
+    {
+      "sigla": "IIT",
+      "nome": "Istituto italiano di tecnologia",
+      "vigilanza": "",
+      "gruppo": "Enti pubblici non vigilati direttamente"
+    },
+    {
+      "sigla": "IIZZSS",
+      "nome": "Istituti zooprofilattici sperimentali",
+      "vigilanza": "",
+      "gruppo": "Enti pubblici non vigilati direttamente"
+    }
+  ],
+  "meta": {
+    "title": "Enti pubblici di ricerca italiani - Free Download",
+    "description": "Elenco degli enti pubblici di ricerca (EPR) italiani con sigla, denominazione e ministero vigilante. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Enti pubblici di ricerca italiani | ListBase",
+    "seo_description": "Download Enti pubblici di ricerca italiani — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Enti_pubblici_di_ricerca"
+    ]
+  }
+}

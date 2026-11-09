@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-09T02:21:33.287Z",
-  "total_datasets": 525,
-  "total_records": 142280,
+  "generated": "2026-11-09T02:21:40.698Z",
+  "total_datasets": 526,
+  "total_records": 142303,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -15593,6 +15593,31 @@
         "xlsx": {
           "name": "it-astronauti-italiani_IT.xlsx",
           "size": 8281
+        }
+      }
+    },
+    {
+      "id": "it-enti-pubblici-di-ricerca",
+      "name": "Enti pubblici di ricerca italiani",
+      "category": "science",
+      "record_count": 23,
+      "columns": [
+        "sigla",
+        "nome",
+        "vigilanza",
+        "gruppo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Enti_pubblici_di_ricerca",
+      "updated": "2026-11",
+      "size": 6693,
+      "files": {
+        "csv": {
+          "name": "it-enti-pubblici-di-ricerca_IT.csv",
+          "size": 3377
+        },
+        "xlsx": {
+          "name": "it-enti-pubblici-di-ricerca_IT.xlsx",
+          "size": 7922
         }
       }
     },
