@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-10T02:13:33.960Z",
-  "total_datasets": 532,
-  "total_records": 142712,
+  "generated": "2026-11-10T02:13:43.349Z",
+  "total_datasets": 533,
+  "total_records": 142876,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -15834,6 +15834,35 @@
         "xlsx": {
           "name": "it-comuni-piu-popolosi_IT.xlsx",
           "size": 11523
+        }
+      }
+    },
+    {
+      "id": "it-natalita-mortalita-serie-storica",
+      "name": "Nati, morti e natalità in Italia dal 1862",
+      "category": "society",
+      "record_count": 164,
+      "columns": [
+        "anno",
+        "popolazione_1_gennaio",
+        "nati",
+        "tasso_natalita_permille",
+        "morti",
+        "tasso_mortalita_permille",
+        "saldo_naturale",
+        "tasso_fecondita_totale"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Demografia_d'Italia",
+      "updated": "2026-11",
+      "size": 45797,
+      "files": {
+        "csv": {
+          "name": "it-natalita-mortalita-serie-storica_IT.csv",
+          "size": 10828
+        },
+        "xlsx": {
+          "name": "it-natalita-mortalita-serie-storica_IT.xlsx",
+          "size": 14820
         }
       }
     },

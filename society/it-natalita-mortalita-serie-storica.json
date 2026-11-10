@@ -1,0 +1,1706 @@
+{
+  "id": "it-natalita-mortalita-serie-storica",
+  "name": "Nati, morti e natalità in Italia dal 1862",
+  "title": "Nati, morti e natalità in Italia dal 1862",
+  "description": "Serie storica annuale della popolazione italiana: popolazione al 1º gennaio, nati, morti, tassi di natalità e mortalità, saldo naturale e fecondità totale.",
+  "category": "society",
+  "source": "https://it.wikipedia.org/wiki/Demografia_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Demografia_d'Italia",
+  "updated": "2026-11",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "popolazione_1_gennaio",
+      "label": "Popolazione 1 Gennaio",
+      "type": "number"
+    },
+    {
+      "key": "nati",
+      "label": "Nati",
+      "type": "number"
+    },
+    {
+      "key": "tasso_natalita_permille",
+      "label": "Tasso Natalita Permille",
+      "type": "number"
+    },
+    {
+      "key": "morti",
+      "label": "Morti",
+      "type": "number"
+    },
+    {
+      "key": "tasso_mortalita_permille",
+      "label": "Tasso Mortalita Permille",
+      "type": "number"
+    },
+    {
+      "key": "saldo_naturale",
+      "label": "Saldo Naturale",
+      "type": "number"
+    },
+    {
+      "key": "tasso_fecondita_totale",
+      "label": "Tasso Fecondita Totale",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1862,
+      "popolazione_1_gennaio": 26328000,
+      "nati": 991000,
+      "tasso_natalita_permille": 37.5,
+      "morti": 815000,
+      "tasso_mortalita_permille": 30.9,
+      "saldo_naturale": 176000,
+      "tasso_fecondita_totale": 4.93
+    },
+    {
+      "anno": 1863,
+      "popolazione_1_gennaio": 26507000,
+      "nati": 1026000,
+      "tasso_natalita_permille": 38.6,
+      "morti": 824000,
+      "tasso_mortalita_permille": 31,
+      "saldo_naturale": 202000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1864,
+      "popolazione_1_gennaio": 26712000,
+      "nati": 1000000,
+      "tasso_natalita_permille": 37.3,
+      "morti": 802000,
+      "tasso_mortalita_permille": 29.9,
+      "saldo_naturale": 198000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1865,
+      "popolazione_1_gennaio": 26915000,
+      "nati": 1024000,
+      "tasso_natalita_permille": 37.9,
+      "morti": 812000,
+      "tasso_mortalita_permille": 30,
+      "saldo_naturale": 212000,
+      "tasso_fecondita_totale": 4.91
+    },
+    {
+      "anno": 1866,
+      "popolazione_1_gennaio": 27131000,
+      "nati": 1044000,
+      "tasso_natalita_permille": 38.3,
+      "morti": 798000,
+      "tasso_mortalita_permille": 29.3,
+      "saldo_naturale": 246000,
+      "tasso_fecondita_totale": 4.91
+    },
+    {
+      "anno": 1867,
+      "popolazione_1_gennaio": 27381000,
+      "nati": 991000,
+      "tasso_natalita_permille": 36.2,
+      "morti": 935000,
+      "tasso_mortalita_permille": 34.1,
+      "saldo_naturale": 56000,
+      "tasso_fecondita_totale": 4.92
+    },
+    {
+      "anno": 1868,
+      "popolazione_1_gennaio": 27440000,
+      "nati": 964000,
+      "tasso_natalita_permille": 35.1,
+      "morti": 844000,
+      "tasso_mortalita_permille": 30.7,
+      "saldo_naturale": 120000,
+      "tasso_fecondita_totale": 4.92
+    },
+    {
+      "anno": 1869,
+      "popolazione_1_gennaio": 27561000,
+      "nati": 1016000,
+      "tasso_natalita_permille": 36.7,
+      "morti": 777000,
+      "tasso_mortalita_permille": 28.1,
+      "saldo_naturale": 239000,
+      "tasso_fecondita_totale": 4.91
+    },
+    {
+      "anno": 1870,
+      "popolazione_1_gennaio": 27801000,
+      "nati": 1016000,
+      "tasso_natalita_permille": 36.4,
+      "morti": 840000,
+      "tasso_mortalita_permille": 30.1,
+      "saldo_naturale": 176000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1871,
+      "popolazione_1_gennaio": 27974000,
+      "nati": 1026000,
+      "tasso_natalita_permille": 36.6,
+      "morti": 845000,
+      "tasso_mortalita_permille": 30.1,
+      "saldo_naturale": 181000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1872,
+      "popolazione_1_gennaio": 28151000,
+      "nati": 1060000,
+      "tasso_natalita_permille": 37.5,
+      "morti": 868000,
+      "tasso_mortalita_permille": 30.7,
+      "saldo_naturale": 192000,
+      "tasso_fecondita_totale": 4.89
+    },
+    {
+      "anno": 1873,
+      "popolazione_1_gennaio": 28314000,
+      "nati": 1023000,
+      "tasso_natalita_permille": 36,
+      "morti": 854000,
+      "tasso_mortalita_permille": 30.1,
+      "saldo_naturale": 169000,
+      "tasso_fecondita_totale": 4.88
+    },
+    {
+      "anno": 1874,
+      "popolazione_1_gennaio": 28459000,
+      "nati": 985000,
+      "tasso_natalita_permille": 34.6,
+      "morti": 868000,
+      "tasso_mortalita_permille": 30.5,
+      "saldo_naturale": 117000,
+      "tasso_fecondita_totale": 4.89
+    },
+    {
+      "anno": 1875,
+      "popolazione_1_gennaio": 28551000,
+      "nati": 1072000,
+      "tasso_natalita_permille": 37.4,
+      "morti": 885000,
+      "tasso_mortalita_permille": 30.9,
+      "saldo_naturale": 187000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1876,
+      "popolazione_1_gennaio": 28709000,
+      "nati": 1121000,
+      "tasso_natalita_permille": 38.9,
+      "morti": 835000,
+      "tasso_mortalita_permille": 29,
+      "saldo_naturale": 286000,
+      "tasso_fecondita_totale": 4.9
+    },
+    {
+      "anno": 1877,
+      "popolazione_1_gennaio": 28964000,
+      "nati": 1063000,
+      "tasso_natalita_permille": 36.6,
+      "morti": 823000,
+      "tasso_mortalita_permille": 28.3,
+      "saldo_naturale": 240000,
+      "tasso_fecondita_totale": 4.91
+    },
+    {
+      "anno": 1878,
+      "popolazione_1_gennaio": 29169000,
+      "nati": 1046000,
+      "tasso_natalita_permille": 35.8,
+      "morti": 850000,
+      "tasso_mortalita_permille": 29.1,
+      "saldo_naturale": 196000,
+      "tasso_fecondita_totale": 4.92
+    },
+    {
+      "anno": 1879,
+      "popolazione_1_gennaio": 29334000,
+      "nati": 1097000,
+      "tasso_natalita_permille": 37.3,
+      "morti": 873000,
+      "tasso_mortalita_permille": 29.7,
+      "saldo_naturale": 224000,
+      "tasso_fecondita_totale": 4.95
+    },
+    {
+      "anno": 1880,
+      "popolazione_1_gennaio": 29516000,
+      "nati": 989000,
+      "tasso_natalita_permille": 33.5,
+      "morti": 906000,
+      "tasso_mortalita_permille": 30.7,
+      "saldo_naturale": 83000,
+      "tasso_fecondita_totale": 4.98
+    },
+    {
+      "anno": 1881,
+      "popolazione_1_gennaio": 29552000,
+      "nati": 1112000,
+      "tasso_natalita_permille": 37.5,
+      "morti": 819000,
+      "tasso_mortalita_permille": 27.6,
+      "saldo_naturale": 293000,
+      "tasso_fecondita_totale": 5
+    },
+    {
+      "anno": 1882,
+      "popolazione_1_gennaio": 29791000,
+      "nati": 1090000,
+      "tasso_natalita_permille": 36.5,
+      "morti": 825000,
+      "tasso_mortalita_permille": 27.6,
+      "saldo_naturale": 265000,
+      "tasso_fecondita_totale": 5.03
+    },
+    {
+      "anno": 1883,
+      "popolazione_1_gennaio": 30005000,
+      "nati": 1101000,
+      "tasso_natalita_permille": 36.6,
+      "morti": 830000,
+      "tasso_mortalita_permille": 27.6,
+      "saldo_naturale": 271000,
+      "tasso_fecondita_totale": 5.06
+    },
+    {
+      "anno": 1884,
+      "popolazione_1_gennaio": 30221000,
+      "nati": 1162000,
+      "tasso_natalita_permille": 38.3,
+      "morti": 816000,
+      "tasso_mortalita_permille": 26.9,
+      "saldo_naturale": 346000,
+      "tasso_fecondita_totale": 5.05
+    },
+    {
+      "anno": 1885,
+      "popolazione_1_gennaio": 30511000,
+      "nati": 1156000,
+      "tasso_natalita_permille": 37.7,
+      "morti": 823000,
+      "tasso_mortalita_permille": 26.9,
+      "saldo_naturale": 333000,
+      "tasso_fecondita_totale": 5.04
+    },
+    {
+      "anno": 1886,
+      "popolazione_1_gennaio": 30776000,
+      "nati": 1117000,
+      "tasso_natalita_permille": 36.2,
+      "morti": 882000,
+      "tasso_mortalita_permille": 28.6,
+      "saldo_naturale": 235000,
+      "tasso_fecondita_totale": 5.04
+    },
+    {
+      "anno": 1887,
+      "popolazione_1_gennaio": 30937000,
+      "nati": 1184000,
+      "tasso_natalita_permille": 38.1,
+      "morti": 864000,
+      "tasso_mortalita_permille": 27.8,
+      "saldo_naturale": 320000,
+      "tasso_fecondita_totale": 5.03
+    },
+    {
+      "anno": 1888,
+      "popolazione_1_gennaio": 31160000,
+      "nati": 1149000,
+      "tasso_natalita_permille": 36.8,
+      "morti": 855000,
+      "tasso_mortalita_permille": 27.4,
+      "saldo_naturale": 294000,
+      "tasso_fecondita_totale": 5.02
+    },
+    {
+      "anno": 1889,
+      "popolazione_1_gennaio": 31325000,
+      "nati": 1178000,
+      "tasso_natalita_permille": 37.4,
+      "morti": 801000,
+      "tasso_mortalita_permille": 25.5,
+      "saldo_naturale": 377000,
+      "tasso_fecondita_totale": 4.98
+    },
+    {
+      "anno": 1890,
+      "popolazione_1_gennaio": 31611000,
+      "nati": 1110000,
+      "tasso_natalita_permille": 35,
+      "morti": 830000,
+      "tasso_mortalita_permille": 26.2,
+      "saldo_naturale": 280000,
+      "tasso_fecondita_totale": 4.95
+    },
+    {
+      "anno": 1891,
+      "popolazione_1_gennaio": 31792000,
+      "nati": 1159000,
+      "tasso_natalita_permille": 36.3,
+      "morti": 829000,
+      "tasso_mortalita_permille": 26,
+      "saldo_naturale": 330000,
+      "tasso_fecondita_totale": 4.91
+    },
+    {
+      "anno": 1892,
+      "popolazione_1_gennaio": 31992000,
+      "nati": 1137000,
+      "tasso_natalita_permille": 35.4,
+      "morti": 837000,
+      "tasso_mortalita_permille": 26.1,
+      "saldo_naturale": 300000,
+      "tasso_fecondita_totale": 4.88
+    },
+    {
+      "anno": 1893,
+      "popolazione_1_gennaio": 32189000,
+      "nati": 1154000,
+      "tasso_natalita_permille": 35.7,
+      "morti": 809000,
+      "tasso_mortalita_permille": 25,
+      "saldo_naturale": 345000,
+      "tasso_fecondita_totale": 4.84
+    },
+    {
+      "anno": 1894,
+      "popolazione_1_gennaio": 32417000,
+      "nati": 1130000,
+      "tasso_natalita_permille": 34.8,
+      "morti": 808000,
+      "tasso_mortalita_permille": 24.9,
+      "saldo_naturale": 322000,
+      "tasso_fecondita_totale": 4.79
+    },
+    {
+      "anno": 1895,
+      "popolazione_1_gennaio": 32608000,
+      "nati": 1120000,
+      "tasso_natalita_permille": 34.3,
+      "morti": 817000,
+      "tasso_mortalita_permille": 25,
+      "saldo_naturale": 303000,
+      "tasso_fecondita_totale": 4.74
+    },
+    {
+      "anno": 1896,
+      "popolazione_1_gennaio": 32770000,
+      "nati": 1123000,
+      "tasso_natalita_permille": 34.2,
+      "morti": 790000,
+      "tasso_mortalita_permille": 24,
+      "saldo_naturale": 333000,
+      "tasso_fecondita_totale": 4.69
+    },
+    {
+      "anno": 1897,
+      "popolazione_1_gennaio": 32955000,
+      "nati": 1128000,
+      "tasso_natalita_permille": 34.1,
+      "morti": 725000,
+      "tasso_mortalita_permille": 21.9,
+      "saldo_naturale": 403000,
+      "tasso_fecondita_totale": 4.64
+    },
+    {
+      "anno": 1898,
+      "popolazione_1_gennaio": 33200000,
+      "nati": 1097000,
+      "tasso_natalita_permille": 33,
+      "morti": 762000,
+      "tasso_mortalita_permille": 22.9,
+      "saldo_naturale": 335000,
+      "tasso_fecondita_totale": 4.59
+    },
+    {
+      "anno": 1899,
+      "popolazione_1_gennaio": 33369000,
+      "nati": 1116000,
+      "tasso_natalita_permille": 33.3,
+      "morti": 734000,
+      "tasso_mortalita_permille": 21.9,
+      "saldo_naturale": 382000,
+      "tasso_fecondita_totale": 4.56
+    },
+    {
+      "anno": 1900,
+      "popolazione_1_gennaio": 33605000,
+      "nati": 1095000,
+      "tasso_natalita_permille": 32.5,
+      "morti": 803000,
+      "tasso_mortalita_permille": 23.8,
+      "saldo_naturale": 292000,
+      "tasso_fecondita_totale": 4.53
+    },
+    {
+      "anno": 1901,
+      "popolazione_1_gennaio": 33739000,
+      "nati": 1087000,
+      "tasso_natalita_permille": 32.1,
+      "morti": 746000,
+      "tasso_mortalita_permille": 22,
+      "saldo_naturale": 341000,
+      "tasso_fecondita_totale": 4.49
+    },
+    {
+      "anno": 1902,
+      "popolazione_1_gennaio": 34015000,
+      "nati": 1121000,
+      "tasso_natalita_permille": 32.8,
+      "morti": 759000,
+      "tasso_mortalita_permille": 22.2,
+      "saldo_naturale": 362000,
+      "tasso_fecondita_totale": 4.46
+    },
+    {
+      "anno": 1903,
+      "popolazione_1_gennaio": 34316000,
+      "nati": 1070000,
+      "tasso_natalita_permille": 31.1,
+      "morti": 769000,
+      "tasso_mortalita_permille": 22.3,
+      "saldo_naturale": 301000,
+      "tasso_fecondita_totale": 4.43
+    },
+    {
+      "anno": 1904,
+      "popolazione_1_gennaio": 34555000,
+      "nati": 1112000,
+      "tasso_natalita_permille": 32,
+      "morti": 732000,
+      "tasso_mortalita_permille": 21.1,
+      "saldo_naturale": 380000,
+      "tasso_fecondita_totale": 4.44
+    },
+    {
+      "anno": 1905,
+      "popolazione_1_gennaio": 34875000,
+      "nati": 1112000,
+      "tasso_natalita_permille": 31.8,
+      "morti": 767000,
+      "tasso_mortalita_permille": 21.9,
+      "saldo_naturale": 345000,
+      "tasso_fecondita_totale": 4.45
+    },
+    {
+      "anno": 1906,
+      "popolazione_1_gennaio": 35147000,
+      "nati": 1099000,
+      "tasso_natalita_permille": 31.1,
+      "morti": 732000,
+      "tasso_mortalita_permille": 20.7,
+      "saldo_naturale": 367000,
+      "tasso_fecondita_totale": 4.45
+    },
+    {
+      "anno": 1907,
+      "popolazione_1_gennaio": 35446000,
+      "nati": 1090000,
+      "tasso_natalita_permille": 30.6,
+      "morti": 737000,
+      "tasso_mortalita_permille": 20.7,
+      "saldo_naturale": 353000,
+      "tasso_fecondita_totale": 4.46
+    },
+    {
+      "anno": 1908,
+      "popolazione_1_gennaio": 35742000,
+      "nati": 1168000,
+      "tasso_natalita_permille": 32.5,
+      "morti": 809000,
+      "tasso_mortalita_permille": 22.5,
+      "saldo_naturale": 359000,
+      "tasso_fecondita_totale": 4.47
+    },
+    {
+      "anno": 1909,
+      "popolazione_1_gennaio": 36055000,
+      "nati": 1145000,
+      "tasso_natalita_permille": 31.6,
+      "morti": 779000,
+      "tasso_mortalita_permille": 21.5,
+      "saldo_naturale": 366000,
+      "tasso_fecondita_totale": 4.43
+    },
+    {
+      "anno": 1910,
+      "popolazione_1_gennaio": 36370000,
+      "nati": 1175000,
+      "tasso_natalita_permille": 32.1,
+      "morti": 720000,
+      "tasso_mortalita_permille": 19.7,
+      "saldo_naturale": 455000,
+      "tasso_fecondita_totale": 4.39
+    },
+    {
+      "anno": 1911,
+      "popolazione_1_gennaio": 36774000,
+      "nati": 1123000,
+      "tasso_natalita_permille": 30.4,
+      "morti": 785000,
+      "tasso_mortalita_permille": 21.3,
+      "saldo_naturale": 338000,
+      "tasso_fecondita_totale": 4.36
+    },
+    {
+      "anno": 1912,
+      "popolazione_1_gennaio": 37059000,
+      "nati": 1166000,
+      "tasso_natalita_permille": 31.4,
+      "morti": 672000,
+      "tasso_mortalita_permille": 18.1,
+      "saldo_naturale": 494000,
+      "tasso_fecondita_totale": 4.32
+    },
+    {
+      "anno": 1913,
+      "popolazione_1_gennaio": 37241000,
+      "nati": 1155000,
+      "tasso_natalita_permille": 31,
+      "morti": 701000,
+      "tasso_mortalita_permille": 18.8,
+      "saldo_naturale": 454000,
+      "tasso_fecondita_totale": 4.28
+    },
+    {
+      "anno": 1914,
+      "popolazione_1_gennaio": 37255000,
+      "nati": 1145000,
+      "tasso_natalita_permille": 30.5,
+      "morti": 677000,
+      "tasso_mortalita_permille": 18,
+      "saldo_naturale": 468000,
+      "tasso_fecondita_totale": 4.04
+    },
+    {
+      "anno": 1915,
+      "popolazione_1_gennaio": 37797000,
+      "nati": 1138000,
+      "tasso_natalita_permille": 30,
+      "morti": 848000,
+      "tasso_mortalita_permille": 22.3,
+      "saldo_naturale": 290000,
+      "tasso_fecondita_totale": 3.8
+    },
+    {
+      "anno": 1916,
+      "popolazione_1_gennaio": 38166000,
+      "nati": 906000,
+      "tasso_natalita_permille": 23.8,
+      "morti": 894000,
+      "tasso_mortalita_permille": 23.4,
+      "saldo_naturale": 12000,
+      "tasso_fecondita_totale": 3.56
+    },
+    {
+      "anno": 1917,
+      "popolazione_1_gennaio": 38118000,
+      "nati": 735000,
+      "tasso_natalita_permille": 19.4,
+      "morti": 990000,
+      "tasso_mortalita_permille": 26.1,
+      "saldo_naturale": -255000,
+      "tasso_fecondita_totale": 3.32
+    },
+    {
+      "anno": 1918,
+      "popolazione_1_gennaio": 37844000,
+      "nati": 676000,
+      "tasso_natalita_permille": 18,
+      "morti": 1324000,
+      "tasso_mortalita_permille": 35.3,
+      "saldo_naturale": -648000,
+      "tasso_fecondita_totale": 3.08
+    },
+    {
+      "anno": 1919,
+      "popolazione_1_gennaio": 37195000,
+      "nati": 795000,
+      "tasso_natalita_permille": 21.3,
+      "morti": 707000,
+      "tasso_mortalita_permille": 19,
+      "saldo_naturale": 88000,
+      "tasso_fecondita_totale": 3.24
+    },
+    {
+      "anno": 1920,
+      "popolazione_1_gennaio": 37304000,
+      "nati": 1195000,
+      "tasso_natalita_permille": 32,
+      "morti": 712000,
+      "tasso_mortalita_permille": 19,
+      "saldo_naturale": 483000,
+      "tasso_fecondita_totale": 3.41
+    },
+    {
+      "anno": 1921,
+      "popolazione_1_gennaio": 37491000,
+      "nati": 1151000,
+      "tasso_natalita_permille": 30.5,
+      "morti": 668000,
+      "tasso_mortalita_permille": 17.7,
+      "saldo_naturale": 483000,
+      "tasso_fecondita_totale": 3.57
+    },
+    {
+      "anno": 1922,
+      "popolazione_1_gennaio": 37890000,
+      "nati": 1165000,
+      "tasso_natalita_permille": 30.6,
+      "morti": 688000,
+      "tasso_mortalita_permille": 18.1,
+      "saldo_naturale": 477000,
+      "tasso_fecondita_totale": 3.74
+    },
+    {
+      "anno": 1923,
+      "popolazione_1_gennaio": 38281000,
+      "nati": 1145000,
+      "tasso_natalita_permille": 29.8,
+      "morti": 653000,
+      "tasso_mortalita_permille": 17,
+      "saldo_naturale": 492000,
+      "tasso_fecondita_totale": 3.9
+    },
+    {
+      "anno": 1924,
+      "popolazione_1_gennaio": 38629000,
+      "nati": 1115000,
+      "tasso_natalita_permille": 28.7,
+      "morti": 661000,
+      "tasso_mortalita_permille": 17,
+      "saldo_naturale": 454000,
+      "tasso_fecondita_totale": 3.81
+    },
+    {
+      "anno": 1925,
+      "popolazione_1_gennaio": 38990000,
+      "nati": 1102000,
+      "tasso_natalita_permille": 28.1,
+      "morti": 668000,
+      "tasso_mortalita_permille": 17.1,
+      "saldo_naturale": 434000,
+      "tasso_fecondita_totale": 3.72
+    },
+    {
+      "anno": 1926,
+      "popolazione_1_gennaio": 39339000,
+      "nati": 1088000,
+      "tasso_natalita_permille": 27.5,
+      "morti": 679000,
+      "tasso_mortalita_permille": 17.2,
+      "saldo_naturale": 409000,
+      "tasso_fecondita_totale": 3.64
+    },
+    {
+      "anno": 1927,
+      "popolazione_1_gennaio": 39665000,
+      "nati": 1087000,
+      "tasso_natalita_permille": 27.3,
+      "morti": 639000,
+      "tasso_mortalita_permille": 16,
+      "saldo_naturale": 448000,
+      "tasso_fecondita_totale": 3.55
+    },
+    {
+      "anno": 1928,
+      "popolazione_1_gennaio": 40030000,
+      "nati": 1067000,
+      "tasso_natalita_permille": 26.6,
+      "morti": 643000,
+      "tasso_mortalita_permille": 16,
+      "saldo_naturale": 424000,
+      "tasso_fecondita_totale": 3.46
+    },
+    {
+      "anno": 1929,
+      "popolazione_1_gennaio": 40342000,
+      "nati": 1031000,
+      "tasso_natalita_permille": 25.5,
+      "morti": 666000,
+      "tasso_mortalita_permille": 16.5,
+      "saldo_naturale": 365000,
+      "tasso_fecondita_totale": 3.42
+    },
+    {
+      "anno": 1930,
+      "popolazione_1_gennaio": 40595000,
+      "nati": 1084000,
+      "tasso_natalita_permille": 26.6,
+      "morti": 575000,
+      "tasso_mortalita_permille": 14.1,
+      "saldo_naturale": 509000,
+      "tasso_fecondita_totale": 3.38
+    },
+    {
+      "anno": 1931,
+      "popolazione_1_gennaio": 40987000,
+      "nati": 1018000,
+      "tasso_natalita_permille": 24.7,
+      "morti": 607000,
+      "tasso_mortalita_permille": 14.8,
+      "saldo_naturale": 411000,
+      "tasso_fecondita_totale": 3.21
+    },
+    {
+      "anno": 1932,
+      "popolazione_1_gennaio": 41277000,
+      "nati": 982000,
+      "tasso_natalita_permille": 23.7,
+      "morti": 607000,
+      "tasso_mortalita_permille": 14.7,
+      "saldo_naturale": 375000,
+      "tasso_fecondita_totale": 3.06
+    },
+    {
+      "anno": 1933,
+      "popolazione_1_gennaio": 41585000,
+      "nati": 988000,
+      "tasso_natalita_permille": 23.7,
+      "morti": 571000,
+      "tasso_mortalita_permille": 13.7,
+      "saldo_naturale": 417000,
+      "tasso_fecondita_totale": 3.04
+    },
+    {
+      "anno": 1934,
+      "popolazione_1_gennaio": 41921000,
+      "nati": 987000,
+      "tasso_natalita_permille": 23.4,
+      "morti": 561000,
+      "tasso_mortalita_permille": 13.3,
+      "saldo_naturale": 426000,
+      "tasso_fecondita_totale": 3
+    },
+    {
+      "anno": 1935,
+      "popolazione_1_gennaio": 42265000,
+      "nati": 991000,
+      "tasso_natalita_permille": 23.4,
+      "morti": 592000,
+      "tasso_mortalita_permille": 14,
+      "saldo_naturale": 399000,
+      "tasso_fecondita_totale": 2.98
+    },
+    {
+      "anno": 1936,
+      "popolazione_1_gennaio": 42592000,
+      "nati": 958000,
+      "tasso_natalita_permille": 22.4,
+      "morti": 590000,
+      "tasso_mortalita_permille": 13.8,
+      "saldo_naturale": 368000,
+      "tasso_fecondita_totale": 2.87
+    },
+    {
+      "anno": 1937,
+      "popolazione_1_gennaio": 42908000,
+      "nati": 986000,
+      "tasso_natalita_permille": 22.9,
+      "morti": 615000,
+      "tasso_mortalita_permille": 14.3,
+      "saldo_naturale": 371000,
+      "tasso_fecondita_totale": 2.93
+    },
+    {
+      "anno": 1938,
+      "popolazione_1_gennaio": 43228000,
+      "nati": 1031000,
+      "tasso_natalita_permille": 23.7,
+      "morti": 612000,
+      "tasso_mortalita_permille": 14.1,
+      "saldo_naturale": 419000,
+      "tasso_fecondita_totale": 3.05
+    },
+    {
+      "anno": 1939,
+      "popolazione_1_gennaio": 43610000,
+      "nati": 1034000,
+      "tasso_natalita_permille": 23.6,
+      "morti": 589000,
+      "tasso_mortalita_permille": 13.4,
+      "saldo_naturale": 445000,
+      "tasso_fecondita_totale": 3.07
+    },
+    {
+      "anno": 1940,
+      "popolazione_1_gennaio": 44119000,
+      "nati": 1040000,
+      "tasso_natalita_permille": 23.5,
+      "morti": 616000,
+      "tasso_mortalita_permille": 13.9,
+      "saldo_naturale": 424000,
+      "tasso_fecondita_totale": 3.07
+    },
+    {
+      "anno": 1941,
+      "popolazione_1_gennaio": 44562000,
+      "nati": 930000,
+      "tasso_natalita_permille": 20.8,
+      "morti": 659000,
+      "tasso_mortalita_permille": 14.7,
+      "saldo_naturale": 271000,
+      "tasso_fecondita_totale": 2.74
+    },
+    {
+      "anno": 1942,
+      "popolazione_1_gennaio": 44885000,
+      "nati": 919000,
+      "tasso_natalita_permille": 20.4,
+      "morti": 704000,
+      "tasso_mortalita_permille": 15.6,
+      "saldo_naturale": 215000,
+      "tasso_fecondita_totale": 2.69
+    },
+    {
+      "anno": 1943,
+      "popolazione_1_gennaio": 45119000,
+      "nati": 890000,
+      "tasso_natalita_permille": 19.7,
+      "morti": 792000,
+      "tasso_mortalita_permille": 17.5,
+      "saldo_naturale": 98000,
+      "tasso_fecondita_totale": 2.61
+    },
+    {
+      "anno": 1944,
+      "popolazione_1_gennaio": 45235000,
+      "nati": 822000,
+      "tasso_natalita_permille": 18.1,
+      "morti": 732000,
+      "tasso_mortalita_permille": 16.2,
+      "saldo_naturale": 90000,
+      "tasso_fecondita_totale": 2.39
+    },
+    {
+      "anno": 1945,
+      "popolazione_1_gennaio": 45344000,
+      "nati": 821000,
+      "tasso_natalita_permille": 18.1,
+      "morti": 645000,
+      "tasso_mortalita_permille": 14.2,
+      "saldo_naturale": 176000,
+      "tasso_fecondita_totale": 2.37
+    },
+    {
+      "anno": 1946,
+      "popolazione_1_gennaio": 45540000,
+      "nati": 1036098,
+      "tasso_natalita_permille": 23,
+      "morti": 547952,
+      "tasso_mortalita_permille": 12.1,
+      "saldo_naturale": 488146,
+      "tasso_fecondita_totale": 3.01
+    },
+    {
+      "anno": 1947,
+      "popolazione_1_gennaio": 45910000,
+      "nati": 1011490,
+      "tasso_natalita_permille": 22.2,
+      "morti": 524019,
+      "tasso_mortalita_permille": 11.5,
+      "saldo_naturale": 487481,
+      "tasso_fecondita_totale": 2.89
+    },
+    {
+      "anno": 1948,
+      "popolazione_1_gennaio": 46210000,
+      "nati": 1005851,
+      "tasso_natalita_permille": 21.7,
+      "morti": 486392,
+      "tasso_mortalita_permille": 10.5,
+      "saldo_naturale": 515401,
+      "tasso_fecondita_totale": 2.83
+    },
+    {
+      "anno": 1949,
+      "popolazione_1_gennaio": 46552000,
+      "nati": 937146,
+      "tasso_natalita_permille": 20.1,
+      "morti": 485277,
+      "tasso_mortalita_permille": 10.4,
+      "saldo_naturale": 451869,
+      "tasso_fecondita_totale": 2.62
+    },
+    {
+      "anno": 1950,
+      "popolazione_1_gennaio": 46914000,
+      "nati": 908622,
+      "tasso_natalita_permille": 19.4,
+      "morti": 455619,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 453453,
+      "tasso_fecondita_totale": 2.5
+    },
+    {
+      "anno": 1951,
+      "popolazione_1_gennaio": 47295000,
+      "nati": 860998,
+      "tasso_natalita_permille": 18.2,
+      "morti": 485208,
+      "tasso_mortalita_permille": 10.2,
+      "saldo_naturale": 375790,
+      "tasso_fecondita_totale": 2.35
+    },
+    {
+      "anno": 1952,
+      "popolazione_1_gennaio": 47540154,
+      "nati": 844447,
+      "tasso_natalita_permille": 17.8,
+      "morti": 477894,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": 366553,
+      "tasso_fecondita_totale": 2.34
+    },
+    {
+      "anno": 1953,
+      "popolazione_1_gennaio": 47792434,
+      "nati": 839478,
+      "tasso_natalita_permille": 17.6,
+      "morti": 476015,
+      "tasso_mortalita_permille": 9.9,
+      "saldo_naturale": 363463,
+      "tasso_fecondita_totale": 2.31
+    },
+    {
+      "anno": 1954,
+      "popolazione_1_gennaio": 48121059,
+      "nati": 870689,
+      "tasso_natalita_permille": 18,
+      "morti": 441897,
+      "tasso_mortalita_permille": 9.1,
+      "saldo_naturale": 428792,
+      "tasso_fecondita_totale": 2.35
+    },
+    {
+      "anno": 1955,
+      "popolazione_1_gennaio": 48476568,
+      "nati": 869333,
+      "tasso_natalita_permille": 17.9,
+      "morti": 446689,
+      "tasso_mortalita_permille": 9.2,
+      "saldo_naturale": 422644,
+      "tasso_fecondita_totale": 2.33
+    },
+    {
+      "anno": 1956,
+      "popolazione_1_gennaio": 48788971,
+      "nati": 873608,
+      "tasso_natalita_permille": 17.9,
+      "morti": 497550,
+      "tasso_mortalita_permille": 10.2,
+      "saldo_naturale": 376058,
+      "tasso_fecondita_totale": 2.34
+    },
+    {
+      "anno": 1957,
+      "popolazione_1_gennaio": 49051924,
+      "nati": 878906,
+      "tasso_natalita_permille": 17.9,
+      "morti": 484190,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": 394716,
+      "tasso_fecondita_totale": 2.33
+    },
+    {
+      "anno": 1958,
+      "popolazione_1_gennaio": 49310541,
+      "nati": 870468,
+      "tasso_natalita_permille": 17.6,
+      "morti": 457690,
+      "tasso_mortalita_permille": 9.3,
+      "saldo_naturale": 412778,
+      "tasso_fecondita_totale": 2.31
+    },
+    {
+      "anno": 1959,
+      "popolazione_1_gennaio": 49639684,
+      "nati": 901017,
+      "tasso_natalita_permille": 18.1,
+      "morti": 454740,
+      "tasso_mortalita_permille": 9.1,
+      "saldo_naturale": 446277,
+      "tasso_fecondita_totale": 2.38
+    },
+    {
+      "anno": 1960,
+      "popolazione_1_gennaio": 50025501,
+      "nati": 910192,
+      "tasso_natalita_permille": 18.1,
+      "morti": 480932,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": 429260,
+      "tasso_fecondita_totale": 2.41
+    },
+    {
+      "anno": 1961,
+      "popolazione_1_gennaio": 50373901,
+      "nati": 929657,
+      "tasso_natalita_permille": 18.4,
+      "morti": 468455,
+      "tasso_mortalita_permille": 9.3,
+      "saldo_naturale": 461202,
+      "tasso_fecondita_totale": 2.41
+    },
+    {
+      "anno": 1962,
+      "popolazione_1_gennaio": 50698800,
+      "nati": 937257,
+      "tasso_natalita_permille": 18.4,
+      "morti": 509174,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": 428083,
+      "tasso_fecondita_totale": 2.46
+    },
+    {
+      "anno": 1963,
+      "popolazione_1_gennaio": 51060100,
+      "nati": 960336,
+      "tasso_natalita_permille": 18.8,
+      "morti": 516377,
+      "tasso_mortalita_permille": 10.1,
+      "saldo_naturale": 443959,
+      "tasso_fecondita_totale": 2.56
+    },
+    {
+      "anno": 1964,
+      "popolazione_1_gennaio": 51443900,
+      "nati": 1016120,
+      "tasso_natalita_permille": 19.7,
+      "morti": 490050,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 526070,
+      "tasso_fecondita_totale": 2.7
+    },
+    {
+      "anno": 1965,
+      "popolazione_1_gennaio": 51906800,
+      "nati": 990458,
+      "tasso_natalita_permille": 19.1,
+      "morti": 518008,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": 472450,
+      "tasso_fecondita_totale": 2.66
+    },
+    {
+      "anno": 1966,
+      "popolazione_1_gennaio": 52317900,
+      "nati": 979940,
+      "tasso_natalita_permille": 18.7,
+      "morti": 496281,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 483659,
+      "tasso_fecondita_totale": 2.63
+    },
+    {
+      "anno": 1967,
+      "popolazione_1_gennaio": 52720100,
+      "nati": 948772,
+      "tasso_natalita_permille": 18,
+      "morti": 510122,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 438650,
+      "tasso_fecondita_totale": 2.54
+    },
+    {
+      "anno": 1968,
+      "popolazione_1_gennaio": 53080900,
+      "nati": 930172,
+      "tasso_natalita_permille": 17.6,
+      "morti": 532571,
+      "tasso_mortalita_permille": 10.1,
+      "saldo_naturale": 397601,
+      "tasso_fecondita_totale": 2.49
+    },
+    {
+      "anno": 1969,
+      "popolazione_1_gennaio": 53390601,
+      "nati": 932466,
+      "tasso_natalita_permille": 17.5,
+      "morti": 539129,
+      "tasso_mortalita_permille": 10.1,
+      "saldo_naturale": 393337,
+      "tasso_fecondita_totale": 2.51
+    },
+    {
+      "anno": 1970,
+      "popolazione_1_gennaio": 53685301,
+      "nati": 901472,
+      "tasso_natalita_permille": 16.8,
+      "morti": 521096,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 380376,
+      "tasso_fecondita_totale": 2.43
+    },
+    {
+      "anno": 1971,
+      "popolazione_1_gennaio": 53958400,
+      "nati": 906182,
+      "tasso_natalita_permille": 16.8,
+      "morti": 522654,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 383528,
+      "tasso_fecondita_totale": 2.41
+    },
+    {
+      "anno": 1972,
+      "popolazione_1_gennaio": 54188580,
+      "nati": 888203,
+      "tasso_natalita_permille": 16.3,
+      "morti": 523828,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": 364375,
+      "tasso_fecondita_totale": 2.36
+    },
+    {
+      "anno": 1973,
+      "popolazione_1_gennaio": 54574113,
+      "nati": 874546,
+      "tasso_natalita_permille": 16,
+      "morti": 547487,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": 327059,
+      "tasso_fecondita_totale": 2.34
+    },
+    {
+      "anno": 1974,
+      "popolazione_1_gennaio": 54928701,
+      "nati": 868882,
+      "tasso_natalita_permille": 15.8,
+      "morti": 532052,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 336830,
+      "tasso_fecondita_totale": 2.33
+    },
+    {
+      "anno": 1975,
+      "popolazione_1_gennaio": 55293037,
+      "nati": 827852,
+      "tasso_natalita_permille": 14.9,
+      "morti": 554346,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": 273506,
+      "tasso_fecondita_totale": 2.21
+    },
+    {
+      "anno": 1976,
+      "popolazione_1_gennaio": 55588966,
+      "nati": 781638,
+      "tasso_natalita_permille": 14,
+      "morti": 550565,
+      "tasso_mortalita_permille": 9.9,
+      "saldo_naturale": 231073,
+      "tasso_fecondita_totale": 2.11
+    },
+    {
+      "anno": 1977,
+      "popolazione_1_gennaio": 55847553,
+      "nati": 741103,
+      "tasso_natalita_permille": 13.2,
+      "morti": 546694,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": 194409,
+      "tasso_fecondita_totale": 1.97
+    },
+    {
+      "anno": 1978,
+      "popolazione_1_gennaio": 56063271,
+      "nati": 709043,
+      "tasso_natalita_permille": 12.6,
+      "morti": 540671,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": 168372,
+      "tasso_fecondita_totale": 1.87
+    },
+    {
+      "anno": 1979,
+      "popolazione_1_gennaio": 56247019,
+      "nati": 670221,
+      "tasso_natalita_permille": 11.9,
+      "morti": 538352,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": 131869,
+      "tasso_fecondita_totale": 1.76
+    },
+    {
+      "anno": 1980,
+      "popolazione_1_gennaio": 56388481,
+      "nati": 640401,
+      "tasso_natalita_permille": 11.3,
+      "morti": 554510,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": 85891,
+      "tasso_fecondita_totale": 1.68
+    },
+    {
+      "anno": 1981,
+      "popolazione_1_gennaio": 56479287,
+      "nati": 623103,
+      "tasso_natalita_permille": 11,
+      "morti": 545291,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 77812,
+      "tasso_fecondita_totale": 1.6
+    },
+    {
+      "anno": 1982,
+      "popolazione_1_gennaio": 56524064,
+      "nati": 619097,
+      "tasso_natalita_permille": 10.9,
+      "morti": 522332,
+      "tasso_mortalita_permille": 9.2,
+      "saldo_naturale": 96765,
+      "tasso_fecondita_totale": 1.6
+    },
+    {
+      "anno": 1983,
+      "popolazione_1_gennaio": 56563031,
+      "nati": 601928,
+      "tasso_natalita_permille": 10.6,
+      "morti": 553568,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": 48360,
+      "tasso_fecondita_totale": 1.54
+    },
+    {
+      "anno": 1984,
+      "popolazione_1_gennaio": 56565118,
+      "nati": 587871,
+      "tasso_natalita_permille": 10.4,
+      "morti": 534676,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 53195,
+      "tasso_fecondita_totale": 1.48
+    },
+    {
+      "anno": 1985,
+      "popolazione_1_gennaio": 56588319,
+      "nati": 577345,
+      "tasso_natalita_permille": 10.2,
+      "morti": 547436,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": 29909,
+      "tasso_fecondita_totale": 1.45
+    },
+    {
+      "anno": 1986,
+      "popolazione_1_gennaio": 56597823,
+      "nati": 555445,
+      "tasso_natalita_permille": 9.8,
+      "morti": 537453,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 17992,
+      "tasso_fecondita_totale": 1.37
+    },
+    {
+      "anno": 1987,
+      "popolazione_1_gennaio": 56594488,
+      "nati": 551539,
+      "tasso_natalita_permille": 9.8,
+      "morti": 524999,
+      "tasso_mortalita_permille": 9.3,
+      "saldo_naturale": 26540,
+      "tasso_fecondita_totale": 1.35
+    },
+    {
+      "anno": 1988,
+      "popolazione_1_gennaio": 56609376,
+      "nati": 569698,
+      "tasso_natalita_permille": 10.1,
+      "morti": 539426,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 30272,
+      "tasso_fecondita_totale": 1.38
+    },
+    {
+      "anno": 1989,
+      "popolazione_1_gennaio": 56649201,
+      "nati": 560688,
+      "tasso_natalita_permille": 9.8,
+      "morti": 525960,
+      "tasso_mortalita_permille": 9.3,
+      "saldo_naturale": 34728,
+      "tasso_fecondita_totale": 1.35
+    },
+    {
+      "anno": 1990,
+      "popolazione_1_gennaio": 56694360,
+      "nati": 569255,
+      "tasso_natalita_permille": 9.9,
+      "morti": 543708,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 25547,
+      "tasso_fecondita_totale": 1.36
+    },
+    {
+      "anno": 1991,
+      "popolazione_1_gennaio": 56744119,
+      "nati": 562787,
+      "tasso_natalita_permille": 9.9,
+      "morti": 553833,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": 8954,
+      "tasso_fecondita_totale": 1.33
+    },
+    {
+      "anno": 1992,
+      "popolazione_1_gennaio": 56757236,
+      "nati": 567841,
+      "tasso_natalita_permille": 10.1,
+      "morti": 545038,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 22803,
+      "tasso_fecondita_totale": 1.31
+    },
+    {
+      "anno": 1993,
+      "popolazione_1_gennaio": 56960300,
+      "nati": 549484,
+      "tasso_natalita_permille": 9.6,
+      "morti": 555043,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": -5559,
+      "tasso_fecondita_totale": 1.26
+    },
+    {
+      "anno": 1994,
+      "popolazione_1_gennaio": 57138489,
+      "nati": 533050,
+      "tasso_natalita_permille": 9.3,
+      "morti": 557513,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": -24463,
+      "tasso_fecondita_totale": 1.22
+    },
+    {
+      "anno": 1995,
+      "popolazione_1_gennaio": 57268578,
+      "nati": 525609,
+      "tasso_natalita_permille": 9.1,
+      "morti": 555203,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": -29594,
+      "tasso_fecondita_totale": 1.19
+    },
+    {
+      "anno": 1996,
+      "popolazione_1_gennaio": 57332996,
+      "nati": 528103,
+      "tasso_natalita_permille": 9.3,
+      "morti": 557756,
+      "tasso_mortalita_permille": 9.7,
+      "saldo_naturale": -29653,
+      "tasso_fecondita_totale": 1.22
+    },
+    {
+      "anno": 1997,
+      "popolazione_1_gennaio": 57460977,
+      "nati": 534462,
+      "tasso_natalita_permille": 9.3,
+      "morti": 564679,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": -30217,
+      "tasso_fecondita_totale": 1.23
+    },
+    {
+      "anno": 1998,
+      "popolazione_1_gennaio": 57563354,
+      "nati": 531548,
+      "tasso_natalita_permille": 9.2,
+      "morti": 576911,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": -45363,
+      "tasso_fecondita_totale": 1.21
+    },
+    {
+      "anno": 1999,
+      "popolazione_1_gennaio": 57612615,
+      "nati": 537242,
+      "tasso_natalita_permille": 9.3,
+      "morti": 571356,
+      "tasso_mortalita_permille": 9.9,
+      "saldo_naturale": -34114,
+      "tasso_fecondita_totale": 1.23
+    },
+    {
+      "anno": 2000,
+      "popolazione_1_gennaio": 57679895,
+      "nati": 543039,
+      "tasso_natalita_permille": 9.4,
+      "morti": 560241,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": -17202,
+      "tasso_fecondita_totale": 1.26
+    },
+    {
+      "anno": 2001,
+      "popolazione_1_gennaio": 56915744,
+      "nati": 535282,
+      "tasso_natalita_permille": 9.3,
+      "morti": 548254,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": -12963,
+      "tasso_fecondita_totale": 1.25
+    },
+    {
+      "anno": 2002,
+      "popolazione_1_gennaio": 56993270,
+      "nati": 538198,
+      "tasso_natalita_permille": 9.4,
+      "morti": 557393,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": -19195,
+      "tasso_fecondita_totale": 1.27
+    },
+    {
+      "anno": 2003,
+      "popolazione_1_gennaio": 57186378,
+      "nati": 544063,
+      "tasso_natalita_permille": 9.5,
+      "morti": 586468,
+      "tasso_mortalita_permille": 10.2,
+      "saldo_naturale": -42405,
+      "tasso_fecondita_totale": 1.29
+    },
+    {
+      "anno": 2004,
+      "popolazione_1_gennaio": 57611990,
+      "nati": 562599,
+      "tasso_natalita_permille": 9.8,
+      "morti": 546658,
+      "tasso_mortalita_permille": 9.5,
+      "saldo_naturale": 15941,
+      "tasso_fecondita_totale": 1.31
+    },
+    {
+      "anno": 2005,
+      "popolazione_1_gennaio": 58044368,
+      "nati": 554022,
+      "tasso_natalita_permille": 9.6,
+      "morti": 567304,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": -13282,
+      "tasso_fecondita_totale": 1.33
+    },
+    {
+      "anno": 2006,
+      "popolazione_1_gennaio": 58288996,
+      "nati": 560010,
+      "tasso_natalita_permille": 9.6,
+      "morti": 557892,
+      "tasso_mortalita_permille": 9.6,
+      "saldo_naturale": 2118,
+      "tasso_fecondita_totale": 1.37
+    },
+    {
+      "anno": 2007,
+      "popolazione_1_gennaio": 58510725,
+      "nati": 563933,
+      "tasso_natalita_permille": 9.7,
+      "morti": 570801,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": -6868,
+      "tasso_fecondita_totale": 1.4
+    },
+    {
+      "anno": 2008,
+      "popolazione_1_gennaio": 59001769,
+      "nati": 576659,
+      "tasso_natalita_permille": 9.8,
+      "morti": 585126,
+      "tasso_mortalita_permille": 9.9,
+      "saldo_naturale": -8467,
+      "tasso_fecondita_totale": 1.45
+    },
+    {
+      "anno": 2009,
+      "popolazione_1_gennaio": 59420592,
+      "nati": 568857,
+      "tasso_natalita_permille": 9.6,
+      "morti": 591663,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": -22806,
+      "tasso_fecondita_totale": 1.45
+    },
+    {
+      "anno": 2010,
+      "popolazione_1_gennaio": 59690316,
+      "nati": 561944,
+      "tasso_natalita_permille": 9.5,
+      "morti": 587488,
+      "tasso_mortalita_permille": 9.9,
+      "saldo_naturale": -25544,
+      "tasso_fecondita_totale": 1.46
+    },
+    {
+      "anno": 2011,
+      "popolazione_1_gennaio": 59948497,
+      "nati": 546585,
+      "tasso_natalita_permille": 9.2,
+      "morti": 593402,
+      "tasso_mortalita_permille": 10,
+      "saldo_naturale": -46817,
+      "tasso_fecondita_totale": 1.44
+    },
+    {
+      "anno": 2012,
+      "popolazione_1_gennaio": 60105185,
+      "nati": 534186,
+      "tasso_natalita_permille": 9,
+      "morti": 612883,
+      "tasso_mortalita_permille": 10.3,
+      "saldo_naturale": -78697,
+      "tasso_fecondita_totale": 1.42
+    },
+    {
+      "anno": 2013,
+      "popolazione_1_gennaio": 60277309,
+      "nati": 514308,
+      "tasso_natalita_permille": 8.5,
+      "morti": 600744,
+      "tasso_mortalita_permille": 10.1,
+      "saldo_naturale": -86436,
+      "tasso_fecondita_totale": 1.39
+    },
+    {
+      "anno": 2014,
+      "popolazione_1_gennaio": 60345917,
+      "nati": 502596,
+      "tasso_natalita_permille": 8.3,
+      "morti": 598364,
+      "tasso_mortalita_permille": 9.8,
+      "saldo_naturale": -95768,
+      "tasso_fecondita_totale": 1.37
+    },
+    {
+      "anno": 2015,
+      "popolazione_1_gennaio": 60295497,
+      "nati": 485780,
+      "tasso_natalita_permille": 8,
+      "morti": 647571,
+      "tasso_mortalita_permille": 10.7,
+      "saldo_naturale": -161791,
+      "tasso_fecondita_totale": 1.35
+    },
+    {
+      "anno": 2016,
+      "popolazione_1_gennaio": 60163712,
+      "nati": 473438,
+      "tasso_natalita_permille": 7.8,
+      "morti": 615261,
+      "tasso_mortalita_permille": 10.1,
+      "saldo_naturale": -141823,
+      "tasso_fecondita_totale": 1.34
+    },
+    {
+      "anno": 2017,
+      "popolazione_1_gennaio": 60066734,
+      "nati": 458151,
+      "tasso_natalita_permille": 7.6,
+      "morti": 649061,
+      "tasso_mortalita_permille": 10.7,
+      "saldo_naturale": -190910,
+      "tasso_fecondita_totale": 1.32
+    },
+    {
+      "anno": 2018,
+      "popolazione_1_gennaio": 59937769,
+      "nati": 439747,
+      "tasso_natalita_permille": 7.3,
+      "morti": 633133,
+      "tasso_mortalita_permille": 10.5,
+      "saldo_naturale": -193386,
+      "tasso_fecondita_totale": 1.29
+    },
+    {
+      "anno": 2019,
+      "popolazione_1_gennaio": 59816673,
+      "nati": 420084,
+      "tasso_natalita_permille": 7,
+      "morti": 634417,
+      "tasso_mortalita_permille": 10.6,
+      "saldo_naturale": -214333,
+      "tasso_fecondita_totale": 1.27
+    },
+    {
+      "anno": 2020,
+      "popolazione_1_gennaio": 59641488,
+      "nati": 404892,
+      "tasso_natalita_permille": 6.8,
+      "morti": 740317,
+      "tasso_mortalita_permille": 12.4,
+      "saldo_naturale": -335425,
+      "tasso_fecondita_totale": 1.24
+    },
+    {
+      "anno": 2021,
+      "popolazione_1_gennaio": 59236213,
+      "nati": 400249,
+      "tasso_natalita_permille": 6.7,
+      "morti": 701346,
+      "tasso_mortalita_permille": 12,
+      "saldo_naturale": -301097,
+      "tasso_fecondita_totale": 1.25
+    },
+    {
+      "anno": 2022,
+      "popolazione_1_gennaio": 59030133,
+      "nati": 393333,
+      "tasso_natalita_permille": 6.7,
+      "morti": 715077,
+      "tasso_mortalita_permille": 12.1,
+      "saldo_naturale": -321744,
+      "tasso_fecondita_totale": 1.25
+    },
+    {
+      "anno": 2023,
+      "popolazione_1_gennaio": 58997201,
+      "nati": 379890,
+      "tasso_natalita_permille": 6.4,
+      "morti": 671065,
+      "tasso_mortalita_permille": 11.1,
+      "saldo_naturale": -291175,
+      "tasso_fecondita_totale": 1.2
+    },
+    {
+      "anno": 2024,
+      "popolazione_1_gennaio": 58971230,
+      "nati": 369944,
+      "tasso_natalita_permille": 6.3,
+      "morti": 653109,
+      "tasso_mortalita_permille": 11,
+      "saldo_naturale": -283165,
+      "tasso_fecondita_totale": 1.18
+    },
+    {
+      "anno": 2025,
+      "popolazione_1_gennaio": 58943464,
+      "nati": 355772,
+      "tasso_natalita_permille": 6,
+      "morti": 651830,
+      "tasso_mortalita_permille": 11.1,
+      "saldo_naturale": -296058,
+      "tasso_fecondita_totale": 1.14
+    }
+  ],
+  "meta": {
+    "title": "Nati, morti e natalità in Italia dal 1862 - Free Download",
+    "description": "Serie storica annuale della popolazione italiana: popolazione al 1º gennaio, nati, morti, tassi di natalità e mortalità, saldo naturale e fecondità totale. Contains 164 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nati, morti e natalità in Italia dal 1862 | ListBase",
+    "seo_description": "Download Nati, morti e natalità in Italia dal 1862 — 164 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 164 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Demografia_d'Italia"
+    ]
+  }
+}
