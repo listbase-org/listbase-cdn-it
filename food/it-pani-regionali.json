@@ -1,0 +1,2389 @@
+{
+  "id": "it-pani-regionali",
+  "name": "Pani regionali italiani",
+  "title": "Pani regionali italiani",
+  "description": "Tipi di pane tradizionali delle regioni italiane, con riconoscimenti (PAT, DOP, IGP), descrizione e zona di produzione.",
+  "category": "food",
+  "source": "https://it.wikipedia.org/wiki/Pani_regionali_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Pani_regionali_italiani",
+  "updated": "2026-11",
+  "record_count": 334,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "riconoscimento",
+      "label": "Riconoscimento",
+      "type": "string"
+    },
+    {
+      "key": "descrizione",
+      "label": "Descrizione",
+      "type": "string"
+    },
+    {
+      "key": "zona_di_produzione",
+      "label": "Zona Di Produzione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "nome": "Pane Cappelli",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di grano duro Cappelli",
+      "zona_di_produzione": "Provincia di Chieti"
+    },
+    {
+      "regione": "Abruzzo",
+      "nome": "Pane casareccio aquilano",
+      "riconoscimento": "PAT",
+      "descrizione": "Filone da 1 o 2 kg",
+      "zona_di_produzione": "Provincia dell'Aquila"
+    },
+    {
+      "regione": "Abruzzo",
+      "nome": "Pane nobile di Guardiagrele",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotte di 500/1000 g., miscela di farine: grano, grano integrale, mais, avena, orzo, miglio e segale",
+      "zona_di_produzione": "Guardiagrele"
+    },
+    {
+      "regione": "Abruzzo",
+      "nome": "Pane Solina",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane prodotto con grano tenero Solina",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Abruzzo",
+      "nome": "Pizza scime",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane azzimo",
+      "zona_di_produzione": "Casoli"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Carchiola",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia non lievitata di farina di mais cotta in camino",
+      "zona_di_produzione": "Avigliano"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pane di germana \"iermana\"",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con farina di segale e crusca",
+      "zona_di_produzione": "Parco del Pollino"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pane di Matera",
+      "riconoscimento": "IGP",
+      "descrizione": "Pagnotta a forma a cornetto",
+      "zona_di_produzione": "Provincia di Matera"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pane di patata di San Severino Lucano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "San Severino Lucano"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pane di Trecchina",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Trecchina"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pane Nero",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con farine di farro, segale e orzo",
+      "zona_di_produzione": "provincia di Potenza e Matera"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Petulla Shën Paljit",
+      "riconoscimento": "PAT",
+      "descrizione": "Crespella con farina di Carosella del Pollino cotta sulla pietra",
+      "zona_di_produzione": "San Paolo Albanese"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Piccidat",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di Pasqua",
+      "zona_di_produzione": "Castelluccio Inferiore e Superiore"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pizza a \"scannatur\" di Carbone",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": "Carbone"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Pizza rustica Cazzola, Scarcedda, Cuzzola",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": "provincia di Potenza e Matera"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Strazzata",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia con pepe",
+      "zona_di_produzione": "Avigliano"
+    },
+    {
+      "regione": "Basilicata",
+      "nome": "Taralli di San Costantino Albanese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "San Costantino Albanese"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Crispelle salate, Crispeddhe",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Crostini di grano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Frese bianche",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Frese integrali",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Fresella",
+      "riconoscimento": "PAT",
+      "descrizione": "Mezza ciambella di grano tenero essiccata, da preparare al momento",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Frise al peperoncino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Frese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Lestopitta",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia di grano duro non lievitata, simile alla piadina",
+      "zona_di_produzione": "Bova, diffuso in tutta la Provincia di Reggio Calabria"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pane al miele di Cerzeto",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Cerzeto"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pane casereccio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pane con la giuggiulena",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di grano duro con semi di sesamo",
+      "zona_di_produzione": "Provincia di Reggio Calabria"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "pane di Cutro",
+      "riconoscimento": "DOP richiesta",
+      "descrizione": "Pane di grano duro (75%) e tenero (25%), di forma semi-sferica.",
+      "zona_di_produzione": "Regionale"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pane di Pellegrina",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di grano tenero con crusca",
+      "zona_di_produzione": "Pellegrina"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pane di segale di Canolo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Canolo"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pitta",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di grano tenero e strutto, a forma di ciambella bassa.",
+      "zona_di_produzione": "Regionale"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Pitta collura",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane rituale",
+      "zona_di_produzione": "Umbriatico"
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Scaldatelle, Scaldateddi",
+      "riconoscimento": "PAT",
+      "descrizione": "Taralli bolliti. Esiste anche un impasto comprendente uova.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Taralli bianchi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Taralli morbidi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Tarallini ai semi di anice",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Tarallini ai semi di finocchio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Calabria",
+      "nome": "Tarallini al peperoncino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Marsigliese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Muffletto di Caposele",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Caposele"
+    },
+    {
+      "regione": "Campania",
+      "nome": "'Nfrennula",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane dei Camaldoli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Camaldoli"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Baiano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Baiano"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Calitri",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Calitri"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di iurmano",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di segale (localmente detta \"grano iermano\" o \"iurmano\") e di grano duro",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Montecalvo",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con grano della cultivar \"Saragolla\"",
+      "zona_di_produzione": "Montecalvo Irpino"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Padula",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Padula"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Saragolla",
+      "riconoscimento": "PAT - PSF",
+      "descrizione": "Pane di semola rimacinata della cultivar Saragolla",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di Villaricca",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Villaricca"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pane di San Sebastiano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Paniedd' r' sirino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Scaldatelle",
+      "riconoscimento": "PAT",
+      "descrizione": "Taralli bolliti",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Taraddi con finocchio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Taralli intrecciati",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallini al vino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo all'uovo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo con le mandorle",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo cu ll'ove",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo di Agerola",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Agerola"
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo di San Lorenzello",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo Roscianese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallo sugna e pepe",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Tarallucci al naspro",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pagnotta di Santa Chiara",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Panuozzo",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza con ricotta",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza di farinella bacolese, Pizza gialla, 'A Zellòse",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza di scarola",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza figliata, Serpentone",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza migliazza cu li frittole",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza napoletana verace artigianale",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza roce caggianese",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza sulla liscia",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Scanata del Sannio",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Campania",
+      "nome": "Pizza chiena",
+      "riconoscimento": "PAT",
+      "descrizione": "PIZZA",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Bizulà",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Cattolica"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Carsent",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Cherscènta frètta",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Cherseinta sotto le braci",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Ciaccio Ciacc",
+      "riconoscimento": "PAT",
+      "descrizione": "Piadina",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Coppia ferrarese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Coppo all'emiliana",
+      "riconoscimento": "PAT",
+      "descrizione": "?????????????",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Crescènta modenese",
+      "riconoscimento": "PAT",
+      "descrizione": "Altro nome per la Tigella",
+      "zona_di_produzione": "Province di Ferrara, Bologna, Modena, Parma, Piacenza, Reggio Emilia"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Crescione, consone, guscione, cassone, cascione",
+      "riconoscimento": "PAT",
+      "descrizione": "Piadina chiusa a mezzaluna e farcita.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Focaccia con ciccioli, Chisola",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Gnocco fritto",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Gnocco al forno",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Pane a lievitazione naturale",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Pane casareccio, Pan casalen",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Pane di Castrocaro",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Pane schiacciato, batäro",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Piada coi ciccioli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Piadina della Madonna del Fuoco",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Piadina fritta, pié fretta",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Piadina",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Ravenna, Forlì - Cesena, Rimini e Bologna"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Spianata, Schiacciata, S-ciazêda, Spianeta, Scaciata, Scacigna",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Sprelle, Spreli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Sulada",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Tigela modenese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "nome": "Tirotta con cipolla, Tiratta ala zivola",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia con cipolle",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Grissino di Resiutta",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Pan di Sorc",
+      "riconoscimento": "PSF",
+      "descrizione": "Miscela di mais cinquantino (sorc in friulano), frumento e segale. Anche in versione dolce. Forma rotonda, crosta scura e croccante, mollica gialla.",
+      "zona_di_produzione": "Gemona"
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Biga Servolana",
+      "riconoscimento": "De.C.O???",
+      "descrizione": "Due pagnotte unite, con crosta dorata e croccante. Prodotto tradizionale delle pancogole (donne che panificavano in proprio) del rione Servola.",
+      "zona_di_produzione": "Trieste"
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Grispolenta",
+      "riconoscimento": "De.C.O???",
+      "descrizione": "Grissino dalle grandi dimensioni, con farina di mais e di grano e l'aggiunta di strutto.",
+      "zona_di_produzione": "Provincia di Udine"
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Cornetto Istriano",
+      "riconoscimento": "De.C.O???",
+      "descrizione": "Tipico della panetteria istriana, giunta dopo l'esodo del dopoguerra, è diventato una specialità triestina. Sagoma a fiocco.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Friuli Venezia Giulia",
+      "nome": "Pane Rosetta",
+      "riconoscimento": "De.C.O???",
+      "descrizione": "Pane a forma di fiore, retaggio dell'impero austroungarico, originariamente veniva chiamato Pane Kaiser.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Cacchiarelle",
+      "riconoscimento": "PAT",
+      "descrizione": "Forma di pane",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Ciambella all'olio di Sant'Angelo Romano",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane azzimo",
+      "zona_di_produzione": "Sant'Angelo Romano"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Ciriola romana",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Falia",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Filone sciapo da 1 kg.",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pamparito di Vignanello",
+      "riconoscimento": "PAT DE.C.O.",
+      "descrizione": "Pane tipico della colazione di Pasqua realizzato con vino bianco e semi di anice",
+      "zona_di_produzione": "Vignanello"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane cafone",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane casareccio di Genzano",
+      "riconoscimento": "IGP",
+      "descrizione": "",
+      "zona_di_produzione": "Genzano di Roma"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane casereccio di Lariano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Lariano"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane casareccio di Lugnola",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Lugnola"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane casareccio di Montelibretti",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Montelibretti"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane con le olive bianche e nere",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane con le patate",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con purea di patate",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane di Canale Monterano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Canale Monterano"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane di semola di grano duro Pane nero di Monte Romano, Pane di Allumiere",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane di Veroli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Veroli"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pane integrale al forno a legna",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Panini all'olio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Salavatici di Roviano",
+      "riconoscimento": "PAT",
+      "descrizione": "Cialda di farina aromatizzata",
+      "zona_di_produzione": "Roviano"
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Taralli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Tisichelle viterbesi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza a gli mattono di Sezze, Pizza a gli soio di Sezze",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza per terra, sfogliata, con farina di mais, somma, rossa, bianca, sotto la brace, con gli sfrizzoli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza a fiamma",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza \"Bbotata\"",
+      "riconoscimento": "",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza di Pasqua della Tuscia",
+      "riconoscimento": "PAT",
+      "descrizione": "Solitamente con formaggio, Esistono anche versioni dolci",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza fritta",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza grassa",
+      "riconoscimento": "",
+      "descrizione": "Pizza salata a forma di pagnotta, peso variabile da 1 a 2 kg. Crosta marrone chiaro, pasta giallo chiaro con occhiature, arricchita con salumi vari. Un taglio a croce superiormente.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lazio",
+      "nome": "Pizza varata di Sant'Angelo Romano",
+      "riconoscimento": "PAT",
+      "descrizione": "Pizza con uova intere",
+      "zona_di_produzione": "Sant'Angelo Romano"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Ciappe",
+      "riconoscimento": "PAT",
+      "descrizione": "simile alla piadina",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Farinata bianca",
+      "riconoscimento": "PAT",
+      "descrizione": "Con farine di grano e di ceci",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Focaccia con pellette d'oliva di Albisola",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Albisola Superiore, Albissola Marina"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Focaccia di Recco col formaggio",
+      "riconoscimento": "IGP",
+      "descrizione": "",
+      "zona_di_produzione": "Recco, Avegno, Sori e Camogli."
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Focaccia",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane piatto (al massimo 2 cm) condito con olio d'oliva e sale grosso",
+      "zona_di_produzione": "Liguria"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Pane a lievitazione naturale Pane crescente",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Pane casereccio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Val Bormida"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Pane di patate di Pignone Pan de 'patate",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farina di grano e patate",
+      "zona_di_produzione": "Pignone"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Pane di Triora",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Triora"
+    },
+    {
+      "regione": "Liguria",
+      "nome": "Pane Tirotto",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farina di grano e patate",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Carcent",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con rape",
+      "zona_di_produzione": "Livigno"
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Michetta",
+      "riconoscimento": "De.C.O.",
+      "descrizione": "Pane soffiato",
+      "zona_di_produzione": "Milano"
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Miccone",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pan da cool",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con colostro",
+      "zona_di_produzione": "Livigno"
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pan di segale",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pan meìno",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pane comune",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pane di pasta dura",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pane di riso",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pane giallo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Pane mistura",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Schiacciatina",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Mantova"
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Tirot",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia con cipolle",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Lombardia",
+      "nome": "Tiròt di Felonica",
+      "riconoscimento": "PSF",
+      "descrizione": "",
+      "zona_di_produzione": "Felonica"
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crescia",
+      "riconoscimento": "PAT",
+      "descrizione": "Tipo di focaccia",
+      "zona_di_produzione": "Pesaro e Urbino, Ancona, Macerata"
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crescia brusca, Spianata, Cacciannanzi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crescia d'la stacciola, Crescia sa i'ngranagg",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crescia fogliata, Crescia fojata, Lu Rocciu",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Pane a lievitazione naturale",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Pane di Chiaserna",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Sughetti",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Tacconi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Ungaracci Ungarucci",
+      "riconoscimento": "PAT",
+      "descrizione": "filoni di pane",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crostoli del Montefeltro",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Crescia sotto la cenere",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Torta coi ovi",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Chichiripieno, Chichì",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Marche",
+      "nome": "Pizza con le noci",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Friselle",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pane casareccio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pigna",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Taralli con seme di finocchio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Soffio",
+      "riconoscimento": "PAT",
+      "descrizione": "Chiamata localmente Sc'usc'. Ciambella rustica, consumata appena sfornata. A base di grano tenero, con olio Evo e rosmarino.",
+      "zona_di_produzione": "Venafro, Pozzilli"
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pizza al pomodoro",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pizza coi cicoli di maiale",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pizza di granone, Pizza randign, Panitte",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Molise",
+      "nome": "Pizza scimia",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Grissino stirato",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane stirato di grano tenero",
+      "zona_di_produzione": "Torino"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Rubatà",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane stirato per arrotolamento e compressione manuale sul tavolo di lavoro.",
+      "zona_di_produzione": "Originario del Chierese, diffuso in tutta la provincia"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Biova",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Campagnola buschese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Crasanzin o Crescianzin",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di segale con frutta secca",
+      "zona_di_produzione": "Valle Antrona"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Focaccia novese",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia",
+      "zona_di_produzione": "Novese"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Miacce, Miasse, Miasce, Amiasc",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Miche di Cuneo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pan barbarià",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane misto di grano e segale, con pasta madre di segale",
+      "zona_di_produzione": "Valli cuneesi"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pane di Chianocco",
+      "riconoscimento": "PAT",
+      "descrizione": "Filone (grescia) di 600-700 grammi, senza alcun condimento. Mollica compatta, crosta molto friabile e ottima conservabilità.",
+      "zona_di_produzione": "Tra Chianocco e Bussoleno"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pane di mais di Novara",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farine di mais gialla, avena e grano di media forza, in parti uguali.",
+      "zona_di_produzione": "Provincia di Novara"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pane di riso di Novara",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con 2/3 di farina di riso \"risiera-granulare\" e 1/3 di farina di media forza.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pane di segale",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pan robi",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farine di mais grossolana (5 kg.) e di grano o segale (4 kg.)",
+      "zona_di_produzione": "Valli montane biellesi"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Pane nero di Coimo",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farina di segale integrale o di grano saraceno, con una piccola percentuale di grano tenero. Ha forma rotonda e piatta con spessore di 3-4 cm. e pezzatura inferiore al chilo.",
+      "zona_di_produzione": "Druogno"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Rubatà",
+      "riconoscimento": "PAT",
+      "descrizione": "Grissino lavorato a mano",
+      "zona_di_produzione": "Particolarmente diffuso nel Torinese, nel Chierese e nel Monregalese"
+    },
+    {
+      "regione": "Piemonte",
+      "nome": "Tupunin",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane tradizionale di pezzatura 70-100 grammi, crosta bruno dorata. Con lo stesso impasto si producono altre forme: “Topu”, “L’Drunè”, “Grisà Lavà”.",
+      "zona_di_produzione": "Provincia di Cuneo"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Cazzateddhra di Nardò, cazzateddhra cu lu pepe",
+      "riconoscimento": "PAT",
+      "descrizione": "panino schiacciato",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Cazzateddhra di Surbo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Cuddhura, Cuddhura cu l'oe, Palomba, Palummeddhra, Panareddhra, Puddhica cu l'oe",
+      "riconoscimento": "PAT",
+      "descrizione": "Pani dolci",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Cuturusciu",
+      "riconoscimento": "PAT",
+      "descrizione": "Ottenuto dal riutilizzo dell'impasto per il pane",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Focaccia a libro di Sammichele di Bari, Fecazze a livre",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia ripiegata",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Focaccia barese",
+      "riconoscimento": "STG richiesta nel 2010",
+      "descrizione": "",
+      "zona_di_produzione": "Province di Bari, Barletta-Andria-Trani e Taranto."
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Friselle di orzo e di grano",
+      "riconoscimento": "PAT",
+      "descrizione": "Taralli di grano duro o di orzo, o misti",
+      "zona_di_produzione": "Provincia di Lecce, Brindisi, Taranto, Bari e Foggia."
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di Altamura",
+      "riconoscimento": "DOP",
+      "descrizione": "Pagnotta dal peso non inferiore a 0,5 kg",
+      "zona_di_produzione": "Altamura, Gravina in Puglia, Poggiorsini, Spinazzola e Minervino Murge"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di Ascoli Satriano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di grano duro",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di Monte Sant'Angelo, Pane di Monte Sant'Angelo \"li panett\"",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di Santeramo in Colle",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di forma attorcigliata con una crosta dorata e croccante a mollica bianca e soffice.",
+      "zona_di_produzione": "Santeramo in Colle"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane di Laterza",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotte del peso variabile di 1, 2 o 4 kg, preparate con semola di grano duro, acqua, sale e lievito madre",
+      "zona_di_produzione": "Laterza"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pane tradizionale dell’alta Murgia",
+      "riconoscimento": "PSF",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pettole o pittule",
+      "riconoscimento": "PAT",
+      "descrizione": "Pasta lievitata molto morbida fritte nell'olio bollente",
+      "zona_di_produzione": "Puglia Basilicata"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Passulate di Nardò, Pucce con li pàssule, Passuliate",
+      "riconoscimento": "PAT",
+      "descrizione": "panini semidolci con uvetta",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Piscialetta, Piscialletta",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccina",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pucce, Uliate, Pane di semola, Pane di orzo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Puccia",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Provincia di Taranto, Provincia di Lecce e Brindisi"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Sceblasti",
+      "riconoscimento": "PAT",
+      "descrizione": "Caratteristico pane condito di Zollino e, sotto nomi diversi, di tutto il Salento",
+      "zona_di_produzione": "Sotto nomi diversi, di tutto il Salento"
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Taralli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Taralli neri con vincotto",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Tarallo all'uovo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Tarallo al vino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Tarallo dell'Immacolata",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Paposcia di Vico del Gargano, Pizza schett, Pizza a vamp, Paposcia",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pizza di grano d'india",
+      "riconoscimento": "PAT",
+      "descrizione": "Pizza di mais",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pizza sette sfoglie di Cerignola",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pizza sfoglia e scannatedda",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pizzelle",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Scèblasti, Ascèplasti",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane condito con ortaggi",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Calzone di Ischitella ´",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Farrata di Manfredonia, A farréte",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane ripieno di ricotta",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Focaccia di San Giuseppe di Gravina",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia ripiena",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Mpilla",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane con zucchini, cipolle, pomodori rossi, capperi e olive nere",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Puglia",
+      "nome": "Pitilla Pirilla, Simeddhra, Brocula, Frizzulu",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane farcito con verdure",
+      "zona_di_produzione": "Provincia di Lecce"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Civraxu, Civràxiu, Civàrzu",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di semola di grano duro, peso non inferiore a 2 kg.",
+      "zona_di_produzione": "Medio Campidano"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Coccoi a pitzus, Su scetti, Pasta dura, Coccoi de is sposus",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane decorato, di semola di grano duro",
+      "zona_di_produzione": "Sardegna"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane carasau, Pane carasatu, Carta da musica",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Barbagia"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pistocu",
+      "riconoscimento": "PAT",
+      "descrizione": "Da non confondere con i Pistocheddus de capa, i Pistocus incapaus e i Pistocu de Nuxi, che sono dolciumi",
+      "zona_di_produzione": "Ogliastra"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Zichi",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane circolare in spianate sottili, morbido o croccante.",
+      "zona_di_produzione": "Logudoro"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Focacce di ricotta, Cozzulas de regottu, Pane e regottu",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia contenente ricotta nell'impasto.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Focaccia portoscusese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Moddizzosu (o Moddissosu)",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di semola",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane ammodigadu, Pane tundu, Tintura",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Osimo"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane cicci, Pane di Desulo",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane con gerda",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane con il pomodoro, Pani cun tamatica, Fogatza cun tamatica",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane d'orzo, Pane 'e oxiu, Pane 'e oxru",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane 'e cariga Pane 'e mendula",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane gutiaiu",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Pane 'e poddine, pane di Ozieri, spianata, Panedda",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Logudoro"
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Uciatìni, Utzatini, Cocu 'e jelda, Cotzula 'e belda",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con semola, farina tipo 0 e ciccioli.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sardegna",
+      "nome": "Tunda",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane tradizionale",
+      "zona_di_produzione": "Teulada e dintorni"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane di Lentini",
+      "riconoscimento": "PSF",
+      "descrizione": "Semola di grano duro siciliano, acqua, sale marino, lievito madre (crescente) e semi di sesamo sulla crosta.",
+      "zona_di_produzione": "Comuni di Lentini e Carlentini"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane nero di Castelvetrano",
+      "riconoscimento": "PSF",
+      "descrizione": "Prodotto con farina integrale",
+      "zona_di_produzione": "Castelvetrano"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Cucuzzata",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane farcito con zucchini, cipolla, olive nere, capperi, pomodorini, peperoncino",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Cuddrireddra",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane biscottato dolce con aroma di arancia e cannella",
+      "zona_di_produzione": "Delia"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pagnotta alla disgraziata",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane farcito con verdure",
+      "zona_di_produzione": "Messina"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane a lievitazione naturale, Pani cu cruscenti",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane di casa, u Pani i casa",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane di Monreale, u Pani ri Murriali",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Monreale"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Pane di S. Giuseppe",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Palermo, Gela, Caltagirone, Raddusa, Santa Croce Camerina, Leonforte, Castel di Lucio, Salemi, Chiusa Sclafani,"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Cuddura di San Paulu (Pane votivo)",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Palazzolo Acreide"
+    },
+    {
+      "regione": "Sicilia",
+      "nome": "Vastedda cu sammucu, vastedda nfigghiulata",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia con sambuco",
+      "zona_di_produzione": "Troina e Palazzo Adriano"
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Bozza pratese, Pane di Prato",
+      "riconoscimento": "PAT",
+      "descrizione": "pane sciocco",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Ciaccino",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia farcita",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Crisciolette di Cascio",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farine di mais (30%) e di grano (70%), con pancetta o formaggio",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccette di Aulla",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia bastarda di Pitigliano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia con i friccioli, Ciaccia con i friccioli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia di nonno Pilade",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia di Pasqua salata di Pitigliano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia leva di Gallicano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Focaccia seravezzina",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Marocca di Casola",
+      "riconoscimento": "PAT",
+      "descrizione": "pane con farine di castagne e di grano= 2/1",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Mignecci di formentone di Gallicano",
+      "riconoscimento": "PAT",
+      "descrizione": "focaccia di mais 8 file",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Altopascio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Montegemoli",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di patate della Garfagnana",
+      "riconoscimento": "PAT PSF",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Po, Signano e Agnino",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Pomarance",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Pontremoli, Focaccia pontremolese",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Regnano",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane di Vinca",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Pane marocco di Montignoso, Pane marocco, Pane merocco Panigaccio di Podenzana",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane azzimo cotto nel testo",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Panini di granturco",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Toscana",
+      "nome": "Schiacce grossetane, Schiacciate, Ciacce, Focacce",
+      "riconoscimento": "PAT",
+      "descrizione": "Anche in versione dolce",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Apfelbrot",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di mele",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Breatl",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotta",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Dorf Tiroler",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotta del Tirolo",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Fela Struzn",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane a forma di ferro di cavallo",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Fochas",
+      "riconoscimento": "PAT",
+      "descrizione": "Focaccia",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Germzopf",
+      "riconoscimento": "PAT",
+      "descrizione": "Treccia lievitata",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Paarl",
+      "riconoscimento": "PAT",
+      "descrizione": "Coppia di pagnotte",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Ur-Paarl della Val Venosta",
+      "riconoscimento": "PSF",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Kaisersemmel",
+      "riconoscimento": "PAT",
+      "descrizione": "Rosetta imperiale",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Palabirabrot",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane alle pere",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Pindl",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di segale a tre coppie",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Püces",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane ladino",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Schüttelbrot",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane di segale duro",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Schwarzer weggen",
+      "riconoscimento": "PAT",
+      "descrizione": "Filone integrale",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Vinschgauer Struzn",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane a forma di ferro di cavallo",
+      "zona_di_produzione": "Val Venosta"
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Vollkornpaarl",
+      "riconoscimento": "PAT",
+      "descrizione": "Paarl integrale",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Vorschlag",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotta di farine miste",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Bolzano",
+      "nome": "Vorschlag Paarl",
+      "riconoscimento": "PAT",
+      "descrizione": "Coppia di pagnotte di farine miste",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Béchi panzalini, Filone a due tagli",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane comune di forma allungata a barchetta, con due punte alle estremità e due tagli trasversali.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Bina",
+      "riconoscimento": "PAT",
+      "descrizione": "pane formato da quattro prezzi uniti fra loro, dal peso complessivo di circa duecento grammi",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Cuccalar",
+      "riconoscimento": "PAT",
+      "descrizione": "È un pane rustico e non lievitato impastato con farine di grano e segale, sale e latticello.",
+      "zona_di_produzione": "Palé del Fersina / Palae en Bersntol"
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Pan co le fritole",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane prodotto con farine di mais e grano, condito con le frìtole (ciccioli). Le pagnotte di colore marrone, hanno forma variabile, a volte circolare e a volte allungata a mo’ di filoncino. Il peso varia a seconda della pezzatura da 150 a 500 gr.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Pan de segàla",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Pan de sòrc",
+      "riconoscimento": "PAT",
+      "descrizione": "Omonimo del dolce, è in realtà un pane realizzato con miscela di tre farine: mais cinquantino, frumento e segale.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Provincia di Trento",
+      "nome": "Pan taià o Gramolato",
+      "riconoscimento": "PAT",
+      "descrizione": "detto anche Ciòpa",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Umbria",
+      "nome": "Pane di Strettura",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Umbria",
+      "nome": "Schiacciata al formaggio",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "nome": "Pan ner, Pane nero",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farina di segale pura o miscelata al 65% con quella di grano tipo 0. Forma classica a pagnotta, colore scuro e una croce intagliata nella parte superiore.",
+      "zona_di_produzione": "Valle d'Aosta"
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "nome": "Piata di Issogne",
+      "riconoscimento": "PAT",
+      "descrizione": "Prodotto con farine di grano tenero e di segale (max 20%). Forma tondeggiante o ovale, o a forma di bambola o di maschera. Pezzatura da 500 a 1.000 gr.",
+      "zona_di_produzione": "Issogne. Diffuso in Bassa valle fino a Chatillon."
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Banana comune",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Bibanesi",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Treviso"
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Ciopa vicentina",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Cornetti",
+      "riconoscimento": "PAT",
+      "descrizione": "Pane costituito da due parti arrotolate, attaccate con rialzi nella parte apicale.",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Fugassa padovana",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Fugassa veneta",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Mantovana",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Montasù",
+      "riconoscimento": "PAT",
+      "descrizione": "Pagnotte simili a cornetti",
+      "zona_di_produzione": "Alta Padovana"
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Pan co la suca vedere",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Pan co l'ùa vedere",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Pane al mais",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Pinza alla munara",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Schizzotto",
+      "riconoscimento": "PAT",
+      "descrizione": "",
+      "zona_di_produzione": "Montagnana ed Este"
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Il Pane delle Rose di Santa Rita",
+      "riconoscimento": "De.C.O.",
+      "descrizione": "",
+      "zona_di_produzione": "Piovene Rocchette"
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Ciopa a mano di Malo",
+      "riconoscimento": "De.C.O.",
+      "descrizione": "Prodotto con farina di Brodesco e strutto. Impasto duro, pagnotta a forma di croce.",
+      "zona_di_produzione": "Malo"
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Il pane del contadino di Costabissara",
+      "riconoscimento": "De.C.O.",
+      "descrizione": "Costabissara",
+      "zona_di_produzione": ""
+    },
+    {
+      "regione": "Veneto",
+      "nome": "Il Pan de Bari di Arcugnano",
+      "riconoscimento": "De.C.O.",
+      "descrizione": "",
+      "zona_di_produzione": "Arcugnano"
+    }
+  ],
+  "meta": {
+    "title": "Pani regionali italiani - Free Download",
+    "description": "Tipi di pane tradizionali delle regioni italiane, con riconoscimenti (PAT, DOP, IGP), descrizione e zona di produzione. Contains 334 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pani regionali italiani | ListBase",
+    "seo_description": "Download Pani regionali italiani — 334 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 334 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Pani_regionali_italiani"
+    ]
+  }
+}

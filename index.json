@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-10T02:13:43.349Z",
-  "total_datasets": 533,
-  "total_records": 142876,
+  "generated": "2026-11-10T02:13:52.486Z",
+  "total_datasets": 534,
+  "total_records": 143210,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -1177,6 +1177,32 @@
         "xlsx": {
           "name": "it-formaggi_IT.xlsx",
           "size": 25251
+        }
+      }
+    },
+    {
+      "id": "it-pani-regionali",
+      "name": "Pani regionali italiani",
+      "category": "food",
+      "record_count": 334,
+      "columns": [
+        "regione",
+        "nome",
+        "riconoscimento",
+        "descrizione",
+        "zona_di_produzione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Pani_regionali_italiani",
+      "updated": "2026-11",
+      "size": 66985,
+      "files": {
+        "csv": {
+          "name": "it-pani-regionali_IT.csv",
+          "size": 25020
+        },
+        "xlsx": {
+          "name": "it-pani-regionali_IT.xlsx",
+          "size": 21383
         }
       }
     },
