@@ -1,0 +1,328 @@
+{
+  "id": "it-monete-lira-italiana",
+  "name": "Monete della lira italiana (Repubblica)",
+  "title": "Monete della lira italiana (Repubblica)",
+  "description": "Monete in lire coniate dalla Repubblica Italiana dal 1946 al 2001: valore, peso, diametro, lega, descrizione e anni di conio e ritiro.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Monete_della_lira_italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Monete_della_lira_italiana",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "string"
+    },
+    {
+      "key": "peso",
+      "label": "Peso",
+      "type": "string"
+    },
+    {
+      "key": "diametro",
+      "label": "Diametro",
+      "type": "string"
+    },
+    {
+      "key": "composizione",
+      "label": "Composizione",
+      "type": "string"
+    },
+    {
+      "key": "bordo",
+      "label": "Bordo",
+      "type": "string"
+    },
+    {
+      "key": "diritto",
+      "label": "Diritto",
+      "type": "string"
+    },
+    {
+      "key": "rovescio",
+      "label": "Rovescio",
+      "type": "string"
+    },
+    {
+      "key": "conio_inizio",
+      "label": "Conio Inizio",
+      "type": "number"
+    },
+    {
+      "key": "conio_fine",
+      "label": "Conio Fine",
+      "type": "number"
+    },
+    {
+      "key": "ritiro",
+      "label": "Ritiro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "valore": "1 L.",
+      "peso": "1,25 g",
+      "diametro": "21,6 mm",
+      "composizione": "Italma",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa di Cerere",
+      "rovescio": "Arancia, valore, anno",
+      "conio_inizio": 1946,
+      "conio_fine": 1950,
+      "ritiro": 1954
+    },
+    {
+      "valore": "1 L.",
+      "peso": "0,625 g",
+      "diametro": "17,2 mm",
+      "composizione": "Italma",
+      "bordo": "liscio",
+      "diritto": "repvbblica • italiana -,bilancia a piatti",
+      "rovescio": "Cornucopia, valore, anno",
+      "conio_inizio": 1951,
+      "conio_fine": 1959,
+      "ritiro": 2002
+    },
+    {
+      "valore": "2 L.",
+      "peso": "1,75 g",
+      "diametro": "24,1 mm",
+      "composizione": "Italma",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, contadino con aratro",
+      "rovescio": "Spiga di grano, valore, anno",
+      "conio_inizio": 1946,
+      "conio_fine": 1950,
+      "ritiro": 1954
+    },
+    {
+      "valore": "2 L.",
+      "peso": "0,8 g",
+      "diametro": "18,3 mm",
+      "composizione": "Italma",
+      "bordo": "rigato",
+      "diritto": "repvbblica • italiana -, ape",
+      "rovescio": "Ramo d'ulivo, valore, anno",
+      "conio_inizio": 1953,
+      "conio_fine": 1959,
+      "ritiro": 2002
+    },
+    {
+      "valore": "5 L.",
+      "peso": "2,5 g",
+      "diametro": "26,7 mm",
+      "composizione": "Italma",
+      "bordo": "rigato",
+      "diritto": "repvbblica italiana, volto della Libertà",
+      "rovescio": "Grappolo d'uva, valore, anno",
+      "conio_inizio": 1946,
+      "conio_fine": 1950,
+      "ritiro": 1954
+    },
+    {
+      "valore": "5 L.",
+      "peso": "1 g",
+      "diametro": "20,3 mm",
+      "composizione": "Italma",
+      "bordo": "liscio",
+      "diritto": "repvbblica • italiana -, timone di nave",
+      "rovescio": "Delfino, valore anno",
+      "conio_inizio": 1951,
+      "conio_fine": 1998,
+      "ritiro": 2002
+    },
+    {
+      "valore": "10 L.",
+      "peso": "3 g",
+      "diametro": "29 mm",
+      "composizione": "Italma",
+      "bordo": "repvbblica italiana, in incuso",
+      "diritto": "repvbblica italiana, pegaso",
+      "rovescio": "Ramo d'ulivo, valore, anno",
+      "conio_inizio": 1946,
+      "conio_fine": 1950,
+      "ritiro": 1954
+    },
+    {
+      "valore": "10 L.",
+      "peso": "1,6 g",
+      "diametro": "23,3 mm",
+      "composizione": "Italma",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, aratro, anno",
+      "rovescio": "Due spighe di grano, valore",
+      "conio_inizio": 1951,
+      "conio_fine": 1999,
+      "ritiro": 2002
+    },
+    {
+      "valore": "20 L.",
+      "peso": "3,6 g",
+      "diametro": "21,3 mm",
+      "composizione": "Bronzital",
+      "bordo": "rigato",
+      "diritto": "repvbblica italiana, testa coronata di spighe",
+      "rovescio": "Ramo di quercia, valore, anno",
+      "conio_inizio": 1957,
+      "conio_fine": 1959,
+      "ritiro": 2002
+    },
+    {
+      "valore": "20 L.",
+      "peso": "3,6 g",
+      "diametro": "21,3 mm",
+      "composizione": "Bronzital",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa coronata di spighe",
+      "rovescio": "Ramo di quercia, valore, anno",
+      "conio_inizio": 1969,
+      "conio_fine": 1999,
+      "ritiro": 2002
+    },
+    {
+      "valore": "50 L.",
+      "peso": "6,25 g",
+      "diametro": "24,8 mm",
+      "composizione": "Acmonital",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa coronata di quercia",
+      "rovescio": "Vulcano all'incudine, valore, anno",
+      "conio_inizio": 1954,
+      "conio_fine": 1989,
+      "ritiro": 2002
+    },
+    {
+      "valore": "50 L.",
+      "peso": "2,7 g",
+      "diametro": "16,55 mm",
+      "composizione": "Acmonital",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa coronata di quercia",
+      "rovescio": "Vulcano all'incudine, valore, anno",
+      "conio_inizio": 1990,
+      "conio_fine": 1995,
+      "ritiro": 2002
+    },
+    {
+      "valore": "50 L.",
+      "peso": "4,5 g",
+      "diametro": "19,2 mm",
+      "composizione": "Cupronichel",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa Italia turrita",
+      "rovescio": "Corona arborea, valore, anno",
+      "conio_inizio": 1996,
+      "conio_fine": 1999,
+      "ritiro": 2002
+    },
+    {
+      "valore": "100 L.",
+      "peso": "8 g",
+      "diametro": "27,8 mm",
+      "composizione": "Acmonital",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa laureata",
+      "rovescio": "Minerva, albero di alloro, valore, anno",
+      "conio_inizio": 1955,
+      "conio_fine": 1989,
+      "ritiro": 2002
+    },
+    {
+      "valore": "100 L.",
+      "peso": "3,3 g",
+      "diametro": "18,3 mm",
+      "composizione": "Acmonital",
+      "bordo": "liscio",
+      "diritto": "repvbblica italiana, testa laureata",
+      "rovescio": "Minerva, albero di alloro, valore, anno",
+      "conio_inizio": 1990,
+      "conio_fine": 1992,
+      "ritiro": 2002
+    },
+    {
+      "valore": "100 L.",
+      "peso": "4,5 g",
+      "diametro": "22 mm",
+      "composizione": "Cupronichel",
+      "bordo": "rigato discontinuo",
+      "diritto": "repvbblica italiana, testa Italia turrita",
+      "rovescio": "Gabbiano, spiga di grano, delfino, ramo d'ulivo, valore, anno",
+      "conio_inizio": 1993,
+      "conio_fine": 1999,
+      "ritiro": 2002
+    },
+    {
+      "valore": "200 L.",
+      "peso": "5 g",
+      "diametro": "24 mm",
+      "composizione": "Bronzital",
+      "bordo": "rigato",
+      "diritto": "repvbblica italiana, testa femminile",
+      "rovescio": "200 lire, al centro della ruota dentata, anno",
+      "conio_inizio": 1977,
+      "conio_fine": 1998,
+      "ritiro": 2002
+    },
+    {
+      "valore": "500 L.",
+      "peso": "11 g",
+      "diametro": "29,5 mm",
+      "composizione": "Argento 835‰",
+      "bordo": "repvbblica italiana seguita dall'anno in rilievo",
+      "diritto": "Busto femminile contornato da 19 stemmi di città e regioni",
+      "rovescio": "repvbblica italiana, tre caravelle",
+      "conio_inizio": 1958,
+      "conio_fine": 1967,
+      "ritiro": 1967
+    },
+    {
+      "valore": "500 L.",
+      "peso": "6,8 g",
+      "diametro": "25,8 mm",
+      "composizione": "Acmonital Bronzital",
+      "bordo": "rigato discontinuo",
+      "diritto": "repvbblica italiana, testa alata della Repubblica",
+      "rovescio": "Quirinale, valore, anno",
+      "conio_inizio": 1982,
+      "conio_fine": 1995,
+      "ritiro": 2002
+    },
+    {
+      "valore": "1 000 L.",
+      "peso": "8,8 g",
+      "diametro": "27 mm",
+      "composizione": "Bronzital Cupronichel",
+      "bordo": "rigato discontinuo",
+      "diritto": "repvbblica italiana, testa Italia turrita",
+      "rovescio": "Cartina dell'Europa Germania divisa, valore, anno",
+      "conio_inizio": 1997,
+      "conio_fine": 1997,
+      "ritiro": 2002
+    },
+    {
+      "valore": "1 000 L.",
+      "peso": "8,8 g",
+      "diametro": "27 mm",
+      "composizione": "Bronzital Cupronichel",
+      "bordo": "rigato discontinuo",
+      "diritto": "repvbblica italiana, testa Italia turrita",
+      "rovescio": "Cartina dell'Europa, valore, anno",
+      "conio_inizio": 1997,
+      "conio_fine": 1998,
+      "ritiro": 2002
+    }
+  ],
+  "meta": {
+    "title": "Monete della lira italiana (Repubblica) - Free Download",
+    "description": "Monete in lire coniate dalla Repubblica Italiana dal 1946 al 2001: valore, peso, diametro, lega, descrizione e anni di conio e ritiro. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Monete della lira italiana (Repubblica) | ListBase",
+    "seo_description": "Download Monete della lira italiana (Repubblica) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Monete_della_lira_italiana"
+    ]
+  }
+}

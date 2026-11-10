@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-10T02:13:24.447Z",
-  "total_datasets": 531,
-  "total_records": 142691,
+  "generated": "2026-11-10T02:13:33.960Z",
+  "total_datasets": 532,
+  "total_records": 142712,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -1096,6 +1096,37 @@
         "xlsx": {
           "name": "it-ministri-delle-finanze_IT.xlsx",
           "size": 10976
+        }
+      }
+    },
+    {
+      "id": "it-monete-lira-italiana",
+      "name": "Monete della lira italiana (Repubblica)",
+      "category": "finance",
+      "record_count": 21,
+      "columns": [
+        "valore",
+        "peso",
+        "diametro",
+        "composizione",
+        "bordo",
+        "diritto",
+        "rovescio",
+        "conio_inizio",
+        "conio_fine",
+        "ritiro"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Monete_della_lira_italiana",
+      "updated": "2026-11",
+      "size": 9438,
+      "files": {
+        "csv": {
+          "name": "it-monete-lira-italiana_IT.csv",
+          "size": 3319
+        },
+        "xlsx": {
+          "name": "it-monete-lira-italiana_IT.xlsx",
+          "size": 8425
         }
       }
     },
