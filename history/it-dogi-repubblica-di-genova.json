@@ -1,0 +1,2293 @@
+{
+  "id": "it-dogi-repubblica-di-genova",
+  "name": "Dogi e governanti della Repubblica di Genova",
+  "title": "Dogi e governanti della Repubblica di Genova",
+  "description": "Elenco cronologico dei dogi, governatori e capitani della Repubblica di Genova dal 1339 al 1815, con date di elezione e fine del mandato.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Genova",
+  "source_url": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Genova",
+  "updated": "2026-11",
+  "record_count": 248,
+  "columns": [
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "titolo",
+      "label": "Titolo",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "inizio",
+      "label": "Inizio",
+      "type": "string"
+    },
+    {
+      "key": "fine",
+      "label": "Fine",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "periodo": "1339-1353",
+      "numero": 1,
+      "titolo": "Doge",
+      "nome": "Simone Boccanegra",
+      "inizio": "23 settembre 1339",
+      "fine": "23 dicembre 1344",
+      "note": "primo doge"
+    },
+    {
+      "periodo": "1339-1353",
+      "numero": 2,
+      "titolo": "Doge",
+      "nome": "Giovanni da Murta",
+      "inizio": "25 dicembre 1344",
+      "fine": "6 gennaio 1350",
+      "note": "muore durante la carica dogale"
+    },
+    {
+      "periodo": "1339-1353",
+      "numero": 3,
+      "titolo": "Doge",
+      "nome": "Giovanni da Valente",
+      "inizio": "9 gennaio 1350",
+      "fine": "8 ottobre 1353",
+      "note": ""
+    },
+    {
+      "periodo": "I dedizione alla Signoria Viscontea (1353-1356)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Guglielmo Pallavicino",
+      "inizio": "9 ottobre 1353",
+      "fine": "3 maggio 1355",
+      "note": "governatore sotto la signoria di Giovanni Visconti e poi di Matteo, Bernabò e Galeazzo Visconti"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Viscontea (1353-1356)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Luchino Dal Verme",
+      "inizio": "3 maggio 1355",
+      "fine": "metà del 1356",
+      "note": "governatore sotto la signoria di Matteo, Bernabò e Galeazzo Visconti"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Viscontea (1353-1356)",
+      "numero": 3,
+      "titolo": "Governatore",
+      "nome": "Gaspare Visconti",
+      "inizio": "metà del 1356",
+      "fine": "14 novembre 1356",
+      "note": "governatore sotto la signoria di Matteo, Bernabò e Galeazzo Visconti"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 4,
+      "titolo": "Doge",
+      "nome": "Simone Boccanegra",
+      "inizio": "15 novembre 1356",
+      "fine": "3 marzo 1363",
+      "note": "nominato per la 2ª volta sospetta morte per avvelenamento"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 5,
+      "titolo": "Doge",
+      "nome": "Gabriele Adorno",
+      "inizio": "14 marzo 1363",
+      "fine": "13 agosto 1370",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 6,
+      "titolo": "Doge",
+      "nome": "Domenico Fregoso",
+      "inizio": "13 agosto 1370",
+      "fine": "17 giugno 1378",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 7,
+      "titolo": "Doge",
+      "nome": "Antoniotto Adorno",
+      "inizio": "17 giugno 1378",
+      "fine": "17 giugno 1378",
+      "note": "rinuncia alla carica la sera stessa"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 8,
+      "titolo": "Doge",
+      "nome": "Nicolò Guarco",
+      "inizio": "17 giugno 1378",
+      "fine": "7 aprile 1383",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 9,
+      "titolo": "Doge",
+      "nome": "Federico da Pagana",
+      "inizio": "7 aprile 1383",
+      "fine": "7 aprile 1383",
+      "note": "viene deposto lo stesso giorno"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": "10 X",
+      "titolo": "Doge",
+      "nome": "Leonardo Montaldo",
+      "inizio": "7 aprile 1383",
+      "fine": "14 giugno 1384",
+      "note": "muore durante la carica dogale"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 11,
+      "titolo": "Doge",
+      "nome": "Antoniotto Adorno",
+      "inizio": "15 giugno 1384",
+      "fine": "3 agosto 1390",
+      "note": "nominato per la 2ª volta"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 12,
+      "titolo": "Doge",
+      "nome": "Giacomo Fregoso",
+      "inizio": "3 agosto 1390",
+      "fine": "6 aprile 1391",
+      "note": "figlio di Domenico Fregoso"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 13,
+      "titolo": "Doge",
+      "nome": "Antoniotto Adorno",
+      "inizio": "6 aprile 1391",
+      "fine": "16 giugno 1392",
+      "note": "nominato per la 3ª volta"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 14,
+      "titolo": "Doge",
+      "nome": "Antonio Montaldo",
+      "inizio": "16 giugno 1392",
+      "fine": "15 luglio 1393",
+      "note": "figlio di Leonardo Montaldo"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 15,
+      "titolo": "Doge",
+      "nome": "Pietro Fregoso",
+      "inizio": "15 luglio 1393",
+      "fine": "15 luglio 1393",
+      "note": "autonominato, cede la sera stessa"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 16,
+      "titolo": "Doge",
+      "nome": "Clemente Promontorio",
+      "inizio": "15 luglio 1393",
+      "fine": "16 luglio 1393",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 17,
+      "titolo": "Doge",
+      "nome": "Francesco Giustiniani Garibaldo",
+      "inizio": "16 luglio 1393",
+      "fine": "30 agosto 1393",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 18,
+      "titolo": "Doge",
+      "nome": "Antonio Montaldo",
+      "inizio": "30 agosto 1393",
+      "fine": "24 maggio 1394",
+      "note": "nominato per la 2ª volta"
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 19,
+      "titolo": "Doge",
+      "nome": "Nicolò Zoagli",
+      "inizio": "24 maggio 1394",
+      "fine": "17 agosto 1394",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 20,
+      "titolo": "Doge",
+      "nome": "Antonio Guarco",
+      "inizio": "17 agosto 1394",
+      "fine": "3 settembre 1394",
+      "note": ""
+    },
+    {
+      "periodo": "1356-1396",
+      "numero": 21,
+      "titolo": "Doge",
+      "nome": "Antoniotto Adorno",
+      "inizio": "3 settembre 1394",
+      "fine": "27 novembre 1396",
+      "note": "nominato per la 4ª volta"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Antoniotto Adorno",
+      "inizio": "27 novembre 1396",
+      "fine": "18 marzo 1397",
+      "note": ""
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Vallerano di Lussemburgo",
+      "inizio": "18 marzo 1397",
+      "fine": "agosto 1397",
+      "note": "conte di Ligne"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 3,
+      "titolo": "Luogotenente",
+      "nome": "Borleo di Lussemburgo",
+      "inizio": "agosto 1397",
+      "fine": "21 settembre 1398",
+      "note": "zio di Vallerano"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 4,
+      "titolo": "Luogotenente",
+      "nome": "Pierre Fresnel",
+      "inizio": "agosto 1397",
+      "fine": "18 luglio 1398",
+      "note": "vescovo di Meaux"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 5,
+      "titolo": "Governatore",
+      "nome": "Collart de Colleville",
+      "inizio": "21 settembre 1398",
+      "fine": "gennaio 1400",
+      "note": ""
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 6,
+      "titolo": "Governatore",
+      "nome": "Battista Boccanegra",
+      "inizio": "17 gennaio 1400",
+      "fine": "21 marzo 1400",
+      "note": "non riconosciuto dal re di Francia"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 7,
+      "titolo": "Governatore",
+      "nome": "Battista De Franchi-Luxardo",
+      "inizio": "26 marzo 1400",
+      "fine": "22 settembre 1401",
+      "note": "non riconosciuto dal re di Francia"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 8,
+      "titolo": "Luogotenente",
+      "nome": "Rinaldo d'Olivar",
+      "inizio": "22 settembre 1401",
+      "fine": "30 ottobre 1401",
+      "note": "data di insediamento incerta"
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 9,
+      "titolo": "Governatore",
+      "nome": "Jean II Le Meingre \"Boucicaut\"",
+      "inizio": "31 ottobre 1401",
+      "fine": "3 settembre 1409",
+      "note": ""
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 10,
+      "titolo": "Luogotenente",
+      "nome": "Gilbert III Motier de La Fayette",
+      "inizio": "22 settembre 1409",
+      "fine": "30 ottobre 1409",
+      "note": ""
+    },
+    {
+      "periodo": "Dedizione a Carlo VI di Francia (1396-1409)",
+      "numero": 11,
+      "titolo": "Luogotenente",
+      "nome": "Ugo di Cholet",
+      "inizio": "1409",
+      "fine": "1409",
+      "note": "data di insediamento incerta"
+    },
+    {
+      "periodo": "Dedizione al Monferrato",
+      "numero": 1,
+      "titolo": "Capitano",
+      "nome": "Teodoro II del Monferrato",
+      "inizio": "6 settembre 1409",
+      "fine": "21 marzo 1413",
+      "note": "marchese del Monferrato"
+    },
+    {
+      "periodo": "1413-1421",
+      "numero": 1,
+      "titolo": "Governo degli otto Rettori",
+      "nome": "",
+      "inizio": "21 marzo 1413",
+      "fine": "27 marzo 1413",
+      "note": ""
+    },
+    {
+      "periodo": "1413-1421",
+      "numero": "22 XVII",
+      "titolo": "Doge",
+      "nome": "Giorgio Adorno",
+      "inizio": "27 marzo 1413",
+      "fine": "23 marzo 1415",
+      "note": "fratello di Antoniotto Adorno si titola Doge XVII"
+    },
+    {
+      "periodo": "1413-1421",
+      "numero": 1,
+      "titolo": "Governo di due priori",
+      "nome": "Tomaso Fregoso e Giacomo Giustiniani",
+      "inizio": "23 marzo 1415",
+      "fine": "29 marzo 1415",
+      "note": ""
+    },
+    {
+      "periodo": "1413-1421",
+      "numero": "23 XVIII",
+      "titolo": "Doge",
+      "nome": "Barnaba Guano",
+      "inizio": "29 marzo 1415",
+      "fine": "3 luglio 1415",
+      "note": ""
+    },
+    {
+      "periodo": "1413-1421",
+      "numero": "24 XVIIII",
+      "titolo": "Doge",
+      "nome": "Tomaso Fregoso",
+      "inizio": "4 luglio 1415",
+      "fine": "23 novembre 1421",
+      "note": "figlio di Pietro Fregoso"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 1,
+      "titolo": "Capitano",
+      "nome": "Francesco Bussone",
+      "inizio": "25 dicembre 1421",
+      "fine": "17 gennaio 1422",
+      "note": "capitano sotto la signoria di Filippo Maria Visconti conte di Carmagnola"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Urbano di Sant'Alosio",
+      "inizio": "17 gennaio 1422",
+      "fine": "31 marzo 1422",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti data di insediamento incerta"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 3,
+      "titolo": "",
+      "nome": "Rettorato dei quattro Rettori",
+      "inizio": "31 marzo 1422",
+      "fine": "5 dicembre 1422",
+      "note": "su invio diretto del duca Filippo Maria Visconti"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 4,
+      "titolo": "Governatore",
+      "nome": "Francesco Bussone",
+      "inizio": "5 dicembre 1422",
+      "fine": "15 novembre 1424",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti nominato per la 2ª volta conte di Carmagnola"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 5,
+      "titolo": "Governatore",
+      "nome": "Giacomo degli Isolani",
+      "inizio": "15 novembre 1424",
+      "fine": "fine febbraio 1428",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti cardinale"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 6,
+      "titolo": "Governatore",
+      "nome": "Bartolomeo della Capra",
+      "inizio": "3 marzo 1428",
+      "fine": "agosto 1432",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti arcivescovo di Milano"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 7,
+      "titolo": "Governatore",
+      "nome": "Oldrado di Lampugnano",
+      "inizio": "1432",
+      "fine": "n.p.",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 8,
+      "titolo": "Commissario",
+      "nome": "Oppizino di Alzate",
+      "inizio": "1434",
+      "fine": "25 dicembre 1435",
+      "note": "nominato commissario, ma di fatto governa malgrado la presenza del governatore viene poi ucciso"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 9,
+      "titolo": "Commissario",
+      "nome": "Francesco Barbavara",
+      "inizio": "1435",
+      "fine": "25 dicembre 1435",
+      "note": "governa assieme a Lampugnano e l'Alzate"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Viscontea (1421-1435)",
+      "numero": 10,
+      "titolo": "Governatore",
+      "nome": "Erasmo Trivulzio",
+      "inizio": "25 dicembre 1435",
+      "fine": "25 dicembre 1435",
+      "note": "governatore sotto la signoria di Filippo Maria Visconti Il governatorato cessa il giorno stesso"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": 1,
+      "titolo": "Governo di otto Capitani di Libertà",
+      "nome": "",
+      "inizio": "27 dicembre 1435",
+      "fine": "28 marzo 1436",
+      "note": ""
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "25 XX",
+      "titolo": "Doge",
+      "nome": "Isnardo Guarco",
+      "inizio": "28 marzo 1436",
+      "fine": "3 aprile 1436",
+      "note": "figlio di Nicolò Guarco fratello di Antonio Guarco"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "26 XXI",
+      "titolo": "Doge",
+      "nome": "Tomaso Fregoso",
+      "inizio": "3 aprile 1436",
+      "fine": "24 marzo 1437",
+      "note": "nominato per la 2ª volta figlio di Pietro Fregoso"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": 27,
+      "titolo": "Doge",
+      "nome": "Battista Fregoso",
+      "inizio": "24 marzo 1437",
+      "fine": "24 marzo 1437",
+      "note": "golpista per un giorno figlio di Pietro Fregoso fratello di Tomaso Fregoso"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": 28,
+      "titolo": "Doge",
+      "nome": "Tomaso Fregoso",
+      "inizio": "24 marzo 1437",
+      "fine": "18 dicembre 1442",
+      "note": "sventa il golpe"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": 1,
+      "titolo": "Governo di otto Capitani di Libertà",
+      "nome": "",
+      "inizio": "19 dicembre 1442",
+      "fine": "28 gennaio 1443",
+      "note": ""
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "29 XXII",
+      "titolo": "Doge",
+      "nome": "Raffaele Adorno",
+      "inizio": "28 gennaio 1443",
+      "fine": "4 gennaio 1447",
+      "note": "figlio di Giorgio Adorno nipote di Antoniotto Adorno"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "30 XXIII",
+      "titolo": "Doge",
+      "nome": "Barnaba Adorno",
+      "inizio": "4 gennaio 1447",
+      "fine": "30 gennaio 1447",
+      "note": ""
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "31 XXIIII",
+      "titolo": "Doge",
+      "nome": "Giano Fregoso",
+      "inizio": "30 gennaio 1447",
+      "fine": "16 dicembre 1448",
+      "note": "nipote di Tomaso Fregoso muore in carica"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "32 XXV",
+      "titolo": "Doge",
+      "nome": "Lodovico Fregoso",
+      "inizio": "16 dicembre 1448",
+      "fine": "4 settembre 1450",
+      "note": "fratello di Giano Fregoso nipote di Tomaso Fregoso"
+    },
+    {
+      "periodo": "1435-1458",
+      "numero": "33 XXVI",
+      "titolo": "Doge",
+      "nome": "Pietro Fregoso",
+      "inizio": "8 settembre 1450",
+      "fine": "gennaio 1458",
+      "note": "figlio di Battista Fregoso nipote di Tomaso Fregoso cugino di Lodovico Fregoso"
+    },
+    {
+      "periodo": "Dedizione a Carlo VII di Francia (1458-1461)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Giovanni II di Lorena",
+      "inizio": "11 marzo 1458",
+      "fine": "11 settembre (?) 1459",
+      "note": "duca di Calabria e di Lorena figlio di Renato d'Angiò nipote di Carlo VII di Francia"
+    },
+    {
+      "periodo": "Dedizione a Carlo VII di Francia (1458-1461)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Ludovico la Vallée",
+      "inizio": "11 settembre (?) 1459",
+      "fine": "9 marzo 1461",
+      "note": ""
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 1,
+      "titolo": "Governo di otto Capitani degli artefici",
+      "nome": "",
+      "inizio": "9 marzo 1461",
+      "fine": "12 marzo 1461",
+      "note": ""
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 34,
+      "titolo": "Doge",
+      "nome": "Prospero Adorno",
+      "inizio": "12 marzo 1461",
+      "fine": "17 luglio 1461",
+      "note": "fugge da Genova"
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 35,
+      "titolo": "Doge",
+      "nome": "Spinetta Fregoso",
+      "inizio": "18 luglio 1461",
+      "fine": "24 luglio 1461",
+      "note": "nipote di Pietro Fregoso"
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": "36 XXVII",
+      "titolo": "Doge",
+      "nome": "Lodovico Fregoso",
+      "inizio": "25 luglio 1461",
+      "fine": "14 maggio 1462",
+      "note": "nominato per la 2ª volta"
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 37,
+      "titolo": "Doge",
+      "nome": "Paolo Fregoso",
+      "inizio": "14 maggio 1462",
+      "fine": "31 maggio 1462",
+      "note": "arcivescovo di Genova figlio di Battista Fregoso fratello di Pietro Fregoso cugino di Lodovico Fregoso"
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 1,
+      "titolo": "",
+      "nome": "Governo di quattro Capitani degli artefici",
+      "inizio": "31 maggio 1462",
+      "fine": "8 giugno 1462",
+      "note": ""
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": 38,
+      "titolo": "Doge",
+      "nome": "Lodovico Fregoso",
+      "inizio": "8 giugno 1462",
+      "fine": "gennaio 1463",
+      "note": "nominato per la 3ª volta"
+    },
+    {
+      "periodo": "1461-1464",
+      "numero": "39 XXVIII",
+      "titolo": "Doge",
+      "nome": "Paolo Fregoso",
+      "inizio": "8 gennaio 1463",
+      "fine": "aprile 1464",
+      "note": "nominato per la 2ª volta arcivescovo di Genova"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Gaspare di Vimercate",
+      "inizio": "16 aprile 1464",
+      "fine": "18 settembre (?) 1464",
+      "note": "governatore sotto la signoria di Francesco Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Corrado da Fogliano",
+      "inizio": "28 settembre 1464",
+      "fine": "13 maggio 1466",
+      "note": "governatore sotto la signoria di Francesco Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 3,
+      "titolo": "Vicario",
+      "nome": "Baldassarre della Corte",
+      "inizio": "maggio 1466",
+      "fine": "agosto (?) 1466",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 4,
+      "titolo": "Governatore",
+      "nome": "Sagramoro Menclozzo Visconte",
+      "inizio": "1º settembre 1466",
+      "fine": "29 settembre 1468",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 5,
+      "titolo": "Governatore",
+      "nome": "Corrado da Fogliano",
+      "inizio": "7 ottobre 1468",
+      "fine": "22 agosto 1470",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza nominato per la 2ª volta"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 6,
+      "titolo": "Vicario",
+      "nome": "Giacomo Bovarello",
+      "inizio": "23 agosto 1470",
+      "fine": "dopo il 17 dicembre 1470",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 7,
+      "titolo": "Governatore",
+      "nome": "Giovanni Pallavicino",
+      "inizio": "3 gennaio 1471",
+      "fine": "1º luglio 1473",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza marchese di Scipione"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 8,
+      "titolo": "Governatore",
+      "nome": "Guido Visconte",
+      "inizio": "7 luglio 1473",
+      "fine": "19 ottobre 1475",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 9,
+      "titolo": "Governatore",
+      "nome": "Gian Francesco Pallavicino",
+      "inizio": "ottobre 1475",
+      "fine": "4 febbraio 1477",
+      "note": "governatore sotto la signoria di Galeazzo Maria Sforza marchese di Scipione"
+    },
+    {
+      "periodo": "I dedizione alla Signoria Sforzesca (1464-1477)",
+      "numero": 10,
+      "titolo": "Signore",
+      "nome": "Gian Galeazzo Maria Sforza",
+      "inizio": "26 dicembre 1476",
+      "fine": "15 marzo 1477",
+      "note": "duca di Milano signore di Genova"
+    },
+    {
+      "periodo": "1477",
+      "numero": 1,
+      "titolo": "Governo degli otto Difensori della Patria",
+      "nome": "Ibleto Fieschi",
+      "inizio": "20 marzo 1477",
+      "fine": "28 aprile 1477",
+      "note": "capitano"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Sforzesca (1477-1478)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Prospero Adorno",
+      "inizio": "30 aprile 1477",
+      "fine": "1478",
+      "note": "governatore sotto la signoria di Gian Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "II dedizione alla Signoria Sforzesca (1477-1478)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Branda Castiglioni",
+      "inizio": "1478",
+      "fine": "1478",
+      "note": "non ha il tempo di governare e si rifugia nel Castelletto vescovo di Como"
+    },
+    {
+      "periodo": "1478-1488",
+      "numero": 1,
+      "titolo": "Governo con otto Pacificatori",
+      "nome": "Prospero Adorno",
+      "inizio": "7 luglio 1478",
+      "fine": "23 ottobre 1478",
+      "note": ""
+    },
+    {
+      "periodo": "1478-1488",
+      "numero": 2,
+      "titolo": "Governo con dodici Capitani",
+      "nome": "Prospero Adorno Lodovico Fregoso",
+      "inizio": "23 ottobre 1478",
+      "fine": "25 novembre 1478",
+      "note": ""
+    },
+    {
+      "periodo": "1478-1488",
+      "numero": "40 XXX",
+      "titolo": "Doge",
+      "nome": "Battista Fregoso",
+      "inizio": "26 novembre 1478",
+      "fine": "25 novembre 1483",
+      "note": "figlio di Pietro Fregoso"
+    },
+    {
+      "periodo": "1478-1488",
+      "numero": "41 XXXI",
+      "titolo": "Doge",
+      "nome": "Paolo Fregoso",
+      "inizio": "25 novembre 1483",
+      "fine": "6 gennaio 1488",
+      "note": "nominato per la 3ª volta cardinale e arcivescovo di Genova"
+    },
+    {
+      "periodo": "III dedizione alla Signoria Sforzesca (1488)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Paolo Fregoso",
+      "inizio": "6 gennaio (?) 1488",
+      "fine": "7 agosto 1488",
+      "note": "governatore sotto la signoria di Gian Galeazzo Maria Sforza cardinale e arcivescovo di Genova"
+    },
+    {
+      "periodo": "1488",
+      "numero": 1,
+      "titolo": "Governo di dodici cittadini",
+      "nome": "",
+      "inizio": "7 agosto 1488",
+      "fine": "13 settembre 1488",
+      "note": "Sotto il nome di Capitani e poi di Riformatori della Repubblica"
+    },
+    {
+      "periodo": "IV dedizione alla Signoria Sforzesca (1488-99)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Agostino Adorno",
+      "inizio": "13 settembre 1488",
+      "fine": "26 ottobre 1499",
+      "note": "governatore sotto la signoria di Gian Galeazzo Maria Sforza"
+    },
+    {
+      "periodo": "IV dedizione alla Signoria Sforzesca (1488-99)",
+      "numero": 2,
+      "titolo": "Commissario",
+      "nome": "Corrado Stanga",
+      "inizio": "1494",
+      "fine": "26 ottobre 1499",
+      "note": "commissario sotto la signoria di Ludovico Maria Sforza"
+    },
+    {
+      "periodo": "I dedizione a Luigi XII di Francia (1499-1507)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Scipione Barbavara",
+      "inizio": "26 ottobre 1499",
+      "fine": "3 novembre 1499",
+      "note": ""
+    },
+    {
+      "periodo": "I dedizione a Luigi XII di Francia (1499-1507)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Filippo di Cleves",
+      "inizio": "4 novembre 1499",
+      "fine": "25 ottobre 1506",
+      "note": "signore di Ravenstein"
+    },
+    {
+      "periodo": "I dedizione a Luigi XII di Francia (1499-1507)",
+      "numero": 3,
+      "titolo": "Luogotenente",
+      "nome": "Filippo Roccabertin",
+      "inizio": "giugno 1506",
+      "fine": "12 marzo 1507",
+      "note": ""
+    },
+    {
+      "periodo": "1507",
+      "numero": 42,
+      "titolo": "Doge del popolo",
+      "nome": "Paolo da Novi",
+      "inizio": "10 aprile 1507",
+      "fine": "27 aprile 1507",
+      "note": "governo popolare rivoltoso"
+    },
+    {
+      "periodo": "II dedizione a Luigi XII di Francia (1507-1512)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Filippo di Cleves",
+      "inizio": "28 aprile 1507",
+      "fine": "maggio 1507",
+      "note": "signore di Ravenstein"
+    },
+    {
+      "periodo": "II dedizione a Luigi XII di Francia (1507-1512)",
+      "numero": 2,
+      "titolo": "Governatore",
+      "nome": "Rodolfo di Lanoy",
+      "inizio": "maggio 1507",
+      "fine": "ottobre 1508",
+      "note": ""
+    },
+    {
+      "periodo": "II dedizione a Luigi XII di Francia (1507-1512)",
+      "numero": 3,
+      "titolo": "Governatore",
+      "nome": "Francesco di Rochechouard",
+      "inizio": "ottobre 1508",
+      "fine": "20 giugno 1512",
+      "note": "signore di Champdeniers-Saint-Denis"
+    },
+    {
+      "periodo": "1512-1513",
+      "numero": 43,
+      "titolo": "Doge",
+      "nome": "Giano Fregoso",
+      "inizio": "29 giugno 1512",
+      "fine": "25 maggio 1513",
+      "note": "protettorato imperiale"
+    },
+    {
+      "periodo": "III dedizione a Luigi XII di Francia (1513)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Antoniotto Adorno",
+      "inizio": "1513",
+      "fine": "1513",
+      "note": ""
+    },
+    {
+      "periodo": "1513-1515",
+      "numero": 44,
+      "titolo": "Doge",
+      "nome": "Ottaviano Fregoso",
+      "inizio": "20 giugno 1513",
+      "fine": "7 settembre 1515",
+      "note": ""
+    },
+    {
+      "periodo": "I dedizione a Francesco I di Francia (1515-1522)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Ottaviano Fregoso",
+      "inizio": "20 novembre 1515",
+      "fine": "31 maggio 1522",
+      "note": ""
+    },
+    {
+      "periodo": "1522-1527",
+      "numero": 45,
+      "titolo": "Doge",
+      "nome": "Antoniotto Adorno II",
+      "inizio": "31 maggio 1522",
+      "fine": "primi di agosto 1527",
+      "note": "ultimo doge con la carica a vita"
+    },
+    {
+      "periodo": "II dedizione a Francesco I di Francia (1527-1528)",
+      "numero": 1,
+      "titolo": "Governatore",
+      "nome": "Teodoro Trivulzio",
+      "inizio": "primi di agosto 1527",
+      "fine": "12 settembre 1528",
+      "note": ""
+    },
+    {
+      "periodo": "1528",
+      "numero": 1,
+      "titolo": "Governo dei dodici Riformatori di Libertà",
+      "nome": "",
+      "inizio": "metà di settembre del 1528",
+      "fine": "11 ottobre 1528",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 46,
+      "titolo": "Doge",
+      "nome": "Oberto Cattaneo Lazzari",
+      "inizio": "12 ottobre 1528",
+      "fine": "4 gennaio 1531",
+      "note": "primo doge con carica biennale"
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 47,
+      "titolo": "Doge",
+      "nome": "Battista Spinola",
+      "inizio": "4 gennaio 1531",
+      "fine": "4 gennaio 1533",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 48,
+      "titolo": "Doge",
+      "nome": "Battista Lomellini",
+      "inizio": "4 gennaio 1533",
+      "fine": "4 gennaio 1535",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 49,
+      "titolo": "Doge",
+      "nome": "Cristoforo Grimaldi Rosso",
+      "inizio": "4 gennaio 1535",
+      "fine": "4 gennaio 1537",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 50,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Doria",
+      "inizio": "4 gennaio 1537",
+      "fine": "4 gennaio 1539",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 51,
+      "titolo": "Doge",
+      "nome": "Giannandrea Giustiniani Longo",
+      "inizio": "4 gennaio 1539",
+      "fine": "4 gennaio 1541",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 52,
+      "titolo": "Doge",
+      "nome": "Leonardo Cattaneo Della Volta",
+      "inizio": "4 gennaio 1541",
+      "fine": "4 gennaio 1543",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 53,
+      "titolo": "Doge",
+      "nome": "Andrea Centurione Pietrasanta",
+      "inizio": "4 gennaio 1543",
+      "fine": "4 gennaio 1545",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 54,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista De Fornari",
+      "inizio": "4 gennaio 1545",
+      "fine": "4 gennaio 1547",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 55,
+      "titolo": "Doge",
+      "nome": "Benedetto Gentile Pevere",
+      "inizio": "4 gennaio 1547",
+      "fine": "4 gennaio 1549",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 56,
+      "titolo": "Doge",
+      "nome": "Gaspare Grimaldi Bracelli",
+      "inizio": "4 gennaio 1549",
+      "fine": "4 gennaio 1551",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 57,
+      "titolo": "Doge",
+      "nome": "Luca Spinola",
+      "inizio": "4 gennaio 1551",
+      "fine": "4 gennaio 1553",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 58,
+      "titolo": "Doge",
+      "nome": "Giacomo Promontorio",
+      "inizio": "4 gennaio 1553",
+      "fine": "4 gennaio 1555",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 59,
+      "titolo": "Doge",
+      "nome": "Agostino Pinelli Ardimenti",
+      "inizio": "4 gennaio 1555",
+      "fine": "4 gennaio 1557",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 60,
+      "titolo": "Doge",
+      "nome": "Pietro Giovanni Cybo Clavica",
+      "inizio": "4 gennaio 1557",
+      "fine": "3 dicembre 1558",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 61,
+      "titolo": "Doge",
+      "nome": "Girolamo Vivaldi",
+      "inizio": "4 gennaio 1559",
+      "fine": "4 gennaio 1561",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 62,
+      "titolo": "Doge",
+      "nome": "Paolo Battista Calvo de' Giudici",
+      "inizio": "4 gennaio 1561",
+      "fine": "27 settembre 1561",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 63,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Cicala Zoagli",
+      "inizio": "4 ottobre 1561",
+      "fine": "4 ottobre 1563",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 64,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Lercari",
+      "inizio": "7 ottobre 1563",
+      "fine": "7 ottobre 1565",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 65,
+      "titolo": "Doge",
+      "nome": "Ottavio Gentile Oderico",
+      "inizio": "11 ottobre 1565",
+      "fine": "11 ottobre 1567",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 66,
+      "titolo": "Doge",
+      "nome": "Simone Spinola",
+      "inizio": "15 ottobre 1567",
+      "fine": "3 ottobre 1569",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 67,
+      "titolo": "Doge",
+      "nome": "Paolo Giustiniani Moneglia",
+      "inizio": "6 ottobre 1569",
+      "fine": "6 ottobre 1571",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 68,
+      "titolo": "Doge",
+      "nome": "Giannotto Lomellini",
+      "inizio": "10 ottobre 1571",
+      "fine": "10 ottobre 1573",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 69,
+      "titolo": "Doge",
+      "nome": "Giacomo Grimaldi Durazzo",
+      "inizio": "16 ottobre 1573",
+      "fine": "17 ottobre 1575",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 70,
+      "titolo": "Doge",
+      "nome": "Prospero Centurione Fattinanti",
+      "inizio": "17 ottobre 1575",
+      "fine": "17 ottobre 1577",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 71,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Gentile Pignolo",
+      "inizio": "19 ottobre 1577",
+      "fine": "19 ottobre 1579",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 72,
+      "titolo": "Doge",
+      "nome": "Nicolò Doria",
+      "inizio": "20 ottobre 1579",
+      "fine": "20 ottobre 1581",
+      "note": "nipote di Giovanni Battista Doria"
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 73,
+      "titolo": "Doge",
+      "nome": "Gerolamo De Franchi Toso",
+      "inizio": "21 ottobre 1581",
+      "fine": "21 ottobre 1583",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 74,
+      "titolo": "Doge",
+      "nome": "Gerolamo Chiavari",
+      "inizio": "4 novembre 1583",
+      "fine": "4 novembre 1585",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 75,
+      "titolo": "Doge",
+      "nome": "Ambrogio Di Negro",
+      "inizio": "8 novembre 1585",
+      "fine": "13 novembre 1587",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 76,
+      "titolo": "Doge",
+      "nome": "Davide Vaccari",
+      "inizio": "14 novembre 1587",
+      "fine": "14 novembre 1589",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 77,
+      "titolo": "Doge",
+      "nome": "Battista Negrone",
+      "inizio": "20 novembre 1589",
+      "fine": "15 novembre 1591",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 78,
+      "titolo": "Doge",
+      "nome": "Giovanni Agostino Giustiniani Campi",
+      "inizio": "27 novembre 1591",
+      "fine": "26 novembre 1593",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 79,
+      "titolo": "Doge",
+      "nome": "Antonio Grimaldi Cebà",
+      "inizio": "27 novembre 1593",
+      "fine": "26 novembre 1595",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 80,
+      "titolo": "Doge",
+      "nome": "Matteo Senarega",
+      "inizio": "5 dicembre 1595",
+      "fine": "4 dicembre 1597",
+      "note": ""
+    },
+    {
+      "periodo": "1528-1599",
+      "numero": 81,
+      "titolo": "Doge",
+      "nome": "Lazzaro Grimaldi Cebà",
+      "inizio": "7 dicembre 1597",
+      "fine": "15 febbraio 1599",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 82,
+      "titolo": "Doge",
+      "nome": "Lorenzo Sauli",
+      "inizio": "22 febbraio 1599",
+      "fine": "21 febbraio 1601",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 83,
+      "titolo": "Doge",
+      "nome": "Agostino Doria",
+      "inizio": "24 febbraio 1601",
+      "fine": "25 febbraio 1603",
+      "note": "fratello di Nicolò Doria nipote di Giovanni Battista Doria"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 84,
+      "titolo": "Doge",
+      "nome": "Pietro De Franchi Sacco",
+      "inizio": "26 febbraio 1603",
+      "fine": "27 febbraio 1605",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 85,
+      "titolo": "Doge",
+      "nome": "Luca Grimaldi De Castro",
+      "inizio": "1º marzo 1605",
+      "fine": "2 marzo 1607",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 86,
+      "titolo": "Doge",
+      "nome": "Silvestro Invrea",
+      "inizio": "3 marzo 1607",
+      "fine": "17 marzo 1607",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 87,
+      "titolo": "Doge",
+      "nome": "Gerolamo Assereto",
+      "inizio": "22 marzo 1607",
+      "fine": "23 marzo 1609",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 88,
+      "titolo": "Doge",
+      "nome": "Agostino Pinelli Luciani",
+      "inizio": "1º aprile 1609",
+      "fine": "2 aprile 1611",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 89,
+      "titolo": "Doge",
+      "nome": "Alessandro Giustiniani Longo",
+      "inizio": "6 aprile 1611",
+      "fine": "6 aprile 1613",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 90,
+      "titolo": "Doge",
+      "nome": "Tomaso Spinola",
+      "inizio": "21 aprile 1613",
+      "fine": "21 aprile 1615",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 91,
+      "titolo": "Doge",
+      "nome": "Bernardo Cybo Clavarezza",
+      "inizio": "25 aprile 1615",
+      "fine": "25 aprile 1617",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 92,
+      "titolo": "Doge",
+      "nome": "Giovanni Giacomo Imperiale Tartaro",
+      "inizio": "25 aprile 1617",
+      "fine": "29 aprile 1619",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 93,
+      "titolo": "Doge",
+      "nome": "Pietro Durazzo",
+      "inizio": "2 maggio 1619",
+      "fine": "2 maggio 1621",
+      "note": "figlio di Giacomo Grimaldi Durazzo"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 94,
+      "titolo": "Doge",
+      "nome": "Ambrogio Doria",
+      "inizio": "4 maggio 1621",
+      "fine": "12 giugno 1621",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 95,
+      "titolo": "Doge",
+      "nome": "Giorgio Centurione",
+      "inizio": "22 giugno 1621",
+      "fine": "22 giugno 1623",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 96,
+      "titolo": "Doge",
+      "nome": "Federico De Franchi Toso",
+      "inizio": "25 giugno 1623",
+      "fine": "16 giugno 1625",
+      "note": "figlio di Gerolamo De Franchi Toso si dimette dalla carica"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 97,
+      "titolo": "Doge",
+      "nome": "Giacomo Lomellini",
+      "inizio": "16 giugno 1625",
+      "fine": "25 giugno 1627",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 98,
+      "titolo": "Doge",
+      "nome": "Giovanni Luca Chiavari",
+      "inizio": "28 giugno 1627",
+      "fine": "28 giugno 1629",
+      "note": "figlio di Gerolamo Chiavari"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 99,
+      "titolo": "Doge",
+      "nome": "Andrea Spinola",
+      "inizio": "26 giugno 1629",
+      "fine": "26 giugno 1631",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 100,
+      "titolo": "Doge",
+      "nome": "Leonardo Della Torre",
+      "inizio": "30 giugno 1631",
+      "fine": "30 giugno 1633",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 101,
+      "titolo": "Doge",
+      "nome": "Giovanni Stefano Doria",
+      "inizio": "5 luglio 1633",
+      "fine": "5 luglio 1635",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 102,
+      "titolo": "Doge",
+      "nome": "Giovanni Francesco Brignole Sale",
+      "inizio": "11 luglio 1635",
+      "fine": "11 luglio 1637",
+      "note": "primo re di Corsica, titolo ufficialmente riconosciuto per tutti i successivi dogi in carica (fino al 15 marzo 1736)"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 103,
+      "titolo": "Doge",
+      "nome": "Agostino Pallavicini",
+      "inizio": "13 luglio 1637",
+      "fine": "13 luglio 1639",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 104,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Durazzo",
+      "inizio": "28 luglio 1639",
+      "fine": "28 luglio 1641",
+      "note": "nipote di Giacomo Grimaldi Durazzo cugino di Pietro Durazzo"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 105,
+      "titolo": "Doge",
+      "nome": "Giovanni Agostino De Marini",
+      "inizio": "14 agosto 1641",
+      "fine": "19 giugno 1642",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 106,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Lercari",
+      "inizio": "4 luglio 1642",
+      "fine": "4 luglio 1644",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 107,
+      "titolo": "Doge",
+      "nome": "Luca Giustiniani",
+      "inizio": "21 luglio 1644",
+      "fine": "21 luglio 1646",
+      "note": "figlio di Alessandro Giustiniani Longo"
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 108,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Lomellini",
+      "inizio": "24 luglio 1646",
+      "fine": "24 luglio 1648",
+      "note": ""
+    },
+    {
+      "periodo": "1599-1650",
+      "numero": 109,
+      "titolo": "Doge",
+      "nome": "Giacomo De Franchi Toso",
+      "inizio": "1º agosto 1648",
+      "fine": "1º agosto 1650",
+      "note": "figlio di Federico De Franchi Toso nipote di Gerolamo De Franchi Toso"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 110,
+      "titolo": "Doge",
+      "nome": "Agostino Centurione",
+      "inizio": "23 agosto 1650",
+      "fine": "23 agosto 1652",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 111,
+      "titolo": "Doge",
+      "nome": "Gerolamo De Franchi Toso",
+      "inizio": "8 settembre 1652",
+      "fine": "8 settembre 1654",
+      "note": "figlio di Federico De Franchi Toso nipote di Gerolamo De Franchi Toso fratello di Giacomo De Franchi Toso"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 112,
+      "titolo": "Doge",
+      "nome": "Alessandro Spinola",
+      "inizio": "9 ottobre 1654",
+      "fine": "9 ottobre 1656",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 113,
+      "titolo": "Doge",
+      "nome": "Giulio Sauli",
+      "inizio": "12 ottobre 1656",
+      "fine": "12 ottobre 1658",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 114,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Centurione",
+      "inizio": "15 ottobre 1658",
+      "fine": "15 ottobre 1660",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 115,
+      "titolo": "Doge",
+      "nome": "Gian Bernardo Frugoni",
+      "inizio": "28 ottobre 1660",
+      "fine": "22 marzo 1661",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 116,
+      "titolo": "Doge",
+      "nome": "Antoniotto Invrea",
+      "inizio": "28 marzo 1661",
+      "fine": "29 marzo 1663",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 117,
+      "titolo": "Doge",
+      "nome": "Stefano De Mari",
+      "inizio": "13 aprile 1663",
+      "fine": "12 aprile 1665",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 118,
+      "titolo": "Doge",
+      "nome": "Cesare Durazzo",
+      "inizio": "18 aprile 1665",
+      "fine": "18 aprile 1667",
+      "note": "figlio di Pietro Durazzo"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 119,
+      "titolo": "Doge",
+      "nome": "Cesare Gentile",
+      "inizio": "10 maggio 1667",
+      "fine": "10 maggio 1669",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 120,
+      "titolo": "Doge",
+      "nome": "Francesco Garbarino",
+      "inizio": "18 giugno 1669",
+      "fine": "18 giugno 1671",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 121,
+      "titolo": "Doge",
+      "nome": "Alessandro Grimaldi",
+      "inizio": "27 giugno 1671",
+      "fine": "27 giugno 1673",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 122,
+      "titolo": "Doge",
+      "nome": "Agostino Saluzzo",
+      "inizio": "5 luglio 1673",
+      "fine": "4 luglio 1675",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 123,
+      "titolo": "Doge",
+      "nome": "Antonio Da Passano",
+      "inizio": "11 luglio 1675",
+      "fine": "11 luglio 1677",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 124,
+      "titolo": "Doge",
+      "nome": "Giannettino Odone",
+      "inizio": "16 luglio 1677",
+      "fine": "16 luglio 1679",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 125,
+      "titolo": "Doge",
+      "nome": "Agostino Spinola",
+      "inizio": "29 luglio 1679",
+      "fine": "29 luglio 1681",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 126,
+      "titolo": "Doge",
+      "nome": "Luca Maria Invrea",
+      "inizio": "13 agosto 1681",
+      "fine": "13 agosto 1683",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 127,
+      "titolo": "Doge",
+      "nome": "Francesco Maria Imperiale Lercari",
+      "inizio": "18 agosto 1683",
+      "fine": "18 agosto 1685",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 128,
+      "titolo": "Doge",
+      "nome": "Pietro Durazzo",
+      "inizio": "23 agosto 1685",
+      "fine": "23 agosto 1687",
+      "note": "figlio di Cesare Durazzo nipote di Pietro Durazzo"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 129,
+      "titolo": "Doge",
+      "nome": "Luca Spinola",
+      "inizio": "27 agosto 1687",
+      "fine": "27 agosto 1689",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 130,
+      "titolo": "Doge",
+      "nome": "Oberto Della Torre",
+      "inizio": "31 agosto 1689",
+      "fine": "1º settembre 1691",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 131,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Cattaneo Della Volta",
+      "inizio": "4 settembre 1691",
+      "fine": "5 settembre 1693",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 132,
+      "titolo": "Doge",
+      "nome": "Francesco Invrea",
+      "inizio": "9 settembre 1693",
+      "fine": "9 settembre 1695",
+      "note": "figlio di Antoniotto Invrea"
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 133,
+      "titolo": "Doge",
+      "nome": "Bendinelli Negrone",
+      "inizio": "16 settembre 1695",
+      "fine": "16 settembre 1697",
+      "note": ""
+    },
+    {
+      "periodo": "1650-1699",
+      "numero": 134,
+      "titolo": "Doge",
+      "nome": "Francesco Maria Sauli",
+      "inizio": "19 settembre 1697",
+      "fine": "26 maggio 1699",
+      "note": "nipote di Lorenzo Sauli muore in carica"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 135,
+      "titolo": "Doge",
+      "nome": "Girolamo De Mari",
+      "inizio": "3 giugno 1699",
+      "fine": "3 giugno 1701",
+      "note": "figlio di Stefano De Mari"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 136,
+      "titolo": "Doge",
+      "nome": "Federico De Franchi",
+      "inizio": "7 giugno 1701",
+      "fine": "7 giugno 1703",
+      "note": "nipote di Federico De Franchi Toso"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 137,
+      "titolo": "Doge",
+      "nome": "Antonio Grimaldi",
+      "inizio": "1º agosto 1703",
+      "fine": "1º agosto 1705",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 138,
+      "titolo": "Doge",
+      "nome": "Stefano Onorato Ferretti",
+      "inizio": "22 agosto 1705",
+      "fine": "22 agosto 1707",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 139,
+      "titolo": "Doge",
+      "nome": "Domenico Maria De Mari",
+      "inizio": "9 settembre 1707",
+      "fine": "9 settembre 1709",
+      "note": "figlio di Stefano De Mari fratellastro di Girolamo De Mari"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 140,
+      "titolo": "Doge",
+      "nome": "Vincenzo Durazzo",
+      "inizio": "14 settembre 1709",
+      "fine": "14 settembre 1711",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 141,
+      "titolo": "Doge",
+      "nome": "Francesco Maria Imperiale",
+      "inizio": "22 settembre 1711",
+      "fine": "22 settembre 1713",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 142,
+      "titolo": "Doge",
+      "nome": "Giovanni Antonio Giustiniani",
+      "inizio": "22 settembre 1713",
+      "fine": "22 settembre 1715",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 143,
+      "titolo": "Doge",
+      "nome": "Lorenzo Centurione",
+      "inizio": "26 settembre 1715",
+      "fine": "26 settembre 1717",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 144,
+      "titolo": "Doge",
+      "nome": "Benedetto Viale",
+      "inizio": "30 settembre 1717",
+      "fine": "30 settembre 1719",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 145,
+      "titolo": "Doge",
+      "nome": "Ambrogio Imperiale",
+      "inizio": "4 ottobre 1719",
+      "fine": "4 ottobre 1721",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 146,
+      "titolo": "Doge",
+      "nome": "Cesare De Franchi Toso",
+      "inizio": "8 ottobre 1721",
+      "fine": "8 ottobre 1723",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 147,
+      "titolo": "Doge",
+      "nome": "Domenico Negrone",
+      "inizio": "13 ottobre 1723",
+      "fine": "13 ottobre 1725",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 148,
+      "titolo": "Doge",
+      "nome": "Gerolamo Veneroso",
+      "inizio": "18 gennaio 1726",
+      "fine": "18 gennaio 1728",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 149,
+      "titolo": "Doge",
+      "nome": "Luca Grimaldi",
+      "inizio": "22 gennaio 1728",
+      "fine": "22 gennaio 1730",
+      "note": "fratello di Antonio Grimaldi"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 150,
+      "titolo": "Doge",
+      "nome": "Francesco Maria Balbi",
+      "inizio": "20 gennaio 1730",
+      "fine": "20 gennaio 1732",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 151,
+      "titolo": "Doge",
+      "nome": "Domenico Maria Spinola",
+      "inizio": "29 gennaio 1732",
+      "fine": "29 gennaio 1734",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 152,
+      "titolo": "Doge",
+      "nome": "Stefano Durazzo",
+      "inizio": "3 febbraio 1734",
+      "fine": "3 febbraio 1736",
+      "note": "figlio di Pietro Durazzo"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 153,
+      "titolo": "Doge",
+      "nome": "Nicolò Cattaneo Della Volta",
+      "inizio": "7 febbraio 1736",
+      "fine": "7 febbraio 1738",
+      "note": "figlio di Giovanni Battista Cattaneo Della Volta re di Corsica fino al 20 marzo 1736 per la proclamata indipendenza del Regno di Corsica dallo stato genovese nel novembre 1736, con la caduta del Regno di Corsica e l'annessione dell'isola tra i domini di Genova, i dogi tornano ad essere, durante la carica, anche re di Corsica"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 154,
+      "titolo": "Doge",
+      "nome": "Costantino Balbi",
+      "inizio": "7 febbraio 1738",
+      "fine": "7 febbraio 1740",
+      "note": "fratello di Francesco Maria Balbi"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 155,
+      "titolo": "Doge",
+      "nome": "Nicolò Spinola",
+      "inizio": "16 febbraio 1740",
+      "fine": "16 febbraio 1742",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 156,
+      "titolo": "Doge",
+      "nome": "Domenico Canevaro",
+      "inizio": "20 febbraio 1742",
+      "fine": "20 febbraio 1744",
+      "note": ""
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 157,
+      "titolo": "Doge",
+      "nome": "Lorenzo De Mari",
+      "inizio": "1º febbraio 1744",
+      "fine": "1º febbraio 1746",
+      "note": "nipote di Stefano De Mari"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 158,
+      "titolo": "Doge",
+      "nome": "Giovanni Francesco Brignole Sale",
+      "inizio": "3 marzo 1746",
+      "fine": "3 marzo 1748",
+      "note": "ultimo re di Corsica (fino al 7 giugno 1746)"
+    },
+    {
+      "periodo": "1699-1750",
+      "numero": 159,
+      "titolo": "Doge",
+      "nome": "Cesare Cattaneo Della Volta",
+      "inizio": "6 marzo 1748",
+      "fine": "6 marzo 1750",
+      "note": "figlio di Giovanni Battista Cattaneo Della Volta"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 160,
+      "titolo": "Doge",
+      "nome": "Agostino Viale",
+      "inizio": "10 marzo 1750",
+      "fine": "10 marzo 1752",
+      "note": "figlio di Benedetto Viale"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 161,
+      "titolo": "Doge",
+      "nome": "Stefano Lomellini",
+      "inizio": "28 marzo 1752",
+      "fine": "7 giugno 1752",
+      "note": "abdica"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 162,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Grimaldi",
+      "inizio": "7 giugno 1752",
+      "fine": "7 giugno 1754",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 163,
+      "titolo": "Doge",
+      "nome": "Gian Giacomo Veneroso",
+      "inizio": "23 giugno 1754",
+      "fine": "23 giugno 1756",
+      "note": "Figlio di Gerolamo Veneroso"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 164,
+      "titolo": "Doge",
+      "nome": "Giovanni Giacomo Grimaldi",
+      "inizio": "22 giugno 1756",
+      "fine": "22 giugno 1758",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 165,
+      "titolo": "Doge",
+      "nome": "Matteo Franzoni",
+      "inizio": "22 agosto 1758",
+      "fine": "22 agosto 1760",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 166,
+      "titolo": "Doge",
+      "nome": "Agostino Lomellini",
+      "inizio": "22 settembre 1760",
+      "fine": "10 settembre 1762",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 167,
+      "titolo": "Doge",
+      "nome": "Rodolfo Emilio Brignole Sale",
+      "inizio": "25 novembre 1762",
+      "fine": "25 novembre 1764",
+      "note": "fratello di Giovanni Francesco Brignole Sale"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 168,
+      "titolo": "Doge",
+      "nome": "Francesco Maria Della Rovere",
+      "inizio": "29 gennaio 1765",
+      "fine": "29 gennaio 1767",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 169,
+      "titolo": "Doge",
+      "nome": "Marcello Durazzo",
+      "inizio": "3 febbraio 1767",
+      "fine": "3 febbraio 1769",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 170,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Negrone",
+      "inizio": "16 febbraio 1769",
+      "fine": "26 gennaio 1771",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 171,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Cambiaso",
+      "inizio": "16 aprile 1771",
+      "fine": "23 dicembre 1772",
+      "note": "muore in carica"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 172,
+      "titolo": "Doge",
+      "nome": "Ferdinando Spinola",
+      "inizio": "7 gennaio 1773",
+      "fine": "19 gennaio 1773",
+      "note": "rinuncia all'incarico"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 173,
+      "titolo": "Doge",
+      "nome": "Pier Francesco Grimaldi",
+      "inizio": "26 gennaio 1773",
+      "fine": "26 gennaio 1775",
+      "note": "figlio di Giovanni Battista Grimaldi cugino di Giovanni Giacomo Grimaldi"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 174,
+      "titolo": "Doge",
+      "nome": "Brizio Giustiniani",
+      "inizio": "31 gennaio 1775",
+      "fine": "31 gennaio 1777",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 175,
+      "titolo": "Doge",
+      "nome": "Giuseppe Lomellini",
+      "inizio": "4 febbraio 1777",
+      "fine": "4 febbraio 1779",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 176,
+      "titolo": "Doge",
+      "nome": "Giacomo Maria Brignole",
+      "inizio": "4 marzo 1779",
+      "fine": "4 marzo 1781",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 177,
+      "titolo": "Doge",
+      "nome": "Marco Antonio Gentile",
+      "inizio": "8 marzo 1781",
+      "fine": "8 marzo 1783",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 178,
+      "titolo": "Doge",
+      "nome": "Giovanni Battista Ayroli",
+      "inizio": "6 maggio 1783",
+      "fine": "6 maggio 1785",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 179,
+      "titolo": "Doge",
+      "nome": "Gian Carlo Pallavicino",
+      "inizio": "6 giugno 1785",
+      "fine": "6 giugno 1787",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 180,
+      "titolo": "Doge",
+      "nome": "Raffaele Agostino De Ferrari",
+      "inizio": "4 luglio 1787",
+      "fine": "4 luglio 1789",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 181,
+      "titolo": "Doge",
+      "nome": "Alerame Maria Pallavicini",
+      "inizio": "30 luglio 1789",
+      "fine": "30 luglio 1791",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 182,
+      "titolo": "Doge",
+      "nome": "Michelangelo Cambiaso",
+      "inizio": "3 settembre 1791",
+      "fine": "3 settembre 1793",
+      "note": "nipote di Giovanni Battista Cambiaso"
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 183,
+      "titolo": "Doge",
+      "nome": "Giuseppe Maria Doria",
+      "inizio": "16 settembre 1793",
+      "fine": "16 settembre 1795",
+      "note": ""
+    },
+    {
+      "periodo": "1750-1797",
+      "numero": 184,
+      "titolo": "Doge",
+      "nome": "Giacomo Maria Brignole",
+      "inizio": "17 novembre 1795",
+      "fine": "17 giugno 1797",
+      "note": "nominato per la 2ª volta ultimo doge"
+    },
+    {
+      "periodo": "Repubblica Ligure (1802-1805)",
+      "numero": 1,
+      "titolo": "Doge della Repubblica Ligure",
+      "nome": "Girolamo Luigi Durazzo",
+      "inizio": "10 agosto 1802",
+      "fine": "29 maggio 1805",
+      "note": "governa sotto la provvisoria e neo costituita Repubblica Ligure Dal 1805 soppressa con il passaggio della repubblica nel Dipartimento di Genova del Primo Impero francese"
+    },
+    {
+      "periodo": "Repubblica Genovese (1814-1815)",
+      "numero": 1,
+      "titolo": "Presidente del Governo Provvisorio",
+      "nome": "Girolamo Serra",
+      "inizio": "26 aprile 1814",
+      "fine": "7 gennaio 1815",
+      "note": "governa sotto la provvisoria e neo costituita Repubblica Genovese Dal 1815 soppressa con il passaggio della repubblica nel Regno di Sardegna"
+    }
+  ],
+  "meta": {
+    "title": "Dogi e governanti della Repubblica di Genova - Free Download",
+    "description": "Elenco cronologico dei dogi, governatori e capitani della Repubblica di Genova dal 1339 al 1815, con date di elezione e fine del mandato. Contains 248 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dogi e governanti della Repubblica di Genova | ListBase",
+    "seo_description": "Download Dogi e governanti della Repubblica di Genova — 248 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 248 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Genova"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-10T02:13:13.200Z",
-  "total_datasets": 530,
-  "total_records": 142443,
+  "generated": "2026-11-10T02:13:24.447Z",
+  "total_datasets": 531,
+  "total_records": 142691,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -1721,6 +1721,34 @@
         "xlsx": {
           "name": "it-dogi-di-venezia_IT.xlsx",
           "size": 17323
+        }
+      }
+    },
+    {
+      "id": "it-dogi-repubblica-di-genova",
+      "name": "Dogi e governanti della Repubblica di Genova",
+      "category": "history",
+      "record_count": 248,
+      "columns": [
+        "periodo",
+        "numero",
+        "titolo",
+        "nome",
+        "inizio",
+        "fine",
+        "note"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Dogi_della_Repubblica_di_Genova",
+      "updated": "2026-11",
+      "size": 61860,
+      "files": {
+        "csv": {
+          "name": "it-dogi-repubblica-di-genova_IT.csv",
+          "size": 29227
+        },
+        "xlsx": {
+          "name": "it-dogi-repubblica-di-genova_IT.xlsx",
+          "size": 20406
         }
       }
     },
