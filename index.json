@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-09T02:22:01.364Z",
-  "total_datasets": 529,
-  "total_records": 142412,
+  "generated": "2026-11-10T02:13:13.200Z",
+  "total_datasets": 530,
+  "total_records": 142443,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -960,6 +960,36 @@
         "xlsx": {
           "name": "it-parchi-regionali_IT.xlsx",
           "size": 11125
+        }
+      }
+    },
+    {
+      "id": "it-banconote-lira-italiana",
+      "name": "Banconote della lira italiana (Repubblica)",
+      "category": "finance",
+      "record_count": 31,
+      "columns": [
+        "valore",
+        "dimensioni",
+        "colore",
+        "fronte",
+        "retro",
+        "filigrana",
+        "prima_stampa",
+        "ultima_stampa",
+        "ritiro"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Banconote_della_lira_italiana",
+      "updated": "2026-11",
+      "size": 13433,
+      "files": {
+        "csv": {
+          "name": "it-banconote-lira-italiana_IT.csv",
+          "size": 5706
+        },
+        "xlsx": {
+          "name": "it-banconote-lira-italiana_IT.xlsx",
+          "size": 9939
         }
       }
     },

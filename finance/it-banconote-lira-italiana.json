@@ -1,0 +1,412 @@
+{
+  "id": "it-banconote-lira-italiana",
+  "name": "Banconote della lira italiana (Repubblica)",
+  "title": "Banconote della lira italiana (Repubblica)",
+  "description": "Banconote in lire emesse dalla Banca d'Italia nel periodo repubblicano: valore, dimensioni, colore, soggetti raffigurati e date di stampa e ritiro.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Banconote_della_lira_italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Banconote_della_lira_italiana",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "string"
+    },
+    {
+      "key": "dimensioni",
+      "label": "Dimensioni",
+      "type": "string"
+    },
+    {
+      "key": "colore",
+      "label": "Colore",
+      "type": "string"
+    },
+    {
+      "key": "fronte",
+      "label": "Fronte",
+      "type": "string"
+    },
+    {
+      "key": "retro",
+      "label": "Retro",
+      "type": "string"
+    },
+    {
+      "key": "filigrana",
+      "label": "Filigrana",
+      "type": "string"
+    },
+    {
+      "key": "prima_stampa",
+      "label": "Prima Stampa",
+      "type": "string"
+    },
+    {
+      "key": "ultima_stampa",
+      "label": "Ultima Stampa",
+      "type": "string"
+    },
+    {
+      "key": "ritiro",
+      "label": "Ritiro",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "valore": "50 L.",
+      "dimensioni": "105 × 65 mm",
+      "colore": "Verde",
+      "fronte": "Italia con elmo e armatura",
+      "retro": "Valore",
+      "filigrana": "Cifra 50",
+      "prima_stampa": "31 dicembre 1951",
+      "ultima_stampa": "31 dicembre 1951",
+      "ritiro": "ottobre 1957"
+    },
+    {
+      "valore": "100 L.",
+      "dimensioni": "114 × 70 mm",
+      "colore": "Viola",
+      "fronte": "Italia con elmo e armatura",
+      "retro": "Valore",
+      "filigrana": "Cifra 100",
+      "prima_stampa": "31 dicembre 1951",
+      "ultima_stampa": "31 dicembre 1951",
+      "ritiro": "ottobre 1957"
+    },
+    {
+      "valore": "500 L.",
+      "dimensioni": "212 × 132 mm",
+      "colore": "Viola",
+      "fronte": "Allegoria legge e giustizia e stemma Sabaudo",
+      "retro": "Allegoria Enologia e Italia turrita",
+      "filigrana": "Testa di Roma elmata e la scritta l. 500",
+      "prima_stampa": "22 luglio 1946",
+      "ultima_stampa": "14 novembre 1950",
+      "ritiro": "30 giugno 1953"
+    },
+    {
+      "valore": "500 L.",
+      "dimensioni": "144 × 70 mm",
+      "colore": "Rosa",
+      "fronte": "Cerere ornata di spighe",
+      "retro": "Valore e monogramma b.i.",
+      "filigrana": "Testa dell'Italia",
+      "prima_stampa": "20 marzo 1947",
+      "ultima_stampa": "23 gennaio 1962",
+      "ritiro": "30 giugno 1969"
+    },
+    {
+      "valore": "500 L.",
+      "dimensioni": "110 × 55 mm",
+      "colore": "Verde / giallo",
+      "fronte": "Aretusa con i delfini e l'aquila con i serpenti",
+      "retro": "Scritta 500 lire",
+      "filigrana": "Cornucopie",
+      "prima_stampa": "20 giugno 1966",
+      "ultima_stampa": "23 aprile 1975",
+      "ritiro": "30 giugno 1980"
+    },
+    {
+      "valore": "500 L.",
+      "dimensioni": "114 × 57 mm",
+      "colore": "Azzurro",
+      "fronte": "Testa alata di Mercurio",
+      "retro": "Scritta cinquecento",
+      "filigrana": "Emblema della Repubblica Italiana",
+      "prima_stampa": "14 febbraio 1974",
+      "ultima_stampa": "2 aprile 1979",
+      "ritiro": "28 febbraio 1986"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "244 × 147 mm",
+      "colore": "Viola",
+      "fronte": "Scritta Mille lire e Stemma Sabaudo",
+      "retro": "Testa Italia turrita e allegoria credito e commercio",
+      "filigrana": "Testa dell'Italia turrita, ai bordi le scritte: lire 1000 e banca d'italia",
+      "prima_stampa": "12 luglio 1946",
+      "ultima_stampa": "14 novembre 1950",
+      "ritiro": "30 giugno 1953"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "159 × 75 mm",
+      "colore": "Verde",
+      "fronte": "Testa dell'Italia ripresa da una delle tre grazie della Primavera di Botticelli.",
+      "retro": "Valore e monogramma B.I.",
+      "filigrana": "Testa dell'Italia",
+      "prima_stampa": "20 marzo 1947",
+      "ultima_stampa": "9 gennaio 1963",
+      "ritiro": "30 giugno 1969"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "122 × 62 mm",
+      "colore": "Rosa",
+      "fronte": "Giuseppe Verdi",
+      "retro": "Valore e scritta lire mille",
+      "filigrana": "Teste di Apollo",
+      "prima_stampa": "14 luglio 1962",
+      "ultima_stampa": "23 marzo 1969",
+      "ritiro": "1º luglio 1973"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "125 × 62 mm",
+      "colore": "Viola",
+      "fronte": "Giuseppe Verdi e l'arpa estense",
+      "retro": "Teatro alla Scala",
+      "filigrana": "Teste di Apollo",
+      "prima_stampa": "25 marzo 1969",
+      "ultima_stampa": "30 aprile 1983",
+      "ritiro": "1º luglio 1986"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "113 × 60 mm",
+      "colore": "Rosa",
+      "fronte": "Marco Polo",
+      "retro": "Palazzo Ducale",
+      "filigrana": "Marco Polo",
+      "prima_stampa": "13 marzo 1982",
+      "ultima_stampa": "9 maggio 1991",
+      "ritiro": "30 giugno 1995"
+    },
+    {
+      "valore": "1 000 L.",
+      "dimensioni": "112 × 62 mm",
+      "colore": "Viola",
+      "fronte": "Maria Montessori",
+      "retro": "Il dipinto Bambini allo studio di Armando Spadini",
+      "filigrana": "Maria Montessori",
+      "prima_stampa": "24 ottobre 1990",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "2 000 L.",
+      "dimensioni": "135 × 65 mm",
+      "colore": "Giallo",
+      "fronte": "Galileo Galilei, il Duomo e la Torre di Pisa",
+      "retro": "Segni zodiacali e la Cupola dell' Osservatorio di Arcetri",
+      "filigrana": "Evangelista Torricelli",
+      "prima_stampa": "8 ottobre 1973",
+      "ultima_stampa": "8 febbraio 1993",
+      "ritiro": "15 novembre 1993"
+    },
+    {
+      "valore": "2 000 L.",
+      "dimensioni": "119 × 61 mm",
+      "colore": "Giallo",
+      "fronte": "Guglielmo Marconi",
+      "retro": "La nave Elettra, antenne e apparecchio radio",
+      "filigrana": "Guglielmo Marconi",
+      "prima_stampa": "24 ottobre 1990",
+      "ultima_stampa": "25 maggio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "5 000 L.",
+      "dimensioni": "233 × 122 mm",
+      "colore": "Verde",
+      "fronte": "Allegoria delle Repubbliche di Genova e Venezia",
+      "retro": "Testa di Flora",
+      "filigrana": "Dante e Virgilio laureati",
+      "prima_stampa": "17 gennaio 1947",
+      "ultima_stampa": "7 gennaio 1963",
+      "ritiro": "30 giugno 1969"
+    },
+    {
+      "valore": "5 000 L.",
+      "dimensioni": "143 × 70 mm",
+      "colore": "Verde / blu",
+      "fronte": "Cristoforo Colombo",
+      "retro": "Caravella",
+      "filigrana": "Busto di Galileo",
+      "prima_stampa": "3 settembre 1964",
+      "ultima_stampa": "20 gennaio 1970",
+      "ritiro": "31 luglio 1977"
+    },
+    {
+      "valore": "5 000 L.",
+      "dimensioni": "141 × 70 mm",
+      "colore": "Verde / viola",
+      "fronte": "Cristoforo Colombo",
+      "retro": "Tre caravelle",
+      "filigrana": "Busto di Galileo",
+      "prima_stampa": "20 maggio 1971",
+      "ultima_stampa": "10 novembre 1977",
+      "ritiro": "1º dicembre 1982"
+    },
+    {
+      "valore": "5 000 L.",
+      "dimensioni": "127 × 61 mm",
+      "colore": "Marrone",
+      "fronte": "Ritratto d'uomo di Antonello da Messina",
+      "retro": "Fontana delle tartarughe e il rosone della Concattedrale di Troia",
+      "filigrana": "Ritratto d'uomo di Antonello da Messina",
+      "prima_stampa": "9 marzo 1979",
+      "ultima_stampa": "19 ottobre 1983",
+      "ritiro": "1º marzo 1989"
+    },
+    {
+      "valore": "5 000 L.",
+      "dimensioni": "126 × 70 mm",
+      "colore": "Verde",
+      "fronte": "Vincenzo Bellini e l'interno del Teatro Massimo Vincenzo Bellini",
+      "retro": "Colonna e la Norma, statua del monumento a Bellini",
+      "filigrana": "Vincenzo Bellini",
+      "prima_stampa": "31 gennaio 1985",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "10 000 L.",
+      "dimensioni": "243 × 126 mm",
+      "colore": "Rosso",
+      "fronte": "Allegoria delle Repubbliche di Genova e Venezia",
+      "retro": "Medaglione con la testa di Dante Alighieri.",
+      "filigrana": "Busti di Michelangelo e Galileo Galilei",
+      "prima_stampa": "8 maggio 1948",
+      "ultima_stampa": "24 marzo 1962",
+      "ritiro": "30 giugno 1969"
+    },
+    {
+      "valore": "10 000 L.",
+      "dimensioni": "156 × 78 mm",
+      "colore": "Rosa",
+      "fronte": "Michelangelo Buonarroti",
+      "retro": "Piazza del Campidoglio di Roma",
+      "filigrana": "David di Michelangelo",
+      "prima_stampa": "3 luglio 1962",
+      "ultima_stampa": "27 novembre 1973",
+      "ritiro": "31 luglio 1983"
+    },
+    {
+      "valore": "10 000 L.",
+      "dimensioni": "133 × 70 mm",
+      "colore": "Verde",
+      "fronte": "Ritratto d'uomo di Andrea del Castagno",
+      "retro": "Chiesa del Gesù Nuovo di Napoli",
+      "filigrana": "Personaggio sconosciuto",
+      "prima_stampa": "30 ottobre 1976",
+      "ultima_stampa": "8 marzo 1984",
+      "ritiro": "21 marzo 1988"
+    },
+    {
+      "valore": "10 000 L.",
+      "dimensioni": "133 × 70 mm",
+      "colore": "Blu",
+      "fronte": "Alessandro Volta",
+      "retro": "Tempio Voltiano di Como",
+      "filigrana": "Alessandro Volta",
+      "prima_stampa": "3 settembre 1984",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "20 000 L.",
+      "dimensioni": "161 × 78 mm",
+      "colore": "Rosso / verde",
+      "fronte": "Tiziano Vecellio",
+      "retro": "Amor Sacro e Amor Profano di Tiziano",
+      "filigrana": "Tiziano Vecellio",
+      "prima_stampa": "21 febbraio 1975",
+      "ultima_stampa": "27 maggio 1985",
+      "ritiro": "1º luglio 1985"
+    },
+    {
+      "valore": "50 000 L.",
+      "dimensioni": "165 × 82 mm",
+      "colore": "Ocra",
+      "fronte": "Leonardo da Vinci",
+      "retro": "Veduta di Vinci",
+      "filigrana": "Testa di sant'Anna dal Cartone di sant'Anna di Leonardo Da Vinci",
+      "prima_stampa": "3 luglio 1967",
+      "ultima_stampa": "7 novembre 1975",
+      "ritiro": "31 marzo 1979"
+    },
+    {
+      "valore": "50 000 L.",
+      "dimensioni": "150 × 70 mm",
+      "colore": "Viola",
+      "fronte": "Volto di donna",
+      "retro": "Alcune architetture tra cui il Pantheon e la Cappella dei Pazzi",
+      "filigrana": "Testa femminile",
+      "prima_stampa": "20 giugno 1977",
+      "ultima_stampa": "3 aprile 1985",
+      "ritiro": "1º dicembre 1986"
+    },
+    {
+      "valore": "50 000 L.",
+      "dimensioni": "150 × 70 mm",
+      "colore": "Viola",
+      "fronte": "Gianlorenzo Bernini e la Fontana del Tritone",
+      "retro": "Monumento equestre a Costantino e la scala regia",
+      "filigrana": "Gianlorenzo Bernini",
+      "prima_stampa": "15 marzo 1984",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "100 000 L.",
+      "dimensioni": "175 × 86 mm",
+      "colore": "Ocra",
+      "fronte": "Alessandro Manzoni",
+      "retro": "Veduta di Lecco",
+      "filigrana": "Musa",
+      "prima_stampa": "3 luglio 1967",
+      "ultima_stampa": "15 gennaio 1979",
+      "ritiro": "1º dicembre 1982"
+    },
+    {
+      "valore": "100 000 L.",
+      "dimensioni": "157 × 70 mm",
+      "colore": "Viola",
+      "fronte": "Testa di una delle tre grazie della Primavera di Botticelli.",
+      "retro": "Architetture",
+      "filigrana": "Testa femminile",
+      "prima_stampa": "20 giugno 1978",
+      "ultima_stampa": "29 ottobre 1984",
+      "ritiro": "21 marzo 1988"
+    },
+    {
+      "valore": "100 000 L.",
+      "dimensioni": "156 × 70 mm",
+      "colore": "Verde",
+      "fronte": "Michelangelo Merisi da Caravaggio e il dipinto Buona ventura",
+      "retro": "Il dipinto Canestra di frutta di Caravaggio",
+      "filigrana": "Caravaggio",
+      "prima_stampa": "25 ottobre 1983",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    },
+    {
+      "valore": "500 000 L.",
+      "dimensioni": "163 × 78 mm",
+      "colore": "Azzurro",
+      "fronte": "Raffaello Sanzio e il trionfo di Galatea",
+      "retro": "Scuola di Atene di Raffaello",
+      "filigrana": "Raffaello",
+      "prima_stampa": "13 maggio 1997",
+      "ultima_stampa": "25 luglio 2001",
+      "ritiro": "28 febbraio 2002"
+    }
+  ],
+  "meta": {
+    "title": "Banconote della lira italiana (Repubblica) - Free Download",
+    "description": "Banconote in lire emesse dalla Banca d'Italia nel periodo repubblicano: valore, dimensioni, colore, soggetti raffigurati e date di stampa e ritiro. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Banconote della lira italiana (Repubblica) | ListBase",
+    "seo_description": "Download Banconote della lira italiana (Repubblica) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Banconote_della_lira_italiana"
+    ]
+  }
+}
