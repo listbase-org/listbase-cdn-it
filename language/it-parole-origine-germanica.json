@@ -1,0 +1,1330 @@
+{
+  "id": "it-parole-origine-germanica",
+  "name": "Parole italiane di origine germanica",
+  "title": "Parole italiane di origine germanica",
+  "description": "Elenco di parole italiane derivate da lingue germaniche (longobardo, francone, gotico e altre), con la corrispondente parola tedesca e l'etimo.",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Parole_italiane_con_origine_germanica",
+  "source_url": "https://it.wikipedia.org/wiki/Parole_italiane_con_origine_germanica",
+  "updated": "2026-11",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "parola_italiana",
+      "label": "Parola Italiana",
+      "type": "string"
+    },
+    {
+      "key": "parola_tedesca",
+      "label": "Parola Tedesca",
+      "type": "string"
+    },
+    {
+      "key": "origine",
+      "label": "Origine",
+      "type": "string"
+    },
+    {
+      "key": "gruppo",
+      "label": "Gruppo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "parola_italiana": "alabarda",
+      "parola_tedesca": "Hellebarde",
+      "origine": "mhd. helmbarte",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "alpenstock",
+      "parola_tedesca": "Alpenstock",
+      "origine": "Alpenstock",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "alt",
+      "parola_tedesca": "halt",
+      "origine": "mhd. halt",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "anseatico",
+      "parola_tedesca": "hanseatisch",
+      "origine": "Hanse",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "archibugio",
+      "parola_tedesca": "Arkebuse",
+      "origine": "Hakenbüchse",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "azzeccare",
+      "parola_tedesca": "versetzen, verpassen",
+      "origine": "mhd. zecken",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bandone",
+      "parola_tedesca": "Eisenblech",
+      "origine": "mhd. band",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bezzo",
+      "parola_tedesca": "Batzen",
+      "origine": "Batz",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "binda",
+      "parola_tedesca": "mechanische Winde",
+      "origine": "Winde",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "birra",
+      "parola_tedesca": "Bier",
+      "origine": "Bier",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bismuto",
+      "parola_tedesca": "Wismut",
+      "origine": "Wismut",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "blindato",
+      "parola_tedesca": "gepanzert",
+      "origine": "Blinde (frz. blinde)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "brindisi",
+      "parola_tedesca": "Trinkspruch",
+      "origine": "bring dir's",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "chellerina",
+      "parola_tedesca": "Kellnerin",
+      "origine": "Kellnerin",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "cioncare",
+      "parola_tedesca": "hinuntergießen",
+      "origine": "mhd. schenken?",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "cioppa",
+      "parola_tedesca": "Jacke",
+      "origine": "Schopa (parola in tedesco alemanno)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "cobalto",
+      "parola_tedesca": "Kobalt",
+      "origine": "Kobalt",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "coboldo",
+      "parola_tedesca": "Kobold",
+      "origine": "Kobold",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "cren",
+      "parola_tedesca": "Kren, Meerrettich",
+      "origine": "Kren",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "crusca",
+      "parola_tedesca": "Kleie",
+      "origine": "ahd. crusc",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "edelweiss",
+      "parola_tedesca": "Edelweiß (Pflanze)",
+      "origine": "Edelweiß",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ermellino",
+      "parola_tedesca": "Hermelin",
+      "origine": "ahd. harmilīn",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "feld(i)spato",
+      "parola_tedesca": "Feldspat",
+      "origine": "Feldspat",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "fignolo",
+      "parola_tedesca": "kleiner Furunkel",
+      "origine": "Finne",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "francobollo",
+      "parola_tedesca": "Briefmarke",
+      "origine": "Franko",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gazza",
+      "parola_tedesca": "Elster",
+      "origine": "ahd. ag-gaza (frz. agace)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ghibellino",
+      "parola_tedesca": "Ghibellinen",
+      "origine": "Stadt Waiblingen",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ghiribizzo",
+      "parola_tedesca": "Schrulle",
+      "origine": "ahd. krebiz (gambero)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gneiss",
+      "parola_tedesca": "Gneis",
+      "origine": "Gneis",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gonfalone",
+      "parola_tedesca": "Banner, Fahne",
+      "origine": "ahd. gundfano",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gretto",
+      "parola_tedesca": "knauserig",
+      "origine": "mhd. grit (avaro)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "grinza",
+      "parola_tedesca": "Runzel",
+      "origine": "ahd. grimmisōn (cupo)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gromma",
+      "parola_tedesca": "Weinstein",
+      "origine": "Grummele (parola svizzera)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gualcare",
+      "parola_tedesca": "walken",
+      "origine": "ahd. walkan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "guarnire",
+      "parola_tedesca": "garnieren, verzieren",
+      "origine": "ahd. warnon",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "guisa",
+      "parola_tedesca": "Art, Weise",
+      "origine": "ahd. wisa",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "hinterland",
+      "parola_tedesca": "Hinterland",
+      "origine": "Hinterland",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "kirsch",
+      "parola_tedesca": "Kirschwasser",
+      "origine": "Kirschwasser",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "kümmel",
+      "parola_tedesca": "Kümmelbranntwein",
+      "origine": "Kümmel",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "laccamuffa",
+      "parola_tedesca": "Lackmus",
+      "origine": "Lackmus",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "langravio",
+      "parola_tedesca": "Landgraf",
+      "origine": "mhd. landgraf",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "lista",
+      "parola_tedesca": "Liste",
+      "origine": "ahd. lista (striscia)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "maniscalco",
+      "parola_tedesca": "Hufschmied",
+      "origine": "ahd. marah (cavallo) + scalc (servo)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "marca",
+      "parola_tedesca": "Marke",
+      "origine": "ahd. mark",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "maresciallo",
+      "parola_tedesca": "Marschall, Polizeimeister",
+      "origine": "ahd. marah + scalc",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "margravio",
+      "parola_tedesca": "Markgraf",
+      "origine": "Markgraf",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "milza",
+      "parola_tedesca": "Milz",
+      "origine": "ahd. milzi",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "minnesänger",
+      "parola_tedesca": "Minnesänger",
+      "origine": "Minnesänger",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "obice",
+      "parola_tedesca": "Haubitze, Granate",
+      "origine": "Haubitze",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ordalia",
+      "parola_tedesca": "Gottesurteil",
+      "origine": "Urteil",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "quarzo; quarzoso",
+      "parola_tedesca": "Quarz; quarzhaltig",
+      "origine": "Quarz",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "raffica",
+      "parola_tedesca": "Windstoß",
+      "origine": "ahd. raffōn (prendere)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "randa",
+      "parola_tedesca": "Schablonierbrett",
+      "origine": "ahd. rand (filo della lama)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "raspare",
+      "parola_tedesca": "raspeln",
+      "origine": "ahd. raspon",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ratto",
+      "parola_tedesca": "Ratte",
+      "origine": "ahd. rato",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ringhiera",
+      "parola_tedesca": "Geländer",
+      "origine": "ahd. hring (anello)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "rocca",
+      "parola_tedesca": "Rocken",
+      "origine": "ahd. rok",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "rozza",
+      "parola_tedesca": "Gaul",
+      "origine": "ahd. hros (cavallo)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "rubare",
+      "parola_tedesca": "stehlen, rauben",
+      "origine": "ahd. roubon",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "saccomanno",
+      "parola_tedesca": "Gepäckträger",
+      "origine": "mhd. sackman",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "saga",
+      "parola_tedesca": "Sage",
+      "origine": "Sage",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "sala",
+      "parola_tedesca": "Saal, Salon",
+      "origine": "ahd. sal",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "sberleffo",
+      "parola_tedesca": "spotten",
+      "origine": "ahd. leffur (labbro)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "scellino",
+      "parola_tedesca": "Schilling",
+      "origine": "Schilling",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "schermo",
+      "parola_tedesca": "Abschirmung, Bildschirm",
+      "origine": "ahd. skerm, skirm",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "schiatta",
+      "parola_tedesca": "Geschlecht, Sippe",
+      "origine": "ahd. slaht",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "semel",
+      "parola_tedesca": "Semmel",
+      "origine": "Semmel",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "senno",
+      "parola_tedesca": "Verstand",
+      "origine": "ahd. sin",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "sghembo",
+      "parola_tedesca": "schräg",
+      "origine": "ahd. slimb",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "sgherro",
+      "parola_tedesca": "Scherge",
+      "origine": "ahd. skerre",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "slitta",
+      "parola_tedesca": "Schlitten",
+      "origine": "Schlitten",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "snello",
+      "parola_tedesca": "behende",
+      "origine": "ahd. snel",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "speck",
+      "parola_tedesca": "Speck",
+      "origine": "Speck",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "squilla; squillare",
+      "parola_tedesca": "Glöckchen; klingeln",
+      "origine": "ahd. scella",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "spingare, springare",
+      "parola_tedesca": "springen",
+      "origine": "ahd. springan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "stambecco",
+      "parola_tedesca": "Steinbock",
+      "origine": "Steinbock",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "stanga",
+      "parola_tedesca": "Schranke, Stange, Deichsel",
+      "origine": "ahd. stanga",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "stoccafisso",
+      "parola_tedesca": "Stockfisch",
+      "origine": "Stockfisch",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "stormo",
+      "parola_tedesca": "Schwarm",
+      "origine": "ahd. sturm (Sturm)",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "stozzo",
+      "parola_tedesca": "Stoßvorrichtung",
+      "origine": "mhd. stotze",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "strudel",
+      "parola_tedesca": "Strudel",
+      "origine": "Strudel",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "svansica",
+      "parola_tedesca": "zwanzig kreuzer",
+      "origine": "Zwanziger",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tallero",
+      "parola_tedesca": "Taler",
+      "origine": "Taler",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tanfo",
+      "parola_tedesca": "Modergeruch",
+      "origine": "Dampf",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "trabante",
+      "parola_tedesca": "Diener",
+      "origine": "Trabant",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "trampolo",
+      "parola_tedesca": "Stelze",
+      "origine": "trampeln",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "trampolino",
+      "parola_tedesca": "Sprungbrett",
+      "origine": "trampeln",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "trincare",
+      "parola_tedesca": "gemütlich und reichlich trinken",
+      "origine": "trinken",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "vasistas",
+      "parola_tedesca": "Klappfenster",
+      "origine": "was ist das?",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "vermut",
+      "parola_tedesca": "Wermut",
+      "origine": "Wermut",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "lanzichenecco",
+      "parola_tedesca": "Landsknecht",
+      "origine": "Landsknecht",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "zinco",
+      "parola_tedesca": "Zink",
+      "origine": "Zink",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "zizza",
+      "parola_tedesca": "Zitze",
+      "origine": "ahd. zitze",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "zolla",
+      "parola_tedesca": "Erdscholle",
+      "origine": "ahd. skolla",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "agguato",
+      "parola_tedesca": "Hinterhalt",
+      "origine": "wahta",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "airone",
+      "parola_tedesca": "Reiher",
+      "origine": "haigro",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "araldo",
+      "parola_tedesca": "Herold",
+      "origine": "heriald",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "ardire",
+      "parola_tedesca": "wagen",
+      "origine": "hardjan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "attaccare",
+      "parola_tedesca": "angreifen, attackieren",
+      "origine": "stakka",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "benda",
+      "parola_tedesca": "Augenbinde",
+      "origine": "binda",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bandiera",
+      "parola_tedesca": "Fahne",
+      "origine": "binda",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bersaglio",
+      "parola_tedesca": "Ziel(scheibe)",
+      "origine": "birson",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "bidello",
+      "parola_tedesca": "Schuldiener, Pedell",
+      "origine": "bidil",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "botta",
+      "parola_tedesca": "Schlag",
+      "origine": "botan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "buttare",
+      "parola_tedesca": "werfen",
+      "origine": "botan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "crampo",
+      "parola_tedesca": "Krampf",
+      "origine": "cramp",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "digrignare",
+      "parola_tedesca": "Zähne fletschen",
+      "origine": "grinan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "foraggio",
+      "parola_tedesca": "Tierfutter",
+      "origine": "fodar",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "garanzia",
+      "parola_tedesca": "Garantie",
+      "origine": "werent",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "giardino",
+      "parola_tedesca": "Garten",
+      "origine": "gard",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "glissando",
+      "parola_tedesca": "Glissando",
+      "origine": "glidan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "greppia",
+      "parola_tedesca": "Futterraufe",
+      "origine": "kripja",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "gres",
+      "parola_tedesca": "Steingut",
+      "origine": "griot",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "guanto",
+      "parola_tedesca": "Handschuh",
+      "origine": "want",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "guerra",
+      "parola_tedesca": "Krieg",
+      "origine": "werra",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "guitto",
+      "parola_tedesca": "armselig",
+      "origine": "wiht",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "loggia",
+      "parola_tedesca": "Loggia, Loge, Bogengang",
+      "origine": "laubja",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "marciare",
+      "parola_tedesca": "marschieren",
+      "origine": "markon",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "marsc'",
+      "parola_tedesca": "Marsch! (Befehl)",
+      "origine": "markon",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "rango",
+      "parola_tedesca": "hring",
+      "origine": "rang",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "rocchetta",
+      "parola_tedesca": "Rock des Prälaten",
+      "origine": "hroc",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "smalto",
+      "parola_tedesca": "Email, Lack",
+      "origine": "smalt",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "spanna",
+      "parola_tedesca": "ein Längenmaß",
+      "origine": "spanna",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "sperone",
+      "parola_tedesca": "Sporn",
+      "origine": "sporo",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "spingarda",
+      "parola_tedesca": "Katapult",
+      "origine": "springan",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "spione",
+      "parola_tedesca": "Spion",
+      "origine": "speho",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "staggio",
+      "parola_tedesca": "großer Balken",
+      "origine": "stagia",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tamponare",
+      "parola_tedesca": "zustopfen",
+      "origine": "tappo",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tappo",
+      "parola_tedesca": "Pfropfen, Stopfen, Zapfen",
+      "origine": "tappo",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tasca",
+      "parola_tedesca": "Hosentasche, Tasche",
+      "origine": "taska",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "teccola",
+      "parola_tedesca": "Fleckchen",
+      "origine": "tecca",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "tovaglia",
+      "parola_tedesca": "Tischtuch",
+      "origine": "thwahlia",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "trappola",
+      "parola_tedesca": "Falle",
+      "origine": "trappa",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "usbergo",
+      "parola_tedesca": "Halsberge, Rüstung",
+      "origine": "halsberg",
+      "gruppo": "Antico-, medio-, nuovo tedesco"
+    },
+    {
+      "parola_italiana": "accetta",
+      "parola_tedesca": "Axt",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "arengo",
+      "parola_tedesca": "Kampfplatz",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "aringa",
+      "parola_tedesca": "Hering",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "arruffare",
+      "parola_tedesca": "verwirren",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "arpa",
+      "parola_tedesca": "Harfe",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "arrostire",
+      "parola_tedesca": "braten",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "balcone",
+      "parola_tedesca": "Balkon",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "balla",
+      "parola_tedesca": "Ballen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "banco",
+      "parola_tedesca": "Sitzbank",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bara",
+      "parola_tedesca": "Tragbahre",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bianco",
+      "parola_tedesca": "weiß",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "biavo",
+      "parola_tedesca": "blau",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bisonte",
+      "parola_tedesca": "Wisent",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "blocco",
+      "parola_tedesca": "Steinblock, Blockade",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "blu",
+      "parola_tedesca": "blau",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bordo",
+      "parola_tedesca": "Bord",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bosco",
+      "parola_tedesca": "Wald",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "breccia",
+      "parola_tedesca": "Bresche",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bruno",
+      "parola_tedesca": "braun",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "bugia",
+      "parola_tedesca": "Lüge",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "cotta",
+      "parola_tedesca": "Kutte, Panzerhemd",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "equipaggio (frz. équipage)",
+      "parola_tedesca": "Mannschaft, Besatzung",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "faida",
+      "parola_tedesca": "Fehde",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "fiasco",
+      "parola_tedesca": "Strohflasche",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "forra",
+      "parola_tedesca": "Schlucht",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "freccia (frz. flèche)",
+      "parola_tedesca": "Pfeil",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "fresco",
+      "parola_tedesca": "frisch",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "gherone",
+      "parola_tedesca": "Zwickel",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "grattare",
+      "parola_tedesca": "kratzen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "groppa",
+      "parola_tedesca": "Pferderücken",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "guaio",
+      "parola_tedesca": "Missgeschick, Unfall",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "guancia",
+      "parola_tedesca": "Backe, Wange",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "guercio",
+      "parola_tedesca": "schielend",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "installare",
+      "parola_tedesca": "einbauen, installieren",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "issare",
+      "parola_tedesca": "hissen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "leccare",
+      "parola_tedesca": "lecken",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "martora",
+      "parola_tedesca": "Marder",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "pizza",
+      "parola_tedesca": "Pizza",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "ricco",
+      "parola_tedesca": "reich, wohlhabend",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "roba",
+      "parola_tedesca": "Zeug",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "sapone",
+      "parola_tedesca": "Seife",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "sbilenco",
+      "parola_tedesca": "schief gewachsen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "sbreccare",
+      "parola_tedesca": "absplittern",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "scherzare",
+      "parola_tedesca": "scherzen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "scaruffare",
+      "parola_tedesca": "zerzausen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "schietto",
+      "parola_tedesca": "rein, echt",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "schifo",
+      "parola_tedesca": "Schiff",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "sguardo",
+      "parola_tedesca": "Blick",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "spola",
+      "parola_tedesca": "Spule",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "stalla",
+      "parola_tedesca": "Stall",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "staffa",
+      "parola_tedesca": "Steigbügel",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "stallo",
+      "parola_tedesca": "Chorstuhl",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "stallone",
+      "parola_tedesca": "Hengst",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "sterzo",
+      "parola_tedesca": "Lenkrad",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "stinco",
+      "parola_tedesca": "Schienbein",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "stormire",
+      "parola_tedesca": "rauschen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "strale",
+      "parola_tedesca": "Pfeil (poetisch)",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "tedesco",
+      "parola_tedesca": "deutsch",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "tocca",
+      "parola_tedesca": "Besatz aus Hanfleinen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "torba",
+      "parola_tedesca": "Torf",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "trescare",
+      "parola_tedesca": "tanzen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "trogolo",
+      "parola_tedesca": "Trog",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "trottare",
+      "parola_tedesca": "traben",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "tuffare",
+      "parola_tedesca": "eintauchen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "uosa",
+      "parola_tedesca": "Gamasche",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "uro",
+      "parola_tedesca": "Auerochse",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zaffo",
+      "parola_tedesca": "Spund, Pfropfen",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zaffare",
+      "parola_tedesca": "zuspunden",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zaino",
+      "parola_tedesca": "Zainja",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zanna",
+      "parola_tedesca": "Reißzahn, Stoßzahn",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zecca",
+      "parola_tedesca": "Zecke",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zincone",
+      "parola_tedesca": "Aststumpf",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zuppa",
+      "parola_tedesca": "Suppe",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "zuppo",
+      "parola_tedesca": "durchnässt",
+      "origine": "",
+      "gruppo": "Germanico"
+    },
+    {
+      "parola_italiana": "albergo",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    },
+    {
+      "parola_italiana": "nastro",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    },
+    {
+      "parola_italiana": "fiasco",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    },
+    {
+      "parola_italiana": "spola",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    },
+    {
+      "parola_italiana": "arredare",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    },
+    {
+      "parola_italiana": "rocca",
+      "parola_tedesca": "",
+      "origine": "",
+      "gruppo": "Gotico"
+    }
+  ],
+  "meta": {
+    "title": "Parole italiane di origine germanica - Free Download",
+    "description": "Elenco di parole italiane derivate da lingue germaniche (longobardo, francone, gotico e altre), con la corrispondente parola tedesca e l'etimo. Contains 214 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parole italiane di origine germanica | ListBase",
+    "seo_description": "Download Parole italiane di origine germanica — 214 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 214 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Parole_italiane_con_origine_germanica"
+    ]
+  }
+}

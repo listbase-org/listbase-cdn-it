@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-11T02:05:35.909Z",
-  "total_datasets": 538,
-  "total_records": 143410,
+  "generated": "2026-11-11T02:05:46.216Z",
+  "total_datasets": 539,
+  "total_records": 143624,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -2068,6 +2068,31 @@
         "xlsx": {
           "name": "it-lingue-d-italia_IT.xlsx",
           "size": 8748
+        }
+      }
+    },
+    {
+      "id": "it-parole-origine-germanica",
+      "name": "Parole italiane di origine germanica",
+      "category": "language",
+      "record_count": 214,
+      "columns": [
+        "parola_italiana",
+        "parola_tedesca",
+        "origine",
+        "gruppo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Parole_italiane_con_origine_germanica",
+      "updated": "2026-11",
+      "size": 34799,
+      "files": {
+        "csv": {
+          "name": "it-parole-origine-germanica_IT.csv",
+          "size": 12188
+        },
+        "xlsx": {
+          "name": "it-parole-origine-germanica_IT.xlsx",
+          "size": 13961
         }
       }
     },
