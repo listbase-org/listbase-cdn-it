@@ -1,0 +1,191 @@
+{
+  "id": "it-covid-19-casi-decessi-regioni",
+  "name": "COVID-19 in Italia: casi e decessi per regione",
+  "title": "COVID-19 in Italia: casi e decessi per regione",
+  "description": "Casi totali e decessi da COVID-19 per regione e provincia autonoma italiana, con quota percentuale sul totale nazionale.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Statistiche_della_pandemia_di_COVID-19_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Statistiche_della_pandemia_di_COVID-19_in_Italia",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "casi",
+      "label": "Casi",
+      "type": "number"
+    },
+    {
+      "key": "casi_percentuale",
+      "label": "Casi Percentuale",
+      "type": "number"
+    },
+    {
+      "key": "decessi",
+      "label": "Decessi",
+      "type": "number"
+    },
+    {
+      "key": "decessi_percentuale",
+      "label": "Decessi Percentuale",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Lombardia",
+      "casi": 3697105,
+      "casi_percentuale": 16,
+      "decessi": 25317,
+      "decessi_percentuale": 33.61
+    },
+    {
+      "regione": "Veneto",
+      "casi": 2362441,
+      "casi_percentuale": 10.22,
+      "decessi": 6763,
+      "decessi_percentuale": 8.98
+    },
+    {
+      "regione": "Campania",
+      "casi": 2266927,
+      "casi_percentuale": 9.81,
+      "decessi": 2911,
+      "decessi_percentuale": 3.86
+    },
+    {
+      "regione": "Lazio",
+      "casi": 2126739,
+      "casi_percentuale": 9.2,
+      "decessi": 3840,
+      "decessi_percentuale": 5.1
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "casi": 1922905,
+      "casi_percentuale": 8.32,
+      "decessi": 7887,
+      "decessi_percentuale": 10.47
+    },
+    {
+      "regione": "Sicilia",
+      "casi": 1670636,
+      "casi_percentuale": 7.23,
+      "decessi": 2494,
+      "decessi_percentuale": 3.31
+    },
+    {
+      "regione": "Piemonte",
+      "casi": 1548868,
+      "casi_percentuale": 6.7,
+      "decessi": 7979,
+      "decessi_percentuale": 10.59
+    },
+    {
+      "regione": "Puglia",
+      "casi": 1500800,
+      "casi_percentuale": 6.49,
+      "decessi": 2516,
+      "decessi_percentuale": 3.34
+    },
+    {
+      "regione": "Toscana",
+      "casi": 1442452,
+      "casi_percentuale": 6.24,
+      "decessi": 3730,
+      "decessi_percentuale": 4.95
+    },
+    {
+      "regione": "Marche",
+      "casi": 642293,
+      "casi_percentuale": 2.78,
+      "decessi": 1607,
+      "decessi_percentuale": 2.13
+    },
+    {
+      "regione": "Liguria",
+      "casi": 592878,
+      "casi_percentuale": 2.57,
+      "decessi": 2912,
+      "decessi_percentuale": 3.87
+    },
+    {
+      "regione": "Abruzzo",
+      "casi": 576768,
+      "casi_percentuale": 2.5,
+      "decessi": 1231,
+      "decessi_percentuale": 1.63
+    },
+    {
+      "regione": "Calabria",
+      "casi": 571636,
+      "casi_percentuale": 2.47,
+      "decessi": 488,
+      "decessi_percentuale": 0.65
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "casi": 513256,
+      "casi_percentuale": 2.22,
+      "decessi": 1707,
+      "decessi_percentuale": 2.27
+    },
+    {
+      "regione": "Trentino-Alto Adige",
+      "casi": 500366,
+      "casi_percentuale": 2.16,
+      "decessi": 1712,
+      "decessi_percentuale": 2.27
+    },
+    {
+      "regione": "Sardegna",
+      "casi": 459769,
+      "casi_percentuale": 1.99,
+      "decessi": 764,
+      "decessi_percentuale": 1.01
+    },
+    {
+      "regione": "Umbria",
+      "casi": 392220,
+      "casi_percentuale": 1.7,
+      "decessi": 631,
+      "decessi_percentuale": 0.84
+    },
+    {
+      "regione": "Basilicata",
+      "casi": 186996,
+      "casi_percentuale": 0.81,
+      "decessi": 262,
+      "decessi_percentuale": 0.35
+    },
+    {
+      "regione": "Molise",
+      "casi": 92488,
+      "casi_percentuale": 0.4,
+      "decessi": 195,
+      "decessi_percentuale": 0.26
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "casi": 46470,
+      "casi_percentuale": 0.2,
+      "decessi": 386,
+      "decessi_percentuale": 0.51
+    }
+  ],
+  "meta": {
+    "title": "COVID-19 in Italia: casi e decessi per regione - Free Download",
+    "description": "Casi totali e decessi da COVID-19 per regione e provincia autonoma italiana, con quota percentuale sul totale nazionale. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "COVID-19 in Italia: casi e decessi per regione | ListBase",
+    "seo_description": "Download COVID-19 in Italia: casi e decessi per regione — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Statistiche_della_pandemia_di_COVID-19_in_Italia"
+    ]
+  }
+}

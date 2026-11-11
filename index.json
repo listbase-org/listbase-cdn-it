@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-11T02:05:03.533Z",
-  "total_datasets": 536,
-  "total_records": 143321,
+  "generated": "2026-11-11T02:05:15.094Z",
+  "total_datasets": 537,
+  "total_records": 143341,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -1675,6 +1675,32 @@
         "xlsx": {
           "name": "it-aziende-sanitarie-locali_IT.xlsx",
           "size": 15076
+        }
+      }
+    },
+    {
+      "id": "it-covid-19-casi-decessi-regioni",
+      "name": "COVID-19 in Italia: casi e decessi per regione",
+      "category": "health",
+      "record_count": 20,
+      "columns": [
+        "regione",
+        "casi",
+        "casi_percentuale",
+        "decessi",
+        "decessi_percentuale"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Statistiche_della_pandemia_di_COVID-19_in_Italia",
+      "updated": "2026-11",
+      "size": 4903,
+      "files": {
+        "csv": {
+          "name": "it-covid-19-casi-decessi-regioni_IT.csv",
+          "size": 908
+        },
+        "xlsx": {
+          "name": "it-covid-19-casi-decessi-regioni_IT.xlsx",
+          "size": 7571
         }
       }
     },
