@@ -1,0 +1,460 @@
+{
+  "id": "it-ospedali-veneto",
+  "name": "Ospedali del Veneto e loro classificazione",
+  "title": "Ospedali del Veneto e loro classificazione",
+  "description": "Ospedali pubblici e privati accreditati del Veneto con classificazione secondo il DM 70/2015 e le schede ospedaliere regionali.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Servizio_sanitario_del_Veneto",
+  "source_url": "https://it.wikipedia.org/wiki/Servizio_sanitario_del_Veneto",
+  "updated": "2026-11",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "ospedale",
+      "label": "Ospedale",
+      "type": "string"
+    },
+    {
+      "key": "classificazione_dm70_2015",
+      "label": "Classificazione Dm70 2015",
+      "type": "string"
+    },
+    {
+      "key": "classificazione_schede_ospedaliere",
+      "label": "Classificazione Schede Ospedaliere",
+      "type": "string"
+    },
+    {
+      "key": "pubblico_privato",
+      "label": "Pubblico Privato",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ospedale": "Azienda ospedaliera universitaria integrata di Verona",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di II livello",
+      "classificazione_schede_ospedaliere": "Hub nazionale e regionale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Azienda Ospedale-Università Padova",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di II livello",
+      "classificazione_schede_ospedaliere": "Hub nazionale e regionale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Istituto Oncologico Veneto",
+      "classificazione_dm70_2015": "",
+      "classificazione_schede_ospedaliere": "Hub nazionale e regionale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Treviso",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di II livello",
+      "classificazione_schede_ospedaliere": "Hub provinciale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale dell'Angelo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di II livello",
+      "classificazione_schede_ospedaliere": "Hub provinciale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale San Bortolo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di II livello",
+      "classificazione_schede_ospedaliere": "Hub provinciale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Belluno",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Hub provinciale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Rovigo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Hub provinciale",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Feltre",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Conegliano e di Vittorio Veneto",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Montebelluna e di Castelfranco",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Mirano e di Dolo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di San Dona' e di Portogruaro",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Camposampiero",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Cittadella",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Schiavonia",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Bassano",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Santorso",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Arzignano",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Legnago",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di San Bonifacio",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale Civile di Venezia",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Chioggia",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Adria",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Piove di Sacco",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Villafranca",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Clinica Pederzoli",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale Sacro Cuore-Don Calabria di Negrar",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di I livello",
+      "classificazione_schede_ospedaliere": "Spoke",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale di Oderzo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di base",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Noventa Vicentina",
+      "classificazione_dm70_2015": "Presidio Ospedaliero di base",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Agordo",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Pieve di Cadore",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Trecenta",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Asiago",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Valdagno",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Cortina \"Codivilla-Putti\"",
+      "classificazione_dm70_2015": "Presidio Ospedaliero in zone disagiate",
+      "classificazione_schede_ospedaliere": "Base",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Santa Maria Maddalena\"",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Presidio ospedaliero a valenza sul territorio aziendale",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Giovanni XXIII\"",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Presidio ospedaliero a valenza sul territorio aziendale",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Madonna della Salute\"",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Presidio ospedaliero a valenza sul territorio aziendale",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale San Camillo",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale Villa Salus",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Policlinico San Marco",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Anna Rizzola",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Abano Terme",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Villa Maria",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Villa Berica",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Eretenia",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Villa Santa Margherita",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura San Francesco",
+      "classificazione_dm70_2015": "Struttura integrativa della rete",
+      "classificazione_schede_ospedaliere": "Struttura Privata Accreditata integrativa della rete regionale ospedaliera",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Villa Napoleon",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Strutture monospecialistiche di riabilitazione psichiatrica",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Villa Santa Chiara",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Strutture monospecialistiche di riabilitazione psichiatrica",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Parco dei Tigli",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Strutture monospecialistiche di riabilitazione psichiatrica",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale Villa Santa Giuliana",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Strutture monospecialistiche di riabilitazione psichiatrica",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura Trieste",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "IRCCS \"Medea\"-Istituto \"La Nostra Famiglia\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "IRCCS \"San Camillo\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale \"San Raffaele Arcangelo-Fatebenefratelli\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Città di Rovigo\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Centro riabilitativo veronese\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Casa di Cura \"Villa Garda\"",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Privato accreditato"
+    },
+    {
+      "ospedale": "Ospedale di Lamon",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Jesolo",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Motta di Livenza",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Marzana",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Lonigo",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Bovolone",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Bussolengo",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Malcesine",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    },
+    {
+      "ospedale": "Ospedale di Conselve",
+      "classificazione_dm70_2015": "Struttura monospecialistica",
+      "classificazione_schede_ospedaliere": "Struttura di riabilitazione",
+      "pubblico_privato": "Pubblico"
+    }
+  ],
+  "meta": {
+    "title": "Ospedali del Veneto e loro classificazione - Free Download",
+    "description": "Ospedali pubblici e privati accreditati del Veneto con classificazione secondo il DM 70/2015 e le schede ospedaliere regionali. Contains 69 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ospedali del Veneto e loro classificazione | ListBase",
+    "seo_description": "Download Ospedali del Veneto e loro classificazione — 69 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 69 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Servizio_sanitario_del_Veneto"
+    ]
+  }
+}

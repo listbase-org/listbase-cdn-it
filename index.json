@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-11T02:05:15.094Z",
-  "total_datasets": 537,
-  "total_records": 143341,
+  "generated": "2026-11-11T02:05:35.909Z",
+  "total_datasets": 538,
+  "total_records": 143410,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -1776,6 +1776,31 @@
         "xlsx": {
           "name": "it-ministri-della-salute_IT.xlsx",
           "size": 10227
+        }
+      }
+    },
+    {
+      "id": "it-ospedali-veneto",
+      "name": "Ospedali del Veneto e loro classificazione",
+      "category": "health",
+      "record_count": 69,
+      "columns": [
+        "ospedale",
+        "classificazione_dm70_2015",
+        "classificazione_schede_ospedaliere",
+        "pubblico_privato"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Servizio_sanitario_del_Veneto",
+      "updated": "2026-11",
+      "size": 18813,
+      "files": {
+        "csv": {
+          "name": "it-ospedali-veneto_IT.csv",
+          "size": 7583
+        },
+        "xlsx": {
+          "name": "it-ospedali-veneto_IT.xlsx",
+          "size": 8946
         }
       }
     },
