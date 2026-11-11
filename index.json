@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-11T02:04:52.135Z",
-  "total_datasets": 535,
-  "total_records": 143231,
+  "generated": "2026-11-11T02:05:03.533Z",
+  "total_datasets": 536,
+  "total_records": 143321,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -1621,6 +1621,32 @@
         "xlsx": {
           "name": "it-vulcani_IT.xlsx",
           "size": 7819
+        }
+      }
+    },
+    {
+      "id": "it-ats-asst-lombardia",
+      "name": "ATS e ASST della Lombardia",
+      "category": "health",
+      "record_count": 90,
+      "columns": [
+        "codice",
+        "ats",
+        "territorio_ats",
+        "asst",
+        "aree_territoriali"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Sistema_socio-sanitario_della_Lombardia",
+      "updated": "2026-11",
+      "size": 27277,
+      "files": {
+        "csv": {
+          "name": "it-ats-asst-lombardia_IT.csv",
+          "size": 15607
+        },
+        "xlsx": {
+          "name": "it-ats-asst-lombardia_IT.xlsx",
+          "size": 9921
         }
       }
     },

@@ -1,0 +1,681 @@
+{
+  "id": "it-ats-asst-lombardia",
+  "name": "ATS e ASST della Lombardia",
+  "title": "ATS e ASST della Lombardia",
+  "description": "Agenzie di tutela della salute (ATS) e Aziende socio-sanitarie territoriali (ASST) del sistema socio-sanitario lombardo, con territori e aree di competenza.",
+  "category": "health",
+  "source": "https://it.wikipedia.org/wiki/Sistema_socio-sanitario_della_Lombardia",
+  "source_url": "https://it.wikipedia.org/wiki/Sistema_socio-sanitario_della_Lombardia",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "codice",
+      "label": "Codice",
+      "type": "number"
+    },
+    {
+      "key": "ats",
+      "label": "Ats",
+      "type": "string"
+    },
+    {
+      "key": "territorio_ats",
+      "label": "Territorio Ats",
+      "type": "string"
+    },
+    {
+      "key": "asst",
+      "label": "Asst",
+      "type": "string"
+    },
+    {
+      "key": "aree_territoriali",
+      "label": "Aree Territoriali",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Grande Ospedale Metropolitano Niguarda Ospedale Niguarda Ca' Granda",
+      "aree_territoriali": "Milano (Municipio 9)"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Nord Milano Ospedale Città di Sesto San Giovanni",
+      "aree_territoriali": "Sesto San Giovanni"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Nord Milano Ospedale Città di Sesto San Giovanni",
+      "aree_territoriali": "Cinisello Balsamo"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Fatebenefratelli Sacco Ospedale Luigi Sacco",
+      "aree_territoriali": "Milano (Municipio 1-2-3-4-8)"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Gaetano Pini-CTO Istituto ortopedico Gaetano Pini",
+      "aree_territoriali": "Milano"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Santi Paolo e Carlo Ospedale San Paolo",
+      "aree_territoriali": "Milano (Municipio 5-6-7)"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Ovest Milanese Ospedale Civile di Legnano",
+      "aree_territoriali": "Abbiategrasso"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Ovest Milanese Ospedale Civile di Legnano",
+      "aree_territoriali": "Castano Primo"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Ovest Milanese Ospedale Civile di Legnano",
+      "aree_territoriali": "Legnano"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Ovest Milanese Ospedale Civile di Legnano",
+      "aree_territoriali": "Magenta"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Rhodense Ospedale Guido Salvini",
+      "aree_territoriali": "Rho"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Rhodense Ospedale Guido Salvini",
+      "aree_territoriali": "Corsico"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Rhodense Ospedale Guido Salvini",
+      "aree_territoriali": "Garbagnate"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Binasco"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Cernusco sul Naviglio"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Melzo"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Paullo"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Pioltello"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Rozzano"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "San Giuliano Milanese"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "Trezzo"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Melegnano e Martesana Ospedale di Vizzolo Predabissi",
+      "aree_territoriali": "San Donato Milanese"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Lodi Ospedale Maggiore di Lodi",
+      "aree_territoriali": "Alto Lodigiano"
+    },
+    {
+      "codice": "321",
+      "ats": "ATS Milano Città Metropolitana corso Italia, 19 20122 Milano (MI)",
+      "territorio_ats": "Città metropolitana di Milano Provincia di Lodi",
+      "asst": "ASST Lodi Ospedale Maggiore di Lodi",
+      "aree_territoriali": "Basso Lodigiano"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Lariana Ospedale Sant'Anna",
+      "aree_territoriali": "Como"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Lariana Ospedale Sant'Anna",
+      "aree_territoriali": "Brianza"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Lariana Ospedale Sant'Anna",
+      "aree_territoriali": "Sud Ovest"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Arcisate"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Azzate"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Varese"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Laveno"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Luino"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Sesto Calende"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Sette Laghi Ospedale di Circolo e Fondazione Macchi",
+      "aree_territoriali": "Tradate"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Valle Olona Ospedale di Circolo di Busto Arsizio",
+      "aree_territoriali": "Busto Arsizio"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Valle Olona Ospedale di Circolo di Busto Arsizio",
+      "aree_territoriali": "Gallarate"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Valle Olona Ospedale di Circolo di Busto Arsizio",
+      "aree_territoriali": "Castellanza"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Valle Olona Ospedale di Circolo di Busto Arsizio",
+      "aree_territoriali": "Somma Lombardo"
+    },
+    {
+      "codice": "322",
+      "ats": "ATS Insubria via Rossi, 9 21100 Varese (VA)",
+      "territorio_ats": "Provincia di Como (escluso l'Alto Lario) Provincia di Varese",
+      "asst": "ASST Valle Olona Ospedale di Circolo di Busto Arsizio",
+      "aree_territoriali": "Saronno"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Bormio"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Chiavenna"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Alto Lario"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Morbegno"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Sondrio"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valtellina e Alto Lario Ospedale Civile di Sondrio",
+      "aree_territoriali": "Tirano"
+    },
+    {
+      "codice": "323",
+      "ats": "ATS Montagna via Sauro, 36/38 23100 Sondrio (SO)",
+      "territorio_ats": "Provincia di Sondrio Val Camonica Alto Lario",
+      "asst": "ASST Valcamonica via Nissolina, 2 - Breno (BS)",
+      "aree_territoriali": "Val Camonica"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Lecco Ospedale Alessandro Manzoni",
+      "aree_territoriali": "Lecco"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Lecco Ospedale Alessandro Manzoni",
+      "aree_territoriali": "Bellano"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Lecco Ospedale Alessandro Manzoni",
+      "aree_territoriali": "Merate"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Brianza Ospedale di Vimercate",
+      "aree_territoriali": "Monza"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Brianza Ospedale di Vimercate",
+      "aree_territoriali": "Carate Brianza"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Brianza Ospedale di Vimercate",
+      "aree_territoriali": "Desio"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Brianza Ospedale di Vimercate",
+      "aree_territoriali": "Seregno"
+    },
+    {
+      "codice": "324",
+      "ats": "ATS Brianza viale Elvezia, 2 20900 Monza (MB)",
+      "territorio_ats": "Provincia di Lecco Provincia di Monza e della Brianza",
+      "asst": "ASST Brianza Ospedale di Vimercate",
+      "aree_territoriali": "Vimercate"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Bergamo Est Ospedale Bolognini",
+      "aree_territoriali": "Est Provincia"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Bergamo Est Ospedale Bolognini",
+      "aree_territoriali": "Valle Seriana e Valle di Scalve"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Papa Giovanni XXIII Ospedale Papa Giovanni XXIII",
+      "aree_territoriali": "Bergamo"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Papa Giovanni XXIII Ospedale Papa Giovanni XXIII",
+      "aree_territoriali": "Valle Brembana e Valle Imagna"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Bergamo Ovest Ospedale Treviglio-Caravaggio",
+      "aree_territoriali": "Dalmine"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Bergamo Ovest Ospedale Treviglio-Caravaggio",
+      "aree_territoriali": "Isola Bergamasca"
+    },
+    {
+      "codice": "325",
+      "ats": "ATS Bergamo via Galliccioli, 4 24121 Bergamo (BG)",
+      "territorio_ats": "Provincia di Bergamo",
+      "asst": "ASST Bergamo Ovest Ospedale Treviglio-Caravaggio",
+      "aree_territoriali": "Bassa Bergamasca"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Franciacorta Ospedale Mellino Mellini di Chiari",
+      "aree_territoriali": "Sebino"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Franciacorta Ospedale Mellino Mellini di Chiari",
+      "aree_territoriali": "Monte Orfano"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Franciacorta Ospedale Mellino Mellini di Chiari",
+      "aree_territoriali": "Oglio Ovest"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Franciacorta Ospedale Mellino Mellini di Chiari",
+      "aree_territoriali": "Bassa Bresciana occidentale"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Spedali Civili di Brescia Spedali Civili di Brescia",
+      "aree_territoriali": "Brescia"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Spedali Civili di Brescia Spedali Civili di Brescia",
+      "aree_territoriali": "Brescia Ovest"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Spedali Civili di Brescia Spedali Civili di Brescia",
+      "aree_territoriali": "Brescia Est"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Spedali Civili di Brescia Spedali Civili di Brescia",
+      "aree_territoriali": "Valle Trompia"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Garda Ospedale di Desenzano del Garda",
+      "aree_territoriali": "Bassa Bresciana centrale"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Garda Ospedale di Desenzano del Garda",
+      "aree_territoriali": "Bassa Bresciana orientale"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Garda Ospedale di Desenzano del Garda",
+      "aree_territoriali": "Garda / Salò"
+    },
+    {
+      "codice": "326",
+      "ats": "ATS Brescia viale Duca degli Abruzzi, 15 25124 Brescia (BS)",
+      "territorio_ats": "Provincia di Brescia (esclusa Val Camonica)",
+      "asst": "ASST Garda Ospedale di Desenzano del Garda",
+      "aree_territoriali": "Valle Sabbia"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Crema Ospedale Maggiore di Crema",
+      "aree_territoriali": "Crema"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Cremona Ospedale di Cremona",
+      "aree_territoriali": "Cremona"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Cremona Ospedale di Cremona",
+      "aree_territoriali": "Casalmaggiore"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Mantova Ospedale di Mantova",
+      "aree_territoriali": "Mantova"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Mantova Ospedale di Mantova",
+      "aree_territoriali": "Asola"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Mantova Ospedale di Mantova",
+      "aree_territoriali": "Guidizzolo"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Mantova Ospedale di Mantova",
+      "aree_territoriali": "Ostiglia"
+    },
+    {
+      "codice": "327",
+      "ats": "ATS Val Padana via dei Toscani, 1 46100 Mantova (MN)",
+      "territorio_ats": "Provincia di Cremona Provincia di Mantova",
+      "asst": "ASST Mantova Ospedale di Mantova",
+      "aree_territoriali": "Viadana"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Broni - Stradella"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Casteggio"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Certosa"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Corteolona"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Garlasco"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Mortara"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Pavia"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Vigevano"
+    },
+    {
+      "codice": "328",
+      "ats": "ATS Pavia viale Indipendenza, 3 27100 Pavia (PV)",
+      "territorio_ats": "Provincia di Pavia",
+      "asst": "ASST Pavia viale Repubblica, 34 - Pavia (PV)",
+      "aree_territoriali": "Voghera - Varzi"
+    }
+  ],
+  "meta": {
+    "title": "ATS e ASST della Lombardia - Free Download",
+    "description": "Agenzie di tutela della salute (ATS) e Aziende socio-sanitarie territoriali (ASST) del sistema socio-sanitario lombardo, con territori e aree di competenza. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ATS e ASST della Lombardia | ListBase",
+    "seo_description": "Download ATS e ASST della Lombardia — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Sistema_socio-sanitario_della_Lombardia"
+    ]
+  }
+}
