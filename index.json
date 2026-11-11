@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-10T02:13:52.486Z",
-  "total_datasets": 534,
-  "total_records": 143210,
+  "generated": "2026-11-11T02:04:52.135Z",
+  "total_datasets": 535,
+  "total_records": 143231,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -1860,6 +1860,32 @@
         "xlsx": {
           "name": "it-sovrani-longobardi_IT.xlsx",
           "size": 9419
+        }
+      }
+    },
+    {
+      "id": "it-alfabeto-italiano",
+      "name": "Alfabeto italiano: lettere, nomi e pronuncia",
+      "category": "language",
+      "record_count": 21,
+      "columns": [
+        "numero",
+        "lettera",
+        "nome",
+        "ipa",
+        "diacritico"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Alfabeto_italiano",
+      "updated": "2026-11",
+      "size": 4280,
+      "files": {
+        "csv": {
+          "name": "it-alfabeto-italiano_IT.csv",
+          "size": 704
+        },
+        "xlsx": {
+          "name": "it-alfabeto-italiano_IT.xlsx",
+          "size": 7566
         }
       }
     },

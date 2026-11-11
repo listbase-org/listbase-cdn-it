@@ -1,0 +1,198 @@
+{
+  "id": "it-alfabeto-italiano",
+  "name": "Alfabeto italiano: lettere, nomi e pronuncia",
+  "title": "Alfabeto italiano: lettere, nomi e pronuncia",
+  "description": "Le 21 lettere dell'alfabeto italiano con nome della lettera, trascrizione IPA e forme con diacritico.",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Alfabeto_italiano",
+  "source_url": "https://it.wikipedia.org/wiki/Alfabeto_italiano",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "lettera",
+      "label": "Lettera",
+      "type": "string"
+    },
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "ipa",
+      "label": "Ipa",
+      "type": "string"
+    },
+    {
+      "key": "diacritico",
+      "label": "Diacritico",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "lettera": "A, a",
+      "nome": "a",
+      "ipa": "/a/",
+      "diacritico": "à"
+    },
+    {
+      "numero": 2,
+      "lettera": "B, b",
+      "nome": "bi",
+      "ipa": "/b/",
+      "diacritico": ""
+    },
+    {
+      "numero": 3,
+      "lettera": "C, c",
+      "nome": "ci",
+      "ipa": "/k/ o /tʃ/",
+      "diacritico": ""
+    },
+    {
+      "numero": 4,
+      "lettera": "D, d",
+      "nome": "di",
+      "ipa": "/d/",
+      "diacritico": ""
+    },
+    {
+      "numero": 5,
+      "lettera": "E, e",
+      "nome": "e",
+      "ipa": "/e/ o /ɛ/",
+      "diacritico": "è, é"
+    },
+    {
+      "numero": 6,
+      "lettera": "F, f",
+      "nome": "effe",
+      "ipa": "/f/",
+      "diacritico": ""
+    },
+    {
+      "numero": 7,
+      "lettera": "G, g",
+      "nome": "gi",
+      "ipa": "/ɡ/ o /dʒ/",
+      "diacritico": ""
+    },
+    {
+      "numero": 8,
+      "lettera": "H, h",
+      "nome": "acca",
+      "ipa": "—",
+      "diacritico": ""
+    },
+    {
+      "numero": 9,
+      "lettera": "I, i",
+      "nome": "i",
+      "ipa": "/i/ o /j/",
+      "diacritico": "ì, î, ï"
+    },
+    {
+      "numero": 10,
+      "lettera": "L, l",
+      "nome": "elle",
+      "ipa": "/l/",
+      "diacritico": ""
+    },
+    {
+      "numero": 11,
+      "lettera": "M, m",
+      "nome": "emme",
+      "ipa": "/m/",
+      "diacritico": ""
+    },
+    {
+      "numero": 12,
+      "lettera": "N, n",
+      "nome": "enne",
+      "ipa": "/n/ o /ŋ/ o /ɱ/",
+      "diacritico": ""
+    },
+    {
+      "numero": 13,
+      "lettera": "O, o",
+      "nome": "o",
+      "ipa": "/o/ o /ɔ/",
+      "diacritico": "ò, ó"
+    },
+    {
+      "numero": 14,
+      "lettera": "P, p",
+      "nome": "pi",
+      "ipa": "/p/",
+      "diacritico": ""
+    },
+    {
+      "numero": 15,
+      "lettera": "Q, q",
+      "nome": "cu",
+      "ipa": "/k(w)/",
+      "diacritico": ""
+    },
+    {
+      "numero": 16,
+      "lettera": "R, r",
+      "nome": "erre",
+      "ipa": "/r/",
+      "diacritico": ""
+    },
+    {
+      "numero": 17,
+      "lettera": "S, s",
+      "nome": "esse",
+      "ipa": "/s/ o /z/",
+      "diacritico": ""
+    },
+    {
+      "numero": 18,
+      "lettera": "T, t",
+      "nome": "ti",
+      "ipa": "/t/",
+      "diacritico": ""
+    },
+    {
+      "numero": 19,
+      "lettera": "U, u",
+      "nome": "u",
+      "ipa": "/u/ o /w/",
+      "diacritico": "ù, ü"
+    },
+    {
+      "numero": 20,
+      "lettera": "V, v",
+      "nome": "vu o vi",
+      "ipa": "/v/",
+      "diacritico": ""
+    },
+    {
+      "numero": 21,
+      "lettera": "Z, z",
+      "nome": "zeta",
+      "ipa": "/ts/ o /dz/",
+      "diacritico": ""
+    }
+  ],
+  "meta": {
+    "title": "Alfabeto italiano: lettere, nomi e pronuncia - Free Download",
+    "description": "Le 21 lettere dell'alfabeto italiano con nome della lettera, trascrizione IPA e forme con diacritico. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Alfabeto italiano: lettere, nomi e pronuncia | ListBase",
+    "seo_description": "Download Alfabeto italiano: lettere, nomi e pronuncia — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Alfabeto_italiano"
+    ]
+  }
+}
