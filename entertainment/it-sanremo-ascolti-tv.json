@@ -1,0 +1,286 @@
+{
+  "id": "it-sanremo-ascolti-tv",
+  "name": "Festival di Sanremo — ascolti televisivi medi",
+  "title": "Festival di Sanremo — ascolti televisivi medi",
+  "description": "Telespettatori medi e share medio delle serate del Festival di Sanremo per edizione, dal 1987.",
+  "category": "entertainment",
+  "source": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
+  "source_url": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "edizione",
+      "label": "Edizione",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "telespettatori_media",
+      "label": "Telespettatori Media",
+      "type": "number"
+    },
+    {
+      "key": "share_media_percento",
+      "label": "Share Media Percento",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "edizione": "37ª",
+      "anno": 1987,
+      "telespettatori_media": 15950000,
+      "share_media_percento": 68.93
+    },
+    {
+      "edizione": "38ª",
+      "anno": 1988,
+      "telespettatori_media": 14400000,
+      "share_media_percento": 63.36
+    },
+    {
+      "edizione": "39ª",
+      "anno": 1989,
+      "telespettatori_media": 15000000,
+      "share_media_percento": 66.14
+    },
+    {
+      "edizione": "40ª",
+      "anno": 1990,
+      "telespettatori_media": 14316000,
+      "share_media_percento": 63.88
+    },
+    {
+      "edizione": "41ª",
+      "anno": 1991,
+      "telespettatori_media": 12142000,
+      "share_media_percento": 52.29
+    },
+    {
+      "edizione": "42ª",
+      "anno": 1992,
+      "telespettatori_media": 15327000,
+      "share_media_percento": 60.32
+    },
+    {
+      "edizione": "43ª",
+      "anno": 1993,
+      "telespettatori_media": 14896000,
+      "share_media_percento": 56.11
+    },
+    {
+      "edizione": "44ª",
+      "anno": 1994,
+      "telespettatori_media": 12625000,
+      "share_media_percento": 53.63
+    },
+    {
+      "edizione": "45ª",
+      "anno": 1995,
+      "telespettatori_media": 16845000,
+      "share_media_percento": 66.41
+    },
+    {
+      "edizione": "46ª",
+      "anno": 1996,
+      "telespettatori_media": 12734000,
+      "share_media_percento": 53.04
+    },
+    {
+      "edizione": "47ª",
+      "anno": 1997,
+      "telespettatori_media": 13941000,
+      "share_media_percento": 58.11
+    },
+    {
+      "edizione": "48ª",
+      "anno": 1998,
+      "telespettatori_media": 12937000,
+      "share_media_percento": 52.32
+    },
+    {
+      "edizione": "49ª",
+      "anno": 1999,
+      "telespettatori_media": 14689000,
+      "share_media_percento": 55.64
+    },
+    {
+      "edizione": "50ª",
+      "anno": 2000,
+      "telespettatori_media": 12920000,
+      "share_media_percento": 54.25
+    },
+    {
+      "edizione": "51ª",
+      "anno": 2001,
+      "telespettatori_media": 10989000,
+      "share_media_percento": 48.1
+    },
+    {
+      "edizione": "52ª",
+      "anno": 2002,
+      "telespettatori_media": 11279000,
+      "share_media_percento": 53
+    },
+    {
+      "edizione": "53ª",
+      "anno": 2003,
+      "telespettatori_media": 8718000,
+      "share_media_percento": 42.85
+    },
+    {
+      "edizione": "54ª",
+      "anno": 2004,
+      "telespettatori_media": 8893000,
+      "share_media_percento": 38.95
+    },
+    {
+      "edizione": "55ª",
+      "anno": 2005,
+      "telespettatori_media": 11791000,
+      "share_media_percento": 52.78
+    },
+    {
+      "edizione": "56ª",
+      "anno": 2006,
+      "telespettatori_media": 8280000,
+      "share_media_percento": 40.05
+    },
+    {
+      "edizione": "57ª",
+      "anno": 2007,
+      "telespettatori_media": 9703000,
+      "share_media_percento": 47.71
+    },
+    {
+      "edizione": "58ª",
+      "anno": 2008,
+      "telespettatori_media": 6768000,
+      "share_media_percento": 35.63
+    },
+    {
+      "edizione": "59ª",
+      "anno": 2009,
+      "telespettatori_media": 10347000,
+      "share_media_percento": 47.89
+    },
+    {
+      "edizione": "60ª",
+      "anno": 2010,
+      "telespettatori_media": 10924000,
+      "share_media_percento": 47.83
+    },
+    {
+      "edizione": "61ª",
+      "anno": 2011,
+      "telespettatori_media": 11451000,
+      "share_media_percento": 47.78
+    },
+    {
+      "edizione": "62ª",
+      "anno": 2012,
+      "telespettatori_media": 11144000,
+      "share_media_percento": 47.22
+    },
+    {
+      "edizione": "63ª",
+      "anno": 2013,
+      "telespettatori_media": 11907000,
+      "share_media_percento": 47.13
+    },
+    {
+      "edizione": "64ª",
+      "anno": 2014,
+      "telespettatori_media": 8772000,
+      "share_media_percento": 39.26
+    },
+    {
+      "edizione": "65ª",
+      "anno": 2015,
+      "telespettatori_media": 10829000,
+      "share_media_percento": 48.57
+    },
+    {
+      "edizione": "66ª",
+      "anno": 2016,
+      "telespettatori_media": 10746000,
+      "share_media_percento": 49.52
+    },
+    {
+      "edizione": "67ª",
+      "anno": 2017,
+      "telespettatori_media": 10814000,
+      "share_media_percento": 50.42
+    },
+    {
+      "edizione": "68ª",
+      "anno": 2018,
+      "telespettatori_media": 10869000,
+      "share_media_percento": 52.16
+    },
+    {
+      "edizione": "69ª",
+      "anno": 2019,
+      "telespettatori_media": 9763000,
+      "share_media_percento": 49.22
+    },
+    {
+      "edizione": "70ª",
+      "anno": 2020,
+      "telespettatori_media": 10114000,
+      "share_media_percento": 54.78
+    },
+    {
+      "edizione": "71ª",
+      "anno": 2021,
+      "telespettatori_media": 8466000,
+      "share_media_percento": 46.24
+    },
+    {
+      "edizione": "72ª",
+      "anno": 2022,
+      "telespettatori_media": 11270000,
+      "share_media_percento": 58
+    },
+    {
+      "edizione": "73ª",
+      "anno": 2023,
+      "telespettatori_media": 10784000,
+      "share_media_percento": 62.96
+    },
+    {
+      "edizione": "74ª",
+      "anno": 2024,
+      "telespettatori_media": 11423000,
+      "share_media_percento": 65.44
+    },
+    {
+      "edizione": "75ª",
+      "anno": 2025,
+      "telespettatori_media": 12047000,
+      "share_media_percento": 66.38
+    },
+    {
+      "edizione": "76ª",
+      "anno": 2026,
+      "telespettatori_media": 9745000,
+      "share_media_percento": 62.16
+    }
+  ],
+  "meta": {
+    "title": "Festival di Sanremo — ascolti televisivi medi - Free Download",
+    "description": "Telespettatori medi e share medio delle serate del Festival di Sanremo per edizione, dal 1987. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Festival di Sanremo — ascolti televisivi medi | ListBase",
+    "seo_description": "Download Festival di Sanremo — ascolti televisivi medi — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Festival_di_Sanremo"
+    ]
+  }
+}
