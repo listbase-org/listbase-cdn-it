@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-11T02:05:46.216Z",
-  "total_datasets": 539,
-  "total_records": 143624,
+  "generated": "2026-11-12T02:07:41.344Z",
+  "total_datasets": 540,
+  "total_records": 143892,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -1801,6 +1801,32 @@
         "xlsx": {
           "name": "it-ospedali-veneto_IT.xlsx",
           "size": 8946
+        }
+      }
+    },
+    {
+      "id": "it-antichi-stati-italiani",
+      "name": "Antichi Stati italiani (Stati preunitari)",
+      "category": "history",
+      "record_count": 268,
+      "columns": [
+        "nome",
+        "capitale",
+        "governo_dinastia",
+        "arco_cronologico",
+        "periodo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antichi_Stati_italiani",
+      "updated": "2026-11",
+      "size": 59603,
+      "files": {
+        "csv": {
+          "name": "it-antichi-stati-italiani_IT.csv",
+          "size": 26301
+        },
+        "xlsx": {
+          "name": "it-antichi-stati-italiani_IT.xlsx",
+          "size": 17017
         }
       }
     },

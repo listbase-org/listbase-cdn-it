@@ -1,0 +1,1927 @@
+{
+  "id": "it-antichi-stati-italiani",
+  "name": "Antichi Stati italiani (Stati preunitari)",
+  "title": "Antichi Stati italiani (Stati preunitari)",
+  "description": "Stati italiani preunitari dal Medioevo al 1861, con capitale, dinastia regnante o forma di governo, arco cronologico e periodo storico.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Antichi_Stati_italiani",
+  "source_url": "https://it.wikipedia.org/wiki/Antichi_Stati_italiani",
+  "updated": "2026-11",
+  "record_count": 268,
+  "columns": [
+    {
+      "key": "nome",
+      "label": "Nome",
+      "type": "string"
+    },
+    {
+      "key": "capitale",
+      "label": "Capitale",
+      "type": "string"
+    },
+    {
+      "key": "governo_dinastia",
+      "label": "Governo Dinastia",
+      "type": "string"
+    },
+    {
+      "key": "arco_cronologico",
+      "label": "Arco Cronologico",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Pavia",
+      "governo_dinastia": "Anarchia Feudale",
+      "arco_cronologico": "888-962",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Pavia",
+      "governo_dinastia": "Parte del Sacro Romano Impero",
+      "arco_cronologico": "962-1004",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Pavia",
+      "governo_dinastia": "Anscarici",
+      "arco_cronologico": "1004-1014",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Pavia",
+      "governo_dinastia": "Parte del Sacro Romano Impero",
+      "arco_cronologico": "1014-1183",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Marche e ducati del Regno d'Italia: Marca d'Ivrea Marca arduinica (di Torino) Marca obertenga Marca aleramica Marca di Verona Marca di Tuscia Marca Fermana Ducato di Spoleto",
+      "governo_dinastia": "Marche e ducati del Regno d'Italia: Marca d'Ivrea Marca arduinica (di Torino) Marca obertenga Marca aleramica Marca di Verona Marca di Tuscia Marca Fermana Ducato di Spoleto",
+      "arco_cronologico": "Marche e ducati del Regno d'Italia: Marca d'Ivrea Marca arduinica (di Torino) Marca obertenga Marca aleramica Marca di Verona Marca di Tuscia Marca Fermana Ducato di Spoleto",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Patrimonio di San Pietro",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "752-1309",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Benevento",
+      "capitale": "Benevento",
+      "governo_dinastia": "Longobardi",
+      "arco_cronologico": "774-1053",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Capua",
+      "capitale": "Capua",
+      "governo_dinastia": "Landolfidi (Longobardi)",
+      "arco_cronologico": "900-1059",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Capua",
+      "capitale": "Capua",
+      "governo_dinastia": "Drengot Quarrel (Normanni)",
+      "arco_cronologico": "1059-1135 1155-1156",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Contea di Ariano",
+      "capitale": "Ariano",
+      "governo_dinastia": "Drengot Quarrel (Normanni)",
+      "arco_cronologico": "1022-1059",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Contea di Aversa",
+      "capitale": "Aversa",
+      "governo_dinastia": "Drengot Quarrel (Normanni)",
+      "arco_cronologico": "1029-1059",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Salerno",
+      "capitale": "Salerno",
+      "governo_dinastia": "Dauferidi",
+      "arco_cronologico": "861-978",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Salerno",
+      "capitale": "Salerno",
+      "governo_dinastia": "Landolfidi",
+      "arco_cronologico": "978-981",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Salerno",
+      "capitale": "Salerno",
+      "governo_dinastia": "Dinastia de Musco comite",
+      "arco_cronologico": "981-983",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Salerno",
+      "capitale": "Salerno",
+      "governo_dinastia": "Dinastia di Spoleto",
+      "arco_cronologico": "983-1076",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1088-1194",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Contea di Puglia",
+      "capitale": "Melfi",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1049-1059",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Puglia e Calabria",
+      "capitale": "Melfi",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1059-1077",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Puglia e Calabria",
+      "capitale": "Salerno",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1077-1127",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Emirato di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Kalbiti",
+      "arco_cronologico": "948-1059",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Contea di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1071-1130",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Territori nominalmente soggetti all' Impero bizantino",
+      "capitale": "Territori nominalmente soggetti all' Impero bizantino",
+      "governo_dinastia": "Territori nominalmente soggetti all' Impero bizantino",
+      "arco_cronologico": "Territori nominalmente soggetti all' Impero bizantino",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Pentapoli",
+      "capitale": "Rimini, Pesaro, Ancona, Senigallia e Fano (Pentapoli Marittima) Gubbio, Cagli, Urbino, Fossombrone e Jesi (Pentapoli Annonaria)",
+      "governo_dinastia": "Ducato formato da due pentapoli, delle quali facevano parte 10 città autonome",
+      "arco_cronologico": "554-752",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Monarchia elettiva",
+      "arco_cronologico": "697-1148",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Gaeta",
+      "capitale": "Gaeta",
+      "governo_dinastia": "Dinastia dei Docibili",
+      "arco_cronologico": "867-1032",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Gaeta",
+      "capitale": "Gaeta",
+      "governo_dinastia": "Dinastia longobarda dei conti d'Aquino",
+      "arco_cronologico": "1045-1064",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Gaeta",
+      "capitale": "Gaeta",
+      "governo_dinastia": "Ducato di Gaeta (vassalli del Principato di Capua)",
+      "arco_cronologico": "1064-1140",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Dinastia dei Sergii",
+      "arco_cronologico": "840-1137",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Amalfi",
+      "capitale": "Amalfi",
+      "governo_dinastia": "Dinastia de Musco comite",
+      "arco_cronologico": "958-1073",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Ducato di Sorrento",
+      "capitale": "Sorrento",
+      "governo_dinastia": "Monarchia elettiva",
+      "arco_cronologico": "839-1040",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Giudicato di Arborea",
+      "capitale": "Oristano",
+      "governo_dinastia": "Famiglia Lacon Gunale Lacon-Zori",
+      "arco_cronologico": "X-XV secolo circa",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Giudicato di Cagliari",
+      "capitale": "Santa Igia",
+      "governo_dinastia": "Famiglia Lacon Gunale Lacon-Zori",
+      "arco_cronologico": "X-XV secolo circa",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Giudicato di Gallura",
+      "capitale": "Civita",
+      "governo_dinastia": "Famiglia Lacon Gunale Lacon-Zori",
+      "arco_cronologico": "X-XV secolo circa",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Giudicato di Torres",
+      "capitale": "Torres",
+      "governo_dinastia": "Famiglia Lacon Gunale Lacon-Zori",
+      "arco_cronologico": "X-XV secolo circa",
+      "periodo": "Attorno all'anno Mille"
+    },
+    {
+      "nome": "Patrimonio di San Pietro",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "752-1309",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1088-1194",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Hohenstaufen",
+      "arco_cronologico": "1194-1197",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Frangipane",
+      "arco_cronologico": "1197-1249",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Pavia",
+      "governo_dinastia": "Parte del Sacro Romano Impero",
+      "arco_cronologico": "1014-1183",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Altavilla",
+      "arco_cronologico": "1130-1198",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Repubblica di Genova",
+      "capitale": "Genova",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1099-1797",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Repubblica di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1148-1797",
+      "periodo": "Età dei comuni"
+    },
+    {
+      "nome": "Monaco",
+      "capitale": "",
+      "governo_dinastia": "Grimaldi",
+      "arco_cronologico": "1297-1612",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Genova",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "1256-1270",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Genova",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "1270-1317",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Genova",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "1317-1319",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Milano",
+      "capitale": "",
+      "governo_dinastia": "Della Torre",
+      "arco_cronologico": "1259-1277 1302-1311",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Milano",
+      "capitale": "",
+      "governo_dinastia": "Visconti",
+      "arco_cronologico": "1277-1302 1311-1395",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Mantova",
+      "capitale": "",
+      "governo_dinastia": "Bonacolsi",
+      "arco_cronologico": "1272-1291",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Mantova",
+      "capitale": "",
+      "governo_dinastia": "Bonacolsi",
+      "arco_cronologico": "1291-1299",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Mantova",
+      "capitale": "",
+      "governo_dinastia": "Bonacolsi",
+      "arco_cronologico": "1299-1328",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Mantova",
+      "capitale": "",
+      "governo_dinastia": "Gonzaga",
+      "arco_cronologico": "1328-1433",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Verona e Vicenza",
+      "capitale": "",
+      "governo_dinastia": "Della Scala",
+      "arco_cronologico": "1262-1387",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Treviso e Belluno",
+      "capitale": "",
+      "governo_dinastia": "Da Camino",
+      "arco_cronologico": "1283-1312",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Padova",
+      "capitale": "",
+      "governo_dinastia": "Da Carrara",
+      "arco_cronologico": "1318-1405",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Ferrara",
+      "capitale": "",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1209-1222 1240-1471",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Modena",
+      "capitale": "",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1288-1293 1336-1452",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Bologna",
+      "capitale": "",
+      "governo_dinastia": "Pepoli",
+      "arco_cronologico": "1337-1350",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Ravenna",
+      "capitale": "",
+      "governo_dinastia": "Da Polenta",
+      "arco_cronologico": "1275-1441",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Forlì",
+      "capitale": "",
+      "governo_dinastia": "Ordelaffi",
+      "arco_cronologico": "1295-1359 1376-1480",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Cesena",
+      "capitale": "",
+      "governo_dinastia": "Ordelaffi",
+      "arco_cronologico": "1333-1357",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Cesena",
+      "capitale": "",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1378-1465",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Rimini",
+      "capitale": "",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1295-1500",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Pesaro",
+      "capitale": "",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1285-1445",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Fano",
+      "capitale": "",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1295-1463",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Brescia",
+      "capitale": "",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1404-1421",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Lucca",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "prima del 1316",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Lucca",
+      "capitale": "",
+      "governo_dinastia": "Antelminelli",
+      "arco_cronologico": "1316-1328",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Lucca",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "1328-1400",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Lucca",
+      "capitale": "",
+      "governo_dinastia": "Guinigi",
+      "arco_cronologico": "1400-1430",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Firenze",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Pisa",
+      "capitale": "",
+      "governo_dinastia": "Della Gherardesca",
+      "arco_cronologico": "1316-1347",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Siena",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "prima del 1287",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Siena",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "dopo il 1287",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Massa Marittima",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "prima del 1287",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Massa Marittima",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "dopo il 1287",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Urbino",
+      "capitale": "",
+      "governo_dinastia": "Da Montefeltro",
+      "arco_cronologico": "1213-1443",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Ancona",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "fino al 1532",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Arezzo",
+      "capitale": "",
+      "governo_dinastia": "",
+      "arco_cronologico": "Fino al 1384",
+      "periodo": "Liberi comuni e signorie cittadine"
+    },
+    {
+      "nome": "Contea di Savoia",
+      "capitale": "Chambéry",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "1003-1416",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Marchesato del Monferrato",
+      "capitale": "Moncalvo",
+      "governo_dinastia": "Aleramici",
+      "arco_cronologico": "967-1305",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Marchesato del Monferrato",
+      "capitale": "Chivasso",
+      "governo_dinastia": "Paleologi",
+      "arco_cronologico": "1306-1435",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Marchesato di Saluzzo",
+      "capitale": "Saluzzo",
+      "governo_dinastia": "Del Vasto (Aleramici)",
+      "arco_cronologico": "1142-1548",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Marchesato di Finale",
+      "capitale": "Finalborgo",
+      "governo_dinastia": "Del Carretto (Aleramici)",
+      "arco_cronologico": "1162-1602",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Contea del Tirolo",
+      "capitale": "Merano",
+      "governo_dinastia": "Tirolo",
+      "arco_cronologico": "1140-1253",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Contea del Tirolo",
+      "capitale": "Merano",
+      "governo_dinastia": "Gorizia",
+      "arco_cronologico": "1253-1363",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Contea del Tirolo",
+      "capitale": "Merano",
+      "governo_dinastia": "Asburgo",
+      "arco_cronologico": "1363-1418",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Hohenstaufen",
+      "arco_cronologico": "1250-1266",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Angioini",
+      "arco_cronologico": "1266-1399",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Hohenstaufen",
+      "arco_cronologico": "1194-1266",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Napoli",
+      "governo_dinastia": "Angioini",
+      "arco_cronologico": "1266-1282",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Regno di Sicilia citeriore",
+      "capitale": "Napoli",
+      "governo_dinastia": "Angioini",
+      "arco_cronologico": "1282-1442",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Regno di Sicilia ulteriore",
+      "capitale": "Palermo",
+      "governo_dinastia": "Aragona di Sicilia",
+      "arco_cronologico": "1282-1410",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Barcellona (facente parte della Corona d'Aragona)",
+      "arco_cronologico": "1324-1410",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Giudicato di Arborea",
+      "capitale": "Oristano",
+      "governo_dinastia": "Lacon-Zori",
+      "arco_cronologico": "1122-1241",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Giudicato di Arborea",
+      "capitale": "Oristano",
+      "governo_dinastia": "Bas-Serra",
+      "arco_cronologico": "1241-1410",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Giudicato di Cagliari",
+      "capitale": "Santa Igia",
+      "governo_dinastia": "Lacon-Zori Lacon-Massa",
+      "arco_cronologico": "1214-1258",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Giudicato di Gallura",
+      "capitale": "Civita",
+      "governo_dinastia": "Lacon-Zori Visconti di Pisa",
+      "arco_cronologico": "1207-1296",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Giudicato di Torres",
+      "capitale": "Ardara",
+      "governo_dinastia": "Lacon-Gunale Lacon-Zori",
+      "arco_cronologico": "1082-1259",
+      "periodo": "Monarchie e principati de facto o de jure indipendenti"
+    },
+    {
+      "nome": "Principato vescovile di Trento",
+      "capitale": "Trento",
+      "governo_dinastia": "Principato vescovile",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Principato vescovile di Bressanone",
+      "capitale": "Bressanone",
+      "governo_dinastia": "Principato vescovile",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Stato patriarcale di Aquileia",
+      "capitale": "Cividale del Friuli",
+      "governo_dinastia": "Principato ecclesiastico",
+      "arco_cronologico": "1077-1238",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Stato patriarcale di Aquileia",
+      "capitale": "Udine",
+      "governo_dinastia": "Principato ecclesiastico",
+      "arco_cronologico": "1238-1420",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "752-1309",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Avignone",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1309-1377",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1377-1798",
+      "periodo": "Stati ecclesiastici"
+    },
+    {
+      "nome": "Repubblica di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1148-1797",
+      "periodo": "Altri Stati"
+    },
+    {
+      "nome": "Repubblica di Ragusa",
+      "capitale": "Ragusa",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1358-1807",
+      "periodo": "Altri Stati"
+    },
+    {
+      "nome": "Ducato di Savoia",
+      "capitale": "Chambéry",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "1416-1713",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Saluzzo",
+      "capitale": "Saluzzo",
+      "governo_dinastia": "Del Vasto (Aleramici)",
+      "arco_cronologico": "1142-1548",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato del Monferrato",
+      "capitale": "Casale",
+      "governo_dinastia": "Paleologi",
+      "arco_cronologico": "1435-1536",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Signoria di Monaco",
+      "capitale": "Monaco",
+      "governo_dinastia": "Grimaldi",
+      "arco_cronologico": "1297-1612",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Finale",
+      "capitale": "Finalborgo",
+      "governo_dinastia": "Del Carretto (Aleramici)",
+      "arco_cronologico": "1162-1602",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Genova",
+      "capitale": "Genova",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1096-1797",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Visconti",
+      "arco_cronologico": "1395-1447",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Aurea Repubblica Ambrosiana",
+      "capitale": "Milano",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1447-1450",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Sforza",
+      "arco_cronologico": "1450-1499 1512-1515 1521-1535",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Valois-Orléans (1499-1512) (dipendenza del Regno di Francia) Valois-Angoulême (1515-1521) (dipendenza del Regno di Francia)",
+      "arco_cronologico": "1499-1512 1515-1521",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Mantova",
+      "capitale": "Mantova",
+      "governo_dinastia": "Gonzaga",
+      "arco_cronologico": "1433-1530",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Signoria di Brescia",
+      "capitale": "Brescia",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1404-1421",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Principato vescovile di Trento",
+      "capitale": "Trento",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Principato vescovile di Bressanone",
+      "capitale": "Bressanone",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1148-1797",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Contea di Gorizia",
+      "capitale": "Gorizia",
+      "governo_dinastia": "Gorizia",
+      "arco_cronologico": "1090-1500",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Ragusa",
+      "capitale": "Ragusa",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1358-1807",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Signoria di Ferrara",
+      "capitale": "Ferrara",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1452-1471",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Ferrara, Modena e Reggio",
+      "capitale": "Ferrara",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1471-1598",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Signoria di Rimini",
+      "capitale": "Rimini",
+      "governo_dinastia": "Malatesta",
+      "arco_cronologico": "1295-1500",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di San Marino",
+      "capitale": "San Marino",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1291-1739",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Urbino",
+      "capitale": "Urbino",
+      "governo_dinastia": "Da Montefeltro",
+      "arco_cronologico": "1443-1508",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Urbino",
+      "capitale": "Urbino",
+      "governo_dinastia": "Borgia",
+      "arco_cronologico": "1502-1504",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Urbino",
+      "capitale": "Urbino",
+      "governo_dinastia": "Della Rovere",
+      "arco_cronologico": "1508-1523",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Urbino",
+      "capitale": "Urbino",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1516-1519",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Fosdinovo",
+      "capitale": "Fosdinovo",
+      "governo_dinastia": "Malaspina",
+      "arco_cronologico": "1355 - 1797",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Massa e Signoria di Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Malaspina",
+      "arco_cronologico": "1442-1553",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Marchesato di Massa e Signoria di Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Cybo-Malaspina",
+      "arco_cronologico": "1553-1568",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Lucca",
+      "capitale": "Lucca",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1430-1799",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1434-1494",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1494-1512",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1512-1527",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1527-1530",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1530-1532",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Siena",
+      "capitale": "Siena",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1404-1487",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Siena",
+      "capitale": "Siena",
+      "governo_dinastia": "Petrucci",
+      "arco_cronologico": "1487-1525",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Siena",
+      "capitale": "Siena",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1525-1555",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Signoria di Piombino",
+      "capitale": "Piombino",
+      "governo_dinastia": "Appiano",
+      "arco_cronologico": "1399-1594",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1377-1798",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Repubblica di Ancona",
+      "capitale": "Ancona",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1443-1532",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Principato di Taranto",
+      "capitale": "Taranto",
+      "governo_dinastia": "Orsini - Del Balzo (con gli Angiò-Durazzo)",
+      "arco_cronologico": "1399-1465",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Trastámara",
+      "arco_cronologico": "1442-1495",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Valois (dipendenza del Regno di Francia)",
+      "arco_cronologico": "1495",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Trastámara",
+      "arco_cronologico": "1495-1501",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Valois-Orléans (dipendenza del Regno di Francia)",
+      "arco_cronologico": "1501-1504",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Trastámara (1504-1516) (facente parte della Corona d'Aragona)",
+      "arco_cronologico": "1504-1516",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Trastámara (1504-1516) (facente parte della Corona d'Aragona)",
+      "arco_cronologico": "1412-1516",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Trastámara (1504-1516) (facente parte della Corona d'Aragona)",
+      "arco_cronologico": "1412-1516",
+      "periodo": "Italia rinascimentale"
+    },
+    {
+      "nome": "Ducato di Savoia",
+      "capitale": "Torino",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "1563-1713",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato di Monaco",
+      "capitale": "Monaco",
+      "governo_dinastia": "Grimaldi",
+      "arco_cronologico": "1612-1794",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Repubblica di Genova",
+      "capitale": "Genova",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1096-1797",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Asburgo (facente parte dell' Impero spagnolo)",
+      "arco_cronologico": "1535-1700",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Borbone (facente parte dell' Impero spagnolo)",
+      "arco_cronologico": "1700-1706",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Mantova e del Monferrato",
+      "capitale": "Mantova",
+      "governo_dinastia": "Gonzaga",
+      "arco_cronologico": "1530-1627",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Mantova e del Monferrato",
+      "capitale": "Mantova",
+      "governo_dinastia": "Gonzaga-Nevers",
+      "arco_cronologico": "1627-1708",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Parma e Piacenza",
+      "capitale": "Parma",
+      "governo_dinastia": "Farnese",
+      "arco_cronologico": "1545-1731",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato vescovile di Trento",
+      "capitale": "Trento",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato vescovile di Bressanone",
+      "capitale": "Bressanone",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Repubblica di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1148-1797",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Repubblica di Ragusa",
+      "capitale": "Ragusa",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1358-1807",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Modena e Reggio",
+      "capitale": "Modena",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1598-1796",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Repubblica di San Marino",
+      "capitale": "San Marino",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1291-1739",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Urbino",
+      "capitale": "Pesaro",
+      "governo_dinastia": "Della Rovere",
+      "arco_cronologico": "1523-1631",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Marchesato di Fosdinovo",
+      "capitale": "Fosdinovo",
+      "governo_dinastia": "Malaspina",
+      "arco_cronologico": "1355 - 1797",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato di Massa e Marchesato di Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Cybo-Malaspina",
+      "arco_cronologico": "1568-1605",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Massa e Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Cybo-Malaspina",
+      "arco_cronologico": "1605-1790",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Repubblica di Lucca",
+      "capitale": "Lucca",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1430-1799",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Ducato di Firenze",
+      "capitale": "Firenze",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1532-1569",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Granducato di Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Medici",
+      "arco_cronologico": "1569-1737",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato di Piombino",
+      "capitale": "Piombino",
+      "governo_dinastia": "Appiano",
+      "arco_cronologico": "1594-1628",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Principato di Piombino",
+      "capitale": "Piombino",
+      "governo_dinastia": "Ludovisi",
+      "arco_cronologico": "1634-1700",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1377-1798",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Asburgo (1516-1700) (facente parte dell' Impero spagnolo) Borbone (1700-1713) (facente parte dell' Impero spagnolo)",
+      "arco_cronologico": "1516-1713",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Asburgo (1516-1700) (facente parte dell' Impero spagnolo) Borbone (1700-1713) (facente parte dell' Impero spagnolo)",
+      "arco_cronologico": "1516-1713",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Asburgo (1516-1700) (facente parte dell' Impero spagnolo) Borbone (1700-1713) (facente parte dell' Impero spagnolo)",
+      "arco_cronologico": "1516-1713",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Stato monastico dei Cavalieri di Malta",
+      "capitale": "Birgu",
+      "governo_dinastia": "Governo dei Cavalieri Ospitalieri (dipendente dal Regno di Sicilia)",
+      "arco_cronologico": "1530-1571",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Stato monastico dei Cavalieri di Malta",
+      "capitale": "La Valletta",
+      "governo_dinastia": "Governo dei Cavalieri Ospitalieri (dipendente dal Regno di Sicilia)",
+      "arco_cronologico": "1571-1798",
+      "periodo": "Italia barocca"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Asburgo (facente parte della Monarchia asburgica)",
+      "arco_cronologico": "1713-1720",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Savoia (parte della Monarchia sabauda)",
+      "arco_cronologico": "dal 1720",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Ducato di Savoia e possedimenti connessi",
+      "capitale": "Torino",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "dal 1416",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Principato di Monaco",
+      "capitale": "Monaco",
+      "governo_dinastia": "Grimaldi",
+      "arco_cronologico": "1612-1794",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di Genova",
+      "capitale": "Genova",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1096-1797",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Ducato di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Asburgo, poi Asburgo-Lorena (facente parte della Monarchia asburgica)",
+      "arco_cronologico": "1707-1796",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Ducato di Parma e Piacenza",
+      "capitale": "Parma",
+      "governo_dinastia": "Borbone-Spagna (1731-1735) Asburgo (1735-1748) (facente parte della Monarchia asburgica) Borbone-Parma (1748-1802)",
+      "arco_cronologico": "1731-1802",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Principato vescovile di Trento",
+      "capitale": "Trento",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Principato vescovile di Bressanone",
+      "capitale": "Bressanone",
+      "governo_dinastia": "Principato vescovile (dipendenza dal Sacro Romano Impero)",
+      "arco_cronologico": "1027-1803",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di Venezia",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1148-1797",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di Ragusa",
+      "capitale": "Ragusa",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1358-1807",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Ducato di Modena e Reggio",
+      "capitale": "Modena",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1598-1796",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di San Marino",
+      "capitale": "San Marino",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1291-1739 1740-oggi",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Marchesato di Fosdinovo",
+      "capitale": "Fosdinovo",
+      "governo_dinastia": "Malaspina",
+      "arco_cronologico": "1355 - 1797",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Ducato di Massa e Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Cybo-Malaspina (1605-1790) Este (1790-1796)",
+      "arco_cronologico": "1605-1796",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di Lucca",
+      "capitale": "Lucca",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1430-1799",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Granducato di Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Lorena, poi Asburgo-Lorena",
+      "arco_cronologico": "1737-1801",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Principato di Piombino",
+      "capitale": "Piombino",
+      "governo_dinastia": "Boncompagni-Ludovisi",
+      "arco_cronologico": "1701-1801",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1377-1798",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Asburgo (1713-1734) (facente parte della Monarchia asburgica) Borbone di Napoli e Sicilia (1734-1799)",
+      "arco_cronologico": "1713-1799",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Savoia (1713-1720) Asburgo (1720-1734) (facente parte della Monarchia asburgica) Borbone di Napoli e Sicilia (1734-1799) (unione personale con il Regno di Napoli)",
+      "arco_cronologico": "1713-1799",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Corsica",
+      "capitale": "Corte",
+      "governo_dinastia": "Neuhoff",
+      "arco_cronologico": "1736",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica Corsa",
+      "capitale": "Corte",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1755-1769",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Corsica",
+      "capitale": "Corte",
+      "governo_dinastia": "Hannover (dipendenza del Regno di Gran Bretagna)",
+      "arco_cronologico": "1794-1796",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Regno di Corsica",
+      "capitale": "Bastia",
+      "governo_dinastia": "Hannover (dipendenza del Regno di Gran Bretagna)",
+      "arco_cronologico": "1794-1796",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Stato monastico dei Cavalieri di Malta",
+      "capitale": "La Valletta",
+      "governo_dinastia": "Governo dei Cavalieri Ospitalieri (dipendente dal Regno di Sicilia",
+      "arco_cronologico": "1571-1798",
+      "periodo": "Settecento"
+    },
+    {
+      "nome": "Repubblica di San Marino",
+      "capitale": "San Marino",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1740-oggi",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1799-1808",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Borbone delle Due Sicilie",
+      "arco_cronologico": "1799-1806 1815-1816",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Borbone delle Due Sicilie",
+      "arco_cronologico": "1799-1816",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno di Sardegna",
+      "capitale": "Cagliari",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "1798-1814",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Principato dell'Isola d'Elba",
+      "capitale": "Portoferraio",
+      "governo_dinastia": "Bonaparte",
+      "arco_cronologico": "1814-1815",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Stati dipendenti dalla Francia rivoluzionaria e napoleonica",
+      "capitale": "Stati dipendenti dalla Francia rivoluzionaria e napoleonica",
+      "governo_dinastia": "Stati dipendenti dalla Francia rivoluzionaria e napoleonica",
+      "arco_cronologico": "Stati dipendenti dalla Francia rivoluzionaria e napoleonica",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Piemontese",
+      "capitale": "Torino",
+      "governo_dinastia": "Repubblica giacobina (di fatto occupazione militare francese)",
+      "arco_cronologico": "1798-1799",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Subalpina",
+      "capitale": "Torino",
+      "governo_dinastia": "Repubblica giacobina (di fatto occupazione militare francese)",
+      "arco_cronologico": "1800-1802",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica di Alba",
+      "capitale": "Alba",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1796",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Astese",
+      "capitale": "Asti",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1797",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Ligure (ex Repubblica di Genova)",
+      "capitale": "Genova",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1797-1805",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Transpadana",
+      "capitale": "Milano",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1796-1797",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Cisalpina",
+      "capitale": "Milano",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1797-1802",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Italiana",
+      "capitale": "Milano",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1802-1805",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno d'Italia",
+      "capitale": "Milano",
+      "governo_dinastia": "Bonaparte",
+      "arco_cronologico": "1805-1814",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Cremasca",
+      "capitale": "Crema",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1797",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Reggiana",
+      "capitale": "Reggio di Lombardia",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1796",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Bolognese",
+      "capitale": "Bologna",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1796",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Cispadana",
+      "capitale": "Bologna",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1796-1797",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica di Lucca",
+      "capitale": "Lucca",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1799-1805",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Principato di Lucca e Piombino",
+      "capitale": "Lucca",
+      "governo_dinastia": "Bonaparte-Baciocchi",
+      "arco_cronologico": "1805-1815",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno di Etruria",
+      "capitale": "Firenze",
+      "governo_dinastia": "Borbone-Parma",
+      "arco_cronologico": "1801-1807",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Granducato di Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Bonaparte-Baciocchi",
+      "arco_cronologico": "1809-1814",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Ducato di Massa e Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Bonaparte-Baciocchi",
+      "arco_cronologico": "1806-1814",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Tiberina",
+      "capitale": "Perugia",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1798",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Romana",
+      "capitale": "Roma",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1798-1799",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Anconitana",
+      "capitale": "Ancona",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1797-1798",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Principato di Pontecorvo",
+      "capitale": "Pontecorvo",
+      "governo_dinastia": "Bernadotte (1806-1810) Murat (1812-1815)",
+      "arco_cronologico": "1806-1815",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Principato di Benevento",
+      "capitale": "Benevento",
+      "governo_dinastia": "Talleyrand-Périgord",
+      "arco_cronologico": "1806-1814",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Repubblica Napoletana",
+      "capitale": "Napoli",
+      "governo_dinastia": "Repubblica giacobina",
+      "arco_cronologico": "1799",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Bonaparte (1806-1808) Murat (1808-1815)",
+      "arco_cronologico": "1806-1815",
+      "periodo": "Età napoleonica"
+    },
+    {
+      "nome": "Stati del Re di Sardegna / Regno di Sardegna",
+      "capitale": "Torino",
+      "governo_dinastia": "Savoia",
+      "arco_cronologico": "1814-1861",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Principato di Monaco",
+      "capitale": "Monaco",
+      "governo_dinastia": "Grimaldi",
+      "arco_cronologico": "1815-oggi",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Regno Lombardo-Veneto",
+      "capitale": "Milano (1815-1859) Venezia (1859-1866)",
+      "governo_dinastia": "Asburgo-Lorena (dipendenza dell' Impero austriaco)",
+      "arco_cronologico": "1815-1866",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Ducato di Parma e Piacenza",
+      "capitale": "Parma",
+      "governo_dinastia": "Asburgo-Lorena (1814-1847) Borbone-Parma (1847-1859)",
+      "arco_cronologico": "1814-1859",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Ducato di Modena e Reggio",
+      "capitale": "Modena",
+      "governo_dinastia": "Austria-Este",
+      "arco_cronologico": "1815-1859",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Ducato di Massa e Carrara",
+      "capitale": "Massa",
+      "governo_dinastia": "Este",
+      "arco_cronologico": "1815-1829",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Ducato di Lucca",
+      "capitale": "Lucca",
+      "governo_dinastia": "Borbone-Spagna (1815-1824) Borbone-Parma (1824-1847)",
+      "arco_cronologico": "1815-1847",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Granducato di Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Asburgo-Lorena",
+      "arco_cronologico": "1815-1859",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica di San Marino",
+      "capitale": "San Marino",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "301-oggi",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica di Cospaia",
+      "capitale": "Cospaia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1815-1826",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Stato Pontificio",
+      "capitale": "Roma",
+      "governo_dinastia": "Governo pontificio",
+      "arco_cronologico": "1814-1870",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Regno di Napoli",
+      "capitale": "Napoli",
+      "governo_dinastia": "Borbone delle Due Sicilie",
+      "arco_cronologico": "1815-1816",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Borbone delle Due Sicilie",
+      "arco_cronologico": "1734-1816",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Regno delle Due Sicilie",
+      "capitale": "Palermo (1816-1817) Napoli (1817-1861)",
+      "governo_dinastia": "Borbone delle Due Sicilie",
+      "arco_cronologico": "1816-1861",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Province Unite Italiane",
+      "capitale": "Bologna",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1831",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Governo provvisorio di Milano",
+      "capitale": "Milano",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1848",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Regno di Sicilia",
+      "capitale": "Palermo",
+      "governo_dinastia": "Monarchia parlamentare",
+      "arco_cronologico": "1848-1849",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica di Aggius",
+      "capitale": "Aggius",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1848",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica di San Marco",
+      "capitale": "Venezia",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1848-1849",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1849",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Repubblica Romana",
+      "capitale": "Roma",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1849",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Province Unite del Centro Italia",
+      "capitale": "Modena e Firenze",
+      "governo_dinastia": "Confederazione",
+      "arco_cronologico": "1859-1860",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Governo provvisorio della Toscana",
+      "capitale": "Firenze",
+      "governo_dinastia": "Monarchia",
+      "arco_cronologico": "1859-1860",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Governo provvisorio di Fano",
+      "capitale": "Fano",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1859-1860",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    },
+    {
+      "nome": "Città libere di Mentone e Roccabruna",
+      "capitale": "Mentone",
+      "governo_dinastia": "Repubblica",
+      "arco_cronologico": "1848- 1849",
+      "periodo": "Dalla Restaurazione all'Unità d'Italia"
+    }
+  ],
+  "meta": {
+    "title": "Antichi Stati italiani (Stati preunitari) - Free Download",
+    "description": "Stati italiani preunitari dal Medioevo al 1861, con capitale, dinastia regnante o forma di governo, arco cronologico e periodo storico. Contains 268 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antichi Stati italiani (Stati preunitari) | ListBase",
+    "seo_description": "Download Antichi Stati italiani (Stati preunitari) — 268 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 268 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antichi_Stati_italiani"
+    ]
+  }
+}
