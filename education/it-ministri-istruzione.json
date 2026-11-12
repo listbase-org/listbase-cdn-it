@@ -1,0 +1,628 @@
+{
+  "id": "it-ministri-istruzione",
+  "name": "Ministri dell'istruzione della Repubblica Italiana",
+  "title": "Ministri dell'istruzione della Repubblica Italiana",
+  "description": "Ministri della pubblica istruzione e dell'istruzione della Repubblica Italiana con partito, governo, durata del mandato e legislatura.",
+  "category": "education",
+  "source": "https://it.wikipedia.org/wiki/Ministri_dell'istruzione_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_dell'istruzione_della_Repubblica_Italiana",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "ministro",
+      "label": "Ministro",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    },
+    {
+      "key": "denominazione_ministero",
+      "label": "Denominazione Ministero",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministro": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi II",
+      "inizio_mandato": "14 luglio 1946",
+      "fine_mandato": "2 febbraio 1947",
+      "legislatura": "AC",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi III",
+      "inizio_mandato": "2 febbraio 1947",
+      "fine_mandato": "1º giugno 1947",
+      "legislatura": "AC",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi IV",
+      "inizio_mandato": "1º giugno 1947",
+      "fine_mandato": "24 maggio 1948",
+      "legislatura": "AC",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi V",
+      "inizio_mandato": "24 maggio 1948",
+      "fine_mandato": "28 gennaio 1950",
+      "legislatura": "I",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Gonella (1905-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI",
+      "inizio_mandato": "28 gennaio 1950",
+      "fine_mandato": "26 luglio 1951",
+      "legislatura": "I",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Antonio Segni (1891-1972)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII",
+      "inizio_mandato": "26 luglio 1951",
+      "fine_mandato": "16 luglio 1953",
+      "legislatura": "I",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giuseppe Bettiol (1907-1982)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII",
+      "inizio_mandato": "16 luglio 1953",
+      "fine_mandato": "17 agosto 1953",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Antonio Segni (1891-1972)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella",
+      "inizio_mandato": "17 agosto 1953",
+      "fine_mandato": "19 gennaio 1954",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Egidio Tosato (1902-1984)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I",
+      "inizio_mandato": "19 gennaio 1954",
+      "fine_mandato": "10 febbraio 1954",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Gaetano Martino (1900-1967)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Scelba",
+      "inizio_mandato": "10 febbraio 1954",
+      "fine_mandato": "19 settembre 1954",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giuseppe Ermini (1900-1981)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Scelba",
+      "inizio_mandato": "19 settembre 1954",
+      "fine_mandato": "6 luglio 1955",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Paolo Rossi (1900-1985)",
+      "partito": "Partito Socialista Democratico Italiano",
+      "governo": "Segni I",
+      "inizio_mandato": "6 luglio 1955",
+      "fine_mandato": "20 maggio 1957",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Aldo Moro (1916-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli",
+      "inizio_mandato": "20 maggio 1957",
+      "fine_mandato": "2 luglio 1958",
+      "legislatura": "II",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Aldo Moro (1916-1978)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani II",
+      "inizio_mandato": "2 luglio 1958",
+      "fine_mandato": "16 febbraio 1959",
+      "legislatura": "III",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giuseppe Medici (1907-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II",
+      "inizio_mandato": "16 febbraio 1959",
+      "fine_mandato": "26 marzo 1960",
+      "legislatura": "III",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giuseppe Medici (1907-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni",
+      "inizio_mandato": "26 marzo 1960",
+      "fine_mandato": "27 luglio 1960",
+      "legislatura": "III",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giacinto Bosco (1905-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III",
+      "inizio_mandato": "27 luglio 1960",
+      "fine_mandato": "22 febbraio 1962",
+      "legislatura": "III",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV",
+      "inizio_mandato": "22 febbraio 1962",
+      "fine_mandato": "22 giugno 1963",
+      "legislatura": "III",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I",
+      "inizio_mandato": "22 giugno 1963",
+      "fine_mandato": "5 dicembre 1963",
+      "legislatura": "IV",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro I",
+      "inizio_mandato": "5 dicembre 1963",
+      "fine_mandato": "23 luglio 1964",
+      "legislatura": "IV",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro II",
+      "inizio_mandato": "23 luglio 1964",
+      "fine_mandato": "24 febbraio 1966",
+      "legislatura": "IV",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Gui (1914-2010)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro III",
+      "inizio_mandato": "24 febbraio 1966",
+      "fine_mandato": "25 giugno 1968",
+      "legislatura": "IV",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giovanni Battista Scaglia (1910-2006)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II",
+      "inizio_mandato": "25 giugno 1968",
+      "fine_mandato": "13 dicembre 1968",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Fiorentino Sullo (1921-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I",
+      "inizio_mandato": "13 dicembre 1968",
+      "fine_mandato": "24 marzo 1969",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Mario Ferrari Aggradi (1916-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I",
+      "inizio_mandato": "24 marzo 1969",
+      "fine_mandato": "6 agosto 1969",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Mario Ferrari Aggradi (1916-1997)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II",
+      "inizio_mandato": "6 agosto 1969",
+      "fine_mandato": "28 marzo 1970",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Riccardo Misasi (1932-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor III",
+      "inizio_mandato": "28 marzo 1970",
+      "fine_mandato": "6 agosto 1970",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Riccardo Misasi (1932-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Colombo",
+      "inizio_mandato": "7 agosto 1970",
+      "fine_mandato": "16 febbraio 1972",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Riccardo Misasi (1932-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I",
+      "inizio_mandato": "18 febbraio 1972",
+      "fine_mandato": "26 giugno 1972",
+      "legislatura": "V",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Oscar Luigi Scalfaro (1918-2012)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II",
+      "inizio_mandato": "26 giugno 1972",
+      "fine_mandato": "8 luglio 1973",
+      "legislatura": "VI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franco Maria Malfatti (1927-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor IV",
+      "inizio_mandato": "8 luglio 1973",
+      "fine_mandato": "15 marzo 1974",
+      "legislatura": "VI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franco Maria Malfatti (1927-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor V",
+      "inizio_mandato": "15 marzo 1974",
+      "fine_mandato": "23 novembre 1974",
+      "legislatura": "VI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franco Maria Malfatti (1927-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro IV",
+      "inizio_mandato": "23 novembre 1974",
+      "fine_mandato": "12 febbraio 1976",
+      "legislatura": "VI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franco Maria Malfatti (1927-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V",
+      "inizio_mandato": "12 febbraio 1976",
+      "fine_mandato": "30 luglio 1976",
+      "legislatura": "VI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franco Maria Malfatti (1927-1991)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III",
+      "inizio_mandato": "30 luglio 1976",
+      "fine_mandato": "13 marzo 1978",
+      "legislatura": "VII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Mario Pedini (1918-2003)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV",
+      "inizio_mandato": "13 marzo 1978",
+      "fine_mandato": "21 marzo 1979",
+      "legislatura": "VII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giovanni Spadolini (1925-1994)",
+      "partito": "Partito Repubblicano Italiano",
+      "governo": "Andreotti V",
+      "inizio_mandato": "21 marzo 1979",
+      "fine_mandato": "5 agosto 1979",
+      "legislatura": "VII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Salvatore Valitutti (1907-1992)",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Cossiga I",
+      "inizio_mandato": "5 agosto 1979",
+      "fine_mandato": "4 aprile 1980",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Adolfo Sarti (1928-1992)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga II",
+      "inizio_mandato": "4 aprile 1980",
+      "fine_mandato": "18 ottobre 1980",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Bodrato (1933-2023)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Forlani",
+      "inizio_mandato": "18 ottobre 1980",
+      "fine_mandato": "28 giugno 1981",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Bodrato (1933-2023)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini I",
+      "inizio_mandato": "28 giugno 1981",
+      "fine_mandato": "23 agosto 1982",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Guido Bodrato (1933-2023)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini II",
+      "inizio_mandato": "23 agosto 1982",
+      "fine_mandato": "1º dicembre 1982",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franca Falcucci (1926-2014)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani V",
+      "inizio_mandato": "1º dicembre 1982",
+      "fine_mandato": "4 agosto 1983",
+      "legislatura": "VIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franca Falcucci (1926-2014)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi I",
+      "inizio_mandato": "4 agosto 1983",
+      "fine_mandato": "1º agosto 1986",
+      "legislatura": "IX",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franca Falcucci (1926-2014)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi II",
+      "inizio_mandato": "1º agosto 1986",
+      "fine_mandato": "18 aprile 1987",
+      "legislatura": "IX",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Franca Falcucci (1926-2014)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI",
+      "inizio_mandato": "18 aprile 1987",
+      "fine_mandato": "29 luglio 1987",
+      "legislatura": "IX",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giovanni Galloni (1927-2018)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Goria",
+      "inizio_mandato": "29 luglio 1987",
+      "fine_mandato": "13 aprile 1988",
+      "legislatura": "X",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giovanni Galloni (1927-2018)",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Mita",
+      "inizio_mandato": "13 aprile 1988",
+      "fine_mandato": "23 luglio 1989",
+      "legislatura": "X",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Sergio Mattarella (1941)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "23 luglio 1989",
+      "fine_mandato": "27 luglio 1990",
+      "legislatura": "X",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Gerardo Bianco (1931-2022)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "27 luglio 1990",
+      "fine_mandato": "13 aprile 1991",
+      "legislatura": "X",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Riccardo Misasi (1932-2000)",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VII",
+      "inizio_mandato": "13 aprile 1991",
+      "fine_mandato": "28 giugno 1992",
+      "legislatura": "X",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Rosa Russo Iervolino (1936)",
+      "partito": "Democrazia Cristiana Partito Popolare Italiano",
+      "governo": "Amato I",
+      "inizio_mandato": "28 giugno 1992",
+      "fine_mandato": "29 aprile 1993",
+      "legislatura": "XI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Rosa Russo Iervolino (1936)",
+      "partito": "Democrazia Cristiana Partito Popolare Italiano",
+      "governo": "Ciampi",
+      "inizio_mandato": "29 aprile 1993",
+      "fine_mandato": "11 maggio 1994",
+      "legislatura": "XI",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Francesco D'Onofrio (1939)",
+      "partito": "Centro Cristiano Democratico",
+      "governo": "Berlusconi I",
+      "inizio_mandato": "11 maggio 1994",
+      "fine_mandato": "17 gennaio 1995",
+      "legislatura": "XII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giancarlo Lombardi (1937-2017)",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio_mandato": "17 gennaio 1995",
+      "fine_mandato": "18 maggio 1996",
+      "legislatura": "XII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Berlinguer (1932-2023)",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "Prodi I",
+      "inizio_mandato": "17 maggio 1996",
+      "fine_mandato": "21 ottobre 1998",
+      "legislatura": "XIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Berlinguer (1932-2023)",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "D'Alema I",
+      "inizio_mandato": "21 ottobre 1998",
+      "fine_mandato": "22 dicembre 1999",
+      "legislatura": "XIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Luigi Berlinguer (1932-2023)",
+      "partito": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "governo": "D'Alema II",
+      "inizio_mandato": "22 dicembre 1999",
+      "fine_mandato": "25 aprile 2000",
+      "legislatura": "XIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Tullio De Mauro (1932-2017)",
+      "partito": "Indipendente",
+      "governo": "Amato II",
+      "inizio_mandato": "26 aprile 2000",
+      "fine_mandato": "11 giugno 2001",
+      "legislatura": "XIII",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Giuseppe Fioroni (1958)",
+      "partito": "La Margherita Partito Democratico",
+      "governo": "Prodi II",
+      "inizio_mandato": "17 maggio 2006",
+      "fine_mandato": "8 maggio 2008",
+      "legislatura": "XV",
+      "denominazione_ministero": "Pubblica istruzione"
+    },
+    {
+      "ministro": "Lucia Azzolina (1982)",
+      "partito": "Movimento 5 Stelle",
+      "governo": "Conte II",
+      "inizio_mandato": "10 gennaio 2020",
+      "fine_mandato": "13 febbraio 2021",
+      "legislatura": "XVIII",
+      "denominazione_ministero": "Istruzione"
+    },
+    {
+      "ministro": "Patrizio Bianchi (1952)",
+      "partito": "Indipendente",
+      "governo": "Draghi",
+      "inizio_mandato": "13 febbraio 2021",
+      "fine_mandato": "22 ottobre 2022",
+      "legislatura": "XVIII",
+      "denominazione_ministero": "Istruzione"
+    },
+    {
+      "ministro": "Giuseppe Valditara (1961)",
+      "partito": "Lega per Salvini Premier",
+      "governo": "Meloni",
+      "inizio_mandato": "22 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XIX",
+      "denominazione_ministero": "Istruzione e merito"
+    }
+  ],
+  "meta": {
+    "title": "Ministri dell'istruzione della Repubblica Italiana - Free Download",
+    "description": "Ministri della pubblica istruzione e dell'istruzione della Repubblica Italiana con partito, governo, durata del mandato e legislatura. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri dell'istruzione della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri dell'istruzione della Repubblica Italiana — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_dell'istruzione_della_Repubblica_Italiana"
+    ]
+  }
+}

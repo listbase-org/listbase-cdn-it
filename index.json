@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-12T02:07:41.344Z",
-  "total_datasets": 540,
-  "total_records": 143892,
+  "generated": "2026-11-12T02:07:56.116Z",
+  "total_datasets": 541,
+  "total_records": 143955,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -579,6 +579,34 @@
         "xlsx": {
           "name": "it-accademie-di-belle-arti_IT.xlsx",
           "size": 7834
+        }
+      }
+    },
+    {
+      "id": "it-ministri-istruzione",
+      "name": "Ministri dell'istruzione della Repubblica Italiana",
+      "category": "education",
+      "record_count": 63,
+      "columns": [
+        "ministro",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura",
+        "denominazione_ministero"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_dell'istruzione_della_Repubblica_Italiana",
+      "updated": "2026-11",
+      "size": 21004,
+      "files": {
+        "csv": {
+          "name": "it-ministri-istruzione_IT.csv",
+          "size": 8262
+        },
+        "xlsx": {
+          "name": "it-ministri-istruzione_IT.xlsx",
+          "size": 10145
         }
       }
     },
