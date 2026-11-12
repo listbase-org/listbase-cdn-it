@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-12T02:08:06.798Z",
-  "total_datasets": 542,
-  "total_records": 143995,
+  "generated": "2026-11-12T02:08:22.382Z",
+  "total_datasets": 543,
+  "total_records": 144072,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -838,6 +838,37 @@
         "xlsx": {
           "name": "it-sanremo-ascolti-tv_IT.xlsx",
           "size": 7923
+        }
+      }
+    },
+    {
+      "id": "it-sanremo-edizioni",
+      "name": "Festival di Sanremo — edizioni, conduttori e sedi",
+      "category": "entertainment",
+      "record_count": 77,
+      "columns": [
+        "edizione",
+        "anno",
+        "periodo",
+        "serate",
+        "artisti_campioni",
+        "canzoni_campioni",
+        "nuove_proposte",
+        "conduzione",
+        "direzione_artistica",
+        "sede"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Festival_di_Sanremo",
+      "updated": "2026-11",
+      "size": 28377,
+      "files": {
+        "csv": {
+          "name": "it-sanremo-edizioni_IT.csv",
+          "size": 9453
+        },
+        "xlsx": {
+          "name": "it-sanremo-edizioni_IT.xlsx",
+          "size": 11559
         }
       }
     },
