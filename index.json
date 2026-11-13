@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-13T02:13:15.087Z",
-  "total_datasets": 544,
-  "total_records": 144345,
+  "generated": "2026-11-13T02:13:25.614Z",
+  "total_datasets": 545,
+  "total_records": 144723,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -17048,6 +17048,31 @@
         "xlsx": {
           "name": "it-bandiere-arancioni_IT.xlsx",
           "size": 14121
+        }
+      }
+    },
+    {
+      "id": "it-borghi-piu-belli-d-italia",
+      "name": "I Borghi più belli d'Italia",
+      "category": "tourism",
+      "record_count": 378,
+      "columns": [
+        "borgo",
+        "provincia",
+        "regione",
+        "area"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Borghi_più_belli_d'Italia",
+      "updated": "2026-11",
+      "size": 50439,
+      "files": {
+        "csv": {
+          "name": "it-borghi-piu-belli-d-italia_IT.csv",
+          "size": 18288
+        },
+        "xlsx": {
+          "name": "it-borghi-piu-belli-d-italia_IT.xlsx",
+          "size": 17118
         }
       }
     },

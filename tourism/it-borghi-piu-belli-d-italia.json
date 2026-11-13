@@ -1,0 +1,2314 @@
+{
+  "id": "it-borghi-piu-belli-d-italia",
+  "name": "I Borghi più belli d'Italia",
+  "title": "I Borghi più belli d'Italia",
+  "description": "Elenco dei comuni e delle frazioni che fanno parte del club «I Borghi più belli d'Italia», con provincia, regione e area geografica.",
+  "category": "tourism",
+  "source": "https://it.wikipedia.org/wiki/Borghi_più_belli_d'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Borghi_più_belli_d'Italia",
+  "updated": "2026-11",
+  "record_count": 378,
+  "columns": [
+    {
+      "key": "borgo",
+      "label": "Borgo",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "borgo": "Bard",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Étroubles",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Fontainemore",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cella Monte",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Garbagna",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Volpedo",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castagnole delle Lanze",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cocconato",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Mombaldone",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Ricetto di Candelo (comune di Candelo)",
+      "provincia": "Biella",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Rosazza",
+      "provincia": "Biella",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Barolo",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Chianale (frazione di Pontechianale)",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Garessio",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Guarene",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Monforte d'Alba",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Neive",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Ostana",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Orta San Giulio",
+      "provincia": "Novara",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Ingria",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Usseaux",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Vogogna",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Rassa",
+      "provincia": "Vercelli",
+      "regione": "Piemonte",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Campo Ligure",
+      "provincia": "Genova",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Moneglia",
+      "provincia": "Genova",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Apricale",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Badalucco",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Ceriana",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cervo",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Diano Castello",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Lingueglietta (frazione di Cipressa)",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Perinaldo",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Pieve di Teco",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Seborga",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Taggia",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Triora",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castelvecchio di Rocca Barbena",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Celle Ligure",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Colletta (frazione di Castelbianco)",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Finalborgo (rione di Finale Ligure)",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Laigueglia",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Millesimo",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Noli",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Verezzi (frazione di Borgio Verezzi)",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Zuccarello",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Brugnato",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Deiva Marina",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Framura",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Montemarcello (frazione di Ameglia)",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Tellaro (frazione di Lerici)",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Varese Ligure",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Vernazza",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Clusone",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cornello dei Tasso (frazione di Camerata Cornello)",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Gromo",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Lovere",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bagolino",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bienno",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Gardone Riviera",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Limone sul Garda",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Monte Isola",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Tremosine sul Garda",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Tremezzo (frazione di Tremezzina)",
+      "provincia": "Como",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castelponzone (frazione di Scandolara Ravara)",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Gradella (frazione di Pandino)",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Soncino",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bellano",
+      "provincia": "Lecco",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castellaro Lagusello (frazione di Monzambano)",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Grazie (frazione di Curtatone)",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Pomponesco",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Sabbioneta",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Benedetto Po",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cassinetta di Lugagnano",
+      "provincia": "Milano",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Morimondo",
+      "provincia": "Milano",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Fortunago",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Golferenzo",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Varzi",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Zavattarello",
+      "provincia": "Pavia",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Maccagno Imperiale",
+      "provincia": "Varese",
+      "regione": "Lombardia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castelrotto",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Chiusa",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Egna",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Glorenza",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Vipiteno",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bondone",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Borgo Valsugana",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Caldes",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Canale (contrada di Tenno)",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Luserna",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Mezzano",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Ossana",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Pieve Tesino",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Rango (frazione di Bleggio Superiore)",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Lorenzo in Banale (centro abitato di San Lorenzo Dorsino)",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Giovanni di Fassa (Sèn Jan di Fassa)",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Arquà Petrarca",
+      "provincia": "Padova",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Montagnana",
+      "provincia": "Padova",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Mel (frazione di Borgo Valbelluna)",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Sottoguda (frazione di Rocca Pietore)",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Asolo",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cison di Valmarino",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Follina",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Portobuffolé",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Borghetto (frazione di Valeggio sul Mincio)",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Malcesine",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Giorgio (frazione di Sant'Ambrogio di Valpolicella)",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Gradisca d'Isonzo",
+      "provincia": "Gorizia",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Cordovado",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Poffabro (frazione di Frisanco)",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Polcenigo",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Sesto al Reghena",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Spilimbergo",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Toppo (frazione di Travesio)",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Valvasone Arzene",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Clauiano (frazione di Trivignano Udinese)",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Fagagna",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Palmanova",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Sappada Vecchia (insieme di borgate di Sappada)",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Strassoldo (frazione di Cervignano del Friuli)",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Venzone",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Dozza",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bagno di Romagna",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bertinoro",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castelvetro di Modena",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Fiumalbo",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Compiano",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Montechiarugolo",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bobbio",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Castell'Arquato",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Vigoleno (frazione di Vernasca)",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Bagnara di Romagna",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Brisighella",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Montefiore Conca",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Montegridolfo",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Giovanni in Marignano",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "San Leo",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Verucchio",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Gualtieri",
+      "provincia": "Reggio nell'Emilia",
+      "regione": "Emilia-Romagna",
+      "area": "Nord"
+    },
+    {
+      "borgo": "Anghiari",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castelfranco di Sopra (capoluogo di Castelfranco Piandiscò)",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Loro Ciuffenna",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Lucignano",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Poppi",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Raggiolo (frazione di Ortignano Raggiolo)",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montaione",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montefioralle (frazione di Greve in Chianti)",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Palazzuolo sul Senio",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "San Donato in Poggio (frazione di Barberino Tavarnelle)",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Scarperia e San Piero",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Capalbio",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Giglio Castello (frazione di Isola del Giglio)",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montemerano (frazione di Manciano)",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pitigliano",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Porto Ercole (frazione di Monte Argentario)",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Santa Fiora",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sovana (frazione di Sorano)",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Campiglia Marittima",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Populonia (frazione di Piombino)",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Suvereto",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Barga",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castiglione di Garfagnana",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Coreglia Antelminelli",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Mulazzo",
+      "provincia": "Massa-Carrara",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Casale Marittimo",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montescudaio",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Buonconvento",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Cetona",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "San Casciano dei Bagni",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Arcevia",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Corinaldo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Offagna",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Morro d'Alba",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sassoferrato",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Grottammare",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montefiore dell'Aso",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Offida",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Monteprandone",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Ripatransone",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Moresco",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Servigliano",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Torre di Palme (frazione di Fermo)",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Cingoli",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Esanatoglia",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montecassiano",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montecosaro",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montelupone",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "San Ginesio",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sarnano",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Treia",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Visso",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Fiorenzuola di Focara (frazione di Pesaro)",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Frontino",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Gradara",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Macerata Feltria",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Mercatello sul Metauro",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Mondavio",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Mondolfo",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montefabbri (frazione di Vallefoglia)",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Monte Grimano Terme",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pergola",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Bettona",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Bevagna",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castiglione del Lago",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Citerna",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Corciano",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Deruta",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Giano dell'Umbria",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Massa Martana",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Monte Castello di Vibio",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montefalco",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Monteleone di Spoleto",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montone",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Nocera Umbra",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Norcia",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Paciano",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Panicale",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Passignano sul Trasimeno",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Preci",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Rasiglia (frazione di Foligno)",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Scheggino",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sellano",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Spello",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Torgiano",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Trevi",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Vallo di Nera",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Acquasparta",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Allerona",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Arrone",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Lugnano in Teverina",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Montecchio",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Monteleone d'Orvieto",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "San Gemini",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Stroncone",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Atina Superiore",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Boville Ernica",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castro dei Volsci",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pico",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Gaeta Medievale",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "San Felice Circeo",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sperlonga",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Capranica Prenestina",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castel Gandolfo",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castel San Pietro Romano",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castelnuovo di Porto",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Nemi",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Percile",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Subiaco",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Amatrice",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castel di Tora",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Collalto Sabino",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Foglia (frazione di Magliano Sabina)",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Greccio",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Orvinio",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Bassano in Teverina",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Civita (frazione di Bagnoregio)",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Ronciglione",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sutri",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Torre Alfina (frazione di Acquapendente)",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Vitorchiano",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Anversa degli Abruzzi",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Bugnara",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castel del Monte",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Introdacqua",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Navelli",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Opi",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pacentro",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pescocostanzo",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pettorano sul Gizio",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Santo Stefano di Sessanio",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Scanno",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Tagliacozzo",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Villalago",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Casoli",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Crecchio",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Guardiagrele",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Palena",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pretoro",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Rocca San Giovanni",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Abbateggio",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Caramanico Terme",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Città Sant'Angelo",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Penne",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Campli",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Castelli",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Civitella del Tronto",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Pietracamela",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Oratino",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Sepino",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Fornelli",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Frosolone",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Centro"
+    },
+    {
+      "borgo": "Frigento",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Gesualdo",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Monteverde",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Nusco",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Savignano Irpino",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Summonte",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Zungoli",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Cusano Mutri",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Montesarchio",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Albori (frazione di Vietri sul Mare)",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Atrani",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castellabate",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Conca dei Marini",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Furore",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Gravina in Puglia",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Locorotondo",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Sammichele di Bari",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Cisternino",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Alberona",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Bovino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Monte Sant'Angelo",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Pietramontecorvino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Roseto Valfortore",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Vico del Gargano",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Otranto",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Presicce-Acquarica",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Specchia",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Maruggio",
+      "provincia": "Taranto",
+      "regione": "Puglia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Irsina",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Miglionico",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Acerenza",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castelmezzano",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Guardia Perticara",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Maratea",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Pietrapertosa",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Rivello",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Venosa",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Viggianello",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Badolato",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Aieta",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Altomonte",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Buonvicino",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Civita",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Fiumefreddo Bruzio",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Morano Calabro",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Oriolo",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Rocca Imperiale",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Trebisacce",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Caccuri",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Santa Severina",
+      "provincia": "Crotone",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Bova",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Gerace",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Stilo",
+      "provincia": "Reggio di Calabria",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Tropea",
+      "provincia": "Vibo Valentia",
+      "regione": "Calabria",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Atzara",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Lollove (frazione di Nuoro)",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Posada",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Bosa",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castelsardo",
+      "provincia": "Sassari",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "La Maddalena",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Tempio Pausania",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Carloforte",
+      "provincia": "Sulcis Iglesiente",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Sadali",
+      "provincia": "Cagliari",
+      "regione": "Sardegna",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Sambuca di Sicilia",
+      "provincia": "Agrigento",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Sutera",
+      "provincia": "Caltanissetta",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castiglione di Sicilia",
+      "provincia": "Catania",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Militello in Val di Catania",
+      "provincia": "Catania",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Agira",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Calascibetta",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Sperlinga",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Troina",
+      "provincia": "Enna",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castelmola",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Castroreale",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Forza d'Agrò",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Montalbano Elicona",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Novara di Sicilia",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "San Marco d'Alunzio",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Savoca",
+      "provincia": "Messina",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Cefalù",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Gangi",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Geraci Siculo",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Petralia Soprana",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Monterosso Almo",
+      "provincia": "Ragusa",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Buccheri",
+      "provincia": "Siracusa",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Ferla",
+      "provincia": "Siracusa",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Palazzolo Acreide",
+      "provincia": "Siracusa",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Erice",
+      "provincia": "Trapani",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    },
+    {
+      "borgo": "Salemi",
+      "provincia": "Trapani",
+      "regione": "Sicilia",
+      "area": "Sud e Isole"
+    }
+  ],
+  "meta": {
+    "title": "I Borghi più belli d'Italia - Free Download",
+    "description": "Elenco dei comuni e delle frazioni che fanno parte del club «I Borghi più belli d'Italia», con provincia, regione e area geografica. Contains 378 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "I Borghi più belli d'Italia | ListBase",
+    "seo_description": "Download I Borghi più belli d'Italia — 378 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 378 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Borghi_più_belli_d'Italia"
+    ]
+  }
+}
