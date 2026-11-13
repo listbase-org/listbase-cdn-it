@@ -1,0 +1,776 @@
+{
+  "id": "it-presidenti-camera-dei-deputati",
+  "name": "Presidenti della Camera dei deputati",
+  "title": "Presidenti della Camera dei deputati",
+  "description": "Presidenti della Camera dei deputati del Regno d'Italia, della Consulta, dell'Assemblea Costituente e della Repubblica Italiana, con partito, mandato e legislatura.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_della_Camera_dei_deputati_(Italia)",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_della_Camera_dei_deputati_(Italia)",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "n",
+      "label": "N",
+      "type": "number"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "nascita_morte",
+      "label": "Nascita Morte",
+      "type": "string"
+    },
+    {
+      "key": "collocazione_politica",
+      "label": "Collocazione Politica",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "n": "1",
+      "presidente": "Urbano Rattazzi",
+      "nascita_morte": "1808-1873",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "7 marzo 1861",
+      "fine_mandato": "3 marzo 1862",
+      "legislatura": "VIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "2",
+      "presidente": "Sebastiano Tecchio",
+      "nascita_morte": "1807-1886",
+      "collocazione_politica": "–",
+      "inizio_mandato": "22 marzo 1862",
+      "fine_mandato": "21 maggio 1863",
+      "legislatura": "VIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "3",
+      "presidente": "Giovanni Battista Cassinis",
+      "nascita_morte": "1806-1866",
+      "collocazione_politica": "–",
+      "inizio_mandato": "21 maggio 1863",
+      "fine_mandato": "7 settembre 1865",
+      "legislatura": "VIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "4",
+      "presidente": "Adriano Mari",
+      "nascita_morte": "1813-1887",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "18 novembre 1865",
+      "fine_mandato": "13 febbraio 1867",
+      "legislatura": "IX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "4",
+      "presidente": "Adriano Mari",
+      "nascita_morte": "1813-1887",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "22 marzo 1867",
+      "fine_mandato": "27 ottobre 1867",
+      "legislatura": "X",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "5",
+      "presidente": "Giovanni Lanza",
+      "nascita_morte": "1810-1882",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "16 dicembre 1867",
+      "fine_mandato": "8 agosto 1868",
+      "legislatura": "X",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(4)",
+      "presidente": "Adriano Mari",
+      "nascita_morte": "1813-1887",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "25 novembre 1868",
+      "fine_mandato": "14 agosto 1869",
+      "legislatura": "X",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(5)",
+      "presidente": "Giovanni Lanza",
+      "nascita_morte": "1810-1882",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "18 novembre 1869",
+      "fine_mandato": "15 dicembre 1869",
+      "legislatura": "X",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "6",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "12 marzo 1870",
+      "fine_mandato": "2 novembre 1870",
+      "legislatura": "X",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "6",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "5 dicembre 1870",
+      "fine_mandato": "20 settembre 1874",
+      "legislatura": "XI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "6",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "23 novembre 1874",
+      "fine_mandato": "3 ottobre 1876",
+      "legislatura": "XII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "7",
+      "presidente": "Francesco Crispi",
+      "nascita_morte": "1818-1901",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "26 novembre 1876",
+      "fine_mandato": "26 dicembre 1877",
+      "legislatura": "XIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "8",
+      "presidente": "Benedetto Cairoli",
+      "nascita_morte": "1825-1889",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "7 marzo 1878",
+      "fine_mandato": "24 marzo 1878",
+      "legislatura": "XIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "9",
+      "presidente": "Domenico Farini",
+      "nascita_morte": "1834-1900",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "27 marzo 1878",
+      "fine_mandato": "19 marzo 1880",
+      "legislatura": "XIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "10",
+      "presidente": "Michele Coppino",
+      "nascita_morte": "1822-1901",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "13 aprile 1880",
+      "fine_mandato": "2 maggio 1880",
+      "legislatura": "XIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(9)",
+      "presidente": "Domenico Farini",
+      "nascita_morte": "1834-1900",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "26 maggio 1880",
+      "fine_mandato": "25 settembre 1882",
+      "legislatura": "XIV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(9)",
+      "presidente": "Domenico Farini",
+      "nascita_morte": "1834-1900",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "22 novembre 1882",
+      "fine_mandato": "12 marzo 1884",
+      "legislatura": "XV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(10)",
+      "presidente": "Michele Coppino",
+      "nascita_morte": "1822-1901",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "19 marzo 1884",
+      "fine_mandato": "3 aprile 1884",
+      "legislatura": "XV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "7 aprile 1884",
+      "fine_mandato": "27 aprile 1886",
+      "legislatura": "XV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "10 giugno 1886",
+      "fine_mandato": "3 agosto 1890",
+      "legislatura": "XVI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "10 dicembre 1890",
+      "fine_mandato": "27 settembre 1892",
+      "legislatura": "XVII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "11",
+      "presidente": "Giuseppe Zanardelli",
+      "nascita_morte": "1826-1903",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "23 novembre 1892",
+      "fine_mandato": "20 febbraio 1894",
+      "legislatura": "XVIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "22 febbraio 1894",
+      "fine_mandato": "13 gennaio 1895",
+      "legislatura": "XVIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "12",
+      "presidente": "Tommaso Villa",
+      "nascita_morte": "1832-1915",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "10 giugno 1895",
+      "fine_mandato": "2 marzo 1897",
+      "legislatura": "XIX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(11)",
+      "presidente": "Giuseppe Zanardelli",
+      "nascita_morte": "1826-1903",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "5 aprile 1897",
+      "fine_mandato": "14 dicembre 1897",
+      "legislatura": "XX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "26 gennaio 1898",
+      "fine_mandato": "15 luglio 1898",
+      "legislatura": "XX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(11)",
+      "presidente": "Giuseppe Zanardelli",
+      "nascita_morte": "1826-1903",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "16 novembre 1898",
+      "fine_mandato": "25 maggio 1899",
+      "legislatura": "XX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "13",
+      "presidente": "Luigi Chinaglia",
+      "nascita_morte": "1841-1906",
+      "collocazione_politica": "–",
+      "inizio_mandato": "30 maggio 1899",
+      "fine_mandato": "25 giugno 1899",
+      "legislatura": "XX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "14",
+      "presidente": "Giuseppe Colombo",
+      "nascita_morte": "1836-1921",
+      "collocazione_politica": "Indipendente",
+      "inizio_mandato": "14 novembre 1899",
+      "fine_mandato": "17 maggio 1900",
+      "legislatura": "XX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "15",
+      "presidente": "Nicolò Gallo",
+      "nascita_morte": "1849-1907",
+      "collocazione_politica": "Sinistra storica",
+      "inizio_mandato": "16 giugno 1900",
+      "fine_mandato": "24 giugno 1900",
+      "legislatura": "XXI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(12)",
+      "presidente": "Tommaso Villa",
+      "nascita_morte": "1832-1915",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "28 giugno 1900",
+      "fine_mandato": "22 febbraio 1902",
+      "legislatura": "XXI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "10 marzo 1902",
+      "fine_mandato": "18 ottobre 1904",
+      "legislatura": "XXI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "16",
+      "presidente": "Giuseppe Marcora",
+      "nascita_morte": "1841-1927",
+      "collocazione_politica": "Partito Radicale Italiano",
+      "inizio_mandato": "30 novembre 1904",
+      "fine_mandato": "10 marzo 1906",
+      "legislatura": "XXII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(6)",
+      "presidente": "Giuseppe Biancheri",
+      "nascita_morte": "1821-1908",
+      "collocazione_politica": "Destra storica",
+      "inizio_mandato": "10 marzo 1906",
+      "fine_mandato": "30 gennaio 1907",
+      "legislatura": "XXII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(16)",
+      "presidente": "Giuseppe Marcora",
+      "nascita_morte": "1841-1927",
+      "collocazione_politica": "Partito Radicale Italiano",
+      "inizio_mandato": "2 febbraio 1907",
+      "fine_mandato": "8 febbraio 1909",
+      "legislatura": "XXII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(16)",
+      "presidente": "Giuseppe Marcora",
+      "nascita_morte": "1841-1927",
+      "collocazione_politica": "Partito Radicale Italiano",
+      "inizio_mandato": "24 marzo 1909",
+      "fine_mandato": "29 settembre 1913",
+      "legislatura": "XXIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "(16)",
+      "presidente": "Giuseppe Marcora",
+      "nascita_morte": "1841-1927",
+      "collocazione_politica": "Partito Radicale Italiano",
+      "inizio_mandato": "24 novembre 1913",
+      "fine_mandato": "29 settembre 1919",
+      "legislatura": "XXIV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "17",
+      "presidente": "Vittorio Emanuele Orlando",
+      "nascita_morte": "1860-1952",
+      "collocazione_politica": "Partito Liberale Democratico",
+      "inizio_mandato": "1º dicembre 1919",
+      "fine_mandato": "25 giugno 1920",
+      "legislatura": "XXV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "18",
+      "presidente": "Enrico De Nicola",
+      "nascita_morte": "1877-1959",
+      "collocazione_politica": "Partito Liberale Italiano",
+      "inizio_mandato": "26 giugno 1920",
+      "fine_mandato": "7 aprile 1921",
+      "legislatura": "XXV",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "18",
+      "presidente": "Enrico De Nicola",
+      "nascita_morte": "1877-1959",
+      "collocazione_politica": "Partito Liberale Italiano",
+      "inizio_mandato": "11 giugno 1921",
+      "fine_mandato": "25 gennaio 1924",
+      "legislatura": "XXVI",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "19",
+      "presidente": "Alfredo Rocco",
+      "nascita_morte": "1875-1935",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "24 maggio 1924",
+      "fine_mandato": "5 gennaio 1925",
+      "legislatura": "XXVII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "20",
+      "presidente": "Antonio Casertano",
+      "nascita_morte": "1863-1939",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "13 gennaio 1925",
+      "fine_mandato": "25 gennaio 1929",
+      "legislatura": "XXVII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "21",
+      "presidente": "Giovanni Giuriati",
+      "nascita_morte": "1876-1970",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "20 aprile 1929",
+      "fine_mandato": "19 gennaio 1934",
+      "legislatura": "XXVIII",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "22",
+      "presidente": "Costanzo Ciano",
+      "nascita_morte": "1876-1939",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "28 aprile 1934",
+      "fine_mandato": "2 marzo 1939",
+      "legislatura": "XXIX",
+      "periodo": "Presidenti della Camera dei deputati del Regno d'Italia (1861-1939)"
+    },
+    {
+      "n": "1",
+      "presidente": "Costanzo Ciano",
+      "nascita_morte": "1876-1939",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "23 marzo 1939",
+      "fine_mandato": "26 giugno 1939",
+      "legislatura": "XXX",
+      "periodo": "Presidenti della Camera dei fasci e delle corporazioni (1939-1943)"
+    },
+    {
+      "n": "2",
+      "presidente": "Dino Grandi",
+      "nascita_morte": "1895-1988",
+      "collocazione_politica": "Partito Nazionale Fascista",
+      "inizio_mandato": "30 novembre 1939",
+      "fine_mandato": "2 agosto 1943",
+      "legislatura": "XXX",
+      "periodo": "Presidenti della Camera dei fasci e delle corporazioni (1939-1943)"
+    },
+    {
+      "n": "1",
+      "presidente": "Carlo Sforza",
+      "nascita_morte": "1872-1952",
+      "collocazione_politica": "Partito Repubblicano Italiano",
+      "inizio_mandato": "25 settembre 1945",
+      "fine_mandato": "1º giugno 1946",
+      "legislatura": "CN",
+      "periodo": "Presidenti della Consulta nazionale (1945-1946)"
+    },
+    {
+      "n": "1",
+      "presidente": "Giuseppe Saragat",
+      "nascita_morte": "1898-1988",
+      "collocazione_politica": "Partito Socialista Italiano",
+      "inizio_mandato": "25 giugno 1946",
+      "fine_mandato": "6 febbraio 1947",
+      "legislatura": "AC",
+      "periodo": "Presidenti dell'Assemblea Costituente (1946-1948)"
+    },
+    {
+      "n": "2",
+      "presidente": "Umberto Terracini",
+      "nascita_morte": "1895-1983",
+      "collocazione_politica": "Partito Comunista Italiano",
+      "inizio_mandato": "8 febbraio 1947",
+      "fine_mandato": "31 gennaio 1948",
+      "legislatura": "AC",
+      "periodo": "Presidenti dell'Assemblea Costituente (1946-1948)"
+    },
+    {
+      "n": "1",
+      "presidente": "Giovanni Gronchi",
+      "nascita_morte": "1887-1978",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "8 maggio 1948",
+      "fine_mandato": "24 giugno 1953",
+      "legislatura": "I (1948)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "1",
+      "presidente": "Giovanni Gronchi",
+      "nascita_morte": "1887-1978",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "24 giugno 1953",
+      "fine_mandato": "29 aprile 1955",
+      "legislatura": "II (1953)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "2",
+      "presidente": "Giovanni Leone",
+      "nascita_morte": "1908-2001",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "10 maggio 1955",
+      "fine_mandato": "11 giugno 1958",
+      "legislatura": "II (1953)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "2",
+      "presidente": "Giovanni Leone",
+      "nascita_morte": "1908-2001",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "12 giugno 1958",
+      "fine_mandato": "15 maggio 1963",
+      "legislatura": "III (1958)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "2",
+      "presidente": "Giovanni Leone",
+      "nascita_morte": "1908-2001",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "16 maggio 1963",
+      "fine_mandato": "21 giugno 1963",
+      "legislatura": "IV (1963)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "3",
+      "presidente": "Brunetto Bucciarelli-Ducci",
+      "nascita_morte": "1914-1994",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "26 giugno 1963",
+      "fine_mandato": "14 maggio 1968",
+      "legislatura": "IV (1963)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "4",
+      "presidente": "Sandro Pertini",
+      "nascita_morte": "1896-1990",
+      "collocazione_politica": "Partito Socialista Italiano",
+      "inizio_mandato": "5 giugno 1968",
+      "fine_mandato": "24 maggio 1972",
+      "legislatura": "V (1968)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "4",
+      "presidente": "Sandro Pertini",
+      "nascita_morte": "1896-1990",
+      "collocazione_politica": "Partito Socialista Italiano",
+      "inizio_mandato": "25 maggio 1972",
+      "fine_mandato": "4 luglio 1976",
+      "legislatura": "VI (1972)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "5",
+      "presidente": "Pietro Ingrao",
+      "nascita_morte": "1915-2015",
+      "collocazione_politica": "Partito Comunista Italiano",
+      "inizio_mandato": "5 luglio 1976",
+      "fine_mandato": "19 giugno 1979",
+      "legislatura": "VII (1976)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "6",
+      "presidente": "Nilde Iotti",
+      "nascita_morte": "1920-1999",
+      "collocazione_politica": "Partito Comunista Italiano Partito Democratico della Sinistra",
+      "inizio_mandato": "20 giugno 1979",
+      "fine_mandato": "11 luglio 1983",
+      "legislatura": "VIII (1979)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "6",
+      "presidente": "Nilde Iotti",
+      "nascita_morte": "1920-1999",
+      "collocazione_politica": "Partito Comunista Italiano Partito Democratico della Sinistra",
+      "inizio_mandato": "12 luglio 1983",
+      "fine_mandato": "1º luglio 1987",
+      "legislatura": "IX (1983)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "6",
+      "presidente": "Nilde Iotti",
+      "nascita_morte": "1920-1999",
+      "collocazione_politica": "Partito Comunista Italiano Partito Democratico della Sinistra",
+      "inizio_mandato": "2 luglio 1987",
+      "fine_mandato": "22 aprile 1992",
+      "legislatura": "X (1987)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "7",
+      "presidente": "Oscar Luigi Scalfaro",
+      "nascita_morte": "1918-2012",
+      "collocazione_politica": "Democrazia Cristiana",
+      "inizio_mandato": "24 aprile 1992",
+      "fine_mandato": "25 maggio 1992",
+      "legislatura": "XI (1992)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "8",
+      "presidente": "Giorgio Napolitano",
+      "nascita_morte": "1925-2023",
+      "collocazione_politica": "Partito Democratico della Sinistra",
+      "inizio_mandato": "3 giugno 1992",
+      "fine_mandato": "14 aprile 1994",
+      "legislatura": "XI (1992)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "9",
+      "presidente": "Irene Pivetti",
+      "nascita_morte": "1963",
+      "collocazione_politica": "Lega Nord",
+      "inizio_mandato": "16 aprile 1994",
+      "fine_mandato": "8 maggio 1996",
+      "legislatura": "XII (1994)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "10",
+      "presidente": "Luciano Violante",
+      "nascita_morte": "1941",
+      "collocazione_politica": "Partito Democratico della Sinistra Democratici di Sinistra",
+      "inizio_mandato": "10 maggio 1996",
+      "fine_mandato": "29 maggio 2001",
+      "legislatura": "XIII (1996)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "11",
+      "presidente": "Pier Ferdinando Casini",
+      "nascita_morte": "1955",
+      "collocazione_politica": "Centro Cristiano Democratico Unione di Centro",
+      "inizio_mandato": "31 maggio 2001",
+      "fine_mandato": "27 aprile 2006",
+      "legislatura": "XIV (2001)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "12",
+      "presidente": "Fausto Bertinotti",
+      "nascita_morte": "1940",
+      "collocazione_politica": "Rifondazione Comunista",
+      "inizio_mandato": "29 aprile 2006",
+      "fine_mandato": "28 aprile 2008",
+      "legislatura": "XV (2006)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "13",
+      "presidente": "Gianfranco Fini",
+      "nascita_morte": "1952",
+      "collocazione_politica": "Alleanza Nazionale Il Popolo della Libertà Futuro e Libertà per l'Italia",
+      "inizio_mandato": "30 aprile 2008",
+      "fine_mandato": "14 marzo 2013",
+      "legislatura": "XVI (2008)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "14",
+      "presidente": "Laura Boldrini",
+      "nascita_morte": "1961",
+      "collocazione_politica": "Sinistra Ecologia Libertà Sinistra Italiana",
+      "inizio_mandato": "16 marzo 2013",
+      "fine_mandato": "22 marzo 2018",
+      "legislatura": "XVII (2013)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "15",
+      "presidente": "Roberto Fico",
+      "nascita_morte": "1974",
+      "collocazione_politica": "Movimento 5 Stelle",
+      "inizio_mandato": "24 marzo 2018",
+      "fine_mandato": "12 ottobre 2022",
+      "legislatura": "XVIII (2018)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    },
+    {
+      "n": "16",
+      "presidente": "Lorenzo Fontana",
+      "nascita_morte": "1980",
+      "collocazione_politica": "Lega per Salvini Premier",
+      "inizio_mandato": "14 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XIX (2022)",
+      "periodo": "Presidenti della Camera dei deputati della Repubblica Italiana (dal 1948)"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti della Camera dei deputati - Free Download",
+    "description": "Presidenti della Camera dei deputati del Regno d'Italia, della Consulta, dell'Assemblea Costituente e della Repubblica Italiana, con partito, mandato e legislatura. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti della Camera dei deputati | ListBase",
+    "seo_description": "Download Presidenti della Camera dei deputati — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_della_Camera_dei_deputati_(Italia)"
+    ]
+  }
+}

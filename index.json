@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-13T02:13:25.614Z",
-  "total_datasets": 545,
-  "total_records": 144723,
+  "generated": "2026-11-13T02:13:37.325Z",
+  "total_datasets": 546,
+  "total_records": 144794,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -2514,6 +2514,35 @@
         "xlsx": {
           "name": "it-partiti-politici_IT.xlsx",
           "size": 14140
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-camera-dei-deputati",
+      "name": "Presidenti della Camera dei deputati",
+      "category": "politics",
+      "record_count": 71,
+      "columns": [
+        "n",
+        "presidente",
+        "nascita_morte",
+        "collocazione_politica",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura",
+        "periodo"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_della_Camera_dei_deputati_(Italia)",
+      "updated": "2026-11",
+      "size": 27938,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-camera-dei-deputati_IT.csv",
+          "size": 12489
+        },
+        "xlsx": {
+          "name": "it-presidenti-camera-dei-deputati_IT.xlsx",
+          "size": 11346
         }
       }
     },
