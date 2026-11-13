@@ -1,0 +1,1684 @@
+{
+  "id": "it-bandiere-arancioni",
+  "name": "Località Bandiera arancione del Touring Club Italiano",
+  "title": "Località Bandiera arancione del Touring Club Italiano",
+  "description": "Piccoli comuni dell'entroterra insigniti della Bandiera arancione, il marchio di qualità turistico-ambientale del Touring Club Italiano, con provincia, regione e area.",
+  "category": "tourism",
+  "source": "https://it.wikipedia.org/wiki/Bandiera_arancione",
+  "source_url": "https://it.wikipedia.org/wiki/Bandiera_arancione",
+  "updated": "2026-11",
+  "record_count": 273,
+  "columns": [
+    {
+      "key": "localita",
+      "label": "Localita",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "localita": "Etroubles",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Gressoney-Saint-Jean",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Introd",
+      "provincia": "Aosta",
+      "regione": "Valle d'Aosta",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Gavi",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Ozzano Monferrato",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Rosignano Monferrato",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Trisobbio",
+      "provincia": "Alessandria",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Canelli",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castagnole delle Lanze",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cocconato",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Moncalvo",
+      "provincia": "Asti",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Candelo",
+      "provincia": "Biella",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Barolo",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bene Vagienna",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bergolo",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cherasco",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Chiusa di Pesio",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Entracque",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Grinzane Cavour",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Guarene",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "La Morra",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Limone Piemonte",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Monforte d'Alba",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Neive",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Revello",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Orta San Giulio",
+      "provincia": "Novara",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Arona",
+      "provincia": "Novara",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Agliè",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Avigliana",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Fenestrelle",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Susa",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Usseaux",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Usseglio",
+      "provincia": "Torino",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cannero Riviera",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cannobio",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Macugnaga",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Malesco",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Mergozzo",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Santa Maria Maggiore",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Vogogna",
+      "provincia": "Verbano-Cusio-Ossola",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Alagna Valsesia",
+      "provincia": "Vercelli",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Fobello",
+      "provincia": "Vercelli",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Varallo",
+      "provincia": "Vercelli",
+      "regione": "Piemonte",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Santo Stefano d'Aveto",
+      "provincia": "Genova",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Airole",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Apricale",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Badalucco",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Dolceacqua",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Perinaldo",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Pigna",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Seborga",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Triora",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Vallebona",
+      "provincia": "Imperia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Brugnato",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castelnuovo Magra",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Pignone",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Varese Ligure",
+      "provincia": "La Spezia",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castelvecchio di Rocca Barbena",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Sassello",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Toirano",
+      "provincia": "Savona",
+      "regione": "Liguria",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Almenno San Bartolomeo",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Clusone",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Gromo",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Sarnico",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bienno",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Gardone Riviera",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Tignale",
+      "provincia": "Brescia",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Menaggio",
+      "provincia": "Como",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Torno",
+      "provincia": "Como",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Pizzighettone",
+      "provincia": "Cremona",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bellano",
+      "provincia": "Lecco",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castellaro Lagusello",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Ponti sul Mincio",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Sabbioneta",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Solferino",
+      "provincia": "Mantova",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Chiavenna",
+      "provincia": "Sondrio",
+      "regione": "Lombardia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Campo Tures/Sand in Taufers",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Vipiteno/Sterzing",
+      "provincia": "Bolzano",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Ala",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Caderzone Terme",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Ledro",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Levico Terme",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Molveno",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Tenno",
+      "provincia": "Trento",
+      "regione": "Trentino-Alto Adige",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Mel",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Rocca Pietore",
+      "provincia": "Belluno",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Arquà Petrarca",
+      "provincia": "Padova",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Montagnana",
+      "provincia": "Padova",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Asolo",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cison di Valmarino",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Portobuffolé",
+      "provincia": "Treviso",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Malcesine",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Soave",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Valeggio sul Mincio",
+      "provincia": "Verona",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Marostica",
+      "provincia": "Vicenza",
+      "regione": "Veneto",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Andreis",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Barcis",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Frisanco",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Maniago",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "San Vito al Tagliamento",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Cividale del Friuli",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Sappada",
+      "provincia": "Udine",
+      "regione": "Friuli-Venezia Giulia",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Pieve di Cento",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bagno di Romagna",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castrocaro Terme e Terra del Sole",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Longiano",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Monteleone (frazione di Roncofreddo)",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Portico e San Benedetto",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Premilcuore",
+      "provincia": "Forlì - Cesena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castelvetro di Modena",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Fanano",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Fiumalbo",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Sestola",
+      "provincia": "Modena",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Busseto",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Fontanellato",
+      "provincia": "Parma",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Bobbio",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Castell'Arquato",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Vigoleno (frazione di Vernasca)",
+      "provincia": "Piacenza",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Brisighella",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Montefiore Conca",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Pennabilli",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "San Leo",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Verucchio",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "area": "Italia settentrionale"
+    },
+    {
+      "localita": "Anghiari",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Castiglion Fiorentino",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Lucignano",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Barberino Val d'Elsa",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Certaldo",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Vinci",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Massa Marittima",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Pitigliano",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Santa Fiora",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Sorano",
+      "provincia": "Grosseto",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Suvereto",
+      "provincia": "Livorno",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Barga",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montecarlo",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Fosdinovo",
+      "provincia": "Massa e Carrara",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Casale Marittimo",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Casciana Terme Lari",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Castelnuovo di Val di Cecina",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montopoli in Val d'Arno",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Peccioli",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Pomarance",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Volterra",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Abetone Cutigliano",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Collodi (frazione di Pescia)",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Casole d'Elsa",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Castelnuovo Berardenga",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Cetona",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Chiusi",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montalcino",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montefollonico (frazione di Torrita di Siena)",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montepulciano",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Monteriggioni",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Murlo",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Pienza",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Radda in Chianti",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Radicofani",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "San Casciano dei Bagni",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "San Gimignano",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Sarteano",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Trequanda",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Bevagna",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Città della Pieve",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montefalco",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montone",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Nocera Umbra",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Norcia",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Panicale",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Spello",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Trevi",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Vallo di Nera",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Corinaldo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Genga",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Offagna",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Ostra",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Serra San Quirico",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Staffolo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Acquaviva Picena",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Ripatransone",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Amandola",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Monterubbiano",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Camerino",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montecassiano",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Montelupone",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "San Ginesio",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Sarnano",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Urbisaglia",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Valfornace",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Visso",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Apecchio",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Cantiano",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Frontino",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Frontone",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Gradara",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Mercatello sul Metauro",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Mondavio",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Urbania",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Arpino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Atina",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Castro dei Volsci",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Collepardo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Guarcino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Picinisco",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "San Donato Val di Comino",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Trevi nel Lazio",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Vico nel Lazio",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Bassiano",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Campodimele",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Prossedi",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Sermoneta",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Casperia",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Labro",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Leonessa",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Nemi",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Subiaco",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Trevignano Romano",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Bassano in Teverina",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Bolsena",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Bomarzo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Calcata",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Sutri",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Tuscania",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Vitorchiano",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Civitella Alfedena",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Opi",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Scanno",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Fara San Martino",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Lama dei Peligni",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Palena",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Roccascalegna",
+      "provincia": "Chieti",
+      "regione": "Abruzzo",
+      "area": "Italia centrale"
+    },
+    {
+      "localita": "Ferrazzano",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Agnone",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Roccamandolfi",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Frosolone",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Scapoli",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Zungoli",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Cerreto Sannita",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Morigerati",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Sant'Agata de' Goti",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Letino",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Locorotondo",
+      "provincia": "Bari",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Cisternino",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Oria",
+      "provincia": "Brindisi",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Alberona",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Bovino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Orsara di Puglia",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Pietramontecorvino",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Rocchetta Sant'Antonio",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Sant'Agata di Puglia",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Troia",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Corigliano d'Otranto",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Specchia",
+      "provincia": "Lecce",
+      "regione": "Puglia",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Aliano",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Valsinni",
+      "provincia": "Matera",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Castelmezzano",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Guardia Perticara",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "San Severino Lucano",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Castelsaraceno",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Taverna",
+      "provincia": "Catanzaro",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Civita",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Morano Calabro",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Oriolo",
+      "provincia": "Cosenza",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Bova",
+      "provincia": "Reggio Calabria",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Gerace",
+      "provincia": "Reggio Calabria",
+      "regione": "Calabria",
+      "area": "Italia meridionale"
+    },
+    {
+      "localita": "Petralia Sottana",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Sardara",
+      "provincia": "Medio Campidano",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Galtellì",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Gavoi",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Oliena",
+      "provincia": "Nuoro",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Aggius",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Tempio Pausania",
+      "provincia": "Gallura Nord-Est Sardegna",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    },
+    {
+      "localita": "Laconi",
+      "provincia": "Oristano",
+      "regione": "Sardegna",
+      "area": "Italia insulare"
+    }
+  ],
+  "meta": {
+    "title": "Località Bandiera arancione del Touring Club Italiano - Free Download",
+    "description": "Piccoli comuni dell'entroterra insigniti della Bandiera arancione, il marchio di qualità turistico-ambientale del Touring Club Italiano, con provincia, regione e area. Contains 273 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Località Bandiera arancione del Touring Club Italiano | ListBase",
+    "seo_description": "Download Località Bandiera arancione del Touring Club Italiano — 273 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 273 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Bandiera_arancione"
+    ]
+  }
+}

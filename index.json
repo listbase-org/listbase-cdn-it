@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-12T02:08:22.382Z",
-  "total_datasets": 543,
-  "total_records": 144072,
+  "generated": "2026-11-13T02:13:15.087Z",
+  "total_datasets": 544,
+  "total_records": 144345,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -17023,6 +17023,31 @@
         "xlsx": {
           "name": "it-tempo-medio-locale-citta_IT.xlsx",
           "size": 7266
+        }
+      }
+    },
+    {
+      "id": "it-bandiere-arancioni",
+      "name": "Località Bandiera arancione del Touring Club Italiano",
+      "category": "tourism",
+      "record_count": 273,
+      "columns": [
+        "localita",
+        "provincia",
+        "regione",
+        "area"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Bandiera_arancione",
+      "updated": "2026-11",
+      "size": 40234,
+      "files": {
+        "csv": {
+          "name": "it-bandiere-arancioni_IT.csv",
+          "size": 15601
+        },
+        "xlsx": {
+          "name": "it-bandiere-arancioni_IT.xlsx",
+          "size": 14121
         }
       }
     },
