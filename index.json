@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-13T02:13:37.325Z",
-  "total_datasets": 546,
-  "total_records": 144794,
+  "generated": "2026-11-13T02:13:47.866Z",
+  "total_datasets": 547,
+  "total_records": 144829,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -2280,6 +2280,31 @@
         "xlsx": {
           "name": "it-presidenti-corte-costituzionale_IT.xlsx",
           "size": 10417
+        }
+      }
+    },
+    {
+      "id": "it-primi-presidenti-corte-di-cassazione",
+      "name": "Primi presidenti della Corte suprema di cassazione",
+      "category": "law",
+      "record_count": 35,
+      "columns": [
+        "primo_presidente",
+        "dal",
+        "al",
+        "corte"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Corte_suprema_di_cassazione",
+      "updated": "2026-11",
+      "size": 7542,
+      "files": {
+        "csv": {
+          "name": "it-primi-presidenti-corte-di-cassazione_IT.csv",
+          "size": 3006
+        },
+        "xlsx": {
+          "name": "it-primi-presidenti-corte-di-cassazione_IT.xlsx",
+          "size": 8253
         }
       }
     },

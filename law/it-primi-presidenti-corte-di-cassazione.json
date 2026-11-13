@@ -1,0 +1,256 @@
+{
+  "id": "it-primi-presidenti-corte-di-cassazione",
+  "name": "Primi presidenti della Corte suprema di cassazione",
+  "title": "Primi presidenti della Corte suprema di cassazione",
+  "description": "Primi presidenti della Corte di cassazione di Roma (dal 1876) e della Corte suprema di cassazione italiana, con date di inizio e fine incarico.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Corte_suprema_di_cassazione",
+  "source_url": "https://it.wikipedia.org/wiki/Corte_suprema_di_cassazione",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "primo_presidente",
+      "label": "Primo Presidente",
+      "type": "string"
+    },
+    {
+      "key": "dal",
+      "label": "Dal",
+      "type": "string"
+    },
+    {
+      "key": "al",
+      "label": "Al",
+      "type": "string"
+    },
+    {
+      "key": "corte",
+      "label": "Corte",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "primo_presidente": "Giuseppe Miraglia",
+      "dal": "25 novembre 1876",
+      "al": "12 aprile 1891",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Lorenzo Eula",
+      "dal": "13 aprile 1891",
+      "al": "28 luglio 1893",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Francesco Ghiglieri",
+      "dal": "29 luglio 1893",
+      "al": "25 ottobre 1900",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Giovanni Battista Pagano Guarnaschelli",
+      "dal": "26 ottobre 1900",
+      "al": "31 marzo 1911",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Oronzo Quarta",
+      "dal": "15 aprile 1911",
+      "al": "4 maggio 1915",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Lodovico Mortara",
+      "dal": "25 settembre 1915",
+      "al": "12 novembre 1923",
+      "corte": "Corte di cassazione di Roma"
+    },
+    {
+      "primo_presidente": "Mariano D'Amelio",
+      "dal": "15 novembre 1923",
+      "al": "3 novembre 1941",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Ettore Casati",
+      "dal": "6 novembre 1941",
+      "al": "14 agosto 1945",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giuseppe Pagano",
+      "dal": "15 settembre 1945",
+      "al": "11 novembre 1947",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Andrea Ferrara",
+      "dal": "12 novembre 1947",
+      "al": "11 novembre 1952",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Antonio Azara",
+      "dal": "12 novembre 1952",
+      "al": "17 gennaio 1953",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Vincenzo Galizia",
+      "dal": "19 gennaio 1953",
+      "al": "15 ottobre 1954",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Ernesto Eula",
+      "dal": "16 ottobre 1954",
+      "al": "26 giugno 1959",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Luigi Oggioni",
+      "dal": "6 ottobre 1959",
+      "al": "20 marzo 1962",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Silvio Tavolaro",
+      "dal": "11 aprile 1962",
+      "al": "25 ottobre 1970",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Gaetano Scarpello",
+      "dal": "1º settembre 1973",
+      "al": "19 gennaio 1974",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Mario Stella Richter",
+      "dal": "7 febbraio 1974",
+      "al": "12 dicembre 1976",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Calogero Vinci Orlando",
+      "dal": "27 dicembre 1976",
+      "al": "5 luglio 1978",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Tommaso Novelli",
+      "dal": "20 luglio 1978",
+      "al": "23 aprile 1981",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Mario Berri",
+      "dal": "24 aprile 1981",
+      "al": "6 ottobre 1982",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giuseppe Mirabelli",
+      "dal": "7 ottobre 1982",
+      "al": "12 luglio 1985",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giuseppe Tamburrino",
+      "dal": "13 luglio 1985",
+      "al": "19 novembre 1986",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Antonio Brancaccio",
+      "dal": "20 novembre 1986",
+      "al": "16 gennaio 1995",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Vittorio Sgroi",
+      "dal": "24 marzo 1995",
+      "al": "29 ottobre 1998",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Ferdinando Zucconi Galli Fonseca",
+      "dal": "30 ottobre 1998",
+      "al": "24 giugno 1999",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Andrea Vela",
+      "dal": "9 luglio 1999",
+      "al": "17 agosto 2001",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Nicola Marvulli",
+      "dal": "24 agosto 2001",
+      "al": "30 ottobre 2006",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Vincenzo Carbone",
+      "dal": "24 luglio 2007",
+      "al": "12 luglio 2010",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Ernesto Lupo",
+      "dal": "13 luglio 2010",
+      "al": "13 maggio 2013",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giorgio Santacroce",
+      "dal": "13 maggio 2013",
+      "al": "31 dicembre 2015",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giovanni Canzio",
+      "dal": "1º gennaio 2016",
+      "al": "31 dicembre 2017",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Giovanni Mammone",
+      "dal": "4 gennaio 2018",
+      "al": "16 luglio 2020",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Pietro Curzio",
+      "dal": "20 luglio 2020",
+      "al": "5 marzo 2023",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Margherita Cassano",
+      "dal": "6 marzo 2023",
+      "al": "8 settembre 2025",
+      "corte": "Corte suprema di cassazione"
+    },
+    {
+      "primo_presidente": "Pasquale D'Ascola",
+      "dal": "9 settembre 2025",
+      "al": "in carica",
+      "corte": "Corte suprema di cassazione"
+    }
+  ],
+  "meta": {
+    "title": "Primi presidenti della Corte suprema di cassazione - Free Download",
+    "description": "Primi presidenti della Corte di cassazione di Roma (dal 1876) e della Corte suprema di cassazione italiana, con date di inizio e fine incarico. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Primi presidenti della Corte suprema di cassazione | ListBase",
+    "seo_description": "Download Primi presidenti della Corte suprema di cassazione — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Corte_suprema_di_cassazione"
+    ]
+  }
+}
