@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-13T02:13:47.866Z",
-  "total_datasets": 547,
-  "total_records": 144829,
+  "generated": "2026-11-14T02:12:14.789Z",
+  "total_datasets": 548,
+  "total_records": 144856,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -997,6 +997,31 @@
         "xlsx": {
           "name": "it-centrali-nucleari_IT.xlsx",
           "size": 7284
+        }
+      }
+    },
+    {
+      "id": "it-consumo-di-suolo-regioni",
+      "name": "Consumo di suolo nelle regioni italiane (2021)",
+      "category": "environment",
+      "record_count": 27,
+      "columns": [
+        "territorio",
+        "tipo",
+        "suolo_consumato_2021_ha",
+        "suolo_consumato_2021_perc"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
+      "updated": "2026-11",
+      "size": 5863,
+      "files": {
+        "csv": {
+          "name": "it-consumo-di-suolo-regioni_IT.csv",
+          "size": 1136
+        },
+        "xlsx": {
+          "name": "it-consumo-di-suolo-regioni_IT.xlsx",
+          "size": 7656
         }
       }
     },

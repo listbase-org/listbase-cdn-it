@@ -1,0 +1,208 @@
+{
+  "id": "it-consumo-di-suolo-regioni",
+  "name": "Consumo di suolo nelle regioni italiane (2021)",
+  "title": "Consumo di suolo nelle regioni italiane (2021)",
+  "description": "Suolo consumato nel 2021 per regione e ripartizione geografica italiana, in ettari e in percentuale della superficie territoriale (dati ISPRA).",
+  "category": "environment",
+  "source": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
+  "source_url": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "territorio",
+      "label": "Territorio",
+      "type": "string"
+    },
+    {
+      "key": "tipo",
+      "label": "Tipo",
+      "type": "string"
+    },
+    {
+      "key": "suolo_consumato_2021_ha",
+      "label": "Suolo Consumato 2021 Ha",
+      "type": "string"
+    },
+    {
+      "key": "suolo_consumato_2021_perc",
+      "label": "Suolo Consumato 2021 Perc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "territorio": "Regione",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": "Suolo consumato 2021 (ha)",
+      "suolo_consumato_2021_perc": "Suolo consumato 2021 (%)"
+    },
+    {
+      "territorio": "Piemonte",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 169655,
+      "suolo_consumato_2021_perc": 6.68
+    },
+    {
+      "territorio": "Valle d'Aosta",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 7001,
+      "suolo_consumato_2021_perc": 2.15
+    },
+    {
+      "territorio": "Lombardia",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 289386,
+      "suolo_consumato_2021_perc": 12.12
+    },
+    {
+      "territorio": "Liguria",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 39299,
+      "suolo_consumato_2021_perc": 7.25
+    },
+    {
+      "territorio": "Nord-Ovest",
+      "tipo": "ripartizione",
+      "suolo_consumato_2021_ha": 505341,
+      "suolo_consumato_2021_perc": 8.72
+    },
+    {
+      "territorio": "Friuli-Venezia Giulia",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 63375,
+      "suolo_consumato_2021_perc": 8
+    },
+    {
+      "territorio": "Trentino-Alto Adige",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 41624,
+      "suolo_consumato_2021_perc": 3.06
+    },
+    {
+      "territorio": "Emilia-Romagna",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 200320,
+      "suolo_consumato_2021_perc": 8.9
+    },
+    {
+      "territorio": "Veneto",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 218230,
+      "suolo_consumato_2021_perc": 11.9
+    },
+    {
+      "territorio": "Nord-Est",
+      "tipo": "ripartizione",
+      "suolo_consumato_2021_ha": 523549,
+      "suolo_consumato_2021_perc": 8.4
+    },
+    {
+      "territorio": "Umbria",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 44543,
+      "suolo_consumato_2021_perc": 5.27
+    },
+    {
+      "territorio": "Marche",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 64751,
+      "suolo_consumato_2021_perc": 6.94
+    },
+    {
+      "territorio": "Toscana",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 141827,
+      "suolo_consumato_2021_perc": 6.17
+    },
+    {
+      "territorio": "Lazio",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 139918,
+      "suolo_consumato_2021_perc": 8.13
+    },
+    {
+      "territorio": "Centro",
+      "tipo": "ripartizione",
+      "suolo_consumato_2021_ha": 391039,
+      "suolo_consumato_2021_perc": 6.75
+    },
+    {
+      "territorio": "Basilicata",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 31701,
+      "suolo_consumato_2021_perc": 3.17
+    },
+    {
+      "territorio": "Molise",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 17414,
+      "suolo_consumato_2021_perc": 3.92
+    },
+    {
+      "territorio": "Abruzzo",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 54210,
+      "suolo_consumato_2021_perc": 5.02
+    },
+    {
+      "territorio": "Calabria",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 76319,
+      "suolo_consumato_2021_perc": 5.06
+    },
+    {
+      "territorio": "Puglia",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 158695,
+      "suolo_consumato_2021_perc": 8.2
+    },
+    {
+      "territorio": "Campania",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 142625,
+      "suolo_consumato_2021_perc": 10.49
+    },
+    {
+      "territorio": "Sud",
+      "tipo": "ripartizione",
+      "suolo_consumato_2021_ha": 480963,
+      "suolo_consumato_2021_perc": 6.56
+    },
+    {
+      "territorio": "Sardegna",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 80029,
+      "suolo_consumato_2021_perc": 3.32
+    },
+    {
+      "territorio": "Sicilia",
+      "tipo": "regione",
+      "suolo_consumato_2021_ha": 167590,
+      "suolo_consumato_2021_perc": 6.52
+    },
+    {
+      "territorio": "Isole",
+      "tipo": "ripartizione",
+      "suolo_consumato_2021_ha": 247619,
+      "suolo_consumato_2021_perc": 4.97
+    },
+    {
+      "territorio": "ITALIA",
+      "tipo": "nazionale",
+      "suolo_consumato_2021_ha": 2148512,
+      "suolo_consumato_2021_perc": 7.13
+    }
+  ],
+  "meta": {
+    "title": "Consumo di suolo nelle regioni italiane (2021) - Free Download",
+    "description": "Suolo consumato nel 2021 per regione e ripartizione geografica italiana, in ettari e in percentuale della superficie territoriale (dati ISPRA). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Consumo di suolo nelle regioni italiane (2021) | ListBase",
+    "seo_description": "Download Consumo di suolo nelle regioni italiane (2021) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Consumo_di_suolo"
+    ]
+  }
+}
