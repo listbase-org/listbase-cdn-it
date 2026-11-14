@@ -1,0 +1,394 @@
+{
+  "id": "it-supercomputer-cineca",
+  "name": "Supercomputer del CINECA",
+  "title": "Supercomputer del CINECA",
+  "description": "Sistemi di supercalcolo installati presso il CINECA con anno, posizione nella classifica TOP500, produttore, numero di core e prestazioni Rmax/Rpeak in GFLOPS.",
+  "category": "tech",
+  "source": "https://it.wikipedia.org/wiki/CINECA",
+  "source_url": "https://it.wikipedia.org/wiki/CINECA",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "sistema",
+      "label": "Sistema",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "posizione_top500",
+      "label": "Posizione Top500",
+      "type": "number"
+    },
+    {
+      "key": "produttori",
+      "label": "Produttori",
+      "type": "string"
+    },
+    {
+      "key": "numero_core",
+      "label": "Numero Core",
+      "type": "number"
+    },
+    {
+      "key": "rmax_gflops",
+      "label": "Rmax Gflops",
+      "type": "number"
+    },
+    {
+      "key": "rpeak_gflops",
+      "label": "Rpeak Gflops",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sistema": "Leonardo HPC System",
+      "anno": 2022,
+      "posizione_top500": 6,
+      "produttori": "NVDIA/Intel",
+      "numero_core": 110592,
+      "rmax_gflops": 240000,
+      "rpeak_gflops": ""
+    },
+    {
+      "sistema": "Marconi-100 - IBM Power System AC922, IBM POWER9 16C 3GHz, Nvidia Volta V100, Dual-rail Mellanox EDR Infiniband",
+      "anno": 2020,
+      "posizione_top500": 9,
+      "produttori": "IBM",
+      "numero_core": 347776,
+      "rmax_gflops": 8028160,
+      "rpeak_gflops": 32000000
+    },
+    {
+      "sistema": "Marconi Intel Xeon Phi - CINECA Cluster, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path",
+      "anno": 2016,
+      "posizione_top500": 14,
+      "produttori": "Lenovo",
+      "numero_core": 241808,
+      "rmax_gflops": 6223000,
+      "rpeak_gflops": 10833000
+    },
+    {
+      "sistema": "GALILEO - IBM NeXtScale nx360M4, Xeon E5-2630v3 8C 2.4GHz, Infiniband QDR, Intel Xeon Phi 7120P",
+      "anno": 2015,
+      "posizione_top500": 105,
+      "produttori": "IBM / Lenovo",
+      "numero_core": 50232,
+      "rmax_gflops": 684252,
+      "rpeak_gflops": 1103066
+    },
+    {
+      "sistema": "Fermi - BlueGene/Q, Power BQC 16C 1.60GHz, Custom IBM",
+      "anno": 2012,
+      "posizione_top500": 7,
+      "produttori": "IBM",
+      "numero_core": 163840,
+      "rmax_gflops": 1788878,
+      "rpeak_gflops": 2097152
+    },
+    {
+      "sistema": "Eurora - Eurotech Aurora HPC 10-20, Xeon E5-2687W 8C 3.100GHz, Infiniband QDR, NVIDIA K20, Eurotech",
+      "anno": 2013,
+      "posizione_top500": 467,
+      "produttori": "Eurotech",
+      "numero_core": 2688,
+      "rmax_gflops": 100900,
+      "rpeak_gflops": 175667
+    },
+    {
+      "sistema": "Power 575, p6 4.7 GHz, Infiniband IBM",
+      "anno": 2009,
+      "posizione_top500": 46,
+      "produttori": "IBM",
+      "numero_core": 5376,
+      "rmax_gflops": 78680,
+      "rpeak_gflops": 101068.8
+    },
+    {
+      "sistema": "BladeCenter HS21 Cluster, Xeon dual core 3.0 GHz, Infiniband IBM",
+      "anno": 2008,
+      "posizione_top500": 179,
+      "produttori": "IBM",
+      "numero_core": 2560,
+      "rmax_gflops": 19910,
+      "rpeak_gflops": 30720
+    },
+    {
+      "sistema": "BladeCenter HS21 Cluster, Xeon dual core 3.0 GHz, Infiniband IBM",
+      "anno": 2008,
+      "posizione_top500": 178,
+      "produttori": "IBM",
+      "numero_core": 2560,
+      "rmax_gflops": 19910,
+      "rpeak_gflops": 30720
+    },
+    {
+      "sistema": "BladeCenter HS21 Cluster, Xeon dual core 3.0 GHz, Infiniband IBM",
+      "anno": 2007,
+      "posizione_top500": 48,
+      "produttori": "IBM",
+      "numero_core": 5120,
+      "rmax_gflops": 19910,
+      "rpeak_gflops": 61440
+    },
+    {
+      "sistema": "eServer 326 Cluster, Opteron Dual Core 2.6 GHz, Infiniband",
+      "anno": 2007,
+      "posizione_top500": 71,
+      "produttori": "IBM",
+      "numero_core": 10240,
+      "rmax_gflops": 15760,
+      "rpeak_gflops": 53248
+    },
+    {
+      "sistema": "BCX - eServer 326 Cluster, Opteron Dual Core 2.6 GHz, Infiniband",
+      "anno": 2006,
+      "posizione_top500": 44,
+      "produttori": "IBM",
+      "numero_core": 5120,
+      "rmax_gflops": 12608,
+      "rpeak_gflops": 26624
+    },
+    {
+      "sistema": "eServer pSeries p5 575 1.9 GHz IBM",
+      "anno": 2005,
+      "posizione_top500": 102,
+      "produttori": "IBM",
+      "numero_core": 512,
+      "rmax_gflops": 3392,
+      "rpeak_gflops": 3891.2
+    },
+    {
+      "sistema": "xSeries, Xeon 3.06 GHz, Myrinet IBM",
+      "anno": 2005,
+      "posizione_top500": 107,
+      "produttori": "IBM",
+      "numero_core": 1024,
+      "rmax_gflops": 3328,
+      "rpeak_gflops": 6266.9
+    },
+    {
+      "sistema": "BladeCenter HS20 Xeon 3.06 GHz, Myrinet IBM",
+      "anno": 2004,
+      "posizione_top500": 61,
+      "produttori": "IBM",
+      "numero_core": 768,
+      "rmax_gflops": 3231,
+      "rpeak_gflops": 4700
+    },
+    {
+      "sistema": "BladeCenter LS20, Opteron 2.2 GHz Dual core, Infiniband",
+      "anno": 2006,
+      "posizione_top500": 298,
+      "produttori": "IBM",
+      "numero_core": 1064,
+      "rmax_gflops": 2874.5,
+      "rpeak_gflops": 4681.6
+    },
+    {
+      "sistema": "xSeries Xeon 3.06 GHz, Myrinet",
+      "anno": 2003,
+      "posizione_top500": 107,
+      "produttori": "IBM",
+      "numero_core": 512,
+      "rmax_gflops": 2223.2,
+      "rpeak_gflops": 3133.4
+    },
+    {
+      "sistema": "pSeries 690 Turbo 1.3GHz",
+      "anno": 2002,
+      "posizione_top500": 30,
+      "produttori": "IBM",
+      "numero_core": 512,
+      "rmax_gflops": 1384,
+      "rpeak_gflops": 2662.4
+    },
+    {
+      "sistema": "pSeries 690 Turbo 1.3GHz GigEth",
+      "anno": 2002,
+      "posizione_top500": 32,
+      "produttori": "IBM",
+      "numero_core": 512,
+      "rmax_gflops": 826.5,
+      "rpeak_gflops": 2662.4
+    },
+    {
+      "sistema": "T3E1200",
+      "anno": 1999,
+      "posizione_top500": 36,
+      "produttori": "Cray Inc.",
+      "numero_core": 268,
+      "rmax_gflops": 221.8,
+      "rpeak_gflops": 321.6
+    },
+    {
+      "sistema": "AlphaServer SC45, 1 GHz",
+      "anno": 2002,
+      "posizione_top500": 261,
+      "produttori": "HP (Compaq)",
+      "numero_core": 128,
+      "rmax_gflops": 220.5,
+      "rpeak_gflops": 256
+    },
+    {
+      "sistema": "T3E1200",
+      "anno": 1998,
+      "posizione_top500": 38,
+      "produttori": "Cray Inc.",
+      "numero_core": 172,
+      "rmax_gflops": 142.4,
+      "rpeak_gflops": 206.4
+    },
+    {
+      "sistema": "SP Power3 375 MHz 16 way",
+      "anno": 2001,
+      "posizione_top500": 162,
+      "produttori": "IBM",
+      "numero_core": 128,
+      "rmax_gflops": 138,
+      "rpeak_gflops": 192
+    },
+    {
+      "sistema": "ORIGIN 3000 500 MHz",
+      "anno": 2001,
+      "posizione_top500": 327,
+      "produttori": "SGI",
+      "numero_core": 128,
+      "rmax_gflops": 106.9,
+      "rpeak_gflops": 128
+    },
+    {
+      "sistema": "SP Power3 375 MHz",
+      "anno": 2000,
+      "posizione_top500": 371,
+      "produttori": "IBM",
+      "numero_core": 64,
+      "rmax_gflops": 67.8,
+      "rpeak_gflops": 96
+    },
+    {
+      "sistema": "T3E",
+      "anno": 1996,
+      "posizione_top500": 56,
+      "produttori": "Cray Inc.",
+      "numero_core": 128,
+      "rmax_gflops": 50.4,
+      "rpeak_gflops": 76.8
+    },
+    {
+      "sistema": "ORIGIN 2000 300 MHz",
+      "anno": 1999,
+      "posizione_top500": 327,
+      "produttori": "SGI",
+      "numero_core": 64,
+      "rmax_gflops": 31.3,
+      "rpeak_gflops": 38.4
+    },
+    {
+      "sistema": "T3D MC128-8",
+      "anno": 1996,
+      "posizione_top500": 155,
+      "produttori": "Cray Inc.",
+      "numero_core": 128,
+      "rmax_gflops": 12.8,
+      "rpeak_gflops": 19.2
+    },
+    {
+      "sistema": "SP2/32",
+      "anno": 1995,
+      "posizione_top500": 142,
+      "produttori": "IBM",
+      "numero_core": 32,
+      "rmax_gflops": 6.6,
+      "rpeak_gflops": 8.5
+    },
+    {
+      "sistema": "T3D MC64-8",
+      "anno": 1995,
+      "posizione_top500": 132,
+      "produttori": "Cray Inc.",
+      "numero_core": 64,
+      "rmax_gflops": 6.4,
+      "rpeak_gflops": 9.6
+    },
+    {
+      "sistema": "Y-MP C94/2128",
+      "anno": 1993,
+      "posizione_top500": 306,
+      "produttori": "Cray Inc.",
+      "numero_core": 2,
+      "rmax_gflops": 1.7,
+      "rpeak_gflops": 1.9
+    },
+    {
+      "sistema": "Y-MP8/464",
+      "anno": 1992,
+      "posizione_top500": 226,
+      "produttori": "Cray Inc.",
+      "numero_core": 4,
+      "rmax_gflops": 1.2,
+      "rpeak_gflops": 1.3
+    },
+    {
+      "sistema": "IBM 3090 600 VF",
+      "anno": 1989,
+      "posizione_top500": "",
+      "produttori": "IBM",
+      "numero_core": 6,
+      "rmax_gflops": 0.83,
+      "rpeak_gflops": 0.83
+    },
+    {
+      "sistema": "Cray Y-MP / 4 64",
+      "anno": 1989,
+      "posizione_top500": "",
+      "produttori": "Cray Inc.",
+      "numero_core": 4,
+      "rmax_gflops": 1.34,
+      "rpeak_gflops": 1.34
+    },
+    {
+      "sistema": "Cray X-MP / 48",
+      "anno": 1985,
+      "posizione_top500": "",
+      "produttori": "Cray Inc.",
+      "numero_core": 4,
+      "rmax_gflops": 0.94,
+      "rpeak_gflops": 0.94
+    },
+    {
+      "sistema": "CDC 7600",
+      "anno": 1975,
+      "posizione_top500": "",
+      "produttori": "CDC",
+      "numero_core": 1,
+      "rmax_gflops": 0.06,
+      "rpeak_gflops": 0.06
+    },
+    {
+      "sistema": "CDC 6600",
+      "anno": 1969,
+      "posizione_top500": "",
+      "produttori": "CDC",
+      "numero_core": 1,
+      "rmax_gflops": 0.03,
+      "rpeak_gflops": 0.03
+    }
+  ],
+  "meta": {
+    "title": "Supercomputer del CINECA - Free Download",
+    "description": "Sistemi di supercalcolo installati presso il CINECA con anno, posizione nella classifica TOP500, produttore, numero di core e prestazioni Rmax/Rpeak in GFLOPS. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Supercomputer del CINECA | ListBase",
+    "seo_description": "Download Supercomputer del CINECA — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/CINECA"
+    ]
+  }
+}

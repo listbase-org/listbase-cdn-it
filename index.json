@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-14T02:12:26.789Z",
-  "total_datasets": 549,
-  "total_records": 149589,
+  "generated": "2026-11-14T02:12:39.415Z",
+  "total_datasets": 550,
+  "total_records": 149626,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -16995,6 +16995,34 @@
         "xlsx": {
           "name": "it-prefissi-telefonici_IT.xlsx",
           "size": 20314
+        }
+      }
+    },
+    {
+      "id": "it-supercomputer-cineca",
+      "name": "Supercomputer del CINECA",
+      "category": "tech",
+      "record_count": 37,
+      "columns": [
+        "sistema",
+        "anno",
+        "posizione_top500",
+        "produttori",
+        "numero_core",
+        "rmax_gflops",
+        "rpeak_gflops"
+      ],
+      "source": "https://it.wikipedia.org/wiki/CINECA",
+      "updated": "2026-11",
+      "size": 10361,
+      "files": {
+        "csv": {
+          "name": "it-supercomputer-cineca_IT.csv",
+          "size": 3057
+        },
+        "xlsx": {
+          "name": "it-supercomputer-cineca_IT.xlsx",
+          "size": 8837
         }
       }
     },
