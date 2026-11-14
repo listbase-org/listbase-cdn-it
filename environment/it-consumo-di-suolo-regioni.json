@@ -7,7 +7,7 @@
   "source": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
   "source_url": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
   "updated": "2026-11",
-  "record_count": 27,
+  "record_count": 26,
   "columns": [
     {
       "key": "territorio",
@@ -22,21 +22,15 @@
     {
       "key": "suolo_consumato_2021_ha",
       "label": "Suolo Consumato 2021 Ha",
-      "type": "string"
+      "type": "number"
     },
     {
       "key": "suolo_consumato_2021_perc",
       "label": "Suolo Consumato 2021 Perc",
-      "type": "string"
+      "type": "number"
     }
   ],
   "rows": [
-    {
-      "territorio": "Regione",
-      "tipo": "regione",
-      "suolo_consumato_2021_ha": "Suolo consumato 2021 (ha)",
-      "suolo_consumato_2021_perc": "Suolo consumato 2021 (%)"
-    },
     {
       "territorio": "Piemonte",
       "tipo": "regione",
@@ -196,11 +190,11 @@
   ],
   "meta": {
     "title": "Consumo di suolo nelle regioni italiane (2021) - Free Download",
-    "description": "Suolo consumato nel 2021 per regione e ripartizione geografica italiana, in ettari e in percentuale della superficie territoriale (dati ISPRA). Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "description": "Suolo consumato nel 2021 per regione e ripartizione geografica italiana, in ettari e in percentuale della superficie territoriale (dati ISPRA). Contains 26 records. Download in Excel, CSV, PDF formats.",
     "seo_title": "Consumo di suolo nelle regioni italiane (2021) | ListBase",
-    "seo_description": "Download Consumo di suolo nelle regioni italiane (2021) — 27 records. Available in Excel, CSV, PDF formats.",
+    "seo_description": "Download Consumo di suolo nelle regioni italiane (2021) — 26 records. Available in Excel, CSV, PDF formats.",
     "key_takeaways": [
-      "Contains 27 records / 4 fields",
+      "Contains 26 records / 4 fields",
       "Available for free download in Excel, CSV, and PDF formats",
       "Data sourced from: https://it.wikipedia.org/wiki/Consumo_di_suolo"
     ]

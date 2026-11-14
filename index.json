@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-14T02:12:39.415Z",
+  "generated": "2026-11-14T02:13:05.666Z",
   "total_datasets": 550,
-  "total_records": 149626,
+  "total_records": 149625,
   "categories": [
     {
       "id": "agriculture",
@@ -1004,7 +1004,7 @@
       "id": "it-consumo-di-suolo-regioni",
       "name": "Consumo di suolo nelle regioni italiane (2021)",
       "category": "environment",
-      "record_count": 27,
+      "record_count": 26,
       "columns": [
         "territorio",
         "tipo",
@@ -1013,15 +1013,15 @@
       ],
       "source": "https://it.wikipedia.org/wiki/Consumo_di_suolo",
       "updated": "2026-11",
-      "size": 5863,
+      "size": 5670,
       "files": {
         "csv": {
           "name": "it-consumo-di-suolo-regioni_IT.csv",
-          "size": 1136
+          "size": 1061
         },
         "xlsx": {
           "name": "it-consumo-di-suolo-regioni_IT.xlsx",
-          "size": 7656
+          "size": 7620
         }
       }
     },
