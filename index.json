@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-14T02:13:05.666Z",
-  "total_datasets": 550,
-  "total_records": 149625,
+  "generated": "2026-11-15T02:24:43.478Z",
+  "total_datasets": 551,
+  "total_records": 149659,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -412,6 +412,37 @@
         "xlsx": {
           "name": "it-santi-patroni-comuni-veneto_IT.xlsx",
           "size": 14572
+        }
+      }
+    },
+    {
+      "id": "it-bilancia-commerciale-serie-storica",
+      "name": "Bilancia commerciale dell'Italia (serie storica)",
+      "category": "economy",
+      "record_count": 34,
+      "columns": [
+        "anno",
+        "importazioni_mln_euro",
+        "importazioni_var_pct",
+        "posizione_import_mondiale",
+        "esportazioni_mln_euro",
+        "esportazioni_var_pct",
+        "quota_export_mondiale_pct",
+        "posizione_export_mondiale",
+        "saldo_commerciale_mln_euro",
+        "saldo_var_assoluta_mln_euro"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Bilancia_commerciale_dell'Italia",
+      "updated": "2026-11",
+      "size": 15785,
+      "files": {
+        "csv": {
+          "name": "it-bilancia-commerciale-serie-storica_IT.csv",
+          "size": 2539
+        },
+        "xlsx": {
+          "name": "it-bilancia-commerciale-serie-storica_IT.xlsx",
+          "size": 8856
         }
       }
     },

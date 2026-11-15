@@ -1,0 +1,484 @@
+{
+  "id": "it-bilancia-commerciale-serie-storica",
+  "name": "Bilancia commerciale dell'Italia (serie storica)",
+  "title": "Bilancia commerciale dell'Italia (serie storica)",
+  "description": "Importazioni, esportazioni e saldo commerciale dell'Italia per anno dal 1991 (milioni di euro, dati Istat), con variazioni percentuali, quota e posizione nel commercio mondiale.",
+  "category": "economy",
+  "source": "https://it.wikipedia.org/wiki/Bilancia_commerciale_dell'Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Bilancia_commerciale_dell'Italia",
+  "updated": "2026-11",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "importazioni_mln_euro",
+      "label": "Importazioni Mln Euro",
+      "type": "number"
+    },
+    {
+      "key": "importazioni_var_pct",
+      "label": "Importazioni Var Pct",
+      "type": "number"
+    },
+    {
+      "key": "posizione_import_mondiale",
+      "label": "Posizione Import Mondiale",
+      "type": "string"
+    },
+    {
+      "key": "esportazioni_mln_euro",
+      "label": "Esportazioni Mln Euro",
+      "type": "number"
+    },
+    {
+      "key": "esportazioni_var_pct",
+      "label": "Esportazioni Var Pct",
+      "type": "number"
+    },
+    {
+      "key": "quota_export_mondiale_pct",
+      "label": "Quota Export Mondiale Pct",
+      "type": "number"
+    },
+    {
+      "key": "posizione_export_mondiale",
+      "label": "Posizione Export Mondiale",
+      "type": "string"
+    },
+    {
+      "key": "saldo_commerciale_mln_euro",
+      "label": "Saldo Commerciale Mln Euro",
+      "type": "number"
+    },
+    {
+      "key": "saldo_var_assoluta_mln_euro",
+      "label": "Saldo Var Assoluta Mln Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1991,
+      "importazioni_mln_euro": 116588,
+      "importazioni_var_pct": "",
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 108316,
+      "esportazioni_var_pct": "",
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -8272,
+      "saldo_var_assoluta_mln_euro": ""
+    },
+    {
+      "anno": 1992,
+      "importazioni_mln_euro": 119875,
+      "importazioni_var_pct": 2.8,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 113329,
+      "esportazioni_var_pct": 4.6,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -6546,
+      "saldo_var_assoluta_mln_euro": 1726
+    },
+    {
+      "anno": 1993,
+      "importazioni_mln_euro": 120330,
+      "importazioni_var_pct": 0.4,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 137488,
+      "esportazioni_var_pct": 21.3,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 17158,
+      "saldo_var_assoluta_mln_euro": 23704
+    },
+    {
+      "anno": 1994,
+      "importazioni_mln_euro": 140673,
+      "importazioni_var_pct": 16.9,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 159092,
+      "esportazioni_var_pct": 15.7,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 18419,
+      "saldo_var_assoluta_mln_euro": 1261
+    },
+    {
+      "anno": 1995,
+      "importazioni_mln_euro": 173354,
+      "importazioni_var_pct": 23.2,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 196860,
+      "esportazioni_var_pct": 23.7,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 23506,
+      "saldo_var_assoluta_mln_euro": 5087
+    },
+    {
+      "anno": 1996,
+      "importazioni_mln_euro": 165930,
+      "importazioni_var_pct": -4.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 200842,
+      "esportazioni_var_pct": 2,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 34912,
+      "saldo_var_assoluta_mln_euro": 11406
+    },
+    {
+      "anno": 1997,
+      "importazioni_mln_euro": 184678,
+      "importazioni_var_pct": 11.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 211297,
+      "esportazioni_var_pct": 5.2,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 26619,
+      "saldo_var_assoluta_mln_euro": -8293
+    },
+    {
+      "anno": 1998,
+      "importazioni_mln_euro": 195625,
+      "importazioni_var_pct": 5.9,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 220105,
+      "esportazioni_var_pct": 4.2,
+      "quota_export_mondiale_pct": "",
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 24480,
+      "saldo_var_assoluta_mln_euro": -2319
+    },
+    {
+      "anno": 1999,
+      "importazioni_mln_euro": 207015,
+      "importazioni_var_pct": 5.8,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 221040,
+      "esportazioni_var_pct": 0.4,
+      "quota_export_mondiale_pct": 3.82,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 14025,
+      "saldo_var_assoluta_mln_euro": -10455
+    },
+    {
+      "anno": 2000,
+      "importazioni_mln_euro": 258507,
+      "importazioni_var_pct": 24.9,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 260413,
+      "esportazioni_var_pct": 17.8,
+      "quota_export_mondiale_pct": 3.8,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 1906,
+      "saldo_var_assoluta_mln_euro": -12119
+    },
+    {
+      "anno": 2001,
+      "importazioni_mln_euro": 263757,
+      "importazioni_var_pct": 2,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 272990,
+      "esportazioni_var_pct": 4.8,
+      "quota_export_mondiale_pct": 4.1,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 9233,
+      "saldo_var_assoluta_mln_euro": 7327
+    },
+    {
+      "anno": 2002,
+      "importazioni_mln_euro": 261226,
+      "importazioni_var_pct": -0.1,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 269064,
+      "esportazioni_var_pct": -1.4,
+      "quota_export_mondiale_pct": 4.1,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 7838,
+      "saldo_var_assoluta_mln_euro": -1395
+    },
+    {
+      "anno": 2003,
+      "importazioni_mln_euro": 262998,
+      "importazioni_var_pct": 0.7,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 264616,
+      "esportazioni_var_pct": -1.7,
+      "quota_export_mondiale_pct": 4,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 1618,
+      "saldo_var_assoluta_mln_euro": -6220
+    },
+    {
+      "anno": 2004,
+      "importazioni_mln_euro": 285634,
+      "importazioni_var_pct": 8.6,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 284413,
+      "esportazioni_var_pct": 7.5,
+      "quota_export_mondiale_pct": 3.9,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -1221,
+      "saldo_var_assoluta_mln_euro": -2839
+    },
+    {
+      "anno": 2005,
+      "importazioni_mln_euro": 305686,
+      "importazioni_var_pct": 7,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 295739,
+      "esportazioni_var_pct": 5.5,
+      "quota_export_mondiale_pct": 3.6,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -9947,
+      "saldo_var_assoluta_mln_euro": -8726
+    },
+    {
+      "anno": 2006,
+      "importazioni_mln_euro": 352465,
+      "importazioni_var_pct": 15.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 332013,
+      "esportazioni_var_pct": 10.7,
+      "quota_export_mondiale_pct": 3.5,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -20452,
+      "saldo_var_assoluta_mln_euro": -10505
+    },
+    {
+      "anno": 2007,
+      "importazioni_mln_euro": 373340,
+      "importazioni_var_pct": 5.9,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 364744,
+      "esportazioni_var_pct": 9.9,
+      "quota_export_mondiale_pct": 3.66,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -8596,
+      "saldo_var_assoluta_mln_euro": 11856
+    },
+    {
+      "anno": 2008,
+      "importazioni_mln_euro": 382050,
+      "importazioni_var_pct": 2.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 369016,
+      "esportazioni_var_pct": 1.2,
+      "quota_export_mondiale_pct": 3.43,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -13035,
+      "saldo_var_assoluta_mln_euro": -4439
+    },
+    {
+      "anno": 2009,
+      "importazioni_mln_euro": 297609,
+      "importazioni_var_pct": -22.1,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 291733,
+      "esportazioni_var_pct": -20.9,
+      "quota_export_mondiale_pct": 3.33,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -5876,
+      "saldo_var_assoluta_mln_euro": 7159
+    },
+    {
+      "anno": 2010,
+      "importazioni_mln_euro": 367390,
+      "importazioni_var_pct": 23.4,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 337346,
+      "esportazioni_var_pct": 15.6,
+      "quota_export_mondiale_pct": 3,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -30044,
+      "saldo_var_assoluta_mln_euro": -24168
+    },
+    {
+      "anno": 2011,
+      "importazioni_mln_euro": 401428,
+      "importazioni_var_pct": 9.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 375904,
+      "esportazioni_var_pct": 11.4,
+      "quota_export_mondiale_pct": 2.93,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": -25524,
+      "saldo_var_assoluta_mln_euro": 4520
+    },
+    {
+      "anno": 2012,
+      "importazioni_mln_euro": 380292,
+      "importazioni_var_pct": -5.3,
+      "posizione_import_mondiale": "",
+      "esportazioni_mln_euro": 390182,
+      "esportazioni_var_pct": 3.8,
+      "quota_export_mondiale_pct": 2.79,
+      "posizione_export_mondiale": "",
+      "saldo_commerciale_mln_euro": 9890,
+      "saldo_var_assoluta_mln_euro": 35413
+    },
+    {
+      "anno": 2013,
+      "importazioni_mln_euro": 361002,
+      "importazioni_var_pct": -5.1,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 390233,
+      "esportazioni_var_pct": 0,
+      "quota_export_mondiale_pct": 2.82,
+      "posizione_export_mondiale": "10°",
+      "saldo_commerciale_mln_euro": 29230,
+      "saldo_var_assoluta_mln_euro": 19341
+    },
+    {
+      "anno": 2014,
+      "importazioni_mln_euro": 356939,
+      "importazioni_var_pct": -1.1,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 398870,
+      "esportazioni_var_pct": 2.2,
+      "quota_export_mondiale_pct": 2.86,
+      "posizione_export_mondiale": "8°",
+      "saldo_commerciale_mln_euro": 41932,
+      "saldo_var_assoluta_mln_euro": 12701
+    },
+    {
+      "anno": 2015,
+      "importazioni_mln_euro": 370484,
+      "importazioni_var_pct": 3.8,
+      "posizione_import_mondiale": "12°",
+      "esportazioni_mln_euro": 412291,
+      "esportazioni_var_pct": 3.4,
+      "quota_export_mondiale_pct": 2.82,
+      "posizione_export_mondiale": "10°",
+      "saldo_commerciale_mln_euro": 41807,
+      "saldo_var_assoluta_mln_euro": -125
+    },
+    {
+      "anno": 2016,
+      "importazioni_mln_euro": 367626,
+      "importazioni_var_pct": -0.8,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 417269,
+      "esportazioni_var_pct": 1.2,
+      "quota_export_mondiale_pct": 2.94,
+      "posizione_export_mondiale": "9°",
+      "saldo_commerciale_mln_euro": 49643,
+      "saldo_var_assoluta_mln_euro": 7836
+    },
+    {
+      "anno": 2017,
+      "importazioni_mln_euro": 401487,
+      "importazioni_var_pct": 9.2,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 449129,
+      "esportazioni_var_pct": 7.6,
+      "quota_export_mondiale_pct": 2.9,
+      "posizione_export_mondiale": "9°",
+      "saldo_commerciale_mln_euro": 47642,
+      "saldo_var_assoluta_mln_euro": -2192
+    },
+    {
+      "anno": 2018,
+      "importazioni_mln_euro": 426046,
+      "importazioni_var_pct": 6.1,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 465325,
+      "esportazioni_var_pct": 3.6,
+      "quota_export_mondiale_pct": 2.85,
+      "posizione_export_mondiale": "10°",
+      "saldo_commerciale_mln_euro": 39280,
+      "saldo_var_assoluta_mln_euro": -8362
+    },
+    {
+      "anno": 2019,
+      "importazioni_mln_euro": 424236,
+      "importazioni_var_pct": -0.4,
+      "posizione_import_mondiale": "13°",
+      "esportazioni_mln_euro": 480352,
+      "esportazioni_var_pct": 3.2,
+      "quota_export_mondiale_pct": 2.87,
+      "posizione_export_mondiale": "8°",
+      "saldo_commerciale_mln_euro": 56116,
+      "saldo_var_assoluta_mln_euro": 16836
+    },
+    {
+      "anno": 2020,
+      "importazioni_mln_euro": 373428,
+      "importazioni_var_pct": -12,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 436718,
+      "esportazioni_var_pct": -9.1,
+      "quota_export_mondiale_pct": 2.85,
+      "posizione_export_mondiale": "8°",
+      "saldo_commerciale_mln_euro": 63289,
+      "saldo_var_assoluta_mln_euro": 7174
+    },
+    {
+      "anno": 2021,
+      "importazioni_mln_euro": 480437,
+      "importazioni_var_pct": 28.7,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 520771,
+      "esportazioni_var_pct": 19.2,
+      "quota_export_mondiale_pct": 2.8,
+      "posizione_export_mondiale": "8°",
+      "saldo_commerciale_mln_euro": 40334,
+      "saldo_var_assoluta_mln_euro": -22956
+    },
+    {
+      "anno": 2022,
+      "importazioni_mln_euro": 660249,
+      "importazioni_var_pct": 37.4,
+      "posizione_import_mondiale": "10°",
+      "esportazioni_mln_euro": 626195,
+      "esportazioni_var_pct": 20.2,
+      "quota_export_mondiale_pct": 2.7,
+      "posizione_export_mondiale": "7°",
+      "saldo_commerciale_mln_euro": -34054,
+      "saldo_var_assoluta_mln_euro": -74388
+    },
+    {
+      "anno": 2023,
+      "importazioni_mln_euro": 591717,
+      "importazioni_var_pct": -10.4,
+      "posizione_import_mondiale": "11°",
+      "esportazioni_mln_euro": 626177,
+      "esportazioni_var_pct": 0,
+      "quota_export_mondiale_pct": 2.9,
+      "posizione_export_mondiale": "6°",
+      "saldo_commerciale_mln_euro": 34460,
+      "saldo_var_assoluta_mln_euro": 68514
+    },
+    {
+      "anno": 2024,
+      "importazioni_mln_euro": 568578,
+      "importazioni_var_pct": -3.9,
+      "posizione_import_mondiale": "12°",
+      "esportazioni_mln_euro": 623501,
+      "esportazioni_var_pct": -0.4,
+      "quota_export_mondiale_pct": 2.8,
+      "posizione_export_mondiale": "6°",
+      "saldo_commerciale_mln_euro": 54923,
+      "saldo_var_assoluta_mln_euro": 20463
+    }
+  ],
+  "meta": {
+    "title": "Bilancia commerciale dell'Italia (serie storica) - Free Download",
+    "description": "Importazioni, esportazioni e saldo commerciale dell'Italia per anno dal 1991 (milioni di euro, dati Istat), con variazioni percentuali, quota e posizione nel commercio mondiale. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bilancia commerciale dell'Italia (serie storica) | ListBase",
+    "seo_description": "Download Bilancia commerciale dell'Italia (serie storica) — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Bilancia_commerciale_dell'Italia"
+    ]
+  }
+}
