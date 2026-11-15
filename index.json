@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-15T02:24:55.799Z",
-  "total_datasets": 552,
-  "total_records": 149759,
+  "generated": "2026-11-15T02:25:07.184Z",
+  "total_datasets": 553,
+  "total_records": 149856,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -2585,6 +2585,34 @@
         "xlsx": {
           "name": "it-opere-giuseppe-verdi_IT.xlsx",
           "size": 8936
+        }
+      }
+    },
+    {
+      "id": "it-singoli-piu-venduti-dal-2009",
+      "name": "Singoli più venduti in Italia dal 2009",
+      "category": "music",
+      "record_count": 97,
+      "columns": [
+        "classifica",
+        "anno_pubblicazione",
+        "artista",
+        "brano",
+        "unita_certificate",
+        "certificazione",
+        "anno_certificazione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Singoli_più_venduti_in_Italia",
+      "updated": "2026-11",
+      "size": 27489,
+      "files": {
+        "csv": {
+          "name": "it-singoli-piu-venduti-dal-2009_IT.csv",
+          "size": 8553
+        },
+        "xlsx": {
+          "name": "it-singoli-piu-venduti-dal-2009_IT.xlsx",
+          "size": 11040
         }
       }
     },

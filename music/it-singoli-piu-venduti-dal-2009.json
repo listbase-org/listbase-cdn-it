@@ -1,0 +1,934 @@
+{
+  "id": "it-singoli-piu-venduti-dal-2009",
+  "name": "Singoli più venduti in Italia dal 2009",
+  "title": "Singoli più venduti in Italia dal 2009",
+  "description": "Brani con le certificazioni FIMI più alte in Italia dal 2009: classifica generale, singoli internazionali e singoli femminili, con unità vendute, livello di certificazione e anno.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Singoli_più_venduti_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Singoli_più_venduti_in_Italia",
+  "updated": "2026-11",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "classifica",
+      "label": "Classifica",
+      "type": "string"
+    },
+    {
+      "key": "anno_pubblicazione",
+      "label": "Anno Pubblicazione",
+      "type": "number"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    },
+    {
+      "key": "brano",
+      "label": "Brano",
+      "type": "string"
+    },
+    {
+      "key": "unita_certificate",
+      "label": "Unita Certificate",
+      "type": "string"
+    },
+    {
+      "key": "certificazione",
+      "label": "Certificazione",
+      "type": "string"
+    },
+    {
+      "key": "anno_certificazione",
+      "label": "Anno Certificazione",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Lazza",
+      "brano": "Cenere",
+      "unita_certificate": "900 000+",
+      "certificazione": "Platino (9)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Blanco e Sfera Ebbasta",
+      "brano": "Mi fai impazzire",
+      "unita_certificate": "900 000+",
+      "certificazione": "Platino (9)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Bizarrap & Quevedo",
+      "brano": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (8)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Mahmood & Blanco",
+      "brano": "Brividi",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (8)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Pinguini Tattici Nucleari",
+      "brano": "Pastello bianco",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (8)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Sangiovanni",
+      "brano": "Malibù",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (8)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2025,
+      "artista": "Olly e Juli",
+      "brano": "Balorda nostalgia",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (4)",
+      "anno_certificazione": 2026
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Pinguini Tattici Nucleari",
+      "brano": "Giovani Wannabe",
+      "unita_certificate": "700 000+",
+      "certificazione": "Platino (7)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Dargen D'Amico",
+      "brano": "Dove si balla",
+      "unita_certificate": "700 000+",
+      "certificazione": "Platino (7)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Rhove",
+      "brano": "Shakerando",
+      "unita_certificate": "700 000+",
+      "certificazione": "Platino (7)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Ernia",
+      "brano": "Superclassico",
+      "unita_certificate": "700 000+",
+      "certificazione": "Platino (7)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Blanco",
+      "brano": "Notti in bianco",
+      "unita_certificate": "700 000+",
+      "certificazione": "Platino (7)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2024,
+      "artista": "Cesare Cremonini",
+      "brano": "Ora che non ho più te",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (3)",
+      "anno_certificazione": 2026
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2024,
+      "artista": "Olly, Angelina Mango e Juli",
+      "brano": "Per due come noi",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (3)",
+      "anno_certificazione": 2026
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Annalisa",
+      "brano": "Mon amour",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Shablo, Geolier & Sfera Ebbasta",
+      "brano": "M' manc",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2019,
+      "artista": "Marracash",
+      "brano": "Crudelia - I nervi",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Pinguini Tattici Nucleari",
+      "brano": "Ridere",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Tananai",
+      "brano": "Tango",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "The Kolors",
+      "brano": "Italodisco",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Ava, Anna & Capo Plaza",
+      "brano": "Vetri neri",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2019,
+      "artista": "The Weeknd",
+      "brano": "Blinding Lights",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2018,
+      "artista": "Salmo (feat. Nstasia)",
+      "brano": "Il cielo nella stanza",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Mr.Rain",
+      "brano": "Supereroi",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Fedez, Tananai & Mara Sattei",
+      "brano": "La dolce vita",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "Gazzelle",
+      "brano": "Destri",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Lazza, Takagi & Ketra",
+      "brano": "Panico",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Marco Mengoni",
+      "brano": "Due vite",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Sangiovanni",
+      "brano": "Farfalle",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2013,
+      "artista": "Tom Odell",
+      "brano": "Another Love",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2018,
+      "artista": "Lewis Capaldi",
+      "brano": "Someone You Loved",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2018,
+      "artista": "Lady Gaga & Bradley Cooper",
+      "brano": "Shallow",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Rkomi & Elodie",
+      "brano": "La coda del diavolo",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Mace, Blanco & Salmo",
+      "brano": "La canzone nostra",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Rkomi, Sfera Ebbasta & Junior K",
+      "brano": "Nuovo Range",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2013,
+      "artista": "OneRepublic",
+      "brano": "Counting Stars",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Bresh & Shune",
+      "brano": "Guasto d'amore",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2019,
+      "artista": "Ultimo",
+      "brano": "Piccola stella",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2008,
+      "artista": "Coldplay",
+      "brano": "Viva la vida",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 1994,
+      "artista": "Mariah Carey",
+      "brano": "All I Want for Christmas Is You",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Jovanotti & Sixpm",
+      "brano": "I Love You Baby",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Blanco & Mina",
+      "brano": "Un briciolo di allegria",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2013,
+      "artista": "Guè feat. Marracash",
+      "brano": "Brivido",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Alfa",
+      "brano": "Bellissimissima",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Thasup (feat. Lazza & Sfera Ebbasta)",
+      "brano": "S!r!",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 1975,
+      "artista": "Queen",
+      "brano": "Bohemian Rhapsody",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Fedez, Annalisa & Articolo 31",
+      "brano": "Disco Paradise",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2024,
+      "artista": "Mahmood",
+      "brano": "Tuta gold",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2020,
+      "artista": "The Weeknd",
+      "brano": "Save Your Tears",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Lazza",
+      "brano": "Uscito di galera",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Harry Styles",
+      "brano": "As It Was",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Drillionaire, Lazza, Blanco, Sfera Ebbasta, Michelangelo",
+      "brano": "Bon ton",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Capo Plaza",
+      "brano": "Capri Sun",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Rkomi, Irama & Shablo",
+      "brano": "Luna piena",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Pinguini Tattici Nucleari",
+      "brano": "Ricordi",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Geolier",
+      "brano": "Come vuoi",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Annalisa",
+      "brano": "Bellissima",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2023,
+      "artista": "Finesse (feat. Shiva, Sfera Ebbasta & Guè)",
+      "brano": "Gelosa",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Marracash & Guè",
+      "brano": "Infinity Love",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Ernia",
+      "brano": "Ferma a guardare",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "Irama (feat. Rkomi)",
+      "brano": "5 gocce",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2022,
+      "artista": "James Hype & Miggy Dela Rosa (soli o con Lazza)",
+      "brano": "Ferrari",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Tananai",
+      "brano": "Baby Goddamn",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Pinguini Tattici Nucleari",
+      "brano": "Scrivile scemo",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2021,
+      "artista": "Blanco",
+      "brano": "Finché non mi seppelliscono",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2009,
+      "artista": "Artisti Uniti per l'Abruzzo",
+      "brano": "Domani 21/04.2009",
+      "unita_certificate": "500 000+",
+      "certificazione": "-",
+      "anno_certificazione": 2009
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2017,
+      "artista": "Ed Sheeran",
+      "brano": "Shape of You",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2015,
+      "artista": "Sia (feat. Sean Paul)",
+      "brano": "Cheap Thrills",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2017,
+      "artista": "Luis Fonsi (feat. Daddy Yankee)",
+      "brano": "Despacito",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "generale",
+      "anno_pubblicazione": 2015,
+      "artista": "Baby K (feat. Giusy Ferreri)",
+      "brano": "Roma-Bangkok",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2019
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2022,
+      "artista": "Bizarrap & Quevedo",
+      "brano": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "unita_certificate": "800 000+",
+      "certificazione": "Platino (8)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2019,
+      "artista": "The Weeknd",
+      "brano": "Blinding Lights",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2013,
+      "artista": "Tom Odell",
+      "brano": "Another Love",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2018,
+      "artista": "Lewis Capaldi",
+      "brano": "Someone You Loved",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2018,
+      "artista": "Lady Gaga & Bradley Cooper",
+      "brano": "Shallow",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2013,
+      "artista": "OneRepublic",
+      "brano": "Counting Stars",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2008,
+      "artista": "Coldplay",
+      "brano": "Viva la vida",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 1994,
+      "artista": "Mariah Carey",
+      "brano": "All I Want for Christmas Is You",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 1975,
+      "artista": "Queen",
+      "brano": "Bohemian Rhapsody",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2020,
+      "artista": "The Weeknd",
+      "brano": "Save Your Tears",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2022,
+      "artista": "Harry Styles",
+      "brano": "As It Was",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2022,
+      "artista": "James Hype & Miggy Dela Rosa (soli o con Lazza)",
+      "brano": "Ferrari",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2017,
+      "artista": "Ed Sheeran",
+      "brano": "Shape of You",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2015,
+      "artista": "Sia (feat. Sean Paul)",
+      "brano": "Cheap Thrills",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "internazionali",
+      "anno_pubblicazione": 2017,
+      "artista": "Luis Fonsi (feat. Daddy Yankee)",
+      "brano": "Despacito",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2024,
+      "artista": "Olly, Angelina Mango e Juli",
+      "brano": "Per due come noi",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (3)",
+      "anno_certificazione": 2026
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2023,
+      "artista": "Annalisa",
+      "brano": "Mon amour",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2023,
+      "artista": "Ava, Anna & Capo Plaza",
+      "brano": "Vetri neri",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2022,
+      "artista": "Fedez, Tananai & Mara Sattei",
+      "brano": "La dolce vita",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2018,
+      "artista": "Lady Gaga & Bradley Cooper",
+      "brano": "Shallow",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2021,
+      "artista": "Rkomi & Elodie",
+      "brano": "La coda del diavolo",
+      "unita_certificate": "600 000+",
+      "certificazione": "Platino (6)",
+      "anno_certificazione": 2023
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 1994,
+      "artista": "Mariah Carey",
+      "brano": "All I Want for Christmas Is You",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2023,
+      "artista": "Blanco & Mina",
+      "brano": "Un briciolo di allegria",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2023,
+      "artista": "Fedez, Annalisa & Articolo 31",
+      "brano": "Disco Paradise",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2022,
+      "artista": "Annalisa",
+      "brano": "Bellissima",
+      "unita_certificate": "500 000+",
+      "certificazione": "Platino (5)",
+      "anno_certificazione": 2024
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2015,
+      "artista": "Sia (feat. Sean Paul)",
+      "brano": "Cheap Thrills",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2017
+    },
+    {
+      "classifica": "femminili",
+      "anno_pubblicazione": 2015,
+      "artista": "Baby K (feat. Giusy Ferreri)",
+      "brano": "Roma-Bangkok",
+      "unita_certificate": "500 000+",
+      "certificazione": "Diamante",
+      "anno_certificazione": 2019
+    }
+  ],
+  "meta": {
+    "title": "Singoli più venduti in Italia dal 2009 - Free Download",
+    "description": "Brani con le certificazioni FIMI più alte in Italia dal 2009: classifica generale, singoli internazionali e singoli femminili, con unità vendute, livello di certificazione e anno. Contains 97 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Singoli più venduti in Italia dal 2009 | ListBase",
+    "seo_description": "Download Singoli più venduti in Italia dal 2009 — 97 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 97 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Singoli_più_venduti_in_Italia"
+    ]
+  }
+}
