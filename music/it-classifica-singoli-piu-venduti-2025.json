@@ -1,0 +1,541 @@
+{
+  "id": "it-classifica-singoli-piu-venduti-2025",
+  "name": "Classifica dei singoli più venduti in Italia nel 2025",
+  "title": "Classifica dei singoli più venduti in Italia nel 2025",
+  "description": "I 100 singoli più venduti in Italia nel 2025 secondo la classifica annuale FIMI.",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Classifica_dei_singoli_più_venduti_in_Italia_nel_2025",
+  "source_url": "https://it.wikipedia.org/wiki/Classifica_dei_singoli_più_venduti_in_Italia_nel_2025",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "posizione",
+      "label": "Posizione",
+      "type": "number"
+    },
+    {
+      "key": "titolo",
+      "label": "Titolo",
+      "type": "string"
+    },
+    {
+      "key": "artista",
+      "label": "Artista",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "posizione": 1,
+      "titolo": "Balorda nostalgia",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 2,
+      "titolo": "La cura per me",
+      "artista": "Giorgia"
+    },
+    {
+      "posizione": 3,
+      "titolo": "Incoscienti giovani",
+      "artista": "Achille Lauro"
+    },
+    {
+      "posizione": 4,
+      "titolo": "Ora che non ho più te",
+      "artista": "Cesare Cremonini"
+    },
+    {
+      "posizione": 5,
+      "titolo": "Neon",
+      "artista": "Sfera Ebbasta e Shiva"
+    },
+    {
+      "posizione": 6,
+      "titolo": "Per due come noi",
+      "artista": "Olly, Angelina Mango e Juli"
+    },
+    {
+      "posizione": 7,
+      "titolo": "La plena",
+      "artista": "W Sound, Beéle e Ovy on the Drums"
+    },
+    {
+      "posizione": 8,
+      "titolo": "Il filo rosso",
+      "artista": "Alfa"
+    },
+    {
+      "posizione": 9,
+      "titolo": "A me mi piace",
+      "artista": "Alfa e Manu Chao"
+    },
+    {
+      "posizione": 10,
+      "titolo": "DTMF",
+      "artista": "Bad Bunny"
+    },
+    {
+      "posizione": 11,
+      "titolo": "Devastante",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 12,
+      "titolo": "Scarabocchi",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 13,
+      "titolo": "Battito",
+      "artista": "Fedez"
+    },
+    {
+      "posizione": 14,
+      "titolo": "Bottiglie vuote",
+      "artista": "Pinguini Tattici Nucleari feat. Max Pezzali"
+    },
+    {
+      "posizione": 15,
+      "titolo": "Cuoricini",
+      "artista": "Coma_Cose"
+    },
+    {
+      "posizione": 16,
+      "titolo": "Islanda",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "posizione": 17,
+      "titolo": "Ordinary",
+      "artista": "Alex Warren"
+    },
+    {
+      "posizione": 18,
+      "titolo": "Amor",
+      "artista": "Achille Lauro"
+    },
+    {
+      "posizione": 19,
+      "titolo": "Volevo essere un duro",
+      "artista": "Lucio Corsi"
+    },
+    {
+      "posizione": 20,
+      "titolo": "Désolée",
+      "artista": "Anna"
+    },
+    {
+      "posizione": 21,
+      "titolo": "Buio davanti",
+      "artista": "Lazza"
+    },
+    {
+      "posizione": 22,
+      "titolo": "Nuevayol",
+      "artista": "Bad Bunny"
+    },
+    {
+      "posizione": 23,
+      "titolo": "Lei",
+      "artista": "Marracash"
+    },
+    {
+      "posizione": 24,
+      "titolo": "Fuorilegge",
+      "artista": "Rose Villain"
+    },
+    {
+      "posizione": 25,
+      "titolo": "Capaz (Merenguetón)",
+      "artista": "Alleh e Yorghaki"
+    },
+    {
+      "posizione": 26,
+      "titolo": "Tu con chi fai l'amore",
+      "artista": "The Kolors"
+    },
+    {
+      "posizione": 27,
+      "titolo": "La tana del granchio",
+      "artista": "Bresh"
+    },
+    {
+      "posizione": 28,
+      "titolo": "Rossetto e caffè",
+      "artista": "Sal Da Vinci"
+    },
+    {
+      "posizione": 29,
+      "titolo": "Chiamo io chiami tu",
+      "artista": "Gaia"
+    },
+    {
+      "posizione": 30,
+      "titolo": "Amore disperato",
+      "artista": "Achille Lauro"
+    },
+    {
+      "posizione": 31,
+      "titolo": "Questa domenica",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 32,
+      "titolo": "Serenata",
+      "artista": "Serena Brancale e Alessandra Amoroso"
+    },
+    {
+      "posizione": 33,
+      "titolo": "Anema e core",
+      "artista": "Serena Brancale"
+    },
+    {
+      "posizione": 34,
+      "titolo": "Tu me quieres",
+      "artista": "Baby Gang feat. Omega"
+    },
+    {
+      "posizione": 35,
+      "titolo": "Oh mamma mia",
+      "artista": "Guè feat. Rose Villain"
+    },
+    {
+      "posizione": 36,
+      "titolo": "Gli sbandati hanno perso",
+      "artista": "Marracash"
+    },
+    {
+      "posizione": 37,
+      "titolo": "Yakuza",
+      "artista": "Elodie, Sfera Ebbasta e Rvssian"
+    },
+    {
+      "posizione": 38,
+      "titolo": "Nessuna",
+      "artista": "Luchè"
+    },
+    {
+      "posizione": 39,
+      "titolo": "Quei ricordi là",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 40,
+      "titolo": "Apt.",
+      "artista": "Rosé e Bruno Mars"
+    },
+    {
+      "posizione": 41,
+      "titolo": "Si antes te hubiera conocido",
+      "artista": "Karol G"
+    },
+    {
+      "posizione": 42,
+      "titolo": "Sogno americano",
+      "artista": "Artie 5ive"
+    },
+    {
+      "posizione": 43,
+      "titolo": "Depresso fortunato",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 44,
+      "titolo": "La mia parola",
+      "artista": "Shablo feat. Guè, Joshua e Tormento"
+    },
+    {
+      "posizione": 45,
+      "titolo": "Tutta l'Italia",
+      "artista": "Gabry Ponte"
+    },
+    {
+      "posizione": 46,
+      "titolo": "Maschio",
+      "artista": "Annalisa"
+    },
+    {
+      "posizione": 47,
+      "titolo": "Menomale che c'è il mare",
+      "artista": "Olly e Juli"
+    },
+    {
+      "posizione": 48,
+      "titolo": "Che gusto c'è",
+      "artista": "Fabri Fibra e Tredici Pietro"
+    },
+    {
+      "posizione": 49,
+      "titolo": "Halo",
+      "artista": "Samurai Jay e Vito Salamanca"
+    },
+    {
+      "posizione": 50,
+      "titolo": "Die with a Smile",
+      "artista": "Lady Gaga e Bruno Mars"
+    },
+    {
+      "posizione": 51,
+      "titolo": "Il ritmo delle cose",
+      "artista": "Rkomi"
+    },
+    {
+      "posizione": 52,
+      "titolo": "Dimenticarsi alle 7",
+      "artista": "Elodie"
+    },
+    {
+      "posizione": 53,
+      "titolo": "Piangere a 90",
+      "artista": "Blanco"
+    },
+    {
+      "posizione": 54,
+      "titolo": "Vibe",
+      "artista": "Guè"
+    },
+    {
+      "posizione": 55,
+      "titolo": "Lentamente",
+      "artista": "Irama"
+    },
+    {
+      "posizione": 56,
+      "titolo": "Bella davvero",
+      "artista": "Ultimo"
+    },
+    {
+      "posizione": 57,
+      "titolo": "Nonostante tutto",
+      "artista": "Cesare Cremonini e Elisa"
+    },
+    {
+      "posizione": 58,
+      "titolo": "Golden",
+      "artista": "Huntr/x"
+    },
+    {
+      "posizione": 59,
+      "titolo": "Beautiful Things",
+      "artista": "Benson Boone"
+    },
+    {
+      "posizione": 60,
+      "titolo": "Ginevra",
+      "artista": "Luchè"
+    },
+    {
+      "posizione": 61,
+      "titolo": "Kriminal",
+      "artista": "Baby Gang, El Alfa e Omega feat. Roberto Ferrante"
+    },
+    {
+      "posizione": 62,
+      "titolo": "Gata Only (Remix)",
+      "artista": "FloyyMenor, Ozuna e Anitta"
+    },
+    {
+      "posizione": 63,
+      "titolo": "Se t'innamori muori",
+      "artista": "Noemi"
+    },
+    {
+      "posizione": 64,
+      "titolo": "100 messaggi",
+      "artista": "Lazza"
+    },
+    {
+      "posizione": 65,
+      "titolo": "Abracadabra",
+      "artista": "Lady Gaga"
+    },
+    {
+      "posizione": 66,
+      "titolo": "Bianca",
+      "artista": "Rrari dal Tacco e Kid Yugi"
+    },
+    {
+      "posizione": 67,
+      "titolo": "Non metterci becco",
+      "artista": "Sfera Ebbasta e Shiva"
+    },
+    {
+      "posizione": 68,
+      "titolo": "Destri",
+      "artista": "Gazzelle"
+    },
+    {
+      "posizione": 69,
+      "titolo": "Bam bam",
+      "artista": "Banfy feat. Sheridan"
+    },
+    {
+      "posizione": 70,
+      "titolo": "Scelte stupide",
+      "artista": "Fedez e Clara"
+    },
+    {
+      "posizione": 71,
+      "titolo": "Amaro",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "posizione": 72,
+      "titolo": "Born with a Broken Heart",
+      "artista": "Damiano David"
+    },
+    {
+      "posizione": 73,
+      "titolo": "La nuova stella di Broadway",
+      "artista": "Cesare Cremonini"
+    },
+    {
+      "posizione": 74,
+      "titolo": "Baile inolvidable",
+      "artista": "Bad Bunny"
+    },
+    {
+      "posizione": 75,
+      "titolo": "VVS Cartier",
+      "artista": "Sfera Ebbasta e Shiva"
+    },
+    {
+      "posizione": 76,
+      "titolo": "Amarcord",
+      "artista": "Sarah Toscano"
+    },
+    {
+      "posizione": 77,
+      "titolo": "Sexy rave",
+      "artista": "Fred De Palma feat. Baby Gang"
+    },
+    {
+      "posizione": 78,
+      "titolo": "Voy a llevarte pa' PR",
+      "artista": "Bad Bunny"
+    },
+    {
+      "posizione": 79,
+      "titolo": "Storie brevi",
+      "artista": "Tananai e Annalisa"
+    },
+    {
+      "posizione": 80,
+      "titolo": "Crudelia - I nervi",
+      "artista": "Marracash"
+    },
+    {
+      "posizione": 81,
+      "titolo": "Messy",
+      "artista": "Lola Young"
+    },
+    {
+      "posizione": 82,
+      "titolo": "That's So True",
+      "artista": "Gracie Abrams"
+    },
+    {
+      "posizione": 83,
+      "titolo": "L'albero delle noci",
+      "artista": "Brunori Sas"
+    },
+    {
+      "posizione": 84,
+      "titolo": "Un mondo a parte",
+      "artista": "Jovanotti"
+    },
+    {
+      "posizione": 85,
+      "titolo": "Move",
+      "artista": "Adam Port, Stryv e Malachiii feat. Camila Cabello"
+    },
+    {
+      "posizione": 86,
+      "titolo": "Show Me Love",
+      "artista": "WizTheMc e Bees & Honey"
+    },
+    {
+      "posizione": 87,
+      "titolo": "Anche stasera",
+      "artista": "Sfera Ebbasta e Elodie"
+    },
+    {
+      "posizione": 88,
+      "titolo": "L'ultima poesia",
+      "artista": "Geolier e Ultimo"
+    },
+    {
+      "posizione": 89,
+      "titolo": "Pastello bianco",
+      "artista": "Pinguini Tattici Nucleari"
+    },
+    {
+      "posizione": 90,
+      "titolo": "30ºC",
+      "artista": "Anna"
+    },
+    {
+      "posizione": 91,
+      "titolo": "Umore marea",
+      "artista": "Bresh"
+    },
+    {
+      "posizione": 92,
+      "titolo": "Damme 'na mano",
+      "artista": "Tony Effe"
+    },
+    {
+      "posizione": 93,
+      "titolo": "Every Breath You Take",
+      "artista": "The Police"
+    },
+    {
+      "posizione": 94,
+      "titolo": "Bambola",
+      "artista": "Artie 5ive feat. Niky Savage"
+    },
+    {
+      "posizione": 95,
+      "titolo": "Brivido",
+      "artista": "Guè feat. Marracash"
+    },
+    {
+      "posizione": 96,
+      "titolo": "Poetica",
+      "artista": "Cesare Cremonini"
+    },
+    {
+      "posizione": 97,
+      "titolo": "Per te",
+      "artista": "Ernia"
+    },
+    {
+      "posizione": 98,
+      "titolo": "Ex angelo",
+      "artista": "Kid Yugi, Sfera Ebbasta e Shablo"
+    },
+    {
+      "posizione": 99,
+      "titolo": "La musica non c'è",
+      "artista": "Coez"
+    },
+    {
+      "posizione": 100,
+      "titolo": "Sesso e samba",
+      "artista": "Tony Effe e Gaia"
+    }
+  ],
+  "meta": {
+    "title": "Classifica dei singoli più venduti in Italia nel 2025 - Free Download",
+    "description": "I 100 singoli più venduti in Italia nel 2025 secondo la classifica annuale FIMI. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Classifica dei singoli più venduti in Italia nel 2025 | ListBase",
+    "seo_description": "Download Classifica dei singoli più venduti in Italia nel 2025 — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Classifica_dei_singoli_più_venduti_in_Italia_nel_2025"
+    ]
+  }
+}

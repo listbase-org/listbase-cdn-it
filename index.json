@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-15T02:24:43.478Z",
-  "total_datasets": 551,
-  "total_records": 149659,
+  "generated": "2026-11-15T02:24:55.799Z",
+  "total_datasets": 552,
+  "total_records": 149759,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -2510,6 +2510,30 @@
         "xlsx": {
           "name": "it-brani-numero-uno-fimi-2023-2025_IT.xlsx",
           "size": 13534
+        }
+      }
+    },
+    {
+      "id": "it-classifica-singoli-piu-venduti-2025",
+      "name": "Classifica dei singoli più venduti in Italia nel 2025",
+      "category": "music",
+      "record_count": 100,
+      "columns": [
+        "posizione",
+        "titolo",
+        "artista"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Classifica_dei_singoli_più_venduti_in_Italia_nel_2025",
+      "updated": "2026-11",
+      "size": 11973,
+      "files": {
+        "csv": {
+          "name": "it-classifica-singoli-piu-venduti-2025_IT.csv",
+          "size": 3898
+        },
+        "xlsx": {
+          "name": "it-classifica-singoli-piu-venduti-2025_IT.xlsx",
+          "size": 10211
         }
       }
     },
