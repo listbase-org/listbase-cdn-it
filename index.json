@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-16T02:11:42.465Z",
-  "total_datasets": 555,
-  "total_records": 149995,
+  "generated": "2026-11-16T02:11:54.542Z",
+  "total_datasets": 556,
+  "total_records": 150162,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -16233,6 +16233,30 @@
         "xlsx": {
           "name": "it-medaglia-matteucci-vincitori_IT.xlsx",
           "size": 8668
+        }
+      }
+    },
+    {
+      "id": "it-medaglie-dei-xl-vincitori",
+      "name": "Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori",
+      "category": "science",
+      "record_count": 167,
+      "columns": [
+        "medaglia",
+        "anno",
+        "vincitore"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Medaglia_dei_XL_per_la_matematica_e_per_le_scienze_fisiche_e_naturali",
+      "updated": "2026-11",
+      "size": 24317,
+      "files": {
+        "csv": {
+          "name": "it-medaglie-dei-xl-vincitori_IT.csv",
+          "size": 11765
+        },
+        "xlsx": {
+          "name": "it-medaglie-dei-xl-vincitori_IT.xlsx",
+          "size": 11031
         }
       }
     },

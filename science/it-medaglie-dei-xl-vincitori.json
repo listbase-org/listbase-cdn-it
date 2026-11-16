@@ -1,0 +1,876 @@
+{
+  "id": "it-medaglie-dei-xl-vincitori",
+  "name": "Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori",
+  "title": "Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori",
+  "description": "Vincitori delle Medaglie dei XL assegnate dall'Accademia Nazionale delle Scienze per la matematica e per le scienze fisiche e naturali.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Medaglia_dei_XL_per_la_matematica_e_per_le_scienze_fisiche_e_naturali",
+  "source_url": "https://it.wikipedia.org/wiki/Medaglia_dei_XL_per_la_matematica_e_per_le_scienze_fisiche_e_naturali",
+  "updated": "2026-11",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "medaglia",
+      "label": "Medaglia",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "vincitore",
+      "label": "Vincitore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1868,
+      "vincitore": "Felice Casorati"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1875,
+      "vincitore": "Eugenio Beltrami"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1876,
+      "vincitore": "Emanuele Fergola"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1878,
+      "vincitore": "Ettore Caporali"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1879,
+      "vincitore": "Enrico D'Ovidio"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1880,
+      "vincitore": "Riccardo De Paolis"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1882,
+      "vincitore": "Alfredo Capelli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1883,
+      "vincitore": "Luigi Bianchi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1884,
+      "vincitore": "Corrado Segrè"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1887,
+      "vincitore": "Ernesto Cesàro"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1888,
+      "vincitore": "Vito Volterra"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1893,
+      "vincitore": "Guido Castelnuovo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1894,
+      "vincitore": "Carlo Somigliana"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1895,
+      "vincitore": "Federico Enriques"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1986,
+      "vincitore": "Alfredo Capelli (seconda volta)"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1901,
+      "vincitore": "Gregorio Ricci-Curbastro"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1903,
+      "vincitore": "Tullio Levi-Civita"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1904,
+      "vincitore": "Ernesto Pascal"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1905,
+      "vincitore": "Cesare Arzelà"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1906,
+      "vincitore": "Francesco Severi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1907,
+      "vincitore": "Francesco Lauricella"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1908,
+      "vincitore": "Guido Fubini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1909,
+      "vincitore": "Giuseppe Picciati"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1911,
+      "vincitore": "Emilio Almansi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1912,
+      "vincitore": "Eugenio Levi Elia"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1913,
+      "vincitore": "Max Abraham"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1914,
+      "vincitore": "Ernesto Pascal (seconda volta)"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1915,
+      "vincitore": "Pasquale Calapso"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1916,
+      "vincitore": "Eugenio Torelli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1918,
+      "vincitore": "Ugo Amaldi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1919,
+      "vincitore": "Giuseppe Armellini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1920,
+      "vincitore": "Antonio Signorini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1921,
+      "vincitore": "Orazio Tedone"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1922,
+      "vincitore": "Gaetano Scorza"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1923,
+      "vincitore": "Leonida Tonelli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1924,
+      "vincitore": "Umberto Cisotti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1925,
+      "vincitore": "Enrico Bompiani"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1926,
+      "vincitore": "Annibale Comessatti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1927,
+      "vincitore": "Giuseppe Vitali"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1928,
+      "vincitore": "Carlo Rosati"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1929,
+      "vincitore": "Luigi Fantappié"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1930,
+      "vincitore": "Beniamino Segre"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1931,
+      "vincitore": "Francesco Paolo Cantelli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1932,
+      "vincitore": "Giulio Krall"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1933,
+      "vincitore": "Vladimiro Bernstein"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1942,
+      "vincitore": "Giovanni Sansone"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1956,
+      "vincitore": "Francesco Tricomi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1975,
+      "vincitore": "Edoardo Vesentini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1977,
+      "vincitore": "Bruno Pini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1979,
+      "vincitore": "Claudio Procesi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1980,
+      "vincitore": "Giovanni Prodi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1982,
+      "vincitore": "Carlo Cercignani"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1985,
+      "vincitore": "Enrico Arbarello"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1986,
+      "vincitore": "Gabriele Darbo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1987,
+      "vincitore": "Giorgio Talenti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1988,
+      "vincitore": "Alberto Tognoli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1989,
+      "vincitore": "Mario Miranda"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1990,
+      "vincitore": "Corrado De Concini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1991,
+      "vincitore": "Sergio Spagnolo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1992,
+      "vincitore": "Fabrizio Catanese"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1993,
+      "vincitore": "Giovanni Aquaro"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1994,
+      "vincitore": "Luigi Salvadori"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1995,
+      "vincitore": "Marco Biroli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1996,
+      "vincitore": "Gianni Dal Maso"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1997,
+      "vincitore": "Tullio Valenti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1998,
+      "vincitore": "Giuseppe Tomassini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 1999,
+      "vincitore": "Enrico Giusti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2000,
+      "vincitore": "Carlo Sbordone"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2001,
+      "vincitore": "Umberto Mosco"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2002,
+      "vincitore": "Maurizio Cornalba"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2003,
+      "vincitore": "Stefano Bianchini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2004,
+      "vincitore": "Kieran O'Grady"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2005,
+      "vincitore": "Umberto Zannier"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2006,
+      "vincitore": "Graziano Gentili"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2015,
+      "vincitore": "Luigi Ambrosio"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2016,
+      "vincitore": "Maria Agostina Vivaldi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2017,
+      "vincitore": "Riccardo Salvati Manni"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2018,
+      "vincitore": "Fabrizio Andreatta"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2019,
+      "vincitore": "Giovanni Alessandrini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2020,
+      "vincitore": "Franco Flandoli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2021,
+      "vincitore": "Roberto Longo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2022,
+      "vincitore": "Giovanni Forni"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2023,
+      "vincitore": "Emanuele Macrì"
+    },
+    {
+      "medaglia": "Medaglie dei XL per la matematica",
+      "anno": 2024,
+      "vincitore": "Michela Procesi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1868,
+      "vincitore": "Achille De Zigno"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1875,
+      "vincitore": "Giovanni D'Achiardi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1876,
+      "vincitore": "Francesco Rossetti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1878,
+      "vincitore": "Salvatore Trinchese"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1881,
+      "vincitore": "Luigi Bellardi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1882,
+      "vincitore": "Francesco Bassani"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1883,
+      "vincitore": "Pier Andrea Saccardo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1887,
+      "vincitore": "Giuseppe Ciaccio"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1888,
+      "vincitore": "Salvatore Lo Bianco"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1890,
+      "vincitore": "Odoardo Beccari"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1893,
+      "vincitore": "Amerigo Andreocci"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1894,
+      "vincitore": "Raffaello Zoia"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1895,
+      "vincitore": "Francesco Todaro"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1896,
+      "vincitore": "Giovanni Battista Grassi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1901,
+      "vincitore": "Damiano Macaluso"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1903,
+      "vincitore": "Angelo Mafucci"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1904,
+      "vincitore": "Adelchi Negri"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1905,
+      "vincitore": "Andrea Giardina"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1906,
+      "vincitore": "Carlo Viola"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1907,
+      "vincitore": "Biagio Longo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1908,
+      "vincitore": "Filippo Silvestri"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1909,
+      "vincitore": "Ramiro Fabiani"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1910,
+      "vincitore": "Angelo Ruffini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1911,
+      "vincitore": "Odoardo Beccari (seconda volta)"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1912,
+      "vincitore": "Luigi Sabbatini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1913,
+      "vincitore": "Ercole Giacomini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1914,
+      "vincitore": "Gaetano Fichera"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1915,
+      "vincitore": "Giuseppe Antonio Barbieri"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1916,
+      "vincitore": "Giulio Cotronei"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1917,
+      "vincitore": "Enrico Carano"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1918,
+      "vincitore": "Filippo Eredia"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1919,
+      "vincitore": "Maurizio Padoa"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1920,
+      "vincitore": "Domenico Zaccagna"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1921,
+      "vincitore": "Giovanni Vitali"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1923,
+      "vincitore": "Riccardo Versari"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1924,
+      "vincitore": "Giovanni Negri"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1925,
+      "vincitore": "Achille Forti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1926,
+      "vincitore": "Secondo Franchi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1927,
+      "vincitore": "Piero Aloisi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1928,
+      "vincitore": "Alberto Chiarugi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1929,
+      "vincitore": "Geremia D’Erasmo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1930,
+      "vincitore": "Pasquale Pasquini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1931,
+      "vincitore": "Giuseppe Stefanini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1932,
+      "vincitore": "Cesare Artom"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1933,
+      "vincitore": "Luigi Sanzo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1942,
+      "vincitore": "Massimo Fenoglio"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1956,
+      "vincitore": "Giuseppe Amantea"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1956,
+      "vincitore": "Robert Courrier"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1975,
+      "vincitore": "Floriano Papi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1977,
+      "vincitore": "Giuseppe Cagliotti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1979,
+      "vincitore": "Eusebio Tria"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1980,
+      "vincitore": "Federico Arcamone"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1982,
+      "vincitore": "Luciano Bullini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1985,
+      "vincitore": "Alfonso Bosellini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1986,
+      "vincitore": "Rodolfo Alessandro Nicolaus"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1987,
+      "vincitore": "Francesco Salamini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1988,
+      "vincitore": "Arturo Falaschi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1989,
+      "vincitore": "Piero Sensi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1990,
+      "vincitore": "Mario Brufani"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1991,
+      "vincitore": "Ernesto Carafoli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1992,
+      "vincitore": "Vittorio Crescenzi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1993,
+      "vincitore": "Paolo Costantino"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1994,
+      "vincitore": "Stefano Merlino"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1995,
+      "vincitore": "Valerio Sbordoni"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1996,
+      "vincitore": "Luigi Minale"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1997,
+      "vincitore": "Luigi Nicolais"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1998,
+      "vincitore": "Piergiorgio Strata"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 1999,
+      "vincitore": "Francesco Amaldi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2000,
+      "vincitore": "Augusto Biancotti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2001,
+      "vincitore": "Leonello Paoloni"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2002,
+      "vincitore": "Alessandro Minelli"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2003,
+      "vincitore": "Giuseppina Barsacchi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2004,
+      "vincitore": "Patrizia Aducci"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2005,
+      "vincitore": "Michele Morgante"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2006,
+      "vincitore": "Francesco Salvatore"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2015,
+      "vincitore": "Francesco Paolo Sassi"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2016,
+      "vincitore": "Vincenzo Di Marzo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2017,
+      "vincitore": "Ferdinando Boero"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2018,
+      "vincitore": "Riccardo Valentini"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2019,
+      "vincitore": "Maria Luce Frezzotti"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2020,
+      "vincitore": "Renato Ugo"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2021,
+      "vincitore": "Commissione Tecnico Scientifica di Castelporziano"
+    },
+    {
+      "medaglia": "Medaglie dei XL per le scienze fisiche e naturali",
+      "anno": 2022,
+      "vincitore": "Giovanni Giuseppe Vendramin"
+    }
+  ],
+  "meta": {
+    "title": "Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori - Free Download",
+    "description": "Vincitori delle Medaglie dei XL assegnate dall'Accademia Nazionale delle Scienze per la matematica e per le scienze fisiche e naturali. Contains 167 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori | ListBase",
+    "seo_description": "Download Medaglie dei XL per la matematica e per le scienze fisiche e naturali — vincitori — 167 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 167 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Medaglia_dei_XL_per_la_matematica_e_per_le_scienze_fisiche_e_naturali"
+    ]
+  }
+}
