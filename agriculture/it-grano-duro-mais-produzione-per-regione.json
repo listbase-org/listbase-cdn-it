@@ -1,0 +1,560 @@
+{
+  "id": "it-grano-duro-mais-produzione-per-regione",
+  "name": "Grano duro e mais: superficie e produzione per regione (2022–2024)",
+  "title": "Grano duro e mais: superficie e produzione per regione (2022–2024)",
+  "description": "Superficie coltivata (migliaia di ettari) e produzione raccolta (migliaia di tonnellate) di grano duro e mais da granella nelle regioni italiane, dati Eurostat/ISTAT.",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "grano_duro_superficie_mila_ha",
+      "label": "Grano Duro Superficie Mila Ha",
+      "type": "number"
+    },
+    {
+      "key": "grano_duro_produzione_mila_t",
+      "label": "Grano Duro Produzione Mila T",
+      "type": "number"
+    },
+    {
+      "key": "mais_superficie_mila_ha",
+      "label": "Mais Superficie Mila Ha",
+      "type": "number"
+    },
+    {
+      "key": "mais_produzione_mila_t",
+      "label": "Mais Produzione Mila T",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 35.16,
+      "grano_duro_produzione_mila_t": 115.14,
+      "mais_superficie_mila_ha": 7.64,
+      "mais_produzione_mila_t": 61.78
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 115.16,
+      "grano_duro_produzione_mila_t": 298.91,
+      "mais_superficie_mila_ha": 0.82,
+      "mais_produzione_mila_t": 3.86
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 23.09,
+      "grano_duro_produzione_mila_t": 63.48,
+      "mais_superficie_mila_ha": 4.12,
+      "mais_produzione_mila_t": 18.44
+    },
+    {
+      "regione": "Campania",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 53.4,
+      "grano_duro_produzione_mila_t": 153.22,
+      "mais_superficie_mila_ha": 12.64,
+      "mais_produzione_mila_t": 93.54
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 84.31,
+      "grano_duro_produzione_mila_t": 482.29,
+      "mais_superficie_mila_ha": 59.15,
+      "mais_produzione_mila_t": 438.09
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 0.18,
+      "grano_duro_produzione_mila_t": 0.69,
+      "mais_superficie_mila_ha": 40.74,
+      "mais_produzione_mila_t": 352.06
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 40.13,
+      "grano_duro_produzione_mila_t": 123.07,
+      "mais_superficie_mila_ha": 13.01,
+      "mais_produzione_mila_t": 108.49
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.1,
+      "mais_produzione_mila_t": 0.43
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 14.91,
+      "grano_duro_produzione_mila_t": 84.56,
+      "mais_superficie_mila_ha": 128.1,
+      "mais_produzione_mila_t": 1179.75
+    },
+    {
+      "regione": "Marche",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 90.32,
+      "grano_duro_produzione_mila_t": 392.78,
+      "mais_superficie_mila_ha": 3.33,
+      "mais_produzione_mila_t": 23.85
+    },
+    {
+      "regione": "Molise",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 41.5,
+      "grano_duro_produzione_mila_t": 142.03,
+      "mais_superficie_mila_ha": 1.3,
+      "mais_produzione_mila_t": 5.42
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 2.15,
+      "grano_duro_produzione_mila_t": 6.91,
+      "mais_superficie_mila_ha": 130.65,
+      "mais_produzione_mila_t": 1257.12
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0,
+      "mais_produzione_mila_t": 0.03
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 0.01,
+      "grano_duro_produzione_mila_t": 0.02,
+      "mais_superficie_mila_ha": 0.35,
+      "mais_produzione_mila_t": 1.61
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 344.2,
+      "grano_duro_produzione_mila_t": 788.04,
+      "mais_superficie_mila_ha": 0.84,
+      "mais_produzione_mila_t": 5.22
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 29.2,
+      "grano_duro_produzione_mila_t": 71.93,
+      "mais_superficie_mila_ha": 2.46,
+      "mais_produzione_mila_t": 23.48
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 262.73,
+      "grano_duro_produzione_mila_t": 706.45,
+      "mais_superficie_mila_ha": 0.21,
+      "mais_produzione_mila_t": 1.34
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 59.5,
+      "grano_duro_produzione_mila_t": 197.1,
+      "mais_superficie_mila_ha": 8.33,
+      "mais_produzione_mila_t": 55.44
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 22.65,
+      "grano_duro_produzione_mila_t": 90.33,
+      "mais_superficie_mila_ha": 6.7,
+      "mais_produzione_mila_t": 52.67
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.01,
+      "mais_produzione_mila_t": 0.05
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2022,
+      "grano_duro_superficie_mila_ha": 19.38,
+      "grano_duro_produzione_mila_t": 114.25,
+      "mais_superficie_mila_ha": 143.23,
+      "mais_produzione_mila_t": 1014.51
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 35.16,
+      "grano_duro_produzione_mila_t": 115.14,
+      "mais_superficie_mila_ha": 7.58,
+      "mais_produzione_mila_t": 61.95
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 115.16,
+      "grano_duro_produzione_mila_t": 298.91,
+      "mais_superficie_mila_ha": 0.82,
+      "mais_produzione_mila_t": 3.86
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 23.09,
+      "grano_duro_produzione_mila_t": 63.48,
+      "mais_superficie_mila_ha": 4.12,
+      "mais_produzione_mila_t": 18.44
+    },
+    {
+      "regione": "Campania",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 53.06,
+      "grano_duro_produzione_mila_t": 119.15,
+      "mais_superficie_mila_ha": 12.54,
+      "mais_produzione_mila_t": 89.79
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 87.33,
+      "grano_duro_produzione_mila_t": 415.62,
+      "mais_superficie_mila_ha": 52.25,
+      "mais_produzione_mila_t": 492.96
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 0.12,
+      "grano_duro_produzione_mila_t": 0.45,
+      "mais_superficie_mila_ha": 35.26,
+      "mais_produzione_mila_t": 213.27
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 40.81,
+      "grano_duro_produzione_mila_t": 131.42,
+      "mais_superficie_mila_ha": 13.22,
+      "mais_produzione_mila_t": 110.27
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.08,
+      "mais_produzione_mila_t": 0.51
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 17.28,
+      "grano_duro_produzione_mila_t": 92.32,
+      "mais_superficie_mila_ha": 116.34,
+      "mais_produzione_mila_t": 1487.58
+    },
+    {
+      "regione": "Marche",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 89.41,
+      "grano_duro_produzione_mila_t": 300.24,
+      "mais_superficie_mila_ha": 2.52,
+      "mais_produzione_mila_t": 18.34
+    },
+    {
+      "regione": "Molise",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 43.6,
+      "grano_duro_produzione_mila_t": 158.11,
+      "mais_superficie_mila_ha": 1.25,
+      "mais_produzione_mila_t": 5.16
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 2.47,
+      "grano_duro_produzione_mila_t": 10.3,
+      "mais_superficie_mila_ha": 116.03,
+      "mais_produzione_mila_t": 1323.56
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.01,
+      "mais_produzione_mila_t": 0.04
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 0.01,
+      "grano_duro_produzione_mila_t": 0.02,
+      "mais_superficie_mila_ha": 0.34,
+      "mais_produzione_mila_t": 1.59
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 347.5,
+      "grano_duro_produzione_mila_t": 827.91,
+      "mais_superficie_mila_ha": 0.82,
+      "mais_produzione_mila_t": 5.16
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 29.89,
+      "grano_duro_produzione_mila_t": 84.19,
+      "mais_superficie_mila_ha": 2.45,
+      "mais_produzione_mila_t": 21.37
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 282.35,
+      "grano_duro_produzione_mila_t": 834.65,
+      "mais_superficie_mila_ha": 0.2,
+      "mais_produzione_mila_t": 1.26
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 63.27,
+      "grano_duro_produzione_mila_t": 201.58,
+      "mais_superficie_mila_ha": 6.79,
+      "mais_produzione_mila_t": 53.04
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 17.5,
+      "grano_duro_produzione_mila_t": 65.2,
+      "mais_superficie_mila_ha": 4.8,
+      "mais_produzione_mila_t": 43.04
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.01,
+      "mais_produzione_mila_t": 0.05
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2023,
+      "grano_duro_superficie_mila_ha": 21.29,
+      "grano_duro_produzione_mila_t": 110.46,
+      "mais_superficie_mila_ha": 121.04,
+      "mais_produzione_mila_t": 1397.47
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 35.19,
+      "grano_duro_produzione_mila_t": 115.81,
+      "mais_superficie_mila_ha": 7.48,
+      "mais_produzione_mila_t": 61.31
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 115.16,
+      "grano_duro_produzione_mila_t": 298.91,
+      "mais_superficie_mila_ha": 0.82,
+      "mais_produzione_mila_t": 3.86
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 23.09,
+      "grano_duro_produzione_mila_t": 63.48,
+      "mais_superficie_mila_ha": 4.12,
+      "mais_produzione_mila_t": 18.42
+    },
+    {
+      "regione": "Campania",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 52.6,
+      "grano_duro_produzione_mila_t": 161.88,
+      "mais_superficie_mila_ha": 12.5,
+      "mais_produzione_mila_t": 88.87
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 69.54,
+      "grano_duro_produzione_mila_t": 398.95,
+      "mais_superficie_mila_ha": 51.41,
+      "mais_produzione_mila_t": 510.08
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 0.03,
+      "grano_duro_produzione_mila_t": 0.09,
+      "mais_superficie_mila_ha": 33.06,
+      "mais_produzione_mila_t": 189.78
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 39.56,
+      "grano_duro_produzione_mila_t": 134.89,
+      "mais_superficie_mila_ha": 13.23,
+      "mais_produzione_mila_t": 113.54
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.08,
+      "mais_produzione_mila_t": 0.56
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 16.31,
+      "grano_duro_produzione_mila_t": 79.43,
+      "mais_superficie_mila_ha": 115.82,
+      "mais_produzione_mila_t": 1244.3
+    },
+    {
+      "regione": "Marche",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 72.82,
+      "grano_duro_produzione_mila_t": 322.52,
+      "mais_superficie_mila_ha": 2.35,
+      "mais_produzione_mila_t": 17.67
+    },
+    {
+      "regione": "Molise",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 44.7,
+      "grano_duro_produzione_mila_t": 161.91,
+      "mais_superficie_mila_ha": 1.25,
+      "mais_produzione_mila_t": 5.52
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 2.46,
+      "grano_duro_produzione_mila_t": 9.18,
+      "mais_superficie_mila_ha": 115.75,
+      "mais_produzione_mila_t": 1359.36
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.01,
+      "mais_produzione_mila_t": 0.04
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 0.01,
+      "grano_duro_produzione_mila_t": 0.02,
+      "mais_superficie_mila_ha": 0.35,
+      "mais_produzione_mila_t": 1.63
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 338.5,
+      "grano_duro_produzione_mila_t": 792.76,
+      "mais_superficie_mila_ha": 0.82,
+      "mais_produzione_mila_t": 5.03
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 14.32,
+      "grano_duro_produzione_mila_t": 38.07,
+      "mais_superficie_mila_ha": 2.42,
+      "mais_produzione_mila_t": 21.79
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 277.55,
+      "grano_duro_produzione_mila_t": 767.7,
+      "mais_superficie_mila_ha": 0.2,
+      "mais_produzione_mila_t": 1.06
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 43.66,
+      "grano_duro_produzione_mila_t": 142.77,
+      "mais_superficie_mila_ha": 6.21,
+      "mais_produzione_mila_t": 50.73
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 15.3,
+      "grano_duro_produzione_mila_t": 65.31,
+      "mais_superficie_mila_ha": 4.58,
+      "mais_produzione_mila_t": 40.78
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 0,
+      "grano_duro_produzione_mila_t": 0,
+      "mais_superficie_mila_ha": 0.01,
+      "mais_produzione_mila_t": 0.05
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2024,
+      "grano_duro_superficie_mila_ha": 16.65,
+      "grano_duro_produzione_mila_t": 80.3,
+      "mais_superficie_mila_ha": 122.91,
+      "mais_produzione_mila_t": 1206.16
+    }
+  ],
+  "meta": {
+    "title": "Grano duro e mais: superficie e produzione per regione (2022–2024) - Free Download",
+    "description": "Superficie coltivata (migliaia di ettari) e produzione raccolta (migliaia di tonnellate) di grano duro e mais da granella nelle regioni italiane, dati Eurostat/ISTAT. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Grano duro e mais: superficie e produzione per regione (2022–2024) | ListBase",
+    "seo_description": "Download Grano duro e mais: superficie e produzione per regione (2022–2024) — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table"
+    ]
+  }
+}

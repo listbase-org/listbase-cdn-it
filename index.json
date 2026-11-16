@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-11-15T02:25:07.184Z",
-  "total_datasets": 553,
-  "total_records": 149856,
+  "generated": "2026-11-16T02:11:30.717Z",
+  "total_datasets": 554,
+  "total_records": 149919,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -102,6 +102,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "it-grano-duro-mais-produzione-per-regione",
+      "name": "Grano duro e mais: superficie e produzione per regione (2022–2024)",
+      "category": "agriculture",
+      "record_count": 63,
+      "columns": [
+        "regione",
+        "anno",
+        "grano_duro_superficie_mila_ha",
+        "grano_duro_produzione_mila_t",
+        "mais_superficie_mila_ha",
+        "mais_produzione_mila_t"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+      "updated": "2026-11",
+      "size": 16877,
+      "files": {
+        "csv": {
+          "name": "it-grano-duro-mais-produzione-per-regione_IT.csv",
+          "size": 3395
+        },
+        "xlsx": {
+          "name": "it-grano-duro-mais-produzione-per-regione_IT.xlsx",
+          "size": 9095
+        }
+      }
+    },
     {
       "id": "it-prodotti-dop-igp",
       "name": "Prodotti agroalimentari DOP, IGP e STG italiani",
