@@ -1,0 +1,340 @@
+{
+  "id": "it-medaglia-matteucci-vincitori",
+  "name": "Medaglia Matteucci — vincitori",
+  "title": "Medaglia Matteucci — vincitori",
+  "description": "Elenco dei vincitori della Medaglia Matteucci, premio per la fisica assegnato dall'Accademia Nazionale delle Scienze detta dei XL dal 1868.",
+  "category": "science",
+  "source": "https://it.wikipedia.org/wiki/Medaglia_Matteucci",
+  "source_url": "https://it.wikipedia.org/wiki/Medaglia_Matteucci",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "vincitore",
+      "label": "Vincitore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 1868,
+      "vincitore": "Hermann von Helmholtz"
+    },
+    {
+      "anno": 1875,
+      "vincitore": "Henri Victor Regnault"
+    },
+    {
+      "anno": 1876,
+      "vincitore": "William Thomson, I barone Kelvin"
+    },
+    {
+      "anno": 1877,
+      "vincitore": "Gustav Kirchhoff"
+    },
+    {
+      "anno": 1878,
+      "vincitore": "Gustav Heinrich Wiedemann"
+    },
+    {
+      "anno": 1879,
+      "vincitore": "Wilhelm Eduard Weber"
+    },
+    {
+      "anno": 1880,
+      "vincitore": "Antonio Pacinotti"
+    },
+    {
+      "anno": 1881,
+      "vincitore": "Emilio Villari"
+    },
+    {
+      "anno": 1882,
+      "vincitore": "Augusto Righi"
+    },
+    {
+      "anno": 1887,
+      "vincitore": "Thomas Edison"
+    },
+    {
+      "anno": 1888,
+      "vincitore": "Heinrich Rudolph Hertz"
+    },
+    {
+      "anno": 1894,
+      "vincitore": "John Strutt, III barone Rayleigh"
+    },
+    {
+      "anno": 1895,
+      "vincitore": "Henry Augustus Rowland"
+    },
+    {
+      "anno": 1896,
+      "vincitore": "Wilhelm Conrad Röntgen e Philipp Lenard"
+    },
+    {
+      "anno": 1901,
+      "vincitore": "Guglielmo Marconi"
+    },
+    {
+      "anno": 1903,
+      "vincitore": "Albert Abraham Michelson"
+    },
+    {
+      "anno": 1904,
+      "vincitore": "Marie Curie e Pierre Curie"
+    },
+    {
+      "anno": 1905,
+      "vincitore": "Henri Poincaré"
+    },
+    {
+      "anno": 1906,
+      "vincitore": "James Dewar"
+    },
+    {
+      "anno": 1907,
+      "vincitore": "William Ramsay"
+    },
+    {
+      "anno": 1908,
+      "vincitore": "Antonio Garbasso"
+    },
+    {
+      "anno": 1909,
+      "vincitore": "Orso Mario Corbino"
+    },
+    {
+      "anno": 1910,
+      "vincitore": "Heike Kamerlingh Onnes"
+    },
+    {
+      "anno": 1911,
+      "vincitore": "Jean Perrin"
+    },
+    {
+      "anno": 1912,
+      "vincitore": "Pieter Zeeman"
+    },
+    {
+      "anno": 1913,
+      "vincitore": "Ernest Rutherford"
+    },
+    {
+      "anno": 1914,
+      "vincitore": "Max von Laue"
+    },
+    {
+      "anno": 1915,
+      "vincitore": "Johannes Stark"
+    },
+    {
+      "anno": 1915,
+      "vincitore": "William Henry Bragg e William Lawrence Bragg"
+    },
+    {
+      "anno": 1917,
+      "vincitore": "Antonino Lo Surdo"
+    },
+    {
+      "anno": 1918,
+      "vincitore": "Robert Williams Wood"
+    },
+    {
+      "anno": 1919,
+      "vincitore": "Henry Gwyn-Jeffreys Moseley"
+    },
+    {
+      "anno": 1921,
+      "vincitore": "Albert Einstein"
+    },
+    {
+      "anno": 1923,
+      "vincitore": "Niels Bohr"
+    },
+    {
+      "anno": 1924,
+      "vincitore": "Arnold Sommerfeld"
+    },
+    {
+      "anno": 1925,
+      "vincitore": "Robert Andrews Millikan"
+    },
+    {
+      "anno": 1926,
+      "vincitore": "Enrico Fermi"
+    },
+    {
+      "anno": 1927,
+      "vincitore": "Erwin Schrödinger"
+    },
+    {
+      "anno": 1928,
+      "vincitore": "Venkata Raman Chandrasekhara"
+    },
+    {
+      "anno": 1929,
+      "vincitore": "Werner Heisenberg"
+    },
+    {
+      "anno": 1930,
+      "vincitore": "Arthur Compton"
+    },
+    {
+      "anno": 1931,
+      "vincitore": "Franco Rasetti"
+    },
+    {
+      "anno": 1932,
+      "vincitore": "Frédéric Joliot e Irène Joliot-Curie"
+    },
+    {
+      "anno": 1956,
+      "vincitore": "Wolfgang Pauli"
+    },
+    {
+      "anno": 1975,
+      "vincitore": "Bruno Touschek"
+    },
+    {
+      "anno": 1978,
+      "vincitore": "Abdus Salam"
+    },
+    {
+      "anno": 1979,
+      "vincitore": "Luciano Maiani"
+    },
+    {
+      "anno": 1980,
+      "vincitore": "Giancarlo Wick"
+    },
+    {
+      "anno": 1982,
+      "vincitore": "Rudolf Peierls"
+    },
+    {
+      "anno": 1985,
+      "vincitore": "Hendrik Casimir"
+    },
+    {
+      "anno": 1987,
+      "vincitore": "Pierre-Gilles De Gennes"
+    },
+    {
+      "anno": 1988,
+      "vincitore": "Lev B. Okun"
+    },
+    {
+      "anno": 1989,
+      "vincitore": "Freeman Dyson"
+    },
+    {
+      "anno": 1990,
+      "vincitore": "Jack Steinberger"
+    },
+    {
+      "anno": 1991,
+      "vincitore": "Bruno Rossi"
+    },
+    {
+      "anno": 1992,
+      "vincitore": "Anatole Abragam"
+    },
+    {
+      "anno": 1993,
+      "vincitore": "John Archibald Wheeler"
+    },
+    {
+      "anno": 1994,
+      "vincitore": "Claude Cohen-Tannoudji"
+    },
+    {
+      "anno": 1995,
+      "vincitore": "Tsung-Dao Lee"
+    },
+    {
+      "anno": 1996,
+      "vincitore": "Wolfgang K. H. Panofsky"
+    },
+    {
+      "anno": 1998,
+      "vincitore": "Oreste Piccioni"
+    },
+    {
+      "anno": 2001,
+      "vincitore": "Theodor W. Hänsch"
+    },
+    {
+      "anno": 2002,
+      "vincitore": "Nicola Cabibbo"
+    },
+    {
+      "anno": 2003,
+      "vincitore": "Manuel Cardona"
+    },
+    {
+      "anno": 2004,
+      "vincitore": "David Ruelle"
+    },
+    {
+      "anno": 2005,
+      "vincitore": "John Iliopoulos"
+    },
+    {
+      "anno": 2006,
+      "vincitore": "Giorgio Bellettini"
+    },
+    {
+      "anno": 2016,
+      "vincitore": "Adalberto Giazotto"
+    },
+    {
+      "anno": 2017,
+      "vincitore": "Marco Tavani"
+    },
+    {
+      "anno": 2018,
+      "vincitore": "Gianluigi Fogli"
+    },
+    {
+      "anno": 2019,
+      "vincitore": "Federico Capasso"
+    },
+    {
+      "anno": 2020,
+      "vincitore": "Massimo Inguscio"
+    },
+    {
+      "anno": 2021,
+      "vincitore": "Amos Maritan"
+    },
+    {
+      "anno": 2022,
+      "vincitore": "Jocelyn Bell Burnell"
+    },
+    {
+      "anno": 2023,
+      "vincitore": "Francesco De Martini"
+    },
+    {
+      "anno": 2024,
+      "vincitore": "Helen Quinn"
+    }
+  ],
+  "meta": {
+    "title": "Medaglia Matteucci — vincitori - Free Download",
+    "description": "Elenco dei vincitori della Medaglia Matteucci, premio per la fisica assegnato dall'Accademia Nazionale delle Scienze detta dei XL dal 1868. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medaglia Matteucci — vincitori | ListBase",
+    "seo_description": "Download Medaglia Matteucci — vincitori — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Medaglia_Matteucci"
+    ]
+  }
+}
