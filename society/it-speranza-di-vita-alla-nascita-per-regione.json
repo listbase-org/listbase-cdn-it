@@ -1,0 +1,933 @@
+{
+  "id": "it-speranza-di-vita-alla-nascita-per-regione",
+  "name": "Speranza di vita alla nascita per regione (2019–2024)",
+  "title": "Speranza di vita alla nascita per regione (2019–2024)",
+  "description": "Speranza di vita alla nascita (anni) nelle regioni e province autonome italiane, totale, uomini e donne, dati Eurostat.",
+  "category": "society",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "updated": "2026-11",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "totale",
+      "label": "Totale",
+      "type": "number"
+    },
+    {
+      "key": "uomini",
+      "label": "Uomini",
+      "type": "number"
+    },
+    {
+      "key": "donne",
+      "label": "Donne",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "anno": 2019,
+      "totale": 83.5,
+      "uomini": 81.2,
+      "donne": 85.6
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2019,
+      "totale": 82.8,
+      "uomini": 80.5,
+      "donne": 85
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2019,
+      "totale": 82.6,
+      "uomini": 80.3,
+      "donne": 84.8
+    },
+    {
+      "regione": "Campania",
+      "anno": 2019,
+      "totale": 81.9,
+      "uomini": 79.7,
+      "donne": 84
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2019,
+      "totale": 83.8,
+      "uomini": 81.7,
+      "donne": 85.8
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2019,
+      "totale": 83.8,
+      "uomini": 81.5,
+      "donne": 86
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2019,
+      "totale": 83.5,
+      "uomini": 81.4,
+      "donne": 85.4
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2019,
+      "totale": 83.3,
+      "uomini": 81,
+      "donne": 85.5
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2019,
+      "totale": 83.9,
+      "uomini": 81.6,
+      "donne": 86
+    },
+    {
+      "regione": "Marche",
+      "anno": 2019,
+      "totale": 84.3,
+      "uomini": 82.2,
+      "donne": 86.2
+    },
+    {
+      "regione": "Molise",
+      "anno": 2019,
+      "totale": 83.4,
+      "uomini": 80.7,
+      "donne": 86
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2019,
+      "totale": 83.1,
+      "uomini": 80.8,
+      "donne": 85.3
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2019,
+      "totale": 84.2,
+      "uomini": 81.9,
+      "donne": 86.4
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2019,
+      "totale": 84.6,
+      "uomini": 82.2,
+      "donne": 86.9
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2019,
+      "totale": 83.5,
+      "uomini": 81.5,
+      "donne": 85.4
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2019,
+      "totale": 83.3,
+      "uomini": 80.5,
+      "donne": 86
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2019,
+      "totale": 82.2,
+      "uomini": 80.1,
+      "donne": 84.1
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2019,
+      "totale": 84,
+      "uomini": 81.8,
+      "donne": 85.9
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2019,
+      "totale": 84.3,
+      "uomini": 82.2,
+      "donne": 86.3
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2019,
+      "totale": 83.4,
+      "uomini": 80.6,
+      "donne": 86.1
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2019,
+      "totale": 84,
+      "uomini": 81.8,
+      "donne": 86.2
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2020,
+      "totale": 82.8,
+      "uomini": 80.4,
+      "donne": 85.2
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2020,
+      "totale": 82.6,
+      "uomini": 80.4,
+      "donne": 84.9
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2020,
+      "totale": 82.4,
+      "uomini": 80,
+      "donne": 84.7
+    },
+    {
+      "regione": "Campania",
+      "anno": 2020,
+      "totale": 81.1,
+      "uomini": 78.6,
+      "donne": 83.5
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2020,
+      "totale": 82.7,
+      "uomini": 80.4,
+      "donne": 84.9
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2020,
+      "totale": 82.9,
+      "uomini": 80.5,
+      "donne": 85.2
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2020,
+      "totale": 82.9,
+      "uomini": 80.6,
+      "donne": 85.1
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2020,
+      "totale": 81.9,
+      "uomini": 79.5,
+      "donne": 84.3
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2020,
+      "totale": 81.5,
+      "uomini": 79,
+      "donne": 84
+    },
+    {
+      "regione": "Marche",
+      "anno": 2020,
+      "totale": 83.3,
+      "uomini": 81,
+      "donne": 85.4
+    },
+    {
+      "regione": "Molise",
+      "anno": 2020,
+      "totale": 82.4,
+      "uomini": 80.1,
+      "donne": 84.6
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2020,
+      "totale": 81.6,
+      "uomini": 79.3,
+      "donne": 84
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2020,
+      "totale": 82.8,
+      "uomini": 80.5,
+      "donne": 85
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2020,
+      "totale": 83,
+      "uomini": 80.6,
+      "donne": 85.3
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2020,
+      "totale": 82.5,
+      "uomini": 80.4,
+      "donne": 84.6
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2020,
+      "totale": 82.7,
+      "uomini": 80.1,
+      "donne": 85.2
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2020,
+      "totale": 81.8,
+      "uomini": 79.6,
+      "donne": 83.9
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2020,
+      "totale": 83.3,
+      "uomini": 81.2,
+      "donne": 85.4
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2020,
+      "totale": 83.6,
+      "uomini": 81.3,
+      "donne": 85.8
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2020,
+      "totale": 81.5,
+      "uomini": 79.3,
+      "donne": 83.7
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2020,
+      "totale": 83.1,
+      "uomini": 80.8,
+      "donne": 85.3
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2021,
+      "totale": 82.8,
+      "uomini": 80.5,
+      "donne": 85
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2021,
+      "totale": 82.6,
+      "uomini": 80.2,
+      "donne": 84.9
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2021,
+      "totale": 81.6,
+      "uomini": 79.5,
+      "donne": 83.8
+    },
+    {
+      "regione": "Campania",
+      "anno": 2021,
+      "totale": 80.8,
+      "uomini": 78.6,
+      "donne": 83
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2021,
+      "totale": 83.1,
+      "uomini": 81,
+      "donne": 85.2
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2021,
+      "totale": 82.4,
+      "uomini": 79.8,
+      "donne": 85
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2021,
+      "totale": 82.7,
+      "uomini": 80.4,
+      "donne": 84.9
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2021,
+      "totale": 82.9,
+      "uomini": 80.6,
+      "donne": 85
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2021,
+      "totale": 83.3,
+      "uomini": 81.1,
+      "donne": 85.5
+    },
+    {
+      "regione": "Marche",
+      "anno": 2021,
+      "totale": 83.2,
+      "uomini": 81.1,
+      "donne": 85.2
+    },
+    {
+      "regione": "Molise",
+      "anno": 2021,
+      "totale": 81.6,
+      "uomini": 78.8,
+      "donne": 84.6
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2021,
+      "totale": 82.7,
+      "uomini": 80.3,
+      "donne": 84.9
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2021,
+      "totale": 83.7,
+      "uomini": 81.7,
+      "donne": 85.6
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2021,
+      "totale": 84.1,
+      "uomini": 81.5,
+      "donne": 86.6
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2021,
+      "totale": 82.1,
+      "uomini": 80,
+      "donne": 84.2
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2021,
+      "totale": 82.7,
+      "uomini": 80,
+      "donne": 85.5
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2021,
+      "totale": 81.3,
+      "uomini": 79.2,
+      "donne": 83.3
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2021,
+      "totale": 83.3,
+      "uomini": 81.2,
+      "donne": 85.3
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2021,
+      "totale": 83.4,
+      "uomini": 81.2,
+      "donne": 85.5
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2021,
+      "totale": 83,
+      "uomini": 80.7,
+      "donne": 85.2
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2021,
+      "totale": 83.5,
+      "uomini": 81.2,
+      "donne": 85.7
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2022,
+      "totale": 82.7,
+      "uomini": 80.3,
+      "donne": 85
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2022,
+      "totale": 82.2,
+      "uomini": 79.9,
+      "donne": 84.5
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2022,
+      "totale": 81.7,
+      "uomini": 79.6,
+      "donne": 83.8
+    },
+    {
+      "regione": "Campania",
+      "anno": 2022,
+      "totale": 81.1,
+      "uomini": 79.1,
+      "donne": 83.1
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2022,
+      "totale": 83.4,
+      "uomini": 81.5,
+      "donne": 85.2
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2022,
+      "totale": 83.1,
+      "uomini": 80.8,
+      "donne": 85.4
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2022,
+      "totale": 83.1,
+      "uomini": 80.9,
+      "donne": 85.1
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2022,
+      "totale": 82.8,
+      "uomini": 80.6,
+      "donne": 84.9
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2022,
+      "totale": 83.3,
+      "uomini": 81.2,
+      "donne": 85.4
+    },
+    {
+      "regione": "Marche",
+      "anno": 2022,
+      "totale": 83.4,
+      "uomini": 81.2,
+      "donne": 85.5
+    },
+    {
+      "regione": "Molise",
+      "anno": 2022,
+      "totale": 82.3,
+      "uomini": 79.9,
+      "donne": 84.7
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2022,
+      "totale": 82.6,
+      "uomini": 80.4,
+      "donne": 84.7
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2022,
+      "totale": 83.7,
+      "uomini": 81.5,
+      "donne": 85.8
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2022,
+      "totale": 84.3,
+      "uomini": 82.2,
+      "donne": 86.4
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2022,
+      "totale": 82.7,
+      "uomini": 80.6,
+      "donne": 84.7
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2022,
+      "totale": 82.1,
+      "uomini": 79.6,
+      "donne": 84.5
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2022,
+      "totale": 81.5,
+      "uomini": 79.5,
+      "donne": 83.5
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2022,
+      "totale": 83.5,
+      "uomini": 81.4,
+      "donne": 85.4
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2022,
+      "totale": 83.5,
+      "uomini": 81.3,
+      "donne": 85.7
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2022,
+      "totale": 82.5,
+      "uomini": 80.7,
+      "donne": 84.2
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2022,
+      "totale": 83.5,
+      "uomini": 81.2,
+      "donne": 85.6
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2023,
+      "totale": 83.1,
+      "uomini": 80.7,
+      "donne": 85.5
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2023,
+      "totale": 82.8,
+      "uomini": 80.7,
+      "donne": 84.9
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2023,
+      "totale": 82.1,
+      "uomini": 80,
+      "donne": 84.3
+    },
+    {
+      "regione": "Campania",
+      "anno": 2023,
+      "totale": 81.5,
+      "uomini": 79.4,
+      "donne": 83.5
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2023,
+      "totale": 84,
+      "uomini": 81.9,
+      "donne": 85.9
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2023,
+      "totale": 83.8,
+      "uomini": 81.6,
+      "donne": 85.9
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2023,
+      "totale": 83,
+      "uomini": 81,
+      "donne": 84.9
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2023,
+      "totale": 83.5,
+      "uomini": 81.4,
+      "donne": 85.5
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2023,
+      "totale": 84,
+      "uomini": 81.9,
+      "donne": 85.9
+    },
+    {
+      "regione": "Marche",
+      "anno": 2023,
+      "totale": 84.3,
+      "uomini": 82.3,
+      "donne": 86.2
+    },
+    {
+      "regione": "Molise",
+      "anno": 2023,
+      "totale": 82.7,
+      "uomini": 80.3,
+      "donne": 85.2
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2023,
+      "totale": 83.2,
+      "uomini": 81.1,
+      "donne": 85.2
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2023,
+      "totale": 84.6,
+      "uomini": 82.5,
+      "donne": 86.6
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2023,
+      "totale": 84.8,
+      "uomini": 82.5,
+      "donne": 87
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2023,
+      "totale": 83.1,
+      "uomini": 81,
+      "donne": 85
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2023,
+      "totale": 83,
+      "uomini": 80.3,
+      "donne": 85.7
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2023,
+      "totale": 81.7,
+      "uomini": 79.8,
+      "donne": 83.6
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2023,
+      "totale": 84.2,
+      "uomini": 82.2,
+      "donne": 86
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2023,
+      "totale": 83.9,
+      "uomini": 81.9,
+      "donne": 85.9
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2023,
+      "totale": 83.9,
+      "uomini": 82,
+      "donne": 85.6
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2023,
+      "totale": 84.2,
+      "uomini": 82,
+      "donne": 86.3
+    },
+    {
+      "regione": "Abruzzo",
+      "anno": 2024,
+      "totale": 83.8,
+      "uomini": 81.7,
+      "donne": 85.9
+    },
+    {
+      "regione": "Basilicata",
+      "anno": 2024,
+      "totale": 83.5,
+      "uomini": 81.3,
+      "donne": 85.6
+    },
+    {
+      "regione": "Calabria",
+      "anno": 2024,
+      "totale": 82.7,
+      "uomini": 80.5,
+      "donne": 85
+    },
+    {
+      "regione": "Campania",
+      "anno": 2024,
+      "totale": 82,
+      "uomini": 79.8,
+      "donne": 84.1
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "anno": 2024,
+      "totale": 84.3,
+      "uomini": 82.5,
+      "donne": 86
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "anno": 2024,
+      "totale": 84.2,
+      "uomini": 82,
+      "donne": 86.2
+    },
+    {
+      "regione": "Lazio",
+      "anno": 2024,
+      "totale": 83.6,
+      "uomini": 81.5,
+      "donne": 85.5
+    },
+    {
+      "regione": "Liguria",
+      "anno": 2024,
+      "totale": 83.8,
+      "uomini": 81.6,
+      "donne": 85.9
+    },
+    {
+      "regione": "Lombardia",
+      "anno": 2024,
+      "totale": 84.4,
+      "uomini": 82.3,
+      "donne": 86.2
+    },
+    {
+      "regione": "Marche",
+      "anno": 2024,
+      "totale": 84.4,
+      "uomini": 82.4,
+      "donne": 86.4
+    },
+    {
+      "regione": "Molise",
+      "anno": 2024,
+      "totale": 82.7,
+      "uomini": 80.4,
+      "donne": 85
+    },
+    {
+      "regione": "Piemonte",
+      "anno": 2024,
+      "totale": 83.7,
+      "uomini": 81.6,
+      "donne": 85.7
+    },
+    {
+      "regione": "Provincia Autonoma di Bolzano/Bozen",
+      "anno": 2024,
+      "totale": 85,
+      "uomini": 82.9,
+      "donne": 86.9
+    },
+    {
+      "regione": "Provincia Autonoma di Trento",
+      "anno": 2024,
+      "totale": 85,
+      "uomini": 82.8,
+      "donne": 87.2
+    },
+    {
+      "regione": "Puglia",
+      "anno": 2024,
+      "totale": 83.5,
+      "uomini": 81.4,
+      "donne": 85.5
+    },
+    {
+      "regione": "Sardegna",
+      "anno": 2024,
+      "totale": 83.2,
+      "uomini": 80.7,
+      "donne": 85.7
+    },
+    {
+      "regione": "Sicilia",
+      "anno": 2024,
+      "totale": 82.6,
+      "uomini": 80.5,
+      "donne": 84.5
+    },
+    {
+      "regione": "Toscana",
+      "anno": 2024,
+      "totale": 84.2,
+      "uomini": 82.4,
+      "donne": 85.9
+    },
+    {
+      "regione": "Umbria",
+      "anno": 2024,
+      "totale": 84.1,
+      "uomini": 82.2,
+      "donne": 85.9
+    },
+    {
+      "regione": "Valle d'Aosta/Vallée d'Aoste",
+      "anno": 2024,
+      "totale": 83.2,
+      "uomini": 81.2,
+      "donne": 85.1
+    },
+    {
+      "regione": "Veneto",
+      "anno": 2024,
+      "totale": 84.6,
+      "uomini": 82.5,
+      "donne": 86.5
+    }
+  ],
+  "meta": {
+    "title": "Speranza di vita alla nascita per regione (2019–2024) - Free Download",
+    "description": "Speranza di vita alla nascita (anni) nelle regioni e province autonome italiane, totale, uomini e donne, dati Eurostat. Contains 126 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Speranza di vita alla nascita per regione (2019–2024) | ListBase",
+    "seo_description": "Download Speranza di vita alla nascita per regione (2019–2024) — 126 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 126 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table"
+    ]
+  }
+}

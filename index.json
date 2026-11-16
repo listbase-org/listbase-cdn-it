@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-16T02:11:54.542Z",
-  "total_datasets": 556,
-  "total_records": 150162,
+  "generated": "2026-11-16T02:12:04.855Z",
+  "total_datasets": 557,
+  "total_records": 150288,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -16420,6 +16420,32 @@
         "xlsx": {
           "name": "it-regioni-indice-sviluppo-umano_IT.xlsx",
           "size": 8284
+        }
+      }
+    },
+    {
+      "id": "it-speranza-di-vita-alla-nascita-per-regione",
+      "name": "Speranza di vita alla nascita per regione (2019–2024)",
+      "category": "society",
+      "record_count": 126,
+      "columns": [
+        "regione",
+        "anno",
+        "totale",
+        "uomini",
+        "donne"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 18052,
+      "files": {
+        "csv": {
+          "name": "it-speranza-di-vita-alla-nascita-per-regione_IT.csv",
+          "size": 5309
+        },
+        "xlsx": {
+          "name": "it-speranza-di-vita-alla-nascita-per-regione_IT.xlsx",
+          "size": 9916
         }
       }
     },
