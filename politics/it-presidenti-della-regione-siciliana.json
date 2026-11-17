@@ -1,0 +1,753 @@
+{
+  "id": "it-presidenti-della-regione-siciliana",
+  "name": "Presidenti della Regione Siciliana",
+  "title": "Presidenti della Regione Siciliana",
+  "description": "Elenco cronologico dei presidenti della Regione Siciliana e delle loro giunte dal 1947 a oggi, con partito, coalizione, date di inizio e fine mandato e legislatura dell'Assemblea regionale siciliana.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Presidenti_della_Regione_Siciliana",
+  "source_url": "https://it.wikipedia.org/wiki/Presidenti_della_Regione_Siciliana",
+  "updated": "2026-11",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "presidente",
+      "label": "Presidente",
+      "type": "string"
+    },
+    {
+      "key": "anni_vita",
+      "label": "Anni Vita",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "coalizione",
+      "label": "Coalizione",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    },
+    {
+      "key": "elezione",
+      "label": "Elezione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": "1",
+      "presidente": "Giuseppe Alessi",
+      "anni_vita": "1905-2009",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC",
+      "inizio_mandato": "30 maggio 1947",
+      "fine_mandato": "8 marzo 1948",
+      "legislatura": "I (1947)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "1",
+      "presidente": "Giuseppe Alessi",
+      "anni_vita": "1905-2009",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - BDLQ - PSLI - PRI - UDN",
+      "inizio_mandato": "8 marzo 1948",
+      "fine_mandato": "13 giugno 1949",
+      "legislatura": "I (1947)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "2",
+      "presidente": "Franco Restivo",
+      "anni_vita": "1911-1976",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - BDLQ - MIS - PSLI - PRI",
+      "inizio_mandato": "13 giugno 1949",
+      "fine_mandato": "3 giugno 1951",
+      "legislatura": "I (1947)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "2",
+      "presidente": "Franco Restivo",
+      "anni_vita": "1911-1976",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PNM - USLIA",
+      "inizio_mandato": "20 luglio 1951",
+      "fine_mandato": "4 giugno 1955",
+      "legislatura": "II (1951)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "(1)",
+      "presidente": "Giuseppe Alessi",
+      "anni_vita": "1905-2009",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centrismo DC - PLI - ADSR (PSDI - PRI)",
+      "inizio_mandato": "27 luglio 1955",
+      "fine_mandato": "28 novembre 1956",
+      "legislatura": "III (1955)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "3",
+      "presidente": "Giuseppe La Loggia",
+      "anni_vita": "1911-1994",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - MSI - PLI - ADSR (PSDI - PRI)",
+      "inizio_mandato": "28 novembre 1956",
+      "fine_mandato": "25 novembre 1957",
+      "legislatura": "III (1955)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "3",
+      "presidente": "Giuseppe La Loggia",
+      "anni_vita": "1911-1994",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC",
+      "inizio_mandato": "25 novembre 1957",
+      "fine_mandato": "30 ottobre 1958",
+      "legislatura": "III (1955)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "4",
+      "presidente": "Silvio Milazzo",
+      "anni_vita": "1903-1982",
+      "partito": "Unione Siciliana Cristiano Sociale",
+      "coalizione": "Milazzismo USCS - MSI - PNM - PMP - PCI - PSI",
+      "inizio_mandato": "30 ottobre 1958",
+      "fine_mandato": "12 agosto 1959",
+      "legislatura": "III (1955)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "4",
+      "presidente": "Silvio Milazzo",
+      "anni_vita": "1903-1982",
+      "partito": "Unione Siciliana Cristiano Sociale",
+      "coalizione": "USCS con l'appoggio esterno di: PCI - PSI",
+      "inizio_mandato": "12 agosto 1959",
+      "fine_mandato": "17 dicembre 1959",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "4",
+      "presidente": "Silvio Milazzo",
+      "anni_vita": "1903-1982",
+      "partito": "Unione Siciliana Cristiano Sociale",
+      "coalizione": "USCS con l'appoggio esterno di: PCI - PSI",
+      "inizio_mandato": "18 dicembre 1959",
+      "fine_mandato": "23 febbraio 1960",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "5",
+      "presidente": "Benedetto Majorana della Nicchiara",
+      "anni_vita": "1899-1982",
+      "partito": "Indipendente",
+      "coalizione": "DC - MSI - PDIUM - PLI",
+      "inizio_mandato": "23 febbraio 1960",
+      "fine_mandato": "30 giugno 1961",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "6",
+      "presidente": "Salvatore Corallo",
+      "anni_vita": "1928-2019",
+      "partito": "Partito Socialista Italiano",
+      "coalizione": "PSI - USCS con l'appoggio esterno di: PCI",
+      "inizio_mandato": "30 giugno 1961",
+      "fine_mandato": "9 settembre 1961",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "9 settembre 1961",
+      "fine_mandato": "11 agosto 1962",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "11 agosto 1962",
+      "fine_mandato": "19 ottobre 1962",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "19 ottobre 1962",
+      "fine_mandato": "25 luglio 1963",
+      "legislatura": "IV (1959)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "25 luglio 1963",
+      "fine_mandato": "19 agosto 1963",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "19 agosto 1963",
+      "fine_mandato": "28 gennaio 1964",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "7",
+      "presidente": "Giuseppe D'Angelo",
+      "anni_vita": "1913-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "28 gennaio 1964",
+      "fine_mandato": "4 agosto 1964",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "8",
+      "presidente": "Francesco Coniglio",
+      "anni_vita": "1916-1993",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "4 agosto 1964",
+      "fine_mandato": "8 marzo 1966",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "8",
+      "presidente": "Francesco Coniglio",
+      "anni_vita": "1916-1993",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "8 marzo 1966",
+      "fine_mandato": "19 gennaio 1967",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "8",
+      "presidente": "Francesco Coniglio",
+      "anni_vita": "1916-1993",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centro-sinistra \"organico\" DC - PSI - PSDI - PRI",
+      "inizio_mandato": "19 gennaio 1967",
+      "fine_mandato": "12 giugno 1967",
+      "legislatura": "V (1963)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "9",
+      "presidente": "Vincenzo Giummarra",
+      "anni_vita": "1923-2010",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC",
+      "inizio_mandato": "11 agosto 1967",
+      "fine_mandato": "29 settembre 1967",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "10",
+      "presidente": "Vincenzo Carollo",
+      "anni_vita": "1920-2013",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSU - PRI",
+      "inizio_mandato": "29 settembre 1967",
+      "fine_mandato": "23 aprile 1968",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "10",
+      "presidente": "Vincenzo Carollo",
+      "anni_vita": "1920-2013",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSU - PRI",
+      "inizio_mandato": "23 aprile 1968",
+      "fine_mandato": "26 febbraio 1969",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "11",
+      "presidente": "Mario Fasino",
+      "anni_vita": "1920-2017",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSU - PRI",
+      "inizio_mandato": "26 febbraio 1969",
+      "fine_mandato": "28 aprile 1970",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "11",
+      "presidente": "Mario Fasino",
+      "anni_vita": "1920-2017",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSU - PRI",
+      "inizio_mandato": "28 aprile 1970",
+      "fine_mandato": "18 febbraio 1971",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "11",
+      "presidente": "Mario Fasino",
+      "anni_vita": "1920-2017",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSU - PRI",
+      "inizio_mandato": "18 febbraio 1971",
+      "fine_mandato": "14 giugno 1971",
+      "legislatura": "VI (1967)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "11",
+      "presidente": "Mario Fasino",
+      "anni_vita": "1920-2017",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI",
+      "inizio_mandato": "10 agosto 1971",
+      "fine_mandato": "10 ottobre 1971",
+      "legislatura": "VII (1971)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "11",
+      "presidente": "Mario Fasino",
+      "anni_vita": "1920-2017",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "10 ottobre 1971",
+      "fine_mandato": "22 dicembre 1972",
+      "legislatura": "VII (1971)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "(9)",
+      "presidente": "Vincenzo Giummarra",
+      "anni_vita": "1923-2010",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "22 dicembre 1972",
+      "fine_mandato": "26 marzo 1974",
+      "legislatura": "VII (1971)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "12",
+      "presidente": "Angelo Bonfiglio",
+      "anni_vita": "1928-2000",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "26 marzo 1974",
+      "fine_mandato": "13 agosto 1976",
+      "legislatura": "VII (1971)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "12",
+      "presidente": "Angelo Bonfiglio",
+      "anni_vita": "1928-2000",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "13 agosto 1976",
+      "fine_mandato": "20 marzo 1978",
+      "legislatura": "VIII (1976)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "13",
+      "presidente": "Piersanti Mattarella",
+      "anni_vita": "1935-1980",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "20 marzo 1978",
+      "fine_mandato": "14 marzo 1979",
+      "legislatura": "VIII (1976)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "13",
+      "presidente": "Piersanti Mattarella",
+      "anni_vita": "1935-1980",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "14 marzo 1979",
+      "fine_mandato": "6 gennaio 1980 †",
+      "legislatura": "VIII (1976)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "–",
+      "presidente": "Gaetano Giuliano (1929-2023) (facente funzioni)",
+      "anni_vita": "",
+      "partito": "Partito Socialista Italiano",
+      "coalizione": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "6 gennaio 1980",
+      "fine_mandato": "1º maggio 1980",
+      "legislatura": "VIII (1976)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "14",
+      "presidente": "Mario D'Acquisto",
+      "anni_vita": "1931-2026",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Centrismo DC - PSDI - PRI",
+      "inizio_mandato": "1º maggio 1980",
+      "fine_mandato": "7 agosto 1981",
+      "legislatura": "VIII (1976)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "14",
+      "presidente": "Mario D'Acquisto",
+      "anni_vita": "1931-2026",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "7 agosto 1981",
+      "fine_mandato": "22 dicembre 1982",
+      "legislatura": "IX (1981)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "15",
+      "presidente": "Calogero Lo Giudice",
+      "anni_vita": "1938-2021",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "22 dicembre 1982",
+      "fine_mandato": "19 ottobre 1983",
+      "legislatura": "IX (1981)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "16",
+      "presidente": "Santi Nicita",
+      "anni_vita": "1929-2014",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "19 ottobre 1983",
+      "fine_mandato": "21 marzo 1984",
+      "legislatura": "IX (1981)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "17",
+      "presidente": "Modesto Sardo",
+      "anni_vita": "1929-1991",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "21 marzo 1984",
+      "fine_mandato": "1º febbraio 1985",
+      "legislatura": "IX (1981)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "18",
+      "presidente": "Rino Nicolosi",
+      "anni_vita": "1942-1998",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "1º febbraio 1985",
+      "fine_mandato": "1º agosto 1986",
+      "legislatura": "IX (1981)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "18",
+      "presidente": "Rino Nicolosi",
+      "anni_vita": "1942-1998",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "Pentapartito DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "1º agosto 1986",
+      "fine_mandato": "6 agosto 1987",
+      "legislatura": "X (1986)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "18",
+      "presidente": "Rino Nicolosi",
+      "anni_vita": "1942-1998",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC",
+      "inizio_mandato": "6 agosto 1987",
+      "fine_mandato": "12 gennaio 1988",
+      "legislatura": "X (1986)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "18",
+      "presidente": "Rino Nicolosi",
+      "anni_vita": "1942-1998",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI",
+      "inizio_mandato": "12 gennaio 1988",
+      "fine_mandato": "14 novembre 1989",
+      "legislatura": "X (1986)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "–",
+      "presidente": "Salvatore Natoli",
+      "anni_vita": "1926-2015",
+      "partito": "Partito Repubblicano Italiano",
+      "coalizione": "PRI - PCI - PSDI - PLI - VA con l'appoggio esterno di: MSI",
+      "inizio_mandato": "27 novembre 1989",
+      "fine_mandato": "28 novembre 1989",
+      "legislatura": "X (1986)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "(18)",
+      "presidente": "Rino Nicolosi",
+      "anni_vita": "1942-1998",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI",
+      "inizio_mandato": "14 dicembre 1989",
+      "fine_mandato": "12 agosto 1991",
+      "legislatura": "X (1986)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "19",
+      "presidente": "Vincenzo Leanza",
+      "anni_vita": "1932-2004",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PSI - PSDI",
+      "inizio_mandato": "12 agosto 1991",
+      "fine_mandato": "16 luglio 1992",
+      "legislatura": "XI (1991)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "20",
+      "presidente": "Giuseppe Campione",
+      "anni_vita": "1935-",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PDS - PSI - PSDI - PRI",
+      "inizio_mandato": "16 luglio 1992",
+      "fine_mandato": "26 maggio 1993",
+      "legislatura": "XI (1991)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "20",
+      "presidente": "Giuseppe Campione",
+      "anni_vita": "1935-",
+      "partito": "Democrazia Cristiana",
+      "coalizione": "DC - PDS - PSI - PSDI - PRI",
+      "inizio_mandato": "26 maggio 1993",
+      "fine_mandato": "21 dicembre 1993",
+      "legislatura": "XI (1991)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "21",
+      "presidente": "Francesco Martino",
+      "anni_vita": "1937-2017",
+      "partito": "Partito Liberale Italiano",
+      "coalizione": "LDR - DC - PSI - PSDI",
+      "inizio_mandato": "21 dicembre 1993",
+      "fine_mandato": "16 maggio 1995",
+      "legislatura": "XI (1991)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "22",
+      "presidente": "Matteo Graziano",
+      "anni_vita": "1941-2013",
+      "partito": "Cristiani Democratici Uniti",
+      "coalizione": "CDU - LS - LDR - CCD - PSDI",
+      "inizio_mandato": "16 maggio 1995",
+      "fine_mandato": "16 giugno 1996",
+      "legislatura": "XI (1991)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "23",
+      "presidente": "Giuseppe Provenzano",
+      "anni_vita": "1946-",
+      "partito": "Forza Italia",
+      "coalizione": "Polo per le Libertà FI - CDU - CCD - AN",
+      "inizio_mandato": "18 luglio 1996",
+      "fine_mandato": "29 gennaio 1998",
+      "legislatura": "XII (1996)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "24",
+      "presidente": "Giuseppe Drago",
+      "anni_vita": "1955-2016",
+      "partito": "Centro Cristiano Democratico",
+      "coalizione": "FI - CDU - CCD - AN",
+      "inizio_mandato": "29 gennaio 1998",
+      "fine_mandato": "21 novembre 1998",
+      "legislatura": "XII (1996)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "25",
+      "presidente": "Angelo Capodicasa",
+      "anni_vita": "1949-",
+      "partito": "Democratici di Sinistra",
+      "coalizione": "DS - PPI - UDR - RI - PdCI",
+      "inizio_mandato": "21 novembre 1998",
+      "fine_mandato": "10 novembre 1999",
+      "legislatura": "XII (1996)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "25",
+      "presidente": "Angelo Capodicasa",
+      "anni_vita": "1949-",
+      "partito": "Democratici di Sinistra",
+      "coalizione": "DS - PPI - Dem - RI - PdCI",
+      "inizio_mandato": "10 novembre 1999",
+      "fine_mandato": "26 luglio 2000",
+      "legislatura": "XII (1996)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "(19)",
+      "presidente": "Vincenzo Leanza",
+      "anni_vita": "1932-2004",
+      "partito": "Forza Italia",
+      "coalizione": "FI - AN - LD - CCD - CDU - PS - NS - DE",
+      "inizio_mandato": "26 luglio 2000",
+      "fine_mandato": "17 luglio 2001",
+      "legislatura": "XII (1996)",
+      "elezione": "dall'Assemblea regionale"
+    },
+    {
+      "numero": "1",
+      "presidente": "Salvatore Cuffaro",
+      "anni_vita": "1958-",
+      "partito": "Cristiani Democratici Uniti Unione di Centro",
+      "coalizione": "Casa delle Libertà (FI - AN - CCD - CDU - NPSI - PRI - Civiche)",
+      "inizio_mandato": "17 luglio 2001",
+      "fine_mandato": "15 giugno 2006",
+      "legislatura": "XIII (2001)",
+      "elezione": "diretta (dal 2001)"
+    },
+    {
+      "numero": "1",
+      "presidente": "Salvatore Cuffaro",
+      "anni_vita": "1958-",
+      "partito": "Cristiani Democratici Uniti Unione di Centro",
+      "coalizione": "Casa delle Libertà (FI - AN - UDC - MpA)",
+      "inizio_mandato": "15 giugno 2006",
+      "fine_mandato": "18 gennaio 2008",
+      "legislatura": "XIV (2006)",
+      "elezione": "diretta (dal 2001)"
+    },
+    {
+      "numero": "2",
+      "presidente": "Raffaele Lombardo",
+      "anni_vita": "1950-",
+      "partito": "Movimento per le Autonomie",
+      "coalizione": "PdL - MpA - UdC PdL - MpA MpA - PdL Sicilia MpA - UdC - PD - FLpI",
+      "inizio_mandato": "28 aprile 2008",
+      "fine_mandato": "10 novembre 2012",
+      "legislatura": "XV (2008)",
+      "elezione": "diretta (dal 2001)"
+    },
+    {
+      "numero": "3",
+      "presidente": "Rosario Crocetta",
+      "anni_vita": "1951-",
+      "partito": "Partito Democratico Il Megafono",
+      "coalizione": "PD - UdC - Il Megafono",
+      "inizio_mandato": "10 novembre 2012",
+      "fine_mandato": "18 novembre 2017",
+      "legislatura": "XVI (2012)",
+      "elezione": "diretta (dal 2001)"
+    },
+    {
+      "numero": "4",
+      "presidente": "Nello Musumeci",
+      "anni_vita": "1955-",
+      "partito": "#DiventeràBellissima Fratelli d'Italia",
+      "coalizione": "FI - UdC - CP - MpA - DB - FdI - LSP",
+      "inizio_mandato": "18 novembre 2017",
+      "fine_mandato": "13 ottobre 2022",
+      "legislatura": "XVII (2017)",
+      "elezione": "diretta (dal 2001)"
+    },
+    {
+      "numero": "5",
+      "presidente": "Renato Schifani",
+      "anni_vita": "1950-",
+      "partito": "Forza Italia",
+      "coalizione": "FdI - FI - LSP - DC - CP - MpA",
+      "inizio_mandato": "13 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XVIII (2022)",
+      "elezione": "diretta (dal 2001)"
+    }
+  ],
+  "meta": {
+    "title": "Presidenti della Regione Siciliana - Free Download",
+    "description": "Elenco cronologico dei presidenti della Regione Siciliana e delle loro giunte dal 1947 a oggi, con partito, coalizione, date di inizio e fine mandato e legislatura dell'Assemblea regionale siciliana. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Presidenti della Regione Siciliana | ListBase",
+    "seo_description": "Download Presidenti della Regione Siciliana — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Presidenti_della_Regione_Siciliana"
+    ]
+  }
+}

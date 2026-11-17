@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-17T02:16:12.809Z",
-  "total_datasets": 558,
-  "total_records": 150309,
+  "generated": "2026-11-17T02:16:25.956Z",
+  "total_datasets": 559,
+  "total_records": 150371,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -2782,6 +2782,36 @@
         "xlsx": {
           "name": "it-presidenti-del-senato_IT.xlsx",
           "size": 10265
+        }
+      }
+    },
+    {
+      "id": "it-presidenti-della-regione-siciliana",
+      "name": "Presidenti della Regione Siciliana",
+      "category": "politics",
+      "record_count": 62,
+      "columns": [
+        "numero",
+        "presidente",
+        "anni_vita",
+        "partito",
+        "coalizione",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura",
+        "elezione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Presidenti_della_Regione_Siciliana",
+      "updated": "2026-11",
+      "size": 24934,
+      "files": {
+        "csv": {
+          "name": "it-presidenti-della-regione-siciliana_IT.csv",
+          "size": 10530
+        },
+        "xlsx": {
+          "name": "it-presidenti-della-regione-siciliana_IT.xlsx",
+          "size": 10860
         }
       }
     },
