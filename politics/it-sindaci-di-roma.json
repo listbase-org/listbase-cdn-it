@@ -1,0 +1,970 @@
+{
+  "id": "it-sindaci-di-roma",
+  "name": "Sindaci di Roma",
+  "title": "Sindaci di Roma",
+  "description": "Elenco cronologico dei sindaci, commissari e governatori di Roma dal 1870 a oggi, con ruolo, partito, giunta, date di inizio e fine mandato ed elezione, suddivisi per periodo storico.",
+  "category": "politics",
+  "source": "https://it.wikipedia.org/wiki/Sindaci_di_Roma",
+  "source_url": "https://it.wikipedia.org/wiki/Sindaci_di_Roma",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "sindaco",
+      "label": "Sindaco",
+      "type": "string"
+    },
+    {
+      "key": "ruolo",
+      "label": "Ruolo",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "giunta",
+      "label": "Giunta",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "elezione",
+      "label": "Elezione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sindaco": "Michelangelo Caetani",
+      "ruolo": "Presidente della Giunta di Governo",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "23 settembre 1870",
+      "fine_mandato": "30 settembre 1870",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Guido Orazio di Carpegna Falconieri Gabrielli",
+      "ruolo": "Commissario provvisorio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "30 settembre 1870",
+      "fine_mandato": "28 novembre 1870",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giuseppe Lunati",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "29 novembre 1870",
+      "fine_mandato": "20 dicembre 1870",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Filippo Andrea Doria Pamphili",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "21 dicembre 1870",
+      "fine_mandato": "marzo 1871",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giovanni Angelini",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "marzo 1871",
+      "fine_mandato": "aprile 1871",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Francesco Rospigliosi Pallavicini",
+      "ruolo": "Sindaco",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "16 aprile 1871",
+      "fine_mandato": "21 ottobre 1871",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Francesco Grispigni",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "21 ottobre 1871",
+      "fine_mandato": "14 o 16 maggio 1872",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giuseppe Troiani",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "14 o 16 maggio 1872",
+      "fine_mandato": "31 maggio 1872",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Pietro Venturi",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "31 maggio 1872",
+      "fine_mandato": "26 novembre 1872",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Luigi Pianciani",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "26 novembre 1872",
+      "fine_mandato": "29 luglio 1873",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Luigi Pianciani",
+      "ruolo": "Sindaco",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "29 luglio 1873",
+      "fine_mandato": "5 agosto 1874",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Pietro Venturi",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "5 agosto 1874",
+      "fine_mandato": "14 gennaio 1875",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Pietro Venturi",
+      "ruolo": "Sindaco",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "15 gennaio 1875",
+      "fine_mandato": "novembre 1877",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Emanuele Ruspoli",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "7 novembre 1877",
+      "fine_mandato": "18 giugno 1878",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Emanuele Ruspoli",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "18 giugno 1878",
+      "fine_mandato": "20 luglio 1880",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Augusto Armellini",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "luglio 1880",
+      "fine_mandato": "ottobre 1881",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Luigi Pianciani",
+      "ruolo": "Sindaco",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "ottobre 1881",
+      "fine_mandato": "maggio 1882",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Leopoldo Torlonia",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "maggio 1882",
+      "fine_mandato": "7 maggio 1887",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Leopoldo Torlonia",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "7 maggio 1887",
+      "fine_mandato": "31 dicembre 1887",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Alessandro Guiccioli",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "1º gennaio 1888",
+      "fine_mandato": "24 ottobre 1888",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Alessandro Guiccioli",
+      "ruolo": "Sindaco",
+      "partito": "Sinistra storica",
+      "giunta": "",
+      "inizio_mandato": "24 ottobre 1888",
+      "fine_mandato": "20 novembre 1889",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Sindaci eletti dal Consiglio comunale",
+      "ruolo": "1889-1926",
+      "partito": "Sindaci eletti dal Consiglio comunale (1889-1926)",
+      "giunta": "",
+      "inizio_mandato": "Sindaci eletti dal Consiglio comunale (1889-1926)",
+      "fine_mandato": "Sindaci eletti dal Consiglio comunale (1889-1926)",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Augusto Armellini",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "28 novembre 1889",
+      "fine_mandato": "20 giugno 1890",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Camillo Finocchiaro Aprile",
+      "ruolo": "Commissario regio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "giugno 1890",
+      "fine_mandato": "dicembre 1890",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Onorato Caetani",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "29 dicembre 1890",
+      "fine_mandato": "14 novembre 1892",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Emanuele Ruspoli",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "14 novembre 1892",
+      "fine_mandato": "29 novembre 1899",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Enrico Galluppi",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "29 novembre 1899",
+      "fine_mandato": "dicembre 1899",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Prospero Colonna di Paliano",
+      "ruolo": "Sindaco",
+      "partito": "Destra storica",
+      "giunta": "",
+      "inizio_mandato": "dicembre 1899",
+      "fine_mandato": "ottobre 1904",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Carlo Palomba",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "ottobre 1904",
+      "fine_mandato": "dicembre 1904",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Enrico Cruciani Alibrandi",
+      "ruolo": "Assessore facente funzioni",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "dicembre 1904",
+      "fine_mandato": "10 luglio 1905",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Enrico Cruciani Alibrandi",
+      "ruolo": "Sindaco",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "10 luglio 1905",
+      "fine_mandato": "10 luglio 1907",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Cesare Salvarezza",
+      "ruolo": "Commissario regio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "agosto 1907",
+      "fine_mandato": "novembre 1907",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Ernesto Nathan",
+      "ruolo": "Sindaco",
+      "partito": "Partito Radicale Italiano",
+      "giunta": "",
+      "inizio_mandato": "25 novembre 1907",
+      "fine_mandato": "novembre 1911",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Ernesto Nathan",
+      "ruolo": "Sindaco",
+      "partito": "Partito Radicale Italiano",
+      "giunta": "",
+      "inizio_mandato": "novembre 1911",
+      "fine_mandato": "dicembre 1913",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Fausto Aphel",
+      "ruolo": "Commissario regio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "8 dicembre 1913",
+      "fine_mandato": "6 luglio 1914",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Prospero Colonna di Paliano",
+      "ruolo": "Sindaco",
+      "partito": "Partito Liberale Italiano",
+      "giunta": "",
+      "inizio_mandato": "6 luglio 1914",
+      "fine_mandato": "8 giugno 1919",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Adolfo Apolloni",
+      "ruolo": "Sindaco",
+      "partito": "Partito Liberale Italiano",
+      "giunta": "",
+      "inizio_mandato": "8 giugno 1919",
+      "fine_mandato": "25 novembre 1920",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Luigi Rava",
+      "ruolo": "Sindaco",
+      "partito": "Partito Liberale Italiano",
+      "giunta": "",
+      "inizio_mandato": "25 novembre 1920",
+      "fine_mandato": "23 maggio 1921",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giannetto Valli",
+      "ruolo": "Sindaco",
+      "partito": "Partito Liberale Italiano",
+      "giunta": "",
+      "inizio_mandato": "23 maggio 1921",
+      "fine_mandato": "26 giugno 1922",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Filippo Cremonesi",
+      "ruolo": "Sindaco",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "26 giugno 1922",
+      "fine_mandato": "2 marzo 1923",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Filippo Cremonesi",
+      "ruolo": "Commissario regio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "2 marzo 1923",
+      "fine_mandato": "1º gennaio 1926",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Governatori nominati dal governo",
+      "ruolo": "1926-1944",
+      "partito": "Governatori nominati dal governo (1926-1944)",
+      "giunta": "",
+      "inizio_mandato": "Governatori nominati dal governo (1926-1944)",
+      "fine_mandato": "Governatori nominati dal governo (1926-1944)",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Filippo Cremonesi",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "1º gennaio 1926",
+      "fine_mandato": "9 dicembre 1926",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Ludovico Spada Veralli Potenziani",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "9 dicembre 1926",
+      "fine_mandato": "13 settembre 1928",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Francesco Boncompagni Ludovisi",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "13 settembre 1928",
+      "fine_mandato": "23 gennaio 1935",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giuseppe Bottai",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "23 gennaio 1935",
+      "fine_mandato": "15 novembre 1936",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Piero Colonna",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "15 novembre 1936",
+      "fine_mandato": "24 agosto 1939",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giangiacomo Borghese",
+      "ruolo": "Sindaco",
+      "partito": "Partito Nazionale Fascista",
+      "giunta": "",
+      "inizio_mandato": "30 agosto 1939",
+      "fine_mandato": "21 agosto 1943",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Riccardo Motta",
+      "ruolo": "Commissario straordinario",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "21 agosto 1943",
+      "fine_mandato": "5 gennaio 1944",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Giovanni Orgera",
+      "ruolo": "Sindaco",
+      "partito": "Partito Fascista Repubblicano",
+      "giunta": "",
+      "inizio_mandato": "6 gennaio 1944",
+      "fine_mandato": "3 giugno 1944",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Sindaci del periodo costituzionale transitorio",
+      "ruolo": "1944-1946",
+      "partito": "Sindaci del periodo costituzionale transitorio (1944-1946)",
+      "giunta": "",
+      "inizio_mandato": "Sindaci del periodo costituzionale transitorio (1944-1946)",
+      "fine_mandato": "Sindaci del periodo costituzionale transitorio (1944-1946)",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Roberto Bencivenga",
+      "ruolo": "Commissario governativo",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "4 giugno 1944",
+      "fine_mandato": "10 giugno 1944",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Filippo Andrea Doria Pamphili",
+      "ruolo": "Sindaco",
+      "partito": "Indipendente",
+      "giunta": "",
+      "inizio_mandato": "10 giugno 1944",
+      "fine_mandato": "10 dicembre 1946",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Salvatore Rebecchini",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "",
+      "inizio_mandato": "10 dicembre 1946",
+      "fine_mandato": "27 dicembre 1946",
+      "elezione": "Elezione 1946"
+    },
+    {
+      "sindaco": "Mario De Cesare",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "28 dicembre 1946",
+      "fine_mandato": "4 novembre 1947",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Salvatore Rebecchini",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PLI - UQ",
+      "inizio_mandato": "5 novembre 1947",
+      "fine_mandato": "3 luglio 1952",
+      "elezione": "Elezione 1947"
+    },
+    {
+      "sindaco": "Salvatore Rebecchini",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PLI - PRI - PSDI",
+      "inizio_mandato": "3 luglio 1952",
+      "fine_mandato": "2 luglio 1956",
+      "elezione": "Elezione 1952"
+    },
+    {
+      "sindaco": "Umberto Tupini",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PLI - PRI - PSDI",
+      "inizio_mandato": "2 luglio 1956",
+      "fine_mandato": "27 dicembre 1957",
+      "elezione": "Elezione 1956"
+    },
+    {
+      "sindaco": "Corrado Colasanti",
+      "ruolo": "Assessore anziano",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PLI - PRI - PSDI",
+      "inizio_mandato": "27 dicembre 1957",
+      "fine_mandato": "10 gennaio 1958",
+      "elezione": "Elezione 1956"
+    },
+    {
+      "sindaco": "Urbano Cioccetti",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PLI - PSDI",
+      "inizio_mandato": "10 gennaio 1958",
+      "fine_mandato": "19 dicembre 1960",
+      "elezione": "Elezione 1956"
+    },
+    {
+      "sindaco": "Urbano Cioccetti",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "",
+      "inizio_mandato": "19 dicembre 1960",
+      "fine_mandato": "11 luglio 1961",
+      "elezione": "Elezione 1960"
+    },
+    {
+      "sindaco": "Francesco Diana",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "11 luglio 1961",
+      "fine_mandato": "17 luglio 1962",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Glauco Della Porta",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "17 luglio 1962",
+      "fine_mandato": "12 marzo 1964",
+      "elezione": "Elezione 1962"
+    },
+    {
+      "sindaco": "Amerigo Petrucci",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "12 marzo 1964",
+      "fine_mandato": "28 luglio 1966",
+      "elezione": "Elezione 1962"
+    },
+    {
+      "sindaco": "Amerigo Petrucci",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "28 luglio 1966",
+      "fine_mandato": "13 novembre 1967",
+      "elezione": "Elezione 1966"
+    },
+    {
+      "sindaco": "Attico Tabacchi",
+      "ruolo": "Assessore anziano",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "13 novembre 1967",
+      "fine_mandato": "29 dicembre 1967",
+      "elezione": "Elezione 1966"
+    },
+    {
+      "sindaco": "Rinaldo Santini",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI",
+      "inizio_mandato": "29 dicembre 1967",
+      "fine_mandato": "30 luglio 1969",
+      "elezione": "Elezione 1966"
+    },
+    {
+      "sindaco": "Clelio Darida",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "30 luglio 1969",
+      "fine_mandato": "7 agosto 1971",
+      "elezione": "Elezione 1966"
+    },
+    {
+      "sindaco": "Clelio Darida",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "7 agosto 1971",
+      "fine_mandato": "15 febbraio 1972",
+      "elezione": "Elezione 1971"
+    },
+    {
+      "sindaco": "Remo Fiorucci",
+      "ruolo": "Assessore anziano",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "15 febbraio 1972",
+      "fine_mandato": "17 marzo 1972",
+      "elezione": "Elezione 1971"
+    },
+    {
+      "sindaco": "Clelio Darida",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "17 marzo 1972",
+      "fine_mandato": "26 novembre 1974",
+      "elezione": "Elezione 1971"
+    },
+    {
+      "sindaco": "Clelio Darida",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "26 novembre 1974",
+      "fine_mandato": "6 maggio 1976",
+      "elezione": "Elezione 1971"
+    },
+    {
+      "sindaco": "Giovanni Starita",
+      "ruolo": "Assessore anziano",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "6 maggio 1976",
+      "fine_mandato": "9 agosto 1976",
+      "elezione": "Elezione 1971"
+    },
+    {
+      "sindaco": "Giulio Carlo Argan",
+      "ruolo": "Sindaco",
+      "partito": "Sinistra indipendente",
+      "giunta": "PCI - PSI - PSDI",
+      "inizio_mandato": "9 agosto 1976",
+      "fine_mandato": "25 settembre 1979",
+      "elezione": "Elezione 1976"
+    },
+    {
+      "sindaco": "Luigi Petroselli",
+      "ruolo": "Sindaco",
+      "partito": "Partito Comunista Italiano",
+      "giunta": "PCI - PSI - PSDI",
+      "inizio_mandato": "25 settembre 1979",
+      "fine_mandato": "17 settembre 1981",
+      "elezione": "Elezione 1976"
+    },
+    {
+      "sindaco": "Luigi Petroselli",
+      "ruolo": "Sindaco",
+      "partito": "Partito Comunista Italiano",
+      "giunta": "PCI - PSI - PSDI",
+      "inizio_mandato": "17 settembre 1981",
+      "fine_mandato": "7 ottobre 1981",
+      "elezione": "Elezione 1981"
+    },
+    {
+      "sindaco": "Pierluigi Severi",
+      "ruolo": "Assessore anziano",
+      "partito": "Partito Socialista Italiano",
+      "giunta": "PCI - PSI - PSDI",
+      "inizio_mandato": "7 ottobre 1981",
+      "fine_mandato": "15 ottobre 1981",
+      "elezione": "Elezione 1981"
+    },
+    {
+      "sindaco": "Ugo Vetere",
+      "ruolo": "Sindaco",
+      "partito": "Partito Comunista Italiano",
+      "giunta": "PCI - PSI - PSDI - PRI",
+      "inizio_mandato": "15 ottobre 1981",
+      "fine_mandato": "29 luglio 1982",
+      "elezione": "Elezione 1981"
+    },
+    {
+      "sindaco": "Ugo Vetere",
+      "ruolo": "Sindaco",
+      "partito": "Partito Comunista Italiano",
+      "giunta": "PCI - PSI - PSDI - PRI",
+      "inizio_mandato": "29 luglio 1982",
+      "fine_mandato": "30 luglio 1985",
+      "elezione": "Elezione 1981"
+    },
+    {
+      "sindaco": "Nicola Signorello",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "30 luglio 1985",
+      "fine_mandato": "29 settembre 1987",
+      "elezione": "Elezione 1985"
+    },
+    {
+      "sindaco": "Nicola Signorello",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "29 settembre 1987",
+      "fine_mandato": "6 agosto 1988",
+      "elezione": "Elezione 1985"
+    },
+    {
+      "sindaco": "Pietro Giubilo",
+      "ruolo": "Sindaco",
+      "partito": "Democrazia Cristiana",
+      "giunta": "DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "6 agosto 1988",
+      "fine_mandato": "19 luglio 1989",
+      "elezione": "Elezione 1985"
+    },
+    {
+      "sindaco": "Angelo Barbato",
+      "ruolo": "Commissario straordinario",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "20 luglio 1989",
+      "fine_mandato": "17 dicembre 1989",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Franco Carraro",
+      "ruolo": "Sindaco",
+      "partito": "Partito Socialista Italiano",
+      "giunta": "DC - PSI - PSDI - PRI - PLI",
+      "inizio_mandato": "18 dicembre 1989",
+      "fine_mandato": "27 luglio 1992",
+      "elezione": "Elezione 1989"
+    },
+    {
+      "sindaco": "Franco Carraro",
+      "ruolo": "Sindaco",
+      "partito": "Partito Socialista Italiano",
+      "giunta": "DC - PSI - PSDI",
+      "inizio_mandato": "27 luglio 1992",
+      "fine_mandato": "4 aprile 1993",
+      "elezione": "Elezione 1989"
+    },
+    {
+      "sindaco": "Franco Carraro",
+      "ruolo": "Sindaco",
+      "partito": "Partito Socialista Italiano",
+      "giunta": "PSI - PSDI",
+      "inizio_mandato": "4 aprile 1993",
+      "fine_mandato": "20 aprile 1993",
+      "elezione": "Elezione 1989"
+    },
+    {
+      "sindaco": "Alessandro Voci",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "21 aprile 1993",
+      "fine_mandato": "8 novembre 1993",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Aldo Camporota",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "9 novembre 1993",
+      "fine_mandato": "4 dicembre 1993",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Sindaci eletti direttamente dai cittadini",
+      "ruolo": "dal 1993",
+      "partito": "Sindaci eletti direttamente dai cittadini (dal 1993)",
+      "giunta": "Sindaci eletti direttamente dai cittadini (dal 1993)",
+      "inizio_mandato": "Sindaci eletti direttamente dai cittadini (dal 1993)",
+      "fine_mandato": "Sindaci eletti direttamente dai cittadini (dal 1993)",
+      "elezione": "Sindaci eletti direttamente dai cittadini (dal 1993)"
+    },
+    {
+      "sindaco": "Francesco Rutelli",
+      "ruolo": "Sindaco",
+      "partito": "Federazione dei Verdi",
+      "giunta": "PDS - FdV - AD",
+      "inizio_mandato": "5 dicembre 1993",
+      "fine_mandato": "16 novembre 1997",
+      "elezione": "Elezione 1993"
+    },
+    {
+      "sindaco": "Francesco Rutelli",
+      "ruolo": "Sindaco",
+      "partito": "I Democratici",
+      "giunta": "PDS - PPI - FdV - PRC",
+      "inizio_mandato": "16 novembre 1997",
+      "fine_mandato": "8 gennaio 2001",
+      "elezione": "Elezione 1997"
+    },
+    {
+      "sindaco": "Enzo Mosino",
+      "ruolo": "Commissario straordinario",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "9 gennaio 2001",
+      "fine_mandato": "27 maggio 2001",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Walter Veltroni",
+      "ruolo": "Sindaco",
+      "partito": "Democratici di Sinistra",
+      "giunta": "DS - DL - PRC - FdV",
+      "inizio_mandato": "28 maggio 2001",
+      "fine_mandato": "29 maggio 2006",
+      "elezione": "Elezione 2001"
+    },
+    {
+      "sindaco": "Walter Veltroni",
+      "ruolo": "Sindaco",
+      "partito": "Partito Democratico",
+      "giunta": "PD - PRC - FdV - IdV - RnP - PdCI",
+      "inizio_mandato": "29 maggio 2006",
+      "fine_mandato": "13 febbraio 2008",
+      "elezione": "Elezione 2006"
+    },
+    {
+      "sindaco": "Mario Morcone",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "14 febbraio 2008",
+      "fine_mandato": "28 aprile 2008",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Gianni Alemanno",
+      "ruolo": "Sindaco",
+      "partito": "Alleanza Nazionale",
+      "giunta": "PdL - MpA - PRI - L. civiche",
+      "inizio_mandato": "29 aprile 2008",
+      "fine_mandato": "11 giugno 2013",
+      "elezione": "Elezione 2008"
+    },
+    {
+      "sindaco": "Gianni Alemanno",
+      "ruolo": "Sindaco",
+      "partito": "Il Popolo della Libertà",
+      "giunta": "PdL - MpA - PRI - L. civiche",
+      "inizio_mandato": "29 aprile 2008",
+      "fine_mandato": "11 giugno 2013",
+      "elezione": "Elezione 2008"
+    },
+    {
+      "sindaco": "Ignazio Marino",
+      "ruolo": "Sindaco",
+      "partito": "Partito Democratico",
+      "giunta": "PD - SEL - CD - FdV - PSI - L. civiche",
+      "inizio_mandato": "12 giugno 2013",
+      "fine_mandato": "31 ottobre 2015",
+      "elezione": "Elezione 2013"
+    },
+    {
+      "sindaco": "Francesco Paolo Tronca",
+      "ruolo": "Commissario prefettizio",
+      "partito": "",
+      "giunta": "",
+      "inizio_mandato": "1º novembre 2015",
+      "fine_mandato": "22 giugno 2016",
+      "elezione": ""
+    },
+    {
+      "sindaco": "Virginia Raggi",
+      "ruolo": "Sindaco",
+      "partito": "Movimento 5 Stelle",
+      "giunta": "M5S",
+      "inizio_mandato": "22 giugno 2016",
+      "fine_mandato": "21 ottobre 2021",
+      "elezione": "Elezione 2016"
+    },
+    {
+      "sindaco": "Roberto Gualtieri",
+      "ruolo": "Sindaco",
+      "partito": "Partito Democratico",
+      "giunta": "PD - SI - DemoS - EV - L. civiche",
+      "inizio_mandato": "21 ottobre 2021",
+      "fine_mandato": "in carica",
+      "elezione": "Elezione 2021"
+    }
+  ],
+  "meta": {
+    "title": "Sindaci di Roma - Free Download",
+    "description": "Elenco cronologico dei sindaci, commissari e governatori di Roma dal 1870 a oggi, con ruolo, partito, giunta, date di inizio e fine mandato ed elezione, suddivisi per periodo storico. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sindaci di Roma | ListBase",
+    "seo_description": "Download Sindaci di Roma — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Sindaci_di_Roma"
+    ]
+  }
+}

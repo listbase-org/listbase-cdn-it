@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-17T02:16:25.956Z",
-  "total_datasets": 559,
-  "total_records": 150371,
+  "generated": "2026-11-17T02:16:37.888Z",
+  "total_datasets": 560,
+  "total_records": 150472,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -2841,6 +2841,34 @@
         "xlsx": {
           "name": "it-presidenti-della-repubblica_IT.xlsx",
           "size": 8084
+        }
+      }
+    },
+    {
+      "id": "it-sindaci-di-roma",
+      "name": "Sindaci di Roma",
+      "category": "politics",
+      "record_count": 101,
+      "columns": [
+        "sindaco",
+        "ruolo",
+        "partito",
+        "giunta",
+        "inizio_mandato",
+        "fine_mandato",
+        "elezione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Sindaci_di_Roma",
+      "updated": "2026-11",
+      "size": 28361,
+      "files": {
+        "csv": {
+          "name": "it-sindaci-di-roma_IT.csv",
+          "size": 11650
+        },
+        "xlsx": {
+          "name": "it-sindaci-di-roma_IT.xlsx",
+          "size": 11847
         }
       }
     },
