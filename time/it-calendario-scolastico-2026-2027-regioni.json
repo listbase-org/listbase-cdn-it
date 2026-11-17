@@ -1,0 +1,198 @@
+{
+  "id": "it-calendario-scolastico-2026-2027-regioni",
+  "name": "Calendario scolastico 2026/2027 per regione",
+  "title": "Calendario scolastico 2026/2027 per regione",
+  "description": "Date di inizio e fine delle lezioni e numero di giorni di lezione dell'anno scolastico 2026/2027 in ciascuna regione italiana e nelle province autonome di Trento e Bolzano, secondo i calendari regionali (riepilogo MIM), con le eccezioni per la scuola dell'infanzia.",
+  "category": "time",
+  "source": "https://www.comuniecitta.it/scuole/calendario-scolastico-2026-2027",
+  "source_url": "https://www.comuniecitta.it/scuole/calendario-scolastico-2026-2027",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "inizio_lezioni",
+      "label": "Inizio Lezioni",
+      "type": "string"
+    },
+    {
+      "key": "fine_lezioni",
+      "label": "Fine Lezioni",
+      "type": "string"
+    },
+    {
+      "key": "giorni_di_lezione",
+      "label": "Giorni Di Lezione",
+      "type": "number"
+    },
+    {
+      "key": "note_scuola_infanzia",
+      "label": "Note Scuola Infanzia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "regione": "Abruzzo",
+      "inizio_lezioni": "16 settembre 2026",
+      "fine_lezioni": "9 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Basilicata",
+      "inizio_lezioni": "16 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 203,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Calabria",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 206,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Campania",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 204,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Emilia-Romagna",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "5 giugno 2027",
+      "giorni_di_lezione": 206,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Friuli-Venezia Giulia",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "9 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Fino al 26 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Lazio",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 208,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Liguria",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 206,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Lombardia",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Dal 7 settembre 2026 per la scuola dell'infanzia; Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Marche",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "5 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Molise",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "9 giugno 2027",
+      "giorni_di_lezione": 205,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Piemonte",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "10 giugno 2027",
+      "giorni_di_lezione": 206,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Puglia",
+      "inizio_lezioni": "17 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 205,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Sardegna",
+      "inizio_lezioni": "16 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 204,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Sicilia",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "10 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Toscana",
+      "inizio_lezioni": "15 settembre 2026",
+      "fine_lezioni": "10 giugno 2027",
+      "giorni_di_lezione": 211,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Umbria",
+      "inizio_lezioni": "14 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 207,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Valle d'Aosta",
+      "inizio_lezioni": "10 settembre 2026",
+      "fine_lezioni": "9 giugno 2027",
+      "giorni_di_lezione": 208,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Veneto",
+      "inizio_lezioni": "10 settembre 2026",
+      "fine_lezioni": "12 giugno 2027",
+      "giorni_di_lezione": 206,
+      "note_scuola_infanzia": "Fino al 30 giugno 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Prov. Trento",
+      "inizio_lezioni": "10 settembre 2026",
+      "fine_lezioni": "8 giugno 2027",
+      "giorni_di_lezione": 205,
+      "note_scuola_infanzia": "Dal 3 settembre 2026 per la scuola dell'infanzia; Fino al 30 luglio 2027 per la scuola dell'infanzia"
+    },
+    {
+      "regione": "Prov. Bolzano",
+      "inizio_lezioni": "7 settembre 2026",
+      "fine_lezioni": "16 giugno 2027",
+      "giorni_di_lezione": 212,
+      "note_scuola_infanzia": ""
+    }
+  ],
+  "meta": {
+    "title": "Calendario scolastico 2026/2027 per regione - Free Download",
+    "description": "Date di inizio e fine delle lezioni e numero di giorni di lezione dell'anno scolastico 2026/2027 in ciascuna regione italiana e nelle province autonome di Trento e Bolzano, secondo i calendari regionali (riepilogo MIM), con le eccezioni per la scuola dell'infanzia. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Calendario scolastico 2026/2027 per regione | ListBase",
+    "seo_description": "Download Calendario scolastico 2026/2027 per regione — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.comuniecitta.it/scuole/calendario-scolastico-2026-2027"
+    ]
+  }
+}
