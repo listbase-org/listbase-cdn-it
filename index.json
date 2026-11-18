@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-17T02:16:37.888Z",
-  "total_datasets": 560,
-  "total_records": 150472,
+  "generated": "2026-11-18T02:17:41.365Z",
+  "total_datasets": 561,
+  "total_records": 150542,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -16417,6 +16417,34 @@
         "xlsx": {
           "name": "it-comuni-piu-popolosi_IT.xlsx",
           "size": 11523
+        }
+      }
+    },
+    {
+      "id": "it-ministri-del-lavoro",
+      "name": "Ministri del lavoro e delle politiche sociali della Repubblica Italiana",
+      "category": "society",
+      "record_count": 70,
+      "columns": [
+        "ministero",
+        "ministro",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_del_lavoro_e_delle_politiche_sociali_della_Repubblica_Italiana",
+      "updated": "2026-11",
+      "size": 22075,
+      "files": {
+        "csv": {
+          "name": "it-ministri-del-lavoro_IT.csv",
+          "size": 8914
+        },
+        "xlsx": {
+          "name": "it-ministri-del-lavoro_IT.xlsx",
+          "size": 10284
         }
       }
     },
