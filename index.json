@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-18T02:18:04.908Z",
-  "total_datasets": 563,
-  "total_records": 150644,
+  "generated": "2026-11-18T02:18:15.562Z",
+  "total_datasets": 564,
+  "total_records": 150708,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -17265,6 +17265,34 @@
         "xlsx": {
           "name": "it-gorizia-comuni_IT.xlsx",
           "size": 8197
+        }
+      }
+    },
+    {
+      "id": "it-ministri-delle-comunicazioni",
+      "name": "Ministri delle comunicazioni (Poste e telecomunicazioni) della Repubblica Italiana",
+      "category": "tech",
+      "record_count": 64,
+      "columns": [
+        "ministero",
+        "ministro",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_delle_comunicazioni_della_Repubblica_Italiana",
+      "updated": "2026-11",
+      "size": 20260,
+      "files": {
+        "csv": {
+          "name": "it-ministri-delle-comunicazioni_IT.csv",
+          "size": 8019
+        },
+        "xlsx": {
+          "name": "it-ministri-delle-comunicazioni_IT.xlsx",
+          "size": 9942
         }
       }
     },
