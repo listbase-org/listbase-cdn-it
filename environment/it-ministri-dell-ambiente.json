@@ -1,0 +1,331 @@
+{
+  "id": "it-ministri-dell-ambiente",
+  "name": "Ministri dell'ambiente della Repubblica Italiana",
+  "title": "Ministri dell'ambiente della Repubblica Italiana",
+  "description": "Elenco cronologico dei ministri dell'ambiente (Ecologia, Ambiente, Transizione ecologica, Ambiente e sicurezza energetica) dal 1983 a oggi, con partito, governo, date di mandato e legislatura.",
+  "category": "environment",
+  "source": "https://it.wikipedia.org/wiki/Ministri_dell'ambiente_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_dell'ambiente_della_Repubblica_Italiana",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "ministero",
+      "label": "Ministero",
+      "type": "string"
+    },
+    {
+      "key": "ministro",
+      "label": "Ministro",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministero": "Ecologia",
+      "ministro": "Alfredo Biondi",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Craxi I",
+      "inizio_mandato": "4 agosto 1983",
+      "fine_mandato": "31 luglio 1985",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Ecologia",
+      "ministro": "Valerio Zanone",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Craxi I",
+      "inizio_mandato": "31 luglio 1985",
+      "fine_mandato": "1º agosto 1986",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Francesco De Lorenzo",
+      "partito": "Partito Liberale Italiano",
+      "governo": "Craxi II",
+      "inizio_mandato": "1º agosto 1986",
+      "fine_mandato": "18 aprile 1987",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Mario Pavan",
+      "partito": "Indipendente",
+      "governo": "Fanfani VI",
+      "inizio_mandato": "18 aprile 1987",
+      "fine_mandato": "29 luglio 1987",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Giorgio Ruffolo",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Goria",
+      "inizio_mandato": "29 luglio 1987",
+      "fine_mandato": "13 aprile 1988",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Giorgio Ruffolo",
+      "partito": "Partito Socialista Italiano",
+      "governo": "De Mita",
+      "inizio_mandato": "13 aprile 1988",
+      "fine_mandato": "23 luglio 1989",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Giorgio Ruffolo",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "23 luglio 1989",
+      "fine_mandato": "13 aprile 1991",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Giorgio Ruffolo",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Andreotti VII",
+      "inizio_mandato": "13 aprile 1991",
+      "fine_mandato": "28 giugno 1992",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Carlo Ripa di Meana",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Amato I",
+      "inizio_mandato": "28 giugno 1992",
+      "fine_mandato": "9 marzo 1993",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Valdo Spini",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Amato I",
+      "inizio_mandato": "9 marzo 1993",
+      "fine_mandato": "29 aprile 1993",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Francesco Rutelli",
+      "partito": "Federazione dei Verdi",
+      "governo": "Ciampi",
+      "inizio_mandato": "29 aprile 1993",
+      "fine_mandato": "4 maggio 1993",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Valdo Spini",
+      "partito": "Partito Socialista Italiano",
+      "governo": "Ciampi",
+      "inizio_mandato": "4 maggio 1993",
+      "fine_mandato": "11 maggio 1994",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Altero Matteoli",
+      "partito": "Movimento Sociale Italiano",
+      "governo": "Berlusconi I",
+      "inizio_mandato": "11 maggio 1994",
+      "fine_mandato": "17 gennaio 1995",
+      "legislatura": "XII"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Paolo Baratta",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio_mandato": "17 gennaio 1995",
+      "fine_mandato": "18 maggio 1996",
+      "legislatura": "XII"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Edoardo Ronchi",
+      "partito": "Federazione dei Verdi",
+      "governo": "Prodi I",
+      "inizio_mandato": "18 maggio 1996",
+      "fine_mandato": "21 ottobre 1998",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Edoardo Ronchi",
+      "partito": "Federazione dei Verdi",
+      "governo": "D'Alema I",
+      "inizio_mandato": "21 ottobre 1998",
+      "fine_mandato": "22 dicembre 1999",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Edoardo Ronchi",
+      "partito": "Federazione dei Verdi",
+      "governo": "D'Alema II",
+      "inizio_mandato": "22 dicembre 1999",
+      "fine_mandato": "26 aprile 2000",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Ambiente",
+      "ministro": "Willer Bordon",
+      "partito": "I Democratici",
+      "governo": "Amato II",
+      "inizio_mandato": "26 aprile 2000",
+      "fine_mandato": "11 giugno 2001",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio",
+      "ministro": "Altero Matteoli",
+      "partito": "Alleanza Nazionale",
+      "governo": "Berlusconi II",
+      "inizio_mandato": "11 giugno 2001",
+      "fine_mandato": "23 aprile 2005",
+      "legislatura": "XIV"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio",
+      "ministro": "Altero Matteoli",
+      "partito": "Alleanza Nazionale",
+      "governo": "Berlusconi III",
+      "inizio_mandato": "23 aprile 2005",
+      "fine_mandato": "17 maggio 2006",
+      "legislatura": "XIV"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Alfonso Pecoraro Scanio",
+      "partito": "Federazione dei Verdi",
+      "governo": "Prodi II",
+      "inizio_mandato": "17 maggio 2006",
+      "fine_mandato": "8 maggio 2008",
+      "legislatura": "XV"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Stefania Prestigiacomo",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio_mandato": "8 maggio 2008",
+      "fine_mandato": "16 novembre 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Corrado Clini",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio_mandato": "16 novembre 2011",
+      "fine_mandato": "28 aprile 2013",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Andrea Orlando",
+      "partito": "Partito Democratico",
+      "governo": "Letta",
+      "inizio_mandato": "28 aprile 2013",
+      "fine_mandato": "22 febbraio 2014",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Gian Luca Galletti",
+      "partito": "Unione di Centro Centristi per l'Europa",
+      "governo": "Renzi",
+      "inizio_mandato": "22 febbraio 2014",
+      "fine_mandato": "12 dicembre 2016",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Gian Luca Galletti",
+      "partito": "Unione di Centro Centristi per l'Europa",
+      "governo": "Gentiloni",
+      "inizio_mandato": "12 dicembre 2016",
+      "fine_mandato": "1º giugno 2018",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Sergio Costa",
+      "partito": "Indipendente",
+      "governo": "Conte I",
+      "inizio_mandato": "1º giugno 2018",
+      "fine_mandato": "5 settembre 2019",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Ambiente e tutela del territorio e del mare",
+      "ministro": "Sergio Costa",
+      "partito": "Indipendente",
+      "governo": "Conte II",
+      "inizio_mandato": "5 settembre 2019",
+      "fine_mandato": "13 febbraio 2021",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Transizione ecologica (dal 1º marzo 2021)",
+      "ministro": "Roberto Cingolani",
+      "partito": "Indipendente",
+      "governo": "Draghi",
+      "inizio_mandato": "13 febbraio 2021",
+      "fine_mandato": "22 ottobre 2022",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Ambiente e sicurezza energetica (dal 4 novembre 2022)",
+      "ministro": "Gilberto Pichetto Fratin",
+      "partito": "Forza Italia",
+      "governo": "Meloni",
+      "inizio_mandato": "22 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XIX"
+    }
+  ],
+  "meta": {
+    "title": "Ministri dell'ambiente della Repubblica Italiana - Free Download",
+    "description": "Elenco cronologico dei ministri dell'ambiente (Ecologia, Ambiente, Transizione ecologica, Ambiente e sicurezza energetica) dal 1983 a oggi, con partito, governo, date di mandato e legislatura. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri dell'ambiente della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri dell'ambiente della Repubblica Italiana — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_dell'ambiente_della_Repubblica_Italiana"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-18T02:17:52.827Z",
-  "total_datasets": 562,
-  "total_records": 150614,
+  "generated": "2026-11-18T02:18:04.908Z",
+  "total_datasets": 563,
+  "total_records": 150644,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1108,6 +1108,34 @@
         "xlsx": {
           "name": "it-consumo-di-suolo-regioni_IT.xlsx",
           "size": 7620
+        }
+      }
+    },
+    {
+      "id": "it-ministri-dell-ambiente",
+      "name": "Ministri dell'ambiente della Repubblica Italiana",
+      "category": "environment",
+      "record_count": 30,
+      "columns": [
+        "ministero",
+        "ministro",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_dell'ambiente_della_Repubblica_Italiana",
+      "updated": "2026-11",
+      "size": 10440,
+      "files": {
+        "csv": {
+          "name": "it-ministri-dell-ambiente_IT.csv",
+          "size": 3670
+        },
+        "xlsx": {
+          "name": "it-ministri-dell-ambiente_IT.xlsx",
+          "size": 8567
         }
       }
     },
