@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-11-18T02:17:41.365Z",
-  "total_datasets": 561,
-  "total_records": 150542,
+  "generated": "2026-11-18T02:17:52.827Z",
+  "total_datasets": 562,
+  "total_records": 150614,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -126,6 +126,34 @@
         "xlsx": {
           "name": "it-grano-duro-mais-produzione-per-regione_IT.xlsx",
           "size": 9095
+        }
+      }
+    },
+    {
+      "id": "it-ministri-dell-agricoltura",
+      "name": "Ministri dell'agricoltura della Repubblica Italiana",
+      "category": "agriculture",
+      "record_count": 72,
+      "columns": [
+        "ministero",
+        "ministro",
+        "partito",
+        "governo",
+        "inizio_mandato",
+        "fine_mandato",
+        "legislatura"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ministri_dell'agricoltura_della_Repubblica_Italiana",
+      "updated": "2026-11",
+      "size": 22416,
+      "files": {
+        "csv": {
+          "name": "it-ministri-dell-agricoltura_IT.csv",
+          "size": 9011
+        },
+        "xlsx": {
+          "name": "it-ministri-dell-agricoltura_IT.xlsx",
+          "size": 10428
         }
       }
     },

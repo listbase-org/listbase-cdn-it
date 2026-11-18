@@ -1,0 +1,709 @@
+{
+  "id": "it-ministri-dell-agricoltura",
+  "name": "Ministri dell'agricoltura della Repubblica Italiana",
+  "title": "Ministri dell'agricoltura della Repubblica Italiana",
+  "description": "Elenco cronologico dei ministri dell'agricoltura (Agricoltura e foreste, Politiche agricole, Agricoltura e sovranità alimentare) dal 1946 a oggi, con partito, governo, date di mandato e legislatura.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Ministri_dell'agricoltura_della_Repubblica_Italiana",
+  "source_url": "https://it.wikipedia.org/wiki/Ministri_dell'agricoltura_della_Repubblica_Italiana",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "ministero",
+      "label": "Ministero",
+      "type": "string"
+    },
+    {
+      "key": "ministro",
+      "label": "Ministro",
+      "type": "string"
+    },
+    {
+      "key": "partito",
+      "label": "Partito",
+      "type": "string"
+    },
+    {
+      "key": "governo",
+      "label": "Governo",
+      "type": "string"
+    },
+    {
+      "key": "inizio_mandato",
+      "label": "Inizio Mandato",
+      "type": "string"
+    },
+    {
+      "key": "fine_mandato",
+      "label": "Fine Mandato",
+      "type": "string"
+    },
+    {
+      "key": "legislatura",
+      "label": "Legislatura",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Segni",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi II",
+      "inizio_mandato": "14 luglio 1946",
+      "fine_mandato": "2 febbraio 1947",
+      "legislatura": "AC"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Segni",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi III",
+      "inizio_mandato": "2 febbraio 1947",
+      "fine_mandato": "1º giugno 1947",
+      "legislatura": "AC"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Segni",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi IV",
+      "inizio_mandato": "1º giugno 1947",
+      "fine_mandato": "24 maggio 1948",
+      "legislatura": "AC"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Segni",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi V",
+      "inizio_mandato": "24 maggio 1948",
+      "fine_mandato": "28 gennaio 1950",
+      "legislatura": "I"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Segni",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VI",
+      "inizio_mandato": "28 gennaio 1950",
+      "fine_mandato": "26 luglio 1951",
+      "legislatura": "I"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Amintore Fanfani",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VII",
+      "inizio_mandato": "26 luglio 1951",
+      "fine_mandato": "16 luglio 1953",
+      "legislatura": "I"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Rocco Salomone",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Gasperi VIII",
+      "inizio_mandato": "16 luglio 1953",
+      "fine_mandato": "17 agosto 1953",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Rocco Salomone",
+      "partito": "Democrazia Cristiana",
+      "governo": "Pella",
+      "inizio_mandato": "17 agosto 1953",
+      "fine_mandato": "19 gennaio 1954",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giuseppe Medici",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani I",
+      "inizio_mandato": "19 gennaio 1954",
+      "fine_mandato": "10 febbraio 1954",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giuseppe Medici",
+      "partito": "Democrazia Cristiana",
+      "governo": "Scelba",
+      "inizio_mandato": "10 febbraio 1954",
+      "fine_mandato": "6 luglio 1955",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Emilio Colombo",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni I",
+      "inizio_mandato": "6 luglio 1955",
+      "fine_mandato": "20 maggio 1957",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Emilio Colombo",
+      "partito": "Democrazia Cristiana",
+      "governo": "Zoli",
+      "inizio_mandato": "20 maggio 1957",
+      "fine_mandato": "2 luglio 1958",
+      "legislatura": "II"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mario Ferrari Aggradi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani II",
+      "inizio_mandato": "2 luglio 1958",
+      "fine_mandato": "16 febbraio 1959",
+      "legislatura": "III"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mariano Rumor",
+      "partito": "Democrazia Cristiana",
+      "governo": "Segni II",
+      "inizio_mandato": "16 febbraio 1959",
+      "fine_mandato": "26 marzo 1960",
+      "legislatura": "III"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mariano Rumor",
+      "partito": "Democrazia Cristiana",
+      "governo": "Tambroni",
+      "inizio_mandato": "26 marzo 1960",
+      "fine_mandato": "27 luglio 1960",
+      "legislatura": "III"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mariano Rumor",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani III",
+      "inizio_mandato": "27 luglio 1960",
+      "fine_mandato": "22 febbraio 1962",
+      "legislatura": "III"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mariano Rumor",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani IV",
+      "inizio_mandato": "22 febbraio 1962",
+      "fine_mandato": "22 giugno 1963",
+      "legislatura": "III"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Bernardo Mattarella",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone I",
+      "inizio_mandato": "22 giugno 1963",
+      "fine_mandato": "5 dicembre 1963",
+      "legislatura": "IV"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mario Ferrari Aggradi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro I",
+      "inizio_mandato": "5 dicembre 1963",
+      "fine_mandato": "23 luglio 1964",
+      "legislatura": "IV"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mario Ferrari Aggradi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro II",
+      "inizio_mandato": "23 luglio 1964",
+      "fine_mandato": "24 febbraio 1966",
+      "legislatura": "IV"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Franco Restivo",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro III",
+      "inizio_mandato": "24 febbraio 1966",
+      "fine_mandato": "25 giugno 1968",
+      "legislatura": "IV"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giacomo Sedati",
+      "partito": "Democrazia Cristiana",
+      "governo": "Leone II",
+      "inizio_mandato": "25 giugno 1968",
+      "fine_mandato": "13 dicembre 1968",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Athos Valsecchi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor I",
+      "inizio_mandato": "13 dicembre 1968",
+      "fine_mandato": "6 agosto 1969",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giacomo Sedati",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor II",
+      "inizio_mandato": "6 agosto 1969",
+      "fine_mandato": "28 marzo 1970",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Lorenzo Natali",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor III",
+      "inizio_mandato": "28 marzo 1970",
+      "fine_mandato": "6 agosto 1970",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Lorenzo Natali",
+      "partito": "Democrazia Cristiana",
+      "governo": "Colombo",
+      "inizio_mandato": "6 agosto 1970",
+      "fine_mandato": "18 febbraio 1972",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Lorenzo Natali",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti I",
+      "inizio_mandato": "18 febbraio 1972",
+      "fine_mandato": "26 giugno 1972",
+      "legislatura": "V"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Lorenzo Natali",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti II",
+      "inizio_mandato": "26 giugno 1972",
+      "fine_mandato": "8 luglio 1973",
+      "legislatura": "VI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Mario Ferrari Aggradi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor IV",
+      "inizio_mandato": "8 luglio 1973",
+      "fine_mandato": "15 marzo 1974",
+      "legislatura": "VI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Antonio Bisaglia",
+      "partito": "Democrazia Cristiana",
+      "governo": "Rumor V",
+      "inizio_mandato": "15 marzo 1974",
+      "fine_mandato": "23 novembre 1974",
+      "legislatura": "VI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro IV",
+      "inizio_mandato": "23 novembre 1974",
+      "fine_mandato": "12 febbraio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Moro V",
+      "inizio_mandato": "12 febbraio 1976",
+      "fine_mandato": "30 luglio 1976",
+      "legislatura": "VI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti III",
+      "inizio_mandato": "30 luglio 1976",
+      "fine_mandato": "13 marzo 1978",
+      "legislatura": "VII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti IV",
+      "inizio_mandato": "13 marzo 1978",
+      "fine_mandato": "21 marzo 1979",
+      "legislatura": "VII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti V",
+      "inizio_mandato": "21 marzo 1979",
+      "fine_mandato": "5 agosto 1979",
+      "legislatura": "VII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga I",
+      "inizio_mandato": "5 agosto 1979",
+      "fine_mandato": "4 aprile 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Marcora",
+      "partito": "Democrazia Cristiana",
+      "governo": "Cossiga II",
+      "inizio_mandato": "4 aprile 1980",
+      "fine_mandato": "18 ottobre 1980",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giuseppe Bartolomei",
+      "partito": "Democrazia Cristiana",
+      "governo": "Forlani",
+      "inizio_mandato": "18 ottobre 1980",
+      "fine_mandato": "28 giugno 1981",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giuseppe Bartolomei",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini I",
+      "inizio_mandato": "28 giugno 1981",
+      "fine_mandato": "23 agosto 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giuseppe Bartolomei",
+      "partito": "Democrazia Cristiana",
+      "governo": "Spadolini II",
+      "inizio_mandato": "23 agosto 1982",
+      "fine_mandato": "1º dicembre 1982",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Calogero Mannino",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani V",
+      "inizio_mandato": "1º dicembre 1982",
+      "fine_mandato": "4 agosto 1983",
+      "legislatura": "VIII"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Filippo Maria Pandolfi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi I",
+      "inizio_mandato": "4 agosto 1983",
+      "fine_mandato": "1º agosto 1986",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Filippo Maria Pandolfi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Craxi II",
+      "inizio_mandato": "1º agosto 1986",
+      "fine_mandato": "18 aprile 1987",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Filippo Maria Pandolfi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Fanfani VI",
+      "inizio_mandato": "18 aprile 1987",
+      "fine_mandato": "29 luglio 1987",
+      "legislatura": "IX"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Filippo Maria Pandolfi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Goria",
+      "inizio_mandato": "29 luglio 1987",
+      "fine_mandato": "13 aprile 1988",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Calogero Mannino",
+      "partito": "Democrazia Cristiana",
+      "governo": "De Mita",
+      "inizio_mandato": "13 aprile 1988",
+      "fine_mandato": "23 luglio 1989",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Calogero Mannino",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "23 luglio 1989",
+      "fine_mandato": "27 luglio 1990",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Vito Saccomandi",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VI",
+      "inizio_mandato": "27 luglio 1990",
+      "fine_mandato": "13 aprile 1991",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Giovanni Goria",
+      "partito": "Democrazia Cristiana",
+      "governo": "Andreotti VII",
+      "inizio_mandato": "13 aprile 1991",
+      "fine_mandato": "28 giugno 1992",
+      "legislatura": "X"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Gianni Fontana",
+      "partito": "Democrazia Cristiana",
+      "governo": "Amato I",
+      "inizio_mandato": "28 giugno 1992",
+      "fine_mandato": "23 marzo 1993",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Alfredo Diana",
+      "partito": "Democrazia Cristiana",
+      "governo": "Amato I",
+      "inizio_mandato": "23 marzo 1993",
+      "fine_mandato": "29 aprile 1993",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Agricoltura e foreste",
+      "ministro": "Alfredo Diana",
+      "partito": "Democrazia Cristiana",
+      "governo": "Ciampi",
+      "inizio_mandato": "29 aprile 1993",
+      "fine_mandato": "11 maggio 1994",
+      "legislatura": "XI"
+    },
+    {
+      "ministero": "Risorse agricole, alimentari e forestali",
+      "ministro": "Adriana Poli Bortone",
+      "partito": "Movimento Sociale Italiano",
+      "governo": "Berlusconi I",
+      "inizio_mandato": "11 maggio 1994",
+      "fine_mandato": "17 gennaio 1995",
+      "legislatura": "XII"
+    },
+    {
+      "ministero": "Risorse agricole, alimentari e forestali",
+      "ministro": "Walter Luchetti",
+      "partito": "Indipendente",
+      "governo": "Dini",
+      "inizio_mandato": "17 gennaio 1995",
+      "fine_mandato": "18 maggio 1996",
+      "legislatura": "XII"
+    },
+    {
+      "ministero": "Risorse agricole, alimentari e forestali",
+      "ministro": "Michele Pinto",
+      "partito": "Partito Popolare Italiano",
+      "governo": "Prodi I",
+      "inizio_mandato": "18 maggio 1996",
+      "fine_mandato": "21 ottobre 1998",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Politiche agricole",
+      "ministro": "Paolo De Castro",
+      "partito": "I Democratici",
+      "governo": "D'Alema I",
+      "inizio_mandato": "21 ottobre 1998",
+      "fine_mandato": "22 dicembre 1999",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Politiche agricole",
+      "ministro": "Paolo De Castro",
+      "partito": "I Democratici",
+      "governo": "D'Alema II",
+      "inizio_mandato": "22 dicembre 1999",
+      "fine_mandato": "26 aprile 2000",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Politiche agricole e forestali",
+      "ministro": "Alfonso Pecoraro Scanio",
+      "partito": "Federazione dei Verdi",
+      "governo": "Amato II",
+      "inizio_mandato": "26 aprile 2000",
+      "fine_mandato": "11 giugno 2001",
+      "legislatura": "XIII"
+    },
+    {
+      "ministero": "Politiche agricole e forestali",
+      "ministro": "Gianni Alemanno",
+      "partito": "Alleanza Nazionale",
+      "governo": "Berlusconi II",
+      "inizio_mandato": "11 giugno 2001",
+      "fine_mandato": "23 aprile 2005",
+      "legislatura": "XIV"
+    },
+    {
+      "ministero": "Politiche agricole e forestali",
+      "ministro": "Gianni Alemanno",
+      "partito": "Alleanza Nazionale",
+      "governo": "Berlusconi III",
+      "inizio_mandato": "23 aprile 2005",
+      "fine_mandato": "17 maggio 2006",
+      "legislatura": "XIV"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Paolo De Castro",
+      "partito": "La Margherita Partito Democratico",
+      "governo": "Prodi II",
+      "inizio_mandato": "17 maggio 2006",
+      "fine_mandato": "8 maggio 2008",
+      "legislatura": "XV"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Luca Zaia",
+      "partito": "Lega Nord",
+      "governo": "Berlusconi IV",
+      "inizio_mandato": "8 maggio 2008",
+      "fine_mandato": "16 aprile 2010",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Giancarlo Galan",
+      "partito": "Il Popolo della Libertà",
+      "governo": "Berlusconi IV",
+      "inizio_mandato": "16 aprile 2010",
+      "fine_mandato": "23 marzo 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Francesco Saverio Romano",
+      "partito": "I Popolari di Italia Domani",
+      "governo": "Berlusconi IV",
+      "inizio_mandato": "23 marzo 2011",
+      "fine_mandato": "16 novembre 2011",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Mario Catania",
+      "partito": "Indipendente",
+      "governo": "Monti",
+      "inizio_mandato": "16 novembre 2011",
+      "fine_mandato": "28 aprile 2013",
+      "legislatura": "XVI"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Nunzia De Girolamo",
+      "partito": "Il Popolo della Libertà Nuovo Centrodestra",
+      "governo": "Letta",
+      "inizio_mandato": "28 aprile 2013",
+      "fine_mandato": "27 gennaio 2014",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Maurizio Martina",
+      "partito": "Partito Democratico",
+      "governo": "Renzi",
+      "inizio_mandato": "22 febbraio 2014",
+      "fine_mandato": "12 dicembre 2016",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali",
+      "ministro": "Maurizio Martina",
+      "partito": "Partito Democratico",
+      "governo": "Gentiloni",
+      "inizio_mandato": "12 dicembre 2016",
+      "fine_mandato": "13 marzo 2018",
+      "legislatura": "XVII"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali e turismo (dal 12 luglio 2018)",
+      "ministro": "Gian Marco Centinaio",
+      "partito": "Lega",
+      "governo": "Conte I",
+      "inizio_mandato": "1º giugno 2018",
+      "fine_mandato": "5 settembre 2019",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali (dal 22 settembre 2019)",
+      "ministro": "Teresa Bellanova",
+      "partito": "Italia Viva",
+      "governo": "Conte II",
+      "inizio_mandato": "5 settembre 2019",
+      "fine_mandato": "14 gennaio 2021",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Politiche agricole alimentari e forestali (dal 22 settembre 2019)",
+      "ministro": "Stefano Patuanelli",
+      "partito": "Movimento 5 Stelle",
+      "governo": "Draghi",
+      "inizio_mandato": "13 febbraio 2021",
+      "fine_mandato": "22 ottobre 2022",
+      "legislatura": "XVIII"
+    },
+    {
+      "ministero": "Agricoltura, sovranità alimentare e foreste (dal 4 novembre 2022)",
+      "ministro": "Francesco Lollobrigida",
+      "partito": "Fratelli d'Italia",
+      "governo": "Meloni",
+      "inizio_mandato": "22 ottobre 2022",
+      "fine_mandato": "in carica",
+      "legislatura": "XIX"
+    }
+  ],
+  "meta": {
+    "title": "Ministri dell'agricoltura della Repubblica Italiana - Free Download",
+    "description": "Elenco cronologico dei ministri dell'agricoltura (Agricoltura e foreste, Politiche agricole, Agricoltura e sovranità alimentare) dal 1946 a oggi, con partito, governo, date di mandato e legislatura. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri dell'agricoltura della Repubblica Italiana | ListBase",
+    "seo_description": "Download Ministri dell'agricoltura della Repubblica Italiana — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ministri_dell'agricoltura_della_Repubblica_Italiana"
+    ]
+  }
+}
