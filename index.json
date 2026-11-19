@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-19T02:18:33.618Z",
-  "total_datasets": 566,
-  "total_records": 150821,
+  "generated": "2026-11-19T02:18:45.207Z",
+  "total_datasets": 567,
+  "total_records": 150848,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -640,6 +640,41 @@
         "xlsx": {
           "name": "it-pil-regionale_IT.xlsx",
           "size": 8415
+        }
+      }
+    },
+    {
+      "id": "it-tasso-di-disoccupazione-per-regione",
+      "name": "Tasso di disoccupazione per regione (2015–2025)",
+      "category": "economy",
+      "record_count": 27,
+      "columns": [
+        "territorio",
+        "livello",
+        "codice_nuts",
+        "tasso_2015",
+        "tasso_2016",
+        "tasso_2017",
+        "tasso_2018",
+        "tasso_2019",
+        "tasso_2020",
+        "tasso_2021",
+        "tasso_2022",
+        "tasso_2023",
+        "tasso_2024",
+        "tasso_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/lfst_r_lfu3rt/default/table",
+      "updated": "2026-11",
+      "size": 13522,
+      "files": {
+        "csv": {
+          "name": "it-tasso-di-disoccupazione-per-regione_IT.csv",
+          "size": 3238
+        },
+        "xlsx": {
+          "name": "it-tasso-di-disoccupazione-per-regione_IT.xlsx",
+          "size": 8943
         }
       }
     },
