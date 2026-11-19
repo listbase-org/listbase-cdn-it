@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-18T02:18:15.562Z",
-  "total_datasets": 564,
-  "total_records": 150708,
+  "generated": "2026-11-19T02:18:21.706Z",
+  "total_datasets": 565,
+  "total_records": 150794,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -2157,6 +2157,35 @@
         "xlsx": {
           "name": "it-dogi-repubblica-di-genova_IT.xlsx",
           "size": 20406
+        }
+      }
+    },
+    {
+      "id": "it-imperatori-romani",
+      "name": "Imperatori romani",
+      "category": "history",
+      "record_count": 86,
+      "columns": [
+        "imperatore",
+        "nome_completo",
+        "periodo",
+        "nascita",
+        "inizio_regno",
+        "fine_regno",
+        "morte",
+        "co_imperatore"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Imperatori_romani",
+      "updated": "2026-11",
+      "size": 31764,
+      "files": {
+        "csv": {
+          "name": "it-imperatori-romani_IT.csv",
+          "size": 14551
+        },
+        "xlsx": {
+          "name": "it-imperatori-romani_IT.xlsx",
+          "size": 13276
         }
       }
     },

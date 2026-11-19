@@ -1,0 +1,926 @@
+{
+  "id": "it-imperatori-romani",
+  "name": "Imperatori romani",
+  "title": "Imperatori romani",
+  "description": "Elenco degli imperatori romani da Cesare e Augusto alla caduta dell’Impero romano d’Occidente (476), con nome completo, periodo o dinastia, nascita, inizio e fine del regno, causa della morte e indicazione dei co-imperatori associati al trono.",
+  "category": "history",
+  "source": "https://it.wikipedia.org/wiki/Imperatori_romani",
+  "source_url": "https://it.wikipedia.org/wiki/Imperatori_romani",
+  "updated": "2026-11",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "imperatore",
+      "label": "Imperatore",
+      "type": "string"
+    },
+    {
+      "key": "nome_completo",
+      "label": "Nome Completo",
+      "type": "string"
+    },
+    {
+      "key": "periodo",
+      "label": "Periodo",
+      "type": "string"
+    },
+    {
+      "key": "nascita",
+      "label": "Nascita",
+      "type": "string"
+    },
+    {
+      "key": "inizio_regno",
+      "label": "Inizio Regno",
+      "type": "string"
+    },
+    {
+      "key": "fine_regno",
+      "label": "Fine Regno",
+      "type": "string"
+    },
+    {
+      "key": "morte",
+      "label": "Morte",
+      "type": "string"
+    },
+    {
+      "key": "co_imperatore",
+      "label": "Co Imperatore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imperatore": "Gaio Giulio Cesare",
+      "nome_completo": "",
+      "periodo": "Gens Iulia (49 a.C.-44 a.C.)",
+      "nascita": "12 luglio 100 a.C., Roma, Italia",
+      "inizio_regno": "49 a.C.",
+      "fine_regno": "15 marzo 44 a.C.",
+      "morte": "assassinato in una congiura",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Augusto",
+      "nome_completo": "Gaio Ottavio Turino Gaio Giulio Cesare Ottaviano Imperatore Cesare Augusto",
+      "periodo": "Dinastia giulio-claudia (27 a.C.-68 d.C.)",
+      "nascita": "23 settembre 63 a.C., Roma, Italia",
+      "inizio_regno": "16 gennaio 27 a.C.",
+      "fine_regno": "19 agosto 14",
+      "morte": "vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Tiberio",
+      "nome_completo": "Tiberio Claudio Nerone Tiberio Giulio Cesare",
+      "periodo": "Dinastia giulio-claudia (27 a.C.-68 d.C.)",
+      "nascita": "16 novembre 42 a.C., Roma, Italia",
+      "inizio_regno": "19 agosto 14",
+      "fine_regno": "16 marzo 37",
+      "morte": "malattia non specifica",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Caligola",
+      "nome_completo": "Gaio Giulio Cesare Germanico",
+      "periodo": "Dinastia giulio-claudia (27 a.C.-68 d.C.)",
+      "nascita": "31 agosto 12, Anzio, Italia",
+      "inizio_regno": "18 marzo 37",
+      "fine_regno": "24 gennaio 41",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Claudio",
+      "nome_completo": "Tiberio Claudio Druso Nerone Germanico Tiberio Claudio Cesare Augusto Germanico",
+      "periodo": "Dinastia giulio-claudia (27 a.C.-68 d.C.)",
+      "nascita": "1º agosto 10 a.C., Lione, Gallia",
+      "inizio_regno": "24 gennaio 41",
+      "fine_regno": "13 ottobre 54",
+      "morte": "avvelenato probabilmente da Agrippina Minore",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Nerone",
+      "nome_completo": "Lucio Domizio Enobarbo Tiberio Claudio Druso Nerone Cesare Germanico Domiziano",
+      "periodo": "Dinastia giulio-claudia (27 a.C.-68 d.C.)",
+      "nascita": "15 dicembre 37, Anzio, Italia",
+      "inizio_regno": "13 ottobre 54",
+      "fine_regno": "9 giugno 68",
+      "morte": "suicidio assistito",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Galba",
+      "nome_completo": "Servio Sulpicio Galba",
+      "periodo": "Guerra civile romana (68-69)",
+      "nascita": "24 dicembre 3 a.C., Terracina, Italia",
+      "inizio_regno": "9 giugno 68",
+      "fine_regno": "15 gennaio 69",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Otone",
+      "nome_completo": "Marco Salvio Otone",
+      "periodo": "Guerra civile romana (68-69)",
+      "nascita": "28 aprile 32, Ferento, Italia",
+      "inizio_regno": "15 gennaio 69",
+      "fine_regno": "16 aprile 69",
+      "morte": "suicidio",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Vitellio",
+      "nome_completo": "Aulo Vitellio",
+      "periodo": "Guerra civile romana (68-69)",
+      "nascita": "24 settembre 15, Nuceria Alfaterna, Italia",
+      "inizio_regno": "16 aprile 69",
+      "fine_regno": "22 dicembre 69",
+      "morte": "assassinato dai sostenitori di Vespasiano",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Vespasiano",
+      "nome_completo": "Tito Flavio Vespasiano Cesare Vespasiano Augusto",
+      "periodo": "Dinastia dei Flavi (69-96)",
+      "nascita": "17 novembre 9, Cittareale, Italia",
+      "inizio_regno": "1º luglio 69",
+      "fine_regno": "23 giugno 79",
+      "morte": "vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Tito",
+      "nome_completo": "Tito Flavio Vespasiano",
+      "periodo": "Dinastia dei Flavi (69-96)",
+      "nascita": "30 dicembre 39, Roma, Italia",
+      "inizio_regno": "24 giugno 79",
+      "fine_regno": "13 settembre 81",
+      "morte": "febbre",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Domiziano",
+      "nome_completo": "Tito Flavio Domiziano",
+      "periodo": "Dinastia dei Flavi (69-96)",
+      "nascita": "24 ottobre 51, Roma, Italia",
+      "inizio_regno": "14 settembre 81",
+      "fine_regno": "18 settembre 96",
+      "morte": "assassinato in una congiura",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Nerva",
+      "nome_completo": "Marco Cocceio Nerva",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "8 novembre 30, Narni, Italia",
+      "inizio_regno": "18 settembre 96",
+      "fine_regno": "27 gennaio 98",
+      "morte": "vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Traiano",
+      "nome_completo": "Marco Ulpio Traiano Marco Ulpio Nerva Traiano",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "18 settembre 53, Italica, Spagna",
+      "inizio_regno": "27 gennaio 98",
+      "fine_regno": "8 agosto 117",
+      "morte": "ictus o malattia infettiva",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Adriano",
+      "nome_completo": "Publio Elio Adriano Publio Elio Traiano Adriano",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "24 gennaio 76, Italica, Spagna",
+      "inizio_regno": "9 agosto 117",
+      "fine_regno": "10 luglio 138",
+      "morte": "idropisia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Antonino Pio",
+      "nome_completo": "Tito Aurelio Fulvo Boionio Arrio Antonino Tito Elio Adriano Antonino",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "19 settembre 86, Lanuvio, Italia",
+      "inizio_regno": "10 luglio 138",
+      "fine_regno": "7 marzo 161",
+      "morte": "vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Marco Aurelio",
+      "nome_completo": "Marco Annio Catilio Severo Marco Annio Vero Marco Aurelio Antonino",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "26 aprile 121, Roma, Italia",
+      "inizio_regno": "7 marzo 161",
+      "fine_regno": "17 marzo 180",
+      "morte": "peste",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Lucio Vero",
+      "nome_completo": "Lucio Ceionio Commodo Vero",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "15 dicembre 130, Roma, Italia",
+      "inizio_regno": "7 marzo 161",
+      "fine_regno": "13 gennaio 169",
+      "morte": "peste",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Commodo",
+      "nome_completo": "Marco Aurelio Lucio Commodo Antonino",
+      "periodo": "Imperatori adottivi: Dinastia Antonina (96-192)",
+      "nascita": "31 agosto 161, Lanuvio, Italia",
+      "inizio_regno": "17 marzo 180",
+      "fine_regno": "31 dicembre 192",
+      "morte": "strangolato da Narcisso",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Pertinace",
+      "nome_completo": "Publio Elvio Pertinace",
+      "periodo": ":Guerra civile romana (193-197)",
+      "nascita": "1º agosto 126, Alba, Italia",
+      "inizio_regno": "1º gennaio 193",
+      "fine_regno": "28 marzo 193",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Didio Giuliano",
+      "nome_completo": "Marco Didio Severo Giuliano",
+      "periodo": ":Guerra civile romana (193-197)",
+      "nascita": "30 gennaio 133, Milano, Italia",
+      "inizio_regno": "28 marzo 193",
+      "fine_regno": "1º giugno 193",
+      "morte": "assassinato da un sicario del Senato",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Settimio Severo",
+      "nome_completo": "Lucio Settimio Severo",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "11 aprile 146, Leptis Magna, Africa",
+      "inizio_regno": "9 aprile 193",
+      "fine_regno": "4 febbraio 211",
+      "morte": "in Britannia mentre guidava una campagna di repressione contro i provinciali ribelli",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Geta",
+      "nome_completo": "Publio Settimio Geta",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "7 marzo 189, Roma, Italia",
+      "inizio_regno": "4 febbraio 211",
+      "fine_regno": "26 dicembre 211",
+      "morte": "assassinato su ordine di Caracalla",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Caracalla",
+      "nome_completo": "Lucio Settimio Bassiano Marco Aurelio Severo Antonino",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "4 aprile 188, Lione, Gallia",
+      "inizio_regno": "4 febbraio 211",
+      "fine_regno": "8 aprile 217",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Macrino",
+      "nome_completo": "Marco Opellio Macrino",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "164 circa, Cherchell, Africa",
+      "inizio_regno": "8 aprile 217",
+      "fine_regno": "16 giugno 218",
+      "morte": "giustiziati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Diadumeniano",
+      "nome_completo": "Marco Opellio Diadumeniano",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "204 circa",
+      "inizio_regno": "218",
+      "fine_regno": "16 giugno 218",
+      "morte": "giustiziati",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Eliogabalo",
+      "nome_completo": "Sesto Vario Avito Bassiano Marco Aurelio Antonino",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "20 marzo 204, Roma, Italia",
+      "inizio_regno": "16 giugno 218",
+      "fine_regno": "11 marzo 222",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Alessandro Severo",
+      "nome_completo": "Marco Bassiano Alessiano Marco Aurelio Severo Alessandro",
+      "periodo": "Dinastia dei Severi (193-235)",
+      "nascita": "1º ottobre 208, Arca Caesarea, Fenicia",
+      "inizio_regno": "11 marzo 222",
+      "fine_regno": "18 marzo 235",
+      "morte": "assassinato dai suoi soldati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Massimino il Trace",
+      "nome_completo": "Gaio Giulio Vero Massimino",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "173 circa",
+      "inizio_regno": "18 marzo 235",
+      "fine_regno": "10 maggio 238",
+      "morte": "ucciso dai suoi stessi soldati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Gordiano I",
+      "nome_completo": "Marco Antonio Gordiano Semproniano Romano Africano",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "159 circa",
+      "inizio_regno": "22 marzo 238",
+      "fine_regno": "27 aprile 238",
+      "morte": "suicida",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Gordiano II",
+      "nome_completo": "Marco Antonio Gordiano Semproniano Romano Africano",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "192 circa",
+      "inizio_regno": "22 marzo 238",
+      "fine_regno": "12 aprile 238",
+      "morte": "caduto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Pupieno",
+      "nome_completo": "Marco Clodio Pupieno Massimo",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "170 circa",
+      "inizio_regno": "30 aprile 238",
+      "fine_regno": "11 luglio 238",
+      "morte": "assassinati dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Balbino",
+      "nome_completo": "Decimo Celio Calvino Balbino",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "178 circa",
+      "inizio_regno": "30 aprile 238",
+      "fine_regno": "11 luglio 238",
+      "morte": "assassinati dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Gordiano III",
+      "nome_completo": "Marco Antonio Gordiano Pio",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "20 gennaio 225",
+      "inizio_regno": "30 aprile 238",
+      "fine_regno": "11 febbraio 244",
+      "morte": "assassinato dai soldati di Filippo l'Arabo",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Filippo l'Arabo",
+      "nome_completo": "Marco Giulio Filippo",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "204 circa",
+      "inizio_regno": "11 febbraio 244",
+      "fine_regno": "18 maggio 249",
+      "morte": "caduto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Filippo II",
+      "nome_completo": "Marco Giulio Severo Filippo",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "238",
+      "inizio_regno": "9 aprile 247",
+      "fine_regno": "26 maggio 249",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Decio",
+      "nome_completo": "Gaio Messio Quinto Traiano Decio",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "201 circa",
+      "inizio_regno": "31 maggio 249",
+      "fine_regno": "1º luglio 251",
+      "morte": "caduti in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Erennio Etrusco",
+      "nome_completo": "Quinto Erennio Etrusco Messio Decio",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "220 circa",
+      "inizio_regno": "251",
+      "fine_regno": "1º luglio 251",
+      "morte": "caduti in battaglia",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Treboniano Gallo",
+      "nome_completo": "Gaio Vibio Treboniano Gallo",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "206 circa",
+      "inizio_regno": "1º luglio 251",
+      "fine_regno": "14 agosto 253",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Ostiliano",
+      "nome_completo": "Gaio Valente Ostiliano Messio Quinto",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "230 circa",
+      "inizio_regno": "1º luglio 251",
+      "fine_regno": "6 novembre 251",
+      "morte": "peste",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Volusiano",
+      "nome_completo": "Gaio Vibio Afinio Gallo Veldumniano Volusiano",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "224 circa",
+      "inizio_regno": "6 novembre 251",
+      "fine_regno": "14 agosto 253",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Emiliano",
+      "nome_completo": "Marco Emilio Emiliano",
+      "periodo": "Anarchia militare fino ad Emiliano (235-253)",
+      "nascita": "207 circa",
+      "inizio_regno": "14 agosto 253",
+      "fine_regno": "23 settembre 253",
+      "morte": "assassinato dai suoi soldati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Valeriano",
+      "nome_completo": "Publio Licinio Valeriano",
+      "periodo": "Dinastia valeriana (253-268)",
+      "nascita": "200 circa",
+      "inizio_regno": "20 settembre 253",
+      "fine_regno": "2 maggio 260",
+      "morte": "morto in prigionia presso il re sasanide Sapore I",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Gallieno",
+      "nome_completo": "Publio Licinio Egnazio Gallieno",
+      "periodo": "Dinastia valeriana (253-268)",
+      "nascita": "218",
+      "inizio_regno": "16 ottobre 253",
+      "fine_regno": "30 agosto 268",
+      "morte": "assassinato a tradimento",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Cornelio Valeriano",
+      "nome_completo": "Publio Licinio Cornelio Valeriano",
+      "periodo": "Dinastia valeriana (253-268)",
+      "nascita": "250 circa",
+      "inizio_regno": "258",
+      "fine_regno": "258",
+      "morte": "assassinato a tradimento",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Cornelio Salonino",
+      "nome_completo": "Publio Licinio Cornelio Valeriano Salonino",
+      "periodo": "Dinastia valeriana (253-268)",
+      "nascita": "243 circa",
+      "inizio_regno": "260",
+      "fine_regno": "260",
+      "morte": "assassinato",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Claudio il Gotico",
+      "nome_completo": "Marco Aurelio Claudio",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "10 maggio 213",
+      "inizio_regno": "3 settembre 268",
+      "fine_regno": "luglio 270",
+      "morte": "peste",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Quintillo",
+      "nome_completo": "Marco Aurelio Claudio Quintillo",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "220 circa",
+      "inizio_regno": "5 luglio 270",
+      "fine_regno": "settembre 270",
+      "morte": "suicida",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Aureliano",
+      "nome_completo": "Lucio Domizio Aureliano",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "9 settembre 214",
+      "inizio_regno": "27 settembre 270",
+      "fine_regno": "25 settembre 275",
+      "morte": "assassinato dai pretoriani",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Tacito",
+      "nome_completo": "Marco Claudio Tacito",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "200 circa",
+      "inizio_regno": "4 novembre 275",
+      "fine_regno": "6 giugno 276",
+      "morte": "probabilmente avvelenato",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Floriano",
+      "nome_completo": "Marco Annio Floriano",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "19 agosto 232",
+      "inizio_regno": "6 giugno 276",
+      "fine_regno": "7 agosto 276",
+      "morte": "assassinato dai suoi soldati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Probo",
+      "nome_completo": "Marco Aurelio Probo",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "9 agosto 232",
+      "inizio_regno": "10 agosto 276",
+      "fine_regno": "22 ottobre 282",
+      "morte": "assassinato dai suoi soldati",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Caro",
+      "nome_completo": "Marco Aurelio Caro",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "230 circa",
+      "inizio_regno": "22 ottobre 282",
+      "fine_regno": "7 luglio 283",
+      "morte": "circostanze non chiare (forse colpito da un fulmine)",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Carino",
+      "nome_completo": "Marco Aurelio Carino",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "250 circa",
+      "inizio_regno": "7 luglio 283",
+      "fine_regno": "19 luglio 285",
+      "morte": "caduto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Numeriano",
+      "nome_completo": "Marco Aurelio Numerio Numeriano",
+      "periodo": "Imperatori illirici (268-284)",
+      "nascita": "254 circa",
+      "inizio_regno": "7 luglio 283",
+      "fine_regno": "20 novembre 284",
+      "morte": "circostanze non chiare (forse avvelenato dal suocero Arrio Apro)",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Diocleziano",
+      "nome_completo": "Iovio Diocle Gaio Aurelio Valerio Diocleziano",
+      "periodo": "Riforma tetrarchica (284-306)",
+      "nascita": "22 dicembre 244",
+      "inizio_regno": "20 novembre 284",
+      "fine_regno": "1º maggio 305 abdicazione",
+      "morte": "3 dicembre 311 vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Massimiano",
+      "nome_completo": "Erculio Marco Aurelio Valerio Massimiano",
+      "periodo": "Riforma tetrarchica (284-306)",
+      "nascita": "250 circa",
+      "inizio_regno": "1º aprile 286",
+      "fine_regno": "1º maggio 305 abdicazione",
+      "morte": "11 luglio 310 suicida",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costanzo Cloro",
+      "nome_completo": "Gaio Flavio Valerio Costanzo",
+      "periodo": "Riforma tetrarchica (284-306)",
+      "nascita": "31 marzo 250",
+      "inizio_regno": "1º maggio 305",
+      "fine_regno": "25 luglio 306",
+      "morte": "malattia non specifica",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Galerio",
+      "nome_completo": "Gaio Valerio Galerio Massimiano",
+      "periodo": "Riforma tetrarchica (284-306)",
+      "nascita": "252 circa",
+      "inizio_regno": "1º maggio 305",
+      "fine_regno": "5 maggio 311",
+      "morte": "malattia non specifica",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Flavio Severo",
+      "nome_completo": "Flavio Valerio Severo",
+      "periodo": "Guerra civile romana (306-324)",
+      "nascita": "265 circa",
+      "inizio_regno": "25 luglio 306",
+      "fine_regno": "16 settembre 307",
+      "morte": "giustiziato da Massenzio",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Licinio",
+      "nome_completo": "Flavio Valerio Liciniano Licinio",
+      "periodo": "Guerra civile romana (306-324)",
+      "nascita": "268 circa",
+      "inizio_regno": "11 novembre 308",
+      "fine_regno": "luglio 324 deposto da Costantino",
+      "morte": "325 giustiziato da Costantino",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Massimino Daia",
+      "nome_completo": "Gaio Galerio Valerio Massimino Daia",
+      "periodo": "Guerra civile romana (306-324)",
+      "nascita": "285 circa",
+      "inizio_regno": "5 maggio 311",
+      "fine_regno": "13 agosto 313",
+      "morte": "morte naturale",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Massenzio",
+      "nome_completo": "Marco Aurelio Valerio Massenzio",
+      "periodo": "Guerra civile romana (306-324)",
+      "nascita": "278",
+      "inizio_regno": "28 ottobre 306",
+      "fine_regno": "28 ottobre 312",
+      "morte": "morto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costantino I",
+      "nome_completo": "Flavio Valerio Costantino",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "27 febbraio 274",
+      "inizio_regno": "25 luglio 306",
+      "fine_regno": "22 maggio 337",
+      "morte": "vecchiaia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costantino II",
+      "nome_completo": "Flavio Giulio Costantino",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "11 febbraio 317",
+      "inizio_regno": "9 settembre 337",
+      "fine_regno": "1º aprile 340",
+      "morte": "caduto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costanzo II",
+      "nome_completo": "Flavio Giulio Costanzo",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "7 agosto 317",
+      "inizio_regno": "9 settembre 337",
+      "fine_regno": "3 novembre 361",
+      "morte": "febbre",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costante",
+      "nome_completo": "Flavio Giulio Costante",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "320",
+      "inizio_regno": "9 settembre 337",
+      "fine_regno": "18 gennaio 350",
+      "morte": "assassinato da Magnenzio",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Giuliano",
+      "nome_completo": "detto \"l'Apostata\" Flavio Claudio Giuliano",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "6 novembre 331",
+      "inizio_regno": "3 novembre 361",
+      "fine_regno": "26 giugno 363",
+      "morte": "mortalmente ferito da un giavellotto in battaglia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Gioviano",
+      "nome_completo": "Flavio Claudio Gioviano",
+      "periodo": "Dinastia costantiniana (306-363)",
+      "nascita": "331 circa",
+      "inizio_regno": "27 giugno 363",
+      "fine_regno": "17 febbraio 364",
+      "morte": "avvelenato, forse casualmente",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Valentiniano I",
+      "nome_completo": "Flavio Valentiniano",
+      "periodo": "Dinastia valentiniana e teodosiana (364-395)",
+      "nascita": "3 luglio 321",
+      "inizio_regno": "26 febbraio 364",
+      "fine_regno": "17 novembre 375",
+      "morte": "ictus",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Valente",
+      "nome_completo": "Flavio Giulio Valente",
+      "periodo": "Dinastia valentiniana e teodosiana (364-395)",
+      "nascita": "328",
+      "inizio_regno": "28 marzo 364",
+      "fine_regno": "9 agosto 378",
+      "morte": "caduto alla battaglia di Adrianopoli",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Graziano",
+      "nome_completo": "Flavio Graziano",
+      "periodo": "Dinastia valentiniana e teodosiana (364-395)",
+      "nascita": "18 aprile 359",
+      "inizio_regno": "17 novembre 375",
+      "fine_regno": "25 agosto 383",
+      "morte": "assassinato dai sostenitori di Magno Massimo",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Valentiniano II",
+      "nome_completo": "Flavio Valentiniano",
+      "periodo": "Dinastia valentiniana e teodosiana (364-395)",
+      "nascita": "371",
+      "inizio_regno": "17 novembre 375",
+      "fine_regno": "15 maggio 392",
+      "morte": "assassinato probabilmente da Arbogaste",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Teodosio I",
+      "nome_completo": "Flavio Teodosio Augusto",
+      "periodo": "Dinastia valentiniana e teodosiana (364-395)",
+      "nascita": "11 gennaio 347",
+      "inizio_regno": "19 gennaio 379",
+      "fine_regno": "17 gennaio 395",
+      "morte": "idropisia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Onorio",
+      "nome_completo": "Flavio Onorio",
+      "periodo": "Dinastia teodosiana (395-455)",
+      "nascita": "9 settembre 384",
+      "inizio_regno": "17 gennaio 395",
+      "fine_regno": "15 agosto 423",
+      "morte": "idropisia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Costanzo III",
+      "nome_completo": "Flavio Costanzo",
+      "periodo": "Dinastia teodosiana (395-455)",
+      "nascita": "370 circa",
+      "inizio_regno": "8 febbraio 421",
+      "fine_regno": "2 settembre 421",
+      "morte": "malattia non specifica",
+      "co_imperatore": "sì"
+    },
+    {
+      "imperatore": "Valentiniano III",
+      "nome_completo": "Flavio Placido Valentiniano",
+      "periodo": "Dinastia teodosiana (395-455)",
+      "nascita": "2 luglio 419",
+      "inizio_regno": "23 ottobre 425",
+      "fine_regno": "16 marzo 455",
+      "morte": "assassinato dai sostenitori di Petronio Massimo",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Petronio Massimo",
+      "nome_completo": "",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "396 circa",
+      "inizio_regno": "17 marzo 455",
+      "fine_regno": "31 maggio 455",
+      "morte": "lapidato dal popolo",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Avito",
+      "nome_completo": "Flavio Eparchio Avito",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "395 circa",
+      "inizio_regno": "9 luglio 455",
+      "fine_regno": "17 ottobre 456 deposto da Ricimero",
+      "morte": "457 strangolato da un sicario di Ricimero",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Maggioriano",
+      "nome_completo": "Giulio Valerio Maggioriano",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "420 circa",
+      "inizio_regno": "1º aprile 457",
+      "fine_regno": "2 agosto 461 deposizione",
+      "morte": "7 agosto 461 messo a morte da Ricimero",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Libio Severo",
+      "nome_completo": "Libio Severo Serpenzio",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "420 circa",
+      "inizio_regno": "19 novembre 461",
+      "fine_regno": "autunno 465",
+      "morte": "avvelenato da Ricimero",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Antemio",
+      "nome_completo": "Procopio Antemio",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "420 circa",
+      "inizio_regno": "12 aprile 467",
+      "fine_regno": "11 luglio 472",
+      "morte": "assassinato da Ricimero",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Anicio Olibrio",
+      "nome_completo": "Flavio Anicio Olibrio",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "432 circa",
+      "inizio_regno": "20 luglio 472",
+      "fine_regno": "2 novembre 472",
+      "morte": "idropisia",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Glicerio",
+      "nome_completo": "Flavio Glicerio",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "430 circa",
+      "inizio_regno": "4 marzo 473",
+      "fine_regno": "19 giugno 474 deposto da Giulio Nepote",
+      "morte": "dopo il 480 cause sconosciute",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Giulio Nepote",
+      "nome_completo": "",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "430 circa",
+      "inizio_regno": "19 giugno 474",
+      "fine_regno": "28 agosto 475 deposto",
+      "morte": "25 aprile 480 assassinato in una congiura, forse con complicità di Glicerio",
+      "co_imperatore": "no"
+    },
+    {
+      "imperatore": "Romolo Augusto",
+      "nome_completo": "",
+      "periodo": "Ultimi imperatori (455-476)",
+      "nascita": "463 circa",
+      "inizio_regno": "31 ottobre 475",
+      "fine_regno": "4 settembre 476 deposto da Odoacre",
+      "morte": "dopo il 511 cause sconosciute",
+      "co_imperatore": "no"
+    }
+  ],
+  "meta": {
+    "title": "Imperatori romani - Free Download",
+    "description": "Elenco degli imperatori romani da Cesare e Augusto alla caduta dell’Impero romano d’Occidente (476), con nome completo, periodo o dinastia, nascita, inizio e fine del regno, causa della morte e indicazione dei co-imperatori associati al trono. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Imperatori romani | ListBase",
+    "seo_description": "Download Imperatori romani — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Imperatori_romani"
+    ]
+  }
+}
