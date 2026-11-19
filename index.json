@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-19T02:18:21.706Z",
-  "total_datasets": 565,
-  "total_records": 150794,
+  "generated": "2026-11-19T02:18:33.618Z",
+  "total_datasets": 566,
+  "total_records": 150821,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -665,6 +665,41 @@
         "xlsx": {
           "name": "it-accademie-di-belle-arti_IT.xlsx",
           "size": 7834
+        }
+      }
+    },
+    {
+      "id": "it-istruzione-terziaria-per-regione",
+      "name": "Popolazione 25–64 anni con istruzione terziaria per regione (2015–2025)",
+      "category": "education",
+      "record_count": 27,
+      "columns": [
+        "territorio",
+        "livello",
+        "codice_nuts",
+        "percentuale_2015",
+        "percentuale_2016",
+        "percentuale_2017",
+        "percentuale_2018",
+        "percentuale_2019",
+        "percentuale_2020",
+        "percentuale_2021",
+        "percentuale_2022",
+        "percentuale_2023",
+        "percentuale_2024",
+        "percentuale_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table",
+      "updated": "2026-11",
+      "size": 15757,
+      "files": {
+        "csv": {
+          "name": "it-istruzione-terziaria-per-regione_IT.csv",
+          "size": 3507
+        },
+        "xlsx": {
+          "name": "it-istruzione-terziaria-per-regione_IT.xlsx",
+          "size": 8905
         }
       }
     },
