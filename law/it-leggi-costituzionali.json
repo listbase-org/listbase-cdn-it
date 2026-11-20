@@ -1,0 +1,556 @@
+{
+  "id": "it-leggi-costituzionali",
+  "name": "Leggi costituzionali della Repubblica Italiana (1947–2026)",
+  "title": "Leggi costituzionali della Repubblica Italiana (1947–2026)",
+  "description": "Cronologia di tutte le leggi costituzionali italiane, dalle leggi dell’Assemblea costituente a oggi, con rubrica, articoli della Costituzione modificati, maggioranza di approvazione e numero della Gazzetta Ufficiale.",
+  "category": "law",
+  "source": "https://it.wikipedia.org/wiki/Leggi_costituzionali_italiane",
+  "source_url": "https://it.wikipedia.org/wiki/Leggi_costituzionali_italiane",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "legge",
+      "label": "Legge",
+      "type": "string"
+    },
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "rubrica",
+      "label": "Rubrica",
+      "type": "string"
+    },
+    {
+      "key": "articoli_costituzione_modificati",
+      "label": "Articoli Costituzione Modificati",
+      "type": "string"
+    },
+    {
+      "key": "maggioranza",
+      "label": "Maggioranza",
+      "type": "string"
+    },
+    {
+      "key": "gazzetta_ufficiale",
+      "label": "Gazzetta Ufficiale",
+      "type": "string"
+    },
+    {
+      "key": "fase",
+      "label": "Fase",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "legge": "L.cost. 1/1947",
+      "numero": 1,
+      "anno": 1947,
+      "rubrica": "Proroga del termine di otto mesi previsto dall'art. 4 del decreto legislativo 16 marzo 1946, n. 98, per la durata dell' Assemblea Costituente",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "44/1947",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza del d.lgs.lgt. n. 98 del 16 marzo 1946"
+    },
+    {
+      "legge": "L.cost. 2/1947",
+      "numero": 2,
+      "anno": 1947,
+      "rubrica": "Proroga del termine previsto dall'art. 4 del decreto legislativo 16 marzo 1946, n. 98, per la durata dell' Assemblea costituente",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "137/1947",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza del d.lgs.lgt. n. 98 del 16 marzo 1946"
+    },
+    {
+      "legge": "L.cost. 3/1947",
+      "numero": 3,
+      "anno": 1947,
+      "rubrica": "Soppressione del Senato e determinazione della posizione giuridica dei suoi componenti",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "256/1947",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza del d.lgs.lgt. n. 98 del 16 marzo 1946"
+    },
+    {
+      "legge": "L.cost. 1/1948",
+      "numero": 1,
+      "anno": 1948,
+      "rubrica": "Norme sui giudizi di legittimità costituzionale e sulle garanzie d'indipendenza della Corte costituzionale",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "43/1948",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza della Costituzione"
+    },
+    {
+      "legge": "L.cost. 2/1948",
+      "numero": 2,
+      "anno": 1948,
+      "rubrica": "Conversione in legge costituzionale dello Statuto della Regione siciliana",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "58/1948",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza della Costituzione"
+    },
+    {
+      "legge": "L.cost. 3/1948",
+      "numero": 3,
+      "anno": 1948,
+      "rubrica": "Statuto speciale per la Sardegna",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "58/1948",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza della Costituzione"
+    },
+    {
+      "legge": "L.cost. 4/1948",
+      "numero": 4,
+      "anno": 1948,
+      "rubrica": "Statuto speciale per la Valle d'Aosta",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "59/1948",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza della Costituzione"
+    },
+    {
+      "legge": "L.cost. 5/1948",
+      "numero": 5,
+      "anno": 1948,
+      "rubrica": "Statuto speciale per il Trentino-Alto Adige",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "62/1948",
+      "fase": "Leggi costituzionali approvate dall'Assemblea costituente nella vigenza della Costituzione"
+    },
+    {
+      "legge": "L.cost. 1/1953",
+      "numero": 1,
+      "anno": 1953,
+      "rubrica": "Norme integrative della Costituzione concernenti la Corte costituzionale",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "62/1953",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 1/1958",
+      "numero": 1,
+      "anno": 1958,
+      "rubrica": "Scadenza del termine di cui alla XI delle disposizioni transitorie e finali della Costituzione",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "79/1958",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 1/1961",
+      "numero": 1,
+      "anno": 1961,
+      "rubrica": "Assegnazione di tre senatori ai comuni di Trieste, Duino Aurisina, Monrupino, Muggia, San Dorligo della Valle e Sgonico",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "82/1961",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 1/1963",
+      "numero": 1,
+      "anno": 1963,
+      "rubrica": "Statuto speciale della Regione Friuli-Venezia Giulia",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "29/1963",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 2/1963",
+      "numero": 2,
+      "anno": 1963,
+      "rubrica": "Modificazioni agli articoli 56, 57 e 60 della Costituzione",
+      "articoli_costituzione_modificati": "56, 57, 60",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "40/1963",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 3/1963",
+      "numero": 3,
+      "anno": 1963,
+      "rubrica": "Modificazioni agli articoli 131 e 57 della Costituzione e istituzione della regione Molise",
+      "articoli_costituzione_modificati": "57, 131",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "3/1964",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 1/1967",
+      "numero": 1,
+      "anno": 1967,
+      "rubrica": "Estradizione per i delitti di genocidio",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "164/1967",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 2/1967",
+      "numero": 2,
+      "anno": 1967,
+      "rubrica": "Modificazioni dell'articolo 135 della Costituzione e disposizioni sulla Corte costituzionale",
+      "articoli_costituzione_modificati": "135",
+      "maggioranza": "",
+      "gazzetta_ufficiale": "294/1967",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione ma non della legge sui referendum"
+    },
+    {
+      "legge": "L.cost. 1/1971",
+      "numero": 1,
+      "anno": 1971,
+      "rubrica": "Modificazioni e integrazioni dello Statuto speciale per il Trentino-Alto Adige",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "3/1972",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1972",
+      "numero": 1,
+      "anno": 1972,
+      "rubrica": "Modifica del termine stabilito per la durata in carica dell' Assemblea regionale siciliana e dei consigli regionali della Sardegna, della Valle d'Aosta, del Trentino-Alto Adige, del Friuli-Venezia Giulia",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "63/1972",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1986",
+      "numero": 1,
+      "anno": 1986,
+      "rubrica": "Modifica dell'articolo 16 dello statuto speciale per la Sardegna, approvato con la L.cost. 26 febbraio 1948, n. 3, concernente la definizione del numero dei consiglieri regionali",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "111/1986",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1989",
+      "numero": 1,
+      "anno": 1989,
+      "rubrica": "Modifiche degli articoli 96, 134 e 135 della Costituzione e della L.cost. 11 marzo 1953, n. 1, e norme in materia di procedimenti per i reati di cui all'articolo 96 della Costituzione",
+      "articoli_costituzione_modificati": "96, 134, 135",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "13/1989",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/1989",
+      "numero": 2,
+      "anno": 1989,
+      "rubrica": "Indizione di un referendum di indirizzo sul conferimento di un mandato costituente al Parlamento europeo che sarà eletto nel 1989, per la creazione di una \"effettiva Unione\" Europea.",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "80/1989",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 3/1989",
+      "numero": 3,
+      "anno": 1989,
+      "rubrica": "Modifiche ed integrazioni alla L.cost. 1 del 1972, durata in carica dell' Assemblea regionale siciliana e dei consigli delle altre Regioni a statuto speciale. Modifica allo statuto speciale per la Valle d'Aosta",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "87/1989",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1991",
+      "numero": 1,
+      "anno": 1991,
+      "rubrica": "Modifica dell'articolo 88, secondo comma, della Costituzione",
+      "articoli_costituzione_modificati": "88",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "262/1991",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1992",
+      "numero": 1,
+      "anno": 1992,
+      "rubrica": "Revisione dell'articolo 79 della Costituzione in materia di concessione di amnistia e indulto",
+      "articoli_costituzione_modificati": "79",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "57/1992",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1993",
+      "numero": 1,
+      "anno": 1993,
+      "rubrica": "Funzioni della Commissione parlamentare per le riforme istituzionali e disciplina del procedimento di revisione costituzionale",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "186/1993",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/1993",
+      "numero": 2,
+      "anno": 1993,
+      "rubrica": "Modifiche ed integrazioni agli statuti speciali per la Valle d'Aosta, per la Sardegna, per il Friuli-Venezia Giulia e per il Trentino-Alto Adige",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "226/1993",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 3/1993",
+      "numero": 3,
+      "anno": 1993,
+      "rubrica": "Modifica dell'articolo 68 della Costituzione",
+      "articoli_costituzione_modificati": "68",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "256/1993",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1997",
+      "numero": 1,
+      "anno": 1997,
+      "rubrica": "Istituzione di una Commissione parlamentare per le riforme costituzionali",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "22/1997",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/1999",
+      "numero": 1,
+      "anno": 1999,
+      "rubrica": "Disposizioni concernenti l'elezione diretta del Presidente della Giunta regionale e l'autonomia statutaria delle Regioni",
+      "articoli_costituzione_modificati": "121, 122, 123, 126",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "299/1999",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/1999",
+      "numero": 2,
+      "anno": 1999,
+      "rubrica": "Inserimento dei principi del giusto processo nell'articolo 111 della Costituzione",
+      "articoli_costituzione_modificati": "111",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "300/1999",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2000",
+      "numero": 1,
+      "anno": 2000,
+      "rubrica": "Modifica all'articolo 48 della Costituzione concernente l'istituzione della circoscrizione Estero per l'esercizio del diritto di voto dei cittadini italiani residenti all'estero",
+      "articoli_costituzione_modificati": "48",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "15/2000",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2001",
+      "numero": 1,
+      "anno": 2001,
+      "rubrica": "Modifiche agli articoli 56 e 57 della Costituzione concernenti il numero di deputati e senatori in rappresentanza degli italiani all'estero",
+      "articoli_costituzione_modificati": "56, 57",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "19/2001",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/2001",
+      "numero": 2,
+      "anno": 2001,
+      "rubrica": "Disposizioni concernenti l'elezione diretta dei presidenti delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "26/2001",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 3/2001",
+      "numero": 3,
+      "anno": 2001,
+      "rubrica": "Modifiche al titolo V della parte seconda della Costituzione",
+      "articoli_costituzione_modificati": "114, 115 (abrogato), 116, 117, 118, 119, 120, 123, 124 (abrogato), 125, 127, 128 (abrogato), 129 (abrogato), 130 (abrogato), 132",
+      "maggioranza": "assoluta + referendum",
+      "gazzetta_ufficiale": "248/2001",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2002",
+      "numero": 1,
+      "anno": 2002,
+      "rubrica": "Legge costituzionale per la cessazione degli effetti dei commi primo e secondo della XIII disposizione transitoria e finale della Costituzione",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "252/2002",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2003",
+      "numero": 1,
+      "anno": 2003,
+      "rubrica": "Modifica dell'articolo 51 della Costituzione",
+      "articoli_costituzione_modificati": "51",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "134/2003",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2007",
+      "numero": 1,
+      "anno": 2007,
+      "rubrica": "Modifica dell'articolo 27 della Costituzione, concernente l'abolizione della pena di morte",
+      "articoli_costituzione_modificati": "27",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "236/2007",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2012",
+      "numero": 1,
+      "anno": 2012,
+      "rubrica": "Introduzione del principio del pareggio di bilancio nella Costituzione",
+      "articoli_costituzione_modificati": "81, 97, 117, 119",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "95/2012",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2013",
+      "numero": 1,
+      "anno": 2013,
+      "rubrica": "Modifica dell'articolo 13 dello Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "40/2013",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/2013",
+      "numero": 2,
+      "anno": 2013,
+      "rubrica": "Modifiche all'articolo 3 dello Statuto della Regione siciliana, in materia di riduzione dei deputati dell' Assemblea regionale siciliana. Disposizioni transitorie",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "41/2013",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 3/2013",
+      "numero": 3,
+      "anno": 2013,
+      "rubrica": "Modifica degli articoli 15 e 16 dello Statuto speciale per la Sardegna, di cui alla legge costituzionale 26 febbraio 1948, n. 3, in materia di composizione ed elezione del Consiglio regionale",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "50/2013",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2016",
+      "numero": 1,
+      "anno": 2016,
+      "rubrica": "Modifiche allo Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1, in materia di enti locali, di elettorato passivo alle elezioni regionali e di iniziativa legislativa popolare",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "184/2016",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2017",
+      "numero": 1,
+      "anno": 2017,
+      "rubrica": "Modifiche allo statuto speciale per il Trentino-Alto Adige/Südtirol in materia di tutela della minoranza linguistica ladina",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "291/2017",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2020",
+      "numero": 1,
+      "anno": 2020,
+      "rubrica": "Modifiche agli articoli 56, 57 e 59 della Costituzione in materia di riduzione del numero dei parlamentari",
+      "articoli_costituzione_modificati": "56, 57, 59",
+      "maggioranza": "assoluta + referendum",
+      "gazzetta_ufficiale": "261/2020",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2021",
+      "numero": 1,
+      "anno": 2021,
+      "rubrica": "Modifiche all'articolo 58 della Costituzione in materia di elettorato per l'elezione del Senato della Repubblica",
+      "articoli_costituzione_modificati": "58",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "166/2021",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2022",
+      "numero": 1,
+      "anno": 2022,
+      "rubrica": "Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente",
+      "articoli_costituzione_modificati": "9, 41",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "44/2022",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 2/2022",
+      "numero": 2,
+      "anno": 2022,
+      "rubrica": "Modifica all'articolo 119 della Costituzione, concernente il riconoscimento delle peculiarità delle Isole e il superamento degli svantaggi derivanti dall'insularità.",
+      "articoli_costituzione_modificati": "119",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "267/2022",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2023",
+      "numero": 1,
+      "anno": 2023,
+      "rubrica": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva.",
+      "articoli_costituzione_modificati": "33",
+      "maggioranza": "qualificata",
+      "gazzetta_ufficiale": "235/2023",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    },
+    {
+      "legge": "L.cost. 1/2026",
+      "numero": 1,
+      "anno": 2026,
+      "rubrica": "Modifiche alla legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della Regione Friuli-Venezia Giulia.",
+      "articoli_costituzione_modificati": "",
+      "maggioranza": "assoluta",
+      "gazzetta_ufficiale": "32/2026",
+      "fase": "Leggi costituzionali approvate dal Parlamento nella vigenza della Costituzione e della legge sui referendum (l. n. 352 del 25 maggio 1970)"
+    }
+  ],
+  "meta": {
+    "title": "Leggi costituzionali della Repubblica Italiana (1947–2026) - Free Download",
+    "description": "Cronologia di tutte le leggi costituzionali italiane, dalle leggi dell’Assemblea costituente a oggi, con rubrica, articoli della Costituzione modificati, maggioranza di approvazione e numero della Gazzetta Ufficiale. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Leggi costituzionali della Repubblica Italiana (1947–2026) | ListBase",
+    "seo_description": "Download Leggi costituzionali della Repubblica Italiana (1947–2026) — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Leggi_costituzionali_italiane"
+    ]
+  }
+}

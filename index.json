@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-19T02:18:45.207Z",
-  "total_datasets": 567,
-  "total_records": 150848,
+  "generated": "2026-11-20T02:22:25.962Z",
+  "total_datasets": 568,
+  "total_records": 150897,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -2490,6 +2490,35 @@
         "xlsx": {
           "name": "it-corti-d-appello_IT.xlsx",
           "size": 7403
+        }
+      }
+    },
+    {
+      "id": "it-leggi-costituzionali",
+      "name": "Leggi costituzionali della Repubblica Italiana (1947–2026)",
+      "category": "law",
+      "record_count": 49,
+      "columns": [
+        "legge",
+        "numero",
+        "anno",
+        "rubrica",
+        "articoli_costituzione_modificati",
+        "maggioranza",
+        "gazzetta_ufficiale",
+        "fase"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Leggi_costituzionali_italiane",
+      "updated": "2026-11",
+      "size": 25968,
+      "files": {
+        "csv": {
+          "name": "it-leggi-costituzionali_IT.csv",
+          "size": 14808
+        },
+        "xlsx": {
+          "name": "it-leggi-costituzionali_IT.xlsx",
+          "size": 10981
         }
       }
     },
