@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-20T02:22:38.195Z",
-  "total_datasets": 569,
-  "total_records": 150937,
+  "generated": "2026-11-20T02:22:48.842Z",
+  "total_datasets": 570,
+  "total_records": 150961,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -1446,6 +1446,39 @@
         "xlsx": {
           "name": "it-monete-lira-italiana_IT.xlsx",
           "size": 8425
+        }
+      }
+    },
+    {
+      "id": "it-tirature-monete-euro-italiane",
+      "name": "Tirature annuali delle monete euro italiane",
+      "category": "finance",
+      "record_count": 24,
+      "columns": [
+        "anno",
+        "divisionali_fdc",
+        "divisionali_fs",
+        "divisionali_fdc_commemorative",
+        "tiratura_0_01_euro",
+        "tiratura_0_02_euro",
+        "tiratura_0_05_euro",
+        "tiratura_0_10_euro",
+        "tiratura_0_20_euro",
+        "tiratura_0_50_euro",
+        "tiratura_1_euro",
+        "tiratura_2_euro"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+      "updated": "2026-11",
+      "size": 13022,
+      "files": {
+        "csv": {
+          "name": "it-tirature-monete-euro-italiane_IT.csv",
+          "size": 2902
+        },
+        "xlsx": {
+          "name": "it-tirature-monete-euro-italiane_IT.xlsx",
+          "size": 8289
         }
       }
     },

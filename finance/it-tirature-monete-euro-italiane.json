@@ -1,0 +1,422 @@
+{
+  "id": "it-tirature-monete-euro-italiane",
+  "name": "Tirature annuali delle monete euro italiane",
+  "title": "Tirature annuali delle monete euro italiane",
+  "description": "Numero di monete euro italiane coniate ogni anno dal 2002 per ciascun taglio circolante (da 1 centesimo a 2 euro) e numero di serie divisionali FDC e FS emesse dalla Zecca.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+  "source_url": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "divisionali_fdc",
+      "label": "Divisionali Fdc",
+      "type": "number"
+    },
+    {
+      "key": "divisionali_fs",
+      "label": "Divisionali Fs",
+      "type": "number"
+    },
+    {
+      "key": "divisionali_fdc_commemorative",
+      "label": "Divisionali Fdc Commemorative",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_01_euro",
+      "label": "Tiratura 0 01 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_02_euro",
+      "label": "Tiratura 0 02 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_05_euro",
+      "label": "Tiratura 0 05 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_10_euro",
+      "label": "Tiratura 0 10 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_20_euro",
+      "label": "Tiratura 0 20 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_0_50_euro",
+      "label": "Tiratura 0 50 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_1_euro",
+      "label": "Tiratura 1 Euro",
+      "type": "number"
+    },
+    {
+      "key": "tiratura_2_euro",
+      "label": "Tiratura 2 Euro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 2002,
+      "divisionali_fdc": 150000,
+      "divisionali_fs": "",
+      "divisionali_fdc_commemorative": "",
+      "tiratura_0_01_euro": 1348749500,
+      "tiratura_0_02_euro": 1099016250,
+      "tiratura_0_05_euro": 1341592204,
+      "tiratura_0_10_euro": 1142233000,
+      "tiratura_0_20_euro": 1411686000,
+      "tiratura_0_50_euro": 1136568000,
+      "tiratura_1_euro": 965875300,
+      "tiratura_2_euro": 463552000
+    },
+    {
+      "anno": 2003,
+      "divisionali_fdc": 50000,
+      "divisionali_fs": 12000,
+      "divisionali_fdc_commemorative": 50000,
+      "tiratura_0_01_euro": 9749000,
+      "tiratura_0_02_euro": 21667000,
+      "tiratura_0_05_euro": 1956000,
+      "tiratura_0_10_euro": 29826000,
+      "tiratura_0_20_euro": 26005000,
+      "tiratura_0_50_euro": 44675000,
+      "tiratura_1_euro": 66342000,
+      "tiratura_2_euro": 36210000
+    },
+    {
+      "anno": 2004,
+      "divisionali_fdc": 35000,
+      "divisionali_fs": 10000,
+      "divisionali_fdc_commemorative": 30000,
+      "tiratura_0_01_euro": 100000000,
+      "tiratura_0_02_euro": 120000000,
+      "tiratura_0_05_euro": 10000000,
+      "tiratura_0_10_euro": 5000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 7000000
+    },
+    {
+      "anno": 2005,
+      "divisionali_fdc": 25000,
+      "divisionali_fs": 6600,
+      "divisionali_fdc_commemorative": 24500,
+      "tiratura_0_01_euro": 180000000,
+      "tiratura_0_02_euro": 120000000,
+      "tiratura_0_05_euro": 70000000,
+      "tiratura_0_10_euro": 100000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 62000000
+    },
+    {
+      "anno": 2006,
+      "divisionali_fdc": 20500,
+      "divisionali_fs": 5800,
+      "divisionali_fdc_commemorative": 22000,
+      "tiratura_0_01_euro": 159000000,
+      "tiratura_0_02_euro": 196000000,
+      "tiratura_0_05_euro": 119000000,
+      "tiratura_0_10_euro": 180000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 108000000,
+      "tiratura_2_euro": 10000000
+    },
+    {
+      "anno": 2007,
+      "divisionali_fdc": 20000,
+      "divisionali_fs": 5510,
+      "divisionali_fdc_commemorative": 19000,
+      "tiratura_0_01_euro": 215000000,
+      "tiratura_0_02_euro": 140000000,
+      "tiratura_0_05_euro": 85000000,
+      "tiratura_0_10_euro": 105000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 135000000,
+      "tiratura_2_euro": 5000000
+    },
+    {
+      "anno": 2008,
+      "divisionali_fdc": 20000,
+      "divisionali_fs": 5000,
+      "divisionali_fdc_commemorative": 18600,
+      "tiratura_0_01_euro": 180000000,
+      "tiratura_0_02_euro": 135000000,
+      "tiratura_0_05_euro": 90000000,
+      "tiratura_0_10_euro": 105000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 135000000,
+      "tiratura_2_euro": 2500000
+    },
+    {
+      "anno": 2009,
+      "divisionali_fdc": 22000,
+      "divisionali_fs": 5500,
+      "divisionali_fdc_commemorative": 18600,
+      "tiratura_0_01_euro": 175000000,
+      "tiratura_0_02_euro": 185000000,
+      "tiratura_0_05_euro": 85000000,
+      "tiratura_0_10_euro": 106000000,
+      "tiratura_0_20_euro": 60000000,
+      "tiratura_0_50_euro": 2500000,
+      "tiratura_1_euro": 145000000,
+      "tiratura_2_euro": 2000000
+    },
+    {
+      "anno": 2010,
+      "divisionali_fdc": 21000,
+      "divisionali_fs": 5000,
+      "divisionali_fdc_commemorative": 17000,
+      "tiratura_0_01_euro": 125489100,
+      "tiratura_0_02_euro": 120288400,
+      "tiratura_0_05_euro": 67659100,
+      "tiratura_0_10_euro": 91369400,
+      "tiratura_0_20_euro": 57828000,
+      "tiratura_0_50_euro": 9250800,
+      "tiratura_1_euro": 96574100,
+      "tiratura_2_euro": 5829100
+    },
+    {
+      "anno": 2011,
+      "divisionali_fdc": 18500,
+      "divisionali_fs": 5000,
+      "divisionali_fdc_commemorative": 18000,
+      "tiratura_0_01_euro": 133691709,
+      "tiratura_0_02_euro": 109158400,
+      "tiratura_0_05_euro": 37096565,
+      "tiratura_0_10_euro": 76119500,
+      "tiratura_0_20_euro": 67758340,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 98033010,
+      "tiratura_2_euro": 14065890
+    },
+    {
+      "anno": 2012,
+      "divisionali_fdc": 11000,
+      "divisionali_fs": 3990,
+      "divisionali_fdc_commemorative": 14000,
+      "tiratura_0_01_euro": 217400000,
+      "tiratura_0_02_euro": 80000000,
+      "tiratura_0_05_euro": 62500000,
+      "tiratura_0_10_euro": 97400000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 27000000
+    },
+    {
+      "anno": 2013,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 2820,
+      "divisionali_fdc_commemorative": 12000,
+      "tiratura_0_01_euro": 243460000,
+      "tiratura_0_02_euro": 150100000,
+      "tiratura_0_05_euro": 80000000,
+      "tiratura_0_10_euro": 15000000,
+      "tiratura_0_20_euro": 15000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 10000000
+    },
+    {
+      "anno": 2014,
+      "divisionali_fdc": 11000,
+      "divisionali_fs": 2820,
+      "divisionali_fdc_commemorative": 10600,
+      "tiratura_0_01_euro": 150000000,
+      "tiratura_0_02_euro": 115000000,
+      "tiratura_0_05_euro": 40000000,
+      "tiratura_0_10_euro": 10000000,
+      "tiratura_0_20_euro": 10000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 3000000
+    },
+    {
+      "anno": 2015,
+      "divisionali_fdc": 12000,
+      "divisionali_fs": 2820,
+      "divisionali_fdc_commemorative": 11000,
+      "tiratura_0_01_euro": 220000000,
+      "tiratura_0_02_euro": 120000000,
+      "tiratura_0_05_euro": 30000000,
+      "tiratura_0_10_euro": 10000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 5000000,
+      "tiratura_2_euro": 2000000
+    },
+    {
+      "anno": 2016,
+      "divisionali_fdc": 10100,
+      "divisionali_fs": 2040,
+      "divisionali_fdc_commemorative": 9300,
+      "tiratura_0_01_euro": 160000000,
+      "tiratura_0_02_euro": 140000000,
+      "tiratura_0_05_euro": 70000000,
+      "tiratura_0_10_euro": 15000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 5000000,
+      "tiratura_1_euro": 3000000,
+      "tiratura_2_euro": 2000000
+    },
+    {
+      "anno": 2017,
+      "divisionali_fdc": 9000,
+      "divisionali_fs": 1800,
+      "divisionali_fdc_commemorative": 9000,
+      "tiratura_0_01_euro": 260000000,
+      "tiratura_0_02_euro": 150000000,
+      "tiratura_0_05_euro": 80000000,
+      "tiratura_0_10_euro": 40000000,
+      "tiratura_0_20_euro": 5000000,
+      "tiratura_0_50_euro": 3000000,
+      "tiratura_1_euro": 3000000,
+      "tiratura_2_euro": 2000000
+    },
+    {
+      "anno": 2018,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 3000,
+      "divisionali_fdc_commemorative": 10000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 170000000,
+      "tiratura_0_10_euro": 100000000,
+      "tiratura_0_20_euro": 51000000,
+      "tiratura_0_50_euro": 2000000,
+      "tiratura_1_euro": 1000000,
+      "tiratura_2_euro": 24000000
+    },
+    {
+      "anno": 2019,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 2000,
+      "divisionali_fdc_commemorative": 30000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 90000000,
+      "tiratura_0_10_euro": 110000000,
+      "tiratura_0_20_euro": 85000000,
+      "tiratura_0_50_euro": 20000000,
+      "tiratura_1_euro": 1000000,
+      "tiratura_2_euro": 12000000
+    },
+    {
+      "anno": 2020,
+      "divisionali_fdc": 12000,
+      "divisionali_fs": 2000,
+      "divisionali_fdc_commemorative": 10000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 50000000,
+      "tiratura_0_10_euro": 45000000,
+      "tiratura_0_20_euro": 20000000,
+      "tiratura_0_50_euro": 20000000,
+      "tiratura_1_euro": 1000000,
+      "tiratura_2_euro": 14000000
+    },
+    {
+      "anno": 2021,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 1500,
+      "divisionali_fdc_commemorative": 6000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 60000000,
+      "tiratura_0_10_euro": 50000000,
+      "tiratura_0_20_euro": 35000000,
+      "tiratura_0_50_euro": 20000000,
+      "tiratura_1_euro": 1000000,
+      "tiratura_2_euro": 25000000
+    },
+    {
+      "anno": 2022,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 2500,
+      "divisionali_fdc_commemorative": 8000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 49979500,
+      "tiratura_0_10_euro": 36979500,
+      "tiratura_0_20_euro": 29979500,
+      "tiratura_0_50_euro": 19979500,
+      "tiratura_1_euro": 979500,
+      "tiratura_2_euro": 24979500
+    },
+    {
+      "anno": 2023,
+      "divisionali_fdc": 10000,
+      "divisionali_fs": 4000,
+      "divisionali_fdc_commemorative": 9000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 69977000,
+      "tiratura_0_10_euro": 49977000,
+      "tiratura_0_20_euro": 36977000,
+      "tiratura_0_50_euro": 19977000,
+      "tiratura_1_euro": 977000,
+      "tiratura_2_euro": 21977000
+    },
+    {
+      "anno": 2024,
+      "divisionali_fdc": 8000,
+      "divisionali_fs": 4000,
+      "divisionali_fdc_commemorative": 7000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": 99981000,
+      "tiratura_0_10_euro": 49981000,
+      "tiratura_0_20_euro": 49981000,
+      "tiratura_0_50_euro": 19981000,
+      "tiratura_1_euro": 39981000,
+      "tiratura_2_euro": 59981000
+    },
+    {
+      "anno": 2025,
+      "divisionali_fdc": 6000,
+      "divisionali_fs": 2500,
+      "divisionali_fdc_commemorative": 7000,
+      "tiratura_0_01_euro": "*",
+      "tiratura_0_02_euro": "*",
+      "tiratura_0_05_euro": "*",
+      "tiratura_0_10_euro": "*",
+      "tiratura_0_20_euro": "*",
+      "tiratura_0_50_euro": "*",
+      "tiratura_1_euro": "*",
+      "tiratura_2_euro": "*"
+    }
+  ],
+  "meta": {
+    "title": "Tirature annuali delle monete euro italiane - Free Download",
+    "description": "Numero di monete euro italiane coniate ogni anno dal 2002 per ciascun taglio circolante (da 1 centesimo a 2 euro) e numero di serie divisionali FDC e FS emesse dalla Zecca. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tirature annuali delle monete euro italiane | ListBase",
+    "seo_description": "Download Tirature annuali delle monete euro italiane — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Monete_euro_italiane"
+    ]
+  }
+}
