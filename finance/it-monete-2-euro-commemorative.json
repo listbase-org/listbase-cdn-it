@@ -1,0 +1,331 @@
+{
+  "id": "it-monete-2-euro-commemorative",
+  "name": "Monete da 2 euro commemorative italiane",
+  "title": "Monete da 2 euro commemorative italiane",
+  "description": "Elenco delle monete commemorative italiane da 2 euro emesse dal 2004, con tema, tiratura, data di emissione e incisore.",
+  "category": "finance",
+  "source": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+  "source_url": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "anno",
+      "label": "Anno",
+      "type": "number"
+    },
+    {
+      "key": "tema",
+      "label": "Tema",
+      "type": "string"
+    },
+    {
+      "key": "tiratura",
+      "label": "Tiratura",
+      "type": "number"
+    },
+    {
+      "key": "data_emissione",
+      "label": "Data Emissione",
+      "type": "string"
+    },
+    {
+      "key": "incisore",
+      "label": "Incisore",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "anno": 2004,
+      "tema": "50º anniversario dell'istituzione del Programma alimentare mondiale",
+      "tiratura": 16000000,
+      "data_emissione": "14 dicembre 2004",
+      "incisore": "Uliana Pernazza"
+    },
+    {
+      "anno": 2005,
+      "tema": "1º anniversario della firma della Costituzione europea",
+      "tiratura": 18000000,
+      "data_emissione": "31 ottobre 2005",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2006,
+      "tema": "XX Giochi olimpici invernali di Torino",
+      "tiratura": 40000000,
+      "data_emissione": "10 febbraio 2006",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2007,
+      "tema": "50º anniversario della firma dei Trattati di Roma (emissione comune)",
+      "tiratura": 5000000,
+      "data_emissione": "25 marzo 2007",
+      "incisore": "Luc Luycx"
+    },
+    {
+      "anno": 2008,
+      "tema": "60º anniversario della Dichiarazione universale dei diritti umani",
+      "tiratura": 2500000,
+      "data_emissione": "10 dicembre 2008",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2009,
+      "tema": "10º anniversario dell' UEM (emissione comune)",
+      "tiratura": 1950000,
+      "data_emissione": "26 marzo 2009",
+      "incisore": "Georgios Stamatopoulos"
+    },
+    {
+      "anno": 2009,
+      "tema": "200º anniversario dalla nascita di Louis Braille",
+      "tiratura": 1950000,
+      "data_emissione": "18 dicembre 2009",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2010,
+      "tema": "200º anniversario della nascita di Camillo Benso di Cavour",
+      "tiratura": 4000000,
+      "data_emissione": "9 dicembre 2010",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2011,
+      "tema": "150º anniversario dell' unità d'Italia",
+      "tiratura": 10000000,
+      "data_emissione": "22 aprile 2011",
+      "incisore": "Ettore Lorenzo Frapiccini"
+    },
+    {
+      "anno": 2012,
+      "tema": "10º anniversario della circolazione di banconote e monete in euro (emissione comune)",
+      "tiratura": 15000000,
+      "data_emissione": "20 marzo 2012",
+      "incisore": "Helmut Andexlinger"
+    },
+    {
+      "anno": 2012,
+      "tema": "100º anniversario della morte di Giovanni Pascoli",
+      "tiratura": 15000000,
+      "data_emissione": "2 luglio 2012",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2013,
+      "tema": "200º anniversario della nascita di Giuseppe Verdi",
+      "tiratura": 10000000,
+      "data_emissione": "20 maggio 2013",
+      "incisore": "Maria Carmela Colaneri"
+    },
+    {
+      "anno": 2013,
+      "tema": "700º anniversario della nascita di Giovanni Boccaccio",
+      "tiratura": 10000000,
+      "data_emissione": "25 luglio 2013",
+      "incisore": "Roberto Mauri"
+    },
+    {
+      "anno": 2014,
+      "tema": "200º anniversario della fondazione dell' Arma dei Carabinieri",
+      "tiratura": 6500000,
+      "data_emissione": "25 marzo 2014",
+      "incisore": "Luciana De Simoni"
+    },
+    {
+      "anno": 2014,
+      "tema": "450º anniversario della nascita di Galileo Galilei",
+      "tiratura": 6500000,
+      "data_emissione": "21 novembre 2014",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2015,
+      "tema": "Expo 2015 di Milano",
+      "tiratura": 3500000,
+      "data_emissione": "27 aprile 2015",
+      "incisore": "Maria Grazia Urbani"
+    },
+    {
+      "anno": 2015,
+      "tema": "750º anniversario della nascita di Dante Alighieri",
+      "tiratura": 3500000,
+      "data_emissione": "26 giugno 2015",
+      "incisore": "Silvia Petrassi"
+    },
+    {
+      "anno": 2015,
+      "tema": "30º anniversario della Bandiera europea (emissione comune)",
+      "tiratura": 995000,
+      "data_emissione": "9 novembre 2015",
+      "incisore": "Georgios Stamatopoulos"
+    },
+    {
+      "anno": 2016,
+      "tema": "550º anniversario della morte di Donatello",
+      "tiratura": 1500000,
+      "data_emissione": "29 aprile 2016",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2016,
+      "tema": "2200º anniversario della morte di Tito Maccio Plauto",
+      "tiratura": 1500000,
+      "data_emissione": "16 maggio 2016",
+      "incisore": "Luciana De Simoni"
+    },
+    {
+      "anno": 2017,
+      "tema": "400º anniversario del completamento della Basilica di San Marco a Venezia",
+      "tiratura": 1500000,
+      "data_emissione": "21 giugno 2017",
+      "incisore": "Luciana De Simoni"
+    },
+    {
+      "anno": 2017,
+      "tema": "2000º anniversario della morte di Tito Livio",
+      "tiratura": 1500000,
+      "data_emissione": "20 novembre 2017",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2018,
+      "tema": "70º anniversario della Costituzione italiana",
+      "tiratura": 4000000,
+      "data_emissione": "13 agosto 2018",
+      "incisore": "Uliana Pernazza"
+    },
+    {
+      "anno": 2018,
+      "tema": "60º anniversario dell'istituzione del Ministero della salute",
+      "tiratura": 3000000,
+      "data_emissione": "19 novembre 2018",
+      "incisore": "Silvia Petrassi"
+    },
+    {
+      "anno": 2019,
+      "tema": "500º anniversario della morte di Leonardo da Vinci",
+      "tiratura": 3000000,
+      "data_emissione": "14 giugno 2019",
+      "incisore": "Maria Angela Cassol"
+    },
+    {
+      "anno": 2020,
+      "tema": "150º anniversario della nascita di Maria Montessori",
+      "tiratura": 3000000,
+      "data_emissione": "9 giugno 2020",
+      "incisore": "Luciana De Simoni"
+    },
+    {
+      "anno": 2020,
+      "tema": "80º anniversario della fondazione del Corpo nazionale dei vigili del fuoco",
+      "tiratura": 3000000,
+      "data_emissione": "14 settembre 2020",
+      "incisore": "Luciana De Simoni"
+    },
+    {
+      "anno": 2021,
+      "tema": "150º anniversario dell'istituzione di Roma capitale d' Italia",
+      "tiratura": 3000000,
+      "data_emissione": "16 agosto 2021",
+      "incisore": "Uliana Pernazza"
+    },
+    {
+      "anno": 2021,
+      "tema": "Operatori sanitari",
+      "tiratura": 3000000,
+      "data_emissione": "19 novembre 2021",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2022,
+      "tema": "170º anniversario della Polizia di Stato",
+      "tiratura": 3000000,
+      "data_emissione": "6 aprile 2022",
+      "incisore": "Annalisa Masini"
+    },
+    {
+      "anno": 2022,
+      "tema": "30º anniversario della morte di Giovanni Falcone e Paolo Borsellino",
+      "tiratura": 3000000,
+      "data_emissione": "17 maggio 2022",
+      "incisore": "Valerio De Seta"
+    },
+    {
+      "anno": 2022,
+      "tema": "35º anniversario dell'istituzione del Progetto Erasmus (emissione comune)",
+      "tiratura": 3000000,
+      "data_emissione": "1º luglio 2022",
+      "incisore": "Joaquin Jimenez"
+    },
+    {
+      "anno": 2023,
+      "tema": "100º anniversario dell' Aeronautica Militare",
+      "tiratura": 3000000,
+      "data_emissione": "21 marzo 2023",
+      "incisore": "Valerio de Seta"
+    },
+    {
+      "anno": 2023,
+      "tema": "150º anniversario della scomparsa di Alessandro Manzoni",
+      "tiratura": 3000000,
+      "data_emissione": "21 maggio 2023",
+      "incisore": "Antonio Vecchio"
+    },
+    {
+      "anno": 2024,
+      "tema": "250º anniversario della fondazione del Corpo della Guardia di Finanza",
+      "tiratura": 3000000,
+      "data_emissione": "12 marzo 2024",
+      "incisore": "Marta Bonifacio"
+    },
+    {
+      "anno": 2024,
+      "tema": "Rita Levi-Montalcini",
+      "tiratura": 3000000,
+      "data_emissione": "22 aprile 2024",
+      "incisore": "Silvia Petrassi"
+    },
+    {
+      "anno": 2025,
+      "tema": "Giubileo del 2025",
+      "tiratura": 3000000,
+      "data_emissione": "5 febbraio 2025",
+      "incisore": "Claudia Momoni"
+    },
+    {
+      "anno": 2025,
+      "tema": "Tour Mondiale dell' Amerigo Vespucci 2023-2025",
+      "tiratura": 3000000,
+      "data_emissione": "5 febbraio 2025",
+      "incisore": "Emanuele Ferretti"
+    },
+    {
+      "anno": 2026,
+      "tema": "200º anniversario della nascita di Carlo Collodi",
+      "tiratura": 3000000,
+      "data_emissione": "5 marzo 2026",
+      "incisore": "Marta Bonifacio"
+    },
+    {
+      "anno": 2026,
+      "tema": "800º anniversario della scomparsa di San Francesco d'Assisi",
+      "tiratura": 3000000,
+      "data_emissione": "1º aprile 2026",
+      "incisore": "Antonio Vecchio"
+    }
+  ],
+  "meta": {
+    "title": "Monete da 2 euro commemorative italiane - Free Download",
+    "description": "Elenco delle monete commemorative italiane da 2 euro emesse dal 2004, con tema, tiratura, data di emissione e incisore. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Monete da 2 euro commemorative italiane | ListBase",
+    "seo_description": "Download Monete da 2 euro commemorative italiane — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Monete_euro_italiane"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-20T02:22:25.962Z",
-  "total_datasets": 568,
-  "total_records": 150897,
+  "generated": "2026-11-20T02:22:38.195Z",
+  "total_datasets": 569,
+  "total_records": 150937,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -1389,6 +1389,32 @@
         "xlsx": {
           "name": "it-ministri-delle-finanze_IT.xlsx",
           "size": 10976
+        }
+      }
+    },
+    {
+      "id": "it-monete-2-euro-commemorative",
+      "name": "Monete da 2 euro commemorative italiane",
+      "category": "finance",
+      "record_count": 40,
+      "columns": [
+        "anno",
+        "tema",
+        "tiratura",
+        "data_emissione",
+        "incisore"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Monete_euro_italiane",
+      "updated": "2026-11",
+      "size": 10106,
+      "files": {
+        "csv": {
+          "name": "it-monete-2-euro-commemorative_IT.csv",
+          "size": 4448
+        },
+        "xlsx": {
+          "name": "it-monete-2-euro-commemorative_IT.xlsx",
+          "size": 9030
         }
       }
     },
