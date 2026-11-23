@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-20T02:23:33.644Z",
-  "total_datasets": 570,
-  "total_records": 150961,
+  "generated": "2026-11-23T02:26:01.543Z",
+  "total_datasets": 571,
+  "total_records": 150988,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -18930,6 +18930,32 @@
         "xlsx": {
           "name": "it-antiche-unita-misura-firenze_IT.xlsx",
           "size": 7825
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-genova",
+      "name": "Antiche unità di misura del circondario di Genova",
+      "category": "units",
+      "record_count": 27,
+      "columns": [
+        "denominazione",
+        "grandezza",
+        "valore",
+        "unita_si",
+        "comuni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Genova",
+      "updated": "2026-11",
+      "size": 7464,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-genova_IT.csv",
+          "size": 2644
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-genova_IT.xlsx",
+          "size": 7928
         }
       }
     },

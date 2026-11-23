@@ -1,0 +1,240 @@
+{
+  "id": "it-antiche-unita-misura-genova",
+  "name": "Antiche unità di misura del circondario di Genova",
+  "title": "Antiche unità di misura del circondario di Genova",
+  "description": "Unità di misura in uso nel circondario di Genova (Liguria) prima dell’adozione del sistema metrico decimale (palmo, canna, mina, barile, rubbo, libbra...), con valore equivalente nel sistema metrico.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Genova",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Genova",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Cannella",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.977,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Canna",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.480833,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.248083,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Canna",
+      "grandezza": "Misure di lunghezza",
+      "valore": 1.240416,
+      "unita_si": "m",
+      "comuni": "Mandamento di Staglieno, ossia comuni di Bavari, Molassana, Montorbio, Staglieno, Stroppa"
+    },
+    {
+      "denominazione": "Cannella quadrata",
+      "grandezza": "Misure di superficie",
+      "valore": 8.862529,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo quadrato",
+      "grandezza": "Misure di superficie",
+      "valore": 0.061545,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo superficiale",
+      "grandezza": "Misure di superficie",
+      "valore": 0.738544,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Cannella cuba",
+      "grandezza": "Misure di volume",
+      "valore": 26383.749,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Palmo cubo",
+      "grandezza": "Misure di volume",
+      "valore": 15.268373,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Mina",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 116.5318,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Sacco",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 163.785,
+      "unita_si": "L",
+      "comuni": "Mandamento di Savignone, comuni di Casella, Crocefieschi, Savignone"
+    },
+    {
+      "denominazione": "Mezzarola",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 159,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Quarterone",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.51156,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Terzarolo",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 53,
+      "unita_si": "L",
+      "comuni": "Genova, Apparizione, Quarto e mandamenti di San Martino d'Albaro e Staglieno, meno il comune di Montobrio"
+    },
+    {
+      "denominazione": "Barile",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 79.5,
+      "unita_si": "L",
+      "comuni": "Genova, Apparizione, Quarto e mandamenti di San Martino d'Albaro e Staglieno, meno il comune di Montobrio"
+    },
+    {
+      "denominazione": "Quartarolo",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 39.75,
+      "unita_si": "L",
+      "comuni": "Genova, Apparizione, Quarto e mandamenti di San Martino d'Albaro e Staglieno, meno il comune di Montobrio"
+    },
+    {
+      "denominazione": "Amola",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 0.883333,
+      "unita_si": "L",
+      "comuni": "Genova, Apparizione, Quarto e mandamenti di San Martino d'Albaro e Staglieno, meno il comune di Montobrio"
+    },
+    {
+      "denominazione": "Pinta",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 2,
+      "unita_si": "L",
+      "comuni": "Montobrio e mandamento di Nervi (meno i comuni di Apparizione e Quarto), Rivarolo, Ronco, Savignone, Pontedecimo, Sestri Ponente, Recco, Voltri e Torriglia"
+    },
+    {
+      "denominazione": "Barile",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 53.5,
+      "unita_si": "L",
+      "comuni": "Mandamento di Campofredbo ossia Comuni di Campofreddo, Masone, Rossiglione"
+    },
+    {
+      "denominazione": "Amola",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 1.07,
+      "unita_si": "L",
+      "comuni": "Mandamento di Campofredbo ossia Comuni di Campofreddo, Masone, Rossiglione"
+    },
+    {
+      "denominazione": "Cantaro di peso grosso",
+      "grandezza": "Pesi",
+      "valore": 47.6496,
+      "unita_si": "kg",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Libbra di peso grosso",
+      "grandezza": "Pesi",
+      "valore": 317.664,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Rubbo di peso sottile",
+      "grandezza": "Pesi",
+      "valore": 7.91875,
+      "unita_si": "kg",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Rotolo di peso sottile",
+      "grandezza": "Pesi",
+      "valore": 475.125,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Libbra di peso grosso",
+      "grandezza": "Pesi",
+      "valore": 316.75,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Carato",
+      "grandezza": "Pesi",
+      "valore": 0.183304,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Pesata",
+      "grandezza": "Pesi",
+      "valore": 190.5984,
+      "unita_si": "kg",
+      "comuni": "Genova"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Genova - Free Download",
+    "description": "Unità di misura in uso nel circondario di Genova (Liguria) prima dell’adozione del sistema metrico decimale (palmo, canna, mina, barile, rubbo, libbra...), con valore equivalente nel sistema metrico. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Genova | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Genova — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Genova"
+    ]
+  }
+}
