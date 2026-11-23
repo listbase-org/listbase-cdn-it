@@ -1,0 +1,212 @@
+{
+  "id": "it-antiche-unita-misura-roma",
+  "name": "Antiche unità di misura del circondario di Roma",
+  "title": "Antiche unità di misura del circondario di Roma",
+  "description": "Unità di misura in uso nel circondario di Roma (Lazio) prima dell’adozione del sistema metrico decimale (braccio, canna, pezza, rubbio, barile, libbra...), con valore equivalente nel sistema metrico.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Roma",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Roma",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Braccio o passetto",
+      "grandezza": "Misure di lunghezza",
+      "valore": 0.670265,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Canna mercantile",
+      "grandezza": "Misure di lunghezza",
+      "valore": 1.991897,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Canna architettonica",
+      "grandezza": "Misure di lunghezza",
+      "valore": 2.234218,
+      "unita_si": "m",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Staiolo",
+      "grandezza": "Misure di lunghezza",
+      "valore": 1.284675,
+      "unita_si": "m",
+      "comuni": "Roma e molti comuni del circondario"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 18484.38,
+      "unita_si": "m²",
+      "comuni": "Roma, Castel Gandolfo, Castelnuovo di Porto, Riano, Scrofano, Poli, Marino, Castel S. Pietro, Gallicano, Zagarolo, Monterotondo, Mentana, mandamenti di Albano, Bracciano, Genzano, Campagnano, Palombara, Frascati"
+    },
+    {
+      "denominazione": "Pezza",
+      "grandezza": "Misure di superficie",
+      "valore": 2640.63,
+      "unita_si": "m²",
+      "comuni": "Roma, Castel Gandolfo, Castelnuovo di Porto, Riano, Scrofano, Poli, Marino, Castel S. Pietro, Gallicano, Zagarolo, Monterotondo, Mentana, mandamenti di Albano, Bracciano, Genzano, Campagnano, Palombara, Frascati"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 18484.38,
+      "unita_si": "m²",
+      "comuni": "Nazzano, Fiano, Civitella S. Paolo, Filacciano, S. Oreste, Leprignano, Torrita, Morlupo, Ponzano"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 18484.38,
+      "unita_si": "m²",
+      "comuni": "Rignano"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 11980.15,
+      "unita_si": "m²",
+      "comuni": "Subiaco, Civitella, Rocca S. Stefano, Roiate, Sambuci, Saracinesco, Arsoli, Anticoli Corrado, Cantalupo Bardella, Riofreddo, Roviano, Scarpa, Vivaro, Vallinfreda e mandamento di Subiaco"
+    },
+    {
+      "denominazione": "Soma",
+      "grandezza": "Misure di superficie",
+      "valore": 1996.69,
+      "unita_si": "m²",
+      "comuni": "S. Vito, Capranica, Pisciano, Olevano"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 18484.38,
+      "unita_si": "m²",
+      "comuni": "Tivoli, Monticelli, S. Angelo in Capoccia, S. Gregorio, S. Polo dei Cavalieri"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 18484.38,
+      "unita_si": "m²",
+      "comuni": "Castel Madama, Vicovaro, Casape, Ciciliano, Licenza, Rocca Giovine, Percile"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 17970.23,
+      "unita_si": "m²",
+      "comuni": "Genazzano, Rocca di Cave"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 13477.67,
+      "unita_si": "m²",
+      "comuni": "Cave"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di superficie",
+      "valore": 13434.18,
+      "unita_si": "m²",
+      "comuni": "Palestrina"
+    },
+    {
+      "denominazione": "Canna cuba",
+      "grandezza": "Misure di volume",
+      "valore": 11152.616,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Rubbio",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 294.4651,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno i seguenti"
+    },
+    {
+      "denominazione": "Soma",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 116.6832,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno i seguenti"
+    },
+    {
+      "denominazione": "Soma",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 87.5124,
+      "unita_si": "L",
+      "comuni": "Mazzano, Oriolo"
+    },
+    {
+      "denominazione": "Barile",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 58.3416,
+      "unita_si": "L",
+      "comuni": "Roviano"
+    },
+    {
+      "denominazione": "Barile",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 57.4807,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni meno i seguenti"
+    },
+    {
+      "denominazione": "Boccale",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 2.222416,
+      "unita_si": "L",
+      "comuni": "Subiaco, Canterano, Rocca Canterano, Roiate"
+    },
+    {
+      "denominazione": "Libbra romana",
+      "grandezza": "Pesi",
+      "valore": 339.072,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Roma - Free Download",
+    "description": "Unità di misura in uso nel circondario di Roma (Lazio) prima dell’adozione del sistema metrico decimale (braccio, canna, pezza, rubbio, barile, libbra...), con valore equivalente nel sistema metrico. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Roma | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Roma — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Roma"
+    ]
+  }
+}
