@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-23T02:26:01.543Z",
-  "total_datasets": 571,
-  "total_records": 150988,
+  "generated": "2026-11-23T02:26:12.131Z",
+  "total_datasets": 572,
+  "total_records": 151009,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -18985,6 +18985,32 @@
         "xlsx": {
           "name": "it-antiche-unita-misura-milano_IT.xlsx",
           "size": 10000
+        }
+      }
+    },
+    {
+      "id": "it-antiche-unita-misura-palermo",
+      "name": "Antiche unità di misura del circondario di Palermo",
+      "category": "units",
+      "record_count": 21,
+      "columns": [
+        "denominazione",
+        "grandezza",
+        "valore",
+        "unita_si",
+        "comuni"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Palermo",
+      "updated": "2026-11",
+      "size": 6607,
+      "files": {
+        "csv": {
+          "name": "it-antiche-unita-misura-palermo_IT.csv",
+          "size": 2420
+        },
+        "xlsx": {
+          "name": "it-antiche-unita-misura-palermo_IT.xlsx",
+          "size": 7895
         }
       }
     },

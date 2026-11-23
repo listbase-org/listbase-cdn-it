@@ -1,0 +1,198 @@
+{
+  "id": "it-antiche-unita-misura-palermo",
+  "name": "Antiche unità di misura del circondario di Palermo",
+  "title": "Antiche unità di misura del circondario di Palermo",
+  "description": "Unità di misura in uso nel circondario di Palermo (Sicilia) prima dell’adozione del sistema metrico decimale (salma, tomolo, quartara, rotolo, cantaro...), con valore equivalente nel sistema metrico.",
+  "category": "units",
+  "source": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Palermo",
+  "source_url": "https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Palermo",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "denominazione",
+      "label": "Denominazione",
+      "type": "string"
+    },
+    {
+      "key": "grandezza",
+      "label": "Grandezza",
+      "type": "string"
+    },
+    {
+      "key": "valore",
+      "label": "Valore",
+      "type": "number"
+    },
+    {
+      "key": "unita_si",
+      "label": "Unita Si",
+      "type": "string"
+    },
+    {
+      "key": "comuni",
+      "label": "Comuni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "denominazione": "Salma di consuetudine",
+      "grandezza": "Misure di superficie",
+      "valore": 22310.91,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Tomolo",
+      "grandezza": "Misure di superficie",
+      "valore": 1394.43,
+      "unita_si": "m²",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Salma per orzi, legumi e frutte secche",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 343.8611,
+      "unita_si": "L",
+      "comuni": "Palermo, Belmonte, Borgetto, Capaci, Carini, Casteldaccia, Cinisi, Ficarazzi, Giardinello, Misilmeri, Monreale, S. Maria di Ogliastro, Marineo, Torretta, Parco, Partinico, Piana de' Greci, S. Giuseppe, S. Cristina, Ustica, Terrasini, Villabate, Sancipirrello"
+    },
+    {
+      "denominazione": "Salma per carbone e gesso",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 275.0888,
+      "unita_si": "L",
+      "comuni": "Palermo"
+    },
+    {
+      "denominazione": "Salma per seme di lino",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 309.475,
+      "unita_si": "L",
+      "comuni": "Palermo"
+    },
+    {
+      "denominazione": "Carrozzata per calce",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 412.6333,
+      "unita_si": "L",
+      "comuni": "Palermo"
+    },
+    {
+      "denominazione": "Salma per sale",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 618.9499,
+      "unita_si": "L",
+      "comuni": "Palermo"
+    },
+    {
+      "denominazione": "Salma per legumi",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 412.6333,
+      "unita_si": "L",
+      "comuni": "Borgetto, Giardinello, S. Giuseppe, Torretta, Sancipirrello, Partinico"
+    },
+    {
+      "denominazione": "Salma per orzi e legumi",
+      "grandezza": "Misure di capacità per gli aridi",
+      "valore": 309.475,
+      "unita_si": "L",
+      "comuni": "Ustica"
+    },
+    {
+      "denominazione": "Botte da vino",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 412.6333,
+      "unita_si": "L",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Botte da mosto",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 447.0194,
+      "unita_si": "L",
+      "comuni": "Bagheria, Casteldaccia, Balestrate, Sancipirrello, Belmonte"
+    },
+    {
+      "denominazione": "Botte da mosto",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 440.1422,
+      "unita_si": "L",
+      "comuni": "Marineo"
+    },
+    {
+      "denominazione": "Ventina",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 17.193053,
+      "unita_si": "L",
+      "comuni": "Piana de' Greci"
+    },
+    {
+      "denominazione": "Cafiso di rotoli 20 = 15,868 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 17.193053,
+      "unita_si": "L",
+      "comuni": "Palermo, Borgetto, Cinisi, Monreale, Montelepre, San Giuseppe, Terrasini"
+    },
+    {
+      "denominazione": "Cafiso di rotoli 10 = 7,934 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 8.596527,
+      "unita_si": "L",
+      "comuni": "Bagheria, Balestrate, Casteldaccia, Cinisi, Ficarazzi, Misilmeri, S. Maria di Ogliastro, Parco, Marineo, Partinico, Piana de' Greci, Sancipirrello, S. Giuseppe, Santa Cristina, Sòlanto, Torretta, Villabate"
+    },
+    {
+      "denominazione": "Cafiso di rotoli 12,5 = 9,918 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 10.745658,
+      "unita_si": "L",
+      "comuni": "Capaci, Cinisi, Ustica, Belmonte, Isola delle Femine"
+    },
+    {
+      "denominazione": "Cafiso di rotoli 25 = 19,836 kg",
+      "grandezza": "Misure di capacità per i liquidi",
+      "valore": 21.491316,
+      "unita_si": "L",
+      "comuni": "Carini, Cinisi, Giardinello"
+    },
+    {
+      "denominazione": "Rotolo",
+      "grandezza": "Pesi",
+      "valore": 793.42,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Libbra",
+      "grandezza": "Pesi",
+      "valore": 317.368,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Oncia grossa",
+      "grandezza": "Pesi",
+      "valore": 66.118333,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    },
+    {
+      "denominazione": "Trappeso per gli orefici",
+      "grandezza": "Pesi",
+      "valore": 0.881578,
+      "unita_si": "g",
+      "comuni": "Tutti i comuni"
+    }
+  ],
+  "meta": {
+    "title": "Antiche unità di misura del circondario di Palermo - Free Download",
+    "description": "Unità di misura in uso nel circondario di Palermo (Sicilia) prima dell’adozione del sistema metrico decimale (salma, tomolo, quartara, rotolo, cantaro...), con valore equivalente nel sistema metrico. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antiche unità di misura del circondario di Palermo | ListBase",
+    "seo_description": "Download Antiche unità di misura del circondario di Palermo — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Antiche_unità_di_misura_del_circondario_di_Palermo"
+    ]
+  }
+}
