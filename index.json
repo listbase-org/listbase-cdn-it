@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-23T02:26:23.453Z",
-  "total_datasets": 573,
-  "total_records": 151032,
+  "generated": "2026-11-24T02:15:14.788Z",
+  "total_datasets": 574,
+  "total_records": 151052,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -2500,6 +2500,39 @@
         "xlsx": {
           "name": "it-lingue-d-italia_IT.xlsx",
           "size": 8748
+        }
+      }
+    },
+    {
+      "id": "it-numeri-varieta-ladino",
+      "name": "Numeri da 1 a 20 nelle varietà del ladino",
+      "category": "language",
+      "record_count": 20,
+      "columns": [
+        "numero",
+        "italiano",
+        "badiot",
+        "gherdeina",
+        "fascian",
+        "fodom_e_rocchesan",
+        "anpezan",
+        "zoldan",
+        "agordin",
+        "nones",
+        "rabies",
+        "solander"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Ladino",
+      "updated": "2026-11",
+      "size": 9089,
+      "files": {
+        "csv": {
+          "name": "it-numeri-varieta-ladino_IT.csv",
+          "size": 2071
+        },
+        "xlsx": {
+          "name": "it-numeri-varieta-ladino_IT.xlsx",
+          "size": 8198
         }
       }
     },

@@ -1,0 +1,366 @@
+{
+  "id": "it-numeri-varieta-ladino",
+  "name": "Numeri da 1 a 20 nelle varietà del ladino",
+  "title": "Numeri da 1 a 20 nelle varietà del ladino",
+  "description": "I numeri da uno a venti in italiano e nelle principali varietà della lingua ladina dolomitica e dei dialetti affini: badiotto, gardenese, fassano, fodom e rocchesano, ampezzano, zoldano, agordino, nonese, rabbiese e solandro.",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Ladino",
+  "source_url": "https://it.wikipedia.org/wiki/Ladino",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "numero",
+      "label": "Numero",
+      "type": "number"
+    },
+    {
+      "key": "italiano",
+      "label": "Italiano",
+      "type": "string"
+    },
+    {
+      "key": "badiot",
+      "label": "Badiot",
+      "type": "string"
+    },
+    {
+      "key": "gherdeina",
+      "label": "Gherdeina",
+      "type": "string"
+    },
+    {
+      "key": "fascian",
+      "label": "Fascian",
+      "type": "string"
+    },
+    {
+      "key": "fodom_e_rocchesan",
+      "label": "Fodom E Rocchesan",
+      "type": "string"
+    },
+    {
+      "key": "anpezan",
+      "label": "Anpezan",
+      "type": "string"
+    },
+    {
+      "key": "zoldan",
+      "label": "Zoldan",
+      "type": "string"
+    },
+    {
+      "key": "agordin",
+      "label": "Agordin",
+      "type": "string"
+    },
+    {
+      "key": "nones",
+      "label": "Nones",
+      "type": "string"
+    },
+    {
+      "key": "rabies",
+      "label": "Rabies",
+      "type": "string"
+    },
+    {
+      "key": "solander",
+      "label": "Solander",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "numero": 1,
+      "italiano": "uno",
+      "badiot": "un",
+      "gherdeina": "un",
+      "fascian": "un",
+      "fodom_e_rocchesan": "un",
+      "anpezan": "un",
+      "zoldan": "un",
+      "agordin": "un",
+      "nones": "un",
+      "rabies": "ün",
+      "solander": "ün"
+    },
+    {
+      "numero": 2,
+      "italiano": "due",
+      "badiot": "dui",
+      "gherdeina": "doi",
+      "fascian": "doi",
+      "fodom_e_rocchesan": "doi",
+      "anpezan": "doi",
+      "zoldan": "doi",
+      "agordin": "doi",
+      "nones": "doi",
+      "rabies": "dói",
+      "solander": "dói"
+    },
+    {
+      "numero": 3,
+      "italiano": "tre",
+      "badiot": "trëi",
+      "gherdeina": "trëi",
+      "fascian": "trei",
+      "fodom_e_rocchesan": "trei",
+      "anpezan": "tre",
+      "zoldan": "trei",
+      "agordin": "trei",
+      "nones": "trei",
+      "rabies": "tréi",
+      "solander": "tréi"
+    },
+    {
+      "numero": 4,
+      "italiano": "quattro",
+      "badiot": "cater",
+      "gherdeina": "cater",
+      "fascian": "cater",
+      "fodom_e_rocchesan": "cater",
+      "anpezan": "cuatro",
+      "zoldan": "quatre",
+      "agordin": "cater",
+      "nones": "cater",
+      "rabies": "quater/quatro",
+      "solander": "quater/quatro"
+    },
+    {
+      "numero": 5,
+      "italiano": "cinque",
+      "badiot": "cinch",
+      "gherdeina": "cinch",
+      "fascian": "cinch",
+      "fodom_e_rocchesan": "cinc",
+      "anpezan": "zinche",
+      "zoldan": "zinc",
+      "agordin": "žinc",
+      "nones": "cinćh",
+      "rabies": "cinc",
+      "solander": "cinch"
+    },
+    {
+      "numero": 6,
+      "italiano": "sei",
+      "badiot": "sis",
+      "gherdeina": "sies",
+      "fascian": "sie",
+      "fodom_e_rocchesan": "siec",
+      "anpezan": "sié",
+      "zoldan": "siei",
+      "agordin": "siëi",
+      "nones": "siei",
+      "rabies": "séi",
+      "solander": "séi"
+    },
+    {
+      "numero": 7,
+      "italiano": "sette",
+      "badiot": "set",
+      "gherdeina": "set",
+      "fascian": "set",
+      "fodom_e_rocchesan": "set",
+      "anpezan": "sete",
+      "zoldan": "set",
+      "agordin": "sèt",
+      "nones": "set",
+      "rabies": "sèt",
+      "solander": "sèt"
+    },
+    {
+      "numero": 8,
+      "italiano": "otto",
+      "badiot": "ot",
+      "gherdeina": "ot",
+      "fascian": "ot",
+      "fodom_e_rocchesan": "vot",
+      "anpezan": "oto",
+      "zoldan": "ot",
+      "agordin": "òt",
+      "nones": "ot",
+      "rabies": "òt",
+      "solander": "òt"
+    },
+    {
+      "numero": 9,
+      "italiano": "nove",
+      "badiot": "nü",
+      "gherdeina": "nuef",
+      "fascian": "nef",
+      "fodom_e_rocchesan": "nuof",
+      "anpezan": "noe",
+      "zoldan": "nuof",
+      "agordin": "nof",
+      "nones": "nueu",
+      "rabies": "nöf",
+      "solander": "nöf"
+    },
+    {
+      "numero": 10,
+      "italiano": "dieci",
+      "badiot": "diesc",
+      "gherdeina": "diesc",
+      "fascian": "dies",
+      "fodom_e_rocchesan": "dies",
+      "anpezan": "diesc",
+      "zoldan": "dies",
+      "agordin": "diés",
+      "nones": "dies",
+      "rabies": "dés",
+      "solander": "dés"
+    },
+    {
+      "numero": 11,
+      "italiano": "undici",
+      "badiot": "ünesc",
+      "gherdeina": "undesc",
+      "fascian": "unesc",
+      "fodom_e_rocchesan": "undes",
+      "anpezan": "undesc",
+      "zoldan": "undes",
+      "agordin": "undes",
+      "nones": "undes",
+      "rabies": "ündes",
+      "solander": "ündes"
+    },
+    {
+      "numero": 12,
+      "italiano": "dodici",
+      "badiot": "dodesc",
+      "gherdeina": "dodesc",
+      "fascian": "doudesc",
+      "fodom_e_rocchesan": "dodes",
+      "anpezan": "dodesc",
+      "zoldan": "dodes",
+      "agordin": "dodes",
+      "nones": "dodes",
+      "rabies": "dòdes",
+      "solander": "dòdes"
+    },
+    {
+      "numero": 13,
+      "italiano": "tredici",
+      "badiot": "trëdesc",
+      "gherdeina": "trëdesc",
+      "fascian": "tredesc",
+      "fodom_e_rocchesan": "trëdesc",
+      "anpezan": "tredesc",
+      "zoldan": "tredes",
+      "agordin": "tredes",
+      "nones": "tredes",
+      "rabies": "trédes",
+      "solander": "trédes"
+    },
+    {
+      "numero": 14,
+      "italiano": "quattordici",
+      "badiot": "catordesc",
+      "gherdeina": "catordesc",
+      "fascian": "catordesc",
+      "fodom_e_rocchesan": "catordesc",
+      "anpezan": "catordesc",
+      "zoldan": "catòrdes",
+      "agordin": "catòrdes",
+      "nones": "catòrdes",
+      "rabies": "quatòrdes",
+      "solander": "quatòrdes"
+    },
+    {
+      "numero": 15,
+      "italiano": "quindici",
+      "badiot": "chinesc",
+      "gherdeina": "chindesc",
+      "fascian": "chinesc",
+      "fodom_e_rocchesan": "chindesc",
+      "anpezan": "chinesc",
+      "zoldan": "chindes",
+      "agordin": "chindes",
+      "nones": "chindes",
+      "rabies": "quindes",
+      "solander": "quindes"
+    },
+    {
+      "numero": 16,
+      "italiano": "sedici",
+      "badiot": "sëdesc",
+      "gherdeina": "sëidesc",
+      "fascian": "seidesc",
+      "fodom_e_rocchesan": "sëdesc",
+      "anpezan": "sedesc",
+      "zoldan": "sédes",
+      "agordin": "sédes",
+      "nones": "sédes",
+      "rabies": "sédes",
+      "solander": "sédes"
+    },
+    {
+      "numero": 17,
+      "italiano": "diciassette",
+      "badiot": "dejesset",
+      "gherdeina": "dejesset",
+      "fascian": "dejesset",
+      "fodom_e_rocchesan": "dejesset",
+      "anpezan": "dijasete",
+      "zoldan": "didiset",
+      "agordin": "disisèt",
+      "nones": "dedeset",
+      "rabies": "desesèt",
+      "solander": "desesèt"
+    },
+    {
+      "numero": 18,
+      "italiano": "diciotto",
+      "badiot": "dejedot",
+      "gherdeina": "dejedot",
+      "fascian": "dejedot",
+      "fodom_e_rocchesan": "dejdot",
+      "anpezan": "dijdoto",
+      "zoldan": "disdòt",
+      "agordin": "disdòt",
+      "nones": "desdot",
+      "rabies": "desdot",
+      "solander": "desdot"
+    },
+    {
+      "numero": 19,
+      "italiano": "diciannove",
+      "badiot": "dejenü",
+      "gherdeina": "dejenuef",
+      "fascian": "dejenef",
+      "fodom_e_rocchesan": "dejenuof",
+      "anpezan": "dijnoe",
+      "zoldan": "disnuof",
+      "agordin": "disnof",
+      "nones": "disnueu",
+      "rabies": "desnöf",
+      "solander": "desnöf"
+    },
+    {
+      "numero": 20,
+      "italiano": "venti",
+      "badiot": "vint",
+      "gherdeina": "vint",
+      "fascian": "vint",
+      "fodom_e_rocchesan": "vint",
+      "anpezan": "vinte",
+      "zoldan": "vint",
+      "agordin": "vinti",
+      "nones": "vinti",
+      "rabies": "vinti",
+      "solander": "vinti/vénti"
+    }
+  ],
+  "meta": {
+    "title": "Numeri da 1 a 20 nelle varietà del ladino - Free Download",
+    "description": "I numeri da uno a venti in italiano e nelle principali varietà della lingua ladina dolomitica e dei dialetti affini: badiotto, gardenese, fassano, fodom e rocchesano, ampezzano, zoldano, agordino, nonese, rabbiese e solandro. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Numeri da 1 a 20 nelle varietà del ladino | ListBase",
+    "seo_description": "Download Numeri da 1 a 20 nelle varietà del ladino — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Ladino"
+    ]
+  }
+}
