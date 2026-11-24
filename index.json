@@ -1,12 +1,12 @@
 {
   "lang": "it",
-  "generated": "2026-11-24T02:15:26.213Z",
-  "total_datasets": 575,
-  "total_records": 151062,
+  "generated": "2026-11-24T02:17:47.466Z",
+  "total_datasets": 576,
+  "total_records": 151308,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -277,6 +277,31 @@
         "xlsx": {
           "name": "it-vini-docg_IT.xlsx",
           "size": 10789
+        }
+      }
+    },
+    {
+      "id": "it-vitigni-autoctoni-per-regione",
+      "name": "Vitigni coltivati nelle regioni italiane",
+      "category": "agriculture",
+      "record_count": 246,
+      "columns": [
+        "vitigno",
+        "bacca",
+        "regione",
+        "descrizione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Viticoltura_in_Italia",
+      "updated": "2026-11",
+      "size": 41313,
+      "files": {
+        "csv": {
+          "name": "it-vitigni-autoctoni-per-regione_IT.csv",
+          "size": 18452
+        },
+        "xlsx": {
+          "name": "it-vitigni-autoctoni-per-regione_IT.xlsx",
+          "size": 16906
         }
       }
     },

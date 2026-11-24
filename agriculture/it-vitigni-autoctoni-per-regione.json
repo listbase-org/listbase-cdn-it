@@ -1,0 +1,1522 @@
+{
+  "id": "it-vitigni-autoctoni-per-regione",
+  "name": "Vitigni coltivati nelle regioni italiane",
+  "title": "Vitigni coltivati nelle regioni italiane",
+  "description": "Vitigni (varietà di uva da vino) principali di ciascuna regione italiana con colore della bacca e breve descrizione, raccolti dalle voci «Viticoltura in …» di Wikipedia per le 20 regioni.",
+  "category": "agriculture",
+  "source": "https://it.wikipedia.org/wiki/Viticoltura_in_Italia",
+  "source_url": "https://it.wikipedia.org/wiki/Viticoltura_in_Italia",
+  "updated": "2026-11",
+  "record_count": 246,
+  "columns": [
+    {
+      "key": "vitigno",
+      "label": "Vitigno",
+      "type": "string"
+    },
+    {
+      "key": "bacca",
+      "label": "Bacca",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "descrizione",
+      "label": "Descrizione",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vitigno": "Prié blanc",
+      "bacca": "Bianca",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato esclusivamente tra i 900 e i 1200 metri nell'alta Valdigne, nel comprensori dei comuni di La Salle e di Morgex"
+    },
+    {
+      "vitigno": "Petit Rouge",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato in Valle d'Aosta"
+    },
+    {
+      "vitigno": "Mayolet",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato su pendii fino alla considerevole altitudine di 800 metri sul mare, assieme ad altre varietà della zona"
+    },
+    {
+      "vitigno": "Vuillermin",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato nei comuni di Chambave e Chatillon"
+    },
+    {
+      "vitigno": "Fumin",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato in tutta la valle centrale fino ad un'altitudine di 650 metri"
+    },
+    {
+      "vitigno": "Cornalin",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato in un'ampia area da Arnad ad Arvier"
+    },
+    {
+      "vitigno": "Vien de Nus",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato nel comune di Nus e nei dintorni"
+    },
+    {
+      "vitigno": "Humagne",
+      "bacca": "Nera",
+      "regione": "Valle d'Aosta",
+      "descrizione": "Coltivato anche nel Vallese"
+    },
+    {
+      "vitigno": "Albarossa",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Vitigno di origine relativamente recente, nato da un incrocio tra lo Chatus (localmente detto \"Nebbiolo di Dronero\") e la Barbera."
+    },
+    {
+      "vitigno": "Arneis",
+      "bacca": "Bianca",
+      "regione": "Piemonte",
+      "descrizione": "Originario del Roero, limitatamente diffuso nelle Langhe."
+    },
+    {
+      "vitigno": "Avanà",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Viene coltivato in Val di Susa e nel Pinerolese."
+    },
+    {
+      "vitigno": "Barbera",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Coltivato in Piemonte, è diffusa su tutto il territorio, in particolare nelle zone di Asti ed Alba"
+    },
+    {
+      "vitigno": "Dolcetto",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Coltivato in varia misura un po' ovunque nella regione"
+    },
+    {
+      "vitigno": "Doux d'Henry",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Viene coltivato prevalentemente nel Pinerolese, in provincia di Torino"
+    },
+    {
+      "vitigno": "Erbaluce",
+      "bacca": "Bianca",
+      "regione": "Piemonte",
+      "descrizione": "È coltivato in provincia di Torino (in Canavese, sulla Serra d'Ivrea e sui colli che circondano il lago di Viverone)"
+    },
+    {
+      "vitigno": "Grignolino",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nebbiolo",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Coltivato in Piemonte nelle Langhe, più intensamente nelle zone del Barolo e del Barbaresco, a Carema, in Canavese e nelle colline novaresi; in Lombardia nella Valtellina."
+    },
+    {
+      "vitigno": "Neretto di Bairo",
+      "bacca": "Nera",
+      "regione": "Piemonte",
+      "descrizione": "Coltivato da tempo immemore nel Canavese"
+    },
+    {
+      "vitigno": "Ramié",
+      "bacca": "",
+      "regione": "Piemonte",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Timorasso",
+      "bacca": "Bianca",
+      "regione": "Piemonte",
+      "descrizione": "Coltivato nell' Alessandrino ed in particolare nelle colline del Tortonese ed in alcune zone del Novese"
+    },
+    {
+      "vitigno": "Croatina",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": "Vitigno diffuso in Oltrepò Pavese"
+    },
+    {
+      "vitigno": "Erbamat",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Groppello di Mocasina",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Groppello di Santo Stefano",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Groppello Gentile",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Incrocio Terzi I",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Invernenga",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Viadanese",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia Bianca di Candia",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Moscato di Scanzo",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": "Vitigno diffuso in Scanzorosciate"
+    },
+    {
+      "vitigno": "Nebbiolo",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pignola",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pinot nero",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Rossola Nera",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Trebbiano di Soave",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Verdea",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Verdese",
+      "bacca": "Bianca",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Vespolina",
+      "bacca": "Nera",
+      "regione": "Lombardia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Gewurztraminer",
+      "bacca": "Bianca",
+      "regione": "Trentino-Alto Adige",
+      "descrizione": "Uva a bacca bianca"
+    },
+    {
+      "vitigno": "Lagrein",
+      "bacca": "Nera",
+      "regione": "Trentino-Alto Adige",
+      "descrizione": "Uva a bacca nera"
+    },
+    {
+      "vitigno": "Marzemino",
+      "bacca": "Nera",
+      "regione": "Trentino-Alto Adige",
+      "descrizione": "Uva a bacca nera"
+    },
+    {
+      "vitigno": "Schiava (vitigno)",
+      "bacca": "Nera",
+      "regione": "Trentino-Alto Adige",
+      "descrizione": "Uva a bacca nera"
+    },
+    {
+      "vitigno": "Teroldego",
+      "bacca": "Nera",
+      "regione": "Trentino-Alto Adige",
+      "descrizione": "Uva a bacca nera"
+    },
+    {
+      "vitigno": "Glera",
+      "bacca": "Bianca",
+      "regione": "Veneto",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Albarola",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "anch'essa coltivata nel Levante, può essere usata in uvaggio col Bosco nelle due DOC sopra citate."
+    },
+    {
+      "vitigno": "Alicante",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Barbera",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Bianchetta Genovese",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "vitigno autoctono coltivato nel Genovesato e nel golfo del Tigullio, che caratterizza i vini bianchi della val Polcevera, freschi, aciduli, fruttati e poco corposi."
+    },
+    {
+      "vitigno": "Bosco",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "coltivato nel Levante ligure, che entra a far parte della DOC Cinque Terre e Cinque Terre Sciachetrà."
+    },
+    {
+      "vitigno": "Ciliegiolo",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Granaccia",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "coltivata nella zona di Quiliano nel Savonese, è un clone dell' Alicante e della Grenache, nonché del Cannonau sardo. Entra a far parte dell'IGT Colline Savonesi."
+    },
+    {
+      "vitigno": "Lumassina",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": "coltivata nel Genovesato e nel Savonese."
+    },
+    {
+      "vitigno": "Moscato",
+      "bacca": "Nera/Bianca",
+      "regione": "Liguria",
+      "descrizione": "coltivato nel golfo del Tigullio e facente parte della DOC Golfo del Tigullio Moscato."
+    },
+    {
+      "vitigno": "Ormeasco",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": "un clone del Dolcetto piemontese, coltivato nella stessa zona del Rossese."
+    },
+    {
+      "vitigno": "Pigato",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "vitigno autoctono (clone del Vermentino) coltivato nella Riviera di Ponente, che dà vini freschi, di buona struttura e con un aroma piacevolmente minerale e di erbe aromatiche."
+    },
+    {
+      "vitigno": "Rollo",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "coltivato nel Genovesato."
+    },
+    {
+      "vitigno": "Rossese",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": "coltivato a Dolceacqua e nella Riviera di Ponente, il cui vino è un rosso di medio corpo con aromi di frutta e spezie."
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Scimiscià",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Vermentino",
+      "bacca": "Bianca",
+      "regione": "Liguria",
+      "descrizione": "vitigno coltivato in tutte le zone vinicole liguri, oltre che in Sardegna e Toscana. Il vermentino ligure, che entra a far parte di tutte le DOC della regione in varie percentuali, produce vini freschi, aciduli, e caratterizzati da un aroma minerale (specialmente nel Ponente) e floreale o fruttato (nel Levante)."
+    },
+    {
+      "vitigno": "Vermentino a bacca rossa",
+      "bacca": "Rossa",
+      "regione": "Liguria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Albana",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Alionza",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Ancellotta",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Bervedino",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Bombino bianco",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Canina nera",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Centesimino",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Ervi",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Famoso",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Fogarina",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Fortana",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Barghi",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco di Sorbara",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Gasparossa",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Maestri",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Marani",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Montericco",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Oliva",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lambrusco Salamino",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malbo gentile",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia di Candia Aromatica",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia rosa",
+      "bacca": "Rosa",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Marsanne",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Melara",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Merlese",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Montù",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Mostosa",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Negretto",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Ortrugo",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Perla dei vivi",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pignoletto",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Santa Maria",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sgavetta",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Spergola",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Trebbiano Romagnolo",
+      "bacca": "Bianca",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Uva Longanesi",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Veruccese",
+      "bacca": "Nera",
+      "regione": "Emilia-Romagna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Canaiolo",
+      "bacca": "Nera",
+      "regione": "Toscana",
+      "descrizione": "la sua origine risale al 1300 con il nome di Uva Canjuola. Il nome sembra che derivi dal fatto che il periodo dell’invaiatura cade nel periodo della canicola (24 luglio-24 agosto), oppure dal caratteristico sentore amarognolo che ricorda la rosa canina. In Toscana è diffuso principalmente nell’area del Chianti Classico, Montepulciano, Carmignano, San Gimignano, Lucca. Difficilmente si trova il Canaiolo in purezza; dà origine a un vino con un buon tenore alcolico, corposo e morbido con aromi di frutta rossa."
+    },
+    {
+      "vitigno": "Ciliegiolo",
+      "bacca": "Nera",
+      "regione": "Toscana",
+      "descrizione": "il suo nome deriva dal caratteristico aroma di ciliegia. Potrebbe essere stato importato dalla Spagna, infatti viene anche definito “Ciliegiolo di Spagna”. In Toscana è presente nella provincia di Lucca, nel Chianti e soprattutto in Maremma, per un totale di 800 ettari. Dà origine ad un vino di colore intenso, corposo, alcolico e morbido, a volte carente di acidità."
+    },
+    {
+      "vitigno": "Colorino",
+      "bacca": "Nera",
+      "regione": "Toscana",
+      "descrizione": "probabilmente l’origine risale alla domesticazione di viti selvatiche avvenuta secoli fa; è una varietà quasi mai prodotta in purezza, ma utilizzata come vitigno “migliorativo” per il colore e gli zuccheri. È diffuso in quasi tutta la Toscana, ad esclusione di Massa Carrara e Livorno."
+    },
+    {
+      "vitigno": "Malvasia del Chianti",
+      "bacca": "Bianca",
+      "regione": "Toscana",
+      "descrizione": "è principalmente conosciuto per aver fatto parte della ricetta originale del Chianti, completata da Bettino Ricasoli nel 1870. Veniva coltivata in vigneti misti con il Trebbiano, Sangiovese e Canaiolo."
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Toscana",
+      "descrizione": "Vitigno a bacca nera, è il più diffuso in Toscana. Entra negli uvaggi di diversi vini, tra i quali alcuni dei più prestigiosi: Carmignano, Chianti e Chianti Classico, Brunello di Montalcino, Vino Nobile di Montepulciano, Morellino di Scansano e molti altri meno conosciuti ma altrettanto pregevoli."
+    },
+    {
+      "vitigno": "Trebbiano Toscano",
+      "bacca": "Bianca",
+      "regione": "Toscana",
+      "descrizione": "è diffuso in quasi tutta la Toscana e viene utilizzato per la preparazione di diversi Vin santi (del Chianti, del Chianti classico, di Carmignano, di Montepulciano e dell’Elba)."
+    },
+    {
+      "vitigno": "Vernaccia di San Gimignano",
+      "bacca": "Bianca",
+      "regione": "Toscana",
+      "descrizione": "la prima testimonianza sulla varietà risale al 1276, e nel tempo è sempre stata prodotta esclusivamente nel comune di San Gimignano. Il nome potrebbe derivare da “vernaculus”, cioè “tutto ciò che proviene da un dato luogo”. Produce un vino bianco adatto anche ad un medio invecchiamento."
+    },
+    {
+      "vitigno": "Vermentino",
+      "bacca": "Bianca",
+      "regione": "Toscana",
+      "descrizione": "il Vermentino toscano si sviluppa principalmente lungo tutta la costa; il vino ottenuto presenta leggere note di frutta fresca, agrumi e fiori bianchi."
+    },
+    {
+      "vitigno": "Canaiolo bianco",
+      "bacca": "Bianca",
+      "regione": "Umbria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Grechetto",
+      "bacca": "Bianca",
+      "regione": "Umbria",
+      "descrizione": "Nella provincia di Perugia, di Terni, di Arezzo"
+    },
+    {
+      "vitigno": "Sagrantino",
+      "bacca": "Nera",
+      "regione": "Umbria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Umbria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Trebbiano Spoletino",
+      "bacca": "Bianca",
+      "regione": "Umbria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Verdello",
+      "bacca": "Bianca",
+      "regione": "Umbria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Biancame",
+      "bacca": "Bianca",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Incrocio Bruni 54",
+      "bacca": "Bianca",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lacrima",
+      "bacca": "Nera",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Maceratino",
+      "bacca": "Bianca",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Montepulciano",
+      "bacca": "Nera",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pecorino",
+      "bacca": "Bianca",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Verdicchio",
+      "bacca": "Bianca",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Vernaccia nera",
+      "bacca": "Nera",
+      "regione": "Marche",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Bellone",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Capolongo",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Cesanese comune",
+      "bacca": "Nera",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Cesanese di Affile",
+      "bacca": "Nera",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Grechetto rosso",
+      "bacca": "Nera",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Lecinaro",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia del Lazio",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Maturano",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Moscato di Terracina",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nero buono",
+      "bacca": "Nera",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Olivella nera",
+      "bacca": "Nera",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pampanaro",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Trebbiano giallo",
+      "bacca": "Bianca",
+      "regione": "Lazio",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Cococciola",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Montepulciano",
+      "bacca": "Nera",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Montonico",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Passerina",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pecorino",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Regina",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Trebbiano",
+      "bacca": "Bianca",
+      "regione": "Abruzzo",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Cabernet Sauvignon",
+      "bacca": "Nera",
+      "regione": "Molise",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Falanghina",
+      "bacca": "Bianca",
+      "regione": "Molise",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Montepulciano",
+      "bacca": "Nera",
+      "regione": "Molise",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sangiovese",
+      "bacca": "Nera",
+      "regione": "Molise",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Tintilia",
+      "bacca": "Nera",
+      "regione": "Molise",
+      "descrizione": "Province di Campobasso e Isernia"
+    },
+    {
+      "vitigno": "Trebbiano abruzzese",
+      "bacca": "Bianca",
+      "regione": "Molise",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Aglianico",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Aglianicone",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Asprinio",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Barbera del Sannio",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Biancolella",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Caprettone",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Casavecchia",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Catalanesca",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Coda di Volpe",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Falanghina",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Fenile",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Fiano",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Forastera",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Ginestra",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Greco",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pallagrello bianco",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pallagrello nero",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pepella",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Piedirosso",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "San Lunardo",
+      "bacca": "Bianca",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Sciascinoso",
+      "bacca": "Nera",
+      "regione": "Campania",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Verdeca",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nel Barese, nel Tarantino e nella Valle d'Itria"
+    },
+    {
+      "vitigno": "Bianco d'Alessano",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivato nella Valle d'Itria"
+    },
+    {
+      "vitigno": "Minutolo",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivato nella Valle d'Itria"
+    },
+    {
+      "vitigno": "Maresco",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nella Valle d'Itria"
+    },
+    {
+      "vitigno": "Impigno",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivato nel Brindisino"
+    },
+    {
+      "vitigno": "Francavidda",
+      "bacca": "Bianca",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nel Brindisino (tra Francavilla Fontana e Ostuni)"
+    },
+    {
+      "vitigno": "Aglianico",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivato in Irpinia, in provincia di Avellino"
+    },
+    {
+      "vitigno": "Uva di Troia",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nel Barese e nel Foggiano"
+    },
+    {
+      "vitigno": "Primitivo",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivato nel Tarantino e secondariamente nel leccese e nel brindisino"
+    },
+    {
+      "vitigno": "Negroamaro",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivato prevalentemente nel Salento e nel tarantino"
+    },
+    {
+      "vitigno": "Bombino nero",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivato tra il Barese e il Foggiano"
+    },
+    {
+      "vitigno": "Notardomenico",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "(scarsamente) coltivato nel Brindisino"
+    },
+    {
+      "vitigno": "Malvasia nera di Brindisi",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nel nord Salento e nel tarantino"
+    },
+    {
+      "vitigno": "Malvasia nera di Lecce",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nelle regioni Puglia e Toscana."
+    },
+    {
+      "vitigno": "Susumaniello",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivato nel Brindisino e nel tarantino"
+    },
+    {
+      "vitigno": "Ottavianello",
+      "bacca": "Nera",
+      "regione": "Puglia",
+      "descrizione": "Coltivata nella regione Puglia"
+    },
+    {
+      "vitigno": "Aglianico",
+      "bacca": "Nera",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Aglianico del Vulture",
+      "bacca": "Nera",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Aglianicone",
+      "bacca": "Nera",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Bombino nero",
+      "bacca": "Nera",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia bianca di Basilicata",
+      "bacca": "Bianca",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia nera di Basilicata",
+      "bacca": "Nera",
+      "regione": "Basilicata",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Castiglione",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Gaglioppo",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Greco",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Greco nero",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Guardavalle",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Guarnaccia bianca",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Magliocco canino",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Magliocco",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Marsigliana nera",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nocera",
+      "bacca": "Nera",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pecorello",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Prunesta",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Mantonico bianco",
+      "bacca": "Bianca",
+      "regione": "Calabria",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nero d'Avola",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Originario della Sicilia sudorientale (Avola si trova in provincia di Siracusa), che è oggi il vitigno a bacca rossa più diffuso e più conosciuto della Sicilia."
+    },
+    {
+      "vitigno": "Alicante Bouschet",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nerello mascalese",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Originario dell' Etna, la zona di produzione vitivinicola siciliana oggi più in voga. Spesso paragonato come caratteristiche organolettiche al nebbiolo ed al pinot nero di Borgogna."
+    },
+    {
+      "vitigno": "Nerello cappuccio",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Completa il nerello mascalese sull' Etna."
+    },
+    {
+      "vitigno": "Frappato",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Originario della sicilia sudorientale (Vittoria), vitigno molto fresco e poco tannico, meglio se servito sui 12 C circa."
+    },
+    {
+      "vitigno": "Nocera",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Originario della Sicilia nordorientale, complementare al nero d'Avola nella DOC mamertino."
+    },
+    {
+      "vitigno": "Corinto nero",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "Diffuso nell' isola di Lipari."
+    },
+    {
+      "vitigno": "Perricone",
+      "bacca": "Nera",
+      "regione": "Sicilia",
+      "descrizione": "La cui diffusione è cresciuta negli ultimi anni, in Sicilia occidentale, e utilizzato per il marsala."
+    },
+    {
+      "vitigno": "Catarratto",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Grillo",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "Vitigno dal grande potenziale nato da un incrocio tra zibibbo e catarratto."
+    },
+    {
+      "vitigno": "Grecanico dorato",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Carricante",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "Vitigno chiave della viticoltura etnea."
+    },
+    {
+      "vitigno": "Inzolia",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "Che insieme al Grillo ed il Catarratto costituisce il blend per il Marsala"
+    },
+    {
+      "vitigno": "Zibibbo o Moscato d'Alessandria",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "(introdotto per opera dei Fenici a Pantelleria), vitigno utilizzato nella produzione del passito di Pantelleria."
+    },
+    {
+      "vitigno": "Malvasia",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "Anch'essa utilizzata prevalentemente per vinificare vini dolci (in particolare la malvasia delle Lipari)."
+    },
+    {
+      "vitigno": "Malvasia di Lipari",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Moscato Bianco",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": "Utilizzato nella produzione dei vini dolci e passiti della Sicilia sudorientale."
+    },
+    {
+      "vitigno": "Minnella bianca",
+      "bacca": "Bianca",
+      "regione": "Sicilia",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Alicante Bouschet",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Albaranzeuli",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "vitigno a bacca bianca, di lontana provenienza spagnola, è diffuso in alcuni comuni dell'oristanese e del nuorese dove viene chiamato Lacconargiu o Lacconarzu. Attualmente è in via di estinzione;"
+    },
+    {
+      "vitigno": "Arvesiniadu",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": "vitigno autoctono del Goceano, che rischiava di scomparire;"
+    },
+    {
+      "vitigno": "Bovale",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "esistono due varianti di Bovale, il \"Bovale Sardo\" e il \"Bovale di Spagna\" quest'ultimo nell'entroterra Cagliaritano è chiamato anche \"axina 'e Spagna\" (uva di Spagna). Dagli ultimi studi condotti dal ricercartore Gianni Lovicu dell'Agris (ente Regionale di ricerca in Agricoltura) in concerto con la facoltà di agraria dell'Università di Milano, risulta che i due vitigni siano completamente diversi. Il primo, il Bovale Sardo, pare proveniente dalla vite selvatica, ancora molto presente in Sardegna, e che nel corso dei secoli sia stata \"addomesticata\" soprattutto nella zona del Terralbese, territorio a sud della provincia di Oristano al confine con Cagliari e ai piedi del Monte Arci. In quest'area sono presenti entrambi i vitigni in maniera preponderante rispetto alle altre varietà sarde. Sinonimo del Bovale Sardo è il Muristellu o Muristeni, a seconda dell'area geografica di coltivazione ma comunque soprattutto ai piedi del Monte Arci o dei massicci immediatamente vicini. Il Bovale di Spagna può essere accomunato al Carignano per caratteristiche e per produttività, pare infatti sia una variante dello stesso."
+    },
+    {
+      "vitigno": "Caddiu",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Cagnulari",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "vitigno tipico del sassarese;"
+    },
+    {
+      "vitigno": "Cannonau",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "è il vitigno simbolo dell'enocultura sarda. Di origini molto antiche, probabilmente nuragiche, viene coltivato principalmente nella Provincia di Nuoro (70% della superficie coltivata));"
+    },
+    {
+      "vitigno": "Caricagiola",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Carignan (Cariñena)",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Carignano",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Girò",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "vitigno introdotto in epoca spagnola. Nel 1972 un suo vino, il Girò di Cagliari, ha ottenuto la Denominazione d'Origine Controllata;"
+    },
+    {
+      "vitigno": "Grenache (Garnacha)",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Malvasia di Sardegna",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": "vitigno con molta probabilità arrivato nell'isola in epoca bizantina;"
+    },
+    {
+      "vitigno": "Monica",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": "è un vitigno considerato tra i più antichi introdotti in Sardegna. È presente su tutto il territorio regionale;"
+    },
+    {
+      "vitigno": "Moscato",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nasco",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": "vitigno a bacca bianca conosciuto già in epoca romana. Il suo nome deriva dal latino muscus ossia muschio probabilmente a causa del suo caratteristico aroma;"
+    },
+    {
+      "vitigno": "Nieddera",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Nuragus",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Pascale",
+      "bacca": "Nera",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Retagliado",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Semidano",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Torbato",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    },
+    {
+      "vitigno": "Vermentino",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": "vitigno dalle origini incerte;"
+    },
+    {
+      "vitigno": "Vernaccia di Oristano",
+      "bacca": "Bianca",
+      "regione": "Sardegna",
+      "descrizione": ""
+    }
+  ],
+  "meta": {
+    "title": "Vitigni coltivati nelle regioni italiane - Free Download",
+    "description": "Vitigni (varietà di uva da vino) principali di ciascuna regione italiana con colore della bacca e breve descrizione, raccolti dalle voci «Viticoltura in …» di Wikipedia per le 20 regioni. Contains 246 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vitigni coltivati nelle regioni italiane | ListBase",
+    "seo_description": "Download Vitigni coltivati nelle regioni italiane — 246 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 246 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Viticoltura_in_Italia"
+    ]
+  }
+}
