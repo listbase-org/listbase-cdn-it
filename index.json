@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-24T02:15:14.788Z",
-  "total_datasets": 574,
-  "total_records": 151052,
+  "generated": "2026-11-24T02:15:26.213Z",
+  "total_datasets": 575,
+  "total_records": 151062,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -2558,6 +2558,31 @@
         "xlsx": {
           "name": "it-parole-origine-germanica_IT.xlsx",
           "size": 13961
+        }
+      }
+    },
+    {
+      "id": "it-prestiti-lessico-italiano-per-lingua",
+      "name": "Prestiti nel lessico italiano per lingua di provenienza",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "lingua_di_provenienza",
+        "vocabolario_esteso",
+        "vocabolario_comune",
+        "vocabolario_di_base"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Lessico_dell'italiano",
+      "updated": "2026-11",
+      "size": 3627,
+      "files": {
+        "csv": {
+          "name": "it-prestiti-lessico-italiano-per-lingua_IT.csv",
+          "size": 363
+        },
+        "xlsx": {
+          "name": "it-prestiti-lessico-italiano-per-lingua_IT.xlsx",
+          "size": 7036
         }
       }
     },

@@ -1,0 +1,106 @@
+{
+  "id": "it-prestiti-lessico-italiano-per-lingua",
+  "name": "Prestiti nel lessico italiano per lingua di provenienza",
+  "title": "Prestiti nel lessico italiano per lingua di provenienza",
+  "description": "Numero di parole straniere (prestiti) presenti nel lessico italiano secondo la lingua di provenienza — inglese, francese, spagnolo, tedesco, giapponese, russo e altre — suddivise tra vocabolario esteso, vocabolario comune e vocabolario di base (dati GRADIT di Tullio De Mauro).",
+  "category": "language",
+  "source": "https://it.wikipedia.org/wiki/Lessico_dell'italiano",
+  "source_url": "https://it.wikipedia.org/wiki/Lessico_dell'italiano",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "lingua_di_provenienza",
+      "label": "Lingua Di Provenienza",
+      "type": "string"
+    },
+    {
+      "key": "vocabolario_esteso",
+      "label": "Vocabolario Esteso",
+      "type": "number"
+    },
+    {
+      "key": "vocabolario_comune",
+      "label": "Vocabolario Comune",
+      "type": "number"
+    },
+    {
+      "key": "vocabolario_di_base",
+      "label": "Vocabolario Di Base",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lingua_di_provenienza": "Inglese",
+      "vocabolario_esteso": 8196,
+      "vocabolario_comune": 349,
+      "vocabolario_di_base": 31
+    },
+    {
+      "lingua_di_provenienza": "Francese (+provenzale)",
+      "vocabolario_esteso": 5683,
+      "vocabolario_comune": 871,
+      "vocabolario_di_base": 291
+    },
+    {
+      "lingua_di_provenienza": "Spagnolo",
+      "vocabolario_esteso": 1126,
+      "vocabolario_comune": 143,
+      "vocabolario_di_base": 31
+    },
+    {
+      "lingua_di_provenienza": "Tedesco",
+      "vocabolario_esteso": 695,
+      "vocabolario_comune": 54,
+      "vocabolario_di_base": 9
+    },
+    {
+      "lingua_di_provenienza": "Giapponese",
+      "vocabolario_esteso": 281,
+      "vocabolario_comune": 8,
+      "vocabolario_di_base": 0
+    },
+    {
+      "lingua_di_provenienza": "Russo",
+      "vocabolario_esteso": 258,
+      "vocabolario_comune": 20,
+      "vocabolario_di_base": 1
+    },
+    {
+      "lingua_di_provenienza": "Portoghese",
+      "vocabolario_esteso": 221,
+      "vocabolario_comune": 22,
+      "vocabolario_di_base": 6
+    },
+    {
+      "lingua_di_provenienza": "Turco",
+      "vocabolario_esteso": 183,
+      "vocabolario_comune": 22,
+      "vocabolario_di_base": 4
+    },
+    {
+      "lingua_di_provenienza": "Ebraico",
+      "vocabolario_esteso": 172,
+      "vocabolario_comune": 3,
+      "vocabolario_di_base": 0
+    },
+    {
+      "lingua_di_provenienza": "Cinese",
+      "vocabolario_esteso": 76,
+      "vocabolario_comune": 5,
+      "vocabolario_di_base": 0
+    }
+  ],
+  "meta": {
+    "title": "Prestiti nel lessico italiano per lingua di provenienza - Free Download",
+    "description": "Numero di parole straniere (prestiti) presenti nel lessico italiano secondo la lingua di provenienza — inglese, francese, spagnolo, tedesco, giapponese, russo e altre — suddivise tra vocabolario esteso, vocabolario comune e vocabolario di base (dati GRADIT di Tullio De Mauro). Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prestiti nel lessico italiano per lingua di provenienza | ListBase",
+    "seo_description": "Download Prestiti nel lessico italiano per lingua di provenienza — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Lessico_dell'italiano"
+    ]
+  }
+}
