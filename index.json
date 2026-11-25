@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-25T02:17:35.130Z",
-  "total_datasets": 578,
-  "total_records": 151479,
+  "generated": "2026-11-25T02:27:35.111Z",
+  "total_datasets": 579,
+  "total_records": 151501,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -16857,6 +16857,40 @@
         "xlsx": {
           "name": "it-regioni-indice-sviluppo-umano_IT.xlsx",
           "size": 8284
+        }
+      }
+    },
+    {
+      "id": "it-rischio-di-poverta-per-regione",
+      "name": "Tasso di rischio di povertà per regione (2015–2025)",
+      "category": "society",
+      "record_count": 22,
+      "columns": [
+        "regione",
+        "codice_nuts",
+        "rischio_poverta_percento_2015",
+        "rischio_poverta_percento_2016",
+        "rischio_poverta_percento_2017",
+        "rischio_poverta_percento_2018",
+        "rischio_poverta_percento_2019",
+        "rischio_poverta_percento_2020",
+        "rischio_poverta_percento_2021",
+        "rischio_poverta_percento_2022",
+        "rischio_poverta_percento_2023",
+        "rischio_poverta_percento_2024",
+        "rischio_poverta_percento_2025"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/ilc_li41/default/table",
+      "updated": "2026-11",
+      "size": 15756,
+      "files": {
+        "csv": {
+          "name": "it-rischio-di-poverta-per-regione_IT.csv",
+          "size": 2455
+        },
+        "xlsx": {
+          "name": "it-rischio-di-poverta-per-regione_IT.xlsx",
+          "size": 8488
         }
       }
     },
