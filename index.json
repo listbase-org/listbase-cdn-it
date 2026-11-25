@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-25T02:17:22.819Z",
-  "total_datasets": 577,
-  "total_records": 151458,
+  "generated": "2026-11-25T02:17:35.130Z",
+  "total_datasets": 578,
+  "total_records": 151479,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -17960,6 +17960,42 @@
         "xlsx": {
           "name": "it-friuli-venezia-giulia-comuni-dolomiti-unesco_IT.xlsx",
           "size": 7191
+        }
+      }
+    },
+    {
+      "id": "it-presenze-turistiche-per-regione",
+      "name": "Presenze turistiche negli esercizi ricettivi per regione (2015–2025)",
+      "category": "tourism",
+      "record_count": 21,
+      "columns": [
+        "regione",
+        "codice_nuts",
+        "presenze_2015",
+        "presenze_2016",
+        "presenze_2017",
+        "presenze_2018",
+        "presenze_2019",
+        "presenze_2020",
+        "presenze_2021",
+        "presenze_2022",
+        "presenze_2023",
+        "presenze_2024",
+        "presenze_2025",
+        "presenze_stranieri_2025",
+        "quota_stranieri_2025_percento"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 14210,
+      "files": {
+        "csv": {
+          "name": "it-presenze-turistiche-per-regione_IT.csv",
+          "size": 3515
+        },
+        "xlsx": {
+          "name": "it-presenze-turistiche-per-regione_IT.xlsx",
+          "size": 9480
         }
       }
     },
