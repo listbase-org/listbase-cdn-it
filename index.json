@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-24T02:17:47.466Z",
-  "total_datasets": 576,
-  "total_records": 151308,
+  "generated": "2026-11-25T02:17:22.819Z",
+  "total_datasets": 577,
+  "total_records": 151458,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1580,6 +1580,31 @@
         "xlsx": {
           "name": "it-pani-regionali_IT.xlsx",
           "size": 21383
+        }
+      }
+    },
+    {
+      "id": "it-piatti-tradizionali-a-base-di-pasta",
+      "name": "Piatti tradizionali italiani a base di pasta per regione",
+      "category": "food",
+      "record_count": 150,
+      "columns": [
+        "piatto",
+        "regione",
+        "tipologia",
+        "descrizione"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Piatti_a_base_di_pasta",
+      "updated": "2026-11",
+      "size": 49638,
+      "files": {
+        "csv": {
+          "name": "it-piatti-tradizionali-a-base-di-pasta_IT.csv",
+          "size": 34482
+        },
+        "xlsx": {
+          "name": "it-piatti-tradizionali-a-base-di-pasta_IT.xlsx",
+          "size": 18081
         }
       }
     },
