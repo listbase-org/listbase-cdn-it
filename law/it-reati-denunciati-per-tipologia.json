@@ -1,0 +1,240 @@
+{
+  "id": "it-reati-denunciati-per-tipologia",
+  "name": "Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024)",
+  "title": "Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024)",
+  "description": "Numero annuo di reati registrati dalle forze di polizia in Italia secondo la Classificazione internazionale dei reati a fini statistici (ICCS): omicidi volontari e tentati, lesioni gravi, sequestri di persona, violenza sessuale, rapine, furti, furti di veicoli, reati in materia di stupefacenti, frodi, corruzione, tangenti e riciclaggio, 2016–2024. Fonte: Eurostat (crim_off_cat).",
+  "category": "law",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "intentional_homicide",
+      "label": "Intentional Homicide",
+      "type": "number"
+    },
+    {
+      "key": "attempted_homicide",
+      "label": "Attempted Homicide",
+      "type": "number"
+    },
+    {
+      "key": "serious_assault",
+      "label": "Serious Assault",
+      "type": "number"
+    },
+    {
+      "key": "kidnapping",
+      "label": "Kidnapping",
+      "type": "number"
+    },
+    {
+      "key": "sexual_violence",
+      "label": "Sexual Violence",
+      "type": "number"
+    },
+    {
+      "key": "robbery",
+      "label": "Robbery",
+      "type": "number"
+    },
+    {
+      "key": "theft",
+      "label": "Theft",
+      "type": "number"
+    },
+    {
+      "key": "motor_vehicle_theft",
+      "label": "Motor Vehicle Theft",
+      "type": "number"
+    },
+    {
+      "key": "drug_offences",
+      "label": "Drug Offences",
+      "type": "number"
+    },
+    {
+      "key": "fraud",
+      "label": "Fraud",
+      "type": "number"
+    },
+    {
+      "key": "corruption",
+      "label": "Corruption",
+      "type": "number"
+    },
+    {
+      "key": "bribery",
+      "label": "Bribery",
+      "type": "number"
+    },
+    {
+      "key": "money_laundering",
+      "label": "Money Laundering",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2016,
+      "intentional_homicide": 404,
+      "attempted_homicide": 1079,
+      "serious_assault": 995,
+      "kidnapping": 197,
+      "sexual_violence": 4513,
+      "robbery": 33422,
+      "theft": 1132814,
+      "motor_vehicle_theft": 156942,
+      "drug_offences": 35189,
+      "fraud": 182103,
+      "corruption": 3536,
+      "bribery": 525,
+      "money_laundering": 1805
+    },
+    {
+      "year": 2017,
+      "intentional_homicide": 376,
+      "attempted_homicide": 1098,
+      "serious_assault": 1117,
+      "kidnapping": 198,
+      "sexual_violence": 5115,
+      "robbery": 31167,
+      "theft": 1069965,
+      "motor_vehicle_theft": 145758,
+      "drug_offences": 38339,
+      "fraud": 194068,
+      "corruption": 3572,
+      "bribery": 533,
+      "money_laundering": 1941
+    },
+    {
+      "year": 2018,
+      "intentional_homicide": 359,
+      "attempted_homicide": 1050,
+      "serious_assault": 984,
+      "kidnapping": 185,
+      "sexual_violence": 5381,
+      "robbery": 28986,
+      "theft": 1016570,
+      "motor_vehicle_theft": 141132,
+      "drug_offences": 38776,
+      "fraud": 218865,
+      "corruption": 3367,
+      "bribery": 408,
+      "money_laundering": 1959
+    },
+    {
+      "year": 2019,
+      "intentional_homicide": 317,
+      "attempted_homicide": 1019,
+      "serious_assault": 1005,
+      "kidnapping": 128,
+      "sexual_violence": 5402,
+      "robbery": 24821,
+      "theft": 906552,
+      "motor_vehicle_theft": 131148,
+      "drug_offences": 37698,
+      "fraud": 278958,
+      "corruption": 3469,
+      "bribery": 460,
+      "money_laundering": 2218
+    },
+    {
+      "year": 2020,
+      "intentional_homicide": 285,
+      "attempted_homicide": 876,
+      "serious_assault": 840,
+      "kidnapping": 117,
+      "sexual_violence": 4918,
+      "robbery": 20479,
+      "theft": 612230,
+      "motor_vehicle_theft": 101042,
+      "drug_offences": 33879,
+      "fraud": 353688,
+      "corruption": 3770,
+      "bribery": 409,
+      "money_laundering": 2097
+    },
+    {
+      "year": 2021,
+      "intentional_homicide": 303,
+      "attempted_homicide": 928,
+      "serious_assault": 868,
+      "kidnapping": 118,
+      "sexual_violence": 5766,
+      "robbery": 22537,
+      "theft": 701154,
+      "motor_vehicle_theft": 110171,
+      "drug_offences": 29870,
+      "fraud": 440418,
+      "corruption": 3842,
+      "bribery": 343,
+      "money_laundering": 1687
+    },
+    {
+      "year": 2022,
+      "intentional_homicide": 322,
+      "attempted_homicide": 1018,
+      "serious_assault": 863,
+      "kidnapping": 114,
+      "sexual_violence": 6814,
+      "robbery": 26181,
+      "theft": 844086,
+      "motor_vehicle_theft": 125764,
+      "drug_offences": 29153,
+      "fraud": 410198,
+      "corruption": 3671,
+      "bribery": 355,
+      "money_laundering": 1561
+    },
+    {
+      "year": 2023,
+      "intentional_homicide": 338,
+      "attempted_homicide": 1033,
+      "serious_assault": 809,
+      "kidnapping": 129,
+      "sexual_violence": 6742,
+      "robbery": 28710,
+      "theft": 888340,
+      "motor_vehicle_theft": 134105,
+      "drug_offences": 30365,
+      "fraud": 450242,
+      "corruption": 2760,
+      "bribery": 244,
+      "money_laundering": 1517
+    },
+    {
+      "year": 2024,
+      "intentional_homicide": 336,
+      "attempted_homicide": 1143,
+      "serious_assault": 1201,
+      "kidnapping": 116,
+      "sexual_violence": 7423,
+      "robbery": 29351,
+      "theft": 915385,
+      "motor_vehicle_theft": 136544,
+      "drug_offences": 31841,
+      "fraud": 432063,
+      "corruption": 2504,
+      "bribery": 306,
+      "money_laundering": 1906
+    }
+  ],
+  "meta": {
+    "title": "Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024) - Free Download",
+    "description": "Numero annuo di reati registrati dalle forze di polizia in Italia secondo la Classificazione internazionale dei reati a fini statistici (ICCS): omicidi volontari e tentati, lesioni gravi, sequestri di persona, violenza sessuale, rapine, furti, furti di veicoli, reati in materia di stupefacenti, frodi, corruzione, tangenti e riciclaggio, 2016–2024. Fonte: Eurostat (crim_off_cat). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024) | ListBase",
+    "seo_description": "Download Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 14 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-26T02:13:50.915Z",
-  "total_datasets": 581,
-  "total_records": 151585,
+  "generated": "2026-11-26T02:14:03.025Z",
+  "total_datasets": 582,
+  "total_records": 151594,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -2790,6 +2790,41 @@
         "xlsx": {
           "name": "it-primi-presidenti-corte-di-cassazione_IT.xlsx",
           "size": 8253
+        }
+      }
+    },
+    {
+      "id": "it-reati-denunciati-per-tipologia",
+      "name": "Reati registrati dalle forze di polizia in Italia per tipologia (2016–2024)",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "year",
+        "intentional_homicide",
+        "attempted_homicide",
+        "serious_assault",
+        "kidnapping",
+        "sexual_violence",
+        "robbery",
+        "theft",
+        "motor_vehicle_theft",
+        "drug_offences",
+        "fraud",
+        "corruption",
+        "bribery",
+        "money_laundering"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+      "updated": "2026-11",
+      "size": 6996,
+      "files": {
+        "csv": {
+          "name": "it-reati-denunciati-per-tipologia_IT.csv",
+          "size": 1130
+        },
+        "xlsx": {
+          "name": "it-reati-denunciati-per-tipologia_IT.xlsx",
+          "size": 7740
         }
       }
     },
