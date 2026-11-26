@@ -1,0 +1,268 @@
+{
+  "id": "it-deficit-e-debito-pubblico",
+  "name": "Deficit e debito pubblico dell'Italia (1995–2025)",
+  "title": "Deficit e debito pubblico dell'Italia (1995–2025)",
+  "description": "Indebitamento netto (−) o accreditamento netto (+) e debito lordo consolidato delle amministrazioni pubbliche italiane, in % del PIL e in milioni di euro, 1995–2025, secondo la procedura per i disavanzi eccessivi. Fonte: Eurostat (gov_10dd_edpt1).",
+  "category": "finance",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "deficit_surplus_pct_gdp",
+      "label": "Deficit Surplus Pct Gdp",
+      "type": "number"
+    },
+    {
+      "key": "deficit_surplus_mln_eur",
+      "label": "Deficit Surplus Mln Eur",
+      "type": "number"
+    },
+    {
+      "key": "gov_debt_pct_gdp",
+      "label": "Gov Debt Pct Gdp",
+      "type": "number"
+    },
+    {
+      "key": "gov_debt_mln_eur",
+      "label": "Gov Debt Mln Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1995,
+      "deficit_surplus_pct_gdp": -7.2,
+      "deficit_surplus_mln_eur": -64813.4,
+      "gov_debt_pct_gdp": 119.1,
+      "gov_debt_mln_eur": 1096649.1
+    },
+    {
+      "year": 1996,
+      "deficit_surplus_pct_gdp": -6.6,
+      "deficit_surplus_mln_eur": -68436.1,
+      "gov_debt_pct_gdp": 118.9,
+      "gov_debt_mln_eur": 1260410.3
+    },
+    {
+      "year": 1997,
+      "deficit_surplus_pct_gdp": -3,
+      "deficit_surplus_mln_eur": -32754.9,
+      "gov_debt_pct_gdp": 116.5,
+      "gov_debt_mln_eur": 1271893.8
+    },
+    {
+      "year": 1998,
+      "deficit_surplus_pct_gdp": -3,
+      "deficit_surplus_mln_eur": -33947.7,
+      "gov_debt_pct_gdp": 113.9,
+      "gov_debt_mln_eur": 1299741.3
+    },
+    {
+      "year": 1999,
+      "deficit_surplus_pct_gdp": -1.8,
+      "deficit_surplus_mln_eur": -20898,
+      "gov_debt_pct_gdp": 113.1,
+      "gov_debt_mln_eur": 1331320.6
+    },
+    {
+      "year": 2000,
+      "deficit_surplus_pct_gdp": -2.4,
+      "deficit_surplus_mln_eur": -30124,
+      "gov_debt_pct_gdp": 108.7,
+      "gov_debt_mln_eur": 1353569.3
+    },
+    {
+      "year": 2001,
+      "deficit_surplus_pct_gdp": -3.2,
+      "deficit_surplus_mln_eur": -41625,
+      "gov_debt_pct_gdp": 108.5,
+      "gov_debt_mln_eur": 1420026.6
+    },
+    {
+      "year": 2002,
+      "deficit_surplus_pct_gdp": -2.9,
+      "deficit_surplus_mln_eur": -39036,
+      "gov_debt_pct_gdp": 105.9,
+      "gov_debt_mln_eur": 1436141.8
+    },
+    {
+      "year": 2003,
+      "deficit_surplus_pct_gdp": -3.2,
+      "deficit_surplus_mln_eur": -45147,
+      "gov_debt_pct_gdp": 105.1,
+      "gov_debt_mln_eur": 1470950.9
+    },
+    {
+      "year": 2004,
+      "deficit_surplus_pct_gdp": -3.5,
+      "deficit_surplus_mln_eur": -50438,
+      "gov_debt_pct_gdp": 104.7,
+      "gov_debt_mln_eur": 1526472.1
+    },
+    {
+      "year": 2005,
+      "deficit_surplus_pct_gdp": -4.1,
+      "deficit_surplus_mln_eur": -61440,
+      "gov_debt_pct_gdp": 106.2,
+      "gov_debt_mln_eur": 1591674.2
+    },
+    {
+      "year": 2006,
+      "deficit_surplus_pct_gdp": -3.6,
+      "deficit_surplus_mln_eur": -56240,
+      "gov_debt_pct_gdp": 106.3,
+      "gov_debt_mln_eur": 1657478.6
+    },
+    {
+      "year": 2007,
+      "deficit_surplus_pct_gdp": -1.3,
+      "deficit_surplus_mln_eur": -21503,
+      "gov_debt_pct_gdp": 103.5,
+      "gov_debt_mln_eur": 1677896.6
+    },
+    {
+      "year": 2008,
+      "deficit_surplus_pct_gdp": -2.6,
+      "deficit_surplus_mln_eur": -42473,
+      "gov_debt_pct_gdp": 105.8,
+      "gov_debt_mln_eur": 1739108.6
+    },
+    {
+      "year": 2009,
+      "deficit_surplus_pct_gdp": -5.1,
+      "deficit_surplus_mln_eur": -80101,
+      "gov_debt_pct_gdp": 116.1,
+      "gov_debt_mln_eur": 1839805.5
+    },
+    {
+      "year": 2010,
+      "deficit_surplus_pct_gdp": -4.2,
+      "deficit_surplus_mln_eur": -67228,
+      "gov_debt_pct_gdp": 118.9,
+      "gov_debt_mln_eur": 1921443.5
+    },
+    {
+      "year": 2011,
+      "deficit_surplus_pct_gdp": -3.5,
+      "deficit_surplus_mln_eur": -58409,
+      "gov_debt_pct_gdp": 119.3,
+      "gov_debt_mln_eur": 1974407.5
+    },
+    {
+      "year": 2012,
+      "deficit_surplus_pct_gdp": -3,
+      "deficit_surplus_mln_eur": -48818,
+      "gov_debt_pct_gdp": 126.1,
+      "gov_debt_mln_eur": 2055839.8
+    },
+    {
+      "year": 2013,
+      "deficit_surplus_pct_gdp": -2.9,
+      "deficit_surplus_mln_eur": -46664,
+      "gov_debt_pct_gdp": 132,
+      "gov_debt_mln_eur": 2137704.9
+    },
+    {
+      "year": 2014,
+      "deficit_surplus_pct_gdp": -2.8,
+      "deficit_surplus_mln_eur": -46186,
+      "gov_debt_pct_gdp": 135,
+      "gov_debt_mln_eur": 2205114.1
+    },
+    {
+      "year": 2015,
+      "deficit_surplus_pct_gdp": -2.5,
+      "deficit_surplus_mln_eur": -40966,
+      "gov_debt_pct_gdp": 135,
+      "gov_debt_mln_eur": 2242020.3
+    },
+    {
+      "year": 2016,
+      "deficit_surplus_pct_gdp": -2.4,
+      "deficit_surplus_mln_eur": -41037,
+      "gov_debt_pct_gdp": 134.5,
+      "gov_debt_mln_eur": 2288716.4
+    },
+    {
+      "year": 2017,
+      "deficit_surplus_pct_gdp": -2.5,
+      "deficit_surplus_mln_eur": -44207,
+      "gov_debt_pct_gdp": 134,
+      "gov_debt_mln_eur": 2333221.6
+    },
+    {
+      "year": 2018,
+      "deficit_surplus_pct_gdp": -2.2,
+      "deficit_surplus_mln_eur": -39337,
+      "gov_debt_pct_gdp": 134.5,
+      "gov_debt_mln_eur": 2385769.6
+    },
+    {
+      "year": 2019,
+      "deficit_surplus_pct_gdp": -1.5,
+      "deficit_surplus_mln_eur": -26714,
+      "gov_debt_pct_gdp": 134.2,
+      "gov_debt_mln_eur": 2415545.9
+    },
+    {
+      "year": 2020,
+      "deficit_surplus_pct_gdp": -9.4,
+      "deficit_surplus_mln_eur": -156088,
+      "gov_debt_pct_gdp": 154.7,
+      "gov_debt_mln_eur": 2578064.8
+    },
+    {
+      "year": 2021,
+      "deficit_surplus_pct_gdp": -8.9,
+      "deficit_surplus_mln_eur": -163982,
+      "gov_debt_pct_gdp": 146.1,
+      "gov_debt_mln_eur": 2686753
+    },
+    {
+      "year": 2022,
+      "deficit_surplus_pct_gdp": -8.1,
+      "deficit_surplus_mln_eur": -161186,
+      "gov_debt_pct_gdp": 138.4,
+      "gov_debt_mln_eur": 2764638.2
+    },
+    {
+      "year": 2023,
+      "deficit_surplus_pct_gdp": -7.1,
+      "deficit_surplus_mln_eur": -151966,
+      "gov_debt_pct_gdp": 134,
+      "gov_debt_mln_eur": 2870272.5
+    },
+    {
+      "year": 2024,
+      "deficit_surplus_pct_gdp": -3.4,
+      "deficit_surplus_mln_eur": -74835,
+      "gov_debt_pct_gdp": 134.3,
+      "gov_debt_mln_eur": 2967832.9
+    },
+    {
+      "year": 2025,
+      "deficit_surplus_pct_gdp": -3.1,
+      "deficit_surplus_mln_eur": -69736,
+      "gov_debt_pct_gdp": 136.7,
+      "gov_debt_mln_eur": 3097093.3
+    }
+  ],
+  "meta": {
+    "title": "Deficit e debito pubblico dell'Italia (1995–2025) - Free Download",
+    "description": "Indebitamento netto (−) o accreditamento netto (+) e debito lordo consolidato delle amministrazioni pubbliche italiane, in % del PIL e in milioni di euro, 1995–2025, secondo la procedura per i disavanzi eccessivi. Fonte: Eurostat (gov_10dd_edpt1). Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Deficit e debito pubblico dell'Italia (1995–2025) | ListBase",
+    "seo_description": "Download Deficit e debito pubblico dell'Italia (1995–2025) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-25T02:27:35.111Z",
-  "total_datasets": 579,
-  "total_records": 151501,
+  "generated": "2026-11-26T02:13:39.568Z",
+  "total_datasets": 580,
+  "total_records": 151532,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -1308,6 +1308,32 @@
         "xlsx": {
           "name": "it-banconote-lira-italiana_IT.xlsx",
           "size": 9939
+        }
+      }
+    },
+    {
+      "id": "it-deficit-e-debito-pubblico",
+      "name": "Deficit e debito pubblico dell'Italia (1995–2025)",
+      "category": "finance",
+      "record_count": 31,
+      "columns": [
+        "year",
+        "deficit_surplus_pct_gdp",
+        "deficit_surplus_mln_eur",
+        "gov_debt_pct_gdp",
+        "gov_debt_mln_eur"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table",
+      "updated": "2026-11",
+      "size": 7794,
+      "files": {
+        "csv": {
+          "name": "it-deficit-e-debito-pubblico_IT.csv",
+          "size": 1426
+        },
+        "xlsx": {
+          "name": "it-deficit-e-debito-pubblico_IT.xlsx",
+          "size": 7820
         }
       }
     },
