@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-26T02:13:39.568Z",
-  "total_datasets": 580,
-  "total_records": 151532,
+  "generated": "2026-11-26T02:13:50.915Z",
+  "total_datasets": 581,
+  "total_records": 151585,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -2963,6 +2963,33 @@
         "xlsx": {
           "name": "it-conservatori-di-musica_IT.xlsx",
           "size": 9671
+        }
+      }
+    },
+    {
+      "id": "it-italia-eurovision-song-contest",
+      "name": "L'Italia all'Eurovision Song Contest — partecipazioni e risultati",
+      "category": "music",
+      "record_count": 53,
+      "columns": [
+        "year",
+        "artist",
+        "song",
+        "language",
+        "final_place",
+        "points"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Italia_all'Eurovision_Song_Contest",
+      "updated": "2026-11",
+      "size": 11412,
+      "files": {
+        "csv": {
+          "name": "it-italia-eurovision-song-contest_IT.csv",
+          "size": 3442
+        },
+        "xlsx": {
+          "name": "it-italia-eurovision-song-contest_IT.xlsx",
+          "size": 9454
         }
       }
     },

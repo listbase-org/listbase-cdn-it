@@ -1,0 +1,480 @@
+{
+  "id": "it-italia-eurovision-song-contest",
+  "name": "L'Italia all'Eurovision Song Contest — partecipazioni e risultati",
+  "title": "L'Italia all'Eurovision Song Contest — partecipazioni e risultati",
+  "description": "Tutte le partecipazioni dell'Italia all'Eurovision Song Contest dal 1956: anno, artista, canzone, lingua, posizione nella finale e punti ottenuti (nel 1956 i risultati non furono resi noti; l'edizione 2020 fu cancellata).",
+  "category": "music",
+  "source": "https://it.wikipedia.org/wiki/Italia_all'Eurovision_Song_Contest",
+  "source_url": "https://it.wikipedia.org/wiki/Italia_all'Eurovision_Song_Contest",
+  "updated": "2026-11",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "final_place",
+      "label": "Final Place",
+      "type": "number"
+    },
+    {
+      "key": "points",
+      "label": "Points",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1956,
+      "artist": "Franca Raimondi",
+      "song": "Aprite le finestre",
+      "language": "Italiano",
+      "final_place": "",
+      "points": ""
+    },
+    {
+      "year": 1956,
+      "artist": "Tonina Torrielli",
+      "song": "Amami se vuoi",
+      "language": "Italiano",
+      "final_place": "",
+      "points": ""
+    },
+    {
+      "year": 1957,
+      "artist": "Nunzio Gallo",
+      "song": "Corde della mia chitarra",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 7
+    },
+    {
+      "year": 1958,
+      "artist": "Domenico Modugno",
+      "song": "Nel blu dipinto di blu",
+      "language": "Italiano",
+      "final_place": 3,
+      "points": 13
+    },
+    {
+      "year": 1959,
+      "artist": "Domenico Modugno",
+      "song": "Piove (ciao ciao bambina)",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 9
+    },
+    {
+      "year": 1960,
+      "artist": "Renato Rascel",
+      "song": "Romantica",
+      "language": "Italiano",
+      "final_place": 8,
+      "points": 5
+    },
+    {
+      "year": 1961,
+      "artist": "Betty Curtis",
+      "song": "Al di là",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 12
+    },
+    {
+      "year": 1962,
+      "artist": "Claudio Villa",
+      "song": "Addio addio",
+      "language": "Italiano",
+      "final_place": 9,
+      "points": 3
+    },
+    {
+      "year": 1963,
+      "artist": "Emilio Pericoli",
+      "song": "Uno per tutte",
+      "language": "Italiano",
+      "final_place": 3,
+      "points": 37
+    },
+    {
+      "year": 1964,
+      "artist": "Gigliola Cinquetti",
+      "song": "Non ho l'età (Per amarti)",
+      "language": "Italiano",
+      "final_place": 1,
+      "points": 49
+    },
+    {
+      "year": 1965,
+      "artist": "Bobby Solo",
+      "song": "Se piangi se ridi",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 15
+    },
+    {
+      "year": 1966,
+      "artist": "Domenico Modugno",
+      "song": "Dio, come ti amo",
+      "language": "Italiano",
+      "final_place": 17,
+      "points": 0
+    },
+    {
+      "year": 1967,
+      "artist": "Claudio Villa",
+      "song": "Non andare più lontano",
+      "language": "Italiano",
+      "final_place": 11,
+      "points": 4
+    },
+    {
+      "year": 1968,
+      "artist": "Sergio Endrigo",
+      "song": "Marianne",
+      "language": "Italiano",
+      "final_place": 10,
+      "points": 7
+    },
+    {
+      "year": 1969,
+      "artist": "Iva Zanicchi",
+      "song": "Due grosse lacrime bianche",
+      "language": "Italiano",
+      "final_place": 13,
+      "points": 5
+    },
+    {
+      "year": 1970,
+      "artist": "Gianni Morandi",
+      "song": "Occhi di ragazza",
+      "language": "Italiano",
+      "final_place": 8,
+      "points": 5
+    },
+    {
+      "year": 1971,
+      "artist": "Massimo Ranieri",
+      "song": "L'amore è un attimo",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 91
+    },
+    {
+      "year": 1972,
+      "artist": "Nicola Di Bari",
+      "song": "I giorni dell'arcobaleno",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 92
+    },
+    {
+      "year": 1973,
+      "artist": "Massimo Ranieri",
+      "song": "Chi sarà con te",
+      "language": "Italiano",
+      "final_place": 13,
+      "points": 74
+    },
+    {
+      "year": 1974,
+      "artist": "Gigliola Cinquetti",
+      "song": "Sì",
+      "language": "Italiano",
+      "final_place": 2,
+      "points": 18
+    },
+    {
+      "year": 1975,
+      "artist": "Wess & Dori Ghezzi",
+      "song": "Era",
+      "language": "Italiano",
+      "final_place": 3,
+      "points": 115
+    },
+    {
+      "year": 1976,
+      "artist": "Al Bano & Romina Power",
+      "song": "We'll Live It All Again",
+      "language": "Italiano, inglese",
+      "final_place": 7,
+      "points": 69
+    },
+    {
+      "year": 1977,
+      "artist": "Mia Martini",
+      "song": "Libera",
+      "language": "Italiano",
+      "final_place": 13,
+      "points": 33
+    },
+    {
+      "year": 1978,
+      "artist": "Ricchi e Poveri",
+      "song": "Questo amore",
+      "language": "Italiano",
+      "final_place": 12,
+      "points": 53
+    },
+    {
+      "year": 1979,
+      "artist": "Matia Bazar",
+      "song": "Raggio di luna",
+      "language": "Italiano",
+      "final_place": 15,
+      "points": 27
+    },
+    {
+      "year": 1980,
+      "artist": "Alan Sorrenti",
+      "song": "Non so che darei",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 87
+    },
+    {
+      "year": 1983,
+      "artist": "Riccardo Fogli",
+      "song": "Per Lucia",
+      "language": "Italiano",
+      "final_place": 11,
+      "points": 41
+    },
+    {
+      "year": 1984,
+      "artist": "Alice & Franco Battiato",
+      "song": "I treni di Tozeur",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 70
+    },
+    {
+      "year": 1985,
+      "artist": "Al Bano & Romina Power",
+      "song": "Magic, Oh Magic",
+      "language": "Italiano, inglese",
+      "final_place": 7,
+      "points": 78
+    },
+    {
+      "year": 1987,
+      "artist": "Umberto Tozzi & Raf",
+      "song": "Gente di mare",
+      "language": "Italiano",
+      "final_place": 3,
+      "points": 103
+    },
+    {
+      "year": 1988,
+      "artist": "Luca Barbarossa",
+      "song": "Vivo (Ti scrivo)",
+      "language": "Italiano",
+      "final_place": 12,
+      "points": 52
+    },
+    {
+      "year": 1989,
+      "artist": "Anna Oxa & Fausto Leali",
+      "song": "Avrei voluto",
+      "language": "Italiano",
+      "final_place": 9,
+      "points": 56
+    },
+    {
+      "year": 1990,
+      "artist": "Toto Cutugno",
+      "song": "Insieme: 1992",
+      "language": "Italiano",
+      "final_place": 1,
+      "points": 149
+    },
+    {
+      "year": 1991,
+      "artist": "Peppino di Capri",
+      "song": "Comme è ddoce 'o mare",
+      "language": "Napoletano",
+      "final_place": 7,
+      "points": 89
+    },
+    {
+      "year": 1992,
+      "artist": "Mia Martini",
+      "song": "Rapsodia",
+      "language": "Italiano",
+      "final_place": 4,
+      "points": 111
+    },
+    {
+      "year": 1993,
+      "artist": "Enrico Ruggeri",
+      "song": "Sole d'Europa",
+      "language": "Italiano",
+      "final_place": 12,
+      "points": 45
+    },
+    {
+      "year": 1997,
+      "artist": "Jalisse",
+      "song": "Fiumi di parole",
+      "language": "Italiano",
+      "final_place": 4,
+      "points": 114
+    },
+    {
+      "year": 2011,
+      "artist": "Raphael Gualazzi",
+      "song": "Follia d'amore (Madness of Love)",
+      "language": "Italiano, inglese",
+      "final_place": 2,
+      "points": 189
+    },
+    {
+      "year": 2012,
+      "artist": "Nina Zilli",
+      "song": "L'amore è femmina (Out of Love)",
+      "language": "Inglese, italiano",
+      "final_place": 9,
+      "points": 101
+    },
+    {
+      "year": 2013,
+      "artist": "Marco Mengoni",
+      "song": "L'essenziale",
+      "language": "Italiano",
+      "final_place": 7,
+      "points": 126
+    },
+    {
+      "year": 2014,
+      "artist": "Emma",
+      "song": "La mia città",
+      "language": "Italiano",
+      "final_place": 21,
+      "points": 33
+    },
+    {
+      "year": 2015,
+      "artist": "Il Volo",
+      "song": "Grande amore",
+      "language": "Italiano",
+      "final_place": 3,
+      "points": 292
+    },
+    {
+      "year": 2016,
+      "artist": "Francesca Michielin",
+      "song": "No Degree of Separation",
+      "language": "Italiano, inglese",
+      "final_place": 16,
+      "points": 124
+    },
+    {
+      "year": 2017,
+      "artist": "Francesco Gabbani",
+      "song": "Occidentali's Karma",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 334
+    },
+    {
+      "year": 2018,
+      "artist": "Ermal Meta & Fabrizio Moro",
+      "song": "Non mi avete fatto niente",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 308
+    },
+    {
+      "year": 2019,
+      "artist": "Mahmood",
+      "song": "Soldi",
+      "language": "Italiano",
+      "final_place": 2,
+      "points": 465
+    },
+    {
+      "year": 2020,
+      "artist": "Diodato",
+      "song": "Fai rumore",
+      "language": "Italiano",
+      "final_place": "",
+      "points": ""
+    },
+    {
+      "year": 2021,
+      "artist": "Måneskin",
+      "song": "Zitti e buoni",
+      "language": "Italiano",
+      "final_place": 1,
+      "points": 524
+    },
+    {
+      "year": 2022,
+      "artist": "Mahmood & Blanco",
+      "song": "Brividi",
+      "language": "Italiano",
+      "final_place": 6,
+      "points": 268
+    },
+    {
+      "year": 2023,
+      "artist": "Marco Mengoni",
+      "song": "Due vite",
+      "language": "Italiano",
+      "final_place": 4,
+      "points": 350
+    },
+    {
+      "year": 2024,
+      "artist": "Angelina Mango",
+      "song": "La noia",
+      "language": "Italiano",
+      "final_place": 7,
+      "points": 268
+    },
+    {
+      "year": 2025,
+      "artist": "Lucio Corsi",
+      "song": "Volevo essere un duro",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 256
+    },
+    {
+      "year": 2026,
+      "artist": "Sal Da Vinci",
+      "song": "Per sempre sì",
+      "language": "Italiano",
+      "final_place": 5,
+      "points": 281
+    }
+  ],
+  "meta": {
+    "title": "L'Italia all'Eurovision Song Contest — partecipazioni e risultati - Free Download",
+    "description": "Tutte le partecipazioni dell'Italia all'Eurovision Song Contest dal 1956: anno, artista, canzone, lingua, posizione nella finale e punti ottenuti (nel 1956 i risultati non furono resi noti; l'edizione 2020 fu cancellata). Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "L'Italia all'Eurovision Song Contest — partecipazioni e risultati | ListBase",
+    "seo_description": "Download L'Italia all'Eurovision Song Contest — partecipazioni e risultati — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Italia_all'Eurovision_Song_Contest"
+    ]
+  }
+}
