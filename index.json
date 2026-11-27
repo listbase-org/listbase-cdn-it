@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-26T02:14:03.025Z",
-  "total_datasets": 582,
-  "total_records": 151594,
+  "generated": "2026-11-27T02:15:39.893Z",
+  "total_datasets": 583,
+  "total_records": 151606,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -2202,6 +2202,33 @@
         "xlsx": {
           "name": "it-istituti-zooprofilattici_IT.xlsx",
           "size": 7648
+        }
+      }
+    },
+    {
+      "id": "it-medici-infermieri-posti-letto-per-anno",
+      "name": "Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia",
+      "category": "health",
+      "record_count": 12,
+      "columns": [
+        "year",
+        "physicians_per_100k",
+        "nurses_per_100k",
+        "dentists_per_100k",
+        "pharmacists_per_100k",
+        "hospital_beds_per_100k"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+      "updated": "2026-11",
+      "size": 4796,
+      "files": {
+        "csv": {
+          "name": "it-medici-infermieri-posti-letto-per-anno_IT.csv",
+          "size": 653
+        },
+        "xlsx": {
+          "name": "it-medici-infermieri-posti-letto-per-anno_IT.xlsx",
+          "size": 7248
         }
       }
     },

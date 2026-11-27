@@ -1,0 +1,152 @@
+{
+  "id": "it-medici-infermieri-posti-letto-per-anno",
+  "name": "Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia",
+  "title": "Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia",
+  "description": "Personale sanitario in attività (medici, infermieri, dentisti, farmacisti) e posti letto ospedalieri ogni 100.000 abitanti in Italia, per anno (Eurostat).",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "physicians_per_100k",
+      "label": "Physicians Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "nurses_per_100k",
+      "label": "Nurses Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "dentists_per_100k",
+      "label": "Dentists Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "pharmacists_per_100k",
+      "label": "Pharmacists Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "hospital_beds_per_100k",
+      "label": "Hospital Beds Per 100k",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2013,
+      "physicians_per_100k": 389.5,
+      "nurses_per_100k": 507.4,
+      "dentists_per_100k": 78,
+      "pharmacists_per_100k": 113.5,
+      "hospital_beds_per_100k": 330.7
+    },
+    {
+      "year": 2014,
+      "physicians_per_100k": 391.1,
+      "nurses_per_100k": 531.7,
+      "dentists_per_100k": 78.9,
+      "pharmacists_per_100k": 116.5,
+      "hospital_beds_per_100k": 323.6
+    },
+    {
+      "year": 2015,
+      "physicians_per_100k": 387,
+      "nurses_per_100k": 548.9,
+      "dentists_per_100k": 79,
+      "pharmacists_per_100k": 116.1,
+      "hospital_beds_per_100k": 322.2
+    },
+    {
+      "year": 2016,
+      "physicians_per_100k": 398.6,
+      "nurses_per_100k": 561.5,
+      "dentists_per_100k": 80.8,
+      "pharmacists_per_100k": 116.6,
+      "hospital_beds_per_100k": 319.9
+    },
+    {
+      "year": 2017,
+      "physicians_per_100k": 402.5,
+      "nurses_per_100k": 585,
+      "dentists_per_100k": 82.6,
+      "pharmacists_per_100k": 118.2,
+      "hospital_beds_per_100k": 320.9
+    },
+    {
+      "year": 2018,
+      "physicians_per_100k": 401.3,
+      "nurses_per_100k": 579.4,
+      "dentists_per_100k": 84,
+      "pharmacists_per_100k": 120.2,
+      "hospital_beds_per_100k": 316.9
+    },
+    {
+      "year": 2019,
+      "physicians_per_100k": 405.1,
+      "nurses_per_100k": 615.6,
+      "dentists_per_100k": 87,
+      "pharmacists_per_100k": 125.6,
+      "hospital_beds_per_100k": 316.3
+    },
+    {
+      "year": 2020,
+      "physicians_per_100k": 400.1,
+      "nurses_per_100k": 627.6,
+      "dentists_per_100k": 86.9,
+      "pharmacists_per_100k": 124.2,
+      "hospital_beds_per_100k": 318.6
+    },
+    {
+      "year": 2021,
+      "physicians_per_100k": 542,
+      "nurses_per_100k": 679.5,
+      "dentists_per_100k": 79.7,
+      "pharmacists_per_100k": 136.4,
+      "hospital_beds_per_100k": 312.4
+    },
+    {
+      "year": 2022,
+      "physicians_per_100k": 558.1,
+      "nurses_per_100k": 681.1,
+      "dentists_per_100k": 83,
+      "pharmacists_per_100k": 138.8,
+      "hospital_beds_per_100k": 308.8
+    },
+    {
+      "year": 2023,
+      "physicians_per_100k": 564.5,
+      "nurses_per_100k": 682.7,
+      "dentists_per_100k": 85.3,
+      "pharmacists_per_100k": 139.6,
+      "hospital_beds_per_100k": 304.1
+    },
+    {
+      "year": 2024,
+      "physicians_per_100k": 575.4,
+      "nurses_per_100k": 691.6,
+      "dentists_per_100k": 87.7,
+      "pharmacists_per_100k": 141.1,
+      "hospital_beds_per_100k": 311.7
+    }
+  ],
+  "meta": {
+    "title": "Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia - Free Download",
+    "description": "Personale sanitario in attività (medici, infermieri, dentisti, farmacisti) e posti letto ospedalieri ogni 100.000 abitanti in Italia, per anno (Eurostat). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia | ListBase",
+    "seo_description": "Download Medici, infermieri, dentisti, farmacisti e posti letto ospedalieri per 100.000 abitanti in Italia — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table"
+    ]
+  }
+}
