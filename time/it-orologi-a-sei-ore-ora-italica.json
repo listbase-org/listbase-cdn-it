@@ -1,0 +1,2256 @@
+{
+  "id": "it-orologi-a-sei-ore-ora-italica",
+  "name": "Orologi a sei ore (ora italica) in Italia",
+  "title": "Orologi a sei ore (ora italica) in Italia",
+  "description": "Elenco degli orologi pubblici con quadrante a sei ore, testimonianza del sistema orario italiano (ora italica), per regione, provincia e comune, con luogo e coordinate.",
+  "category": "time",
+  "source": "https://it.wikipedia.org/wiki/Sistema_orario_italiano_a_6_ore",
+  "source_url": "https://it.wikipedia.org/wiki/Sistema_orario_italiano_a_6_ore",
+  "updated": "2026-11",
+  "record_count": 275,
+  "columns": [
+    {
+      "key": "comune",
+      "label": "Comune",
+      "type": "string"
+    },
+    {
+      "key": "luogo",
+      "label": "Luogo",
+      "type": "string"
+    },
+    {
+      "key": "provincia",
+      "label": "Provincia",
+      "type": "string"
+    },
+    {
+      "key": "regione",
+      "label": "Regione",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "comune": "Civitella Alfedena",
+      "luogo": "Chiesa della Madonna del Carmine",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "lat": 41.76539,
+      "lon": 13.94158
+    },
+    {
+      "comune": "Fontecchio",
+      "luogo": "Torre dell’Orologio",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "lat": 42.22944,
+      "lon": 13.60556
+    },
+    {
+      "comune": "Montereale",
+      "luogo": "Torre Civica",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "lat": 42.52253,
+      "lon": 13.24572
+    },
+    {
+      "comune": "Paganica",
+      "luogo": "Chiesa della Madonna del Presepe o del Castello",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "lat": 42.35903,
+      "lon": 13.47306
+    },
+    {
+      "comune": "Poggio Cinolfo (Carsoli)",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "L'Aquila",
+      "regione": "Abruzzo",
+      "lat": 42.11019,
+      "lon": 13.0515
+    },
+    {
+      "comune": "Musellaro (frazione di Bolognano)",
+      "luogo": "Chiesa di Santa Maria del Balzo",
+      "provincia": "Pescara",
+      "regione": "Abruzzo",
+      "lat": 42.19117,
+      "lon": 13.95261
+    },
+    {
+      "comune": "Pietracamela",
+      "luogo": "Chiesa di San Giovanni Battista",
+      "provincia": "Teramo",
+      "regione": "Abruzzo",
+      "lat": 42.52306,
+      "lon": 13.5525
+    },
+    {
+      "comune": "Acerenza",
+      "luogo": "Torre longobarda",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "lat": 40.79678,
+      "lon": 15.93972
+    },
+    {
+      "comune": "Cancellara",
+      "luogo": "Chiesetta di San Rocco",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "lat": 40.73194,
+      "lon": 15.92369
+    },
+    {
+      "comune": "Melfi",
+      "luogo": "Castello di Melfi",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "lat": 40.99833,
+      "lon": 15.65333
+    },
+    {
+      "comune": "Ruvo del Monte",
+      "luogo": "Ingresso al paese",
+      "provincia": "Potenza",
+      "regione": "Basilicata",
+      "lat": 40.8475,
+      "lon": 15.54111
+    },
+    {
+      "comune": "Purgatorio (Avella)",
+      "luogo": "Chiesa di San Ciro",
+      "provincia": "Avellino",
+      "regione": "Campania",
+      "lat": 40.95217,
+      "lon": 14.59081
+    },
+    {
+      "comune": "Amorosi",
+      "luogo": "Chiesa di San Michele Arcangelo (2 orologi)",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.20306,
+      "lon": 14.46194
+    },
+    {
+      "comune": "Ceppaloni",
+      "luogo": "Chiesa di San Nicola Vescovo",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.04667,
+      "lon": 14.75889
+    },
+    {
+      "comune": "Fragneto l'Abate",
+      "luogo": "Casa privata a Vico Orologio",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.25997,
+      "lon": 14.78528
+    },
+    {
+      "comune": "Luzzano, frazione di Moiano",
+      "luogo": "Chiesa di San Nicola Magno",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.06833,
+      "lon": 14.53361
+    },
+    {
+      "comune": "Paduli",
+      "luogo": "Chiesa di San Bartolomeo",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.16444,
+      "lon": 14.88
+    },
+    {
+      "comune": "San Bartolomeo in Galdo",
+      "luogo": "Chiesa dell'Annunziata",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.40917,
+      "lon": 15.01458
+    },
+    {
+      "comune": "San Marco dei Cavoti",
+      "luogo": "Chiesa del Carmine",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.30819,
+      "lon": 14.87597
+    },
+    {
+      "comune": "Santa Croce del Sannio",
+      "luogo": "Chiesa di San Sebastiano",
+      "provincia": "Benevento",
+      "regione": "Campania",
+      "lat": 41.38722,
+      "lon": 14.73306
+    },
+    {
+      "comune": "Caiazzo",
+      "luogo": "Chiesa dell'Immacolata",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 41.17722,
+      "lon": 14.36778
+    },
+    {
+      "comune": "Carinola (frazione Casanova)",
+      "luogo": "Chiesa di San Pietro Apostolo",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 41.19553,
+      "lon": 13.96242
+    },
+    {
+      "comune": "Casolla di Caserta",
+      "luogo": "Chiesa di San Lorenzo Martire",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 41.09458,
+      "lon": 14.3525
+    },
+    {
+      "comune": "Cesa",
+      "luogo": "Chiesa di San Cesario",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 40.96417,
+      "lon": 14.23028
+    },
+    {
+      "comune": "Maddaloni",
+      "luogo": "Villaggio dei Ragazzi",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 41.03972,
+      "lon": 14.38333
+    },
+    {
+      "comune": "Santa Maria a Vico",
+      "luogo": "Villa Puoti",
+      "provincia": "Caserta",
+      "regione": "Campania",
+      "lat": 41.02694,
+      "lon": 14.46461
+    },
+    {
+      "comune": "Anacapri",
+      "luogo": "Chiesa di Santa Sofia",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.55417,
+      "lon": 14.21736
+    },
+    {
+      "comune": "Calvizzano",
+      "luogo": "Chiesa di Santa Maria delle Grazie (2 orologi)",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.90583,
+      "lon": 14.19319
+    },
+    {
+      "comune": "Massa Lubrense, Sant'Agata sui Due Golfi",
+      "luogo": "Chiesa di Santa Maria delle Grazie",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.60806,
+      "lon": 14.3735
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Basilica di Santa Maria della Sanità",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.85958,
+      "lon": 14.24939
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Certosa di San Martino. Orologio nel Chiostro grande",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.84297,
+      "lon": 14.24147
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Chiesa dei Girolamini. Orologio nel campanile sinistro",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.85167,
+      "lon": 14.25861
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Chiesa dei Girolamini. Chiostro grande o degli aranci",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.8525,
+      "lon": 14.25842
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Chiesa di Santa Maria del Soccorso all'Arenella (2 orologi)",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.85389,
+      "lon": 14.23056
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Chiesa di Santa Maria di Montesanto",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.8475,
+      "lon": 14.24583
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Palazzo del Conservatorio dello Spirito Santo. Università Federico II, cortile interno",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.84681,
+      "lon": 14.24889
+    },
+    {
+      "comune": "Napoli",
+      "luogo": "Facciata laterale del Gesù Nuovo",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.84806,
+      "lon": 14.25222
+    },
+    {
+      "comune": "Napoli - Posillipo",
+      "luogo": "Chiesa di Santo Strato",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.80439,
+      "lon": 14.19317
+    },
+    {
+      "comune": "Visciano",
+      "luogo": "Eremo di Santa Maria degli Angeli (Convento dei Camaldoli)",
+      "provincia": "Napoli",
+      "regione": "Campania",
+      "lat": 40.91792,
+      "lon": 14.56722
+    },
+    {
+      "comune": "Bracigliano",
+      "luogo": "Chiesa di San Giovanni Battista",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.82431,
+      "lon": 14.70889
+    },
+    {
+      "comune": "Felitto",
+      "luogo": "Casa del centro storico",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.37414,
+      "lon": 15.24158
+    },
+    {
+      "comune": "Rofrano",
+      "luogo": "Chiesa di Sant’Anna",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.21154,
+      "lon": 15.42705
+    },
+    {
+      "comune": "Rutino",
+      "luogo": "Chiesa di San Michele Arcangelo",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.29986,
+      "lon": 15.07594
+    },
+    {
+      "comune": "Sarno",
+      "luogo": "Chiesa di San Francesco",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.81444,
+      "lon": 14.62
+    },
+    {
+      "comune": "Sieti, frazione di Giffoni Sei Casali",
+      "luogo": "Palazzo Fortunato",
+      "provincia": "Salerno",
+      "regione": "Campania",
+      "lat": 40.74028,
+      "lon": 14.90389
+    },
+    {
+      "comune": "Bologna",
+      "luogo": "Basilica di San Domenico (all'interno, nel transetto laterale destro)",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.48972,
+      "lon": 11.34389
+    },
+    {
+      "comune": "Bologna",
+      "luogo": "Basilica di San Domenico (all'interno, in un corridoio presso la biblioteca)",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.48972,
+      "lon": 11.34389
+    },
+    {
+      "comune": "Bologna",
+      "luogo": "Chiesa di San Giovanni in Monte (all'interno)",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.49083,
+      "lon": 11.91056
+    },
+    {
+      "comune": "Crespellano - Calcara",
+      "luogo": "Villa Bianconi Rusconi Bassi",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.54042,
+      "lon": 11.12869
+    },
+    {
+      "comune": "Zola Predosa",
+      "luogo": "Palazzo Albergati - Orologio NE",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.50499,
+      "lon": 11.2251
+    },
+    {
+      "comune": "Zola Predosa",
+      "luogo": "Palazzo Albergati - Orologio SO",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.50499,
+      "lon": 11.2251
+    },
+    {
+      "comune": "Zola Predosa",
+      "luogo": "Palazzo Albergati - Orologio interno",
+      "provincia": "Bologna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.50499,
+      "lon": 11.2251
+    },
+    {
+      "comune": "Ferrara",
+      "luogo": "Monastero di Sant'Antonio in Polesine (all'interno della chiesa)",
+      "provincia": "Ferrara",
+      "regione": "Emilia-Romagna",
+      "lat": 44.82722,
+      "lon": 11.62397
+    },
+    {
+      "comune": "Portico di Romagna",
+      "luogo": "Torre dell’orologio",
+      "provincia": "Forlì-Cesena",
+      "regione": "Emilia-Romagna",
+      "lat": 44.02542,
+      "lon": 11.78267
+    },
+    {
+      "comune": "Bagnacavallo",
+      "luogo": "Teatro Carlo Goldoni",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.41639,
+      "lon": 11.97806
+    },
+    {
+      "comune": "Brisighella",
+      "luogo": "Palazzo Comunale",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.22389,
+      "lon": 11.77278
+    },
+    {
+      "comune": "Brisighella",
+      "luogo": "Torre dell’orologio (orologio SE)",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.22417,
+      "lon": 11.77361
+    },
+    {
+      "comune": "Brisighella",
+      "luogo": "Torre dell’orologio (orologio SO)",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.22417,
+      "lon": 11.77361
+    },
+    {
+      "comune": "Faenza",
+      "luogo": "Cortile di una casa privata",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": "",
+      "lon": ""
+    },
+    {
+      "comune": "Faenza",
+      "luogo": "Cortile del Seminario Vecchio",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.28583,
+      "lon": 11.88556
+    },
+    {
+      "comune": "Faenza",
+      "luogo": "Teatro comunale Angelo Masini (all'interno)",
+      "provincia": "Ravenna",
+      "regione": "Emilia-Romagna",
+      "lat": 44.28569,
+      "lon": 11.88222
+    },
+    {
+      "comune": "Pieve Saliceto Gualtieri",
+      "luogo": "Chiesa Santissima Annunziata",
+      "provincia": "Reggio nell'Emilia",
+      "regione": "Emilia-Romagna",
+      "lat": 44.90056,
+      "lon": 10.59361
+    },
+    {
+      "comune": "Sassofeltrio",
+      "luogo": "Quadrante in Parco pubblico",
+      "provincia": "Rimini",
+      "regione": "Emilia-Romagna",
+      "lat": 43.89194,
+      "lon": 12.50972
+    },
+    {
+      "comune": "Spilimbergo",
+      "luogo": "Chiesa di San Rocco",
+      "provincia": "Pordenone",
+      "regione": "Friuli-Venezia-Giulia",
+      "lat": 46.11139,
+      "lon": 12.89889
+    },
+    {
+      "comune": "Acquafondata",
+      "luogo": "Chiesa di San Giovanni Battista",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.54333,
+      "lon": 13.95361
+    },
+    {
+      "comune": "Arpino",
+      "luogo": "Piazza del Municipio, dietro la chiesa di San Michele Arcangelo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.64814,
+      "lon": 13.61028
+    },
+    {
+      "comune": "Castro dei Volsci",
+      "luogo": "Torre dell’orologio",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.50903,
+      "lon": 13.40639
+    },
+    {
+      "comune": "Collepardo",
+      "luogo": "Certosa di Trisulti (2 orologi)",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.77972,
+      "lon": 13.39806
+    },
+    {
+      "comune": "Collepardo",
+      "luogo": "Piazza della Libertà, dietro la Chiesa parrocchiale del SS.mo Salvatore",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.76153,
+      "lon": 13.36806
+    },
+    {
+      "comune": "Filettino",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.88944,
+      "lon": 13.32444
+    },
+    {
+      "comune": "Fumone",
+      "luogo": "Chiesa collegiata di Santa Maria Annunziata",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.728,
+      "lon": 13.29075
+    },
+    {
+      "comune": "Isola del Liri",
+      "luogo": "Castello Boncompagni Viscogliosi",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.68028,
+      "lon": 13.57417
+    },
+    {
+      "comune": "Veroli",
+      "luogo": "Concattedrale di Sant’Andrea (all'interno, sopra il coro)",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.69083,
+      "lon": 13.41764
+    },
+    {
+      "comune": "Vico nel Lazio",
+      "luogo": "Torre civica dietro la chiesa di San Michele Arcangelo",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.77722,
+      "lon": 13.34239
+    },
+    {
+      "comune": "Villa Santo Stefano",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Frosinone",
+      "regione": "Lazio",
+      "lat": 41.51672,
+      "lon": 13.30853
+    },
+    {
+      "comune": "Cori",
+      "luogo": "Chiostro del Convento di San Francesco",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "lat": 41.64472,
+      "lon": 12.90861
+    },
+    {
+      "comune": "Prossedi",
+      "luogo": "Portale di accesso al centro storico (davanti) (il quadrante originale a sei ore è stato coperto da uno moderno, ma risulta ancora parzialmente visibile)",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "lat": 41.51678,
+      "lon": 13.26222
+    },
+    {
+      "comune": "Prossedi",
+      "luogo": "Portale di accesso al centro storico (dietro)",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "lat": 41.51678,
+      "lon": 13.26222
+    },
+    {
+      "comune": "San Felice Circeo",
+      "luogo": "Torre dei Templari (Piazza Vittorio Veneto)",
+      "provincia": "Latina",
+      "regione": "Lazio",
+      "lat": 41.23325,
+      "lon": 13.08889
+    },
+    {
+      "comune": "Rieti",
+      "luogo": "Casa privata a Via del Mattonato 28",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.40111,
+      "lon": 12.86222
+    },
+    {
+      "comune": "Borgo Velino",
+      "luogo": "Chiesa di San Matteo",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.40589,
+      "lon": 13.05978
+    },
+    {
+      "comune": "Casperia",
+      "luogo": "Porta Santa Maria",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.33976,
+      "lon": 12.67097
+    },
+    {
+      "comune": "Santa Rufina (Cittaducale)",
+      "luogo": "Chiesa del Santissimo Sacramento",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.40833,
+      "lon": 12.93228
+    },
+    {
+      "comune": "Collalto Sabino",
+      "luogo": "Torre dell’orologio (castello)",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.13717,
+      "lon": 13.04844
+    },
+    {
+      "comune": "Contigliano",
+      "luogo": "Collegiata di San Michele Arcangelo",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.40944,
+      "lon": 12.76639
+    },
+    {
+      "comune": "Fara in Sabina",
+      "luogo": "Agriturismo Santo Pietro",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.20406,
+      "lon": 12.70944
+    },
+    {
+      "comune": "Poggio Mirteto",
+      "luogo": "Torre dell’orologio (2 orologi)",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.26456,
+      "lon": 12.68283
+    },
+    {
+      "comune": "San Polo Sabino (frazione di Tarano)",
+      "luogo": "Torre dell’Orologio",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.33381,
+      "lon": 12.59453
+    },
+    {
+      "comune": "Tarano",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Rieti",
+      "regione": "Lazio",
+      "lat": 42.35622,
+      "lon": 12.59556
+    },
+    {
+      "comune": "Allumiere",
+      "luogo": "Torre del Palazzo Camerale",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.15639,
+      "lon": 11.90139
+    },
+    {
+      "comune": "Anticoli Corrado",
+      "luogo": "Chiesa di Santa Vittoria",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.01033,
+      "lon": 12.98819
+    },
+    {
+      "comune": "Campagnano di Roma",
+      "luogo": "Collegiata di San Giovanni Battista",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.14217,
+      "lon": 12.38403
+    },
+    {
+      "comune": "Canterano",
+      "luogo": "Chiesa di Santa Maria e San Mauro",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.94233,
+      "lon": 13.03736
+    },
+    {
+      "comune": "Capena",
+      "luogo": "Torre dell’Orologio",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.14172,
+      "lon": 12.53675
+    },
+    {
+      "comune": "Casape",
+      "luogo": "Chiesa di San Pietro (Castello Baronale)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.9065,
+      "lon": 12.885
+    },
+    {
+      "comune": "Castel di Decima",
+      "luogo": "Castello di Decima",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.75556,
+      "lon": 12.43889
+    },
+    {
+      "comune": "Castel Gandolfo",
+      "luogo": "Palazzo Pontificio",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.74683,
+      "lon": 12.65028
+    },
+    {
+      "comune": "Castel Madama",
+      "luogo": "Castello Orsini",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.97764,
+      "lon": 12.86961
+    },
+    {
+      "comune": "Cave",
+      "luogo": "Municipio",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.8175,
+      "lon": 12.92861
+    },
+    {
+      "comune": "Ceri, frazione di Cerveteri",
+      "luogo": "Torre del Castello (3 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.99464,
+      "lon": 12.15361
+    },
+    {
+      "comune": "Cervara di Roma",
+      "luogo": "Chiesa di Maria Santissima della Visitazione",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.98856,
+      "lon": 13.06722
+    },
+    {
+      "comune": "Cerveteri",
+      "luogo": "Torre Civica (2 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.99861,
+      "lon": 12.09908
+    },
+    {
+      "comune": "Formello",
+      "luogo": "Santuario della Madonna del Sorbo",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.10528,
+      "lon": 12.4
+    },
+    {
+      "comune": "Frascati",
+      "luogo": "Cattedrale di San Pietro, torre sinistra (2 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.80806,
+      "lon": 12.68094
+    },
+    {
+      "comune": "Frascati",
+      "luogo": "Sacrestia della Cattedrale di San Pietro",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.80806,
+      "lon": 12.68094
+    },
+    {
+      "comune": "Frascati",
+      "luogo": "Biblioteca Diocesana Eboracense",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.80861,
+      "lon": 12.68111
+    },
+    {
+      "comune": "Genazzano",
+      "luogo": "Chiesa di San Nicola di Bari",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.83436,
+      "lon": 12.9735
+    },
+    {
+      "comune": "Guidonia Montecelio",
+      "luogo": "Chiostro dell'ex Convento di San Michele Arcangelo",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.01889,
+      "lon": 12.74167
+    },
+    {
+      "comune": "Magliano Sabina",
+      "luogo": "Cattedrale di San Liberatore",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.36,
+      "lon": 12.48167
+    },
+    {
+      "comune": "Monte Porzio Catone",
+      "luogo": "Duomo di San Gregorio Magno (2 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.81611,
+      "lon": 12.71425
+    },
+    {
+      "comune": "Monte Porzio Catone",
+      "luogo": "Villa Lucidi",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.81292,
+      "lon": 12.70847
+    },
+    {
+      "comune": "Nerola",
+      "luogo": "Castello Orsini",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.16222,
+      "lon": 12.78694
+    },
+    {
+      "comune": "Palombara Sabina",
+      "luogo": "Chiesa del convento di San Francesco (interno)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.05028,
+      "lon": 12.77
+    },
+    {
+      "comune": "Rignano Flaminio",
+      "luogo": "Chiesa dei santi Vincenzo e Anastasio",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.20694,
+      "lon": 12.48556
+    },
+    {
+      "comune": "Rocca Santo Stefano",
+      "luogo": "Chiesa di Santa Maria Assunta (il quadrante originale a sei ore è stato coperto da uno moderno)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91083,
+      "lon": 13.025
+    },
+    {
+      "comune": "San Gregorio da Sassola",
+      "luogo": "Chiesa di San Sebastiano",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91814,
+      "lon": 12.87258
+    },
+    {
+      "comune": "San Vito Romano",
+      "luogo": "Chiesa di San Biagio",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.88333,
+      "lon": 12.98472
+    },
+    {
+      "comune": "Santa Maria di Galeria",
+      "luogo": "Torre dell’orologio (2 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 42.02242,
+      "lon": 12.31689
+    },
+    {
+      "comune": "Segni",
+      "luogo": "Concattedrale di Santa Maria Assunta",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.69286,
+      "lon": 13.02322
+    },
+    {
+      "comune": "Subiaco",
+      "luogo": "Torre Abbaziale (2 orologi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.926,
+      "lon": 13.09456
+    },
+    {
+      "comune": "Subiaco",
+      "luogo": "Sant’Andrea apostolo",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.92406,
+      "lon": 13.09639
+    },
+    {
+      "comune": "Subiaco",
+      "luogo": "Sant’Andrea apostolo (interno)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.92406,
+      "lon": 13.09639
+    },
+    {
+      "comune": "Calcata Vecchia",
+      "luogo": "Campanile del Castello Baronale",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.21664,
+      "lon": 12.41944
+    },
+    {
+      "comune": "Canepina",
+      "luogo": "Museo delle tradizioni popolari (interno)",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.38153,
+      "lon": 12.23028
+    },
+    {
+      "comune": "Canepina",
+      "luogo": "Torretta del Palazzetto Farnese (comune)",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.381,
+      "lon": 12.23361
+    },
+    {
+      "comune": "Caprarola",
+      "luogo": "Palazzo Farnese",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.32844,
+      "lon": 12.23739
+    },
+    {
+      "comune": "Grotte di Castro",
+      "luogo": "Chiesa di San Pietro Apostolo",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.67444,
+      "lon": 11.87278
+    },
+    {
+      "comune": "Sutri",
+      "luogo": "Chiesa di San Silvestro",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.24244,
+      "lon": 12.22278
+    },
+    {
+      "comune": "Vallerano",
+      "luogo": "Chiesa di San Vittore",
+      "provincia": "Viterbo",
+      "regione": "Lazio",
+      "lat": 42.38535,
+      "lon": 12.26528
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Chiesa di Santa Maria dell'Orto (rione Trastevere)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.88667,
+      "lon": 12.47492
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Basilica di Santa Maria in Montesanto (rione Campo Marzio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91,
+      "lon": 12.47625
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Basilica di Sant'Agostino (sacrestia) (rione Campo Marzio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91,
+      "lon": 12.47625
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Chiesa di Sant'Andrea al Quirinale (sacrestia) (rione Monti)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90097,
+      "lon": 12.48931
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Basilica di Sant'Andrea delle Fratte (chiostro) (rione Colonna)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90347,
+      "lon": 12.484
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Chiostro del Monastero dei Camilliani (Chiesa della Maddalena) (rione Colonna)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90036,
+      "lon": 12.47703
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Chiesa di Santa Maria Immacolata a via Veneto (Cimitero dei Cappuccini) (rione Ludovisi)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90483,
+      "lon": 12.48833
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Collegio Romano (rione Pigna)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.898,
+      "lon": 12.48042
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Ospedale di Santo Spirito in Sassia (rione Borgo)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90125,
+      "lon": 12.46153
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo Boncompagni Cerasi (Via del Babuino 51) (rione Campo Marzio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90858,
+      "lon": 12.47889
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo dei Penitenzieri (Via della Conciliazione 139-148) (rione Borgo)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90181,
+      "lon": 12.46103
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo del Quirinale (rione Monti)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90042,
+      "lon": 12.48639
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo Rondinini al Corso (Via del Corso 518-519, cortile) (rione Campo Marzio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90889,
+      "lon": 12.47681
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo Sant’Apollinare (Piazza Sant’Apollinare) (rione Ponte)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90083,
+      "lon": 12.47319
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Basilica di Sant'Apollinare (sacrestia) (rione Ponte)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90083,
+      "lon": 12.47319
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Chiesa di San Gregorio Nazianzeno (rione Campo Marzio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.90194,
+      "lon": 12.47667
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Villa Torlonia, casina presso Limonaia (rione Nomentano)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91306,
+      "lon": 12.51097
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Palazzo Vescovile di Porto, Via Portuense (Fiumicino)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.77589,
+      "lon": 12.26206
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Casa privata a Via Portuense, Largo dei Volontari del sangue",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.86208,
+      "lon": 12.45294
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Basilica di Sant'Andrea della Valle (sacrestia) (rione Sant'Eustachio)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.89667,
+      "lon": 12.47444
+    },
+    {
+      "comune": "Roma",
+      "luogo": "Villa Albani (rione Pinciano)",
+      "provincia": "Roma",
+      "regione": "Lazio",
+      "lat": 41.91472,
+      "lon": 12.50139
+    },
+    {
+      "comune": "Bergamo",
+      "luogo": "Museo donizettiano",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.70333,
+      "lon": 9.66083
+    },
+    {
+      "comune": "Bergamo",
+      "luogo": "Pia Casa d'Industria",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.70556,
+      "lon": 9.66194
+    },
+    {
+      "comune": "Cerete",
+      "luogo": "Chiesa dell'Annunciata",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.86694,
+      "lon": 9.99528
+    },
+    {
+      "comune": "Chiuduno",
+      "luogo": "Chiesa di San Michele",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.6525,
+      "lon": 9.8475
+    },
+    {
+      "comune": "Padergnone (Zanica)",
+      "luogo": "Cortile della Villa di Padergnone",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.6495,
+      "lon": 9.70389
+    },
+    {
+      "comune": "San Giovanni Bianco (frazione Pianca)",
+      "luogo": "Chiesa di Sant'Antonio",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.89556,
+      "lon": 9.63444
+    },
+    {
+      "comune": "Vilminore di Scalve (frazione Pianezza)",
+      "luogo": "Chiesa di San Lorenzo",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 46.00056,
+      "lon": 10.08306
+    },
+    {
+      "comune": "Vilminore di Scalve (frazione Sant'Andrea)",
+      "luogo": "Chiesa di Sant'Andrea",
+      "provincia": "Bergamo",
+      "regione": "Lombardia",
+      "lat": 45.99361,
+      "lon": 10.10361
+    },
+    {
+      "comune": "Ancona",
+      "luogo": "Palazzo degli Anziani",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.62259,
+      "lon": 13.51111
+    },
+    {
+      "comune": "Ancona",
+      "luogo": "Palazzo degli Anziani (orologio interno)",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.62259,
+      "lon": 13.51111
+    },
+    {
+      "comune": "Ancona",
+      "luogo": "Domus Stella Maris",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.60917,
+      "lon": 13.44444
+    },
+    {
+      "comune": "Palazzo (frazione di Arcevia)",
+      "luogo": "Chiesa dei Santi Settimio e Stefano",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.53625,
+      "lon": 12.92125
+    },
+    {
+      "comune": "Candia di Ancona (frazione di Ancona)",
+      "luogo": "Villa Favorita",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.5675,
+      "lon": 13.50861
+    },
+    {
+      "comune": "Chiaravalle",
+      "luogo": "Abbazia di Santa Maria in Castagnola Orologio SO",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.60031,
+      "lon": 13.32626
+    },
+    {
+      "comune": "Chiaravalle",
+      "luogo": "Abbazia di Santa Maria in Castagnola Orologio NE",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.60031,
+      "lon": 13.32626
+    },
+    {
+      "comune": "Cupramontana",
+      "luogo": "Eremo delle Grotte (o dei frati Bianchi)",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.45656,
+      "lon": 13.09639
+    },
+    {
+      "comune": "Falconara Marittima",
+      "luogo": "Castello di Rocca Priora - Orologio esterno",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.64103,
+      "lon": 13.3665
+    },
+    {
+      "comune": "Falconara Marittima",
+      "luogo": "Castello di Rocca Priora - Orologio interno",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.64103,
+      "lon": 13.3665
+    },
+    {
+      "comune": "Gallignano",
+      "luogo": "Porta d'ingresso al centro storico",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.56222,
+      "lon": 13.42369
+    },
+    {
+      "comune": "Jesi",
+      "luogo": "Duomo di San Settimio (campanile)",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.52464,
+      "lon": 13.24583
+    },
+    {
+      "comune": "Jesi",
+      "luogo": "Duomo di San Settimio (interno)",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.52464,
+      "lon": 13.24583
+    },
+    {
+      "comune": "Loreto",
+      "luogo": "Santuario Madonna di Loreto",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.44111,
+      "lon": 13.61
+    },
+    {
+      "comune": "Montemarciano",
+      "luogo": "Chiesa di San Pietro Apostolo",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.63972,
+      "lon": 13.30972
+    },
+    {
+      "comune": "Monterado",
+      "luogo": "Castello di Monterado",
+      "provincia": "Ancona",
+      "regione": "Marche",
+      "lat": 43.69806,
+      "lon": 13.09167
+    },
+    {
+      "comune": "Acquasanta Terme",
+      "luogo": "Chiesa di San Giovanni Battista",
+      "provincia": "Ascoli Piceno",
+      "regione": "Marche",
+      "lat": 42.7695,
+      "lon": 13.41036
+    },
+    {
+      "comune": "Monte San Pietrangeli",
+      "luogo": "Chiesa di San Francesco",
+      "provincia": "Fermo",
+      "regione": "Marche",
+      "lat": 43.19214,
+      "lon": 13.5775
+    },
+    {
+      "comune": "Caldarola",
+      "luogo": "Collegiata di San Martino (Caldarola)",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.13806,
+      "lon": 13.22639
+    },
+    {
+      "comune": "Monte San Martino",
+      "luogo": "Chiesa di San Martino Vescovo - Orologio NE",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.03206,
+      "lon": 13.43739
+    },
+    {
+      "comune": "Monte San Martino",
+      "luogo": "Chiesa di San Martino Vescovo - Orologio NO",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.03206,
+      "lon": 13.43739
+    },
+    {
+      "comune": "Monte San Martino",
+      "luogo": "Chiesa di San Martino Vescovo - Orologio SE",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.03206,
+      "lon": 13.43739
+    },
+    {
+      "comune": "Monte San Martino",
+      "luogo": "Chiesa di San Martino Vescovo - Orologio SO",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.03206,
+      "lon": 13.43739
+    },
+    {
+      "comune": "Porto Recanati",
+      "luogo": "Chiesa del Preziosissimo Sangue",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.43222,
+      "lon": 13.66486
+    },
+    {
+      "comune": "Potenza Picena",
+      "luogo": "Villa Buonaccorsi",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.35694,
+      "lon": 13.66861
+    },
+    {
+      "comune": "San Severino Marche",
+      "luogo": "Torre dell’Orologio (Chiesa della Misericordia)",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.22903,
+      "lon": 13.1795
+    },
+    {
+      "comune": "Tolentino",
+      "luogo": "Torre degli orologi",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 43.20889,
+      "lon": 13.28444
+    },
+    {
+      "comune": "Ussita",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 42.94436,
+      "lon": 13.13694
+    },
+    {
+      "comune": "Visso",
+      "luogo": "Santuario di Macereto",
+      "provincia": "Macerata",
+      "regione": "Marche",
+      "lat": 42.97611,
+      "lon": 13.11556
+    },
+    {
+      "comune": "Cagli",
+      "luogo": "Chiesa di San Domenico (interno)",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.54833,
+      "lon": 12.65056
+    },
+    {
+      "comune": "Cartoceto",
+      "luogo": "Torre dell’Orologio",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.76806,
+      "lon": 12.88278
+    },
+    {
+      "comune": "Cantiano",
+      "luogo": "Chiesa collegiata di San Giovanni Battista",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.47333,
+      "lon": 12.62806
+    },
+    {
+      "comune": "Fano",
+      "luogo": "Santuario della Madonna del Ponte",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.82883,
+      "lon": 13.04944
+    },
+    {
+      "comune": "Macerata Feltria",
+      "luogo": "Torre civica del Castello - Orologio NE",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.80528,
+      "lon": 12.44556
+    },
+    {
+      "comune": "Macerata Feltria",
+      "luogo": "Torre civica del Castello - Orologio SO",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.80528,
+      "lon": 12.44556
+    },
+    {
+      "comune": "Macerata Feltria",
+      "luogo": "Palazzo Antimi Clari",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.80222,
+      "lon": 12.445
+    },
+    {
+      "comune": "Montebello (Orciano di Pesaro)",
+      "luogo": "Chiesa di Sant'Anna",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.70833,
+      "lon": 12.91194
+    },
+    {
+      "comune": "Orciano di Pesaro",
+      "luogo": "Torre civica",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.68842,
+      "lon": 12.96486
+    },
+    {
+      "comune": "Pesaro",
+      "luogo": "Chiesa di Sant'Agostino (interno)",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.91153,
+      "lon": 12.91056
+    },
+    {
+      "comune": "Pesaro",
+      "luogo": "Chiesa di San Giovanni Battista (interno)",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.90944,
+      "lon": 12.90667
+    },
+    {
+      "comune": "Pesaro",
+      "luogo": "Villa Caprile - Grotta del Diavolo",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.9125,
+      "lon": 12.88139
+    },
+    {
+      "comune": "San Lorenzo in Campo",
+      "luogo": "Palazzo della Rovere - Orologio NE",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.60456,
+      "lon": 12.94508
+    },
+    {
+      "comune": "San Lorenzo in Campo",
+      "luogo": "Palazzo della Rovere - Orologio SO",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.60456,
+      "lon": 12.94508
+    },
+    {
+      "comune": "Sant'Angelo in Lizzola",
+      "luogo": "Chiesa di San Michele Arcangelo",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.82722,
+      "lon": 12.8025
+    },
+    {
+      "comune": "Calduca di Urbino",
+      "luogo": "Residenza padronale con torretta belvedere",
+      "provincia": "Pesaro e Urbino",
+      "regione": "Marche",
+      "lat": 43.78222,
+      "lon": 12.67236
+    },
+    {
+      "comune": "Cercemaggiore",
+      "luogo": "Orologio dell'Università alla Casa dei Cirelli",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "lat": 41.46083,
+      "lon": 14.72056
+    },
+    {
+      "comune": "Montemitro",
+      "luogo": "Campanile della Chiesa di Santa Lucia",
+      "provincia": "Campobasso",
+      "regione": "Molise",
+      "lat": 41.89028,
+      "lon": 14.64539
+    },
+    {
+      "comune": "Castel San Vincenzo",
+      "luogo": "Chiesa di Santo Stefano",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.65592,
+      "lon": 14.06542
+    },
+    {
+      "comune": "Forlì del Sannio",
+      "luogo": "Chiesa di San Biagio",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.69575,
+      "lon": 14.1775
+    },
+    {
+      "comune": "Pizzone",
+      "luogo": "Chiesa di San Nicola di Bari",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.66725,
+      "lon": 14.03503
+    },
+    {
+      "comune": "Roccapipirozzi",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.4375,
+      "lon": 14.03333
+    },
+    {
+      "comune": "Rocchetta a Volturno",
+      "luogo": "Chiesa di Santa Maria Assunta",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.62828,
+      "lon": 14.06889
+    },
+    {
+      "comune": "Sant'Agapito",
+      "luogo": "Chiesa di San Nicola di Bari",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.54458,
+      "lon": 14.22306
+    },
+    {
+      "comune": "San Vittorino, frazione di Cerro al Volturno",
+      "luogo": "Cappella di Sant’Antonio Abate",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.66722,
+      "lon": 14.10444
+    },
+    {
+      "comune": "Castelpizzuto",
+      "luogo": "Chiesa di San Sebastiano",
+      "provincia": "Isernia",
+      "regione": "Molise",
+      "lat": 41.52186,
+      "lon": 14.29186
+    },
+    {
+      "comune": "Cardè",
+      "luogo": "Chiesa parrocchiale di Santa Caterina",
+      "provincia": "Cuneo",
+      "regione": "Piemonte",
+      "lat": 44.74622,
+      "lon": 7.47825
+    },
+    {
+      "comune": "Bovino",
+      "luogo": "Torre dell'orologio del Castello Ducale",
+      "provincia": "Foggia",
+      "regione": "Puglia",
+      "lat": 41.25139,
+      "lon": 15.33917
+    },
+    {
+      "comune": "Caccamo",
+      "luogo": "Duomo di San Giorgio Martire",
+      "provincia": "Palermo",
+      "regione": "Sicilia",
+      "lat": 37.93122,
+      "lon": 13.66111
+    },
+    {
+      "comune": "Arezzo",
+      "luogo": "Convitto Nazionale Vittorio Emanuele II",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.46583,
+      "lon": 11.88111
+    },
+    {
+      "comune": "Lucignano",
+      "luogo": "Palazzo Comunale",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.27447,
+      "lon": 11.74639
+    },
+    {
+      "comune": "Prato di Strada (frazione di Castel San Niccolò)",
+      "luogo": "Pieve di San Giovanni Battista",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.73544,
+      "lon": 11.69364
+    },
+    {
+      "comune": "Rassina, frazione di Castel Focognano",
+      "luogo": "Ex Palazzo Comunale",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.65194,
+      "lon": 11.83667
+    },
+    {
+      "comune": "Sant'Andrea di Sorbello (frazione di Cortona)",
+      "luogo": "Castello di Sorbello - Sala della Giustizia",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.27583,
+      "lon": 12.19889
+    },
+    {
+      "comune": "Stia",
+      "luogo": "Pieve di Santa Maria Assunta",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.80106,
+      "lon": 11.70661
+    },
+    {
+      "comune": "Castel San Niccolò (Strada in Casentino)",
+      "luogo": "Torre del Castello - Orologio ovest",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.74028,
+      "lon": 11.70639
+    },
+    {
+      "comune": "Castel San Niccolò (Strada in Casentino)",
+      "luogo": "Torre del Castello - Orologio nord",
+      "provincia": "Arezzo",
+      "regione": "Toscana",
+      "lat": 43.74028,
+      "lon": 11.70639
+    },
+    {
+      "comune": "Firenze",
+      "luogo": "Cortile del Palazzo Arcivescovile",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "lat": 43.77306,
+      "lon": 11.25417
+    },
+    {
+      "comune": "Cerreto Guidi",
+      "luogo": "Pieve di San Leonardo",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "lat": 43.75889,
+      "lon": 10.87917
+    },
+    {
+      "comune": "Incisa in Val d'Arno",
+      "luogo": "Chiesa dei Santi Cosma e Damiano al Vivaio",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "lat": 43.65556,
+      "lon": 11.44833
+    },
+    {
+      "comune": "Pontassieve",
+      "luogo": "Villa Martelli di Gricigliano",
+      "provincia": "Firenze",
+      "regione": "Toscana",
+      "lat": 43.80417,
+      "lon": 11.38
+    },
+    {
+      "comune": "Bolognana (frazione di Gallicano)",
+      "luogo": "Chiesa di Santa Margherita",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 44.04083,
+      "lon": 10.47056
+    },
+    {
+      "comune": "Camaiore",
+      "luogo": "Pieve di Santo Stefano (Camaiore)",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.93069,
+      "lon": 10.32833
+    },
+    {
+      "comune": "Capannori",
+      "luogo": "Villa Reale di Marlia",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.89986,
+      "lon": 10.55617
+    },
+    {
+      "comune": "Colognora di Pescaglia",
+      "luogo": "Chiesa dei Santi Michele e Caterina",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.98286,
+      "lon": 10.46278
+    },
+    {
+      "comune": "Fiano di Pescaglia",
+      "luogo": "Torre davanti alla chiesa di San Pietro apostolo",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.94056,
+      "lon": 10.42583
+    },
+    {
+      "comune": "Fornaro di Pescaglia",
+      "luogo": "Chiesa dei Santi Pietro e Paolo",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.96567,
+      "lon": 10.41444
+    },
+    {
+      "comune": "Gombitelli (frazione di Camaiore)",
+      "luogo": "Chiesa di San Michele Arcangelo",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 43.92056,
+      "lon": 10.37483
+    },
+    {
+      "comune": "Pruno",
+      "luogo": "Chiesa di San Niccolò",
+      "provincia": "Lucca",
+      "regione": "Toscana",
+      "lat": 44.00878,
+      "lon": 10.31
+    },
+    {
+      "comune": "Calci",
+      "luogo": "Certosa di Calci (Porta d’ingresso alla cella priorale)",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "lat": 43.72194,
+      "lon": 10.52306
+    },
+    {
+      "comune": "Palaia",
+      "luogo": "Villa Saletta",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "lat": 43.59528,
+      "lon": 10.73444
+    },
+    {
+      "comune": "Pisa",
+      "luogo": "Chiostro del Convento di San Matteo in Soarta",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "lat": 43.71422,
+      "lon": 10.40778
+    },
+    {
+      "comune": "Santa Croce sull'Arno",
+      "luogo": "Villa Vettori Guerrini",
+      "provincia": "Pisa",
+      "regione": "Toscana",
+      "lat": 43.74389,
+      "lon": 10.75306
+    },
+    {
+      "comune": "Baggio (Pistoia)",
+      "luogo": "Chiesa di San Michele Arcangelo",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "lat": 43.99011,
+      "lon": 10.96333
+    },
+    {
+      "comune": "Fibbialla (Pescia)",
+      "luogo": "Chiesa di San Michele",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "lat": 43.94722,
+      "lon": 10.68944
+    },
+    {
+      "comune": "Montecatini alto",
+      "luogo": "Torre dell’orologio o del Carmine",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "lat": 43.89433,
+      "lon": 10.78972
+    },
+    {
+      "comune": "Montevettolini",
+      "luogo": "Torre campanaria della Chiesa di San Michele Arcangelo",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "lat": 43.85861,
+      "lon": 10.84611
+    },
+    {
+      "comune": "Sambuca Pistoiese",
+      "luogo": "Torre campanaria della Chiesa dei Santi Giacomo e Cristoforo",
+      "provincia": "Pistoia",
+      "regione": "Toscana",
+      "lat": 44.10583,
+      "lon": 10.995
+    },
+    {
+      "comune": "Prato",
+      "luogo": "Duomo di Santo Stefano",
+      "provincia": "Prato",
+      "regione": "Toscana",
+      "lat": 43.88222,
+      "lon": 11.0975
+    },
+    {
+      "comune": "Cetona",
+      "luogo": "Torre medievale a Piazza Garibaldi",
+      "provincia": "Siena",
+      "regione": "Toscana",
+      "lat": 42.96375,
+      "lon": 11.90056
+    },
+    {
+      "comune": "Perugia",
+      "luogo": "Basilica di San Pietro",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.10222,
+      "lon": 12.39528
+    },
+    {
+      "comune": "Cascia",
+      "luogo": "Torre dell'orologio",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 42.71806,
+      "lon": 13.01333
+    },
+    {
+      "comune": "Fogliano (frazione di Cascia)",
+      "luogo": "Chiesa di Sant'Ippolito",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 42.7325,
+      "lon": 13.04694
+    },
+    {
+      "comune": "Città di Castello",
+      "luogo": "Palazzo del Podestà",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.4575,
+      "lon": 12.24028
+    },
+    {
+      "comune": "Città di Castello",
+      "luogo": "Palazzo del Monte di Pietà",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.45667,
+      "lon": 12.24028
+    },
+    {
+      "comune": "Città di Castello",
+      "luogo": "Biblioteca del Seminario vescovile",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.46,
+      "lon": 12.23611
+    },
+    {
+      "comune": "Città di Castello",
+      "luogo": "Ex ospedale (via Guglielmo Oberdan)",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.45528,
+      "lon": 12.2395
+    },
+    {
+      "comune": "Città di Castello",
+      "luogo": "Hotel Villa San Donino",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.42278,
+      "lon": 12.27453
+    },
+    {
+      "comune": "Gualdo Tadino",
+      "luogo": "Castello di Crocicchio",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.26953,
+      "lon": 12.71592
+    },
+    {
+      "comune": "Montecorona - Umbertide",
+      "luogo": "Abbazia di San Salvatore di Montecorona - Orologio NE",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.28389,
+      "lon": 12.35556
+    },
+    {
+      "comune": "Montecorona - Umbertide",
+      "luogo": "Abbazia di San Salvatore di Montecorona - Orologio SO",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.28389,
+      "lon": 12.35556
+    },
+    {
+      "comune": "Canonica (frazione di Todi)",
+      "luogo": "Eremo di Sant'Angelo",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 42.78667,
+      "lon": 12.35014
+    },
+    {
+      "comune": "Pantalla (frazione di Todi)",
+      "luogo": "Castello di Pantalla",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 42.87472,
+      "lon": 12.40611
+    },
+    {
+      "comune": "San Giustino",
+      "luogo": "Castello Bufalini - Orologio NE",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.54911,
+      "lon": 12.17733
+    },
+    {
+      "comune": "San Giustino",
+      "luogo": "Castello Bufalini - Orologio NO",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.54911,
+      "lon": 12.17733
+    },
+    {
+      "comune": "San Giustino",
+      "luogo": "Castello Bufalini - Orologio SE",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.54911,
+      "lon": 12.17733
+    },
+    {
+      "comune": "San Giustino",
+      "luogo": "Castello Bufalini - Orologio SO",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 43.54911,
+      "lon": 12.17733
+    },
+    {
+      "comune": "Terraia (frazione di Spoleto)",
+      "luogo": "Villa Pianciani",
+      "provincia": "Perugia",
+      "regione": "Umbria",
+      "lat": 42.78642,
+      "lon": 12.69472
+    },
+    {
+      "comune": "Amelia",
+      "luogo": "Chiesa di San Michele Arcangelo",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.55794,
+      "lon": 12.41083
+    },
+    {
+      "comune": "Casteldilago (frazione di Arrone)",
+      "luogo": "Chiesa di San Valentino",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.57878,
+      "lon": 12.75972
+    },
+    {
+      "comune": "Collescipoli",
+      "luogo": "Collegiata di Santa Maria Maggiore (Orologio campanile)",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.53675,
+      "lon": 12.61956
+    },
+    {
+      "comune": "Collescipoli",
+      "luogo": "Collegiata di Santa Maria Maggiore (Orologio sacrestia)",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.53675,
+      "lon": 12.61956
+    },
+    {
+      "comune": "Narni",
+      "luogo": "Cella dei condannati dal Sant'Uffizio (Narni Sotterranea)",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.52,
+      "lon": 12.51431
+    },
+    {
+      "comune": "Montoro (frazione di Narni)",
+      "luogo": "Castello di Montoro (2 orologi)",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.50514,
+      "lon": 12.46917
+    },
+    {
+      "comune": "Penna in Teverina",
+      "luogo": "Piazza San Valentino",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.49389,
+      "lon": 12.35444
+    },
+    {
+      "comune": "San Gemini",
+      "luogo": "Palazzo Pretorio",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.61444,
+      "lon": 12.54722
+    },
+    {
+      "comune": "Torre Orsina",
+      "luogo": "Casino Manassei",
+      "provincia": "Terni",
+      "regione": "Umbria",
+      "lat": 42.57194,
+      "lon": 12.73467
+    },
+    {
+      "comune": "Venezia",
+      "luogo": "Palazzo Ducale, sala dell’Avogaria",
+      "provincia": "Venezia",
+      "regione": "Veneto",
+      "lat": 45.434,
+      "lon": 12.34036
+    }
+  ],
+  "meta": {
+    "title": "Orologi a sei ore (ora italica) in Italia - Free Download",
+    "description": "Elenco degli orologi pubblici con quadrante a sei ore, testimonianza del sistema orario italiano (ora italica), per regione, provincia e comune, con luogo e coordinate. Contains 275 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Orologi a sei ore (ora italica) in Italia | ListBase",
+    "seo_description": "Download Orologi a sei ore (ora italica) in Italia — 275 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 275 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://it.wikipedia.org/wiki/Sistema_orario_italiano_a_6_ore"
+    ]
+  }
+}

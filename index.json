@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-27T02:15:39.893Z",
-  "total_datasets": 583,
-  "total_records": 151606,
+  "generated": "2026-11-27T02:15:51.826Z",
+  "total_datasets": 584,
+  "total_records": 151881,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -17928,6 +17928,33 @@
         "xlsx": {
           "name": "it-ora-legale-risparmio-energetico_IT.xlsx",
           "size": 7791
+        }
+      }
+    },
+    {
+      "id": "it-orologi-a-sei-ore-ora-italica",
+      "name": "Orologi a sei ore (ora italica) in Italia",
+      "category": "time",
+      "record_count": 275,
+      "columns": [
+        "comune",
+        "luogo",
+        "provincia",
+        "regione",
+        "lat",
+        "lon"
+      ],
+      "source": "https://it.wikipedia.org/wiki/Sistema_orario_italiano_a_6_ore",
+      "updated": "2026-11",
+      "size": 57380,
+      "files": {
+        "csv": {
+          "name": "it-orologi-a-sei-ore-ora-italica_IT.csv",
+          "size": 26125
+        },
+        "xlsx": {
+          "name": "it-orologi-a-sei-ore-ora-italica_IT.xlsx",
+          "size": 20689
         }
       }
     },
