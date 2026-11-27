@@ -1,8 +1,8 @@
 {
   "lang": "it",
-  "generated": "2026-11-27T02:15:51.826Z",
-  "total_datasets": 584,
-  "total_records": 151881,
+  "generated": "2026-11-27T02:16:02.719Z",
+  "total_datasets": 585,
+  "total_records": 151901,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -17820,6 +17820,32 @@
         "xlsx": {
           "name": "it-supercomputer-cineca_IT.xlsx",
           "size": 8837
+        }
+      }
+    },
+    {
+      "id": "it-uso-di-internet-per-anno",
+      "name": "Accesso e uso di Internet in Italia per anno",
+      "category": "tech",
+      "record_count": 20,
+      "columns": [
+        "year",
+        "households_with_internet_pct",
+        "used_internet_last_3_months_pct",
+        "never_used_internet_pct",
+        "daily_internet_users_pct"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ifp_iu/default/table",
+      "updated": "2026-11",
+      "size": 6106,
+      "files": {
+        "csv": {
+          "name": "it-uso-di-internet-per-anno_IT.csv",
+          "size": 894
+        },
+        "xlsx": {
+          "name": "it-uso-di-internet-per-anno_IT.xlsx",
+          "size": 7452
         }
       }
     },
